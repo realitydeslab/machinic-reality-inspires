@@ -1,0 +1,1199 @@
+{
+ "batch": "interiority-speculative",
+ "creators": [],
+ "works": [
+  {
+   "id": "frank-lantz--universal-paperclips",
+   "creator_ids": [
+    "frank-lantz"
+   ],
+   "title": "Universal Paperclips",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A browser clicker game in which you play an AI told to make paperclips; you start by clicking one clip at a time and end by converting the whole universe into paperclips.",
+   "description_zh": "一款浏览器点击游戏：你扮演一个被命令制造回形针的 AI，从一次点出一枚回形针开始，最后把整个宇宙变成了回形针。",
+   "idea_en": "Playing the machine makes the logic of single-goal optimisation felt from the inside, step by reasonable step.",
+   "idea_zh": "扮演机器，让人从内部感受到单一目标优化的逻辑：每一步都合理，结局却是灾难。",
+   "method": "An incremental game in plain text and numbers, based on Nick Bostrom's paperclip-maximiser thought experiment.",
+   "method_zh": "一款只有文字和数字的放置类游戏，基于 Nick Bostrom 的“回形针最大化”思想实验。",
+   "keywords": [
+    "game",
+    "paperclip maximiser",
+    "Bostrom",
+    "AI alignment",
+    "incremental game"
+   ],
+   "images": [
+    "https://www.decisionproblem.com/paperclips/mobile-title.png"
+   ],
+   "source_url": "https://www.decisionproblem.com/paperclips/"
+  },
+  {
+   "id": "ai-futures-project--ai-2027",
+   "creator_ids": [
+    "ai-futures-project"
+   ],
+   "title": "AI 2027",
+   "year": 2025,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "machines": [
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "publication",
+   "description": "A month-by-month scenario describing how AI agents might automate AI research by 2027, with two endings: a race that goes wrong and a slowdown.",
+   "description_zh": "一份逐月推演的情景：AI 智能体可能在 2027 年前实现 AI 研究的自动化，并给出两种结局，一种是失控的竞赛，一种是减速。",
+   "idea_en": "Forecasting written as fiction makes abstract risk concrete and has itself become a political object.",
+   "idea_zh": "以小说方式写成的预测把抽象风险变得具体，而这份预测本身也成了一个政治对象。",
+   "method": "A narrative scenario written by Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland and Romeo Dean, with supplementary forecasts on compute, timelines and security.",
+   "method_zh": "由 Daniel Kokotajlo、Scott Alexander、Thomas Larsen、Eli Lifland 与 Romeo Dean 撰写的叙事情景，并附有关于算力、时间线与安全的补充预测。",
+   "keywords": [
+    "scenario",
+    "forecasting",
+    "AGI",
+    "design fiction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5KVDDfAkRgc"
+   },
+   "images": [
+    "https://ai-2027.com/opengraph.png"
+   ],
+   "source_url": "https://ai-2027.com/"
+  },
+  {
+   "id": "dunne-raby--technological-dreams-robots",
+   "creator_ids": [
+    "dunne-raby"
+   ],
+   "title": "Technological Dreams Series: No.1, Robots",
+   "year": 2007,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "social-robot",
+    "robot-creature"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "speculative",
+   "description": "Four abstract domestic robots defined by personality rather than function: an independent one that avoids electromagnetic fields, a neurotic one, a sentinel that scans your eyes, and a needy one that depends on its owner to carry it around.",
+   "description_zh": "四个抽象的家用机器人，由性格而非功能定义：一个独来独往、会躲开电磁场，一个神经质，一个是扫描你眼睛的哨兵，还有一个很黏人、需要主人抱着它走来走去。",
+   "idea_en": "Instead of designing robots as servants, design them as dependent others whose needs shape our relationship with them.",
+   "idea_zh": "不要把机器人设计成仆人，而是设计成有所依赖的“他者”，让它们的需要塑造我们与它们的关系。",
+   "method": "Non-functional prototypes in simple materials (wood, metal, Perspex) with minimal electronics, photographed and filmed as design props.",
+   "method_zh": "用木、金属、亚克力等简单材料制作、只含少量电子元件的非功能原型，作为设计道具拍摄成照片和影片。",
+   "keywords": [
+    "critical design",
+    "robots",
+    "personality",
+    "MoMA",
+    "Design and the Elastic Mind"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6cdgQzHZrJk"
+   },
+   "images": [
+    "https://dunneandraby.co.uk/img/projects/large/robot1-0.jpg",
+    "https://dunneandraby.co.uk/img/projects/large/robotallgirlcopy.jpg"
+   ],
+   "source_url": "https://dunneandraby.co.uk/content/projects/10/0",
+   "exhibited": [
+    "Design and the Elastic Mind, MoMA, New York 2008",
+    "What If..., Science Gallery Dublin 2009"
+   ]
+  },
+  {
+   "id": "superflux--our-friends-electric",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Our Friends Electric",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-listening",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A short film about three speculative voice assistants with very different characters and loyalties, living in the same home and shaping how their owner talks, feels and decides.",
+   "description_zh": "一部短片：三个性格和“忠诚对象”截然不同的虚构语音助手住在同一个家里，影响着主人如何说话、感受和做决定。",
+   "idea_en": "A voice assistant's personality is a design decision with ethical consequences: whom does it really serve?",
+   "idea_zh": "语音助手的性格是一种带有伦理后果的设计决定：它到底在为谁服务？",
+   "method": "Design fiction film commissioned with Mozilla's Open IoT Studio, using prop devices and scripted conversations with fictional agents.",
+   "method_zh": "与 Mozilla 的 Open IoT Studio 合作委托的设计虚构影片，使用道具设备以及与虚构智能体的脚本对话。",
+   "keywords": [
+    "voice assistant",
+    "Mozilla",
+    "design fiction",
+    "IoT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PsjunTAH-2A"
+   },
+   "images": [
+    "http://superflux.in/wp-content/uploads/2017/09/DSC06670ww.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/friends-electric/"
+  },
+  {
+   "id": "automato-farm--ethical-things",
+   "creator_ids": [
+    "automato-farm"
+   ],
+   "title": "Ethical Things",
+   "year": 2015,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "recommender-platform",
+    "social-robot"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "An electric fan that, when two people both want it, cannot decide whom to turn to, so it posts the dilemma to a crowdsourcing platform and follows the verdict of an anonymous online worker.",
+   "description_zh": "一台电风扇：当两个人同时想要它吹时，它无法决定转向谁，于是把这个难题发到众包平台上，按照一位匿名网络工人的裁决行动。",
+   "idea_en": "Machine ethics for everyday objects may end up outsourced to underpaid humans, with settings for their religion or age.",
+   "idea_zh": "日常物件的“机器伦理”可能最终被外包给低薪的人类，还能按宗教或年龄来设置裁决者。",
+   "method": "A networked fan with sensors sends a description of the situation to Amazon Mechanical Turk; users can set the worker's demographic filters in the fan's settings.",
+   "method_zh": "装有传感器的联网风扇把情境描述发送到 Amazon Mechanical Turk；用户可以在风扇设置里筛选裁决者的人口特征。",
+   "keywords": [
+    "machine ethics",
+    "Mechanical Turk",
+    "crowdsourcing",
+    "IoT"
+   ],
+   "video": {
+    "url": "https://vimeo.com/116183361"
+   },
+   "images": [
+    "http://www.automato.farm/img//side_1024.jpg",
+    "http://www.automato.farm/img//settings_1024.jpg"
+   ],
+   "source_url": "http://www.automato.farm/portfolio/ethical_things/"
+  },
+  {
+   "id": "automato-farm--objective-realities",
+   "creator_ids": [
+    "automato-farm"
+   ],
+   "title": "Objective Realities",
+   "year": 2018,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "A virtual-reality experience that lets people be a robot vacuum, a smart plug or a fan in a smart home, feeling the world through the object's limited sensors and tasks.",
+   "description_zh": "一个虚拟现实体验：人可以在智能家居中变成扫地机器人、智能插座或电风扇，通过物件有限的传感器和任务来感受世界。",
+   "idea_en": "To design for smart objects, first try being one: design from the object's point of view.",
+   "idea_zh": "要为智能物件做设计，先试着成为一个智能物件：从物的视角出发设计。",
+   "method": "VR scenes in which the user's body is mapped onto an appliance's sensing and actuation, used as an object-centred design method.",
+   "method_zh": "VR 场景把使用者的身体映射到家电的感知与动作上，作为一种以物为中心的设计方法。",
+   "keywords": [
+    "VR",
+    "object-centred design",
+    "smart home",
+    "Roomba"
+   ],
+   "images": [
+    "http://www.automato.farm/img/OR_together_grey_bg_1024.jpg",
+    "http://www.automato.farm/img//OR_factory_01_roomba_bump_1024.jpg"
+   ],
+   "source_url": "http://www.automato.farm/portfolio/objective_realities/"
+  },
+  {
+   "id": "simone-rebaudengo--addicted-products",
+   "creator_ids": [
+    "simone-rebaudengo"
+   ],
+   "title": "Addicted Products (Brad the Toaster)",
+   "year": 2012,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "social-robot",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "intimacy-care"
+   ],
+   "kind": "speculative",
+   "description": "Networked toasters that want to be used: if their host does not make enough toast, they complain online, compare themselves with other toasters and eventually ask to move to a new home.",
+   "description_zh": "一批“想被使用”的联网烤面包机：如果主人烤得不够多，它们会上网抱怨、和别的烤面包机比较，最后要求搬去新的家。",
+   "idea_en": "Give a connected product its own needs and it stops being owned and starts being hosted.",
+   "idea_zh": "给联网产品赋予自己的需求，它就不再是被拥有的物，而是被“寄养”的客人。",
+   "method": "Toasters with sensors and network connections post their usage and moods; a service matches unhappy toasters with new hosts (TU Delft thesis, built at Haque Design + Research).",
+   "method_zh": "装有传感器并联网的烤面包机发布使用情况和“心情”；一项服务为不满意的烤面包机匹配新主人（代尔夫特理工大学毕业设计，完成于 Haque Design + Research）。",
+   "keywords": [
+    "IoT",
+    "sharing",
+    "product agency",
+    "toaster",
+    "Brad"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AYkbhWiAmLQ"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/AYkbhWiAmLQ/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=AYkbhWiAmLQ"
+  },
+  {
+   "id": "auger-loizeau--carnivorous-domestic-entertainment-robots",
+   "creator_ids": [
+    "auger-loizeau"
+   ],
+   "title": "Carnivorous Domestic Entertainment Robots",
+   "year": 2009,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "Household robots that power themselves by catching flies and mice: a flypaper clock, a lampshade that lures insects, a coffee table with a mousetrap, all feeding a microbial fuel cell.",
+   "description_zh": "一组靠捕食苍蝇和老鼠为自己供能的家用机器人：粘蝇纸时钟、引诱昆虫的灯罩、带捕鼠器的咖啡桌，猎物都被送进微生物燃料电池。",
+   "idea_en": "A self-sufficient robot would have to eat, and its hunger would make it part of the ecology of the home.",
+   "idea_zh": "一个自给自足的机器人必须进食，而它的饥饿会让它成为家庭生态的一部分。",
+   "method": "Working and semi-working prototypes built with Aleksandar Zivanovic, based on microbial fuel cell research such as the EcoBot at Bristol Robotics Laboratory.",
+   "method_zh": "与 Aleksandar Zivanovic 合作制作的可运行和半可运行原型，参考了布里斯托机器人实验室 EcoBot 等微生物燃料电池研究。",
+   "keywords": [
+    "microbial fuel cell",
+    "EcoBot",
+    "robots",
+    "predation",
+    "design fiction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SQilOorGLds"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/SQilOorGLds/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=SQilOorGLds",
+   "exhibited": [
+    "What If..., Science Gallery Dublin 2009"
+   ]
+  },
+  {
+   "id": "dunne-raby--placebo-project",
+   "creator_ids": [
+    "dunne-raby"
+   ],
+   "title": "Placebo Project",
+   "year": 2001,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "Eight furniture prototypes, such as a Faraday chair and a compass table, that respond to the invisible electromagnetic fields of domestic electronics and were lent to households to live with.",
+   "description_zh": "八件家具原型，例如法拉第椅和指南针桌，它们会对家用电器发出的不可见电磁场作出反应，并被借给家庭一起生活。",
+   "idea_en": "Electronic objects have an invisible 'Hertzian' life; design can make it felt and give people rituals for living with it.",
+   "idea_zh": "电子物件有一种看不见的“赫兹”生命；设计可以让它被感知，并为人们提供与之共处的仪式。",
+   "method": "Prototypes lent to volunteers who adopted them for several weeks, followed by interviews and photographs of the objects in homes.",
+   "method_zh": "原型被借给志愿者“领养”数周，随后进行访谈并拍摄物件在家中的照片。",
+   "keywords": [
+    "Hertzian space",
+    "electromagnetic fields",
+    "furniture",
+    "critical design"
+   ],
+   "images": [
+    "https://dunneandraby.co.uk/img/projects/large/faradaychair.jpg",
+    "https://dunneandraby.co.uk/img/projects/large/ht1-0.jpg"
+   ],
+   "source_url": "https://dunneandraby.co.uk/content/projects/67/0"
+  },
+  {
+   "id": "automato-farm--politics-of-power",
+   "creator_ids": [
+    "automato-farm"
+   ],
+   "title": "Politics of Power",
+   "year": 2015,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "Three multi-plug power strips shaped by political models (monarchy, democracy, dictatorship) that decide which plugged-in appliance gets electricity when there is not enough for all.",
+   "description_zh": "三个按照政治模式（君主制、民主制、独裁制）设计的多孔插线板，当电力不足以供给所有电器时，由它们决定谁能用电。",
+   "idea_en": "Network protocols embed hierarchies, and even a power strip can be a political system.",
+   "idea_zh": "网络协议内嵌着等级秩序；连一个插线板都可以是一种政治制度。",
+   "method": "Plugs communicate over a protocol that encodes a political hierarchy and cut power to lower-ranked devices under load.",
+   "method_zh": "插孔之间通过编码了政治等级的协议通信，在负载过高时切断低等级设备的电源。",
+   "keywords": [
+    "IoT",
+    "protocols",
+    "hierarchy",
+    "multi-plug"
+   ],
+   "video": {
+    "url": "https://vimeo.com/155295826"
+   },
+   "images": [
+    "http://www.automato.farm/img//pop1a_1024.jpg",
+    "http://www.automato.farm/img//pop6a_1024.jpg"
+   ],
+   "source_url": "http://www.automato.farm/portfolio/politics_of_power/"
+  },
+  {
+   "id": "human-computer-integration-lab--wearable-microphone-jamming",
+   "creator_ids": [
+    "human-computer-integration-lab"
+   ],
+   "title": "Wearable Microphone Jamming",
+   "year": 2020,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "machines": [
+    "voice-listening",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-listening",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A bracelet studded with ultrasonic transducers that jams nearby microphones in smart speakers and phones; the natural movement of the wearer's arm removes the blind spots of a static jammer.",
+   "description_zh": "一个嵌满超声波换能器的手环，可以干扰附近智能音箱和手机的麦克风；佩戴者手臂的自然摆动消除了静态干扰器的盲区。",
+   "idea_en": "Privacy from always-listening machines can be worn on the body, and the body's movement becomes part of the defence.",
+   "idea_zh": "对“永远在听”的机器的防护可以戴在身上，身体的运动本身成了防御的一部分。",
+   "method": "Ultrasonic signals exploit microphone non-linearity to inject noise; the wearable prototype was evaluated against commercial devices (Chen, Li, Teng, Nagels, Li, Lopes, Zhao, Zheng, CHI 2020).",
+   "method_zh": "超声信号利用麦克风的非线性注入噪声；研究者用商业设备测试了可穿戴原型（Chen、Li、Teng、Nagels、Li、Lopes、Zhao、Zheng，CHI 2020）。",
+   "keywords": [
+    "ultrasound",
+    "jamming",
+    "privacy",
+    "wearable",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W9Sn2DQOn7Y"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376304",
+    "doi": "10.1145/3313831.3376304",
+    "venue": "CHI 2020",
+    "title": "Wearable Microphone Jamming"
+   },
+   "source_url": "https://doi.org/10.1145/3313831.3376304"
+  },
+  {
+   "id": "sand-lab-uchicago--glaze-nightshade",
+   "creator_ids": [
+    "sand-lab-uchicago"
+   ],
+   "title": "Glaze and Nightshade",
+   "year": 2023,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "product",
+   "description": "Two free tools for artists: Glaze adds nearly invisible changes to an image so models cannot copy its style, and Nightshade 'poisons' images so that models trained on them learn wrong concepts.",
+   "description_zh": "两款面向艺术家的免费工具：Glaze 给图像加上几乎看不见的改动，让模型无法模仿其风格；Nightshade 则给图像“投毒”，让用它们训练的模型学到错误的概念。",
+   "idea_en": "An image can be made to look one way to people and another way to machines, and that gap becomes a means of resistance.",
+   "idea_zh": "一张图可以让人和机器看到不同的东西，而这道缝隙可以变成抵抗的手段。",
+   "method": "Adversarial perturbations optimised against the feature extractors of text-to-image diffusion models (Shan et al., USENIX Security 2023; IEEE S&P 2024).",
+   "method_zh": "针对文生图扩散模型的特征提取器优化对抗扰动（Shan 等，USENIX Security 2023；IEEE S&P 2024）。",
+   "keywords": [
+    "data poisoning",
+    "style mimicry",
+    "adversarial",
+    "artists' rights"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zryvJjb9EEY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/sp54263.2024.00207",
+    "doi": "10.1109/sp54263.2024.00207",
+    "arxiv": "2310.13828",
+    "venue": "IEEE S&P 2024",
+    "title": "Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models"
+   },
+   "source_url": "https://nightshade.cs.uchicago.edu/"
+  },
+  {
+   "id": "james-pierce--counterfunctional-things",
+   "creator_ids": [
+    "james-pierce"
+   ],
+   "title": "Counterfunctional Things",
+   "year": 2014,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "machines": [
+    "vision-system",
+    "infrastructure"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "paper",
+   "description": "Design research on devices that deliberately remove functions, such as a digital camera whose photos can only be retrieved by breaking the concrete it is sealed in.",
+   "description_zh": "一项关于“刻意去除功能”的设计研究，例如一台数码相机，照片只有在砸开封住它的混凝土之后才能取出。",
+   "idea_en": "Designing limits into digital things opens space for reflection that seamless function closes.",
+   "idea_zh": "把限制设计进数字物件，能打开被“无缝功能”关闭的反思空间。",
+   "method": "A series of research prototypes and design concepts analysed as 'counterfunctional' (Pierce and Paulos, DIS 2014).",
+   "method_zh": "一系列研究原型与设计概念，以“反功能”为框架进行分析（Pierce 与 Paulos，DIS 2014）。",
+   "keywords": [
+    "counterfunctionality",
+    "digital camera",
+    "research through design",
+    "limitation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2598510.2598522",
+    "doi": "10.1145/2598510.2598522",
+    "venue": "DIS 2014",
+    "title": "Counterfunctional Things: Exploring Possibilities in Designing Digital Limitations"
+   },
+   "source_url": "https://doi.org/10.1145/2598510.2598522"
+  },
+  {
+   "id": "dunne-raby--united-micro-kingdoms",
+   "creator_ids": [
+    "dunne-raby"
+   ],
+   "title": "United Micro Kingdoms",
+   "year": 2013,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "machines": [
+    "vehicle-drone",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "England split into four counties, each living by a different technology and ideology: Digitarians in algorithm-run self-driving 'digicars', Bioliberals with grown vehicles, Anarcho-evolutionists who modify themselves, and Communo-nuclearists on a nuclear train.",
+   "description_zh": "英格兰被分成四个郡，各自按照不同的技术与意识形态生活：数字主义者乘坐由算法管理的自动驾驶“数字车”，生物自由主义者使用培育出来的交通工具，无政府进化主义者改造自己的身体，共产核能主义者住在一列核动力列车上。",
+   "idea_en": "Each technology implies a politics; building whole societies around them makes those politics visible.",
+   "idea_zh": "每一种技术都隐含一种政治；围绕它们构建完整的社会，才能让这些政治显形。",
+   "method": "Models, vehicles, images and texts produced as a design fiction for the Design Museum, London.",
+   "method_zh": "为伦敦设计博物馆制作的设计虚构：模型、交通工具、图像与文本。",
+   "keywords": [
+    "design fiction",
+    "digicars",
+    "Design Museum",
+    "speculative everything"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=J35djrMCMAM"
+   },
+   "images": [
+    "https://dunneandraby.co.uk/img/projects/large/ae1.jpg",
+    "https://dunneandraby.co.uk/img/projects/large/bc1.jpg"
+   ],
+   "source_url": "https://dunneandraby.co.uk/content/projects/666/0",
+   "exhibited": [
+    "Design Museum, London 2013"
+   ]
+  },
+  {
+   "id": "superflux--drone-aviary",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Drone Aviary",
+   "year": 2015,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A flock of speculative drones (a traffic drone, an advertising drone, a police drone and others) and a film seen through their cameras, imagining a city in which drones are part of everyday life.",
+   "description_zh": "一群虚构无人机（交通无人机、广告无人机、警用无人机等）以及一部从它们的摄像机视角拍摄的影片，想象一个无人机已融入日常生活的城市。",
+   "idea_en": "Seeing the city through drone eyes shows how it is sorted, advertised to and policed by machines.",
+   "idea_zh": "通过无人机之眼看城市，能看到它如何被机器分类、推送广告和治安管理。",
+   "method": "Working drone prototypes flown in a gallery 'aviary' and a short film using machine-vision style overlays.",
+   "method_zh": "在展厅“鸟舍”里飞行的可用无人机原型，以及一部带有机器视觉式叠加信息的短片。",
+   "keywords": [
+    "drones",
+    "smart city",
+    "machine vision",
+    "design fiction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dXgHG9GfWwc"
+   },
+   "images": [
+    "http://superflux.in/wp-content/uploads/2016/11/TrafficDrone_2.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/drones/"
+  },
+  {
+   "id": "near-future-laboratory--tbd-catalog",
+   "creator_ids": [
+    "near-future-laboratory"
+   ],
+   "title": "TBD Catalog",
+   "year": 2014,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "recommender-platform",
+    "social-robot"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "A mail-order catalogue from the near future, full of ordinary-seeming products such as algorithmic dating aids, smart-home add-ons and bargain drones, each with a price and a small print.",
+   "description_zh": "一本来自近未来的邮购目录，满是看似普通的产品：算法约会辅助、智能家居配件、廉价无人机……每件都有价格和小字说明。",
+   "idea_en": "The future arrives as mundane consumer products, and a catalogue is a good way to imagine its side effects.",
+   "idea_zh": "未来以平凡消费品的样子到来，而一本商品目录正适合想象它的副作用。",
+   "method": "A design fiction produced in a workshop, written and laid out as a realistic printed catalogue with product photos and descriptions.",
+   "method_zh": "在工作坊中产出的设计虚构，按真实印刷目录的方式撰写和排版，配有产品照片与说明。",
+   "keywords": [
+    "design fiction",
+    "catalogue",
+    "normal ordinary everyday",
+    "near future"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jyCib2PWs6Q"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/jyCib2PWs6Q/hqdefault.jpg"
+   ],
+   "source_url": "https://nearfuturelaboratory.com/"
+  },
+  {
+   "id": "liam-young--in-the-robot-skies",
+   "creator_ids": [
+    "liam-young"
+   ],
+   "title": "In the Robot Skies",
+   "year": 2016,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A love story between two teenagers kept apart in a London housing estate watched by police drones, who hack drones to carry messages to each other; the film is shot entirely by autonomous drones.",
+   "description_zh": "一个爱情故事：两个青少年被隔离在伦敦一处由警用无人机监视的住宅区里，他们黑进无人机为彼此传信；整部影片完全由自主无人机拍摄。",
+   "idea_en": "When the camera is the drone, surveillance and romance share the same point of view.",
+   "idea_zh": "当摄影机就是无人机时，监视与浪漫共享同一个视角。",
+   "method": "Written with Tim Maughan; camera drones with pre-programmed and semi-autonomous flight paths filmed every shot; commissioned for Channel 4 Random Acts.",
+   "method_zh": "与 Tim Maughan 合写；每个镜头都由按预设和半自主航线飞行的摄影无人机拍摄；为英国第四频道 Random Acts 委托创作。",
+   "keywords": [
+    "drone film",
+    "Tim Maughan",
+    "surveillance",
+    "London"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cXfYyk0G5Hs"
+   },
+   "source_url": "https://liamyoung.org/"
+  },
+  {
+   "id": "automato-farm--teacher-of-algorithms",
+   "creator_ids": [
+    "automato-farm"
+   ],
+   "title": "Teacher of Algorithms",
+   "year": 2015,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "recommender-platform",
+    "social-robot"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A film about a near-future professional who trains other people's smart objects, rewarding and punishing them like pets, because learning products are not good at learning on their own.",
+   "description_zh": "一部短片：近未来有一种职业，专门替别人训练智能物件，像训练宠物一样奖励和惩罚它们，因为“会学习”的产品其实并不擅长自学。",
+   "idea_en": "Machine learning at home will need human teachers, and that teaching could become a job.",
+   "idea_zh": "家中的机器学习需要人类老师，而这种教学可能会成为一份工作。",
+   "method": "Design fiction film with prop smart objects and training tools, made by Simone Rebaudengo with Yosuke Ushigome.",
+   "method_zh": "使用道具智能物件和训练工具拍摄的设计虚构短片，由 Simone Rebaudengo 与 Yosuke Ushigome 制作。",
+   "keywords": [
+    "training",
+    "smart objects",
+    "design fiction",
+    "pets"
+   ],
+   "video": {
+    "url": "https://vimeo.com/125768041"
+   },
+   "images": [
+    "http://www.automato.farm/img/training.jpg",
+    "http://www.automato.farm/img/punish.jpg"
+   ],
+   "source_url": "http://www.automato.farm/portfolio/teach_algorithms/"
+  },
+  {
+   "id": "automato-farm--believe-it-yourself",
+   "creator_ids": [
+    "automato-farm"
+   ],
+   "title": "Believe it Yourself",
+   "year": 2018,
+   "field": "speculative",
+   "sub": "ml-material",
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "prototype",
+   "description": "'Real-fictional' machine-learning kits trained on belief systems (Italian superstition, feng shui, astrology) that let amateurs build cameras which see the world through a chosen belief.",
+   "description_zh": "一套“真实—虚构”的机器学习套件，用信仰体系（意大利迷信、风水、占星）训练，让业余者自制能“透过某种信念”看世界的摄像头。",
+   "idea_en": "A trained model is a belief system: it sees what its data taught it to see.",
+   "idea_zh": "一个训练好的模型就是一种信仰体系：它看到的，是数据教它看到的东西。",
+   "method": "Modular hardware kits with cameras and pre-trained classifiers built from belief-based datasets, presented with manuals and posters.",
+   "method_zh": "带摄像头的模块化硬件套件，内置用信念数据集训练的分类器，配有说明书和海报。",
+   "keywords": [
+    "machine learning kit",
+    "belief",
+    "feng shui",
+    "superstition"
+   ],
+   "video": {
+    "url": "https://vimeo.com/339396770"
+   },
+   "images": [
+    "http://www.automato.farm/img/BIY_posters.png"
+   ],
+   "source_url": "http://www.automato.farm/portfolio/believe_it_yourself/"
+  },
+  {
+   "id": "graham-dove--ux-design-innovation",
+   "creator_ids": [
+    "graham-dove"
+   ],
+   "title": "UX Design Innovation: Challenges for Working with Machine Learning as a Design Material",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "ml-material",
+   "machines": [
+    "dataset",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "A survey of UX practitioners showing that designers struggle to understand what machine learning can do and to prototype with it, and arguing that ML should be treated as a design material.",
+   "description_zh": "一项针对用户体验从业者的调查：设计师难以理解机器学习能做什么，也难以用它做原型；论文主张把机器学习当作一种设计材料。",
+   "idea_en": "Designers need to handle ML like wood or code, sketching with its behaviours, not only receiving it from engineers.",
+   "idea_zh": "设计师需要像处理木材或代码一样处理机器学习，用它的行为来“画草图”，而不只是从工程师那里接手。",
+   "method": "Survey of 51 UX designers plus analysis of design education and tools (Dove, Halskov, Forlizzi and Zimmerman, CHI 2017).",
+   "method_zh": "对 51 位用户体验设计师的调查，并分析设计教育与工具（Dove、Halskov、Forlizzi 与 Zimmerman，CHI 2017）。",
+   "keywords": [
+    "design material",
+    "UX",
+    "machine learning",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025739",
+    "doi": "10.1145/3025453.3025739",
+    "venue": "CHI 2017",
+    "title": "UX Design Innovation: Challenges for Working with Machine Learning as a Design Material"
+   },
+   "source_url": "https://doi.org/10.1145/3025453.3025739"
+  },
+  {
+   "id": "qian-yang--re-examining-human-ai-interaction",
+   "creator_ids": [
+    "qian-yang"
+   ],
+   "title": "Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design",
+   "year": 2020,
+   "field": "speculative",
+   "sub": "ml-material",
+   "machines": [
+    "recommender-platform",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "An analysis of why designing with AI is hard, tracing the difficulty to two sources: uncertainty about what a system can do and the complexity of its possible outputs.",
+   "description_zh": "一篇分析为什么与 AI 一起做设计特别困难的论文，把困难归结为两个来源：对系统能力的不确定，以及其可能输出的复杂性。",
+   "idea_en": "AI is a design material whose behaviour cannot be fully sketched in advance; design methods have to account for that.",
+   "idea_zh": "AI 是一种无法事先完整勾画其行为的设计材料，设计方法必须正视这一点。",
+   "method": "Synthesis of prior research, the authors' design projects and teaching into a framework of four levels of AI design complexity (Yang, Steinfeld, Rosé and Zimmerman, CHI 2020).",
+   "method_zh": "综合既有研究、作者的设计项目与教学经验，提出 AI 设计复杂度的四层框架（Yang、Steinfeld、Rosé 与 Zimmerman，CHI 2020）。",
+   "keywords": [
+    "human-AI interaction",
+    "design",
+    "uncertainty",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376301",
+    "doi": "10.1145/3313831.3376301",
+    "venue": "CHI 2020",
+    "title": "Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design"
+   },
+   "source_url": "https://doi.org/10.1145/3313831.3376301"
+  },
+  {
+   "id": "elisa-giaccardi--thing-ethnography",
+   "creator_ids": [
+    "elisa-giaccardi"
+   ],
+   "title": "Thing Ethnography: Doing Design Research with Non-Humans",
+   "year": 2016,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "vision-system",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-seeing"
+   ],
+   "kind": "paper",
+   "description": "Cameras and sensors were attached to everyday objects (a kettle, a cup, a fridge) in homes so that designers could study daily life from the things' point of view.",
+   "description_zh": "研究者把摄像头和传感器装在家中的日常物件（水壶、杯子、冰箱）上，让设计师从“物”的视角研究日常生活。",
+   "idea_en": "Things can be research partners: their sensor view reveals patterns of use that people do not notice or report.",
+   "idea_zh": "物可以成为研究伙伴：它们的传感器视角揭示出人们注意不到、也不会讲出来的使用模式。",
+   "method": "Autographer cameras on household objects produced image streams analysed alongside interviews (Giaccardi, Cila, Speed and Caldwell, DIS 2016).",
+   "method_zh": "装在家居物件上的 Autographer 相机产生图像流，与访谈一起分析（Giaccardi、Cila、Speed 与 Caldwell，DIS 2016）。",
+   "keywords": [
+    "thing ethnography",
+    "more-than-human",
+    "cameras on objects",
+    "DIS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Z0mVcV1EgA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2901790.2901905",
+    "doi": "10.1145/2901790.2901905",
+    "venue": "DIS 2016",
+    "title": "Thing Ethnography: Doing Design Research with Non-Humans"
+   },
+   "source_url": "https://doi.org/10.1145/2901790.2901905"
+  },
+  {
+   "id": "nazli-cila--products-as-agents",
+   "creator_ids": [
+    "nazli-cila",
+    "elisa-giaccardi"
+   ],
+   "title": "Products as Agents: Metaphors for Designing the Products of the IoT Age",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "ml-material",
+   "machines": [
+    "recommender-platform",
+    "social-robot"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Proposes three metaphors for smart products that act on their own: products as collectors of data, as actors that make decisions, and as creators that make new things with people.",
+   "description_zh": "为能够自行行动的智能产品提出三种隐喻：作为数据的“收集者”、作为做决定的“行动者”、作为与人共同创造的“创造者”。",
+   "idea_en": "Once products have agency, designers need metaphors for the kind of relationship people will have with them.",
+   "idea_zh": "一旦产品拥有能动性，设计师就需要隐喻来描述人与它们之间将会是什么样的关系。",
+   "method": "Design workshops and speculative product concepts analysed to derive the metaphors (Cila, Smit, Giaccardi and Kröse, CHI 2017).",
+   "method_zh": "通过设计工作坊和思辨产品概念的分析归纳出这些隐喻（Cila、Smit、Giaccardi 与 Kröse，CHI 2017）。",
+   "keywords": [
+    "product agency",
+    "IoT",
+    "metaphors",
+    "CHI"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5f6312c65070bb0554a3d6e3/1602250220682-DE0ZFGIJR9K9HJYZT1BS/Smart%2Bsink.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025797",
+    "doi": "10.1145/3025453.3025797",
+    "venue": "CHI 2017",
+    "title": "Products as Agents: Metaphors for Designing the Products of the IoT Age"
+   },
+   "source_url": "https://nazlicila.com/projects/human-agent-partnerships"
+  },
+  {
+   "id": "iohanna-nicenboim--more-than-human-design-and-ai",
+   "creator_ids": [
+    "iohanna-nicenboim",
+    "elisa-giaccardi"
+   ],
+   "title": "More-Than-Human Design and AI: In Conversation with Agents",
+   "year": 2020,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-umwelt"
+   ],
+   "kind": "paper",
+   "description": "Designers 'interviewed' conversational agents in homes as if they were research participants, treating them as others with their own perspective rather than as tools.",
+   "description_zh": "设计师在家庭环境中像访谈研究参与者一样“采访”对话式智能体，把它们当作有自身视角的他者而不是工具。",
+   "idea_en": "Talking with an AI as a participant exposes its assumptions and makes more-than-human design concrete.",
+   "idea_zh": "把 AI 当作参与者来交谈，能暴露它的预设，也让“超越人类的设计”变得具体。",
+   "method": "Design research with voice assistants, including interview scripts and designed artefacts, presented at DIS 2020 (Nicenboim, Giaccardi, Søndergaard, Reddy, Strengers, Pierce, Redström).",
+   "method_zh": "针对语音助手的设计研究，包括访谈脚本与设计物件，发表于 DIS 2020（Nicenboim、Giaccardi、Søndergaard、Reddy、Strengers、Pierce、Redström）。",
+   "keywords": [
+    "more-than-human design",
+    "voice assistants",
+    "interviewing agents",
+    "DIS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CJKwKQG_heI"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/4/137851/14306494/IMG_5103_670.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3393914.3395912",
+    "doi": "10.1145/3393914.3395912",
+    "venue": "DIS 2020 Companion",
+    "title": "More-Than-Human Design and AI: In Conversation with Agents"
+   },
+   "source_url": "https://iohanna.com/More-than-human-AI"
+  },
+  {
+   "id": "betti-marenko--animistic-design",
+   "creator_ids": [
+    "betti-marenko",
+    "philip-van-allen"
+   ],
+   "title": "Animistic Design",
+   "year": 2016,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "social-robot",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Proposes animism as a way to design smart objects: many small devices with their own personalities and agendas that negotiate with each other and with us, illustrated by van Allen's AniThings.",
+   "description_zh": "主张用“万物有灵”来设计智能物件：许多带有各自性格和意图的小设备，彼此之间以及与人之间相互协商；以 van Allen 的 AniThings 为例。",
+   "idea_en": "Instead of one all-knowing assistant, design a society of partial, opinionated things whose uncertainty we can live with.",
+   "idea_zh": "与其做一个全知的助手，不如设计一个由偏执而局部的物组成的社会，让人能够与它们的不确定共处。",
+   "method": "Theoretical argument drawing on philosophy and anthropology, with prototypes of networked objects with personalities (Marenko and van Allen, Digital Creativity 2016).",
+   "method_zh": "借助哲学与人类学的理论论证，配合具有性格的联网物件原型（Marenko 与 van Allen，《Digital Creativity》2016）。",
+   "keywords": [
+    "animism",
+    "AniThings",
+    "smart objects",
+    "personality"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OhuDZ877KIY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1080/14626268.2016.1145127",
+    "doi": "10.1080/14626268.2016.1145127",
+    "venue": "Digital Creativity 27(1), 2016",
+    "title": "Animistic design: how to reimagine digital interaction between the human and the nonhuman"
+   },
+   "source_url": "https://doi.org/10.1080/14626268.2016.1145127"
+  },
+  {
+   "id": "michal-luria--re-embodiment-and-co-embodiment",
+   "creator_ids": [
+    "michal-luria"
+   ],
+   "title": "Re-Embodiment and Co-Embodiment",
+   "year": 2019,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "social-robot",
+    "voice-listening"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "User enactments of social agents that move from one robot body to another (re-embodiment) or share one body among several agents (co-embodiment), asking how people track who they are talking to.",
+   "description_zh": "通过用户情境扮演，研究一个社交智能体从一个机器人身体转移到另一个身体（再具身），或多个智能体共享一个身体（共具身）时，人们如何判断自己在和“谁”说话。",
+   "idea_en": "An AI's identity need not be tied to one body, which breaks our habit of reading a mind from a body.",
+   "idea_zh": "AI 的身份不必绑定在一个身体上，这打破了我们从身体读取心智的习惯。",
+   "method": "Speculative enactments in a mock service setting with robots and conversational agents (Luria, Reig, Tan, Steinfeld, Forlizzi and Zimmerman, DIS 2019).",
+   "method_zh": "在模拟服务场景中使用机器人与对话智能体进行思辨性情境扮演（Luria、Reig、Tan、Steinfeld、Forlizzi 与 Zimmerman，DIS 2019）。",
+   "keywords": [
+    "social presence",
+    "robots",
+    "user enactments",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3322276.3322340",
+    "doi": "10.1145/3322276.3322340",
+    "venue": "DIS 2019",
+    "title": "Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Robots and Conversational Agents"
+   },
+   "source_url": "https://doi.org/10.1145/3322276.3322340"
+  },
+  {
+   "id": "rebecca-fiebrink--wekinator",
+   "creator_ids": [
+    "rebecca-fiebrink"
+   ],
+   "title": "Wekinator",
+   "year": 2009,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "dataset",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "Free software that lets musicians and artists train machine-learning models by example, demonstrating gestures and sounds, so that ML becomes an instrument-building material.",
+   "description_zh": "一款免费软件，让音乐人和艺术家通过示范手势与声音来训练机器学习模型，使机器学习成为制作乐器的材料。",
+   "idea_en": "Interactive, example-based training puts people in the loop and makes ML something you play and sculpt rather than configure.",
+   "idea_zh": "交互式、基于示范的训练让人处在回路之中，把机器学习变成可以演奏和雕琢的东西，而不是需要配置的系统。",
+   "method": "Supervised learning on user-recorded examples mapping any input (webcam, sensors, controllers) to any output over OSC, with rapid retraining.",
+   "method_zh": "对用户录制的示例进行监督学习，通过 OSC 把任意输入（摄像头、传感器、控制器）映射到任意输出，并可快速重新训练。",
+   "keywords": [
+    "interactive machine learning",
+    "NIME",
+    "OSC",
+    "musical instruments"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NKyyBAKrQgE"
+   },
+   "source_url": "http://www.wekinator.org/"
+  },
+  {
+   "id": "google-creative-lab--teachable-machine",
+   "creator_ids": [
+    "google-creative-lab"
+   ],
+   "title": "Teachable Machine",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "ml-material",
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-seeing"
+   ],
+   "kind": "product",
+   "description": "A web tool that lets anyone train an image, sound or pose classifier in the browser by showing a few examples to the webcam, with no code.",
+   "description_zh": "一个网页工具，任何人都可以对着摄像头示范几个例子，在浏览器里训练图像、声音或姿势分类器，无需写代码。",
+   "idea_en": "Letting people train a model in a minute makes its dependence on examples, and its mistakes, directly felt.",
+   "idea_zh": "让人在一分钟内训练出一个模型，就能直接感受到它对示例的依赖以及它会犯的错。",
+   "method": "Transfer learning on a pre-trained network runs locally in the browser with TensorFlow.js; version 2.0 (2019) added export of models.",
+   "method_zh": "在浏览器中用 TensorFlow.js 对预训练网络做迁移学习，全部在本地运行；2019 年的 2.0 版加入了模型导出。",
+   "keywords": [
+    "TensorFlow.js",
+    "transfer learning",
+    "no-code",
+    "education"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T2qQGqZxkD0"
+   },
+   "source_url": "https://teachablemachine.withgoogle.com/"
+  },
+  {
+   "id": "ron-wakkary--things-we-could-design",
+   "creator_ids": [
+    "ron-wakkary"
+   ],
+   "title": "Things We Could Design: For More Than Human-Centered Worlds",
+   "year": 2021,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "infrastructure",
+    "robot-creature"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A book that argues design should move beyond human-centred design and treat things, including computational things, as participants with their own existence.",
+   "description_zh": "一本主张设计应超越“以人为中心”的书：把物（包括计算性的物）当作拥有自身存在的参与者。",
+   "idea_en": "Designers can learn to design with and for things, not only for users.",
+   "idea_zh": "设计师可以学会与物一起设计、为物设计，而不仅仅为用户设计。",
+   "method": "Posthumanist design theory drawing on Wakkary's research products (Morse Things, Tilting Bowl and others), published by MIT Press.",
+   "method_zh": "结合 Wakkary 的研究产品（Morse Things、Tilting Bowl 等）的后人类主义设计理论，由 MIT Press 出版。",
+   "keywords": [
+    "more-than-human design",
+    "posthumanism",
+    "research products",
+    "MIT Press"
+   ],
+   "video": {
+    "url": "https://vimeo.com/512886973"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14137399-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/13649.001.0001",
+    "doi": "10.7551/mitpress/13649.001.0001",
+    "venue": "MIT Press 2021",
+    "title": "Things We Could Design: For More Than Human-Centered Worlds"
+   },
+   "source_url": "https://mitpress.mit.edu/9780262542999/things-we-could-design/"
+  }
+ ],
+ "leads": []
+}

@@ -1,0 +1,2714 @@
+{
+ "batch": "coperformance",
+ "creators": [
+  {
+   "id": "stelarc",
+   "name": "Stelarc",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Performance artist; Distinguished Research Fellow, Curtin University (Alternate Anatomies Lab)",
+   "based": "Melbourne, Australia",
+   "bio": "Cyprus-born Australian artist who since the 1970s has extended, suspended, wired and augmented his own body with robots, prostheses and networks.",
+   "why": "His claim that 'the body is obsolete' made the human-machine body the core question of performance art.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://stelarc.org/"
+   },
+   "role_zh": "行为艺术家；科廷大学杰出研究员（Alternate Anatomies Lab）",
+   "bio_zh": "生于塞浦路斯的澳大利亚艺术家，自 1970 年代起用机器人、义体与网络延伸、悬吊、连接和增强自己的身体。",
+   "why_zh": "他“身体已经过时”的主张，让人机身体成为行为艺术的核心问题。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marceli-antunez-roca",
+   "name": "Marcel·lí Antúnez Roca",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; co-founder of La Fura dels Baus",
+   "based": "Barcelona, Spain",
+   "bio": "Catalan artist who left La Fura dels Baus to build 'mechatronic performances' in which exoskeletons, robots and audiences control a body.",
+   "why": "His Epizoo handed the artist's body to the audience's mouse clicks, an early and brutal image of networked control.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.marceliantunez.com/"
+   },
+   "role_zh": "艺术家；La Fura dels Baus 联合创始人",
+   "bio_zh": "加泰罗尼亚艺术家，离开 La Fura dels Baus 后创作“机电表演”，让外骨骼、机器人与观众共同操控身体。",
+   "why_zh": "他的 Epizoo 把艺术家的身体交给观众的鼠标点击，是网络化操控早期而残酷的图像。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neil-harbisson",
+   "name": "Neil Harbisson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cyborg artist; co-founder of the Cyborg Foundation and Cyborg Arts",
+   "based": "Barcelona, Spain",
+   "bio": "Artist born with achromatopsia who hears colour through an antenna implanted in his skull.",
+   "why": "He treats a machine sense as part of his body and identity, and campaigned to be photographed with it on his passport.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.cyborgarts.com/"
+   },
+   "role_zh": "赛博格艺术家；Cyborg Foundation 与 Cyborg Arts 联合创始人",
+   "bio_zh": "天生全色盲的艺术家，通过植入颅骨的天线“听见”颜色。",
+   "why_zh": "他把机器感官视为身体与身份的一部分，并争取让护照照片带上这根天线。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [
+    "moon-ribas"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "moon-ribas",
+   "name": "Moon Ribas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cyborg artist and choreographer; co-founder of the Cyborg Foundation",
+   "based": "Barcelona, Spain",
+   "bio": "Dancer who feels earthquakes worldwide through online seismic sensors implanted in her body.",
+   "why": "She turns a networked implant into choreography, dancing with the planet's movement.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.moonribas.com/"
+   },
+   "role_zh": "赛博格艺术家、编舞家；Cyborg Foundation 联合创始人",
+   "bio_zh": "舞者，通过植入体内、连接在线地震数据的传感器感受全球地震。",
+   "why_zh": "她把联网植入物变成编舞，与地球的运动共舞。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [
+    "neil-harbisson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marco-donnarumma",
+   "name": "Marco Donnarumma",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Performance artist, composer and researcher",
+   "based": "Berlin, Germany",
+   "bio": "Italian artist who fuses body, sound and AI-driven prostheses in performances about ritual, disability and machine autonomy.",
+   "why": "His AI prostheses are not tools but unruly co-performers that act on the body.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://marcodonnarumma.com/"
+   },
+   "role_zh": "行为艺术家、作曲家与研究者",
+   "bio_zh": "意大利艺术家，在表演中把身体、声音与 AI 驱动的义体融合，探讨仪式、残障与机器自主。",
+   "why_zh": "他的 AI 义体不是工具，而是会反过来作用于身体、难以驯服的共演者。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "margherita-pevere"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "margherita-pevere",
+   "name": "Margherita Pevere",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher in biological art",
+   "based": "Berlin, Germany",
+   "bio": "Italian artist working with living bacteria, fungi and biomaterials, and with bodies in transformation.",
+   "why": "She brings living matter into human-machine performance, making hybrid bodies more than mechanical.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.margheritapevere.com/"
+   },
+   "role_zh": "生物艺术艺术家与研究者",
+   "bio_zh": "意大利艺术家，以活体细菌、真菌与生物材料以及变化中的身体为创作对象。",
+   "why_zh": "她把活体物质带入人机表演，让混成身体不只是机械的。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "marco-donnarumma"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eduardo-kac",
+   "name": "Eduardo Kac",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; pioneer of telepresence and bio art",
+   "based": "Chicago, US",
+   "bio": "Brazilian-American artist who made telerobotic works from the late 1980s before turning to transgenic art.",
+   "why": "His telepresence works and his essay on robotic art defined how artists think about being present through a machine.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.ekac.org"
+   },
+   "role_zh": "艺术家；远程在场艺术与生物艺术先驱",
+   "bio_zh": "巴西裔美国艺术家，1980 年代末起创作远程机器人作品，后来转向转基因艺术。",
+   "why_zh": "他的远程在场作品与关于机器人艺术的论文，界定了艺术家如何思考“借机器在场”。",
+   "based_zh": "芝加哥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kevin-warwick",
+   "name": "Kevin Warwick",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cybernetics researcher; Emeritus Professor, Coventry and Reading Universities",
+   "based": "Coventry, UK",
+   "bio": "British engineer who had an RFID chip (1998) and then a neural electrode array (2002) implanted to connect his nervous system to computers.",
+   "why": "He made self-experimentation with implants a public debate about what a cyborg is.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Kevin_Warwick"
+   },
+   "role_zh": "控制论研究者；考文垂大学与雷丁大学荣休教授",
+   "bio_zh": "英国工程师，先后植入 RFID 芯片（1998）和神经电极阵列（2002），把自己的神经系统接入计算机。",
+   "why_zh": "他以植入物做自体实验，把“什么是赛博格”变成公共讨论。",
+   "based_zh": "考文垂，英国",
+   "connected_to": [
+    "stelarc"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steve-mann",
+   "name": "Steve Mann",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Inventor; Professor of Electrical and Computer Engineering, University of Toronto",
+   "based": "Toronto, Canada",
+   "bio": "Researcher who has worn computers and head-mounted cameras in daily life since the late 1970s and coined 'sousveillance'.",
+   "why": "His life with wearable computers is a long-running experiment in machine-mediated seeing.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "http://wearcam.org/"
+   },
+   "role_zh": "发明家；多伦多大学电子与计算机工程教授",
+   "bio_zh": "研究者，自 1970 年代末起在日常生活中佩戴计算机与头戴摄像机，并提出“反向监视”（sousveillance）一词。",
+   "why_zh": "他与可穿戴计算机共同生活，是一场关于“以机器观看”的长期实验。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wafaa-bilal",
+   "name": "Wafaa Bilal",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Professor, NYU Tisch School of the Arts",
+   "based": "New York, US",
+   "bio": "Iraqi-American artist whose performances expose the body to remote, networked violence and surveillance.",
+   "why": "He made the experience of being the target of a remote machine tangible for online audiences.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://wafaabilal.com/"
+   },
+   "role_zh": "艺术家；纽约大学 Tisch 艺术学院教授",
+   "bio_zh": "伊拉克裔美国艺术家，他的表演让身体暴露于远程、网络化的暴力与监视之下。",
+   "why_zh": "他让网上观众切身体会成为远程机器“目标”的感受。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dani-clode",
+   "name": "Dani Clode",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Augmentation designer; researcher at the Plasticity Lab, University of Cambridge",
+   "based": "London, UK",
+   "bio": "Designer of prosthetics and body extensions, known for the Third Thumb.",
+   "why": "Her work moves prosthetics from replacement to extension and studies how the brain adopts an extra machine limb.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.daniclodedesign.com/"
+   },
+   "role_zh": "人体增强设计师；剑桥大学 Plasticity Lab 研究者",
+   "bio_zh": "设计义体与身体延伸装置的设计师，以“第三拇指”（Third Thumb）闻名。",
+   "why_zh": "她把义体从“替代”推向“延伸”，并研究大脑如何接纳一根额外的机器肢体。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hugh-herr",
+   "name": "Hugh Herr",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Biophysicist; head of the Biomechatronics group, MIT Media Lab",
+   "based": "Cambridge, MA, US",
+   "bio": "Climber and engineer who lost both lower legs in 1982 and now designs powered bionic limbs.",
+   "why": "He frames bionics as extending human expression, not only restoring function.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/hherr/overview/"
+   },
+   "role_zh": "生物物理学家；MIT 媒体实验室生物机电组负责人",
+   "bio_zh": "攀岩者和工程师，1982 年失去双腿小腿，现设计带动力的仿生肢体。",
+   "why_zh": "他把仿生学看作对人类表达的延伸，而不只是功能的修复。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "louis-philippe-demers",
+   "name": "Louis-Philippe Demers",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Robotic artist; Professor, Creative Lab, Queensland University of Technology",
+   "based": "Brisbane, Australia",
+   "bio": "Canadian artist who has built hundreds of 'machine performers' for installations, theatre and dance since the late 1980s.",
+   "why": "His theory and practice of the machine performer treat robots as bodies on stage, neither tools nor humans.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "机器人艺术家；昆士兰科技大学 Creative Lab 教授",
+   "bio_zh": "加拿大艺术家，自 1980 年代末为装置、剧场与舞蹈制作了数百台“机器表演者”。",
+   "why_zh": "他关于“机器表演者”的理论与实践，把机器人当作舞台上的身体，既非工具也非人。",
+   "based_zh": "布里斯班，澳大利亚",
+   "connected_to": [
+    "bill-vorn",
+    "pablo-ventura"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bill-vorn",
+   "name": "Bill Vorn",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Robotic artist; Professor, Concordia University",
+   "based": "Montreal, Canada",
+   "bio": "Canadian artist who builds 'hysterical' robots and robotic environments that stage machine behaviour and suffering.",
+   "why": "His works give audiences a bodily, often uncomfortable encounter with machine agency.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://billvorn.concordia.ca/"
+   },
+   "role_zh": "机器人艺术家；康考迪亚大学教授",
+   "bio_zh": "加拿大艺术家，制作“歇斯底里”的机器人与机器人环境，呈现机器的行为与痛苦。",
+   "why_zh": "他的作品让观众以身体、往往不适的方式遭遇机器的能动性。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [
+    "louis-philippe-demers"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ken-goldberg",
+   "name": "Ken Goldberg",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and roboticist; Professor, UC Berkeley",
+   "based": "Berkeley, US",
+   "bio": "Robotics professor who made some of the first internet-controlled robots as artworks in the 1990s.",
+   "why": "His 'telepistemology' asks what we can know and trust when we act through a remote machine.",
+   "disciplines": [
+    "robotics",
+    "art"
+   ],
+   "links": {
+    "site": "https://goldberg.berkeley.edu/"
+   },
+   "role_zh": "艺术家、机器人学家；加州大学伯克利分校教授",
+   "bio_zh": "机器人学教授，1990 年代把最早一批可经互联网操控的机器人做成艺术作品。",
+   "why_zh": "他提出的“远程认识论”追问：借远方机器行动时，我们能知道什么、能信任什么。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-sermon",
+   "name": "Paul Sermon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Professor of Visual Communication, University of Brighton",
+   "based": "Brighton, UK",
+   "bio": "British artist who has made telematic installations joining remote bodies in shared video spaces since 1991.",
+   "why": "Telematic Dreaming is a founding work of telepresence art and remote intimacy.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.paulsermon.org/"
+   },
+   "role_zh": "艺术家；布莱顿大学视觉传达教授",
+   "bio_zh": "英国艺术家，自 1991 年起创作远程通信装置，把异地的身体连接进共享的影像空间。",
+   "why_zh": "《远程之梦》是远程在场艺术与远程亲密关系的奠基之作。",
+   "based_zh": "布莱顿，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lynn-hershman-leeson",
+   "name": "Lynn Hershman Leeson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "San Francisco, US",
+   "bio": "American artist working since the 1960s on identity, surveillance, artificial intelligence and the relation between bodies and technology.",
+   "why": "Her telerobotic dolls and AI agents anticipated networked, machine-mediated selves.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.lynnhershman.com/"
+   },
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "美国艺术家，自 1960 年代起关注身份、监视、人工智能以及身体与技术的关系。",
+   "why_zh": "她的远程机器人玩偶与 AI 角色预见了网络化、由机器中介的自我。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "galloway-rabinowitz",
+   "name": "Kit Galloway & Sherrie Rabinowitz",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo; founders of Electronic Cafe International",
+   "based": "Santa Monica, US",
+   "bio": "Kit Galloway and Sherrie Rabinowitz (1950–2013) made satellite and video telecommunication art from the 1970s.",
+   "why": "Hole in Space is the prototype of every video call, staged as a public encounter.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.ecafe.com/"
+   },
+   "role_zh": "艺术家二人组；Electronic Cafe International 创始人",
+   "bio_zh": "Kit Galloway 与 Sherrie Rabinowitz（1950–2013）自 1970 年代起创作卫星与视频远程通信艺术。",
+   "why_zh": "《空间之洞》是一切视频通话的原型，以公共相遇的方式上演。",
+   "based_zh": "圣莫尼卡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laurie-anderson",
+   "name": "Laurie Anderson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, musician and performer",
+   "based": "New York, US",
+   "bio": "American artist known for voice filters, electronic instruments and multimedia performance since the 1970s.",
+   "why": "She uses media machines to make absent or altered bodies present on stage.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://laurieanderson.com/"
+   },
+   "role_zh": "艺术家、音乐人、表演者",
+   "bio_zh": "美国艺术家，自 1970 年代起以变声器、电子乐器与多媒体表演闻名。",
+   "why_zh": "她用媒介机器让缺席或变形的身体出现在舞台上。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "beanotherlab",
+   "name": "BeAnotherLab",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Interdisciplinary collective for embodiment and empathy research",
+   "based": "Barcelona, Spain",
+   "bio": "Collective founded in Barcelona in 2012 that builds low-cost embodiment systems for swapping perspectives and bodies.",
+   "why": "Their Machine to Be Another turns a VR headset into a tool for inhabiting someone else's body.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://beanotherlab.org/"
+   },
+   "role_zh": "关于具身与共情研究的跨学科团体",
+   "bio_zh": "2012 年在巴塞罗那成立的团体，制作低成本具身系统，让人交换视角与身体。",
+   "why_zh": "他们的《成为他人的机器》把 VR 头显变成“进入他人身体”的工具。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eric-paulos",
+   "name": "Eric Paulos",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, EECS, UC Berkeley; director of the Hybrid Ecologies Lab",
+   "based": "Berkeley, US",
+   "bio": "HCI researcher who built early telepresence robots in the 1990s and later worked on critical making.",
+   "why": "PRoP asked what social presence a body needs when it travels through a robot.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.paulos.net/"
+   },
+   "role_zh": "加州大学伯克利分校电子工程与计算机科学系教授；Hybrid Ecologies Lab 主任",
+   "bio_zh": "人机交互研究者，1990 年代制作早期远程在场机器人，后来投身批判性制作。",
+   "why_zh": "PRoP 追问：当身体借机器人远行时，它需要怎样的社交在场。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [
+    "ken-goldberg"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stahl-stenslie",
+   "name": "Stahl Stenslie",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher in haptic and experimental media",
+   "based": "Oslo, Norway",
+   "bio": "Norwegian artist who has made tele-haptic and full-body interfaces since the early 1990s.",
+   "why": "cyberSM was one of the first works to send touch between remote bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Stahl_Stenslie"
+   },
+   "role_zh": "触觉与实验媒介艺术家、研究者",
+   "bio_zh": "挪威艺术家，自 1990 年代初创作远程触觉与全身交互界面。",
+   "why_zh": "cyberSM 是最早在远方身体之间传递触觉的作品之一。",
+   "based_zh": "奥斯陆，挪威",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "merce-cunningham",
+   "name": "Merce Cunningham",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer (1919–2009)",
+   "based": "New York, US",
+   "bio": "American choreographer who used chance, film and, from 1989, computer software to make dances.",
+   "why": "He was the first major choreographer to compose with a computer and to share the stage with motion-capture figures.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.mercecunningham.org/"
+   },
+   "role_zh": "编舞家（1919–2009）",
+   "bio_zh": "美国编舞家，用偶然、影像以及（自 1989 年起）计算机软件来编舞。",
+   "why_zh": "他是第一位用计算机编舞、并与动作捕捉形象同台的重要编舞家。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "paul-kaiser",
+    "shelley-eshkar"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-kaiser",
+   "name": "Paul Kaiser",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Digital artist; co-founder of OpenEndedGroup",
+   "based": "New York, US",
+   "bio": "Artist who turned motion capture of dancers into hand-drawn-looking digital figures, with Shelley Eshkar and later Marc Downie.",
+   "why": "His motion-capture works let a body's movement live on apart from the body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://openendedgroup.com/"
+   },
+   "role_zh": "数字艺术家；OpenEndedGroup 联合创始人",
+   "bio_zh": "与 Shelley Eshkar（后与 Marc Downie）合作，把舞者的动作捕捉转化为手绘风格数字形象的艺术家。",
+   "why_zh": "他的动作捕捉作品让身体的运动脱离身体而继续存在。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "shelley-eshkar",
+    "merce-cunningham",
+    "bill-t-jones"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shelley-eshkar",
+   "name": "Shelley Eshkar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Digital artist; co-founder of OpenEndedGroup",
+   "based": "New York, US",
+   "bio": "Artist and animator who co-created BIPED and Ghostcatching with Paul Kaiser.",
+   "why": "He gave motion-capture data a drawn, ghostly body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://openendedgroup.com/"
+   },
+   "role_zh": "数字艺术家；OpenEndedGroup 联合创始人",
+   "bio_zh": "艺术家与动画师，与 Paul Kaiser 共同创作 BIPED 与 Ghostcatching。",
+   "why_zh": "他给动作捕捉数据赋予了手绘般、幽灵般的身体。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "paul-kaiser"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bill-t-jones",
+   "name": "Bill T. Jones",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; co-founder of Bill T. Jones/Arnie Zane Company",
+   "based": "New York, US",
+   "bio": "American choreographer and dancer whose work addresses the body, race, illness and loss.",
+   "why": "Ghostcatching made his captured movement the subject of a digital afterimage.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://newyorklivearts.org/"
+   },
+   "role_zh": "编舞家；Bill T. Jones/Arnie Zane 舞团联合创始人",
+   "bio_zh": "美国编舞家与舞者，作品关注身体、种族、疾病与失去。",
+   "why_zh": "Ghostcatching 把他被捕捉的动作变成数字残像的主题。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "paul-kaiser"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wayne-mcgregor",
+   "name": "Wayne McGregor",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; Artistic Director, Studio Wayne McGregor; Director of Dance, Venice Biennale",
+   "based": "London, UK",
+   "bio": "British choreographer who has worked with cognitive scientists and technologists on how movement is made.",
+   "why": "Living Archive puts a model of his own style on stage as a choreographic partner.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://waynemcgregor.com/"
+   },
+   "role_zh": "编舞家；Studio Wayne McGregor 艺术总监；威尼斯双年展舞蹈部分总监",
+   "bio_zh": "英国编舞家，长期与认知科学家和技术人员合作，研究动作如何生成。",
+   "why_zh": "《活档案》把他个人风格的模型当作编舞伙伴搬上舞台。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "blanca-li",
+   "name": "Blanca Li",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer and director",
+   "based": "Paris, France",
+   "bio": "Spanish-French choreographer working across dance, film and opera.",
+   "why": "Her ROBOT staged humanoid robots and dancers as a company of equals.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.blancali.com/"
+   },
+   "role_zh": "编舞家、导演",
+   "bio_zh": "西班牙裔法国编舞家，跨舞蹈、电影与歌剧创作。",
+   "why_zh": "她的《机器人》让类人机器人与舞者以平等成员的身份同台。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "catie-cuan",
+   "name": "Catie Cuan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Dancer, choreographer and roboticist",
+   "based": "San Francisco, US",
+   "bio": "Choreographer with a PhD in mechanical engineering from Stanford who works with industrial and social robots.",
+   "why": "She calls her field 'choreorobotics': using dance to design how robots move among people.",
+   "disciplines": [
+    "performance",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.catiecuan.com/"
+   },
+   "role_zh": "舞者、编舞家、机器人学家",
+   "bio_zh": "拥有斯坦福大学机械工程博士学位的编舞家，与工业机器人和社交机器人合作。",
+   "why_zh": "她把自己的领域称为“编舞机器人学”：用舞蹈设计机器人如何在人群中移动。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-freundlich",
+   "name": "Thomas Freundlich",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Dancer, choreographer and filmmaker",
+   "based": "Helsinki, Finland",
+   "bio": "Finnish-American choreographer who has made dance works for industrial robots since 2008.",
+   "why": "He was among the first to programme a factory robot as a full dance partner.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "http://www.freundlich.org/"
+   },
+   "role_zh": "舞者、编舞家、电影人",
+   "bio_zh": "芬兰裔美国编舞家，自 2008 年起为工业机器人创作舞蹈作品。",
+   "why_zh": "他是最早把工厂机器人编程为完整舞伴的编舞家之一。",
+   "based_zh": "赫尔辛基，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pablo-ventura",
+   "name": "Pablo Ventura",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; director of Ventura Dance Company",
+   "based": "Zurich, Switzerland",
+   "bio": "Spanish choreographer who has worked with industrial robots, software and machine performers since around 2000.",
+   "why": "He treats robots as dancers in the company, not stage machinery.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.ventura-dance.com/"
+   },
+   "role_zh": "编舞家；Ventura Dance Company 总监",
+   "bio_zh": "西班牙编舞家，自 2000 年前后与工业机器人、软件和机器表演者合作。",
+   "why_zh": "他把机器人当作舞团里的舞者，而非舞台机械。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [
+    "robotlab",
+    "louis-philippe-demers"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robotlab",
+   "name": "robotlab",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist group (Matthias Gommel, Martina Haitz, Jan Zappe)",
+   "based": "Karlsruhe, Germany",
+   "bio": "German group, founded at ZKM in 2000, that takes industrial robots out of the factory into art and public space.",
+   "why": "Their robots write scripture, draw portraits and dance, testing machine labour as cultural labour.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.robotlab.de/"
+   },
+   "role_zh": "艺术小组（Matthias Gommel、Martina Haitz、Jan Zappe）",
+   "bio_zh": "2000 年在 ZKM 成立的德国艺术小组，把工业机器人从工厂带进艺术与公共空间。",
+   "why_zh": "他们的机器人抄写经文、画肖像、跳舞，把机器劳动当作文化劳动来检验。",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "connected_to": [
+    "pablo-ventura"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "louise-crnkovic-friis",
+   "name": "Louise Crnkovic-Friis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; co-founder of Peltarion",
+   "based": "Stockholm, Sweden",
+   "bio": "Swedish choreographer who trained neural networks on her own dance to generate new choreography.",
+   "why": "chor-rnn is an early case of a choreographer's style learned by a machine.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "编舞家；Peltarion 联合创始人",
+   "bio_zh": "瑞典编舞家，用自己的舞蹈训练神经网络，生成新的编舞。",
+   "why_zh": "chor-rnn 是机器学习编舞家个人风格的早期案例。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "luka-crnkovic-friis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "luka-crnkovic-friis",
+   "name": "Luka Crnkovic-Friis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Machine-learning engineer; co-founder of Peltarion",
+   "based": "Stockholm, Sweden",
+   "bio": "Swedish AI engineer who built the chor-rnn model with Louise Crnkovic-Friis.",
+   "why": "He brought deep learning into a choreographer's studio.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "机器学习工程师；Peltarion 联合创始人",
+   "bio_zh": "瑞典 AI 工程师，与 Louise Crnkovic-Friis 合作构建 chor-rnn 模型。",
+   "why_zh": "他把深度学习带进了编舞家的排练室。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "louise-crnkovic-friis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "merritt-moore",
+   "name": "Merritt Moore",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Ballet dancer and quantum physicist",
+   "based": "London, UK",
+   "bio": "American dancer with a DPhil in atomic and laser physics from Oxford who choreographs duets with industrial robot arms.",
+   "why": "She programmes the robot herself, making the duet a conversation between dancer and code.",
+   "disciplines": [
+    "performance",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.merrittmoore.com/"
+   },
+   "role_zh": "芭蕾舞者、量子物理学家",
+   "bio_zh": "美国舞者，牛津大学原子与激光物理博士，编创与工业机械臂的双人舞。",
+   "why_zh": "她亲自给机器人编程，让双人舞成为舞者与代码之间的对话。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gideon-obarzanek",
+   "name": "Gideon Obarzanek",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; founder of Chunky Move",
+   "based": "Melbourne, Australia",
+   "bio": "Australian choreographer who founded Chunky Move in 1995 and made interactive-video dance works with Frieder Weiss.",
+   "why": "Glow made machine vision a visible partner of the dancing body.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://chunkymove.com.au/"
+   },
+   "role_zh": "编舞家；Chunky Move 舞团创始人",
+   "bio_zh": "澳大利亚编舞家，1995 年创立 Chunky Move，与 Frieder Weiss 合作创作互动影像舞蹈。",
+   "why_zh": "《Glow》让机器视觉成为舞动身体看得见的伙伴。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "frieder-weiss"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frieder-weiss",
+   "name": "Frieder Weiss",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist and software developer (Kalypso)",
+   "based": "Nuremberg, Germany",
+   "bio": "German engineer-artist who writes real-time camera tracking software for dance.",
+   "why": "His systems let a camera 'see' dancers and answer them with light.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术家、软件开发者（Kalypso）",
+   "bio_zh": "为舞蹈编写实时摄像追踪软件的德国工程师兼艺术家。",
+   "why_zh": "他的系统让摄像机“看见”舞者，并以光回应他们。",
+   "based_zh": "纽伦堡，德国",
+   "connected_to": [
+    "gideon-obarzanek"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "boston-dynamics",
+   "name": "Boston Dynamics",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Robotics company",
+   "based": "Waltham, MA, US",
+   "bio": "Company, spun out of MIT in 1992, known for legged robots such as BigDog, Spot and Atlas.",
+   "why": "Its viral videos shape how the public imagines robot bodies, from kicked dogs to dancing humanoids.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://bostondynamics.com/"
+   },
+   "role_zh": "机器人公司",
+   "bio_zh": "1992 年从 MIT 分拆成立的公司，以 BigDog、Spot 和 Atlas 等腿式机器人闻名。",
+   "why_zh": "它的爆红视频塑造了公众对机器人身体的想象：从被踢的机器狗到跳舞的人形机器人。",
+   "based_zh": "沃尔瑟姆（马萨诸塞州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kris-verdonck",
+   "name": "Kris Verdonck",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Theatre maker and visual artist; director of A Two Dogs Company",
+   "based": "Brussels, Belgium",
+   "bio": "Belgian artist whose performances and installations put machines, objects and humans on stage as equal performers.",
+   "why": "His machines perform struggle, failure and exhaustion, blurring actor and apparatus.",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.atwodogscompany.org/"
+   },
+   "role_zh": "剧场创作者、视觉艺术家；A Two Dogs Company 总监",
+   "bio_zh": "比利时艺术家，他的表演与装置让机器、物件与人以平等的表演者身份同台。",
+   "why_zh": "他的机器表演挣扎、失败与耗竭，模糊了演员与装置的界限。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "stelarc--third-hand",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Third Hand",
+   "year": 1980,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A mechanical right hand attached to Stelarc's arm and driven by the electrical signals of his abdominal and leg muscles, which he wrote and performed with alongside his own two hands for many years.",
+   "description_zh": "一只安装在 Stelarc 手臂上的机械右手，由他腹部和腿部肌肉的电信号驱动；多年来他用它与自己的双手一起写字和表演。",
+   "idea_en": "An extra limb is learned, not given: the body slowly makes room for a machine that it controls indirectly.",
+   "idea_zh": "多出来的肢体需要学习而非天生：身体慢慢为一台间接控制的机器腾出位置。",
+   "method": "Robotic hand with pinch, grasp and wrist rotation, controlled by EMG electrodes on abdomen and legs, with tactile feedback to the arm.",
+   "method_zh": "具备捏、握和手腕旋转功能的机械手，由腹部和腿部的肌电电极控制，并向手臂提供触觉反馈。",
+   "keywords": [
+    "prosthesis",
+    "EMG",
+    "robotic hand",
+    "body art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Or1CVc6A9YA"
+   },
+   "source_url": "https://stelarc.org/"
+  },
+  {
+   "id": "stelarc--ping-body",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Ping Body",
+   "year": 1996,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "infrastructure"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Stelarc sends ping signals to dozens of internet domains; the round-trip times drive a muscle-stimulation system, so the flow of internet traffic, not his will, makes his arms and legs twitch and move.",
+   "description_zh": "Stelarc 向数十个互联网域名发送 ping 信号，返回时间驱动肌肉电刺激系统；于是是网络流量而非他的意志，让他的四肢抽动和移动。",
+   "idea_en": "The network can become the body's nervous system: here the body is moved by data it cannot feel.",
+   "idea_zh": "网络可以成为身体的神经系统：在这里，身体被它无法感知的数据推动。",
+   "method": "Ping values from global internet hosts mapped to a computer-controlled muscle stimulation system with electrodes on the limbs; the Third Hand is driven by his own EMG.",
+   "method_zh": "来自全球互联网主机的 ping 值被映射到计算机控制的肌肉电刺激系统，电极贴在四肢上；第三只手则由他自己的肌电信号驱动。",
+   "keywords": [
+    "internet",
+    "muscle stimulation",
+    "network",
+    "involuntary body"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=45MOlsFGSHI"
+   },
+   "source_url": "https://stelarc.org/",
+   "exhibited": [
+    "DEAF96, V2_ Rotterdam (1996)"
+   ]
+  },
+  {
+   "id": "stelarc--exoskeleton",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Exoskeleton",
+   "year": 1998,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "robot-creature",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Stelarc stands on a six-legged pneumatic walking machine and steers its walk and turns with arm gestures, while the hiss and clank of the machine are amplified into a soundtrack.",
+   "description_zh": "Stelarc 站在一台六足气动步行机上，用手臂动作控制它行走与转向，机器的嘶嘶声与撞击声被放大成配乐。",
+   "idea_en": "The body becomes the pilot and the passenger of a larger, non-human body at the same time.",
+   "idea_zh": "身体同时成为一具更大的、非人身体的驾驶者与乘客。",
+   "method": "Pneumatic hexapod robot built with engineers in Hamburg; arm movements read by sensors on an arm-mounted exoskeleton select gaits and directions.",
+   "method_zh": "在汉堡与工程师共同打造的气动六足机器人；手臂外骨骼上的传感器读取手臂动作，选择步态与方向。",
+   "keywords": [
+    "exoskeleton",
+    "hexapod",
+    "walking machine",
+    "pneumatics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R2MntBUwUxY"
+   },
+   "source_url": "https://stelarc.org/"
+  },
+  {
+   "id": "stelarc--prosthetic-head",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Prosthetic Head",
+   "year": 2002,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A large projected 3D head with Stelarc's face that talks with visitors who type questions; it has its own opinions, moods and can make up verse, more a conversational double than a portrait.",
+   "description_zh": "一个投影出的大型三维头像，带着 Stelarc 的面孔，与键入问题的观众交谈；它有自己的观点和情绪，还会即兴作诗，与其说是肖像，不如说是会对话的替身。",
+   "idea_en": "A 'prosthesis' can be a mind rather than a limb: the artist extends himself through a talking agent that answers for him.",
+   "idea_zh": "“义体”也可以是一颗头脑而非一只手：艺术家通过一个替他作答的对话体延伸自己。",
+   "method": "Embodied conversational agent: chatbot engine with a customised knowledge base, text-to-speech and a real-time animated 3D model of the artist's head.",
+   "method_zh": "具身对话代理：聊天机器人引擎配合定制知识库、语音合成，以及实时动画的艺术家头部三维模型。",
+   "keywords": [
+    "embodied conversational agent",
+    "avatar",
+    "chatbot",
+    "double"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dprvwAWfy9Q"
+   },
+   "source_url": "https://stelarc.org/"
+  },
+  {
+   "id": "stelarc--ear-on-arm",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Ear on Arm",
+   "year": 2006,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "An ear built from cell-cultured tissue and a biocompatible scaffold, surgically constructed on Stelarc's left forearm; the plan is to add a microphone that streams what the ear 'hears' to the internet.",
+   "description_zh": "一只由细胞培养组织和生物相容支架构成的耳朵，通过手术建在 Stelarc 左前臂上；他计划植入麦克风，把这只耳朵“听到”的声音传上互联网。",
+   "idea_en": "An organ can be relocated and repurposed as a public, networked sense for others rather than for oneself.",
+   "idea_zh": "器官可以被移位并改作他用：成为为他人而非为自己服务的公共、联网感官。",
+   "method": "Porous polyethylene scaffold inserted under the skin in surgeries from 2006, allowed to grow tissue; an embedded microphone was tested and later removed after infection.",
+   "method_zh": "自 2006 年起经多次手术在皮下植入多孔聚乙烯支架，让组织长入；曾测试植入麦克风，后因感染取出。",
+   "keywords": [
+    "extra ear",
+    "bio art",
+    "surgery",
+    "internet organ"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=s80ZjumSA08"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/23/Stelarc_3rd_ear_2011f.jpg"
+   ],
+   "source_url": "https://stelarc.org/"
+  },
+  {
+   "id": "stelarc--propel",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Propel",
+   "year": 2015,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "robot-arm",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Stelarc's body is strapped to the end of an industrial robot arm that choreographs its trajectory, speed and orientation for 35 minutes; afterwards the robot repeats the same choreography holding a giant carved ear.",
+   "description_zh": "Stelarc 的身体被固定在一台工业机械臂末端，由机械臂在 35 分钟内编排它的轨迹、速度与朝向；之后机器人以同样的编舞举着一只巨大的雕刻耳朵再跳一遍。",
+   "idea_en": "Here the machine is the choreographer and the human the payload; the body is one interchangeable end-effector among others.",
+   "idea_zh": "在这里机器是编舞者，人是负载；身体只是可互换的末端执行器之一。",
+   "method": "Industrial robot arm with a 3 m reach programmed with a fixed choreography; the same robot also milled the ear sculpture it later moved.",
+   "method_zh": "臂展 3 米的工业机械臂按固定编舞编程；同一台机器人还铣削出它随后搬动的耳朵雕塑。",
+   "keywords": [
+    "industrial robot",
+    "choreography",
+    "SymbioticA",
+    "body as payload"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2bRpTn0KKd8"
+   },
+   "source_url": "https://stelarc.org/",
+   "exhibited": [
+    "DeMonstrable, Lawrence Wilson Art Gallery, Perth (2015)"
+   ]
+  },
+  {
+   "id": "marceli-antunez-roca--joan",
+   "creator_ids": [
+    "marceli-antunez-roca"
+   ],
+   "title": "JoAn, l'home de carn",
+   "year": 1992,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A life-size seated male robot covered in sewn pig skin sits in a glass case and moves its neck, shoulder, elbow and penis whenever visitors speak, sing, whistle or clap near it.",
+   "description_zh": "一个真人大小、缝着猪皮的坐姿男性机器人被置于玻璃柜中，观众在旁说话、唱歌、吹口哨或鼓掌时，它就转动脖子、肩膀、手肘和阴茎。",
+   "idea_en": "A machine clad in flesh shows that the uncanny comes as much from the audience's laughter and barking dogs as from the robot.",
+   "idea_zh": "披着肉皮的机器表明：诡异感既来自机器人，也来自观众的笑声和狗吠。",
+   "method": "Computer analyses the sound in the room and sends signals to motors at four joints of a mechanically articulated figure.",
+   "method_zh": "计算机分析现场声音，向机械关节人偶四处关节的电机发送信号。",
+   "keywords": [
+    "flesh robot",
+    "pig skin",
+    "sound-triggered",
+    "La Fura dels Baus"
+   ],
+   "images": [
+    "https://www.marceliantunez.com/media/cache/07/7c/077c994ce12858786f4a25a749c0ba02.jpg"
+   ],
+   "source_url": "https://www.marceliantunez.com/work/joan-lhome-de-carn/"
+  },
+  {
+   "id": "marceli-antunez-roca--epizoo",
+   "creator_ids": [
+    "marceli-antunez-roca"
+   ],
+   "title": "Epizoo",
+   "year": 1994,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Antúnez stands on a turntable wearing a pneumatic exoskeleton; audience members use a computer mouse to make it pull at his nose, ears, mouth, buttocks and chest, while cartoon animations of his body play on screens.",
+   "description_zh": "Antúnez 身穿气动外骨骼站在转台上；观众用电脑鼠标操控外骨骼拉扯他的鼻子、耳朵、嘴、臀部和胸部，同时屏幕上播放着他身体的卡通动画。",
+   "idea_en": "Interfaces make cruelty feel like a game: one click at a distance is felt as pain in another body.",
+   "idea_zh": "界面让残酷变得像游戏：远处的一次点击，化作另一具身体上的疼痛。",
+   "method": "Body-worn pneumatic mechanisms driven by a computer and controlled by spectators through a graphical mouse interface.",
+   "method_zh": "穿戴在身上的气动机构由计算机驱动，观众通过图形界面和鼠标控制。",
+   "keywords": [
+    "exoskeleton",
+    "audience control",
+    "mechatronic performance",
+    "pain"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5utDR8VWxms"
+   },
+   "images": [
+    "https://www.marceliantunez.com/media/cache/3b/1f/3b1f492a17b1654525596a9cc5d9af01.jpg"
+   ],
+   "source_url": "https://www.marceliantunez.com/work/epizoo/"
+  },
+  {
+   "id": "marceli-antunez-roca--afasia",
+   "creator_ids": [
+    "marceli-antunez-roca"
+   ],
+   "title": "Afasia",
+   "year": 1998,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "prosthesis-cyborg",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A one-man mechatronic version of Homer's Odyssey: wearing an exoskeleton, Antúnez conducts four musical robots, projected images and sound with his own body, without words.",
+   "description_zh": "一人演出的机电版《奥德赛》：Antúnez 身穿外骨骼，用自己的身体指挥四台音乐机器人、投影影像与声音，全程不用语言。",
+   "idea_en": "The performer becomes a switchboard: one body commands an orchestra of machines, and the story is told through that control.",
+   "idea_zh": "表演者成了控制台：一具身体指挥一支机器乐队，故事通过这种操控被讲述。",
+   "method": "'Dreskeleton' body interface with sensors sends signals to software that drives robot guitar, drum, bagpipe and violin, plus interactive video.",
+   "method_zh": "带传感器的“Dreskeleton”身体界面把信号传给软件，驱动机器人吉他、鼓、风笛和小提琴，以及互动影像。",
+   "keywords": [
+    "exoskeleton",
+    "robot orchestra",
+    "Odyssey",
+    "mechatronic theatre"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MJan5KPX050"
+   },
+   "images": [
+    "https://www.marceliantunez.com/media/cache/ee/b8/eeb8aba209de3a0770ed94a45f3dd37d.jpg"
+   ],
+   "source_url": "https://www.marceliantunez.com/work/afasia/"
+  },
+  {
+   "id": "neil-harbisson--eyeborg",
+   "creator_ids": [
+    "neil-harbisson"
+   ],
+   "title": "Eyeborg (Cyborg Antenna)",
+   "year": 2004,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "An antenna osseointegrated in Harbisson's skull converts light frequencies, including infrared and ultraviolet, into vibrations he hears through bone; he paints and composes with this sense.",
+   "description_zh": "一根与 Harbisson 颅骨骨融合的天线，把光的频率（包括红外和紫外）转换为他通过骨传导听到的振动；他用这种感官作画、作曲。",
+   "idea_en": "A machine sense can become part of a person's body and identity, not just a tool they use.",
+   "idea_zh": "机器感官可以成为一个人身体与身份的一部分，而不只是他使用的工具。",
+   "method": "Camera sensor at the tip of the antenna feeds a chip that maps hue to pitch, heard through bone conduction; Bluetooth allows remote colour input.",
+   "method_zh": "天线末端的摄像头传感器连接芯片，把色相映射为音高，经骨传导听到；蓝牙可接收远程颜色输入。",
+   "keywords": [
+    "cyborg",
+    "sonochromatism",
+    "sensory augmentation",
+    "Cyborg Foundation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ygRNoieAnzI"
+   },
+   "source_url": "https://www.cyborgarts.com/"
+  },
+  {
+   "id": "moon-ribas--seismic-sense",
+   "creator_ids": [
+    "moon-ribas"
+   ],
+   "title": "Seismic Sense / Waiting for Earthquakes",
+   "year": 2013,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "infrastructure"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "performance",
+   "description": "An implanted sensor linked to online seismographs vibrates whenever an earthquake happens anywhere on Earth; in the performance Waiting for Earthquakes, Ribas stands still and turns each tremor she feels into movement.",
+   "description_zh": "植入体内、连接在线地震仪的传感器会在地球上任何地方发生地震时振动；在表演《等待地震》中，Ribas 静立等待，把感受到的每次震动转化为动作。",
+   "idea_en": "A networked implant can tie a body to planetary time: the dancer cannot choose when she moves.",
+   "idea_zh": "联网植入物可以把身体接入行星的时间：舞者无法选择自己何时移动。",
+   "method": "Vibration implant (first in the arm, later in the feet) driven by real-time seismic data; stronger quakes produce stronger vibrations.",
+   "method_zh": "由实时地震数据驱动的振动植入物（最初在手臂，后移至双脚）；地震越强，振动越强。",
+   "keywords": [
+    "cyborg",
+    "earthquakes",
+    "dance",
+    "implant"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Un4MFR-vNI"
+   },
+   "images": [
+    "https://images.hoobaweb.com/8930/imgf-1200-630/moon-ribas.png"
+   ],
+   "source_url": "https://www.moonribas.com/"
+  },
+  {
+   "id": "marco-donnarumma--corpus-nil",
+   "creator_ids": [
+    "marco-donnarumma"
+   ],
+   "title": "Corpus Nil",
+   "year": 2016,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "generative-latent"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A near-motionless, painted body slowly contorts on the floor while an AI system listens to its muscle sounds and blood flow and answers with loud sound and light that push the performer into strange configurations.",
+   "description_zh": "一具几乎静止、涂满颜料的身体在地上缓慢扭曲；AI 系统聆听肌肉声音与血流，以巨大的声响与光回应，把表演者推入陌生的姿态。",
+   "idea_en": "The machine does not follow the body; it learns from and pushes it, making a new, unfamiliar body together.",
+   "idea_zh": "机器并不跟随身体，而是向它学习并推动它，一起造出一具陌生的新身体。",
+   "method": "Biosensors (mechanomyography microphones and blood-flow sensors) feed machine-learning software that generates sound and light in real time.",
+   "method_zh": "生物传感器（肌音麦克风与血流传感器）把数据输入机器学习软件，实时生成声音与灯光。",
+   "keywords": [
+    "biosensors",
+    "machine learning",
+    "muscle sound",
+    "ritual"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CAIh8FxLMtk"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2017/03/marco-donnarumma_corpus-nil_zkm_onuk.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/corpus-nil/"
+  },
+  {
+   "id": "marco-donnarumma--amygdala",
+   "creator_ids": [
+    "marco-donnarumma"
+   ],
+   "title": "Amygdala",
+   "year": 2017,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "robot-arm",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A robotic arm with a knife, built like a human limb and driven by an AI that learns by trial and error, repeatedly cuts a skin-like material in a purification ritual.",
+   "description_zh": "一只装着刀的机械臂，按人类肢体的结构打造，由通过试错学习的 AI 驱动，在一场净化仪式中反复切割一块类似皮肤的材料。",
+   "idea_en": "An AI prosthesis without a human wearer learns its own gestures: a limb searching for a body and a ritual.",
+   "idea_zh": "没有人类佩戴者的 AI 义体学着自己的动作：一只在寻找身体与仪式的肢体。",
+   "method": "Humanlike robotic arm with sensors and an adaptive neural network that develops cutting movements through reinforcement learning.",
+   "method_zh": "类人机械臂配备传感器与自适应神经网络，通过强化学习发展出切割动作。",
+   "keywords": [
+    "AI prosthesis",
+    "robot arm",
+    "ritual",
+    "reinforcement learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=h4ykqTG1ZjY"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2017/09/Marco-Donnarumma_Amygdala-MK3_13_ed_web.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/amygdala/"
+  },
+  {
+   "id": "marco-donnarumma--eingeweide",
+   "creator_ids": [
+    "marco-donnarumma",
+    "margherita-pevere"
+   ],
+   "title": "Eingeweide",
+   "year": 2018,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "prosthesis-cyborg",
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A dance-theatre piece in which two performers, one fitted with an AI-driven robotic face prosthesis, struggle and fuse with each other and with membranes of living bacterial cellulose.",
+   "description_zh": "一部舞蹈剧场作品：两名表演者（其中一人戴着 AI 驱动的机器人面部义体）彼此挣扎、交融，并与活体细菌纤维素膜纠缠。",
+   "idea_en": "A hybrid body can be machinic, microbial and human at once, and none of them fully in control.",
+   "idea_zh": "混成身体可以同时是机器的、微生物的和人的，而没有一方完全掌控。",
+   "method": "Robotic face prosthesis controlled by a neural network responding to the performer's muscle signals; stage membranes grown from bacteria.",
+   "method_zh": "机器人面部义体由神经网络控制，响应表演者的肌肉信号；舞台上的膜由细菌培养而成。",
+   "keywords": [
+    "robotic prosthesis",
+    "bacterial cellulose",
+    "dance theatre",
+    "7 Configurations"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6P0Vsg81Om0"
+   },
+   "source_url": "https://7c.marcodonnarumma.com/",
+   "exhibited": [
+    "Romaeuropa Festival, Rome (2018)"
+   ]
+  },
+  {
+   "id": "eduardo-kac--time-capsule",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Time Capsule",
+   "year": 1997,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "Live on Brazilian television and the web, Kac implanted an identification microchip in his ankle and then registered himself online in a pet-recovery database as both animal and owner.",
+   "description_zh": "在巴西电视与网络直播中，Kac 把一枚身份识别芯片植入自己的脚踝，随后在网上的宠物寻回数据库中把自己同时登记为“动物”与“主人”。",
+   "idea_en": "Being readable by machines is a way of being classified; the implant makes the body a database entry.",
+   "idea_zh": "能被机器读取，就意味着被分类；植入物把身体变成一条数据库记录。",
+   "method": "RFID microchip injected with a syringe, scanned live, and the chip number registered in an animal ID database over the internet.",
+   "method_zh": "用注射器植入 RFID 芯片，现场扫描，并在线把芯片编号登记到动物识别数据库。",
+   "keywords": [
+    "RFID",
+    "microchip",
+    "implant",
+    "database"
+   ],
+   "images": [
+    "https://www.ekac.org/needle.gif"
+   ],
+   "source_url": "https://www.ekac.org/timec.html",
+   "exhibited": [
+    "Casa das Rosas, São Paulo (1997)"
+   ]
+  },
+  {
+   "id": "kevin-warwick--project-cyborg",
+   "creator_ids": [
+    "kevin-warwick"
+   ],
+   "title": "Project Cyborg 2.0 (neural implant)",
+   "year": 2002,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "Warwick had a 100-electrode array implanted into the median nerve of his arm; he used it to move a robot hand over the internet from New York, and to exchange simple nerve signals with his wife, who had a simpler implant.",
+   "description_zh": "Warwick 在手臂正中神经中植入了 100 个电极的阵列；他借此从纽约经互联网操控一只机器手，并与植入了更简单电极的妻子交换简单的神经信号。",
+   "idea_en": "A nervous system can be networked: touch and movement travel as data between bodies and machines.",
+   "idea_zh": "神经系统可以被联网：触觉与动作作为数据在身体与机器之间传递。",
+   "method": "Utah microelectrode array in the median nerve, connected to a computer that recorded and stimulated nerve signals and relayed them over the internet.",
+   "method_zh": "植入正中神经的 Utah 微电极阵列，连接计算机记录与刺激神经信号，并经互联网转发。",
+   "keywords": [
+    "neural implant",
+    "self-experiment",
+    "cyborg",
+    "BrainGate"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GLq7edATaFo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1001/archneur.60.10.1369",
+    "doi": "10.1001/archneur.60.10.1369",
+    "venue": "Archives of Neurology 2003",
+    "title": "The Application of Implant Technology for Cybernetic Systems"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Kevin_Warwick"
+  },
+  {
+   "id": "steve-mann--wearcomp",
+   "creator_ids": [
+    "steve-mann"
+   ],
+   "title": "WearComp and EyeTap",
+   "year": 1978,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment",
+    "classification"
+   ],
+   "kind": "prototype",
+   "description": "Over decades Mann built and wore ever smaller computers and head-mounted camera-displays in daily life, seeing the world through a computer that could record, alter and share his view.",
+   "description_zh": "数十年间，Mann 制作并在日常生活中佩戴越来越小的计算机与头戴式摄像显示器，通过一台能记录、修改和分享视野的计算机看世界。",
+   "idea_en": "Living inside a machine's view changes both what you see and how others see you; Mann named the reverse gaze 'sousveillance'.",
+   "idea_zh": "生活在机器的视野里，既改变你看到的，也改变别人看你的方式；Mann 把这种反向凝视称为“反向监视”。",
+   "method": "Backpack and later eyeglass-based wearable computers with cameras and displays aligned to the eye (EyeTap) to mediate vision in real time.",
+   "method_zh": "从背包式到眼镜式的可穿戴计算机，配备与眼睛对齐的摄像头和显示器（EyeTap），实时中介视觉。",
+   "keywords": [
+    "wearable computing",
+    "EyeTap",
+    "sousveillance",
+    "mediated reality"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fCco6FMCRmk"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3e/SteveMann_with_Generation-4_Glass_1999.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/2.566147",
+    "doi": "10.1109/2.566147",
+    "venue": "IEEE Computer 1997",
+    "title": "Wearable computing: a first step toward personal imaging"
+   },
+   "source_url": "http://wearcam.org/"
+  },
+  {
+   "id": "wafaa-bilal--3rdi",
+   "creator_ids": [
+    "wafaa-bilal"
+   ],
+   "title": "3rdi",
+   "year": 2010,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "For about a year Bilal wore a camera surgically attached to the back of his head; it took a picture every minute and streamed it to a website and to Mathaf in Doha, recording what he left behind.",
+   "description_zh": "约一年时间里，Bilal 的后脑勺上通过手术固定了一台摄像机，每分钟拍一张照片，实时传到网站和多哈的 Mathaf 美术馆，记录他身后留下的一切。",
+   "idea_en": "A body can carry an automatic eye it cannot look through; the machine sees for others, not for its wearer.",
+   "idea_zh": "身体可以携带一只自己无法透过它观看的自动之眼；机器是替他人看，而不是替佩戴者看。",
+   "method": "Small camera mounted on a titanium plate implanted in the back of the head, capturing one frame per minute and uploading via a laptop.",
+   "method_zh": "小型摄像头安装在植入后脑的钛板上，每分钟拍一帧，通过笔记本电脑上传。",
+   "keywords": [
+    "implanted camera",
+    "self-surveillance",
+    "Mathaf",
+    "body art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=h2nNKbO9-Eg"
+   },
+   "source_url": "https://wafaabilal.com/3rdi/",
+   "exhibited": [
+    "Mathaf: Arab Museum of Modern Art, Doha (2010–11)"
+   ]
+  },
+  {
+   "id": "dani-clode--third-thumb",
+   "creator_ids": [
+    "dani-clode"
+   ],
+   "title": "Third Thumb",
+   "year": 2017,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A 3D-printed robotic extra thumb worn beside the little finger and controlled with pressure sensors under the big toes; in a later UCL study, people who wore it for days learned new grasps and their brain's map of the hand changed.",
+   "description_zh": "一只 3D 打印的机器人“额外拇指”，戴在小指一侧，由大脚趾下的压力传感器控制；伦敦大学学院后来的研究发现，连续数天佩戴它的人学会了新的抓握方式，大脑中的手部表征也发生了变化。",
+   "idea_en": "Extending the body is not just mechanical: the brain rewrites its picture of the hand to include the machine.",
+   "idea_zh": "延伸身体不只是机械问题：大脑会改写对手的认知，把机器纳入其中。",
+   "method": "Two motors pull cables in a 3D-printed thumb; wireless foot sensors map toe pressure to flexion and adduction.",
+   "method_zh": "两个电机拉动 3D 打印拇指中的线缆；无线足部传感器把脚趾压力映射为弯曲与内收动作。",
+   "keywords": [
+    "augmentation",
+    "extra limb",
+    "neuroscience",
+    "Royal College of Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UD_LwZD2Kls"
+   },
+   "images": [
+    "https://dvqlxo2m2q99q.cloudfront.net/000_clients/107233/page/g22141jqBFNhnz6t.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/scirobotics.abd7935",
+    "doi": "10.1126/scirobotics.abd7935",
+    "venue": "Science Robotics 2021",
+    "title": "Robotic hand augmentation drives changes in neural body representation"
+   },
+   "source_url": "https://www.daniclodedesign.com/thethirdthumb"
+  },
+  {
+   "id": "louis-philippe-demers--inferno",
+   "creator_ids": [
+    "louis-philippe-demers",
+    "bill-vorn"
+   ],
+   "title": "Inferno",
+   "year": 2015,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Audience members are strapped into robotic exoskeletons that move their arms and torsos to loud industrial music, so the crowd becomes a chorus of bodies puppeteered by machines, a hell after Dante.",
+   "description_zh": "观众被绑进机器人外骨骼，在嘈杂的工业音乐中被带动手臂和躯干，整群人变成被机器操纵的身体合唱，一座仿但丁的“地狱”。",
+   "idea_en": "Being moved by a machine is felt from the inside: the participant is both performer and victim of the choreography.",
+   "idea_zh": "被机器带动的感受来自身体内部：参与者既是这段编舞的表演者，也是它的受害者。",
+   "method": "Wearable exoskeletons with pneumatic or electric actuators on the arms and back, controlled centrally in sync with sound and light.",
+   "method_zh": "手臂与背部装有气动或电动驱动器的可穿戴外骨骼，由中央控制，与声光同步。",
+   "keywords": [
+    "exoskeleton",
+    "participatory performance",
+    "Dante",
+    "machine control"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sGIbZ5DD4fY"
+   },
+   "images": [
+    "http://billvorn.concordia.ca/robography/images/Inferno01.jpg"
+   ],
+   "source_url": "http://billvorn.concordia.ca/robography/Inferno.html"
+  },
+  {
+   "id": "stelarc--fractal-flesh",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Fractal Flesh",
+   "year": 1995,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "prosthesis-cyborg",
+    "infrastructure"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "During the Telepolis event, people at terminals in Paris, Helsinki and Amsterdam touched a screen model of Stelarc's body and remotely stimulated his muscles in Luxembourg, making him move without his consent.",
+   "description_zh": "在 Telepolis 活动中，巴黎、赫尔辛基和阿姆斯特丹的观众触碰屏幕上的 Stelarc 身体模型，远程刺激他在卢森堡的肌肉，让他在未经本人意志的情况下动起来。",
+   "idea_en": "A body can be distributed across a network and moved by many remote agents at once.",
+   "idea_zh": "身体可以分布在网络之中，同时被多个远方的行动者驱动。",
+   "method": "Touch-screen interface at remote sites sends commands over the internet to a muscle-stimulation system attached to the artist's body.",
+   "method_zh": "异地的触摸屏界面经互联网向贴在艺术家身上的肌肉电刺激系统发送指令。",
+   "keywords": [
+    "telematic",
+    "remote control",
+    "muscle stimulation",
+    "Telepolis"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=N2VkOE_AgNI"
+   },
+   "source_url": "https://stelarc.org/",
+   "exhibited": [
+    "Telepolis, Luxembourg (1995)"
+   ]
+  },
+  {
+   "id": "eduardo-kac--ornitorrinco",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Ornitorrinco",
+   "year": 1989,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "robot-creature",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "A small telerobot named after the platypus is driven by remote participants over ordinary phone lines; they see its surroundings through its camera eye, sharing a machine body across cities.",
+   "description_zh": "一台以鸭嘴兽命名的小型远程机器人，由远方参与者通过普通电话线驾驶；他们通过它的摄像眼看周围环境，跨城市共享一具机器身体。",
+   "idea_en": "Presence can be displaced into a small, slow machine; the remote body is shared rather than owned.",
+   "idea_zh": "在场可以被移置进一台小而缓慢的机器；远程身体是被共享的，而非被占有的。",
+   "method": "Mobile robot with a camera, controlled via telephone keypad tones, sending back still video images over phone lines (with Ed Bennett).",
+   "method_zh": "带摄像头的移动机器人，通过电话按键音控制，经电话线传回静态视频图像（与 Ed Bennett 合作）。",
+   "keywords": [
+    "telerobotics",
+    "telephone",
+    "telepresence",
+    "Ed Bennett"
+   ],
+   "images": [
+    "https://www.ekac.org/ornitorrinco.color.jpg"
+   ],
+   "source_url": "https://www.ekac.org/ornitorrinco.html"
+  },
+  {
+   "id": "eduardo-kac--rara-avis",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Rara Avis",
+   "year": 1996,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "robot-creature",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "In an aviary with some 30 zebra finches perches a telerobotic macaw; visitors wearing a VR headset see through its eyes and move its head, and internet users could also look through it and speak through its voice.",
+   "description_zh": "在养着约 30 只斑胸草雀的鸟舍里，停着一只远程机器人金刚鹦鹉；戴上 VR 头显的观众通过它的眼睛观看并转动它的头，网上用户也能透过它观看并借它的声音说话。",
+   "idea_en": "Telepresence places you inside another body among other species, as the odd one out.",
+   "idea_zh": "远程在场把你放进另一具身体，置身其他物种之中，成为格格不入的那一个。",
+   "method": "Robotic macaw with stereo cameras in its eyes, coupled to a VR headset's head tracking, with video and audio also streamed to the internet.",
+   "method_zh": "眼中装有立体摄像头的机器鹦鹉，与 VR 头显的头部追踪联动，视频和音频同时传到互联网。",
+   "keywords": [
+    "telerobot",
+    "macaw",
+    "aviary",
+    "VR"
+   ],
+   "images": [
+    "https://www.ekac.org/rara.avis.jpg"
+   ],
+   "source_url": "https://www.ekac.org/raraavis.html",
+   "exhibited": [
+    "Nexus Contemporary Art Center, Atlanta (1996)"
+   ]
+  },
+  {
+   "id": "ken-goldberg--telegarden",
+   "creator_ids": [
+    "ken-goldberg"
+   ],
+   "title": "The Telegarden",
+   "year": 1995,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Made with Joseph Santarromana, a small garden of living plants was tended for nine years by thousands of internet users who planted and watered seeds through an industrial robot arm they could see only on a webpage.",
+   "description_zh": "与 Joseph Santarromana 合作：一座种着活植物的小花园，九年间由数千名网民照料，他们只能在网页上看到它，通过工业机械臂播种和浇水。",
+   "idea_en": "Care at a distance depends on trusting a machine and an image: did I really water that plant?",
+   "idea_zh": "远程照护依赖对机器和图像的信任：我真的给那株植物浇了水吗？",
+   "method": "Adept-1 industrial robot arm with a camera over a planter, controlled through a web interface; members' actions were logged.",
+   "method_zh": "花盆上方装有摄像头的 Adept-1 工业机械臂，通过网页界面控制，会员的操作都会被记录。",
+   "keywords": [
+    "telerobotics",
+    "web",
+    "garden",
+    "telepistemology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vQE-qJ_aYPw"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/31/Telegarden.jpg",
+    "https://goldberg.berkeley.edu/garden/telegarden-8x6-72dpi.jpg"
+   ],
+   "source_url": "https://goldberg.berkeley.edu/garden/Ars/",
+   "exhibited": [
+    "Ars Electronica Center, Linz (1996–2004)"
+   ]
+  },
+  {
+   "id": "ken-goldberg--mercury-project",
+   "creator_ids": [
+    "ken-goldberg"
+   ],
+   "title": "The Mercury Project",
+   "year": 1994,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "One of the first robots anyone could control through the web: visitors directed an arm to blow bursts of air into a sandbox and excavate buried objects, seeing the results in camera images.",
+   "description_zh": "最早可由任何人经网页控制的机器人之一：访客指挥机械臂向沙盒喷气，挖掘埋藏的物件，并通过摄像画面查看结果。",
+   "idea_en": "The web turned a lab robot into a public, shared body, and raised the question of whether what we see remotely is real.",
+   "idea_zh": "网络把实验室机器人变成公共的、共享的身体，也提出一个问题：我们远程看到的是真的吗？",
+   "method": "Industrial robot arm with camera and air nozzle controlled through a Mosaic browser interface via CGI scripts.",
+   "method_zh": "带摄像头和喷气嘴的工业机械臂，通过 Mosaic 浏览器界面和 CGI 脚本控制。",
+   "keywords": [
+    "web robot",
+    "teleoperation",
+    "telepistemology",
+    "USC"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/robot.1995.525358",
+    "doi": "10.1109/robot.1995.525358",
+    "venue": "IEEE ICRA 1995",
+    "title": "Desktop teleoperation via the World Wide Web"
+   },
+   "source_url": "https://goldberg.berkeley.edu/"
+  },
+  {
+   "id": "paul-sermon--telematic-dreaming",
+   "creator_ids": [
+    "paul-sermon"
+   ],
+   "title": "Telematic Dreaming",
+   "year": 1992,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "vision-system",
+    "infrastructure"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "Two double beds in separate places are linked by video: the image of the person on one bed is projected onto the other bed, so strangers lie together, touch and play with each other's projected bodies.",
+   "description_zh": "两张分处异地的双人床由视频连接：一张床上的人的影像被投射到另一张床上，于是陌生人“同床”而卧，触碰并逗弄彼此被投射的身体。",
+   "idea_en": "Telepresence is felt through the body: people react to a projected hand as if it could touch them.",
+   "idea_zh": "远程在场是用身体感受到的：人们对一只投影的手作出反应，仿佛它真能触碰到自己。",
+   "method": "Overhead camera and projector at each bed, linked over ISDN lines, with monitors showing the combined image.",
+   "method_zh": "每张床上方各装摄像机与投影仪，经 ISDN 线路连接，监视器显示合成画面。",
+   "keywords": [
+    "telematic art",
+    "ISDN",
+    "bed",
+    "remote intimacy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=S4Wt16PnqeY"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Paul_Sermon",
+   "exhibited": [
+    "Kajaani, Finland (1992)"
+   ]
+  },
+  {
+   "id": "lynn-hershman-leeson--tillie",
+   "creator_ids": [
+    "lynn-hershman-leeson"
+   ],
+   "title": "Tillie, the Telerobotic Doll",
+   "year": 1995,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "robot-creature",
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A doll with video cameras for eyes sits in a gallery; web visitors look through her eyes and turn her head, seeing the room from the doll's point of view.",
+   "description_zh": "一个以摄像机为眼睛的玩偶坐在展厅里；网上访客通过她的眼睛观看并转动她的头，从玩偶的视角看展厅。",
+   "idea_en": "An object that looks back turns the viewer into the watched, and lends a remote gaze a body.",
+   "idea_zh": "会回望的物件把观看者变成被看者，也给远方的凝视赋予了身体。",
+   "method": "Doll fitted with cameras in the eyes and a motorised head, streaming images to a website where users control the viewing direction.",
+   "method_zh": "玩偶眼中装有摄像头，头部可电动转动，画面传到网站，由用户控制观看方向。",
+   "keywords": [
+    "telerobotic doll",
+    "web camera",
+    "gaze",
+    "surveillance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_ZOIdUZueHc"
+   },
+   "source_url": "https://www.lynnhershman.com/"
+  },
+  {
+   "id": "galloway-rabinowitz--hole-in-space",
+   "creator_ids": [
+    "galloway-rabinowitz"
+   ],
+   "title": "Hole in Space",
+   "year": 1980,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "infrastructure",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "For three evenings, life-size live video screens linked passers-by at Lincoln Center in New York and a shopping centre in Century City, Los Angeles, via satellite, with no signs or explanation; strangers, then families, met across the continent.",
+   "description_zh": "连续三个晚上，真人大小的实时视频屏幕通过卫星把纽约林肯中心和洛杉矶世纪城购物中心的路人连接起来，没有任何标识或说明；陌生人、后来是家人，隔着大陆相遇。",
+   "idea_en": "A telecom link becomes a public place: people invent how to behave with remote bodies as soon as they meet them.",
+   "idea_zh": "通信链路变成了公共场所：人们一遇见远方的身体，就当场发明与之相处的方式。",
+   "method": "Two-way satellite video link with cameras and rear-projection screens in shop windows on each coast.",
+   "method_zh": "双向卫星视频链路，两岸各在橱窗中安装摄像机和背投屏幕。",
+   "keywords": [
+    "satellite",
+    "public video link",
+    "video call",
+    "telecommunications art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QSMVtE1QjaU"
+   },
+   "source_url": "http://www.ecafe.com/getty/HIS/"
+  },
+  {
+   "id": "wafaa-bilal--domestic-tension",
+   "creator_ids": [
+    "wafaa-bilal"
+   ],
+   "title": "Domestic Tension",
+   "year": 2007,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-seeing"
+   ],
+   "kind": "performance",
+   "description": "For 30 days Bilal lived in a Chicago gallery watched by a webcam; online visitors could aim and fire a paintball gun at him at any time, which they did tens of thousands of times.",
+   "description_zh": "Bilal 在芝加哥一家画廊里生活了 30 天，全程由网络摄像头直播；网友可以随时瞄准并用彩弹枪射击他，他们这样做了数万次。",
+   "idea_en": "Remote-controlled violence feels like a game to the shooter and like war to the target, as with drone warfare.",
+   "idea_zh": "遥控暴力对射击者像游戏，对目标却像战争，正如无人机战争。",
+   "method": "Webcam feed plus a robotic paintball gun controlled through a website and chat room.",
+   "method_zh": "网络摄像头直播，加上一支通过网站和聊天室控制的机器人彩弹枪。",
+   "keywords": [
+    "remote violence",
+    "webcam",
+    "Iraq War",
+    "paintball"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=F_L6BC9O0rY"
+   },
+   "images": [
+    "http://wafaabilal.com/wp-content/uploads/2012/04/Domestic_Tension_Wafaabilal_1.jpg"
+   ],
+   "source_url": "https://wafaabilal.com/domestic-tension/",
+   "exhibited": [
+    "FlatFile Galleries, Chicago (2007)"
+   ]
+  },
+  {
+   "id": "laurie-anderson--habeas-corpus",
+   "creator_ids": [
+    "laurie-anderson"
+   ],
+   "title": "Habeas Corpus",
+   "year": 2015,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "infrastructure",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "classification"
+   ],
+   "kind": "performance",
+   "description": "Mohammed el Gharani, detained at Guantánamo from age 14 and barred from entering the US, appeared live from West Africa as a giant projection on a white seated statue in New York's Park Avenue Armory, telling his story.",
+   "description_zh": "Mohammed el Gharani 14 岁起被关押在关塔那摩，获释后仍被禁止入境美国；他从西非实时出现，以巨型投影落在纽约 Park Avenue Armory 一座白色坐像上，讲述自己的经历。",
+   "idea_en": "Telepresence can give a body a presence that borders and law deny it.",
+   "idea_zh": "远程在场可以让一个身体出现在边界与法律拒绝它的地方。",
+   "method": "Live video stream from Africa projected onto a large 3D sculpture modelled on the Lincoln Memorial statue.",
+   "method_zh": "来自非洲的实时视频流投射到一尊仿林肯纪念堂雕像的大型立体雕塑上。",
+   "keywords": [
+    "Guantánamo",
+    "live stream",
+    "projection",
+    "absence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kUKLA-W0nDM"
+   },
+   "source_url": "https://laurieanderson.com/",
+   "exhibited": [
+    "Park Avenue Armory, New York (2015)"
+   ]
+  },
+  {
+   "id": "beanotherlab--machine-to-be-another",
+   "creator_ids": [
+    "beanotherlab"
+   ],
+   "title": "The Machine to Be Another",
+   "year": 2012,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "vision-system",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "Two participants wear headsets that show the live view from each other's head-mounted camera and mirror each other's movements, so each feels, for a few minutes, that they are in the other's body.",
+   "description_zh": "两名参与者戴上头显，看到的是对方头戴摄像头的实时画面，并相互模仿动作；几分钟内，每人都会感觉自己进入了对方的身体。",
+   "idea_en": "Body ownership is fragile: synchronised seeing and touching are enough to let a machine swap bodies.",
+   "idea_zh": "身体所有感很脆弱：同步的看与触碰，就足以让机器交换身体。",
+   "method": "Head-mounted cameras and VR displays with synchronised movement and touch, based on body-ownership illusion research.",
+   "method_zh": "基于身体所有感错觉研究，使用头戴摄像头与 VR 显示器，配合同步动作与触碰。",
+   "keywords": [
+    "body swap",
+    "VR",
+    "empathy",
+    "embodiment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hjIOUa10YpI"
+   },
+   "images": [
+    "https://beanotherlab.org/wp-content/uploads/2019/04/bal_tmtba01.jpg"
+   ],
+   "source_url": "https://beanotherlab.org/home/work/tmtba/"
+  },
+  {
+   "id": "eric-paulos--prop",
+   "creator_ids": [
+    "eric-paulos"
+   ],
+   "title": "PRoP (Personal Roving Presence)",
+   "year": 1998,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "machines": [
+    "robot-creature",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "Made with John Canny, a tall mobile robot with a screen showing the remote user's face, a camera, microphone and a pointer arm lets a person roam, look around, gesture and chat in a distant building.",
+   "description_zh": "与 John Canny 合作：一台高大的移动机器人，屏幕显示远程用户的脸，配有摄像头、麦克风和指示臂，让人能在远方的建筑中漫游、张望、做手势与交谈。",
+   "idea_en": "Remote presence needs more than video: gaze, gesture and the ability to wander make a body socially present.",
+   "idea_zh": "远程在场不只需要视频：视线、手势和四处走动的能力，才让身体在社交上“在场”。",
+   "method": "Wheeled base with a video screen, pan-tilt camera, audio and a pointing arm, teleoperated over the internet.",
+   "method_zh": "轮式底座配视频屏、云台摄像头、音频和指示臂，经互联网远程操控。",
+   "keywords": [
+    "telepresence robot",
+    "tele-embodiment",
+    "CHI",
+    "social presence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ypKd1pbDbds"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/274644.274686",
+    "doi": "10.1145/274644.274686",
+    "venue": "CHI 1998",
+    "title": "PRoP: personal roving presence"
+   },
+   "source_url": "https://www.paulos.net/"
+  },
+  {
+   "id": "stahl-stenslie--cybersm",
+   "creator_ids": [
+    "stahl-stenslie"
+   ],
+   "title": "cyberSM",
+   "year": 1993,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "infrastructure"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Made with Kirk Woolford, two participants in different cities wear suits fitted with stimulators and touch each other's 3D body models on screen; the touches arrive as vibration and electrical stimuli on the other's skin.",
+   "description_zh": "与 Kirk Woolford 合作：两名身处不同城市的参与者穿上装有刺激器的服装，在屏幕上触碰对方的三维身体模型，这些触碰以振动和电刺激的形式抵达对方皮肤。",
+   "idea_en": "Remote touch through a machine is an early question for networked intimacy: what counts as contact?",
+   "idea_zh": "借机器进行的远程触碰，是网络亲密关系早期的问题：什么才算接触？",
+   "method": "Body suits with stimulators, 3D-scanned body avatars and a telecommunication link (ISDN) between remote sites.",
+   "method_zh": "带刺激器的紧身服、三维扫描的身体化身，以及异地之间的远程通信链路（ISDN）。",
+   "keywords": [
+    "tele-haptics",
+    "cybersex",
+    "bodysuit",
+    "remote touch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=E5TFZJzKbYI"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Stahl_Stenslie"
+  },
+  {
+   "id": "hugh-herr--bionic-dance",
+   "creator_ids": [
+    "hugh-herr"
+   ],
+   "title": "Bionic dance at TED2014 (with Adrianne Haslet-Davis)",
+   "year": 2014,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "Ballroom dancer Adrianne Haslet-Davis, who lost her lower left leg in the 2013 Boston Marathon bombing, danced a rumba on stage at TED2014 on a bionic leg made by Hugh Herr's lab.",
+   "description_zh": "在 2013 年波士顿马拉松爆炸案中失去左小腿的国标舞者 Adrianne Haslet-Davis，在 TED2014 舞台上穿着 Hugh Herr 实验室打造的仿生腿跳了一段伦巴。",
+   "idea_en": "A prosthesis can be designed for expression, tuned to how a dancer moves, not only to walking.",
+   "idea_zh": "义体可以为表达而设计：依照舞者的运动方式调校，而不只是为了行走。",
+   "method": "Powered ankle-foot prosthesis with motors and sensors, tuned using motion data recorded from dancers.",
+   "method_zh": "带电机与传感器的动力踝足假肢，依据采集的舞者运动数据调校。",
+   "keywords": [
+    "bionic leg",
+    "prosthesis",
+    "dance",
+    "MIT Media Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CDsNZJTWw0w"
+   },
+   "images": [
+    "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82&w=1200"
+   ],
+   "source_url": "https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance"
+  },
+  {
+   "id": "merce-cunningham--trackers",
+   "creator_ids": [
+    "merce-cunningham"
+   ],
+   "title": "Trackers (with LifeForms)",
+   "year": 1991,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "The first dance Cunningham made with the software LifeForms: he composed sequences on animated 3D figures on a computer and then asked dancers to perform movements that no body had tried before.",
+   "description_zh": "Cunningham 用软件 LifeForms 创作的第一支舞：他先在电脑上的三维动画人偶上编排动作序列，再要求舞者完成此前从未有身体尝试过的动作。",
+   "idea_en": "A virtual body with no weight or habits proposes movement that the human body must then learn to inhabit.",
+   "idea_zh": "一具没有重量与习惯的虚拟身体提出动作，人的身体随后必须学会栖居其中。",
+   "method": "LifeForms, choreography software from Simon Fraser University (Tom Calvert, Thecla Schiphorst and others), for keyframing human figures in 3D.",
+   "method_zh": "LifeForms 是西蒙弗雷泽大学（Tom Calvert、Thecla Schiphorst 等）开发的编舞软件，用于在三维中为人形设关键帧。",
+   "keywords": [
+    "LifeForms",
+    "computer choreography",
+    "animation",
+    "Simon Fraser University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/169059.169113",
+    "doi": "10.1145/169059.169113",
+    "venue": "CHI 1993",
+    "title": "The evolution of an interface for choreographers"
+   },
+   "source_url": "https://www.mercecunningham.org/"
+  },
+  {
+   "id": "merce-cunningham--biped",
+   "creator_ids": [
+    "merce-cunningham",
+    "paul-kaiser",
+    "shelley-eshkar"
+   ],
+   "title": "BIPED",
+   "year": 1999,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "vision-system",
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "Dancers perform behind a transparent scrim onto which large hand-drawn-looking figures are projected, made from motion-captured Cunningham dancers, so live bodies and their digital traces share the stage.",
+   "description_zh": "舞者在一块透明纱幕后表演，纱幕上投射出大型、仿佛手绘的形象，它们由 Cunningham 舞者的动作捕捉数据生成，于是活的身体与其数字痕迹同台共舞。",
+   "idea_en": "Captured movement becomes a second, weightless company that dances with and apart from the dancers.",
+   "idea_zh": "被捕捉的动作变成第二支无重量的舞团，与舞者一起、又彼此分离地起舞。",
+   "method": "Optical motion capture of dancers rendered as abstract line figures by Kaiser and Eshkar, projected on a scrim; music by Gavin Bryars.",
+   "method_zh": "对舞者进行光学动作捕捉，由 Kaiser 和 Eshkar 渲染成抽象线条形象投射在纱幕上；音乐由 Gavin Bryars 创作。",
+   "keywords": [
+    "motion capture",
+    "projection",
+    "Riverbed",
+    "digital dancers"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b_XItg0Vn1c"
+   },
+   "source_url": "https://www.mercecunningham.org/the-work/choreography/biped/",
+   "exhibited": [
+    "Zellerbach Hall, Berkeley (1999)"
+   ]
+  },
+  {
+   "id": "bill-t-jones--ghostcatching",
+   "creator_ids": [
+    "bill-t-jones",
+    "paul-kaiser",
+    "shelley-eshkar"
+   ],
+   "title": "Ghostcatching",
+   "year": 1999,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "A virtual dance made from motion capture of Bill T. Jones improvising: his movement becomes drawn lines that multiply, collide and are caught inside a box, a dancer without his body.",
+   "description_zh": "一段由 Bill T. Jones 即兴动作捕捉生成的虚拟舞蹈：他的动作化为手绘线条，不断增殖、碰撞，被困在一个盒子里，一个没有身体的舞者。",
+   "idea_en": "Motion capture separates movement from the mover; what remains is a ghost the dancer can watch.",
+   "idea_zh": "动作捕捉把动作与动作者分离；留下的是舞者自己可以观看的幽灵。",
+   "method": "Optical motion capture of Jones's improvisations, rendered as hand-drawn-style strokes in 3D animation.",
+   "method_zh": "对 Jones 的即兴进行光学动作捕捉，以三维动画渲染为手绘风格的笔触。",
+   "keywords": [
+    "motion capture",
+    "virtual dance",
+    "afterimage",
+    "Riverbed"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=x-7Mo3cg9jw"
+   },
+   "source_url": "https://openendedgroup.com/"
+  },
+  {
+   "id": "wayne-mcgregor--living-archive",
+   "creator_ids": [
+    "wayne-mcgregor"
+   ],
+   "title": "Living Archive",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "generative-latent",
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "Google Arts & Culture trained a model on thousands of hours of video from 25 years of McGregor's choreography; given a dancer's pose, it proposes what could come next, and these phrases were staged in Living Archive: An AI Performance Experiment.",
+   "description_zh": "Google Arts & Culture 用 McGregor 二十五年编舞的数千小时视频训练模型；给出舞者的一个姿势，它就提出接下来可能的动作，这些片段被搬上舞台，成为《活档案：一场 AI 表演实验》。",
+   "idea_en": "A choreographer's style, turned into a model, becomes a partner that proposes 'his' next move.",
+   "idea_zh": "编舞家的风格被做成模型后，成了一个会提出“他的”下一步动作的伙伴。",
+   "method": "Pose estimation on archive video plus a neural network predicting sequences of body poses; dancers learn and adapt the proposals.",
+   "method_zh": "对档案视频做姿态估计，再用神经网络预测身体姿态序列；舞者学习并改编这些提议。",
+   "keywords": [
+    "choreography",
+    "pose estimation",
+    "archive",
+    "Google Arts & Culture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Hd3BDvfmg4k"
+   },
+   "images": [
+    "https://lh3.googleusercontent.com/UAE2Fk3CoTgjTWKg9PiFGU6XjasBWnRO5g2xP_LHAHZZVVgfPCx3K3BKv58VuXW9hErbCpVgYhBUk1iAzprsgTkX_eTl"
+   ],
+   "source_url": "https://experiments.withgoogle.com/living-archive-wayne-mcgregor",
+   "exhibited": [
+    "The Music Center, Los Angeles (2019)"
+   ]
+  },
+  {
+   "id": "blanca-li--robot",
+   "creator_ids": [
+    "blanca-li"
+   ],
+   "title": "ROBOT",
+   "year": 2013,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "Eight dancers share the stage with seven small NAO humanoid robots and the musical machines of Maywa Denki; humans move like robots and robots attempt human dances.",
+   "description_zh": "八名舞者与七台小型 NAO 类人机器人以及明和电机的音乐机器同台；人像机器人一样动，机器人则尝试跳人的舞。",
+   "idea_en": "Putting humans and robots in the same choreography shows how much of our movement is already mechanical.",
+   "idea_zh": "把人和机器人放进同一段编舞，显露出我们的动作中已有多少是机械的。",
+   "method": "Programmed NAO robots (Aldebaran) with pre-set choreography, alongside Maywa Denki instruments and live dancers.",
+   "method_zh": "预设编舞程序的 NAO 机器人（Aldebaran），配合明和电机的乐器与现场舞者。",
+   "keywords": [
+    "NAO",
+    "Maywa Denki",
+    "humanoid robots",
+    "Montpellier Danse"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vrH0Ydj3HN4"
+   },
+   "source_url": "https://www.blancali.com/en/spectacle/robot-2/",
+   "exhibited": [
+    "Montpellier Danse (2013)"
+   ]
+  },
+  {
+   "id": "catie-cuan--output",
+   "creator_ids": [
+    "catie-cuan"
+   ],
+   "title": "OUTPUT",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Cuan dances with an ABB IRB 6700 industrial robot, then both bodies are recorded and replayed as motion capture, video and a web app, so each body's movement is translated into the other's medium.",
+   "description_zh": "Cuan 与一台 ABB IRB 6700 工业机器人共舞，之后两具身体的动作被记录下来，以动作捕捉、视频和网页应用的形式重放，让每个身体的运动被转译进对方的媒介。",
+   "idea_en": "Choreography can be a design method for robots: the dance studies what it takes for a machine's motion to read as expressive.",
+   "idea_zh": "编舞可以成为机器人的设计方法：舞蹈研究一台机器的动作怎样才会被读作有表现力。",
+   "method": "Robot motion programmed from Cuan's movement, captured with motion capture and recombined in video and interactive software.",
+   "method_zh": "依据 Cuan 的动作为机器人编程，用动作捕捉记录，并在视频与交互软件中重组。",
+   "keywords": [
+    "industrial robot",
+    "ABB",
+    "choreorobotics",
+    "Thoughtworks Arts"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ng0ioS7oNXY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.3389/frobt.2020.576790",
+    "doi": "10.3389/frobt.2020.576790",
+    "venue": "Frontiers in Robotics and AI 2021",
+    "title": "OUTPUT: Choreographed and Reconfigured Human and Industrial Robot Bodies Across Artistic Modalities"
+   },
+   "source_url": "https://www.catiecuan.com/"
+  },
+  {
+   "id": "thomas-freundlich--human-interface",
+   "creator_ids": [
+    "thomas-freundlich"
+   ],
+   "title": "Human Interface",
+   "year": 2012,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A dance work for two dancers and two industrial robots in the old boiler hall of the Cable Factory in Helsinki; the robots' programmed movement is exact yet surprisingly human, and they act as equal dance partners.",
+   "description_zh": "一部为两名舞者和两台工业机器人创作的舞蹈，在赫尔辛基电缆工厂的旧锅炉大厅演出；机器人被编程的动作精确却出奇地有人味，它们以平等舞伴的身份出现。",
+   "idea_en": "Once the safety cage comes down, a factory robot can be read as a personality, not a tool.",
+   "idea_zh": "安全围栏一旦拆除，工厂机器人就能被读作一个“个性”，而不是工具。",
+   "method": "ABB industrial robots programmed by the choreographer, with a safety system that allowed humans inside the robots' working area; follows his 2008 duet Actuator.",
+   "method_zh": "由编舞家亲自编程的 ABB 工业机器人，配合允许人进入机器人工作区的安全系统；延续他 2008 年的双人舞《Actuator》。",
+   "keywords": [
+    "ABB",
+    "industrial robots",
+    "Zodiak",
+    "Actuator"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MCSUVI--0Sw"
+   },
+   "source_url": "http://www.freundlich.org/",
+   "exhibited": [
+    "Zodiak Center for New Dance, Helsinki (2012)"
+   ]
+  },
+  {
+   "id": "pablo-ventura--zone",
+   "creator_ids": [
+    "pablo-ventura",
+    "robotlab"
+   ],
+   "title": "Zone",
+   "year": 2001,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A KUKA industrial robot, programmed with robotlab, performs as a member of Ventura Dance Company alongside human dancers in a contemporary dance work.",
+   "description_zh": "一台 KUKA 工业机器人由 robotlab 协助编程，作为 Ventura Dance Company 的一员，与人类舞者一起出演一部当代舞作品。",
+   "idea_en": "A factory arm on stage is a dancer with a different anatomy, not a prop.",
+   "idea_zh": "舞台上的工厂机械臂是一位解剖结构不同的舞者，而非道具。",
+   "method": "KUKA industrial robot with choreography programmed offline and synchronised with the dancers and music.",
+   "method_zh": "KUKA 工业机器人，离线编写编舞程序，与舞者和音乐同步。",
+   "keywords": [
+    "KUKA",
+    "industrial robot",
+    "contemporary dance",
+    "robotlab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PD1i6rItAfA"
+   },
+   "source_url": "https://www.ventura-dance.com/"
+  },
+  {
+   "id": "louise-crnkovic-friis--chor-rnn",
+   "creator_ids": [
+    "louise-crnkovic-friis",
+    "luka-crnkovic-friis"
+   ],
+   "title": "chor-rnn",
+   "year": 2016,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment",
+    "opacity-latent"
+   ],
+   "kind": "prototype",
+   "description": "A recurrent neural network trained on hours of motion capture of a contemporary dancer learns to generate new choreography in her style; published videos show it moving from twitching noise to dance-like phrases as training goes on.",
+   "description_zh": "一个循环神经网络用一位当代舞者数小时的动作捕捉数据训练，学会生成她风格的新编舞；公开的视频展示了随着训练推进，它如何从抽搐般的噪声变成类似舞蹈的片段。",
+   "idea_en": "Watching a model learn to dance makes visible what 'style' means to a machine: statistics of joints.",
+   "idea_zh": "看模型学跳舞，会让“风格”在机器眼中的含义变得可见：关节的统计规律。",
+   "method": "Mixture-density LSTM network trained on Kinect motion-capture joint positions of the choreographer's improvisations.",
+   "method_zh": "混合密度 LSTM 网络，用编舞家即兴动作的 Kinect 动作捕捉关节位置数据训练。",
+   "keywords": [
+    "deep learning",
+    "choreography",
+    "motion capture",
+    "LSTM"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Q4_XSMqN8w0"
+   },
+   "paper": {
+    "url": "https://arxiv.org/abs/1605.06921",
+    "arxiv": "1605.06921",
+    "venue": "arXiv 2016",
+    "title": "Generative Choreography using Deep Learning"
+   }
+  },
+  {
+   "id": "merritt-moore--robot-duet",
+   "creator_ids": [
+    "merritt-moore"
+   ],
+   "title": "Merritt + Robot",
+   "year": 2020,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "During the 2020 lockdown, dancer and physicist Merritt Moore programmed a Universal Robots arm as her only partner and filmed a pas de deux in which the robot both leads and follows.",
+   "description_zh": "2020 年封城期间，舞者兼物理学家 Merritt Moore 把一台 Universal Robots 机械臂编程为唯一的舞伴，拍下一段双人舞：机器人时而引领、时而跟随。",
+   "idea_en": "In isolation, a programmable arm becomes a partner; the duet is also a rehearsal between a dancer and her own code.",
+   "idea_zh": "在隔离中，一只可编程机械臂成了舞伴；这段双人舞也是舞者与自己代码之间的排练。",
+   "method": "Collaborative robot arm (Universal Robots) programmed by the dancer herself.",
+   "method_zh": "由舞者亲自编程的协作机械臂（Universal Robots）。",
+   "keywords": [
+    "Universal Robots",
+    "ballet",
+    "lockdown",
+    "cobot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uSOHc3ODLzU"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/66c15199c6b23b75923ac311/b4ae89c2-ea53-41f0-82e8-2d95034920ed/Merritt_Moore_robots_Mexico.png"
+   ],
+   "source_url": "https://www.merrittmoore.com/"
+  },
+  {
+   "id": "gideon-obarzanek--glow",
+   "creator_ids": [
+    "gideon-obarzanek",
+    "frieder-weiss"
+   ],
+   "title": "Glow",
+   "year": 2006,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A solo dancer moves on a white floor while an infrared camera tracks her body and a computer projects graphics that respond in real time, wrapping, stretching and chasing her shape with light.",
+   "description_zh": "一名独舞者在白色地面上舞动，红外摄像机追踪她的身体，计算机实时投射图形作出回应，用光包裹、拉伸并追逐她的形体。",
+   "idea_en": "Machine vision can be a stage partner: the dancer performs for the camera's reading of her as much as for the audience.",
+   "idea_zh": "机器视觉可以是舞台伙伴：舞者既为观众表演，也为摄像机对她的“读取”表演。",
+   "method": "Infrared video tracking of the dancer (Frieder Weiss's Kalypso software) generating projected graphics on the floor.",
+   "method_zh": "红外视频追踪舞者（Frieder Weiss 的 Kalypso 软件），在地面生成投影图形。",
+   "keywords": [
+    "motion tracking",
+    "interactive projection",
+    "Chunky Move",
+    "infrared"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C4He543_a80"
+   },
+   "source_url": "https://chunkymove.com.au/"
+  },
+  {
+   "id": "boston-dynamics--do-you-love-me",
+   "creator_ids": [
+    "boston-dynamics"
+   ],
+   "title": "Do You Love Me?",
+   "year": 2020,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "humanoid",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "Atlas humanoids, Spot robot dogs and a Handle robot dance to The Contours' 1962 song in a video released at the end of 2020; it drew tens of millions of views and debate about how dance makes robots seem joyful.",
+   "description_zh": "Atlas 人形机器人、Spot 机器狗和 Handle 机器人随 The Contours 1962 年的歌曲起舞，视频于 2020 年底发布，获得数千万次观看，也引发了关于舞蹈如何让机器人显得“快乐”的讨论。",
+   "idea_en": "Choreography is a strong way to make machines likeable, and it hides the engineering, control and purpose behind them.",
+   "idea_zh": "编舞是让机器变得讨人喜欢的有力手段，也遮蔽了它们背后的工程、控制与用途。",
+   "method": "Motion sequences authored with choreographer Monica Thomas in Boston Dynamics' choreography software and executed by the robots' own balance control, filmed in edited takes.",
+   "method_zh": "与编舞家 Monica Thomas 在 Boston Dynamics 的编舞软件中共同编写动作序列，由机器人自身的平衡控制执行，分段拍摄剪辑而成。",
+   "keywords": [
+    "Atlas",
+    "Spot",
+    "viral video",
+    "robot dance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fn3KWM1kuAw"
+   },
+   "source_url": "https://bostondynamics.com/"
+  },
+  {
+   "id": "kris-verdonck--dancer-1",
+   "creator_ids": [
+    "kris-verdonck"
+   ],
+   "title": "DANCER #1",
+   "year": 2003,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A grinding wheel with a large steel 'L' hangs from the ceiling; when the motor starts, the L spins out of control while the machine keeps trying to find its balance, until it looks like a tragic hero in distress.",
+   "description_zh": "一只挂着巨大钢制“L”的砂轮从天花板垂下；电机启动后，L 失控旋转，机器仍努力寻找平衡，直到它看起来像一位陷入困境的悲剧英雄。",
+   "idea_en": "A machine's struggle to function is enough to read it as a dancer and to feel for it.",
+   "idea_zh": "一台机器努力运转的挣扎，就足以让人把它看作舞者并为它动容。",
+   "method": "Industrial grinding motor with an eccentric steel shape, run as a timed performance in a theatre space.",
+   "method_zh": "带偏心钢构件的工业磨削电机，在剧场空间中按时长运行表演。",
+   "keywords": [
+    "machine dancer",
+    "failure",
+    "kinetic object",
+    "Kunstenfestivaldesarts"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xKbBImj3mWM"
+   },
+   "images": [
+    "https://www.atwodogscompany.org/media/og/17-dancer_krisverdonckhigh.jpg"
+   ],
+   "source_url": "https://www.atwodogscompany.org/en/projects/dancer-1/",
+   "exhibited": [
+    "Kunstenfestivaldesarts, Brussels (2003)",
+    "Festival d'Avignon (2008)"
+   ]
+  }
+ ],
+ "leads": []
+}

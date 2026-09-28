@@ -1,0 +1,4261 @@
+{
+ "batch": "res-institutions",
+ "orgs": [
+  {
+   "id": "zkm-karlsruhe",
+   "name": "ZKM | Center for Art and Media Karlsruhe",
+   "name_zh": "ZKM 卡尔斯鲁厄艺术与媒体中心",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "history",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory",
+    "power"
+   ],
+   "description": "Europe's largest media art museum, with a collection spanning computer art to AI. Exhibitions such as Open Codes (2017) and BioMedia (2021) framed machine learning, algorithmic governance and life-like media systems.",
+   "description_zh": "欧洲最大的媒体艺术美术馆，收藏从早期计算机艺术延伸到 AI。《Open Codes》（2017）与《BioMedia》（2021）等展览讨论了机器学习、算法治理和“类生命”的媒体系统。",
+   "url": "https://zkm.de/en",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/ZKM_Center_for_Art_and_Media_Karlsruhe"
+    }
+   ],
+   "based": "Karlsruhe, Germany",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "founded": 1989,
+   "people": [
+    "Peter Weibel",
+    "Alistair Hudson"
+   ],
+   "image": "https://zkm.de/system/files/styles/img_para_media_slider_hero/private/field_media_image/2026/07/02/144815/2026_Sivler_Egg_ZKM_Preview_072.jpg?itok=6Sso66Ov"
+  },
+  {
+   "id": "hek-basel",
+   "name": "HEK (House of Electronic Arts) Basel",
+   "name_zh": "巴塞尔电子艺术之家",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "art-science",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "intimacy",
+    "power"
+   ],
+   "description": "Swiss centre for digital culture and new art forms. Its 2019 show Entangled Realities: Living with Artificial Intelligence brought together LAUREN, Tay's resurrection and Autonomous Trap 001.",
+   "description_zh": "瑞士的数字文化与新艺术形式中心。2019 年的展览《Entangled Realities: Living with Artificial Intelligence》汇集了 LAUREN、被“复活”的 Tay 以及 Autonomous Trap 001 等作品。",
+   "url": "https://www.hek.ch/en/",
+   "based": "Basel, Switzerland",
+   "based_zh": "巴塞尔，瑞士",
+   "founded": 2011,
+   "people": [
+    "Sabine Himmelsbach"
+   ]
+  },
+  {
+   "id": "ars-electronica-center",
+   "name": "Ars Electronica Center",
+   "name_zh": "林茨电子艺术中心",
+   "type": "museum",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "art-science"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "The 'museum of the future' of Ars Electronica. Its permanent exhibition Understanding AI (since 2019) shows how machines perceive and classify, with works such as Anatomy of an AI System and Gender Shades.",
+   "description_zh": "电子艺术节的“未来博物馆”。常设展《Understanding AI》（2019 年起）展示机器如何感知与分类，展出《Anatomy of an AI System》《Gender Shades》等作品。",
+   "url": "https://ars.electronica.art/center/en/",
+   "based": "Linz, Austria",
+   "based_zh": "林茨，奥地利",
+   "founded": 1996,
+   "people": [
+    "Gerfried Stocker"
+   ],
+   "image": "https://ars.electronica.art/center/files/2023/11/facade_48869360472-1333x1000.jpg"
+  },
+  {
+   "id": "ntt-icc",
+   "name": "NTT InterCommunication Center [ICC]",
+   "name_zh": "NTT 互动交流中心",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "east-asia",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "perception",
+    "theory"
+   ],
+   "description": "Tokyo's media art centre, run by NTT East, devoted to communication technology and art. Its exhibitions and archive are a key reference for Japanese machine, sensor and interactive art.",
+   "description_zh": "由 NTT 东日本运营的东京媒体艺术中心，关注通信技术与艺术的关系。其展览与档案是日本机器、传感与互动艺术的重要参照。",
+   "url": "https://www.ntticc.or.jp/en/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/NTT_InterCommunication_Center"
+    }
+   ],
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 1997,
+   "image": "https://www.ntticc.or.jp/assets/images/top-about-img.jpg"
+  },
+  {
+   "id": "chronus-art-center",
+   "name": "Chronus Art Center",
+   "name_zh": "新时线媒体艺术中心",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "art-science",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Shanghai's first nonprofit art centre dedicated to media art, with exhibitions, research and a lab. A main venue in China for machine, algorithmic and kinetic work, including the Chinese tour of ZKM's Open Codes.",
+   "description_zh": "上海首家专注媒体艺术的非营利艺术中心，设有展览、研究与实验室。它是中国展出机器、算法与动态作品的主要机构之一，也曾承接 ZKM《Open Codes》的中国巡展。",
+   "url": "https://www.chronusartcenter.org/",
+   "based": "Shanghai, China",
+   "based_zh": "上海，中国",
+   "founded": 2013,
+   "people": [
+    "Zhang Ga"
+   ],
+   "image": "https://chronusartcenter.org/wp-content/uploads/2025/02/17-1-1920x1280.jpg"
+  },
+  {
+   "id": "ucca",
+   "name": "UCCA Center for Contemporary Art",
+   "name_zh": "UCCA 尤伦斯当代艺术中心",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "China's leading contemporary art institution, with venues in Beijing, Beidaihe and Shanghai. It has staged major surveys of artists working with digital bodies and automation, such as Cao Fei: Staging the Era (2021).",
+   "description_zh": "中国重要的当代艺术机构，在北京、北戴河和上海设有场馆。它举办过关注数字身体与自动化的艺术家大展，如《曹斐：时代舞台》（2021）。",
+   "url": "https://ucca.org.cn/en/",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "founded": 2007,
+   "people": [
+    "Philip Tinari"
+   ]
+  },
+  {
+   "id": "taikang-art-museum",
+   "name": "Taikang Art Museum",
+   "name_zh": "泰康美术馆",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Beijing museum of the Taikang collection. Its exhibition Creative Machine (2024–25) traced sixty years of machine creativity, from early computer art to drawing robots such as Patrick Tresset's Human Study #1.",
+   "description_zh": "泰康收藏体系下的北京美术馆。展览《Creative Machine 跨越六十年：人工智能的创意之火》（2024–25）梳理了六十年的机器创造，从早期计算机艺术到 Patrick Tresset 的绘画机器人《Human Study #1》。",
+   "url": "https://tam.taikang.com/",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国"
+  },
+  {
+   "id": "nam-june-paik-art-center",
+   "name": "Nam June Paik Art Center",
+   "name_zh": "白南准艺术中心",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "robot-art",
+    "history"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Museum and archive of Nam June Paik, whose Robot K-456 (1964) was an early robot performer. It shows and researches media art that continues Paik's play with machines, broadcast and the body.",
+   "description_zh": "白南准的美术馆与档案馆。白南准的《Robot K-456》（1964）是最早的表演机器人之一，艺术中心展出并研究延续他对机器、广播与身体探索的媒体艺术。",
+   "url": "https://en.wikipedia.org/wiki/Nam_June_Paik_Art_Center",
+   "based": "Yongin, South Korea",
+   "based_zh": "龙仁，韩国",
+   "founded": 2008,
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/DankookU-Paiknamjun.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "mori-art-museum",
+   "name": "Mori Art Museum",
+   "name_zh": "森美术馆",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "speculative"
+   ],
+   "description": "Contemporary art museum in Roppongi Hills. Its survey Future and the Arts: AI, Robotics, Cities, Life (2019–20) presented over 100 projects on how humans will live with machines.",
+   "description_zh": "位于六本木新城的当代美术馆。展览《未来与艺术：AI、机器人、城市、生命》（2019–20）以 100 多个项目探讨人类将如何与机器共同生活。",
+   "url": "https://www.mori.art.museum/en/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 2003
+  },
+  {
+   "id": "science-gallery",
+   "name": "Science Gallery",
+   "name_zh": "科学画廊",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "critical-ai",
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy",
+    "power"
+   ],
+   "description": "University-based network of galleries where art meets science for young audiences. Its AI shows, from Science Gallery Dublin's early exhibitions to London's AI: Who's Looking After Me? (2023), moved from automation to bias to care.",
+   "description_zh": "以大学为依托、面向年轻观众的艺术与科学画廊网络。其 AI 系列展从都柏林早期展览到伦敦的《AI: Who's Looking After Me?》（2023），主题从自动化转向偏见，再到照护。",
+   "url": "https://sciencegallery.org/",
+   "based": "Dublin / London / Bengaluru / Melbourne",
+   "based_zh": "都柏林 / 伦敦 / 班加罗尔 / 墨尔本",
+   "founded": 2008,
+   "image": "https://images.squarespace-cdn.com/content/v1/5d569899bdf59100013c8a11/1741610098717-85OW68LT87NIO0F37QDQ/science_gallery_darkmatters_lowres-85.jpg"
+  },
+  {
+   "id": "barbican",
+   "name": "Barbican Centre",
+   "name_zh": "巴比肯艺术中心",
+   "type": "museum",
+   "themes": [
+    "history",
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "London arts centre whose exhibition AI: More than Human (2019) became a template for AI surveys, running from the dream of artificial beings through mind machines and data worlds.",
+   "description_zh": "伦敦的综合艺术中心。其展览《AI: More than Human》（2019）成为 AI 主题展的范本，从“人造生命之梦”一路讲到心智机器与数据世界。",
+   "url": "https://www.barbican.org.uk/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1982,
+   "image": "https://www.barbican.org.uk/sites/default/files/styles/promo_small_jpg/public/images/2018-10/barbicantheatre_audience.jpg?h=2f48a009&itok=zqfiZs30"
+  },
+  {
+   "id": "serpentine-arts-technologies",
+   "name": "Serpentine Arts Technologies",
+   "name_zh": "蛇形画廊艺术与技术部",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "coperformance",
+    "theory"
+   ],
+   "description": "Serpentine's programme for art made with AI, blockchain and game engines, with commissions such as Holly Herndon & Mat Dryhurst's The Call (2024). It co-runs the Creative AI Lab and publishes the Future Art Ecosystems reports.",
+   "description_zh": "蛇形画廊面向 AI、区块链和游戏引擎艺术的项目，委托了 Holly Herndon 与 Mat Dryhurst 的《The Call》（2024）等作品。它与伦敦国王学院共同运营 Creative AI Lab，并发布《Future Art Ecosystems》系列报告。",
+   "url": "https://www.serpentinegalleries.org/arts-technologies/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Hans Ulrich Obrist",
+    "Kay Watson",
+    "Eva Jäger",
+    "Victoria Ivanova"
+   ],
+   "image": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/cloud-index.jpg"
+  },
+  {
+   "id": "whitney-museum",
+   "name": "Whitney Museum of American Art (artport)",
+   "name_zh": "惠特尼美国艺术博物馆",
+   "type": "museum",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "New York museum whose online portal artport (since 2001) commissions net and software art. Its 2024 exhibition Harold Cohen: AARON showed the drawing program drawing live in a gallery for the first time.",
+   "description_zh": "纽约的美国艺术博物馆，其网络平台 artport（2001 年起）委托网络与软件艺术。2024 年展览《Harold Cohen: AARON》首次让绘画程序 AARON 在展厅现场作画。",
+   "url": "https://whitney.org/",
+   "links": [
+    {
+     "label": "artport",
+     "url": "https://whitney.org/artport"
+    }
+   ],
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1930,
+   "people": [
+    "Christiane Paul"
+   ],
+   "image": "https://whitneymedia.org/assets/image/774437/gancsos_wmaa_01.jpg"
+  },
+  {
+   "id": "tate-modern",
+   "name": "Tate Modern",
+   "name_zh": "泰特现代美术馆",
+   "type": "museum",
+   "themes": [
+    "history",
+    "machine-umwelt",
+    "art-science"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "London's national modern art museum. Electric Dreams: Art and Technology Before the Internet (2024–25) traced the pre-internet lineage of machine art, and Anicka Yi's Hyundai Commission (2021) filled the Turbine Hall with floating machine organisms.",
+   "description_zh": "英国国家现代艺术馆。《Electric Dreams：互联网之前的艺术与技术》（2024–25）梳理了机器艺术在互联网之前的谱系，Anicka Yi 的现代汽车委托项目（2021）则让漂浮的“机器生物”充满涡轮大厅。",
+   "url": "https://www.tate.org.uk/visit/tate-modern",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2000,
+   "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-600.jpg"
+  },
+  {
+   "id": "v2-lab-for-the-unstable-media",
+   "name": "V2_ Lab for the Unstable Media",
+   "name_zh": "V2_ 不稳定媒体实验室",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "embodiment",
+    "history"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Interdisciplinary centre for art and media technology that ran the Dutch Electronic Art Festival (DEAF). Its lab, publications and online archive document decades of work on the body, sensors and machines.",
+   "description_zh": "跨学科的艺术与媒体技术中心，曾主办荷兰电子艺术节（DEAF）。其实验室、出版物和在线档案记录了数十年关于身体、传感器与机器的创作。",
+   "url": "https://v2.nl/",
+   "based": "Rotterdam, Netherlands",
+   "based_zh": "鹿特丹，荷兰",
+   "founded": 1981
+  },
+  {
+   "id": "imal",
+   "name": "iMAL",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Brussels centre for digital cultures and technology with an exhibition space and fablab. It shows and produces work on algorithms, sensing and automation.",
+   "description_zh": "布鲁塞尔的数字文化与技术中心，设有展览空间和 fablab，展示并制作关于算法、感知与自动化的作品。",
+   "url": "https://www.imal.org/en",
+   "based": "Brussels, Belgium",
+   "based_zh": "布鲁塞尔，比利时",
+   "founded": 1999,
+   "people": [
+    "Yves Bernard"
+   ]
+  },
+  {
+   "id": "mak-vienna",
+   "name": "MAK – Museum of Applied Arts, Vienna",
+   "name_zh": "维也纳应用艺术博物馆",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "robot-art",
+    "ethics-policy"
+   ],
+   "fields": [
+    "speculative",
+    "power"
+   ],
+   "description": "Design museum that hosts the Vienna Biennale for Change. It co-produced Hello, Robot (2017) and staged Uncanny Values: Artificial Intelligence & You (2019), linking design and critical AI.",
+   "description_zh": "维也纳的设计博物馆，维也纳变革双年展的主办方。它参与制作《Hello, Robot》（2017），并举办《Uncanny Values: Artificial Intelligence & You》（2019），将设计与批判性 AI 联系起来。",
+   "url": "https://www.mak.at/en",
+   "based": "Vienna, Austria",
+   "based_zh": "维也纳，奥地利",
+   "founded": 1863,
+   "image": "https://www.mak.at/jart/prj3/mak-resp/images/cache/cd9e727f12ae57babeb0efa455d0e45a/0x462CDC5C4CC4064D0137EAF56066DC75.jpeg"
+  },
+  {
+   "id": "vitra-design-museum",
+   "name": "Vitra Design Museum",
+   "name_zh": "维特拉设计博物馆",
+   "type": "museum",
+   "themes": [
+    "robot-art",
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "fields": [
+    "speculative",
+    "intimacy"
+   ],
+   "description": "Design museum whose touring exhibition Hello, Robot. Design between Human and Machine (2017) sorted robots by culture, work, home and body, and became a reference for how design meets machines.",
+   "description_zh": "德国设计博物馆。巡回展《Hello, Robot. 人与机器之间的设计》（2017）按文化、工作、家庭和身体组织机器人，成为设计与机器议题的重要参照。",
+   "url": "https://www.design-museum.de/en/",
+   "based": "Weil am Rhein, Germany",
+   "based_zh": "莱茵河畔魏尔，德国",
+   "founded": 1989,
+   "image": "https://www.design-museum.de/fileadmin/_processed_/f/b/csm_01_Vitra_Design_Museum_photo_Bettina_Matthiessen_1x1_dae7d7ea04.jpg"
+  },
+  {
+   "id": "laboral",
+   "name": "LABoral Centro de Arte y Creación Industrial",
+   "name_zh": "LABoral 艺术与工业创造中心",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour",
+    "bodies"
+   ],
+   "description": "Spanish art centre for art, science, technology and industrial creation, set in a former labour university. Its exhibitions and production labs address automation, labour and machines.",
+   "description_zh": "位于西班牙希洪、由昔日劳工大学改建的艺术中心，聚焦艺术、科学、技术与工业创造，其展览与制作实验室关注自动化、劳动与机器。",
+   "url": "https://www.laboralcentrodearte.org/",
+   "based": "Gijón, Spain",
+   "based_zh": "希洪，西班牙",
+   "founded": 2007
+  },
+  {
+   "id": "onassis-stegi",
+   "name": "Onassis Stegi",
+   "name_zh": "奥纳西斯文化中心",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "Athens cultural centre of the Onassis Foundation with a strong digital culture programme. Its exhibition You and AI: Through the Algorithmic Lens (2021) examined how AI sees and sorts people.",
+   "description_zh": "奥纳西斯基金会在雅典的文化中心，数字文化项目活跃。展览《You and AI: Through the Algorithmic Lens》（2021）探讨 AI 如何观看和分类人。",
+   "url": "https://www.onassis.org/",
+   "based": "Athens, Greece",
+   "based_zh": "雅典，希腊",
+   "founded": 2010
+  },
+  {
+   "id": "fact-liverpool",
+   "name": "FACT Liverpool",
+   "name_zh": "利物浦艺术与创意技术基金会",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "critical-ai"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "The UK's leading centre for art and creative technology (Foundation for Art and Creative Technology). It commissions and shows work on data, surveillance and AI, often with community co-production.",
+   "description_zh": "英国重要的艺术与创意技术中心（Foundation for Art and Creative Technology），委托并展出关于数据、监控与 AI 的作品，常与社区共同制作。",
+   "url": "https://www.fact.co.uk/",
+   "based": "Liverpool, UK",
+   "based_zh": "利物浦，英国",
+   "founded": 1988,
+   "image": "https://cdn.fact.co.uk/uploads/images/_1200x630_crop_center-center_82_none/fact-liverpool-cinema-screens-event-space-hire.jpg?v=1721743197%2C0.5099%2C0.7885"
+  },
+  {
+   "id": "centre-pompidou",
+   "name": "Centre Pompidou",
+   "name_zh": "蓬皮杜艺术中心",
+   "type": "museum",
+   "themes": [
+    "history",
+    "art-science",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Paris's national modern art centre. Its Mutations/Créations series staged Neurones, les intelligences simulées (2020), a history of neural and simulated intelligence across art, design and science.",
+   "description_zh": "法国国家现代艺术中心。其 Mutations/Créations 系列举办了《Neurones, les intelligences simulées》（2020），跨越艺术、设计与科学梳理神经网络与模拟智能的历史。",
+   "url": "https://www.centrepompidou.fr/en/",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "founded": 1977,
+   "people": [
+    "Frédéric Migayrou"
+   ],
+   "image": "https://www.centrepompidou.fr/fileadmin/_processed_/4/8/csm_plan-home-04_b5114e04ac.jpg"
+  },
+  {
+   "id": "jeu-de-paume",
+   "name": "Jeu de Paume",
+   "name_zh": "网球场国家美术馆",
+   "type": "museum",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "opacity-latent"
+   ],
+   "fields": [
+    "perception"
+   ],
+   "description": "Paris centre for photography and the image. The World Through AI (2025) split AI into analytical and generative systems and set artworks beside historical 'time capsules' of machine vision.",
+   "description_zh": "巴黎的摄影与图像艺术中心。展览《The World Through AI》（2025）将 AI 分为分析型与生成型两类，并把艺术作品与机器视觉史的“时间胶囊”并置。",
+   "url": "https://jeudepaume.org/en/",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "founded": 2004,
+   "people": [
+    "Antonio Somaini"
+   ],
+   "image": "https://jeudepaume.org/wp-content/uploads/2021/04/JDP-LSDI-ZOOM.gif"
+  },
+  {
+   "id": "fondazione-prada",
+   "name": "Fondazione Prada",
+   "name_zh": "普拉达基金会",
+   "type": "museum",
+   "themes": [
+    "classification",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Milan art foundation whose Osservatorio hosted Training Humans (2019), conceived by Kate Crawford and Trevor Paglen: the first major exhibition of the training images that teach machines to see people.",
+   "description_zh": "米兰的艺术基金会。其 Osservatorio 空间举办了 Kate Crawford 与 Trevor Paglen 策划的《Training Humans》（2019），这是首个以“教机器看人”的训练图像为主题的大型展览。",
+   "url": "https://en.wikipedia.org/wiki/Fondazione_Prada",
+   "based": "Milan, Italy",
+   "based_zh": "米兰，意大利",
+   "founded": 1993,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Fondazione_Prada%2C_Milan.jpg/1280px-Fondazione_Prada%2C_Milan.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  },
+  {
+   "id": "de-young-museum",
+   "name": "de Young Museum (FAMSF)",
+   "name_zh": "笛洋美术馆",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "labour-extraction",
+    "classification"
+   ],
+   "fields": [
+    "power",
+    "labour"
+   ],
+   "description": "San Francisco fine arts museum that staged Uncanny Valley: Being Human in the Age of AI (2020), which read the uncanny valley politically as the gap between AI's promises and its effects on data, labour and bias.",
+   "description_zh": "旧金山美术馆，曾举办《Uncanny Valley: Being Human in the Age of AI》（2020），把“恐怖谷”解读为 AI 承诺与其在数据、劳动和偏见上实际后果之间的政治落差。",
+   "url": "https://www.famsf.org/visit/de-young",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 1895,
+   "people": [
+    "Claudia Schmuckli"
+   ],
+   "image": "https://www.famsf.org/storage/images/70d46a72-64ec-44bf-a6cf-a95816813ee9/henrikkam-111026-0151-4.jpg?crop=1209,1210,x441,y14&format=jpg&quality=80&width=1000"
+  },
+  {
+   "id": "science-museum-london",
+   "name": "Science Museum, London",
+   "name_zh": "伦敦科学博物馆",
+   "type": "museum",
+   "themes": [
+    "robot-art",
+    "history"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "UK national science museum. Its exhibition Robots (2017) showed more than 100 robots across 500 years, from mechanical automata to humanoids, and still anchors the popular history of the robot.",
+   "description_zh": "英国国家科学博物馆。展览《Robots》（2017）展出跨越 500 年的 100 多台机器人，从机械自动人偶到人形机器人，是机器人大众史的重要参照。",
+   "url": "https://en.wikipedia.org/wiki/Science_Museum,_London",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1857,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Science_Museum%2C_Exhibition_Road_%28cropped%29.jpg/1280px-Science_Museum%2C_Exhibition_Road_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  },
+  {
+   "id": "computer-history-museum",
+   "name": "Computer History Museum",
+   "name_zh": "计算机历史博物馆",
+   "type": "museum",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "theory",
+    "bodies"
+   ],
+   "description": "Silicon Valley museum and archive of computing. Its collection and exhibition Revolution include AI and robotics milestones such as Shakey the robot, with oral histories of the engineers.",
+   "description_zh": "位于硅谷的计算机历史博物馆与档案馆。其收藏与展览《Revolution》包括 Shakey 机器人等 AI 与机器人里程碑，并收录工程师口述史。",
+   "url": "https://computerhistory.org/",
+   "based": "Mountain View, US",
+   "based_zh": "山景城，美国",
+   "founded": 1996,
+   "image": "https://computerhistory.org/wp-content/uploads/2025/06/2024-10-Chatbot-Exhibit-SIS-18-2-375x558.png"
+  },
+  {
+   "id": "v-and-a",
+   "name": "V&A – Victoria and Albert Museum (Digital Art)",
+   "name_zh": "维多利亚与阿尔伯特博物馆",
+   "type": "museum",
+   "themes": [
+    "history",
+    "labour-extraction"
+   ],
+   "fields": [
+    "theory",
+    "labour"
+   ],
+   "description": "London design museum that holds the UK's national collection of computer and digital art, from 1960s plotter drawings to Anatomy of an AI System, which it acquired.",
+   "description_zh": "伦敦的设计博物馆，收藏英国国家级的计算机与数字艺术藏品，从 1960 年代绘图仪作品到其收藏的《Anatomy of an AI System》。",
+   "url": "https://www.vam.ac.uk/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1852
+  },
+  {
+   "id": "kadist",
+   "name": "KADIST",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Nonprofit contemporary art organisation that collects and commissions globally. Its exhibition Apophenia, Interruptions: Artists and Artificial Intelligence at Work (2024) looked at pattern-finding and misrecognition.",
+   "description_zh": "在全球收藏和委托作品的非营利当代艺术机构。展览《Apophenia, Interruptions：工作中的艺术家与人工智能》（2024）关注模式识别与误认。",
+   "url": "https://kadist.org/",
+   "based": "Paris, France / San Francisco, US",
+   "based_zh": "巴黎，法国 / 旧金山，美国",
+   "founded": 2001
+  },
+  {
+   "id": "las-art-foundation",
+   "name": "LAS Art Foundation",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "machine-umwelt",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "Berlin foundation that commissions large works at the edge of art, science and technology, such as Lawrence Lek's NOX (2023), a rehab centre for sentient self-driving cars.",
+   "description_zh": "柏林的艺术基金会，委托位于艺术、科学与技术交界处的大型作品，如 Lawrence Lek 的《NOX》（2023），一个为有感知的自动驾驶汽车设立的康复中心。",
+   "url": "https://www.las-art.foundation/",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2019,
+   "people": [
+    "Bettina Kames"
+   ]
+  },
+  {
+   "id": "vancouver-art-gallery",
+   "name": "Vancouver Art Gallery",
+   "name_zh": "温哥华美术馆",
+   "type": "museum",
+   "themes": [
+    "history",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "theory"
+   ],
+   "description": "Canadian art museum whose exhibition The Imitation Game: Visual Culture in the Age of Artificial Intelligence (2022) traced AI in visual culture from automata to machine vision.",
+   "description_zh": "加拿大美术馆。展览《The Imitation Game: 人工智能时代的视觉文化》（2022）从自动人偶到机器视觉，梳理 AI 在视觉文化中的历史。",
+   "url": "https://www.vanartgallery.bc.ca/",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "founded": 1931,
+   "image": "https://www.vanartgallery.bc.ca/wp-content/uploads/2025/06/VAG_exterior_2023_12-7-e1749153888104.jpg"
+  },
+  {
+   "id": "carnegie-museum-of-art",
+   "name": "Carnegie Museum of Art (Hillman Photography Initiative)",
+   "name_zh": "卡内基艺术博物馆",
+   "type": "museum",
+   "themes": [
+    "machine-seeing",
+    "classification"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Pittsburgh museum whose Hillman Photography Initiative ran Mirror with a Memory (2020–21), a programme on AI, photography, surveillance and bias, including Trevor Paglen's Opposing Geometries.",
+   "description_zh": "匹兹堡的艺术博物馆。其 Hillman 摄影计划推出《Mirror with a Memory》（2020–21），探讨 AI、摄影、监控与偏见，包括 Trevor Paglen 的《Opposing Geometries》。",
+   "url": "https://carnegieart.org/",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "founded": 1895,
+   "image": "https://carnegieart.org/wp-content/uploads/2023/04/share-image.jpg"
+  },
+  {
+   "id": "hkw-berlin",
+   "name": "Haus der Kulturen der Welt (HKW)",
+   "name_zh": "世界文化之家",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "labour-extraction",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "labour"
+   ],
+   "description": "Berlin centre for contemporary arts and discourse. Long-term projects such as Technosphere (2015–19) examined computation, infrastructure and planetary technology.",
+   "description_zh": "柏林的当代艺术与思想中心。长期项目如《Technosphere》（2015–19）探讨计算、基础设施与行星尺度的技术。",
+   "url": "https://www.hkw.de/en",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 1989
+  },
+  {
+   "id": "art-center-nabi",
+   "name": "Art Center Nabi",
+   "name_zh": "Nabi 艺术中心",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "intimacy"
+   ],
+   "description": "Korea's first art centre dedicated to digital art, founded by SK Group. It has run robot art, AI and creative-technology programmes and hackathons for more than two decades.",
+   "description_zh": "韩国第一家数字艺术中心，由 SK 集团创办。二十多年来持续推出机器人艺术、AI 与创意技术项目以及黑客马拉松。",
+   "url": "http://www.nabi.or.kr/",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "founded": 2000,
+   "people": [
+    "Soh Yeong Roh"
+   ]
+  },
+  {
+   "id": "ycam",
+   "name": "Yamaguchi Center for Arts and Media [YCAM]",
+   "name_zh": "山口情报艺术中心",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "embodiment",
+    "art-science"
+   ],
+   "fields": [
+    "coperformance",
+    "bodies"
+   ],
+   "description": "Japanese media arts centre whose in-house R&D team, YCAM InterLab, co-develops works on dance, sensing and machines with artists, releasing tools and research as open source.",
+   "description_zh": "日本的媒体艺术中心，其内部研发团队 YCAM InterLab 与艺术家共同开发关于舞蹈、感知与机器的作品，并开源发布工具与研究成果。",
+   "url": "https://www.ycam.jp/en/",
+   "based": "Yamaguchi, Japan",
+   "based_zh": "山口，日本",
+   "founded": 2003,
+   "image": "https://www.ycam.jp/_assets/images/og-image.png"
+  },
+  {
+   "id": "miraikan",
+   "name": "Miraikan – National Museum of Emerging Science and Innovation",
+   "name_zh": "日本科学未来馆",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "robot-art",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "bodies",
+    "intimacy"
+   ],
+   "description": "Tokyo science museum where the public meets humanoid and android robots, from ASIMO demonstrations to Hiroshi Ishiguro's androids Otonaroid and Kodomoroid (2014).",
+   "description_zh": "东京的科学博物馆，公众在此与人形和仿真机器人相遇，从 ASIMO 演示到石黑浩的仿真人 Otonaroid 与 Kodomoroid（2014）。",
+   "url": "https://www.miraikan.jst.go.jp/en/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 2001,
+   "people": [
+    "Chieko Asakawa"
+   ],
+   "image": "https://www.miraikan.jst.go.jp/images/20220927top_ogp.jpg"
+  },
+  {
+   "id": "c-lab-taiwan",
+   "name": "Taiwan Contemporary Culture Lab (C-LAB)",
+   "name_zh": "台湾当代文化实验场",
+   "type": "museum",
+   "themes": [
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Taipei cultural lab in a former air force base, with a Technology Art Center, a sound lab and the Future Media Arts festival. A key venue for Taiwanese art on AI and machines.",
+   "description_zh": "位于台北原空军基地的文化实验场，设有科技艺术中心、声音实验室和未来媒体艺术节，是台湾 AI 与机器艺术的重要场所。",
+   "url": "https://clab.org.tw/en/",
+   "based": "Taipei, Taiwan",
+   "based_zh": "台北，台湾",
+   "founded": 2018
+  },
+  {
+   "id": "furtherfield",
+   "name": "Furtherfield",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "power",
+    "speculative"
+   ],
+   "description": "London's longest-running art-and-technology organisation, with a gallery and lab in Finsbury Park. It stages critical exhibitions and games on AI, data, blockchain and more-than-human futures.",
+   "description_zh": "伦敦历史最悠久的艺术与技术机构，在芬斯伯里公园设有画廊与实验室，举办关于 AI、数据、区块链与超越人类未来的批判性展览和游戏。",
+   "url": "https://www.furtherfield.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1996,
+   "people": [
+    "Ruth Catlow",
+    "Marc Garrett"
+   ],
+   "image": "https://www.furtherfield.org/wp-content/uploads/2022/07/51421053409_4f01ad3ebe_k-scaled.jpg"
+  },
+  {
+   "id": "aksioma",
+   "name": "Aksioma – Institute for Contemporary Art",
+   "type": "museum",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Ljubljana nonprofit that produces and publishes critical art on networks, algorithms and power, including the PostScriptUM publication series.",
+   "description_zh": "卢布尔雅那的非营利机构，制作并出版关于网络、算法与权力的批判性艺术，包括 PostScriptUM 出版系列。",
+   "url": "https://aksioma.org/",
+   "based": "Ljubljana, Slovenia",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "founded": 2002,
+   "people": [
+    "Janez Janša"
+   ]
+  },
+  {
+   "id": "kapelica-gallery",
+   "name": "Kapelica Gallery / Kersnikova Institute",
+   "type": "museum",
+   "themes": [
+    "embodiment",
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Ljubljana gallery for 'investigative' art, including robotics, bio art and body-machine performance (Stelarc, Špela Petrič). The Kersnikova Institute also runs the RAMPA and BioTehna labs.",
+   "description_zh": "卢布尔雅那的“探究型”艺术画廊，关注机器人、生物艺术与身体–机器表演（Stelarc、Špela Petrič 等），Kersnikova 研究所还运营 RAMPA 与 BioTehna 实验室。",
+   "url": "https://kersnikova.org/",
+   "based": "Ljubljana, Slovenia",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "founded": 1995,
+   "people": [
+    "Jurij Krpan"
+   ]
+  },
+  {
+   "id": "society-for-arts-and-technology",
+   "name": "Society for Arts and Technology (SAT)",
+   "name_zh": "蒙特利尔艺术与技术协会",
+   "type": "museum",
+   "themes": [
+    "art-science",
+    "embodiment"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "Montréal centre for immersive and digital art with a dome, research lab and residencies, developing telepresence and immersive tools used by artists.",
+   "description_zh": "蒙特利尔的沉浸式与数字艺术中心，设有球幕、研究实验室与驻留项目，开发供艺术家使用的远程临场与沉浸式工具。",
+   "url": "https://sat.qc.ca/en/",
+   "based": "Montréal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "founded": 1996
+  },
+  {
+   "id": "ars-electronica-festival",
+   "name": "Ars Electronica Festival",
+   "name_zh": "林茨电子艺术节",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "critical-ai",
+    "robot-art"
+   ],
+   "fields": [
+    "theory",
+    "intimacy"
+   ],
+   "description": "The world's longest-running festival for art, technology and society. Editions such as Artificial Intelligence – The Other I (2017), with its Artificial Intimacy section, set the agenda for machine art.",
+   "description_zh": "全球历史最悠久的艺术、技术与社会节。《Artificial Intelligence – The Other I》（2017，含“人工亲密”单元）等届次为机器艺术设定了议题。",
+   "url": "https://ars.electronica.art/festival/en/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ars_Electronica"
+    }
+   ],
+   "based": "Linz, Austria",
+   "based_zh": "林茨，奥地利",
+   "founded": 1979,
+   "people": [
+    "Gerfried Stocker",
+    "Hannes Leopoldseder",
+    "Hubert Bognermayr"
+   ],
+   "image": "https://ars.electronica.art/festival/files/2026/09/samsara.jpg"
+  },
+  {
+   "id": "transmediale",
+   "name": "transmediale",
+   "name_zh": "柏林跨媒体艺术节",
+   "type": "festival",
+   "themes": [
+    "critical-ai",
+    "classification",
+    "labour-extraction"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "Berlin festival for art and digital culture, known for critical rather than celebratory themes (Capture All 2015, face value 2018, for refusal 2021–22). It co-publishes the APRJA journal.",
+   "description_zh": "柏林的艺术与数字文化节，以批判而非颂扬技术的主题著称（2015《Capture All》、2018《face value》、2021–22《for refusal》），并联合出版 APRJA 期刊。",
+   "url": "https://transmediale.de/",
+   "links": [
+    {
+     "label": "Monoskop",
+     "url": "https://monoskop.org/Transmediale"
+    }
+   ],
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 1988
+  },
+  {
+   "id": "isea-international",
+   "name": "ISEA International (International Symposium on Electronic Art)",
+   "name_zh": "国际电子艺术研讨会",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "The main academic symposium and exhibition for electronic art, held in a different city each year since 1988. Its online archive holds decades of papers on robot art, A-life and AI.",
+   "description_zh": "电子艺术领域最主要的学术研讨会与展览，自 1988 年起每年在不同城市举办，在线档案收录了数十年关于机器人艺术、人工生命与 AI 的论文。",
+   "url": "https://isea-international.org/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 1988,
+   "image": "https://www.isea-international.org/wp-content/uploads/2022/10/The-Key-To-Time-by-Krzysztof-Wolek-and-Roderick-Coover-for-ISEA-2020-new-scaled.jpg"
+  },
+  {
+   "id": "siggraph-art-gallery",
+   "name": "SIGGRAPH Art Gallery & Art Papers",
+   "name_zh": "SIGGRAPH 艺术画廊",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "The art programme of ACM SIGGRAPH, the computer graphics conference, and SIGGRAPH Asia. For decades it has shown computational, robotic and AI art beside the research that makes it possible.",
+   "description_zh": "计算机图形学会议 ACM SIGGRAPH 及 SIGGRAPH Asia 的艺术单元，数十年来将计算、机器人与 AI 艺术与支撑它们的研究并置展出。",
+   "url": "https://en.wikipedia.org/wiki/SIGGRAPH",
+   "based": "Itinerant (North America / Asia)",
+   "based_zh": "巡回（北美 / 亚洲）",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/SIGGRAPH_2023_Mocap.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "neurips-creative-ai",
+   "name": "NeurIPS Creative AI Track",
+   "name_zh": "NeurIPS 创意 AI 单元",
+   "type": "festival",
+   "themes": [
+    "agency-cocreation",
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "coperformance",
+    "theory"
+   ],
+   "description": "Juried track of the NeurIPS machine learning conference for art and design work with and about AI, following the Machine Learning for Creativity and Design workshops (2017–22). It puts artists in the room with ML researchers.",
+   "description_zh": "机器学习顶会 NeurIPS 的评审制创意 AI 单元，承接 2017–22 年的“机器学习与创意设计”研讨会，面向与 AI 相关的艺术与设计作品，让艺术家与机器学习研究者同场对话。",
+   "url": "https://neurips.cc/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 2023
+  },
+  {
+   "id": "cvpr-ai-art-gallery",
+   "name": "CVPR AI Art Gallery",
+   "name_zh": "CVPR AI 艺术画廊",
+   "type": "festival",
+   "themes": [
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "fields": [
+    "perception"
+   ],
+   "description": "Online and on-site gallery of the CVPR computer vision conference, showing artworks that use or question computer vision; its archive documents each year's selection.",
+   "description_zh": "计算机视觉会议 CVPR 的线上与现场画廊，展出使用或质疑计算机视觉的艺术作品，档案保存了历年入选作品。",
+   "url": "https://thecvf-art.com/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 2019,
+   "people": [
+    "Luba Elliott"
+   ],
+   "image": "https://thecvf-art.com/images/2026/feileacan-kirkbride-mccormick/art_6a102b4c5a0d1.jpg"
+  },
+  {
+   "id": "beijing-media-art-biennale",
+   "name": "Beijing Media Art Biennale",
+   "name_zh": "北京媒体艺术双年展",
+   "type": "festival",
+   "themes": [
+    "east-asia",
+    "ethics-policy",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Biennale at the CAFA Art Museum, Central Academy of Fine Arts. Its first edition Ethics of Technology (2016) and Post-Life (2018) are key Chinese-language frames for art about machines.",
+   "description_zh": "由中央美术学院美术馆主办的双年展。首届《技术伦理》（2016）与第二届《后生命》（2018）是中文语境下机器艺术的重要框架。",
+   "url": "https://en.wikipedia.org/wiki/CAFA_Art_Museum",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "founded": 2016
+  },
+  {
+   "id": "tsinghua-art-and-science",
+   "name": "Art & Science International Exhibition and Symposium (Tsinghua)",
+   "name_zh": "艺术与科学国际作品展暨学术研讨会",
+   "type": "festival",
+   "themes": [
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Recurring exhibition and symposium initiated in 2001 at Tsinghua University by physicist T.D. Lee and painter Wu Guanzhong, now held at the Tsinghua University Art Museum. China's main art-and-science series.",
+   "description_zh": "2001 年由物理学家李政道与画家吴冠中在清华大学发起的系列展览与研讨会，现由清华大学艺术博物馆举办，是中国最主要的艺术与科学系列活动。",
+   "url": "https://www.artmuseum.tsinghua.edu.cn/",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "founded": 2001
+  },
+  {
+   "id": "japan-media-arts-festival",
+   "name": "Japan Media Arts Festival",
+   "name_zh": "日本文化厅媒体艺术节",
+   "type": "festival",
+   "themes": [
+    "east-asia",
+    "robot-art",
+    "history"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Festival and awards of Japan's Agency for Cultural Affairs (1997–2022) across art, entertainment, animation and manga. Sony's aibo and the robotic opera Pendulum Choir were among its prize-winners.",
+   "description_zh": "日本文化厅主办的艺术节与奖项（1997–2022），涵盖艺术、娱乐、动画与漫画。Sony 的 aibo 与机器人歌剧《Pendulum Choir》都曾获奖。",
+   "url": "https://j-mediaarts.jp/en/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 1997
+  },
+  {
+   "id": "sonar-plus-d",
+   "name": "Sónar+D",
+   "type": "festival",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "perception",
+    "coperformance"
+   ],
+   "description": "Creativity and technology congress of the Sónar music festival, with talks and showcases on AI in music, synthetic voices and human-machine performance.",
+   "description_zh": "Sónar 音乐节的创意与技术大会，举办关于音乐 AI、合成声音与人机表演的讲座和展示。",
+   "url": "https://sonar.es/en",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "founded": 2013,
+   "image": "https://sonar.es/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpro-cms-bucket%2FFoto_Sonar_Stoor_Sonar_Car_Nerea_Coll_R525169_1_ffeb7d36a8%2FFoto_Sonar_Stoor_Sonar_Car_Nerea_Coll_R525169_1_ffeb7d36a8.jpg&w=3840&q=75"
+  },
+  {
+   "id": "strp-festival",
+   "name": "STRP Festival",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy",
+    "speculative"
+   ],
+   "description": "Eindhoven festival for creative technology, set in a former Philips industrial complex, whose editions explore living with robots, AI and sensing environments.",
+   "description_zh": "在埃因霍温飞利浦旧工业区举办的创意技术节，历届探讨如何与机器人、AI 和感知环境共处。",
+   "url": "https://strp.nl/",
+   "based": "Eindhoven, Netherlands",
+   "based_zh": "埃因霍温，荷兰",
+   "founded": 2006
+  },
+  {
+   "id": "impakt",
+   "name": "Impakt",
+   "type": "festival",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Utrecht organisation for critical media culture, with a yearly festival, residencies and a centre for media culture. Its themes often address algorithms, surveillance and machine perception.",
+   "description_zh": "乌得勒支的批判性媒体文化机构，举办年度艺术节、驻留和媒体文化中心，主题常涉及算法、监控与机器感知。",
+   "url": "https://impakt.nl/",
+   "based": "Utrecht, Netherlands",
+   "based_zh": "乌得勒支，荷兰",
+   "founded": 1988
+  },
+  {
+   "id": "acm-creativity-and-cognition",
+   "name": "ACM Creativity & Cognition",
+   "name_zh": "ACM 创造力与认知会议",
+   "type": "festival",
+   "themes": [
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "coperformance",
+    "theory"
+   ],
+   "description": "ACM conference on human creativity and computation, founded by Ernest Edmonds in 1993, with papers, pictorials and an art exhibition on co-creation with machines.",
+   "description_zh": "由 Ernest Edmonds 于 1993 年创办的 ACM 人类创造力与计算会议，设有论文、图像论文与艺术展，关注与机器共创。",
+   "url": "https://cc.acm.org/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 1993,
+   "people": [
+    "Ernest Edmonds"
+   ]
+  },
+  {
+   "id": "xcoax",
+   "name": "xCoAx – Computation, Communication, Aesthetics & X",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Conference and exhibition on computation, communication and aesthetics, with papers and artworks on algorithms, generative systems and the nature of computing.",
+   "description_zh": "关于计算、传播与美学的会议与展览，收录关于算法、生成系统与计算本质的论文与作品。",
+   "url": "https://xcoax.org/",
+   "based": "Itinerant (Europe)",
+   "based_zh": "巡回（欧洲）",
+   "founded": 2013,
+   "image": "https://xcoax.org/img/low/2025blair1-low.jpg"
+  },
+  {
+   "id": "eva-london",
+   "name": "EVA London – Electronic Visualisation and the Arts",
+   "type": "festival",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Annual London conference on electronic visualisation and the arts, run with the BCS Computer Arts Society, spanning early computer art history to AI.",
+   "description_zh": "伦敦年度电子可视化与艺术会议，与 BCS 计算机艺术学会合办，议题从早期计算机艺术史延伸到 AI。",
+   "url": "https://www.eva-london.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1990,
+   "image": "https://eva-london.org/wp-content/uploads/2017/10/eva2018_slider.jpg"
+  },
+  {
+   "id": "elektra-montreal",
+   "name": "Elektra / International Digital Art Biennial (BIAN)",
+   "type": "festival",
+   "themes": [
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Montréal festival and biennial for digital art, which often features robotic and machine installations; BIAN editions include the robotics-themed Automata (2016).",
+   "description_zh": "蒙特利尔的数字艺术节与双年展，常展出机器人与机器装置；BIAN 双年展包括以机器人为主题的《Automata》（2016）。",
+   "url": "https://elektramontreal.ca/",
+   "based": "Montréal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "founded": 1999,
+   "people": [
+    "Alain Thibault"
+   ],
+   "image": "https://cdn.prod.website-files.com/6a32b7e52d6b8abde1723705/6a8ef70d5dd85d255def0c9d_Exposition%20biennale%20ELEKTRA%208%20-%20web%20thumbnail.jpg"
+  },
+  {
+   "id": "kikk-festival",
+   "name": "KIKK Festival",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "International festival of digital and creative cultures in Namur, with talks and installations by designers and artists working on AI, robots and speculative futures.",
+   "description_zh": "比利时那慕尔的国际数字与创意文化节，邀请从事 AI、机器人与推测未来的设计师与艺术家进行讲座和装置展示。",
+   "url": "https://www.kikk.be/",
+   "based": "Namur, Belgium",
+   "based_zh": "那慕尔，比利时",
+   "founded": 2011
+  },
+  {
+   "id": "file-festival",
+   "name": "FILE – Electronic Language International Festival",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Latin America's largest electronic art festival, held in São Paulo, with robotic, interactive and AI art and an extensive online archive.",
+   "description_zh": "拉丁美洲最大的电子艺术节，在圣保罗举办，展出机器人、互动与 AI 艺术，并拥有丰富的在线档案。",
+   "url": "https://file.org.br/",
+   "based": "São Paulo, Brazil",
+   "based_zh": "圣保罗，巴西",
+   "founded": 2000,
+   "people": [
+    "Paula Perissinotto",
+    "Ricardo Barreto"
+   ],
+   "image": "https://filefestival-img.s3.amazonaws.com/wp-content/uploads/2026/07/file-2026-art-and-technology-inter-creativity-electronic-language-internacional-festival-scaled.jpg"
+  },
+  {
+   "id": "iccc-computational-creativity",
+   "name": "International Conference on Computational Creativity (ICCC)",
+   "name_zh": "国际计算创造力会议",
+   "type": "festival",
+   "themes": [
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "theory",
+    "coperformance"
+   ],
+   "description": "Annual conference of the Association for Computational Creativity on whether and how machines can be creative, from art-making systems to evaluation.",
+   "description_zh": "计算创造力协会的年度会议，研究机器能否以及如何具有创造力，从创作系统到评估方法。",
+   "url": "https://computationalcreativity.net/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 2010
+  },
+  {
+   "id": "hri-conference",
+   "name": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+   "name_zh": "人机交互国际会议（HRI）",
+   "type": "festival",
+   "themes": [
+    "robot-art",
+    "intimacy-care",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "intimacy"
+   ],
+   "description": "The main research conference on human-robot interaction. Its studies of trust, anthropomorphism and robot bullying are core evidence for how people read machine bodies.",
+   "description_zh": "人机交互领域最主要的学术会议，关于信任、拟人化与“欺负机器人”的研究是理解人们如何解读机器身体的核心依据。",
+   "url": "https://humanrobotinteraction.org/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 2006,
+   "image": "https://humanrobotinteraction.org/wp-content/uploads/2026/03/computer-history-museum-920x350.jpg"
+  },
+  {
+   "id": "nime",
+   "name": "NIME – New Interfaces for Musical Expression",
+   "type": "festival",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "fields": [
+    "coperformance",
+    "perception"
+   ],
+   "description": "International conference on new musical instruments and interfaces, including robotic instruments, AI co-performers and machine listening.",
+   "description_zh": "关于新型乐器与界面的国际会议，涵盖机器人乐器、AI 共演者与机器聆听。",
+   "url": "https://www.nime.org/",
+   "based": "Itinerant",
+   "based_zh": "巡回举办",
+   "founded": 2001
+  },
+  {
+   "id": "wro-biennale",
+   "name": "WRO Media Art Biennale",
+   "name_zh": "WRO 媒体艺术双年展",
+   "type": "festival",
+   "themes": [
+    "art-science",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Central Europe's longest-running media art biennale, run by the WRO Art Center in Wrocław, with exhibitions on sound, machines and networked media.",
+   "description_zh": "中欧历史最久的媒体艺术双年展，由弗罗茨瓦夫 WRO 艺术中心主办，展出声音、机器与网络媒体作品。",
+   "url": "https://wrocenter.pl/en/",
+   "based": "Wrocław, Poland",
+   "based_zh": "弗罗茨瓦夫，波兰",
+   "founded": 1989,
+   "image": "https://wrocenter.pl/wp-content/uploads/2026/08/kafel-thnkg-screens-600x600.jpg"
+  },
+  {
+   "id": "microwave-festival",
+   "name": "Microwave International New Media Arts Festival",
+   "name_zh": "微波国际新媒体艺术节",
+   "type": "festival",
+   "themes": [
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Hong Kong's long-running new media arts festival, with themed exhibitions and forums that have included machine and AI art from Asia.",
+   "description_zh": "香港历史悠久的新媒体艺术节，以主题展和论坛呈现包括亚洲机器与 AI 艺术在内的作品。",
+   "url": "https://www.microwavefest.net/",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "founded": 1996
+  },
+  {
+   "id": "prix-ars-electronica",
+   "name": "Prix Ars Electronica",
+   "name_zh": "电子艺术大奖",
+   "type": "award",
+   "themes": [
+    "art-science",
+    "critical-ai",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "labour",
+    "theory"
+   ],
+   "description": "The leading prize for media art. Its Artificial Life & Intelligence category honours work on what AI and life science mean for being human, with Golden Nicas for Paul Vanouse's Labor (2019) and Forensic Architecture's Cloud Studies (2021).",
+   "description_zh": "媒体艺术最重要的奖项。其“人工生命与智能”类别表彰关于 AI 与生命科学对人之意义的作品，金尼卡奖得主包括 Paul Vanouse 的《Labor》（2019）与法证建筑的《Cloud Studies》（2021）。",
+   "url": "https://ars.electronica.art/prix/en/",
+   "links": [
+    {
+     "label": "Archive",
+     "url": "https://archive.aec.at/prix/"
+    }
+   ],
+   "based": "Linz, Austria",
+   "based_zh": "林茨，奥地利",
+   "founded": 1987,
+   "image": "https://ars.electronica.art/prix/files/2025/12/1923-vog_8309_3000x2375-1024x811.jpg"
+  },
+  {
+   "id": "starts-prize",
+   "name": "S+T+ARTS Prize",
+   "name_zh": "S+T+ARTS 奖",
+   "type": "award",
+   "themes": [
+    "art-science",
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "European Commission prize for innovation at the nexus of science, technology and the arts, run by Ars Electronica. Winners include Project Alias (2019), Holly+ (2022), Calculating Empires (2024) and the AI War Cloud Database (2025).",
+   "description_zh": "欧盟委员会设立、由电子艺术节运营的科学、技术与艺术交叉创新奖。获奖作品包括《Project Alias》（2019）、《Holly+》（2022）、《Calculating Empires》（2024）与《AI War Cloud Database》（2025）。",
+   "url": "https://ars.electronica.art/starts-prize/en/",
+   "based": "Linz, Austria / EU",
+   "based_zh": "林茨，奥地利 / 欧盟",
+   "founded": 2016,
+   "image": "https://ars.electronica.art/starts-prize/files/2026/06/cortical-echoes-1-1024x576.jpg"
+  },
+  {
+   "id": "vida-awards",
+   "name": "VIDA – Art & Artificial Life International Awards",
+   "name_zh": "VIDA 艺术与人工生命国际奖",
+   "type": "award",
+   "themes": [
+    "robot-art",
+    "agency-cocreation",
+    "history"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Fundación Telefónica's prize (1999–c.2015), the only award devoted to art and artificial life: robots that sweat, walking tables, autonomous protest agents and virtual ecologies.",
+   "description_zh": "西班牙电信基金会设立的奖项（1999–约 2015），唯一专门面向艺术与人工生命的奖：会出汗的机器人、行走的桌子、自主抗议体与虚拟生态。",
+   "url": "https://www.fundaciontelefonica.com/",
+   "links": [
+    {
+     "label": "Winners (noemalab)",
+     "url": "https://noemalab.eu/memo/events/vida-art-and-artificial-life-award-winners/"
+    }
+   ],
+   "based": "Madrid, Spain",
+   "based_zh": "马德里，西班牙",
+   "founded": 1999
+  },
+  {
+   "id": "lumen-prize",
+   "name": "Lumen Prize",
+   "name_zh": "Lumen 数字艺术奖",
+   "type": "award",
+   "themes": [
+    "art-science",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "International prize for art made with technology, with an AI award since 2018 (e.g. Lichtsuchende, a light-seeking robot society). Much of it is generative, so its winners need case-by-case selection.",
+   "description_zh": "面向技术艺术的国际奖项，2018 年起设 AI 奖（如光敏机器人群落《Lichtsuchende》）。获奖作品多为生成式，需逐一甄选。",
+   "url": "https://www.lumenprize.com/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2012,
+   "people": [
+    "Carla Rapoport"
+   ]
+  },
+  {
+   "id": "lg-guggenheim-award",
+   "name": "LG Guggenheim Award",
+   "name_zh": "LG 古根海姆奖",
+   "type": "award",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "intimacy",
+    "power"
+   ],
+   "description": "US$100,000 award for technology-based art from the LG Guggenheim Art & Technology Initiative. Winners: Stephanie Dinkins (2023), Shu Lea Cheang (2024), Ayoung Kim (2025) and Trevor Paglen (2026).",
+   "description_zh": "LG 古根海姆艺术与技术计划设立的 10 万美元技术艺术奖。获奖者：Stephanie Dinkins（2023）、郑淑丽（2024）、Ayoung Kim（2025）与 Trevor Paglen（2026）。",
+   "url": "https://en.wikipedia.org/wiki/LG_Guggenheim_Award",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2022,
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2023_LG_Guggenheim_Award_Physical_Award.png/250px-2023_LG_Guggenheim_Award_Physical_Award.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  {
+   "id": "human-ai-art-award",
+   "name": "Human AI Art Award",
+   "name_zh": "人类 AI 艺术奖",
+   "type": "award",
+   "themes": [
+    "critical-ai",
+    "labour-extraction",
+    "intimacy-care"
+   ],
+   "fields": [
+    "labour",
+    "intimacy"
+   ],
+   "description": "Annual award by the Art Collection Deutsche Telekom and Kunstmuseum Bonn for art that reflects on AI: Lauren Lee McCarthy's LAUREN (2024) and Nicolas Gourault's Unknown Label (2025).",
+   "description_zh": "德国电信艺术收藏与波恩艺术博物馆设立的年度奖，表彰反思 AI 的艺术：Lauren Lee McCarthy 的《LAUREN》（2024）与 Nicolas Gourault 的《Unknown Label》（2025）。",
+   "url": "https://www.art-collection-telekom.com/en/",
+   "based": "Bonn, Germany",
+   "based_zh": "波恩，德国",
+   "founded": 2024
+  },
+  {
+   "id": "mozilla-creative-media-awards",
+   "name": "Mozilla Creative Media Awards",
+   "name_zh": "Mozilla 创意媒体奖",
+   "type": "award",
+   "themes": [
+    "critical-ai",
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Mozilla Foundation grants for art, games and media that make the harms of AI tangible to the public, especially bias, surveillance and platform power.",
+   "description_zh": "Mozilla 基金会资助的艺术、游戏与媒体项目，让公众切身感受 AI 的危害，尤其是偏见、监控与平台权力。",
+   "url": "https://foundation.mozilla.org/en/what-we-fund/awards/creative-media-awards/",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2019
+  },
+  {
+   "id": "robotart-competition",
+   "name": "RobotArt Competition",
+   "name_zh": "机器人艺术竞赛",
+   "type": "award",
+   "themes": [
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Annual competition (2016–18) for robots that paint with physical brushes, which gathered university and artist teams and made robot painting visible as a craft.",
+   "description_zh": "年度机器人绘画竞赛（2016–18），参赛机器人用真实画笔作画，汇集大学与艺术家团队，让机器人绘画作为一门手艺被看见。",
+   "url": "https://robotart.org/",
+   "based": "US / Online",
+   "based_zh": "美国 / 线上",
+   "founded": 2016,
+   "people": [
+    "Andrew Conru"
+   ],
+   "image": "https://robotart.org/wp-content/uploads/2016/04/Albert-Einstein2-265x300.jpg"
+  },
+  {
+   "id": "mit-media-lab-personal-robots",
+   "name": "MIT Media Lab – Personal Robots Group",
+   "name_zh": "MIT 媒体实验室个人机器人组",
+   "type": "lab",
+   "themes": [
+    "intimacy-care",
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Cynthia Breazeal's group, which grew out of her sociable robot Kismet (1990s) and went on to build Leonardo and the social robot Jibo. It is the reference lab for robots designed as companions, tutors and carers.",
+   "description_zh": "Cynthia Breazeal 领导的研究组，源于她 1990 年代的社交机器人 Kismet，后来开发了 Leonardo 与社交机器人 Jibo，是陪伴、教学与照护型机器人设计的标杆实验室。",
+   "url": "https://www.media.mit.edu/groups/personal-robots/overview/",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "people": [
+    "Cynthia Breazeal"
+   ],
+   "image": "https://dam-prod.media.mit.edu/thumb/2016/10/24/huggable.jpg.1400x1400.jpg"
+  },
+  {
+   "id": "mit-media-lab-affective-computing",
+   "name": "MIT Media Lab – Affective Computing Group",
+   "name_zh": "MIT 媒体实验室情感计算组",
+   "type": "lab",
+   "themes": [
+    "intimacy-care",
+    "classification"
+   ],
+   "fields": [
+    "perception",
+    "intimacy"
+   ],
+   "description": "Rosalind Picard's group, which founded affective computing: machines that sense and respond to emotion. Its work underlies both care technologies and the emotion recognition that artists critique.",
+   "description_zh": "Rosalind Picard 领导的研究组，开创了“情感计算”：能感知并回应情绪的机器。其研究既支撑照护技术，也是艺术家批判的情绪识别技术的源头。",
+   "url": "https://www.media.mit.edu/groups/affective-computing/overview/",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "people": [
+    "Rosalind Picard"
+   ],
+   "image": "https://dam-prod.media.mit.edu/thumb/2018/07/26/MIT-Emotion-Analysis_0.jpg.1400x1400.jpg"
+  },
+  {
+   "id": "ars-electronica-futurelab",
+   "name": "Ars Electronica Futurelab",
+   "name_zh": "电子艺术未来实验室",
+   "type": "lab",
+   "themes": [
+    "art-science",
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "The R&D studio of Ars Electronica, working with industry and universities on drone swarms, robots and human-AI collaboration, and presenting the results as art.",
+   "description_zh": "电子艺术节的研发工作室，与企业和大学合作研究无人机群、机器人与人机协作，并以艺术形式呈现成果。",
+   "url": "https://ars.electronica.art/futurelab/en/",
+   "based": "Linz, Austria",
+   "based_zh": "林茨，奥地利",
+   "founded": 1996,
+   "people": [
+    "Horst Hörtner",
+    "Hideaki Ogawa"
+   ],
+   "image": "https://ars.electronica.art/futurelab/files/2025/01/54208229203_64b7c98772_k-1500x1000.jpg"
+  },
+  {
+   "id": "google-artists-and-machine-intelligence",
+   "name": "Artists + Machine Intelligence (Google AMI)",
+   "name_zh": "谷歌艺术家与机器智能计划",
+   "type": "lab",
+   "themes": [
+    "agency-cocreation",
+    "opacity-latent",
+    "art-science"
+   ],
+   "fields": [
+    "interiority",
+    "coperformance"
+   ],
+   "description": "Google programme that pairs artists with machine intelligence researchers; it supported early DeepDream-era art and projects such as K Allado-McDowell's Pharmako-AI.",
+   "description_zh": "谷歌将艺术家与机器智能研究者配对的项目，支持了 DeepDream 时代的早期艺术以及 K Allado-McDowell 的《Pharmako-AI》等作品。",
+   "url": "https://ami.withgoogle.com/",
+   "based": "Mountain View / Global",
+   "based_zh": "山景城 / 全球",
+   "founded": 2016,
+   "people": [
+    "Blaise Agüera y Arcas",
+    "Kenric McDowell"
+   ]
+  },
+  {
+   "id": "creative-ai-lab",
+   "name": "Creative AI Lab",
+   "name_zh": "创意 AI 实验室",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Collaboration between Serpentine Arts Technologies and King's College London's Department of Digital Humanities. It studies AI as an artistic medium and keeps a database of tools and resources for artists.",
+   "description_zh": "蛇形画廊艺术与技术部与伦敦国王学院数字人文系的合作项目，研究 AI 作为艺术媒介，并维护面向艺术家的工具与资源数据库。",
+   "url": "https://creative-ai.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2019,
+   "people": [
+    "Mercedes Bunz",
+    "Eva Jäger"
+   ]
+  },
+  {
+   "id": "leverhulme-cfi",
+   "name": "Leverhulme Centre for the Future of Intelligence",
+   "name_zh": "剑桥大学利弗休姆未来智能中心",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "ethics-policy",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "afterlife"
+   ],
+   "description": "Cambridge research centre on the long-term impact of AI. Its AI Narratives and Global AI Narratives projects study how stories shape what we expect of machines, and it has researched griefbots and 'digital afterlife' ethics.",
+   "description_zh": "剑桥大学研究 AI 长期影响的中心。其“AI 叙事”与“全球 AI 叙事”项目研究故事如何塑造我们对机器的期待，也研究了哀悼机器人与“数字来世”的伦理。",
+   "url": "https://www.lcfi.ac.uk/",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2016,
+   "people": [
+    "Stephen Cave",
+    "Kanta Dihal",
+    "Tomasz Hollanek"
+   ]
+  },
+  {
+   "id": "ai-now-institute",
+   "name": "AI Now Institute",
+   "name_zh": "AI Now 研究所",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "labour-extraction",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "labour"
+   ],
+   "description": "Policy research institute co-founded by Kate Crawford and Meredith Whittaker on the social consequences of AI. Its reports on bias, labour and concentrated industry power shaped critical AI discourse.",
+   "description_zh": "由 Kate Crawford 与 Meredith Whittaker 共同创立的政策研究机构，研究 AI 的社会后果，其关于偏见、劳动与行业权力集中的报告塑造了批判性 AI 话语。",
+   "url": "https://ainowinstitute.org/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2017,
+   "people": [
+    "Kate Crawford",
+    "Meredith Whittaker",
+    "Amba Kak",
+    "Sarah Myers West"
+   ],
+   "image": "https://ainowinstitute.org/wp-content/uploads/2025/07/20250529-ExecSummary-web.png"
+  },
+  {
+   "id": "dair-institute",
+   "name": "Distributed AI Research Institute (DAIR)",
+   "name_zh": "分布式 AI 研究所",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "labour-extraction",
+    "classification"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Independent, community-rooted AI research institute founded by Timnit Gebru after her dismissal from Google. It centres the people harmed by AI, including data workers.",
+   "description_zh": "Timnit Gebru 在被谷歌解雇后创立的独立 AI 研究机构，扎根社区，以包括数据劳工在内的受 AI 伤害者为中心。",
+   "url": "https://www.dair-institute.org/",
+   "based": "Distributed",
+   "based_zh": "分布式",
+   "founded": 2021,
+   "people": [
+    "Timnit Gebru",
+    "Alex Hanna",
+    "Milagros Miceli"
+   ],
+   "image": "https://cdn.sanity.io/images/wc2kmxvk/rebrand/796af217ffe26031dc6039bcb1562018f501673c-2829x1479.png"
+  },
+  {
+   "id": "knowing-machines",
+   "name": "Knowing Machines",
+   "type": "lab",
+   "themes": [
+    "classification",
+    "critical-ai",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Research project tracing the histories, practices and politics of how machine learning systems are trained to interpret the world, including Models All the Way Down, a visual investigation of the LAION-5B dataset.",
+   "description_zh": "研究机器学习系统如何被训练去解释世界的历史、实践与政治，包括对 LAION-5B 数据集的视觉调查《Models All the Way Down》。",
+   "url": "https://knowingmachines.org/",
+   "based": "Global",
+   "based_zh": "全球",
+   "people": [
+    "Kate Crawford",
+    "Mike Ananny",
+    "Jer Thorp",
+    "Christo Buschek"
+   ]
+  },
+  {
+   "id": "data-and-society",
+   "name": "Data & Society",
+   "name_zh": "数据与社会研究所",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "labour-extraction",
+    "classification"
+   ],
+   "fields": [
+    "power",
+    "labour"
+   ],
+   "description": "Independent research institute founded by danah boyd that studies the social implications of data-centric and automated technologies, from platform labour to algorithmic accountability.",
+   "description_zh": "由 danah boyd 创立的独立研究机构，研究数据驱动与自动化技术的社会影响，从平台劳动到算法问责。",
+   "url": "https://datasociety.net/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2014,
+   "people": [
+    "danah boyd"
+   ]
+  },
+  {
+   "id": "ual-creative-computing-institute",
+   "name": "UAL Creative Computing Institute",
+   "name_zh": "伦敦艺术大学创意计算研究所",
+   "type": "lab",
+   "themes": [
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "coperformance",
+    "theory"
+   ],
+   "description": "University of the Arts London institute for creative computing research and teaching, including interactive machine learning for artists (Wekinator) and critical AI practice.",
+   "description_zh": "伦敦艺术大学的创意计算研究与教学机构，涵盖面向艺术家的交互式机器学习（Wekinator）与批判性 AI 实践。",
+   "url": "https://www.arts.ac.uk/creative-computing-institute",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Rebecca Fiebrink",
+    "Mick Grierson"
+   ]
+  },
+  {
+   "id": "cmu-studio-for-creative-inquiry",
+   "name": "STUDIO for Creative Inquiry (CMU)",
+   "name_zh": "卡内基梅隆大学创意探究工作室",
+   "type": "lab",
+   "themes": [
+    "art-science",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "theory"
+   ],
+   "description": "Carnegie Mellon's lab for atypical, anti-disciplinary art research, directed by Golan Levin. It hosts residencies and projects on computer vision, robotics and creative coding.",
+   "description_zh": "卡内基梅隆大学的跨学科艺术研究实验室，由 Golan Levin 主持，驻留与项目涉及计算机视觉、机器人与创意编程。",
+   "url": "https://studioforcreativeinquiry.org/",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "founded": 1989,
+   "people": [
+    "Golan Levin"
+   ],
+   "image": "https://studioforcreativeinquiry.org/wp-content/uploads/2019/11/27999759898_68acb5f5c4_o.jpg"
+  },
+  {
+   "id": "hiroshi-ishiguro-laboratories",
+   "name": "Hiroshi Ishiguro Laboratories (ATR / Osaka University)",
+   "name_zh": "石黑浩实验室",
+   "type": "lab",
+   "themes": [
+    "alterity-uncanny",
+    "robot-art",
+    "east-asia"
+   ],
+   "fields": [
+    "bodies",
+    "intimacy"
+   ],
+   "description": "Hiroshi Ishiguro's android labs, which built the Geminoid copies, Erica and, with Kōdai-ji temple, the android Kannon Mindar. They are the main testbed for questions of presence and the uncanny valley.",
+   "description_zh": "石黑浩的仿真人实验室，制作了 Geminoid 系列复制人、Erica，并与高台寺合作打造仿真观音 Mindar，是“存在感”与恐怖谷问题的主要试验场。",
+   "url": "http://www.geminoid.jp/en/",
+   "links": [
+    {
+     "label": "Osaka University lab",
+     "url": "https://eng.irl.sys.es.osaka-u.ac.jp/"
+    }
+   ],
+   "based": "Kyoto / Osaka, Japan",
+   "based_zh": "京都 / 大阪，日本",
+   "people": [
+    "Hiroshi Ishiguro"
+   ]
+  },
+  {
+   "id": "ikegami-lab",
+   "name": "Ikegami Lab (University of Tokyo)",
+   "name_zh": "池上高志实验室",
+   "type": "lab",
+   "themes": [
+    "agency-cocreation",
+    "machine-umwelt",
+    "east-asia"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "Takashi Ikegami's artificial life lab, which built the android Alter with Ishiguro's team to test whether spontaneous, life-like movement can emerge from neural networks.",
+   "description_zh": "池上高志的人工生命实验室，与石黑浩团队合作开发仿真人 Alter，探索神经网络能否产生自发的类生命运动。",
+   "url": "https://en.wikipedia.org/wiki/Takashi_Ikegami",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "people": [
+    "Takashi Ikegami"
+   ]
+  },
+  {
+   "id": "forensic-architecture",
+   "name": "Forensic Architecture",
+   "name_zh": "法证建筑",
+   "type": "lab",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Research agency at Goldsmiths that investigates state and corporate violence with spatial, media and machine-vision analysis. It trains classifiers on synthetic data and won the 2021 Golden Nica for Cloud Studies.",
+   "description_zh": "设于伦敦大学金史密斯学院的研究机构，以空间、媒体与机器视觉分析调查国家与企业暴力；它用合成数据训练分类器，并以《Cloud Studies》获 2021 年金尼卡奖。",
+   "url": "https://forensic-architecture.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2010,
+   "people": [
+    "Eyal Weizman"
+   ],
+   "creator_id": "forensic-architecture"
+  },
+  {
+   "id": "share-lab",
+   "name": "SHARE Lab / SHARE Foundation",
+   "type": "lab",
+   "themes": [
+    "labour-extraction",
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Research and data investigation lab of the SHARE Foundation, led by Vladan Joler, which maps the invisible infrastructures of networks and AI. It is the home of the maps behind Anatomy of an AI System.",
+   "description_zh": "SHARE 基金会下由 Vladan Joler 领导的研究与数据调查实验室，绘制网络与 AI 不可见的基础设施地图，《Anatomy of an AI System》的地图工作即源于此。",
+   "url": "https://en.wikipedia.org/wiki/SHARE_Foundation",
+   "based": "Novi Sad, Serbia",
+   "based_zh": "诺维萨德，塞尔维亚",
+   "founded": 2012,
+   "people": [
+    "Vladan Joler"
+   ]
+  },
+  {
+   "id": "intelligent-instruments-lab",
+   "name": "Intelligent Instruments Lab",
+   "name_zh": "智能乐器实验室",
+   "type": "lab",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance",
+    "perception"
+   ],
+   "description": "ERC-funded lab at the University of Iceland studying musical instruments that embed AI as creative partners and what such instruments mean for musicianship. Distinction in the Prix Ars Electronica AI in ART Award.",
+   "description_zh": "冰岛大学的 ERC 资助实验室，研究以 AI 为创作伙伴的乐器；曾获电子艺术大奖 AI in ART 类荣誉奖。",
+   "url": "https://iil.is/",
+   "based": "Reykjavík, Iceland",
+   "based_zh": "雷克雅未克，冰岛",
+   "people": [
+    "Thor Magnusson"
+   ],
+   "image": "https://iil.is/seo/stacco.jpg"
+  },
+  {
+   "id": "mixed-reality-lab-nottingham",
+   "name": "Mixed Reality Laboratory (University of Nottingham)",
+   "name_zh": "诺丁汉大学混合现实实验室",
+   "type": "lab",
+   "themes": [
+    "robot-art",
+    "intimacy-care",
+    "ethics-policy"
+   ],
+   "fields": [
+    "bodies",
+    "intimacy"
+   ],
+   "description": "HCI lab with a long collaboration with Blast Theory. Its Cat Royale (2023) let a robot arm play with three cats for twelve days to test the ethics of robots caring for animals.",
+   "description_zh": "与 Blast Theory 长期合作的人机交互实验室。其《Cat Royale》（2023）让机械臂与三只猫共处十二天，检验机器人照料动物的伦理。",
+   "url": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "people": [
+    "Steve Benford"
+   ],
+   "image": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/images/mastheads/thresholds-cropped-950x300.png"
+  },
+  {
+   "id": "anu-school-of-cybernetics",
+   "name": "ANU School of Cybernetics",
+   "name_zh": "澳大利亚国立大学控制论学院",
+   "type": "lab",
+   "themes": [
+    "history",
+    "critical-ai",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "School founded by anthropologist Genevieve Bell, from the 3A Institute, to revive cybernetics as a way of building, steering and critiquing AI-enabled systems.",
+   "description_zh": "由人类学家 Genevieve Bell 基于 3A 研究所创办的学院，旨在复兴控制论，用于构建、驾驭与批判 AI 驱动的系统。",
+   "url": "https://cybernetics.anu.edu.au/",
+   "based": "Canberra, Australia",
+   "based_zh": "堪培拉，澳大利亚",
+   "founded": 2021,
+   "people": [
+    "Genevieve Bell"
+   ],
+   "image": "https://cybernetics.anu.edu.au/assets/images/banners/ANU_School-of-Cybernetics_HOME.jpg"
+  },
+  {
+   "id": "ada-lovelace-institute",
+   "name": "Ada Lovelace Institute",
+   "name_zh": "艾达·洛芙莱斯研究所",
+   "type": "lab",
+   "themes": [
+    "ethics-policy",
+    "classification"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Independent research institute of the Nuffield Foundation ensuring data and AI work for people and society, with public-attitude studies on biometrics and facial recognition.",
+   "description_zh": "纳菲尔德基金会下的独立研究机构，致力于让数据与 AI 服务于人与社会，开展关于生物识别与人脸识别的公众态度研究。",
+   "url": "https://www.adalovelaceinstitute.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2018
+  },
+  {
+   "id": "institute-of-network-cultures",
+   "name": "Institute of Network Cultures",
+   "name_zh": "网络文化研究所",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "theory",
+    "labour"
+   ],
+   "description": "Research centre at the Amsterdam University of Applied Sciences founded by Geert Lovink, publishing open-access books and readers on platforms, internet critique and AI.",
+   "description_zh": "由 Geert Lovink 在阿姆斯特丹应用科技大学创办的研究中心，出版关于平台、互联网批判与 AI 的开放获取书籍与读本。",
+   "url": "https://networkcultures.org/",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "founded": 2004,
+   "people": [
+    "Geert Lovink"
+   ],
+   "image": "https://networkcultures.org/wp-content/uploads/2026/09/ask_me_banner.jpg"
+  },
+  {
+   "id": "kim-hfg-karlsruhe",
+   "name": "KIM – AI and Media Philosophy (HfG Karlsruhe)",
+   "name_zh": "卡尔斯鲁厄设计学院 AI 与媒体哲学研究组",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "history",
+    "labour-extraction"
+   ],
+   "fields": [
+    "theory",
+    "labour"
+   ],
+   "description": "Research group on artificial intelligence and media philosophy at the Karlsruhe University of Arts and Design, known for its work on the social history of AI and the Nooscope diagram.",
+   "description_zh": "卡尔斯鲁厄设计学院的人工智能与媒体哲学研究组，以 AI 社会史研究和《Nooscope》图谱闻名。",
+   "url": "https://kim.hfg-karlsruhe.de/",
+   "based": "Karlsruhe, Germany",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "people": [
+    "Matteo Pasquinelli"
+   ]
+  },
+  {
+   "id": "creative-machines-lab",
+   "name": "Creative Machines Lab (Columbia University)",
+   "name_zh": "哥伦比亚大学创意机器实验室",
+   "type": "lab",
+   "themes": [
+    "agency-cocreation",
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "Hod Lipson's robotics lab, known for self-modelling robots that learn their own body image, robots that paint and machines that design machines.",
+   "description_zh": "Hod Lipson 的机器人实验室，以能学习自身身体图式的自建模机器人、会画画的机器人和设计机器的机器闻名。",
+   "url": "https://www.creativemachineslab.com/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "people": [
+    "Hod Lipson"
+   ],
+   "image": "https://www.creativemachineslab.com/uploads/6/9/3/4/69340277/emo.jpg"
+  },
+  {
+   "id": "georgia-tech-robotic-musicianship",
+   "name": "Robotic Musicianship Group (Georgia Tech)",
+   "name_zh": "佐治亚理工机器人音乐组",
+   "type": "lab",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation",
+    "robot-art"
+   ],
+   "fields": [
+    "coperformance",
+    "perception"
+   ],
+   "description": "Gil Weinberg's group at the Georgia Tech Center for Music Technology, which built the improvising marimba robot Shimon, a machine that listens and plays with humans.",
+   "description_zh": "佐治亚理工音乐技术中心 Gil Weinberg 领导的研究组，开发了会即兴演奏的马林巴机器人 Shimon，一台与人一同聆听和演奏的机器。",
+   "url": "https://en.wikipedia.org/wiki/Gil_Weinberg",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "people": [
+    "Gil Weinberg"
+   ]
+  },
+  {
+   "id": "gramazio-kohler-research",
+   "name": "Gramazio Kohler Research (ETH Zurich)",
+   "type": "lab",
+   "themes": [
+    "robot-art",
+    "labour-extraction"
+   ],
+   "fields": [
+    "bodies",
+    "labour"
+   ],
+   "description": "ETH Zurich chair for architecture and digital fabrication, which put industrial robots to work building walls and structures and made robotic construction a design subject.",
+   "description_zh": "苏黎世联邦理工学院建筑与数字建造教席，让工业机器人砌墙、建造结构，使机器人建造成为设计议题。",
+   "url": "https://gramaziokohler.arch.ethz.ch/",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "founded": 2005,
+   "people": [
+    "Fabio Gramazio",
+    "Matthias Kohler"
+   ]
+  },
+  {
+   "id": "ory-laboratory",
+   "name": "Ory Laboratory",
+   "name_zh": "Ory 研究所",
+   "type": "lab",
+   "themes": [
+    "intimacy-care",
+    "embodiment",
+    "east-asia"
+   ],
+   "fields": [
+    "coperformance",
+    "intimacy"
+   ],
+   "description": "Kentaro Yoshifuji's company behind the avatar robot OriHime and the Avatar Robot Café DAWN, where people with ALS and other disabilities work as waiters through robots.",
+   "description_zh": "吉藤健太朗创办的公司，开发了分身机器人 OriHime 与“分身机器人咖啡馆 DAWN”，让渐冻症等残障人士通过机器人担任服务员。",
+   "url": "https://orylab.com/en/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 2012,
+   "people": [
+    "Kentaro Yoshifuji"
+   ]
+  },
+  {
+   "id": "waseda-humanoid-robotics-institute",
+   "name": "Humanoid Robotics Institute (Waseda University)",
+   "name_zh": "早稻田大学人形机器人研究所",
+   "type": "lab",
+   "themes": [
+    "robot-art",
+    "history",
+    "east-asia"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Successor to Ichiro Kato's lab, which built WABOT-1 (1973), the first full-scale humanoid robot, and later emotional and musical humanoids such as the flute-playing WF series.",
+   "description_zh": "延续加藤一郎研究室的研究所，其前身制造了第一台全尺寸人形机器人 WABOT-1（1973），后来又开发了会表达情绪、会吹长笛的人形机器人。",
+   "url": "https://www.humanoid.waseda.ac.jp/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 2000,
+   "people": [
+    "Ichiro Kato",
+    "Atsuo Takanishi"
+   ]
+  },
+  {
+   "id": "waag-futurelab",
+   "name": "Waag Futurelab",
+   "name_zh": "Waag 未来实验室",
+   "type": "lab",
+   "themes": [
+    "ethics-policy",
+    "art-science"
+   ],
+   "fields": [
+    "speculative",
+    "power"
+   ],
+   "description": "Amsterdam research institute for technology and society that runs public labs, including critical work on AI, biometrics and the 'public stack'.",
+   "description_zh": "阿姆斯特丹的技术与社会研究机构，运营公共实验室，包括对 AI、生物识别与“公共技术栈”的批判性研究。",
+   "url": "https://waag.org/en/",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "founded": 1994,
+   "people": [
+    "Marleen Stikker"
+   ],
+   "image": "https://waag.org/_next/image/?url=https%3A%2F%2Fcms.waag.org%2Fsites%2Fwaag%2Ffiles%2F2021-09%2Ftrash_hacking_workshop_-_fab_academy_promo_pic.jpeg&w=2240&q=75"
+  },
+  {
+   "id": "antikythera",
+   "name": "Antikythera",
+   "type": "lab",
+   "themes": [
+    "machine-umwelt",
+    "critical-ai",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "speculative"
+   ],
+   "description": "Think tank for the speculative philosophy of computation, directed by Benjamin Bratton and incubated at the Berggruen Institute. It studies planetary computation and synthetic intelligence through studios, publications and film.",
+   "description_zh": "由 Benjamin Bratton 主持、在博古睿研究院孵化的计算推测哲学智库，通过工作坊、出版与影片研究行星尺度计算与合成智能。",
+   "url": "https://antikythera.org/",
+   "based": "Los Angeles, US / Global",
+   "based_zh": "洛杉矶，美国 / 全球",
+   "founded": 2022,
+   "people": [
+    "Benjamin Bratton"
+   ],
+   "image": "https://framerusercontent.com/images/1KHHaSZqA3AyannJeUF93rOLO8.jpg?width=5333&height=3000"
+  },
+  {
+   "id": "lacma-art-and-technology-lab",
+   "name": "LACMA Art + Technology Lab",
+   "name_zh": "洛杉矶郡艺术博物馆艺术与技术实验室",
+   "type": "lab",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Grant and residency programme that revives LACMA's 1967–71 Art and Technology programme, pairing artists with tech companies on projects about AI, robotics and sensing.",
+   "description_zh": "延续洛杉矶郡艺术博物馆 1967–71 年“艺术与技术”项目的资助与驻留计划，让艺术家与科技公司合作开展 AI、机器人与感知相关项目。",
+   "url": "https://www.lacma.org/lab",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "founded": 1967,
+   "image": "https://www-images.lacma.org/s3fs-public/styles/art_tech_project/public/2026-09/gerrard_spirits_pacific%231_1.jpg?VersionId=dp3EdhGngp9GJg3b7nJGqm6xa18LIA5Z&itok=vspGX7ss"
+  },
+  {
+   "id": "abundant-intelligences",
+   "name": "Abundant Intelligences",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "machine-umwelt",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "Indigenous-led research programme based at Concordia University that conceptualises, designs and builds AI from Indigenous knowledge systems.",
+   "description_zh": "以康考迪亚大学为基地、由原住民主导的研究项目，从原住民知识体系出发构想、设计与建造 AI。",
+   "url": "https://abundant-intelligences.net/",
+   "based": "Montréal, Canada / Global",
+   "based_zh": "蒙特利尔，加拿大 / 全球",
+   "founded": 2023,
+   "people": [
+    "Jason Edward Lewis"
+   ],
+   "image": "https://abundant-intelligences.net/wp-content/uploads/2026/04/dc15695960e7bc1892db5fa4a2167ac1c0bba7f0-1024x683.jpg"
+  },
+  {
+   "id": "ucla-art-sci-center",
+   "name": "UCLA Art|Sci Center",
+   "name_zh": "UCLA 艺术|科学中心",
+   "type": "lab",
+   "themes": [
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Victoria Vesna's centre at UCLA for collaborations between artists and scientists, a hub of the art-science network behind many machine and bio-art projects.",
+   "description_zh": "UCLA 由 Victoria Vesna 主持的艺术与科学合作中心，是众多机器与生物艺术项目背后艺术–科学网络的枢纽。",
+   "url": "https://artsci.ucla.edu/",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "people": [
+    "Victoria Vesna"
+   ]
+  },
+  {
+   "id": "harvard-metalab",
+   "name": "metaLAB (at) Harvard",
+   "name_zh": "哈佛 metaLAB",
+   "type": "lab",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "theory",
+    "power"
+   ],
+   "description": "Creative research group at Harvard's Berkman Klein Center, whose projects include the AI Pedagogy Project and artworks on machine classification and moral decisions.",
+   "description_zh": "哈佛大学伯克曼·克莱因中心的创意研究团队，项目包括 AI Pedagogy Project 以及关于机器分类与道德决策的艺术作品。",
+   "url": "https://metalab.harvard.edu/",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2011,
+   "people": [
+    "Jeffrey Schnapp",
+    "Sarah Newman"
+   ]
+  },
+  {
+   "id": "ircam",
+   "name": "IRCAM",
+   "name_zh": "法国声学与音乐研究协调所",
+   "type": "lab",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "perception",
+    "coperformance"
+   ],
+   "description": "Paris institute for music and acoustic research founded by Pierre Boulez at the Centre Pompidou. Its research on machine listening, voice synthesis and AI co-improvisation (OMax, Somax) shapes human-machine music.",
+   "description_zh": "由皮埃尔·布列兹在蓬皮杜中心创办的音乐与声学研究所，其机器聆听、声音合成与 AI 共同即兴（OMax、Somax）研究塑造了人机音乐。",
+   "url": "https://www.ircam.fr/",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "founded": 1977,
+   "people": [
+    "Pierre Boulez"
+   ],
+   "image": "https://www.ircam.fr/_next/image?url=https%3A%2F%2Fwww.ircam.fr%2Fapi%2Fmedia%2Ffile%2Fcouv2-concert-espace-projection-1-1400x676.jpg%3F2026-08-25T10%3A23%3A23.063Z&w=3840&q=90"
+  },
+  {
+   "id": "center-for-advanced-visual-studies",
+   "name": "MIT Center for Advanced Visual Studies (CAVS)",
+   "name_zh": "MIT 高级视觉研究中心",
+   "type": "lab",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Fellowship centre founded by György Kepes at MIT (1967–2009) where artists worked with engineers on light, kinetic and cybernetic art; a model for later art-and-technology labs.",
+   "description_zh": "György Kepes 在 MIT 创立的研究中心（1967–2009），艺术家与工程师在此合作光、动态与控制论艺术，是后来艺术与技术实验室的范本。",
+   "url": "https://en.wikipedia.org/wiki/Center_for_Advanced_Visual_Studies",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 1967,
+   "people": [
+    "György Kepes",
+    "Otto Piene"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Wiesner_Building%2C_MIT%2C_Cambridge_MA.jpg/1280px-Wiesner_Building%2C_MIT%2C_Cambridge_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  },
+  {
+   "id": "reality-design-lab",
+   "name": "Reality Design Lab",
+   "name_zh": "现实设计实验室",
+   "type": "lab",
+   "themes": [
+    "machine-umwelt",
+    "intimacy-care",
+    "embodiment"
+   ],
+   "fields": [
+    "speculative",
+    "interiority"
+   ],
+   "description": "Design research lab led by Botao Amber Hu that makes mixed-reality and speculative works on other minds and machines, such as EchoVision (what is it like to be a bat?), City of Sparkles (how might an AI perceive our city?) and AI Mom™. It also builds the open HoloKit toolkit and runs the Machinic Reality Inspire gallery.",
+   "description_zh": "由胡博涛（Botao Amber Hu）领导的设计研究实验室，创作关于他者心智与机器的混合现实与推测性作品，如《EchoVision》（做一只蝙蝠是什么感觉？）、《City of Sparkles》（AI 会如何感知我们的城市？）与《AI Mom™》；实验室还开发开源 HoloKit 工具包，并运营 Machinic Reality Inspire 图库。",
+   "url": "https://reality.design/",
+   "people": [
+    "Botao Amber Hu"
+   ],
+   "image": "https://reality.design/_next/image?url=%2Fmedia%2Fa%207%203.jpg&w=2560&q=75"
+  },
+  {
+   "id": "akademie-schloss-solitude",
+   "name": "Akademie Schloss Solitude (Web Residencies)",
+   "name_zh": "孤独城堡学院",
+   "type": "education",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Stuttgart residency academy whose online Web Residencies, published on Schlosspost, fund artists responding to curated calls, many on AI, bots and algorithmic culture.",
+   "description_zh": "斯图加特的驻留学院。其线上 Web Residencies 项目在 Schlosspost 发布，按策展主题资助艺术家，很多主题关于 AI、机器人程序与算法文化。",
+   "url": "https://www.akademie-solitude.de/en/",
+   "links": [
+    {
+     "label": "Schlosspost",
+     "url": "https://schloss-post.com/"
+    }
+   ],
+   "based": "Stuttgart, Germany",
+   "based_zh": "斯图加特，德国",
+   "founded": 1990
+  },
+  {
+   "id": "eyebeam",
+   "name": "Eyebeam",
+   "type": "education",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Nonprofit that supports artists working with technology through residencies and fellowships, with a strong line of alumni projects on surveillance, bias and algorithmic justice.",
+   "description_zh": "以驻留与奖学金支持技术艺术家的非营利机构，校友作品中有大量关于监控、偏见与算法正义的项目。",
+   "url": "https://www.eyebeam.org/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1997
+  },
+  {
+   "id": "somerset-house-studios",
+   "name": "Somerset House Studios",
+   "name_zh": "萨默塞特宫工作室",
+   "type": "education",
+   "themes": [
+    "art-science",
+    "critical-ai"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "Experimental workspace for artists and makers inside Somerset House, home to studios working on AI, sound and speculative design, and producer of exhibitions such as 24/7 (2019).",
+   "description_zh": "萨默塞特宫内为艺术家与创作者设立的实验性工作空间，入驻工作室涉及 AI、声音与推测设计，也制作了《24/7》（2019）等展览。",
+   "url": "https://www.somersethouse.org.uk/somerset-house-studios",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2016,
+   "image": "https://admin.somersethouse.org.uk/images/atADIcFfcSl2oqm7hVQu5NzN3rs=/4503/width-3200/SHS_Photo_credit__Anne_Tetzlaff_DSC5445.jpg"
+  },
+  {
+   "id": "saic-art-and-technology-studies",
+   "name": "SAIC Art and Technology Studies",
+   "name_zh": "芝加哥艺术学院艺术与技术系",
+   "type": "education",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "School of the Art Institute of Chicago department, rooted in Sonia Sheridan's Generative Systems programme (1970), that teaches robotics, kinetics and electronics as art.",
+   "description_zh": "芝加哥艺术学院的院系，源自 Sonia Sheridan 的“生成系统”项目（1970），将机器人、动态与电子技术作为艺术来教授。",
+   "url": "https://www.saic.edu/atsp",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "image": "https://www.saic.edu/sites/default/files/styles/16_9_768x432/public/2023-06/k3a2240-xl.jpg.jpeg?itok=LjkdBNE2"
+  },
+  {
+   "id": "new-inc",
+   "name": "NEW INC",
+   "type": "education",
+   "themes": [
+    "art-science",
+    "critical-ai"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "The New Museum's cultural incubator for art, design and technology, whose members have developed many projects on AI and its social effects.",
+   "description_zh": "新美术馆的艺术、设计与技术文化孵化器，成员开发了许多关于 AI 及其社会影响的项目。",
+   "url": "https://www.newmuseum.org/new-inc/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2014
+  },
+  {
+   "id": "starts-residencies",
+   "name": "S+T+ARTS Residencies",
+   "name_zh": "S+T+ARTS 驻留计划",
+   "type": "education",
+   "themes": [
+    "art-science",
+    "ethics-policy"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "European Commission initiative that funds artist residencies inside technology and research projects, many on AI, robotics and sustainability.",
+   "description_zh": "欧盟委员会资助艺术家进入技术与科研项目驻留的计划，许多项目涉及 AI、机器人与可持续发展。",
+   "url": "https://starts.eu/",
+   "based": "EU",
+   "based_zh": "欧盟",
+   "founded": 2016
+  },
+  {
+   "id": "nyu-itp",
+   "name": "NYU ITP / IMA",
+   "name_zh": "纽约大学互动电信项目",
+   "type": "education",
+   "themes": [
+    "art-science",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "NYU Tisch's Interactive Telecommunications Program and Interactive Media Arts, a hub for physical computing, creative machine learning (ml5.js) and artists building with technology.",
+   "description_zh": "纽约大学 Tisch 艺术学院的互动电信项目与互动媒体艺术系，是物理计算、创意机器学习（ml5.js）与技术艺术创作的重镇。",
+   "url": "https://tisch.nyu.edu/itp",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1979,
+   "people": [
+    "Red Burns",
+    "Daniel Shiffman"
+   ],
+   "image": "https://tisch.nyu.edu/content/dam/tisch/shared/IMG_6320_rev.jpg"
+  },
+  {
+   "id": "ucla-design-media-arts",
+   "name": "UCLA Design Media Arts",
+   "name_zh": "UCLA 设计媒体艺术系",
+   "type": "education",
+   "themes": [
+    "art-science",
+    "intimacy-care"
+   ],
+   "fields": [
+    "coperformance",
+    "intimacy"
+   ],
+   "description": "UCLA department for media art and design whose faculty include Casey Reas (Processing) and Lauren Lee McCarthy (LAUREN).",
+   "description_zh": "UCLA 的媒体艺术与设计系，教师包括 Casey Reas（Processing）与 Lauren Lee McCarthy（《LAUREN》）。",
+   "url": "https://dma.ucla.edu/",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "people": [
+    "Casey Reas",
+    "Lauren Lee McCarthy",
+    "Victoria Vesna"
+   ],
+   "image": "https://dma.ucla.edu/_next/image?url=https%3A%2F%2Fdma.ucla.edu%2Fapi%2Fuploads%2FDMI_SUMMER_INSTITUTE_55_sm_084822011f.jpg&w=3840&q=75"
+  },
+  {
+   "id": "goldsmiths-computational-arts",
+   "name": "Goldsmiths Computational Arts",
+   "name_zh": "伦敦大学金史密斯学院计算艺术",
+   "type": "education",
+   "themes": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "Goldsmiths' computational art programmes and embodied interaction research (EAVI), which trained many artists who work with machine learning, bodies and sound.",
+   "description_zh": "金史密斯学院的计算艺术课程与具身交互研究（EAVI），培养了许多以机器学习、身体与声音创作的艺术家。",
+   "url": "https://www.gold.ac.uk/pg/ma-computational-arts/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Atau Tanaka",
+    "Marco Gillies"
+   ],
+   "image": "https://www.gold.ac.uk/media/images-by-section/course-finder/postgraduate/computing/boberg4928.jpg"
+  },
+  {
+   "id": "school-for-poetic-computation",
+   "name": "School for Poetic Computation (SFPC)",
+   "name_zh": "诗意计算学校",
+   "type": "education",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Artist-run school in New York for art, code, hardware and critical theory, with classes on the poetics and politics of machines.",
+   "description_zh": "纽约由艺术家运营的学校，教授艺术、代码、硬件与批判理论，开设关于机器诗学与政治的课程。",
+   "url": "https://sfpc.study/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2013,
+   "people": [
+    "Zachary Lieberman",
+    "Taeyoon Choi"
+   ]
+  },
+  {
+   "id": "cityu-school-of-creative-media",
+   "name": "School of Creative Media, City University of Hong Kong",
+   "name_zh": "香港城市大学创意媒体学院",
+   "type": "education",
+   "themes": [
+    "east-asia",
+    "art-science",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Hong Kong media art school that hosts the Art Machines symposium on computational media art, and a centre for robotic and AI art in Asia.",
+   "description_zh": "香港的媒体艺术学院，主办“Art Machines”计算媒体艺术研讨会，是亚洲机器人与 AI 艺术的中心之一。",
+   "url": "https://www.scm.cityu.edu.hk/",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "founded": 1998,
+   "people": [
+    "Jeffrey Shaw",
+    "Richard Allen"
+   ]
+  },
+  {
+   "id": "iamas",
+   "name": "IAMAS – Institute of Advanced Media Arts and Sciences",
+   "name_zh": "情报科学艺术大学院大学",
+   "type": "education",
+   "themes": [
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Japanese graduate school for media arts and sciences in Gifu, whose alumni include many Japanese device, sensor and machine artists.",
+   "description_zh": "位于日本岐阜县的媒体艺术与科学研究生院，校友中有许多日本装置、传感与机器艺术家。",
+   "url": "https://www.iamas.ac.jp/en/",
+   "based": "Ogaki, Japan",
+   "based_zh": "大垣，日本",
+   "founded": 1996
+  },
+  {
+   "id": "china-academy-of-art-sima",
+   "name": "China Academy of Art – School of Inter-Media Art",
+   "name_zh": "中国美术学院跨媒体艺术学院",
+   "type": "education",
+   "themes": [
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "China's leading school for new media, installation and network art at the China Academy of Art, a training ground for Chinese artists working with machines and AI.",
+   "description_zh": "中国美术学院的跨媒体艺术学院，是中国新媒体、装置与网络艺术教育的重镇，也是中国机器与 AI 艺术家的重要培养地。",
+   "url": "https://en.wikipedia.org/wiki/China_Academy_of_Art",
+   "based": "Hangzhou, China",
+   "based_zh": "杭州，中国"
+  },
+  {
+   "id": "gray-area",
+   "name": "Gray Area",
+   "type": "education",
+   "themes": [
+    "art-science",
+    "critical-ai"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "San Francisco nonprofit arts centre for creative technology, with an incubator, education programmes and the Gray Area Festival on art, AI and society.",
+   "description_zh": "旧金山的创意技术非营利艺术中心，设有孵化器、教育项目以及关注艺术、AI 与社会的 Gray Area Festival。",
+   "url": "https://grayarea.org/",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2008,
+   "people": [
+    "Josette Melchor"
+   ],
+   "image": "https://grayarea.org/wp-content/uploads/2023/06/endofyou-openingnight.jpg"
+  },
+  {
+   "id": "machine-vision-database",
+   "name": "Machine Vision in Art, Games and Narratives (database)",
+   "name_zh": "艺术、游戏与叙事中的机器视觉数据库",
+   "type": "archive",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "history"
+   ],
+   "fields": [
+    "perception",
+    "theory"
+   ],
+   "description": "ERC project at the University of Bergen whose open database codes about 500 artworks, games and stories as 'situations' of who does what to whom with which machine-vision technology.",
+   "description_zh": "卑尔根大学的 ERC 项目，其开放数据库将约 500 件艺术作品、游戏与叙事编码为“情境”：谁借助何种机器视觉技术对谁做了什么。",
+   "url": "https://machinevisionuib.github.io/",
+   "links": [
+    {
+     "label": "Dataset paper",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9344297"
+    }
+   ],
+   "based": "Bergen, Norway",
+   "based_zh": "卑尔根，挪威",
+   "founded": 2018,
+   "people": [
+    "Jill Walker Rettberg"
+   ]
+  },
+  {
+   "id": "archive-of-digital-art",
+   "name": "Archive of Digital Art (ADA)",
+   "name_zh": "数字艺术档案",
+   "type": "archive",
+   "themes": [
+    "history",
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Scholarly database of digital art founded by Oliver Grau, documenting hundreds of artists and thousands of works and texts, with strong coverage of robotic and A-life art.",
+   "description_zh": "Oliver Grau 创立的数字艺术学术数据库，记录数百位艺术家及数千件作品与文献，对机器人与人工生命艺术覆盖尤深。",
+   "url": "https://www.digitalartarchive.at/",
+   "based": "Krems, Austria",
+   "based_zh": "克雷姆斯，奥地利",
+   "founded": 1999,
+   "people": [
+    "Oliver Grau"
+   ]
+  },
+  {
+   "id": "ars-electronica-archive",
+   "name": "Ars Electronica Archive",
+   "name_zh": "电子艺术节档案",
+   "type": "archive",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Archive of Prix Ars Electronica entries since 1987, festival catalogues and documentation: the largest record of how media art engaged robots, A-life and AI.",
+   "description_zh": "收录 1987 年以来电子艺术大奖参赛作品、艺术节图录与文献的档案，是媒体艺术如何回应机器人、人工生命与 AI 的最大记录。",
+   "url": "https://ars.electronica.art/archive/en/",
+   "based": "Linz, Austria",
+   "based_zh": "林茨，奥地利",
+   "image": "https://ars.electronica.art/archive/files/2026/02/pictures_neu_3_2000x1000.jpg"
+  },
+  {
+   "id": "database-of-digital-art",
+   "name": "Database of Digital Art (compArt daDA)",
+   "name_zh": "数字艺术数据库",
+   "type": "archive",
+   "themes": [
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Database from the compArt centre at the University of Bremen on the pioneers of computer art and their exhibitions, including Cybernetic Serendipity (1968).",
+   "description_zh": "不来梅大学 compArt 中心建立的数据库，收录计算机艺术先驱及其展览，包括《Cybernetic Serendipity》（1968）。",
+   "url": "http://dada.compart-bremen.de/",
+   "based": "Bremen, Germany",
+   "based_zh": "不来梅，德国",
+   "people": [
+    "Frieder Nake"
+   ]
+  },
+  {
+   "id": "cybernetic-serendipity-archive",
+   "name": "Cybernetic Serendipity archive",
+   "name_zh": "控制论的意外发现档案",
+   "type": "archive",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Online archive of Jasia Reichardt's 1968 ICA exhibition Cybernetic Serendipity, the founding show of computer and cybernetic art, with Gordon Pask's Colloquy of Mobiles and Edward Ihnatowicz's SAM.",
+   "description_zh": "Jasia Reichardt 1968 年在伦敦当代艺术学院策划的《控制论的意外发现》的线上档案。该展是计算机与控制论艺术的开山展览，展出 Gordon Pask《Colloquy of Mobiles》与 Edward Ihnatowicz《SAM》等作品。",
+   "url": "https://www.cyberneticserendipity.net/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Jasia Reichardt"
+   ],
+   "image": "https://www.cyberneticserendipity.net/5790143648fd9e94448ed6fb44be35c3/tumblr_inline_n1o221aXuJ1qgygll.jpg"
+  },
+  {
+   "id": "media-art-net",
+   "name": "Media Art Net",
+   "name_zh": "媒体艺术网",
+   "type": "archive",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Bilingual (German/English) online platform by ZKM and the Goethe-Institut with works, artists and essays on media art history, including robotics and cybernetic art.",
+   "description_zh": "ZKM 与歌德学院合作的德英双语在线平台，收录媒体艺术史的作品、艺术家与论文，包括机器人与控制论艺术。",
+   "url": "http://www.medienkunstnetz.de/",
+   "based": "Karlsruhe, Germany",
+   "based_zh": "卡尔斯鲁厄，德国"
+  },
+  {
+   "id": "aiartists-org",
+   "name": "AIArtists.org",
+   "type": "archive",
+   "themes": [
+    "agency-cocreation",
+    "critical-ai"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "Directory of artists working with AI, organised by critical questions such as bias, dataset ethics and robotic production. It leans generative, so it is best used as a lead list.",
+   "description_zh": "与 AI 合作的艺术家名录，按偏见、数据集伦理、机器人创作等关键问题组织，偏重生成式作品，适合作为线索清单。",
+   "url": "https://aiartists.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Marnie Benney"
+   ],
+   "image": "https://images.squarespace-cdn.com/content/v1/5c77350965a707ed1710a1bc/1616451664802-8WNEP47YPHF7OQWFI3BX/AI%2BFeatured%2BArtists.jpg"
+  },
+  {
+   "id": "anatomy-of-an-ai-system",
+   "name": "Anatomy of an AI System",
+   "name_zh": "AI 系统解剖图",
+   "type": "archive",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "Kate Crawford and Vladan Joler's map and essay of the human labour, data and planetary resources behind one Amazon Echo request; in the MoMA and V&A collections.",
+   "description_zh": "Kate Crawford 与 Vladan Joler 绘制的地图与论文，揭示一次 Amazon Echo 请求背后的人类劳动、数据与地球资源，被 MoMA 与 V&A 收藏。",
+   "url": "https://anatomyof.ai/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2018,
+   "people": [
+    "Kate Crawford",
+    "Vladan Joler"
+   ],
+   "image": "http://www.anatomyof.ai/ai-system-facebook-og.jpg"
+  },
+  {
+   "id": "calculating-empires",
+   "name": "Calculating Empires",
+   "name_zh": "计算帝国",
+   "type": "archive",
+   "themes": [
+    "history",
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "Large-scale research visualisation by Crawford and Joler, A Genealogy of Technology and Power 1500–2025, tracing how communication and computation systems grew with control; S+T+ARTS Grand Prize 2024.",
+   "description_zh": "Crawford 与 Joler 的大型研究可视化《技术与权力的谱系 1500–2025》，追溯通信与计算系统如何与控制一同扩张，获 2024 年 S+T+ARTS 大奖。",
+   "url": "https://calculatingempires.net/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2023,
+   "people": [
+    "Kate Crawford",
+    "Vladan Joler"
+   ],
+   "image": "https://calculatingempires.net/content/calculating-empires-og.png"
+  },
+  {
+   "id": "excavating-ai",
+   "name": "Excavating AI",
+   "name_zh": "发掘 AI",
+   "type": "archive",
+   "themes": [
+    "classification",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Essay by Kate Crawford and Trevor Paglen on the politics of images in machine learning training sets, which examined ImageNet's 'person' categories and fed into ImageNet Roulette.",
+   "description_zh": "Kate Crawford 与 Trevor Paglen 关于机器学习训练集中图像政治的论文，剖析 ImageNet 的“人”类别，并催生了《ImageNet Roulette》。",
+   "url": "https://excavating.ai/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2019,
+   "people": [
+    "Kate Crawford",
+    "Trevor Paglen"
+   ],
+   "image": "http://static1.squarespace.com/static/5d6567d1afafe900010b2c70/t/5f4312577851a152fd2cd34a/1598231131519/diversity_in_faces.png?format=1500w"
+  },
+  {
+   "id": "exposing-ai",
+   "name": "Exposing.ai",
+   "type": "archive",
+   "themes": [
+    "classification",
+    "machine-seeing",
+    "ethics-policy"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Adam Harvey and Jules LaPlace's research project (successor to MegaPixels) that traces how face and biometric datasets were built from scraped photos and lets people search whether theirs were used.",
+   "description_zh": "Adam Harvey 与 Jules LaPlace 的研究项目（MegaPixels 的延续），追溯人脸与生物识别数据集如何由抓取的照片构成，并让公众查询自己的照片是否被使用。",
+   "url": "https://exposing.ai/",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2021,
+   "people": [
+    "Adam Harvey",
+    "Jules LaPlace"
+   ]
+  },
+  {
+   "id": "the-glass-room",
+   "name": "The Glass Room",
+   "name_zh": "玻璃房间",
+   "type": "archive",
+   "themes": [
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Tactical Tech's exhibition about data and surveillance, styled as a tech store, with more than 40 exhibits under themes such as We Know You and Big Mother; now toured in community and online editions.",
+   "description_zh": "Tactical Tech 以科技商店形式呈现的数据与监控展览，40 多件展品分为“我们认识你”“大妈妈”等主题，现以社区版与线上版巡展。",
+   "url": "https://theglassroom.org/",
+   "based": "Berlin, Germany / Online",
+   "based_zh": "柏林，德国 / 线上",
+   "founded": 2016,
+   "image": "https://cdn.ttc.io/i/fit/1740/0/sm/0/plain/theglassroom.org/SF-Atmosphere/sat-26-oct-Daisy12.JPG"
+  },
+  {
+   "id": "monoskop",
+   "name": "Monoskop",
+   "type": "archive",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Wiki and digital library for art, media and the humanities founded by Dušan Barok, with rich pages and scans on cybernetic art, media art festivals and machine theory.",
+   "description_zh": "由 Dušan Barok 创建的艺术、媒体与人文维基与数字图书馆，收录大量关于控制论艺术、媒体艺术节与机器理论的页面和扫描文献。",
+   "url": "https://monoskop.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2004,
+   "people": [
+    "Dušan Barok"
+   ],
+   "image": "https://monoskop.org/images/thumb/c/c1/Floating_University_2024.jpg/675px-Floating_University_2024.jpg"
+  },
+  {
+   "id": "siggraph-history-archive",
+   "name": "ACM SIGGRAPH History Archive (Digital Art Archive)",
+   "name_zh": "ACM SIGGRAPH 数字艺术档案",
+   "type": "archive",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Online archive of SIGGRAPH art galleries, artworks and art papers since the 1980s, a record of computational and robotic art beside graphics research.",
+   "description_zh": "收录 1980 年代以来 SIGGRAPH 艺术画廊、作品与艺术论文的在线档案，记录了与图形学研究并行的计算与机器人艺术。",
+   "url": "https://history.siggraph.org/",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
+   "id": "daniel-langlois-foundation",
+   "name": "Daniel Langlois Foundation for Art, Science and Technology",
+   "name_zh": "丹尼尔·朗格卢瓦艺术、科学与技术基金会",
+   "type": "archive",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Foundation whose online archive documents Experiments in Art and Technology (E.A.T.) and early media art, including essays on artists who worked with machines and cybernetics.",
+   "description_zh": "其在线档案记录了“艺术与技术实验”（E.A.T.）与早期媒体艺术，并收录关于机器与控制论艺术家的论文。",
+   "url": "https://www.fondation-langlois.org/",
+   "based": "Montréal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "founded": 1997,
+   "people": [
+    "Daniel Langlois"
+   ],
+   "image": "https://www.fondation-langlois.org/media/CRD/vasulka/Machine-Vision.jpg"
+  },
+  {
+   "id": "media-arts-database-japan",
+   "name": "Media Arts Database (Japan)",
+   "name_zh": "日本媒体艺术数据库",
+   "type": "archive",
+   "themes": [
+    "east-asia",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "National database of Japanese media arts, including records of media art exhibitions, festivals and works, useful for tracing Japanese machine and device art.",
+   "description_zh": "日本国家级媒体艺术数据库，收录媒体艺术展览、艺术节与作品记录，便于追溯日本的机器与装置艺术。",
+   "url": "https://mediaarts-db.artmuseums.go.jp/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本"
+  },
+  {
+   "id": "ai-incident-database",
+   "name": "AI Incident Database",
+   "name_zh": "AI 事故数据库",
+   "type": "archive",
+   "themes": [
+    "failure-glitch",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Open archive of real-world harms and near-harms caused by AI systems, started at the Partnership on AI, which catalogues machine failures from misidentification to autonomous vehicle crashes.",
+   "description_zh": "记录 AI 系统在现实中造成或险些造成伤害的开放档案，起源于 Partnership on AI，收录从误识别到自动驾驶事故等各类机器失败。",
+   "url": "https://incidentdatabase.ai/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2020,
+   "people": [
+    "Sean McGregor"
+   ]
+  },
+  {
+   "id": "aiaaic-repository",
+   "name": "AIAAIC Repository",
+   "name_zh": "AIAAIC 事件库",
+   "type": "archive",
+   "themes": [
+    "failure-glitch",
+    "ethics-policy",
+    "classification"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Independent, public-interest repository of AI, algorithmic and automation incidents and controversies, classified by sector, technology and harm.",
+   "description_zh": "独立的公益性 AI、算法与自动化事件及争议资料库，按行业、技术与危害类型分类。",
+   "url": "https://www.aiaaic.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2019,
+   "people": [
+    "Charlie Pownall"
+   ]
+  },
+  {
+   "id": "atlas-of-surveillance",
+   "name": "Atlas of Surveillance",
+   "name_zh": "监控地图集",
+   "type": "archive",
+   "themes": [
+    "classification",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "EFF and University of Nevada, Reno database of surveillance technologies used by US police, from face recognition to drones and automated licence plate readers.",
+   "description_zh": "电子前哨基金会与内华达大学里诺分校合作的数据库，记录美国警方使用的监控技术，从人脸识别到无人机和自动车牌识别。",
+   "url": "https://atlasofsurveillance.org/",
+   "based": "US / Online",
+   "based_zh": "美国 / 线上",
+   "founded": 2020
+  },
+  {
+   "id": "cyberneticzoo",
+   "name": "cyberneticzoo.com",
+   "type": "archive",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Illustrated history of cybernetic animals and early robots, from Grey Walter's tortoises to forgotten walking machines, compiled from period sources.",
+   "description_zh": "图文并茂的控制论动物与早期机器人史，从 Grey Walter 的机器龟到被遗忘的步行机器，均取材于当时文献。",
+   "url": "https://cyberneticzoo.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Reuben Hoggett"
+   ]
+  },
+  {
+   "id": "robots-guide",
+   "name": "ROBOTS Guide (IEEE Spectrum)",
+   "name_zh": "IEEE 机器人指南",
+   "type": "archive",
+   "themes": [
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "IEEE's illustrated catalogue of real robots, with photos, videos and specifications for hundreds of humanoids, companion robots and industrial arms.",
+   "description_zh": "IEEE 编制的真实机器人图录，为数百款人形、陪伴与工业机器人提供照片、视频与参数。",
+   "url": "https://robotsguide.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "image": "https://assets.robotsguide.com/images/7p2whiua/production/b6362bd5d5d8aaff093de0bef036391735670944-1200x630.png?w=1200&h=630"
+  },
+  {
+   "id": "ai-art-online",
+   "name": "AI Art Gallery (aiartonline.com)",
+   "name_zh": "AI 艺术在线画廊",
+   "type": "archive",
+   "themes": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "Online gallery of the NeurIPS Workshop on Machine Learning for Creativity and Design, curated by Luba Elliott, archiving the art selected by the ML community 2017–2021.",
+   "description_zh": "由 Luba Elliott 策划的 NeurIPS 机器学习与创意设计研讨会线上画廊，存档了 2017–2021 年机器学习社群选出的艺术作品。",
+   "url": "https://www.aiartonline.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2017,
+   "people": [
+    "Luba Elliott"
+   ],
+   "image": "https://www.aiartonline.com/wp-content/uploads/2020/12/50629517263_14089e9b80_z-e1607727413774.jpg"
+  },
+  {
+   "id": "critical-algorithm-studies-list",
+   "name": "Critical Algorithm Studies: a Reading List",
+   "name_zh": "批判算法研究书单",
+   "type": "archive",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "theory",
+    "power"
+   ],
+   "description": "Reading list by Tarleton Gillespie and Nick Seaver of the Microsoft Research Social Media Collective on algorithms as social concern, a standard entry point for critical algorithm studies.",
+   "description_zh": "由微软研究院社交媒体小组的 Tarleton Gillespie 与 Nick Seaver 编制的书单，关注作为社会议题的算法，是批判算法研究的标准入门。",
+   "url": "https://socialmediacollective.org/reading-lists/critical-algorithm-studies/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Tarleton Gillespie",
+    "Nick Seaver"
+   ]
+  },
+  {
+   "id": "ai-myths",
+   "name": "AI Myths",
+   "name_zh": "AI 迷思",
+   "type": "archive",
+   "themes": [
+    "critical-ai",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Resource by Daniel Leufer debunking common misconceptions about AI, such as 'AI has agency' or 'AI can be objective', with references to research.",
+   "description_zh": "由 Daniel Leufer 创建的资源站，逐条拆解关于 AI 的常见误解（如“AI 具有能动性”“AI 可以客观”），并附研究文献。",
+   "url": "https://www.aimyths.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2020,
+   "people": [
+    "Daniel Leufer"
+   ]
+  },
+  {
+   "id": "better-images-of-ai",
+   "name": "Better Images of AI",
+   "name_zh": "更好的 AI 图像",
+   "type": "archive",
+   "themes": [
+    "critical-ai",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Nonprofit collaboration offering a free library of images that represent AI more accurately than glowing brains and humanoid robots, commissioned from artists.",
+   "description_zh": "非营利合作项目，委托艺术家创作并免费提供比“发光大脑”和人形机器人更准确地表现 AI 的图像库。",
+   "url": "https://betterimagesofai.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2021,
+   "image": "https://betterimagesofai.org/BIOAI-preview-MG.jpg"
+  },
+  {
+   "id": "data-workers-inquiry",
+   "name": "Data Workers' Inquiry",
+   "name_zh": "数据劳工调查",
+   "type": "archive",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "Community research project of DAIR and the Weizenbaum Institute in which data workers who label and moderate for AI document their own conditions in reports, films and zines.",
+   "description_zh": "DAIR 与魏岑鲍姆研究所的社区研究项目，由为 AI 做标注与审核的数据劳工以报告、影片与小册子记录自身的劳动处境。",
+   "url": "https://data-workers.org/",
+   "based": "Berlin / Global",
+   "based_zh": "柏林 / 全球",
+   "founded": 2024,
+   "people": [
+    "Milagros Miceli",
+    "Adio Dinika"
+   ]
+  },
+  {
+   "id": "leonardo-journal",
+   "name": "Leonardo (MIT Press) / Leonardo ISAST",
+   "name_zh": "《莱昂纳多》期刊",
+   "type": "media",
+   "themes": [
+    "art-science",
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Journal of arts, sciences and technology founded by kinetic artist Frank Malina, where artists such as Eduardo Kac and Simon Penny published foundational texts on robotic art. Leonardo also runs a book series and the LASER talks.",
+   "description_zh": "由动态艺术家 Frank Malina 创办的艺术、科学与技术期刊，Eduardo Kac、Simon Penny 等人在此发表了机器人艺术的奠基文本；Leonardo 还出版丛书并举办 LASER 讲座。",
+   "url": "https://leonardo.info/",
+   "based": "Cambridge, MA, US / San Francisco, US",
+   "based_zh": "剑桥（马萨诸塞州） / 旧金山，美国",
+   "founded": 1968,
+   "people": [
+    "Frank Malina",
+    "Roger Malina"
+   ]
+  },
+  {
+   "id": "ai-and-society-journal",
+   "name": "AI & Society (Springer)",
+   "name_zh": "《AI 与社会》期刊",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Journal of knowledge, culture and communication on the societal implications of AI, including art, labour and ethics.",
+   "description_zh": "关于 AI 社会影响的知识、文化与传播期刊，涵盖艺术、劳动与伦理。",
+   "url": "https://link.springer.com/journal/146",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 1987
+  },
+  {
+   "id": "philosophy-and-technology-journal",
+   "name": "Philosophy & Technology (Springer)",
+   "name_zh": "《哲学与技术》期刊",
+   "type": "media",
+   "themes": [
+    "ethics-policy",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Philosophy journal on technology, including postphenomenology, machine agency and AI ethics.",
+   "description_zh": "关于技术的哲学期刊，涵盖后现象学、机器能动性与 AI 伦理。",
+   "url": "https://link.springer.com/journal/13347",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2010,
+   "people": [
+    "Luciano Floridi"
+   ]
+  },
+  {
+   "id": "neural-magazine",
+   "name": "Neural",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Bilingual (Italian/English) magazine on new media art, electronic music and hacktivism, founded by Alessandro Ludovico and long a chronicle of critical machine art.",
+   "description_zh": "Alessandro Ludovico 创办的意英双语杂志，关注新媒体艺术、电子音乐与黑客行动主义，长期记录批判性机器艺术。",
+   "url": "https://neural.it/",
+   "based": "Bari, Italy",
+   "based_zh": "巴里，意大利",
+   "founded": 1993,
+   "people": [
+    "Alessandro Ludovico"
+   ],
+   "image": "http://neural.it/wp-content/uploads/2026/03/Chiara.jpg"
+  },
+  {
+   "id": "e-flux-journal",
+   "name": "e-flux journal",
+   "name_zh": "e-flux 期刊",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Online art journal that published key texts on machine vision and AI, such as Hito Steyerl's 'A Sea of Data: Apophenia and Pattern (Mis-)Recognition' (2016).",
+   "description_zh": "在线艺术期刊，刊登了关于机器视觉与 AI 的关键文本，如 Hito Steyerl 的《A Sea of Data：幻想性错觉与模式（误）识别》（2016）。",
+   "url": "https://www.e-flux.com/journal/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2008
+  },
+  {
+   "id": "mute-magazine",
+   "name": "Mute",
+   "type": "media",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour",
+    "theory"
+   ],
+   "description": "London magazine on culture and politics after the net, with long-running critical writing on automation, labour and digital capitalism.",
+   "description_zh": "伦敦的“网络之后的文化与政治”杂志，长期发表关于自动化、劳动与数字资本主义的批判性文章。",
+   "url": "https://www.metamute.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1994,
+   "image": "https://www.metamute.org/sites/www.metamute.org/files/styles/two-col/public/field/image/lb.jpg%3Fitok=ot5XBR9O"
+  },
+  {
+   "id": "real-life-magazine",
+   "name": "Real Life",
+   "type": "media",
+   "themes": [
+    "intimacy-care",
+    "critical-ai"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "Online magazine (2016–2022) about living with technology, whose essays on smart speakers, algorithms and machine intimacy remain an archive of everyday machine phenomenology.",
+   "description_zh": "关于与技术共同生活的在线杂志（2016–2022），其关于智能音箱、算法与机器亲密的文章构成了日常机器现象学的档案。",
+   "url": "https://reallifemag.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2016
+  },
+  {
+   "id": "logic-magazine",
+   "name": "Logic(s)",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Magazine about technology and its politics, relaunched as Logic(s) with a focus on Black, Asian and Indigenous perspectives; issues on intelligence, bodies and supply chains.",
+   "description_zh": "关于技术及其政治的杂志，后改版为 Logic(s)，聚焦黑人、亚裔与原住民视角，出版过“智能”“身体”“供应链”等专刊。",
+   "url": "https://logicmag.io/",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2017,
+   "image": "https://logicmag.io/images/logics-22_preview3-f51dcea1.png"
+  },
+  {
+   "id": "aprja",
+   "name": "APRJA – A Peer-Reviewed Journal About",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Open-access journal produced with transmediale and Aarhus University, each issue built from a research workshop on topics such as machine research and machine feeling.",
+   "description_zh": "与 transmediale 和奥胡斯大学合作的开放获取期刊，每期源自一场研究工作坊，主题如“机器研究”“机器感受”。",
+   "url": "https://aprja.net/",
+   "based": "Aarhus, Denmark / Berlin",
+   "based_zh": "奥胡斯，丹麦 / 柏林",
+   "founded": 2012,
+   "people": [
+    "Christian Ulrik Andersen",
+    "Geoff Cox"
+   ],
+   "image": "https://aprja.net/public/journals/288/cover_issue_12524_en_US.png"
+  },
+  {
+   "id": "computational-culture",
+   "name": "Computational Culture",
+   "name_zh": "《计算文化》期刊",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Open-access journal of software studies, publishing research on algorithms, machine learning and the cultural life of code.",
+   "description_zh": "软件研究领域的开放获取期刊，发表关于算法、机器学习与代码文化生命的研究。",
+   "url": "https://computationalculture.net/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2011
+  },
+  {
+   "id": "critical-ai-journal",
+   "name": "Critical AI (Duke University Press)",
+   "name_zh": "《批判性 AI》期刊",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Interdisciplinary journal and Rutgers-based initiative that brings humanities methods to AI, from large language models to data labour.",
+   "description_zh": "以罗格斯大学为基地的跨学科期刊与计划，以人文学科方法研究 AI，从大语言模型到数据劳动。",
+   "url": "https://criticalai.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2023,
+   "people": [
+    "Lauren M. E. Goodlad"
+   ],
+   "image": "https://criticalai.org/wp-content/uploads/2019/10/cropped-prometheus-carrying-fire-1-2.jpg"
+  },
+  {
+   "id": "technophany",
+   "name": "Technophany",
+   "type": "media",
+   "themes": [
+    "machine-umwelt",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Journal of the Research Network for Philosophy and Technology (Yuk Hui and others), publishing philosophy of technology, cosmotechnics and machine thought.",
+   "description_zh": "哲学与技术研究网络（许煜等人发起）的期刊，发表技术哲学、宇宙技术与机器思想相关研究。",
+   "url": "https://technophany.philosophyandtechnology.network/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2022,
+   "people": [
+    "Yuk Hui"
+   ],
+   "image": "https://technophany.philosophyandtechnology.network/public/journals/29/homepageImage_en_US.jpg"
+  },
+  {
+   "id": "meson-press",
+   "name": "meson press",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Open-access publisher of media theory, with titles on machine learning, pattern discrimination and the history of computing.",
+   "description_zh": "开放获取的媒体理论出版社，出版关于机器学习、模式辨别与计算史的著作。",
+   "url": "https://meson.press/",
+   "based": "Lüneburg, Germany",
+   "based_zh": "吕讷堡，德国",
+   "founded": 2014
+  },
+  {
+   "id": "posthumanities-series",
+   "name": "Posthumanities (University of Minnesota Press)",
+   "name_zh": "《后人类》丛书",
+   "type": "media",
+   "themes": [
+    "machine-umwelt",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Book series edited by Cary Wolfe, including Ian Bogost's Alien Phenomenology (2012), a core shelf for thinking about nonhuman and machine experience.",
+   "description_zh": "由 Cary Wolfe 主编的丛书，包括 Ian Bogost 的《异形现象学》（2012），是思考非人与机器经验的核心书架。",
+   "url": "https://www.upress.umn.edu/search-grid/?series=posthumanities",
+   "based": "Minneapolis, US",
+   "based_zh": "明尼阿波利斯，美国",
+   "founded": 2007,
+   "people": [
+    "Cary Wolfe"
+   ]
+  },
+  {
+   "id": "open-humanities-press",
+   "name": "Open Humanities Press",
+   "name_zh": "开放人文出版社",
+   "type": "media",
+   "themes": [
+    "opacity-latent",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Open-access academic publisher whose books include Joanna Zylinska's AI Art: Machine Visions and Warped Dreams (2020).",
+   "description_zh": "开放获取学术出版社，出版了 Joanna Zylinska 的《AI 艺术：机器视觉与扭曲的梦》（2020）等著作。",
+   "url": "https://www.openhumanitiespress.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2008
+  },
+  {
+   "id": "the-good-robot-podcast",
+   "name": "The Good Robot (podcast)",
+   "name_zh": "好机器人播客",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory",
+    "power"
+   ],
+   "description": "Podcast by Eleanor Drage and Kerry McInerney asking feminist thinkers and technologists what good technology is.",
+   "description_zh": "由 Eleanor Drage 与 Kerry McInerney 主持的播客，请女性主义学者与技术从业者探讨什么是“好的技术”。",
+   "url": "https://www.thegoodrobot.co.uk/",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2021,
+   "people": [
+    "Eleanor Drage",
+    "Kerry McInerney"
+   ]
+  },
+  {
+   "id": "tech-wont-save-us",
+   "name": "Tech Won't Save Us (podcast)",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Weekly podcast by Paris Marx with critical perspectives on tech, AI hype and the labour and infrastructure behind it.",
+   "description_zh": "Paris Marx 主持的每周播客，以批判视角讨论科技、AI 热潮及其背后的劳动与基础设施。",
+   "url": "https://techwontsave.us/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2020,
+   "people": [
+    "Paris Marx"
+   ],
+   "image": "https://techwontsave.us/assets/img/social/twsu_social.png"
+  },
+  {
+   "id": "mystery-ai-hype-theater",
+   "name": "Mystery AI Hype Theater 3000",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "failure-glitch"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "DAIR podcast and stream in which linguist Emily M. Bender and sociologist Alex Hanna take apart claims of machine intelligence and AI hype.",
+   "description_zh": "DAIR 出品的播客与直播，语言学家 Emily M. Bender 与社会学家 Alex Hanna 在节目中逐条拆解“机器智能”与 AI 炒作。",
+   "url": "https://www.dair-institute.org/maiht3k/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2022,
+   "people": [
+    "Emily M. Bender",
+    "Alex Hanna"
+   ]
+  },
+  {
+   "id": "ai-weirdness",
+   "name": "AI Weirdness",
+   "type": "media",
+   "themes": [
+    "failure-glitch",
+    "opacity-latent"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "Janelle Shane's blog and newsletter on the strange ways AI fails, from neural-net paint colours to hallucinated giraffes: a long-running record of machine error as a window into machine 'minds'.",
+   "description_zh": "Janelle Shane 的博客与通讯，记录 AI 各种奇特的失败，从神经网络命名的油漆颜色到凭空出现的长颈鹿，以机器错误为窗口观察机器“心智”。",
+   "url": "https://www.aiweirdness.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2016,
+   "people": [
+    "Janelle Shane"
+   ],
+   "image": "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/size/w1200/2021/03/neural_net_box_default_square-01-2.png"
+  },
+  {
+   "id": "cybernetic-forests",
+   "name": "Cybernetic Forests",
+   "name_zh": "控制论森林",
+   "type": "media",
+   "themes": [
+    "critical-ai",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Eryk Salvaggio's newsletter on AI, art and cybernetics, reading generated images as infographics of their datasets and arguing against AI hype.",
+   "description_zh": "Eryk Salvaggio 关于 AI、艺术与控制论的通讯，把生成图像当作其数据集的“信息图”来解读，并批判 AI 炒作。",
+   "url": "https://www.cyberneticforests.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Eryk Salvaggio"
+   ],
+   "image": "http://static1.squarespace.com/static/5dd366b5ac1101724ff2fac7/t/6a8b54c1fedd4817854f2a82/1787516097689/SWIM-Salvaggio_Still_3.jpg?format=1500w"
+  },
+  {
+   "id": "blood-in-the-machine",
+   "name": "Blood in the Machine",
+   "name_zh": "机器中的血",
+   "type": "media",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "Brian Merchant's newsletter and book on the Luddites and today's fight against automation, reporting how AI reshapes work.",
+   "description_zh": "Brian Merchant 的通讯与同名著作，讲述卢德派与当下反自动化的抗争，报道 AI 如何重塑工作。",
+   "url": "https://www.bloodinthemachine.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2023,
+   "people": [
+    "Brian Merchant"
+   ]
+  },
+  {
+   "id": "noema-magazine",
+   "name": "Noema Magazine",
+   "type": "media",
+   "themes": [
+    "machine-umwelt",
+    "critical-ai",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "Magazine of the Berggruen Institute that publishes long essays on AI, minds and planetary computation by writers such as Benjamin Bratton, Blaise Agüera y Arcas and Tobias Rees.",
+   "description_zh": "博古睿研究院出版的杂志，刊登 Benjamin Bratton、Blaise Agüera y Arcas、Tobias Rees 等人关于 AI、心智与行星计算的长文。",
+   "url": "https://www.noemamag.com/",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "founded": 2020
+  },
+  {
+   "id": "nettime",
+   "name": "nettime",
+   "type": "media",
+   "themes": [
+    "history",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Mailing list for net criticism founded in 1995, where the net.art and tactical media generations debated networks, software and machines.",
+   "description_zh": "1995 年创立的网络批评邮件列表，网络艺术与战术媒体几代人在此讨论网络、软件与机器。",
+   "url": "https://www.nettime.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 1995,
+   "people": [
+    "Geert Lovink",
+    "Pit Schultz"
+   ]
+  },
+  {
+   "id": "algorithmic-justice-league",
+   "name": "Algorithmic Justice League",
+   "name_zh": "算法正义联盟",
+   "type": "network",
+   "themes": [
+    "classification",
+    "machine-seeing",
+    "ethics-policy"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Organisation founded by Joy Buolamwini that combines art and research to expose bias in AI, starting from the 'coded gaze' of face recognition shown in Gender Shades.",
+   "description_zh": "由 Joy Buolamwini 创立的组织，结合艺术与研究揭示 AI 的偏见，起点是《Gender Shades》所揭示的人脸识别“编码凝视”。",
+   "url": "https://www.ajl.org/",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2016,
+   "people": [
+    "Joy Buolamwini"
+   ],
+   "image": "https://cdn.prod.website-files.com/5e027ca188c99e3515b404b7/5e20e10e0f65b5ce9f13ea01_Home-Share.jpg"
+  },
+  {
+   "id": "tactical-tech",
+   "name": "Tactical Tech",
+   "type": "network",
+   "themes": [
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "International NGO that helps the public understand how technology shapes society, through exhibitions such as The Glass Room and toolkits on data and influence.",
+   "description_zh": "帮助公众理解技术如何塑造社会的国际非政府组织，通过《The Glass Room》等展览以及数据与影响力工具包开展工作。",
+   "url": "https://tacticaltech.org/",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2003,
+   "image": "https://cdn.ttc.io/i/fit/1200/0/sm/0/plain/tacticaltech.org/220809_tt-org_glitch_sustainable3.jpg"
+  },
+  {
+   "id": "queer-in-ai",
+   "name": "Queer in AI",
+   "type": "network",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Grassroots organisation of queer researchers and practitioners in AI that raises awareness of how AI misclassifies and harms queer people.",
+   "description_zh": "AI 领域酷儿研究者与从业者的草根组织，揭示 AI 如何误分类并伤害酷儿群体。",
+   "url": "https://www.queerinai.com/",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2017
+  },
+  {
+   "id": "black-in-ai",
+   "name": "Black in AI",
+   "type": "network",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Network co-founded by Timnit Gebru and Rediet Abebe to increase the presence and inclusion of Black people in AI.",
+   "description_zh": "由 Timnit Gebru 与 Rediet Abebe 共同发起的网络，旨在提升黑人在 AI 领域的参与和代表性。",
+   "url": "https://blackinai.github.io/",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2017,
+   "people": [
+    "Timnit Gebru",
+    "Rediet Abebe"
+   ]
+  },
+  {
+   "id": "indigenous-protocol-and-ai",
+   "name": "Indigenous Protocol and AI Working Group",
+   "name_zh": "原住民协议与 AI 工作组",
+   "type": "network",
+   "themes": [
+    "machine-umwelt",
+    "critical-ai",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory",
+    "power"
+   ],
+   "description": "Working group whose 2020 position paper asked how Indigenous epistemologies can guide the design of AI and our relations with non-human kin, including machines.",
+   "description_zh": "该工作组 2020 年发表的立场文件探讨原住民认识论如何指导 AI 设计，以及我们与包括机器在内的非人亲属的关系。",
+   "url": "https://www.indigenous-ai.net/",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2019,
+   "people": [
+    "Jason Edward Lewis"
+   ],
+   "image": "https://www.indigenous-ai.net/wp-content/uploads/2019/04/waiwai2.jpg"
+  },
+  {
+   "id": "feminist-ai",
+   "name": "Feminist.AI",
+   "name_zh": "女性主义 AI",
+   "type": "network",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "power",
+    "speculative"
+   ],
+   "description": "Community research group that co-designs AI prototypes and datasets with communities, making feminist and critical AI by hand.",
+   "description_zh": "与社区共同设计 AI 原型与数据集的社区研究团体，以亲手实践的方式创造女性主义与批判性 AI。",
+   "url": "https://www.feminist.ai/",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "founded": 2016,
+   "people": [
+    "Christine Meinders"
+   ],
+   "image": "http://static1.squarespace.com/static/5aef2f44f2e6b1f9aa3e844c/t/61b8e1702bfcc65c6a641597/1639506331658/FAI_campaign-11-2.jpg?format=1500w"
+  },
+  {
+   "id": "coding-rights",
+   "name": "Coding Rights",
+   "type": "network",
+   "themes": [
+    "classification",
+    "ethics-policy",
+    "critical-ai"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Brazilian feminist organisation on technology and human rights, whose Not My A.I. project maps AI deployed against marginalised people in Latin America.",
+   "description_zh": "巴西的女性主义技术与人权组织，其《Not My A.I.》项目梳理拉丁美洲针对边缘群体部署的 AI 系统。",
+   "url": "https://codingrights.org/",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "里约热内卢，巴西",
+   "founded": 2015,
+   "people": [
+    "Joana Varon"
+   ]
+  },
+  {
+   "id": "tierra-comun",
+   "name": "Tierra Común",
+   "type": "network",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Network of activists and scholars on data colonialism, bringing Global South perspectives to the extraction behind data and AI.",
+   "description_zh": "关注“数据殖民主义”的活动者与学者网络，以全球南方视角审视数据与 AI 背后的攫取。",
+   "url": "https://www.tierracomun.net/",
+   "based": "Latin America / Global",
+   "based_zh": "拉丁美洲 / 全球",
+   "founded": 2020,
+   "people": [
+    "Paola Ricaurte",
+    "Ulises Mejias",
+    "Nick Couldry"
+   ],
+   "image": "http://static1.squarespace.com/static/5e83244a3b7f88663523941d/t/5ee356fabff7b11983b52cca/1732800208912/tc_twittercard_es.jpg?format=1500w"
+  },
+  {
+   "id": "masakhane",
+   "name": "Masakhane",
+   "type": "network",
+   "themes": [
+    "machine-listening",
+    "classification"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Grassroots research community building natural language processing for African languages, by Africans, against the English-centred machine ear.",
+   "description_zh": "由非洲人为非洲语言建设自然语言处理的草根研究社群，回应以英语为中心的“机器之耳”。",
+   "url": "https://www.masakhane.io/",
+   "based": "Africa / Global",
+   "based_zh": "非洲 / 全球",
+   "founded": 2019
+  },
+  {
+   "id": "aixdesign",
+   "name": "AIxDesign",
+   "type": "network",
+   "themes": [
+    "critical-ai",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "Community and studio of designers, artists and researchers working critically with AI, running programmes, publications and a slow-AI research line.",
+   "description_zh": "由设计师、艺术家与研究者组成、以批判方式处理 AI 的社群与工作室，开展项目、出版物及“慢 AI”研究。",
+   "url": "https://aixdesign.co/",
+   "based": "Amsterdam, Netherlands / Global",
+   "based_zh": "阿姆斯特丹，荷兰 / 全球",
+   "founded": 2019,
+   "people": [
+    "Nadia Piet"
+   ],
+   "image": "https://framerusercontent.com/assets/n1rmMusG3wGEz8MUesqrEode0B0.png"
+  },
+  {
+   "id": "processing-foundation",
+   "name": "Processing Foundation",
+   "name_zh": "Processing 基金会",
+   "type": "network",
+   "themes": [
+    "art-science",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Nonprofit behind Processing and p5.js that promotes software literacy in the arts, with fellowships supporting artists working critically with code and machine learning.",
+   "description_zh": "Processing 与 p5.js 背后的非营利组织，推广艺术领域的软件素养，并以奖学金支持以批判方式使用代码与机器学习的艺术家。",
+   "url": "https://processingfoundation.org/",
+   "based": "US / Global",
+   "based_zh": "美国 / 全球",
+   "founded": 2012,
+   "people": [
+    "Casey Reas",
+    "Ben Fry",
+    "Lauren Lee McCarthy"
+   ],
+   "image": "https://processingfoundation.org/_astro/momi-index.6LaslcuB_1DtfGc.webp"
+  },
+  {
+   "id": "critical-engineering-working-group",
+   "name": "Critical Engineering Working Group",
+   "name_zh": "批判工程工作组",
+   "type": "network",
+   "themes": [
+    "critical-ai",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory",
+    "power"
+   ],
+   "description": "Group behind The Critical Engineering Manifesto (2011), which asks engineers and artists to expose the inner workings of the technologies we depend on.",
+   "description_zh": "《批判工程宣言》（2011）的发起团体，呼吁工程师与艺术家揭示我们所依赖的技术的内部运作。",
+   "url": "https://criticalengineering.org/",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2011,
+   "people": [
+    "Julian Oliver",
+    "Gordan Savičić",
+    "Danja Vasiliev"
+   ]
+  },
+  {
+   "id": "machine-listening-collective",
+   "name": "Machine Listening",
+   "name_zh": "机器聆听",
+   "type": "network",
+   "themes": [
+    "machine-listening",
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Platform for research and artistic practice on the politics of machine listening, voice assistants and audio surveillance, with an open curriculum.",
+   "description_zh": "关于机器聆听、语音助手与音频监控政治的研究与艺术实践平台，并提供开放课程。",
+   "url": "https://machinelistening.exposed/",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "founded": 2020,
+   "people": [
+    "Sean Dockray",
+    "James Parker",
+    "Joel Stern"
+   ],
+   "image": "https://machinelistening.exposed/images/home/hero.png"
+  },
+  {
+   "id": "turkopticon",
+   "name": "Turkopticon",
+   "type": "network",
+   "themes": [
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "Tool and organising project by and for Amazon Mechanical Turk workers, started by Lilly Irani and Six Silberman, which made the hidden human labour of AI visible and contestable.",
+   "description_zh": "由 Lilly Irani 与 Six Silberman 发起、为亚马逊 Mechanical Turk 众包工人服务的工具与组织项目，使 AI 背后隐形的人力劳动变得可见、可争。",
+   "url": "https://turkopticon.net/",
+   "based": "US / Online",
+   "based_zh": "美国 / 线上",
+   "founded": 2008,
+   "people": [
+    "Lilly Irani",
+    "Six Silberman"
+   ]
+  },
+  {
+   "id": "algorithmwatch",
+   "name": "AlgorithmWatch",
+   "name_zh": "算法观察",
+   "type": "network",
+   "themes": [
+    "ethics-policy",
+    "classification"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Nonprofit research and advocacy organisation that investigates automated decision-making systems and their impact on society in Europe.",
+   "description_zh": "调查自动化决策系统及其对欧洲社会影响的非营利研究与倡导组织。",
+   "url": "https://algorithmwatch.org/en/",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2016
+  },
+  {
+   "id": "constant-vzw",
+   "name": "Constant",
+   "type": "network",
+   "themes": [
+    "critical-ai",
+    "classification"
+   ],
+   "fields": [
+    "theory",
+    "speculative"
+   ],
+   "description": "Brussels artist-run association for art, media and technology, home to Algolit, which explores machine learning through literature and code.",
+   "description_zh": "布鲁塞尔由艺术家运营的艺术、媒体与技术协会，旗下 Algolit 小组以文学与代码探索机器学习。",
+   "url": "https://constantvzw.org/",
+   "based": "Brussels, Belgium",
+   "based_zh": "布鲁塞尔，比利时",
+   "founded": 1997
+  },
+  {
+   "id": "data-for-black-lives",
+   "name": "Data for Black Lives",
+   "type": "network",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Movement of activists and scientists using data to improve Black lives and fighting algorithmic discrimination.",
+   "description_zh": "由活动者与科学家组成的运动，用数据改善黑人生活，并对抗算法歧视。",
+   "url": "https://d4bl.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2017,
+   "people": [
+    "Yeshimabeit Milner"
+   ]
+  },
+  {
+   "id": "rhizome",
+   "name": "Rhizome",
+   "type": "network",
+   "themes": [
+    "history",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Born-digital art organisation affiliated with the New Museum, which commissions, preserves and writes about art engaged with technology, including the ArtBase and the Webrecorder tools.",
+   "description_zh": "隶属新美术馆的原生数字艺术机构，委托、保存并评论与技术相关的艺术，运营 ArtBase 与 Webrecorder 工具。",
+   "url": "https://rhizome.org/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1996,
+   "people": [
+    "Mark Tribe"
+   ],
+   "image": "https://static.rhizome.org/media/event/afterparty_final.png"
+  },
+  {
+   "id": "experiments-in-art-and-technology",
+   "name": "Experiments in Art and Technology (E.A.T.)",
+   "name_zh": "艺术与技术实验",
+   "type": "network",
+   "themes": [
+    "history",
+    "art-science",
+    "robot-art"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "Nonprofit founded by Bell Labs engineers and artists after 9 Evenings (1966), which paired artists with engineers and set the model for art-technology collaboration.",
+   "description_zh": "由贝尔实验室工程师与艺术家在《九夜》（1966）之后创立的非营利组织，为艺术家与工程师配对，奠定了艺术–技术合作的模式。",
+   "url": "https://en.wikipedia.org/wiki/Experiments_in_Art_and_Technology",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1966,
+   "people": [
+    "Billy Klüver",
+    "Robert Rauschenberg",
+    "Fred Waldhauer",
+    "Robert Whitman"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Poster_for_E.A.T._The_Story_of_Experiments_in_Art_and_Technology.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "computer-arts-society",
+   "name": "Computer Arts Society (CAS)",
+   "name_zh": "计算机艺术学会",
+   "type": "network",
+   "themes": [
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "British society founded in 1968, the year of Cybernetic Serendipity, to support computer use in the arts; publisher of the bulletin PAGE and a specialist group of the BCS.",
+   "description_zh": "1968 年（《控制论的意外发现》同年）成立的英国学会，推动计算机在艺术中的应用，出版通讯 PAGE，现为英国计算机学会的专业小组。",
+   "url": "https://computer-arts-society.com/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1968,
+   "people": [
+    "Alan Sutcliffe",
+    "George Mallen",
+    "John Lansdown"
+   ],
+   "image": "https://computer-arts-society.com/banners/eva-2026-slider.jpg"
+  }
+ ]
+}

@@ -1,0 +1,2720 @@
+{
+ "batch": "power-labour",
+ "creators": [
+  {
+   "id": "aaron-koblin",
+   "name": "Aaron Koblin",
+   "kind": "person",
+   "role": "Artist and technologist",
+   "role_zh": "艺术家、技术人",
+   "based": "San Francisco, US",
+   "based_zh": "美国旧金山",
+   "bio": "American artist known for data visualisation and crowdsourced works; later co-founded the VR studio Within.",
+   "bio_zh": "美国艺术家，以数据可视化和众包作品闻名，后联合创立了 VR 工作室 Within。",
+   "why": "His Mechanical Turk works were among the first artworks about paid micro-labour online.",
+   "why_zh": "他的 Mechanical Turk 作品是最早讨论网络计件微劳动的艺术作品之一。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.aaronkoblin.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sebastian-schmieg",
+   "name": "Sebastian Schmieg",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "German artist who examines algorithmic systems, click work and the ways humans become software extensions.",
+   "bio_zh": "德国艺术家，研究算法系统、点击劳动，以及人如何变成软件的延伸。",
+   "why": "He replays the hidden human work inside datasets and interfaces.",
+   "why_zh": "他重播藏在数据集和界面中的人类劳动。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://sebastianschmieg.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agnieszka-kurant",
+   "name": "Agnieszka Kurant",
+   "kind": "person",
+   "role": "Conceptual artist",
+   "role_zh": "观念艺术家",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Polish artist who examines collective intelligence, non-human labour and the invisible economy.",
+   "bio_zh": "波兰艺术家，研究集体智能、非人类劳动与“看不见的经济”。",
+   "why": "She makes crowds, termites and algorithms into co-authors to question who does the work of intelligence.",
+   "why_zh": "她让人群、白蚁和算法成为合作者，追问“智能”的劳动由谁完成。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Agnieszka_Kurant"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andrew-norman-wilson",
+   "name": "Andrew Norman Wilson",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家、电影人",
+   "based": "Los Angeles, US",
+   "based_zh": "美国洛杉矶",
+   "bio": "American artist whose films and images deal with labour, corporations and the media they produce.",
+   "bio_zh": "美国艺术家，影像与图像作品关注劳动、企业及其生产的媒介。",
+   "why": "He was fired by a Google contractor for filming the book-scanning workers at the Googleplex.",
+   "why_zh": "他因拍摄谷歌园区里的图书扫描工人而被谷歌外包商解雇。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.andrewnormanwilson.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicolas-gourault",
+   "name": "Nicolas Gourault",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家、电影人",
+   "based": "Paris, France",
+   "based_zh": "法国巴黎",
+   "bio": "French artist whose documentary installations investigate the human labour behind automated vision.",
+   "bio_zh": "法国艺术家，以纪录影像装置调查自动化视觉背后的人类劳动。",
+   "why": "His films give voice to the drivers and annotators who train self-driving cars.",
+   "why_zh": "他的影片让训练自动驾驶汽车的司机和标注员发声。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://nicolasgourault.fr/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lilly-irani",
+   "name": "Lilly Irani",
+   "kind": "person",
+   "role": "Associate Professor of Communication, UC San Diego",
+   "role_zh": "加州大学圣地亚哥分校传播学副教授",
+   "based": "San Diego, US",
+   "based_zh": "美国圣地亚哥",
+   "bio": "American scholar and former Google designer who studies crowd work, innovation and design politics.",
+   "bio_zh": "美国学者、前谷歌设计师，研究众包劳动、创新与设计政治。",
+   "why": "She co-built Turkopticon, a tool that lets Mechanical Turk workers review their employers.",
+   "why_zh": "她参与创建了 Turkopticon，让 Mechanical Turk 工人评价雇主。",
+   "disciplines": [
+    "hci",
+    "activism"
+   ],
+   "links": {
+    "site": "https://quote.ucsd.edu/lirani/"
+   },
+   "connected_to": [
+    "six-silberman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "six-silberman",
+   "name": "M. Six Silberman",
+   "kind": "person",
+   "role": "Researcher on platform work",
+   "role_zh": "平台劳动研究者",
+   "based": "Frankfurt, Germany",
+   "based_zh": "德国法兰克福",
+   "bio": "American researcher who co-created Turkopticon and later worked with the German metalworkers' union IG Metall on platform work.",
+   "bio_zh": "美国研究者，Turkopticon 的共同创建者，后来与德国金属工会 IG Metall 合作研究平台劳动。",
+   "why": "He connects HCI tools with labour organising.",
+   "why_zh": "他把人机交互工具与劳工组织联系起来。",
+   "disciplines": [
+    "hci",
+    "activism"
+   ],
+   "links": {
+    "site": "https://turkopticon.info/"
+   },
+   "connected_to": [
+    "lilly-irani"
+   ],
+   "discovered_via": "lilly-irani"
+  },
+  {
+   "id": "elisa-giardina-papa",
+   "name": "Elisa Giardina Papa",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "New York, US / Sicily, Italy",
+   "based_zh": "美国纽约 / 意大利西西里",
+   "bio": "Italian artist whose videos investigate gender, care work and labour in digital economies and AI.",
+   "bio_zh": "意大利艺术家，影像作品研究数字经济与 AI 中的性别、照护与劳动。",
+   "why": "She works the gig jobs that feed AI and films what the work does to the worker.",
+   "why_zh": "她亲自去做为 AI 输送数据的零工，并拍下这种工作对劳动者的影响。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.elisagiardinapapa.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-mandiberg",
+   "name": "Michael Mandiberg",
+   "kind": "person",
+   "role": "Artist; Professor, CUNY",
+   "role_zh": "艺术家，纽约城市大学教授",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American artist whose work uses the logics of digital platforms, from Wikipedia printing to gig-economy outsourcing.",
+   "bio_zh": "美国艺术家，作品运用数字平台的逻辑，从打印维基百科到零工经济外包。",
+   "why": "He outsourced the remake of a film about the assembly line to the online gig economy.",
+   "why_zh": "他把一部关于流水线的电影的重拍外包给网络零工经济。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.mandiberg.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hans-block",
+   "name": "Hans Block",
+   "kind": "person",
+   "role": "Director and theatre maker",
+   "role_zh": "导演、剧场创作者",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "German director who works with Moritz Riesewieck on films and plays about digital power.",
+   "bio_zh": "德国导演，与 Moritz Riesewieck 合作创作关于数字权力的电影和戏剧。",
+   "why": "With Riesewieck he revealed the moderators who clean social media for the rest of us.",
+   "why_zh": "他与 Riesewieck 一同揭示了为大众清理社交媒体的审核员。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/The_Cleaners_(2018_film)"
+   },
+   "connected_to": [
+    "moritz-riesewieck"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "moritz-riesewieck",
+   "name": "Moritz Riesewieck",
+   "kind": "person",
+   "role": "Director and author",
+   "role_zh": "导演、作家",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "German director and author; co-director of The Cleaners and Eternal You with Hans Block.",
+   "bio_zh": "德国导演和作家，与 Hans Block 合导了《清道夫》和《永恒的你》。",
+   "why": "He follows the human labour and grief that platforms and AI turn into services.",
+   "why_zh": "他追踪平台和 AI 如何把人的劳动与哀伤变成服务。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/The_Cleaners_(2018_film)"
+   },
+   "connected_to": [
+    "hans-block"
+   ],
+   "discovered_via": "hans-block"
+  },
+  {
+   "id": "adrian-chen",
+   "name": "Adrian Chen",
+   "kind": "person",
+   "role": "Journalist",
+   "role_zh": "记者",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American journalist whose 2014 Wired report first described the global workforce of content moderators.",
+   "bio_zh": "美国记者，2014 年在《连线》发表的报道首次描述了全球内容审核员群体。",
+   "why": "He made content moderation visible as labour.",
+   "why_zh": "他让内容审核作为一种劳动被看见。",
+   "disciplines": [
+    "activism",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.wired.com/2014/10/content-moderation/"
+   },
+   "connected_to": [
+    "ciaran-cassidy"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ciaran-cassidy",
+   "name": "Ciarán Cassidy",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "role_zh": "纪录片导演",
+   "based": "Dublin, Ireland",
+   "based_zh": "爱尔兰都柏林",
+   "bio": "Irish documentary director.",
+   "bio_zh": "爱尔兰纪录片导演。",
+   "why": "He co-directed The Moderators, filmed in a moderation training centre in India.",
+   "why_zh": "他联合执导了在印度一个内容审核培训中心拍摄的《审核员》。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://fieldofvision.org/shorts/the-moderators"
+   },
+   "connected_to": [
+    "adrian-chen"
+   ],
+   "discovered_via": "adrian-chen"
+  },
+  {
+   "id": "milagros-miceli",
+   "name": "Milagros Miceli",
+   "kind": "person",
+   "role": "Sociologist and computer scientist; DAIR Institute and Weizenbaum Institute",
+   "role_zh": "社会学家、计算机科学家，DAIR 研究所与魏森鲍姆研究所",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "Argentine researcher who studies the work of data annotators and content moderators in the Global South.",
+   "bio_zh": "阿根廷研究者，研究全球南方的数据标注员和内容审核员的工作。",
+   "why": "She makes data workers co-researchers of their own conditions.",
+   "why_zh": "她让数据工人成为研究自身处境的共同研究者。",
+   "disciplines": [
+    "activism",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.weizenbaum-institut.de/en/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lauren-lee-mccarthy",
+   "name": "Lauren Lee McCarthy",
+   "kind": "person",
+   "role": "Artist; Professor, UCLA Design Media Arts",
+   "role_zh": "艺术家，加州大学洛杉矶分校设计媒体艺术系教授",
+   "based": "Los Angeles, US",
+   "based_zh": "美国洛杉矶",
+   "bio": "American artist who examines social relationships amid surveillance, automation and algorithmic living; creator of p5.js.",
+   "bio_zh": "美国艺术家，研究监控、自动化与算法生活中的社会关系，p5.js 的创建者。",
+   "why": "She performs as the algorithm and hires humans to be it, to show what automation replaces.",
+   "why_zh": "她亲自扮演算法，或雇人扮演算法，以揭示自动化取代了什么。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://lauren-mccarthy.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-vanouse",
+   "name": "Paul Vanouse",
+   "kind": "person",
+   "role": "Artist; Professor, University at Buffalo",
+   "role_zh": "艺术家，纽约州立大学布法罗分校教授",
+   "based": "Buffalo, US",
+   "based_zh": "美国布法罗",
+   "bio": "American artist who works with biotechnology to question scientific authority, identity and labour.",
+   "bio_zh": "美国艺术家，运用生物技术质疑科学权威、身份与劳动。",
+   "why": "His Labor asks what work smells like when no workers are left.",
+   "why_zh": "他的《劳动》追问：当工人都不在了，劳动闻起来是什么味道。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.paulvanouse.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alex-rivera",
+   "name": "Alex Rivera",
+   "kind": "person",
+   "role": "Filmmaker",
+   "role_zh": "电影人",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Peruvian-American filmmaker who uses science fiction to address migration, borders and labour.",
+   "bio_zh": "秘鲁裔美国电影人，以科幻片探讨移民、边境与劳动。",
+   "why": "He imagined remote-controlled migrant labour years before teleoperated robots became a business.",
+   "why_zh": "他在远程操控机器人成为生意多年之前，就想象了被远程操控的移民劳动。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.sleepdealer.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "harun-farocki",
+   "name": "Harun Farocki",
+   "kind": "person",
+   "role": "Filmmaker and artist (1944–2014)",
+   "role_zh": "电影人、艺术家（1944–2014）",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "German filmmaker whose essay films and installations analyse images made by and for machines, work and war.",
+   "bio_zh": "德国电影人，散文电影和装置分析由机器生成并供机器读取的图像，以及劳动和战争。",
+   "why": "He coined 'operational images' and traced how war, games and training share the same pictures.",
+   "why_zh": "他提出了“操作图像”概念，追踪战争、游戏和训练如何共用同一种画面。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.harunfarocki.de/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kate-crawford",
+   "name": "Kate Crawford",
+   "kind": "person",
+   "role": "Scholar and artist; Research Professor, USC Annenberg; Senior Principal Researcher, Microsoft Research",
+   "role_zh": "学者、艺术家，南加州大学安嫩伯格学院研究教授，微软研究院高级首席研究员",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Australian scholar of the social and political implications of AI, author of Atlas of AI (2021).",
+   "bio_zh": "澳大利亚学者，研究 AI 的社会与政治影响，著有《AI 地图集》（2021）。",
+   "why": "Her maps with Vladan Joler made AI's minerals, labour and data legible as one system.",
+   "why_zh": "她与 Vladan Joler 合作的地图把 AI 的矿物、劳动和数据呈现为一个整体系统。",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {
+    "site": "https://katecrawford.net/"
+   },
+   "connected_to": [
+    "vladan-joler"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vladan-joler",
+   "name": "Vladan Joler",
+   "kind": "person",
+   "role": "Artist and researcher; SHARE Foundation; Professor, University of Novi Sad",
+   "role_zh": "艺术家、研究者，SHARE 基金会，诺维萨德大学教授",
+   "based": "Novi Sad, Serbia",
+   "based_zh": "塞尔维亚诺维萨德",
+   "bio": "Serbian artist and researcher who draws large diagrammatic maps of technology, extraction and power.",
+   "bio_zh": "塞尔维亚艺术家和研究者，绘制关于技术、攫取与权力的大型图解地图。",
+   "why": "His diagrams turned platforms and AI systems into readable anatomies of exploitation.",
+   "why_zh": "他的图解把平台与 AI 系统变成可以阅读的剥削解剖图。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://labs.rs/en/"
+   },
+   "connected_to": [
+    "kate-crawford"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "unknown-fields-division",
+   "name": "Unknown Fields Division",
+   "kind": "studio",
+   "role": "Nomadic design studio led by Liam Young and Kate Davies",
+   "role_zh": "由 Liam Young 和 Kate Davies 领导的游牧式设计工作室",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "Design research studio that led expeditions to the mines, factories and ports behind consumer technology.",
+   "bio_zh": "设计研究工作室，带队考察消费科技背后的矿山、工厂和港口。",
+   "why": "It made the toxic geography of electronics into objects for the museum.",
+   "why_zh": "它把电子产品的有毒地理变成了博物馆里的物件。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://www.unknownfieldsdivision.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tabita-rezaire",
+   "name": "Tabita Rezaire",
+   "kind": "person",
+   "role": "Artist and healer",
+   "role_zh": "艺术家、疗愈者",
+   "based": "Cayenne, French Guiana",
+   "based_zh": "法属圭亚那卡宴",
+   "bio": "French-Guianese-Danish artist whose videos connect digital networks, colonial history and spiritual technologies.",
+   "bio_zh": "法属圭亚那-丹麦裔艺术家，影像作品把数字网络、殖民历史与灵性技术联系在一起。",
+   "why": "She shows internet infrastructure as a continuation of colonial routes.",
+   "why_zh": "她把互联网基础设施呈现为殖民航线的延续。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://tabitarezaire.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "timo-arnall",
+   "name": "Timo Arnall",
+   "kind": "person",
+   "role": "Designer and filmmaker",
+   "role_zh": "设计师、电影人",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "British designer whose films and research make invisible technologies such as RFID, satellites and data centres visible.",
+   "bio_zh": "英国设计师，以影像和研究让 RFID、卫星和数据中心等看不见的技术变得可见。",
+   "why": "He filmed the inside of the cloud as a physical, noisy machine.",
+   "why_zh": "他把“云”的内部拍成一台实在、嘈杂的机器。",
+   "disciplines": [
+    "design",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.elasticspace.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "forensic-architecture",
+   "name": "Forensic Architecture",
+   "kind": "lab",
+   "role": "Research agency at Goldsmiths, University of London, directed by Eyal Weizman",
+   "role_zh": "伦敦大学金史密斯学院的研究机构，由 Eyal Weizman 领导",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "Research agency that uses spatial, architectural and media analysis, including machine learning, to investigate state and corporate violence.",
+   "bio_zh": "研究机构，运用空间、建筑与媒体分析（包括机器学习）调查国家与企业的暴力。",
+   "why": "It turns machine vision against the arms trade and states, as a tool of counter-forensics.",
+   "why_zh": "它把机器视觉反过来对准军火贸易和国家，作为反向取证的工具。",
+   "disciplines": [
+    "activism",
+    "art"
+   ],
+   "links": {
+    "site": "https://forensic-architecture.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "notabugsplat",
+   "name": "#NotABugSplat collective",
+   "kind": "studio",
+   "role": "Artist collective (with Reprieve and the Foundation for Fundamental Rights)",
+   "role_zh": "艺术家团体（与 Reprieve 和基本权利基金会合作）",
+   "based": "Pakistan / US",
+   "based_zh": "巴基斯坦 / 美国",
+   "bio": "Collective of Pakistani and American artists who installed a giant portrait in a Khyber Pakhtunkhwa field, visible to drone cameras.",
+   "bio_zh": "由巴基斯坦和美国艺术家组成的团体，在开伯尔-普赫图赫瓦省的田野里铺设了一幅无人机镜头可见的巨幅肖像。",
+   "why": "They addressed drone operators through the drone's own camera.",
+   "why_zh": "他们通过无人机自己的镜头向操作员喊话。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://notabugsplat.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ruben-pater",
+   "name": "Ruben Pater",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio": "Dutch graphic designer whose work addresses politics, surveillance and design ethics; author of The Politics of Design.",
+   "bio_zh": "荷兰平面设计师，作品关注政治、监控与设计伦理，著有《设计的政治》。",
+   "why": "He designed a field guide for the people who live under drones.",
+   "why_zh": "他为生活在无人机之下的人设计了一本野外识别手册。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.untold-stories.net/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tomas-van-houtryve",
+   "name": "Tomas van Houtryve",
+   "kind": "person",
+   "role": "Photographer and artist",
+   "role_zh": "摄影师、艺术家",
+   "based": "Paris, France / US",
+   "based_zh": "法国巴黎 / 美国",
+   "bio": "Belgian-American photographer who works on conflict, surveillance and history.",
+   "bio_zh": "比利时裔美国摄影师，关注冲突、监控与历史。",
+   "why": "He turned the drone's view back on the country that deploys it.",
+   "why_zh": "他把无人机的视角转向部署无人机的国家本身。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://tomasvh.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "josh-begley",
+   "name": "Josh Begley",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家、电影人",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American data artist and filmmaker whose work maps US drone strikes, prisons and policing.",
+   "bio_zh": "美国数据艺术家与电影人，作品记录美国的无人机空袭、监狱与警务。",
+   "why": "His app pushed a notification to your phone every time a US drone strike was reported.",
+   "why_zh": "他的应用会在每次美国无人机空袭被报道时向手机推送通知。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://joshbegley.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sonia-kennebeck",
+   "name": "Sonia Kennebeck",
+   "kind": "person",
+   "role": "Documentary director and producer",
+   "role_zh": "纪录片导演、制片人",
+   "based": "US",
+   "based_zh": "美国",
+   "bio": "German-American investigative filmmaker.",
+   "bio_zh": "德裔美国调查纪录片导演。",
+   "why": "Her film follows three whistleblowers from the US drone programme.",
+   "why_zh": "她的影片跟随美国无人机项目的三位吹哨人。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://nationalbirdfilm.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stop-autonomous-weapons",
+   "name": "Future of Life Institute / Stop Autonomous Weapons",
+   "kind": "lab",
+   "role": "Non-profit on existential risks of technology",
+   "role_zh": "关注技术生存风险的非营利组织",
+   "based": "Cambridge, MA, US",
+   "based_zh": "美国马萨诸塞州剑桥",
+   "bio": "Non-profit that campaigns, with AI researchers such as Stuart Russell, for a ban on lethal autonomous weapons.",
+   "bio_zh": "非营利组织，与 Stuart Russell 等 AI 研究者一道推动禁止致命性自主武器。",
+   "why": "It used a short fiction film to put autonomous weapons on the UN agenda.",
+   "why_zh": "它用一部短篇虚构电影把自主武器推上了联合国议程。",
+   "disciplines": [
+    "activism",
+    "film"
+   ],
+   "links": {
+    "site": "https://futureoflife.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "aaron-koblin--the-sheep-market",
+   "creator_ids": [
+    "aaron-koblin"
+   ],
+   "title": "The Sheep Market",
+   "year": 2006,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Koblin paid 10,000 Amazon Mechanical Turk workers two cents each to 'draw a sheep facing to the left'; the drawings, with timelapses of every stroke, are shown and sold as a flock.",
+   "description_zh": "Koblin 以每人两美分的价格，请一万名亚马逊 Mechanical Turk 工人“画一只朝左的羊”；这些画连同每一笔的回放被当作一群羊展示并出售。",
+   "idea_en": "Behind 'artificial artificial intelligence' are thousands of anonymous people paid pennies; the flock makes them countable.",
+   "idea_zh": "“人工的人工智能”背后是成千上万拿着几分钱的无名者；这群羊让他们变得可以被数清。",
+   "method": "A drawing tool posted as a Mechanical Turk task recorded each worker's strokes; drawings were printed on stamps and sold in sets of 20.",
+   "method_zh": "作为 Mechanical Turk 任务发布的绘图工具记录下每位工人的笔画；画作被印成邮票，以 20 张一组出售。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "crowdsourcing",
+    "micro-labour",
+    "drawing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3Mmb5aSscck"
+   },
+   "images": [
+    "https://www.aaronkoblin.com/work/thesheepmarket/grid.jpg",
+    "https://www.aaronkoblin.com/work/thesheepmarket/tool.jpg"
+   ],
+   "source_url": "https://www.aaronkoblin.com/work/thesheepmarket/"
+  },
+  {
+   "id": "aaron-koblin--ten-thousand-cents",
+   "creator_ids": [
+    "aaron-koblin"
+   ],
+   "title": "Ten Thousand Cents",
+   "year": 2008,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An image of a US$100 bill divided into 10,000 tiny tiles, each drawn by a different Mechanical Turk worker paid one cent, so the whole bill cost $100 in labour.",
+   "description_zh": "一张 100 美元钞票的图像被切成一万个小块，每块由一位报酬一美分的 Mechanical Turk 工人绘制，整张钞票的劳动成本正好 100 美元。",
+   "idea_en": "A crowd of unseen workers can reproduce the value they are paid, cent by cent.",
+   "idea_zh": "一群看不见的工人可以一分一分地复制出他们得到的报酬。",
+   "method": "Made with Takashi Kawashima: a custom drawing tool assigned one tile per worker, and prints were sold with proceeds going to the One Laptop per Child project.",
+   "method_zh": "与 Takashi Kawashima 合作：定制的绘图工具为每位工人分配一个小块，印刷品的销售所得捐给“每个孩子一台笔记本电脑”项目。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "Takashi Kawashima",
+    "dollar bill",
+    "crowdsourcing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VHbJGL8aL6o"
+   },
+   "source_url": "https://www.tenthousandcents.com/"
+  },
+  {
+   "id": "sebastian-schmieg--decision-space",
+   "creator_ids": [
+    "sebastian-schmieg"
+   ],
+   "title": "Decision Space",
+   "year": 2016,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "An intervention on The Photographers' Gallery website that asked visitors to sort every image on the site into one of four categories: Problem, Solution, Past or Future.",
+   "description_zh": "在摄影师画廊网站上的一次介入：请访客把网站上的每张图片归入四个类别之一——问题、解决方案、过去或未来。",
+   "idea_en": "Classifying images is tedious click work that we are asked to do for free, and the categories are absurd once seen plainly.",
+   "idea_zh": "给图像分类是我们被要求免费完成的乏味点击劳动，而一旦直白地看，这些类别本身就很荒诞。",
+   "method": "An overlay on the gallery's site and a dedicated page (decision-space.com) collected nearly 30,000 decisions, which then fed later works in the series.",
+   "method_zh": "画廊网站上的覆盖层和专门网页（decision-space.com）收集了近三万次判断，这些数据又用于该系列之后的作品。",
+   "keywords": [
+    "click work",
+    "classification",
+    "The Photographers' Gallery",
+    "crowdsourcing"
+   ],
+   "video": {
+    "url": "https://vimeo.com/200818209"
+   },
+   "images": [
+    "https://sebastianschmieg.com/wordpress/wp-content/uploads/2019/02/decision-space-5-1024x683.png"
+   ],
+   "source_url": "https://sebastianschmieg.com/decision-space/"
+  },
+  {
+   "id": "sebastian-schmieg--i-will-say-whatever-you-want",
+   "creator_ids": [
+    "sebastian-schmieg"
+   ],
+   "title": "I Will Say Whatever You Want In Front Of A Pizza",
+   "year": 2017,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A speculative Prezi lecture-performance on digital labour, in which the narrator imagines slipping messages to the crowd workers and stock-photo models who are folded into algorithmic systems.",
+   "description_zh": "一场以 Prezi 演示进行的思辨讲演表演，关于数字劳动：讲述者设想给被折叠进算法系统里的众包工人和图库模特偷偷传递信息。",
+   "idea_en": "Humans have become software extensions; intervention may start from inside the system's tasks.",
+   "idea_zh": "人已经成了软件的延伸；介入可以从系统任务的内部开始。",
+   "method": "A zooming Prezi presentation with stock images, shown as a website, a looping video and live lectures.",
+   "method_zh": "一个用图库图片构成、可缩放的 Prezi 演示，以网站、循环影像和现场讲演三种形式呈现。",
+   "keywords": [
+    "digital labour",
+    "Prezi",
+    "lecture performance",
+    "stock photos"
+   ],
+   "images": [
+    "https://sebastianschmieg.com/wordpress/wp-content/uploads/2019/01/iwswywifoap-7-1024x576.jpg"
+   ],
+   "source_url": "https://sebastianschmieg.com/i-will-say-whatever-you-want-in-front-of-a-pizza/"
+  },
+  {
+   "id": "agnieszka-kurant--aai",
+   "creator_ids": [
+    "agnieszka-kurant"
+   ],
+   "title": "A.A.I.",
+   "year": 2014,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Sculptures built by colonies of termites from coloured sand, gold and crystals the artist supplied; the title stands for 'artificial artificial intelligence', Amazon's own slogan for Mechanical Turk.",
+   "description_zh": "由白蚁群用艺术家提供的彩色沙粒、金粉和晶体筑成的雕塑；标题意为“人工的人工智能”，正是亚马逊给 Mechanical Turk 的口号。",
+   "idea_en": "Collective, unpaid, non-human labour produces the 'art', just as hidden crowds produce 'AI'.",
+   "idea_zh": "集体的、无偿的、非人类的劳动生产了“艺术”，正如隐藏的人群生产了“AI”。",
+   "method": "Termite colonies in a lab worked for months with the supplied materials; the finished mounds are exhibited as sculptures.",
+   "method_zh": "实验室中的白蚁群用提供的材料工作数月；完成的蚁丘作为雕塑展出。",
+   "keywords": [
+    "termites",
+    "collective intelligence",
+    "Amazon Mechanical Turk",
+    "non-human labour"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8N-3p8OMMwQ"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Agnieszka_Kurant"
+  },
+  {
+   "id": "andrew-norman-wilson--workers-leaving-the-googleplex",
+   "creator_ids": [
+    "andrew-norman-wilson"
+   ],
+   "title": "Workers Leaving the Googleplex",
+   "year": 2011,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A video essay about the 'ScanOps' workers, mostly people of colour, who digitised books for Google Books and wore yellow badges that barred them from the perks of other Google staff; Wilson was fired for filming them.",
+   "description_zh": "一部影像散文，关于为谷歌图书扫描书籍的“ScanOps”工人：他们大多是有色人种，佩戴黄色工牌，不能享受其他谷歌员工的福利；Wilson 因拍摄他们而被解雇。",
+   "idea_en": "The hierarchy of badge colours on a tech campus reveals whose labour is meant to stay unseen.",
+   "idea_zh": "科技园区里工牌颜色的等级，揭示了谁的劳动注定要被隐藏。",
+   "method": "Footage shot at the Mountain View campus while Wilson worked there as a contractor, with narration and correspondence, echoing the Lumière brothers' Workers Leaving the Factory (1895).",
+   "method_zh": "Wilson 作为外包人员在山景城园区工作时拍下的画面，配以旁白和往来信件，呼应卢米埃尔兄弟的《工厂大门》（1895）。",
+   "keywords": [
+    "Google Books",
+    "ScanOps",
+    "contract labour",
+    "Lumière",
+    "badge colours"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=w0RTgOuoi2k"
+   },
+   "images": [
+    "https://www.andrewnormanwilson.com/workers1.jpeg"
+   ],
+   "source_url": "https://www.andrewnormanwilson.com/WorkersGoogleplex.html"
+  },
+  {
+   "id": "andrew-norman-wilson--scanops",
+   "creator_ids": [
+    "andrew-norman-wilson"
+   ],
+   "title": "ScanOps",
+   "year": 2012,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Inkjet prints of pages from Google Books in which the scanning worker's hand or finger, in a rubber fingertip, was accidentally captured.",
+   "description_zh": "谷歌图书书页的喷墨打印，画面里意外留下了扫描工人戴着橡胶指套的手或手指。",
+   "idea_en": "An error in the automated archive is the only trace of the person who made it.",
+   "idea_zh": "自动化档案中的一个错误，是制作它的人唯一留下的痕迹。",
+   "method": "The artist collected scans with visible hands from Google Books and printed them at large scale, an ongoing series.",
+   "method_zh": "艺术家从谷歌图书中收集露出手部的扫描页，并大尺寸打印，这是一个持续进行的系列。",
+   "keywords": [
+    "Google Books",
+    "found images",
+    "scanning",
+    "hands"
+   ],
+   "images": [
+    "https://www.andrewnormanwilson.com/ScanOps_FantasiesOfTheLibrary.jpg",
+    "https://www.andrewnormanwilson.com/scanops1.jpeg"
+   ],
+   "source_url": "https://www.andrewnormanwilson.com/ScanOps.html"
+  },
+  {
+   "id": "nicolas-gourault--unknown-label",
+   "creator_ids": [
+    "nicolas-gourault"
+   ],
+   "title": "Unknown Label",
+   "year": 2023,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "vehicle-drone",
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A video installation in which data annotators in Kenya, Venezuela and the Philippines describe labelling street images for self-driving cars, cities they have never visited.",
+   "description_zh": "一件影像装置：肯尼亚、委内瑞拉和菲律宾的数据标注员讲述他们为自动驾驶汽车标注街景图像的工作，而那些城市他们从未去过。",
+   "idea_en": "A car 'sees' a city through the eyes of workers who have never been there.",
+   "idea_zh": "一辆车“看见”一座城市，靠的是从未去过那里的工人的眼睛。",
+   "method": "Screen recordings of annotation software and remote interviews with the workers are combined into a video installation.",
+   "method_zh": "把标注软件的录屏与对工人的远程访谈组合成一件影像装置。",
+   "keywords": [
+    "data annotation",
+    "self-driving cars",
+    "Global South",
+    "Kenya",
+    "Philippines",
+    "Venezuela"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uXoA9P6eyg8"
+   },
+   "source_url": "https://nicolasgourault.fr/",
+   "collections": [
+    "human-ai-art-award"
+   ],
+   "exhibited": [
+    "Human AI Art Award 2025"
+   ]
+  },
+  {
+   "id": "nicolas-gourault--vo",
+   "creator_ids": [
+    "nicolas-gourault"
+   ],
+   "title": "VO",
+   "year": 2020,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "vehicle-drone",
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A documentary about the safety drivers who train self-driving cars, built around the night in 2018 when an Uber test vehicle killed a pedestrian in Tempe, Arizona, while its operator was being watched by an in-car camera.",
+   "description_zh": "一部关于训练自动驾驶汽车的安全员的纪录片，围绕 2018 年亚利桑那州坦佩的那个夜晚展开：一辆 Uber 测试车撞死了一名行人，而车内摄像头正对着它的操作员。",
+   "idea_en": "In a 'driverless' car the human is both trainer and scapegoat.",
+   "idea_zh": "在“无人驾驶”汽车里，人既是训练者，也是替罪羊。",
+   "method": "Testimonies of vehicle operators over 3D reconstructions of the landscape from the car's lidar and camera data (20 minutes).",
+   "method_zh": "车辆操作员的证词配合由汽车激光雷达和摄像头数据重建的三维场景（20 分钟）。",
+   "keywords": [
+    "Uber",
+    "self-driving car",
+    "safety driver",
+    "lidar",
+    "Tempe"
+   ],
+   "video": {
+    "url": "https://vimeo.com/533987729"
+   },
+   "images": [
+    "http://nicolasgourault.fr/content/1-films/covers/cover_vo.jpg"
+   ],
+   "source_url": "https://nicolasgourault.fr/films/vo"
+  },
+  {
+   "id": "lilly-irani--turkopticon",
+   "creator_ids": [
+    "lilly-irani",
+    "six-silberman"
+   ],
+   "title": "Turkopticon",
+   "year": 2008,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A browser extension and website that lets Amazon Mechanical Turk workers review the requesters who post tasks, flagging those who reject work unfairly or pay badly.",
+   "description_zh": "一个浏览器插件和网站，让亚马逊 Mechanical Turk 工人评价发布任务的雇主，标记那些不公平拒收或报酬过低的人。",
+   "idea_en": "Platforms hide workers from employers; a small tool can flip the view and let workers watch back.",
+   "idea_zh": "平台把工人藏在雇主看不到的地方；一个小工具就能翻转视角，让工人反过来看清雇主。",
+   "method": "A Firefox and Chrome extension adds worker ratings next to requester names on the Turk interface; the CHI 2013 paper describes its design as activism.",
+   "method_zh": "Firefox 和 Chrome 插件在 Turk 界面的雇主名字旁显示工人评分；CHI 2013 论文把它的设计描述为一种行动主义。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "worker organising",
+    "browser extension",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-xr4gXLdpB4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2470654.2470742",
+    "doi": "10.1145/2470654.2470742",
+    "venue": "CHI 2013",
+    "title": "Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk"
+   },
+   "source_url": "https://turkopticon.info/"
+  },
+  {
+   "id": "elisa-giardina-papa--technologies-of-care",
+   "creator_ids": [
+    "elisa-giardina-papa"
+   ],
+   "title": "Technologies of Care",
+   "year": 2016,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "Seven video portraits of online gig workers, among them an ASMR artist, a fetish-video maker, a customer-care operator and a person paid to act as a chatbot-like virtual boyfriend.",
+   "description_zh": "七段网络零工的影像肖像，其中有 ASMR 创作者、恋物视频制作者、客服接线员，以及被雇来扮演类似聊天机器人的“虚拟男友”的人。",
+   "idea_en": "Much 'automated' care and intimacy online is human labour outsourced across the globe.",
+   "idea_zh": "网上很多“自动化”的照护与亲密，其实是外包到全球的人类劳动。",
+   "method": "The artist interviewed workers found through gig platforms and combined their chats and voices with screen graphics; presented in Rhizome's online series The Download.",
+   "method_zh": "艺术家通过零工平台找到这些工人并进行访谈，把他们的聊天与声音和屏幕图形结合；在 Rhizome 的线上栏目“The Download”中发布。",
+   "keywords": [
+    "gig economy",
+    "care work",
+    "virtual boyfriend",
+    "ASMR",
+    "Rhizome"
+   ],
+   "video": {
+    "url": "https://vimeo.com/207163407"
+   },
+   "images": [
+    "https://www.elisagiardinapapa.org/new/img/tehnologies_of_care/EGP_technologies_of_care_rhizome_zip.png"
+   ],
+   "source_url": "http://rhizome.org/editorial/2016/oct/04/the-download-technologies-of-care/"
+  },
+  {
+   "id": "elisa-giardina-papa--cleaning-emotional-data",
+   "creator_ids": [
+    "elisa-giardina-papa"
+   ],
+   "title": "Cleaning Emotional Data",
+   "year": 2020,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A video installation about the artist's own work, from Sicily, as a remote micro-worker for emotion-recognition companies: tagging facial expressions, sorting emotions and recording herself acting them out.",
+   "description_zh": "一件影像装置，关于艺术家本人在西西里为情绪识别公司做远程微劳动的经历：标注面部表情、给情绪分类、录下自己表演这些情绪。",
+   "idea_en": "Emotion AI depends on low-paid workers forcing messy feelings into a few categories.",
+   "idea_zh": "情绪 AI 依赖低薪工人把复杂的感受硬塞进少数几个类别。",
+   "method": "Three HD videos (18 minutes) of screen recordings and footage from the tasks, with embroidered textiles; first shown at Kunsthalle Mulhouse.",
+   "method_zh": "三段高清影像（18 分钟），包括任务录屏与现场画面，配以刺绣织物；首展于米卢斯美术馆。",
+   "keywords": [
+    "emotion recognition",
+    "microwork",
+    "data cleaning",
+    "Sicily",
+    "affective computing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=O8MZo2SMK6o"
+   },
+   "source_url": "https://www.elisagiardinapapa.org/",
+   "exhibited": [
+    "Kunsthalle Mulhouse 2020"
+   ]
+  },
+  {
+   "id": "michael-mandiberg--postmodern-times",
+   "creator_ids": [
+    "michael-mandiberg"
+   ],
+   "title": "Postmodern Times",
+   "year": 2017,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A shot-by-shot remake of Charlie Chaplin's Modern Times, with each short clip outsourced to a different freelancer hired on the gig platform Fiverr.",
+   "description_zh": "对卓别林《摩登时代》的逐镜头翻拍，每个短片段都外包给零工平台 Fiverr 上雇来的不同自由职业者。",
+   "idea_en": "The assembly line has moved online; the gig platform fragments a film the way the factory fragmented work.",
+   "idea_zh": "流水线已经搬到网上；零工平台切碎一部电影，就像工厂切碎劳动。",
+   "method": "Mandiberg split the film into short segments, posted each as a Fiverr job and reassembled the results in order.",
+   "method_zh": "Mandiberg 把影片切成短小片段，每段作为 Fiverr 任务发布，再把成果按顺序拼接回去。",
+   "keywords": [
+    "Fiverr",
+    "Modern Times",
+    "Chaplin",
+    "gig economy",
+    "remake"
+   ],
+   "images": [
+    "http://www.mandiberg.com/wp/wp-content/uploads/PostmodernTimes-stills-2x3ratio-600x400.jpg"
+   ],
+   "source_url": "https://www.mandiberg.com/postmodern-times/"
+  },
+  {
+   "id": "hans-block--the-cleaners",
+   "creator_ids": [
+    "hans-block",
+    "moritz-riesewieck"
+   ],
+   "title": "The Cleaners",
+   "year": 2018,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A documentary about content moderators in Manila who review thousands of violent and abusive images a day for social-media platforms, deciding what stays and what is deleted.",
+   "description_zh": "一部纪录片，关于马尼拉的内容审核员：他们每天为社交媒体平台审看成千上万张暴力和虐待图像，决定哪些留下、哪些删除。",
+   "idea_en": "The clean feed is made by people who absorb the violence so users and algorithms do not.",
+   "idea_zh": "干净的信息流是由一群人造就的：他们替用户和算法承受了暴力。",
+   "method": "Interviews with anonymous moderators, filmed in the Philippines, intercut with former platform policy staff; premiered at Sundance.",
+   "method_zh": "在菲律宾拍摄对匿名审核员的访谈，并与前平台政策人员的采访交叉剪辑；首映于圣丹斯电影节。",
+   "keywords": [
+    "content moderation",
+    "Manila",
+    "Facebook",
+    "Sundance",
+    "trauma"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iGCGhD8i-o4"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/The_Cleaners_(2018_film)",
+   "exhibited": [
+    "Sundance Film Festival 2018"
+   ]
+  },
+  {
+   "id": "adrian-chen--the-moderators",
+   "creator_ids": [
+    "adrian-chen",
+    "ciaran-cassidy"
+   ],
+   "title": "The Moderators",
+   "year": 2017,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A short documentary filmed at a training centre in India where new content moderators learn to screen dating-site photos for nudity and violence.",
+   "description_zh": "一部短纪录片，拍摄于印度的一个培训中心：新入职的内容审核员在这里学习为交友网站筛查裸露和暴力照片。",
+   "idea_en": "Moderation is taught like factory work; the film shows the first days of learning to look at the worst of the internet.",
+   "idea_zh": "内容审核像工厂工作一样被教授；影片呈现了学习直视互联网最黑暗内容的最初几天。",
+   "method": "Observational documentary (20 minutes) produced by Field of Vision.",
+   "method_zh": "由 Field of Vision 出品的观察式纪录短片（20 分钟）。",
+   "keywords": [
+    "content moderation",
+    "India",
+    "Field of Vision",
+    "training"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=k9m0axUDpro"
+   },
+   "images": [
+    "https://cdn.sanity.io/images/8a7mgm6p/production/965c4ecbee18332f10b06f548bfa180a029e3fca-720x406.jpg"
+   ],
+   "source_url": "https://fieldofvision.org/shorts/the-moderators"
+  },
+  {
+   "id": "milagros-miceli--data-workers-inquiry",
+   "creator_ids": [
+    "milagros-miceli"
+   ],
+   "title": "Data Workers' Inquiry",
+   "year": 2024,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A community research project in which data annotators and content moderators in Kenya, Venezuela, Syria, Germany and elsewhere investigate and publish reports, films and zines on their own working conditions.",
+   "description_zh": "一个社区研究项目：肯尼亚、委内瑞拉、叙利亚、德国等地的数据标注员和内容审核员调查自己的工作条件，并发表报告、影片和小志。",
+   "idea_en": "The people who make AI's data are the experts on its costs; the inquiry gives them authorship.",
+   "idea_zh": "为 AI 制造数据的人，才是了解其代价的专家；这项调查让他们成为作者。",
+   "method": "Modelled on Marx's 1880 'workers' inquiry'; run by DAIR and the Weizenbaum Institute with worker co-researchers, published at data-workers.org.",
+   "method_zh": "借鉴马克思 1880 年的“工人调查”；由 DAIR 研究所和魏森鲍姆研究所与工人共同研究者一起开展，成果发布在 data-workers.org。",
+   "keywords": [
+    "data work",
+    "content moderation",
+    "DAIR",
+    "Weizenbaum Institute",
+    "workers' inquiry"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tAMqrXlEPDI"
+   },
+   "source_url": "https://data-workers.org/"
+  },
+  {
+   "id": "lauren-lee-mccarthy--social-turkers",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "Social Turkers",
+   "year": 2013,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "recommender-platform",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "intimacy-care"
+   ],
+   "kind": "performance",
+   "description": "The artist livestreamed her dates to anonymous Mechanical Turk workers, who were paid to watch and text her advice on what to say and do in real time.",
+   "description_zh": "艺术家把自己的约会直播给匿名的 Mechanical Turk 工人，他们被付钱观看，并实时发短信告诉她该说什么、做什么。",
+   "idea_en": "Crowd workers can be hired to make intimate decisions; outsourcing a date shows how far the logic reaches.",
+   "idea_zh": "众包工人可以被雇来做亲密的决定；把约会外包，显示出这种逻辑能延伸到多远。",
+   "method": "A phone streamed video to a web page seen by workers, whose instructions arrived as text messages during the date.",
+   "method_zh": "手机把视频串流到工人可见的网页，工人的指令在约会过程中以短信形式传来。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "dating",
+    "livestream",
+    "crowdsourcing"
+   ],
+   "video": {
+    "url": "https://vimeo.com/66339316"
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/476a1f0ec56e68a379716ffde32b20c370ad4f971631797206b90fb40ac382d4/3-socialturkers_pixelate.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/Social-Turkers"
+  },
+  {
+   "id": "hito-steyerl--hellyeahwefuckdie",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "HellYeahWeFuckDie",
+   "year": 2016,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "labour-extraction",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A video installation of humanoid robots and robot 'mules' being kicked, pushed and made to fall in stability tests, set among sculptures of the five most common words in English song titles of the 2010s.",
+   "description_zh": "一件影像装置：人形机器人和机器人“骡子”在稳定性测试中被踢、被推、被弄倒；周围是用 2010 年代英语歌名中最常见的五个词做成的雕塑。",
+   "idea_en": "Robots are trained to keep their balance through abuse; the footage shows the future worker's body as a test subject.",
+   "idea_zh": "机器人通过被虐待来学会保持平衡；这些画面把未来劳动者的身体呈现为试验品。",
+   "method": "Found robotics-lab test footage edited with computer animation and a soundtrack, installed in a bank building's atrium for Skulptur Projekte Münster 2017.",
+   "method_zh": "对机器人实验室测试录像的再剪辑，结合电脑动画与配乐；于 2017 年明斯特雕塑展中装置在一座银行大楼的中庭里。",
+   "keywords": [
+    "robot testing",
+    "Boston Dynamics",
+    "balance",
+    "Skulptur Projekte Münster"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sWw7CPczmU0"
+   },
+   "source_url": "https://www.skulptur-projekte-archiv.de/en-us/2017/projects/186/",
+   "exhibited": [
+    "Skulptur Projekte Münster 2017"
+   ]
+  },
+  {
+   "id": "hito-steyerl--factory-of-the-sun",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "Factory of the Sun",
+   "year": 2015,
+   "field": "labour",
+   "sub": "automation",
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A video game-like installation in which workers in a motion-capture studio are forced to dance until their movements turn into artificial sunlight, shown in a room gridded like a motion-capture stage.",
+   "description_zh": "一件像电子游戏的影像装置：动作捕捉工作室里的工人被迫不停跳舞，直到他们的动作变成人造阳光；展厅本身布置成动作捕捉棚的网格。",
+   "idea_en": "In digital capitalism, bodily movement is harvested as data and energy.",
+   "idea_zh": "在数字资本主义中，身体的动作被当作数据与能量收割。",
+   "method": "A single-channel video mixing motion-capture footage, game graphics and news-style segments, shown with lounge chairs in a blue grid; first shown in the German Pavilion at the Venice Biennale.",
+   "method_zh": "单屏影像混合动作捕捉画面、游戏图形与新闻式片段，在蓝色网格空间中配躺椅展出；首展于威尼斯双年展德国馆。",
+   "keywords": [
+    "motion capture",
+    "video game",
+    "Venice Biennale",
+    "German Pavilion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ptNczdY-qvo"
+   },
+   "source_url": "https://www.moca.org/exhibition/hito-steyerl-factory-of-the-sun",
+   "exhibited": [
+    "Venice Biennale 2015 (German Pavilion)",
+    "MOCA Los Angeles 2016"
+   ]
+  },
+  {
+   "id": "simon-denny--amazon-worker-cage",
+   "creator_ids": [
+    "simon-denny"
+   ],
+   "title": "Amazon worker cage patent drawing as virtual King Island Brown Thornbill cage",
+   "year": 2019,
+   "field": "labour",
+   "sub": "automation",
+   "machines": [
+    "infrastructure",
+    "robot-arm",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A full-size sculpture of the cage from a 2016 Amazon patent, in which a warehouse worker would ride on a robotic trolley, with an augmented-reality King Island Brown Thornbill, an endangered bird, living inside it.",
+   "description_zh": "按亚马逊 2016 年一项专利制作的等大笼子雕塑：专利中，仓库工人会站在笼中随机器人小车移动；笼子里还有一只通过增强现实出现的金岛棕刺嘴莺，一种濒危鸟类。",
+   "idea_en": "Automation protects machines from workers by caging the workers; the endangered bird ties the cage to the mines and habitats that tech consumes.",
+   "idea_zh": "自动化用笼子关住工人来“保护”机器；濒危的鸟又把这只笼子与科技所消耗的矿山和栖息地连在一起。",
+   "method": "Steel fabrication from patent drawings plus an AR app, shown in Denny's exhibition 'Mine' at MONA, Tasmania, which paired tech patents with mining.",
+   "method_zh": "依据专利图纸制作的钢结构，配以增强现实应用；在塔斯马尼亚 MONA 的 Denny 个展“Mine”中展出，该展把科技专利与采矿并置。",
+   "keywords": [
+    "Amazon",
+    "patent",
+    "warehouse",
+    "augmented reality",
+    "MONA",
+    "Mine"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RfXIGGuyKdE"
+   },
+   "source_url": "https://simondenny.net/",
+   "exhibited": [
+    "Mine, MONA, Hobart 2019"
+   ]
+  },
+  {
+   "id": "paul-vanouse--labor",
+   "creator_ids": [
+    "paul-vanouse"
+   ],
+   "title": "Labor",
+   "year": 2019,
+   "field": "labour",
+   "sub": "automation",
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Three glass bioreactors grow the skin bacteria that produce the smell of human sweat; the scent infuses a white T-shirt, so the room smells of hard work with no workers present.",
+   "description_zh": "三个玻璃生物反应器培养产生人体汗味的皮肤细菌；气味渗入一件白色 T 恤，让房间里充满劳作的气味，却没有一个劳动者。",
+   "idea_en": "As production shifts from human and machine labour to microbes, work leaves only a smell.",
+   "idea_zh": "当生产从人和机器的劳动转向微生物，劳动只留下一股气味。",
+   "method": "Self-regulating bioreactors culture Staphylococcus epidermidis, Corynebacterium xerosis and Propionibacterium avidum on sugars and fats, with sensors and pumps; awarded the Golden Nica in Artificial Life & Intelligence.",
+   "method_zh": "自我调节的生物反应器以糖和脂肪培养表皮葡萄球菌、干燥棒状杆菌和贪婪丙酸杆菌，配有传感器与泵；获林茨电子艺术节“人工生命与智能”金尼卡奖。",
+   "keywords": [
+    "bioreactor",
+    "sweat",
+    "microbial manufacturing",
+    "Ars Electronica",
+    "Golden Nica"
+   ],
+   "video": {
+    "url": "https://vimeo.com/372389451"
+   },
+   "images": [
+    "https://www.paulvanouse.com/labor-install-BN-1.jpg",
+    "https://www.paulvanouse.com/labor-reactor-1.jpg"
+   ],
+   "source_url": "https://www.paulvanouse.com/labor.html",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2020, Golden Nica"
+   ]
+  },
+  {
+   "id": "alex-rivera--sleep-dealer",
+   "creator_ids": [
+    "alex-rivera"
+   ],
+   "title": "Sleep Dealer",
+   "year": 2008,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "robot-arm",
+    "prosthesis-cyborg",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "A science-fiction feature set on a closed US–Mexico border: Mexican workers plug nodes in their bodies into a network to remotely operate robots that build skyscrapers in the US, while drones police the water supply.",
+   "description_zh": "一部科幻长片，设定在关闭的美墨边境：墨西哥工人用身上的接口接入网络，远程操控在美国建造摩天大楼的机器人，而无人机则在守卫水源。",
+   "idea_en": "The border can let labour through while keeping the labourer out; teleoperation is migration without the migrant.",
+   "idea_zh": "边境可以放行劳动、却挡住劳动者；远程操控是一种没有移民的移民。",
+   "method": "Feature film shot in Mexico; premiered at Sundance, where it won the Alfred P. Sloan Prize for science and technology.",
+   "method_zh": "在墨西哥拍摄的长片；首映于圣丹斯电影节，获得表彰科技题材的阿尔弗雷德·斯隆奖。",
+   "keywords": [
+    "teleoperation",
+    "US–Mexico border",
+    "science fiction",
+    "drones",
+    "Sundance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fTZv6oxa2KI"
+   },
+   "images": [
+    "https://dr56wvhu2c8zo.cloudfront.net/sleepdealer/assets/a88a594b-804c-4ee3-affa-62d65ac839ec/construction+bots.jpg"
+   ],
+   "source_url": "https://www.sleepdealer.com/",
+   "exhibited": [
+    "Sundance Film Festival 2008 (Alfred P. Sloan Prize)"
+   ]
+  },
+  {
+   "id": "kate-crawford--anatomy-of-an-ai-system",
+   "creator_ids": [
+    "kate-crawford",
+    "vladan-joler"
+   ],
+   "title": "Anatomy of an AI System",
+   "year": 2018,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure",
+    "voice-listening",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A large map and essay tracing everything needed for one voice command to an Amazon Echo: the mining of lithium and rare earths, the labour of assembly and data work, the cloud, and the device's disposal as e-waste.",
+   "description_zh": "一张大型地图和一篇长文，追踪向亚马逊 Echo 说出一句指令所需的一切：锂和稀土的开采、组装与数据劳动、云端，以及设备最终成为电子垃圾。",
+   "idea_en": "A small device on the kitchen counter sits at the tip of a planetary chain of extraction, labour and data.",
+   "idea_zh": "厨房台面上的小小设备，处在一条星球级的攫取、劳动与数据链条的末端。",
+   "method": "Research-based diagram drawn by Joler from supply-chain, corporate and labour sources; acquired by MoMA and the V&A and awarded Beazley Design of the Year 2019 (Digital).",
+   "method_zh": "由 Joler 依据供应链、企业与劳动资料绘制的研究型图解；被纽约现代艺术博物馆和维多利亚与艾伯特博物馆收藏，并获 2019 年 Beazley 年度设计奖（数字类）。",
+   "keywords": [
+    "Amazon Echo",
+    "Alexa",
+    "supply chain",
+    "lithium",
+    "e-waste",
+    "MoMA",
+    "V&A"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wRt5H1Pi-BY"
+   },
+   "images": [
+    "http://www.anatomyof.ai/ai-system-facebook-og.jpg"
+   ],
+   "source_url": "https://anatomyof.ai/",
+   "exhibited": [
+    "Beazley Designs of the Year 2019",
+    "MoMA collection",
+    "V&A collection"
+   ]
+  },
+  {
+   "id": "kate-crawford--calculating-empires",
+   "creator_ids": [
+    "kate-crawford",
+    "vladan-joler"
+   ],
+   "title": "Calculating Empires: A Genealogy of Technology and Power since 1500",
+   "year": 2023,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "infrastructure",
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A 24-metre visual genealogy that sets five centuries of communication, computation, classification and control technologies side by side, ending with present-day AI.",
+   "description_zh": "一幅 24 米长的视觉谱系图，把五个世纪以来的通信、计算、分类和控制技术并列呈现，一直延伸到当下的 AI。",
+   "idea_en": "Today's AI inherits old structures of empire; placing it on a 500-year timeline breaks the story of sudden novelty.",
+   "idea_zh": "今天的 AI 继承了古老的帝国结构；把它放进 500 年的时间线，打破了“横空出世”的叙事。",
+   "method": "Hand-drawn research maps and a large room installation, first shown at Fondazione Prada's Osservatorio in Milan; Grand Prize of the S+T+ARTS Prize 2024.",
+   "method_zh": "手绘研究地图与大型空间装置，首展于米兰普拉达基金会 Osservatorio；获 2024 年 S+T+ARTS 大奖。",
+   "keywords": [
+    "genealogy",
+    "empire",
+    "diagram",
+    "Fondazione Prada",
+    "S+T+ARTS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DYS8b9J7Fto"
+   },
+   "images": [
+    "https://calculatingempires.net/content/calculating-empires-og.png"
+   ],
+   "source_url": "https://calculatingempires.net/",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "Fondazione Prada Osservatorio, Milan 2023",
+    "S+T+ARTS Prize 2024 Grand Prize"
+   ]
+  },
+  {
+   "id": "vladan-joler--facebook-algorithmic-factory",
+   "creator_ids": [
+    "vladan-joler"
+   ],
+   "title": "Facebook Algorithmic Factory",
+   "year": 2016,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A series of forensic maps from SHARE Lab that trace how Facebook collects users' activity as raw material and processes it, through algorithms, into advertising targets.",
+   "description_zh": "SHARE 实验室的一组取证式地图，追踪 Facebook 如何把用户活动当作原材料收集，并通过算法把它加工成广告投放目标。",
+   "idea_en": "Users are unpaid workers in a factory whose machines are algorithms.",
+   "idea_zh": "用户是一座工厂里的无偿工人，而这座工厂的机器是算法。",
+   "method": "Joler and Andrej Petrovski mapped patents, permissions and tracking from public documents into large diagrams, published in three parts.",
+   "method_zh": "Joler 与 Andrej Petrovski 依据公开文件，把专利、权限与追踪整理成大型图解，分三部分发布。",
+   "keywords": [
+    "Facebook",
+    "immaterial labour",
+    "SHARE Lab",
+    "data harvesting",
+    "Andrej Petrovski"
+   ],
+   "images": [
+    "https://labs.rs/wp-content/uploads/2016/08/FacebookFactory-small.gif",
+    "https://labs.rs/wp-content/uploads/2016/08/FB-Research-Final-01.png"
+   ],
+   "source_url": "https://labs.rs/en/facebook-algorithmic-factory-immaterial-labour-and-data-harvesting/"
+  },
+  {
+   "id": "vladan-joler--new-extractivism",
+   "creator_ids": [
+    "vladan-joler"
+   ],
+   "title": "New Extractivism",
+   "year": 2020,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "recommender-platform",
+    "infrastructure",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "An interactive assemblage of maps and a video in which a single figure moves through a vast diagram of the digital economy: platforms, data, labour, energy and the 'cage' of attention.",
+   "description_zh": "由地图和影像组成的互动装置：一个人物在一张庞大的数字经济图解中穿行——平台、数据、劳动、能源，以及注意力的“牢笼”。",
+   "idea_en": "Platform capitalism extracts not only minerals but attention, behaviour and time.",
+   "idea_zh": "平台资本主义攫取的不只是矿物，还有注意力、行为与时间。",
+   "method": "A navigable web diagram and a 17-minute animated video narrated by the artist.",
+   "method_zh": "一张可浏览的网页图解，以及一段由艺术家旁白的 17 分钟动画影像。",
+   "keywords": [
+    "extractivism",
+    "platform capitalism",
+    "diagram",
+    "attention economy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JkUi3e7GVXs"
+   },
+   "images": [
+    "https://extractivism.online/Soc-media-fb.png"
+   ],
+   "source_url": "https://extractivism.online/"
+  },
+  {
+   "id": "joana-moll--co2gle",
+   "creator_ids": [
+    "joana-moll"
+   ],
+   "title": "CO2GLE",
+   "year": 2014,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A web page that shows, in real time, the kilograms of CO2 emitted by the global traffic to google.com since you opened it.",
+   "description_zh": "一个网页，实时显示自你打开它以来，全球访问 google.com 的流量所排放的二氧化碳公斤数。",
+   "idea_en": "Every search has a physical cost; the cloud burns fuel.",
+   "idea_zh": "每次搜索都有物理代价；“云”在燃烧燃料。",
+   "method": "An estimate from Google's traffic per second, average page weight and the energy intensity of data transfer, updated live.",
+   "method_zh": "根据谷歌每秒流量、平均页面大小以及数据传输的能耗强度进行估算，并实时更新。",
+   "keywords": [
+    "carbon footprint",
+    "Google",
+    "energy",
+    "data centres"
+   ],
+   "images": [
+    "https://www.janavirgin.com/img/works/CO2GLE.jpg"
+   ],
+   "source_url": "https://www.janavirgin.com/CO2/"
+  },
+  {
+   "id": "joana-moll--the-hidden-life-of-an-amazon-user",
+   "creator_ids": [
+    "joana-moll"
+   ],
+   "title": "The Hidden Life of an Amazon User",
+   "year": 2019,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "infrastructure",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "The artist bought one book on Amazon and recorded every piece of code the site loaded in the process: nearly 8,700 pages of JavaScript and 87 MB of data, printed out as a book.",
+   "description_zh": "艺术家在亚马逊买了一本书，并记录下购买过程中网站加载的所有代码：近 8700 页 JavaScript、87 MB 数据，被打印成一本书。",
+   "idea_en": "A single purchase triggers an invisible mass of tracking code that the buyer pays for in energy and attention.",
+   "idea_zh": "一次购买会触发大量看不见的追踪代码，买家要用能源和注意力为它买单。",
+   "method": "Browser traffic was captured during the purchase of Jeff Bezos's favourite book and presented as a website, printed volumes and a video.",
+   "method_zh": "在购买杰夫·贝索斯最喜欢的一本书的过程中抓取浏览器流量，并以网站、打印书册和影像呈现。",
+   "keywords": [
+    "Amazon",
+    "JavaScript",
+    "tracking",
+    "energy",
+    "Jeff Bezos"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2iiAHyhLH-Y"
+   },
+   "images": [
+    "https://www.janavirgin.com/img/works/hidden_life_2.jpg"
+   ],
+   "source_url": "https://www.janavirgin.com/works.html"
+  },
+  {
+   "id": "joana-moll--carbolytics",
+   "creator_ids": [
+    "joana-moll"
+   ],
+   "title": "Carbolytics",
+   "year": 2022,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "An installation and database that estimate the carbon emissions of the tracking cookies loaded by the world's top one million websites.",
+   "description_zh": "一件装置和数据库，估算全球访问量前一百万个网站所加载的追踪 Cookie 的碳排放。",
+   "idea_en": "Surveillance advertising has a climate cost; tracking burns carbon.",
+   "idea_zh": "监控式广告有气候代价；追踪在燃烧碳。",
+   "method": "Made with the Barcelona Supercomputing Center, which crawled the sites and counted third-party cookies; commissioned by Aksioma, Ljubljana.",
+   "method_zh": "与巴塞罗那超级计算中心合作，爬取网站并统计第三方 Cookie；由卢布尔雅那 Aksioma 委托。",
+   "keywords": [
+    "cookies",
+    "tracking",
+    "carbon",
+    "Barcelona Supercomputing Center",
+    "Aksioma"
+   ],
+   "images": [
+    "https://www.janavirgin.com/img/works/carbolytics.jpg"
+   ],
+   "source_url": "https://carbolytics.org/",
+   "exhibited": [
+    "Aksioma, Ljubljana 2022"
+   ]
+  },
+  {
+   "id": "tega-brain--asunder",
+   "creator_ids": [
+    "tega-brain",
+    "julian-oliver"
+   ],
+   "title": "Asunder",
+   "year": 2019,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "infrastructure",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A 'responsible environmental manager' that uses a supercomputer to propose changes to real places, from rerouting rivers to removing cities, to keep within planetary boundaries.",
+   "description_zh": "一个“负责任的环境管理者”：用超级计算机为真实地点提出改造方案，从改道河流到拆除城市，以求守住地球边界。",
+   "idea_en": "Handing the planet to an optimiser exposes the absurdity and violence of treating nature as a solvable system.",
+   "idea_zh": "把地球交给优化器，暴露出把自然当作可解系统的荒诞与暴力。",
+   "method": "With Julian Oliver and Bengt Sjölén: climate and satellite data, a climate model and generative imagery run on a supercomputer housed in the installation.",
+   "method_zh": "与 Julian Oliver、Bengt Sjölén 合作：气候与卫星数据、气候模型与生成图像在装置内的超级计算机上运行。",
+   "keywords": [
+    "geoengineering",
+    "supercomputer",
+    "climate model",
+    "Bengt Sjölén",
+    "transmediale"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=emzSsmAIw6E"
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/835c9c2bdc2cd1da05e6ecb94d7044429d0a1b75bbadc823cca41319417a7e27/ASUNDER_LIUC_Transmediale2020_0155.jpg"
+   ],
+   "source_url": "https://tegabrain.com/Asunder",
+   "exhibited": [
+    "transmediale 2020"
+   ]
+  },
+  {
+   "id": "tega-brain--solar-protocol",
+   "creator_ids": [
+    "tega-brain"
+   ],
+   "title": "Solar Protocol",
+   "year": 2021,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A web platform hosted on a network of small solar-powered servers around the world; each visitor is routed to whichever server currently has the most sunlight.",
+   "description_zh": "一个托管在全球小型太阳能服务器网络上的网站平台；每位访客都会被引导到当下阳光最充足的那台服务器。",
+   "idea_en": "Let the sun, not engagement metrics, decide how the network behaves.",
+   "idea_zh": "让太阳而不是参与度指标来决定网络如何运行。",
+   "method": "With Alex Nathanson and Benedetta Piantella: volunteer-run Raspberry Pi servers with solar panels and batteries share an energy-aware routing protocol.",
+   "method_zh": "与 Alex Nathanson 和 Benedetta Piantella 合作：由志愿者运营、配备太阳能板和电池的树莓派服务器，共享一套感知能源的路由协议。",
+   "keywords": [
+    "solar power",
+    "server",
+    "routing",
+    "network",
+    "Alex Nathanson",
+    "Benedetta Piantella"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mMYzM4_MZI4"
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/d262f69efa5d13bc78dbc4a2eb1c351792a4dd175524e0e3aa3d26c96f5a1cd1/Solar-Protocol-2021-NetworkVisualization.jpg"
+   ],
+   "source_url": "https://solarprotocol.net/"
+  },
+  {
+   "id": "mimi-onuoha--these-networks-in-our-skin",
+   "creator_ids": [
+    "mimi-onuoha"
+   ],
+   "title": "These Networks In Our Skin",
+   "year": 2023,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "A short film in which four women, their faces hidden, rewire internet cables by filling them with hair, spices and dust, drawing on the Igbo tradition of making art for Ala, goddess of the land.",
+   "description_zh": "一部短片：四位不露面孔的女性重新布线网络电缆，把头发、香料和尘土填入其中；灵感来自伊博族为大地女神阿拉制作艺术的传统。",
+   "idea_en": "Cables are buried in the land, so they fall under the land's cosmology; repair can replace extraction.",
+   "idea_zh": "电缆埋在土地里，因此也属于土地的宇宙观；修补可以取代攫取。",
+   "method": "Single-channel video (5:48, looped), usually shown with the installation The Cloth In The Cable, 75 feet of cable laced with hair, cloth and earth.",
+   "method_zh": "单屏循环影像（5 分 48 秒），通常与装置《The Cloth In The Cable》一同展出：75 英尺长、缠有头发、布料和泥土的电缆。",
+   "keywords": [
+    "Igbo cosmology",
+    "Ala",
+    "internet cables",
+    "ritual",
+    "repair"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/d584cb19-ac49-4d5d-abbf-538298ac4bf9/02_TNIOS_videostill_courtesyoftheartist.png",
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/ef67d256-5d9b-4d55-aa6a-1eca116a782d/01_TNIOS%2BCITC_courtesyofGropiusBau.jpg"
+   ],
+   "source_url": "https://www.mimionuoha.com/"
+  },
+  {
+   "id": "mimi-onuoha--the-future-is-here",
+   "creator_ids": [
+    "mimi-onuoha"
+   ],
+   "title": "The Future Is Here!",
+   "year": 2019,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "The artist asked data-annotation workers on crowdwork platforms to send photos of the places where they work, and shows them beside comic-style drawings of the same rooms.",
+   "description_zh": "艺术家请众包平台上的数据标注工人发来他们工作场所的照片，并把照片与同一房间的漫画风格插画并置。",
+   "idea_en": "Machine learning begins in people's homes, not in the lab.",
+   "idea_zh": "机器学习始于人们的家里，而不是实验室。",
+   "method": "Photos commissioned through annotation platforms and stylised redrawings are shown in a custom web application or as a 23-minute video.",
+   "method_zh": "通过标注平台委托拍摄的照片与风格化重绘图，以定制网页应用或 23 分钟影像的形式呈现。",
+   "keywords": [
+    "data annotation",
+    "crowdwork",
+    "home office",
+    "The Photographers' Gallery"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/fd12a4b4-0d20-4acc-aa47-ecd4a143f704/00_FutureIsHere_installationshot_courtesy-of-The-Photographers-Gallery.jpg",
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/f51899dd-1e4d-4268-9b64-72b386b49b49/01_FutureIsHere_installationshot_courtesy-of-The-Photographers-Gallery.jpg"
+   ],
+   "source_url": "https://www.mimionuoha.com/",
+   "exhibited": [
+    "The Photographers' Gallery, London 2019"
+   ]
+  },
+  {
+   "id": "caroline-sinders--trk",
+   "creator_ids": [
+    "caroline-sinders"
+   ],
+   "title": "TRK (Technically Responsible Knowledge)",
+   "year": 2020,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "An open-source data-labelling tool combined with a wage calculator that shows how long each labelling task takes and what a fair price for it would be.",
+   "description_zh": "一个开源数据标注工具，附带工资计算器，显示每个标注任务要花多久、合理报酬应是多少。",
+   "idea_en": "The unit price of a label hides the hours behind it; making the time visible makes fair pay arguable.",
+   "idea_zh": "每个标签的单价掩盖了背后的工时；让时间可见，才能为公平报酬据理力争。",
+   "method": "A web tool built as part of Feminist Data Set, with a calculator comparing piece rates to minimum wages.",
+   "method_zh": "作为《Feminist Data Set》的一部分开发的网页工具，计算器把计件价格与最低工资相比较。",
+   "keywords": [
+    "data labelling",
+    "wage calculator",
+    "open source",
+    "Feminist Data Set"
+   ],
+   "images": [
+    "https://carolinesinders.com/wp-content/uploads/2020/05/trk-calculator-1024x1024.gif",
+    "https://carolinesinders.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-16-at-4.30.02-PM-1024x546.png"
+   ],
+   "source_url": "https://carolinesinders.com/trk/"
+  },
+  {
+   "id": "unknown-fields-division--rare-earthenware",
+   "creator_ids": [
+    "unknown-fields-division"
+   ],
+   "title": "Rare Earthenware",
+   "year": 2015,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "Three ceramic vases, each shaped in the proportions of rare-earth elements used in a smartphone, a laptop and a car battery, made from the toxic mud of a tailings lake in Baotou, Inner Mongolia.",
+   "description_zh": "三只陶瓷花瓶，形状分别按智能手机、笔记本电脑和汽车电池中所用稀土元素的比例设计，材料是内蒙古包头尾矿湖的有毒泥浆。",
+   "idea_en": "The glow of a screen begins as radioactive waste on the other side of the world.",
+   "idea_zh": "屏幕的光亮始于世界另一端的放射性废料。",
+   "method": "The studio traced the supply chain from a Chinese port back to Baotou's refineries, collected the waste mud and fired it into Ming-style vases; a film by Toby Smith documents the journey.",
+   "method_zh": "工作室沿供应链从中国港口追溯到包头的冶炼厂，采集废泥并烧制成明式花瓶；Toby Smith 拍摄的影片记录了这段旅程。",
+   "keywords": [
+    "rare earths",
+    "Baotou",
+    "ceramics",
+    "supply chain",
+    "Liam Young",
+    "Kate Davies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YMKJ7S7fKOk"
+   },
+   "source_url": "http://www.unknownfieldsdivision.com/",
+   "exhibited": [
+    "V&A, London"
+   ]
+  },
+  {
+   "id": "tabita-rezaire--deep-down-tidal",
+   "creator_ids": [
+    "tabita-rezaire"
+   ],
+   "title": "Deep Down Tidal",
+   "year": 2017,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "A video essay that follows submarine internet cables along the routes of the transatlantic slave trade and colonial shipping, weaving in water cosmologies.",
+   "description_zh": "一部影像散文，追踪海底互联网光缆，它们沿着跨大西洋奴隶贸易和殖民航运的航线铺设；片中穿插关于水的宇宙观。",
+   "idea_en": "The internet's physical routes repeat colonial ones; connectivity carries old power.",
+   "idea_zh": "互联网的物理线路重复着殖民航线；连接本身携带着旧的权力。",
+   "method": "Desktop-style collage of maps, archival images, animations and the artist's narration (about 18 minutes).",
+   "method_zh": "以桌面界面风格拼贴地图、档案图像、动画和艺术家旁白（约 18 分钟）。",
+   "keywords": [
+    "submarine cables",
+    "colonialism",
+    "slave trade",
+    "water",
+    "video essay"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V9EIywuH-LM"
+   },
+   "images": [
+    "https://goodman-gallery.com/api/v1/og-image?src=https%3A%2F%2Fd32637ifygiesu.cloudfront.net%2Fartists%2Ftabita-rezaire%2Fdeep-down-tidal-118702%2Ftabita-rezaire-deep-down-tidal-118702-39813-front-1.jpg"
+   ],
+   "source_url": "https://goodman-gallery.com/artists/tabita-rezaire/deep-down-tidal-118702"
+  },
+  {
+   "id": "timo-arnall--internet-machine",
+   "creator_ids": [
+    "timo-arnall"
+   ],
+   "title": "Internet Machine",
+   "year": 2014,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A multi-screen film shot inside one of the largest data centres in Europe, Telefónica's in Alcalá de Henares, showing the cooling, power and security machinery of 'the cloud'.",
+   "description_zh": "一部多屏影像，拍摄于欧洲最大的数据中心之一——西班牙电信位于阿尔卡拉-德埃纳雷斯的数据中心，呈现“云”背后的冷却、电力与安保机器。",
+   "idea_en": "The cloud is a building full of loud machines, diesel generators and guards.",
+   "idea_zh": "云是一座满是轰鸣机器、柴油发电机和保安的建筑。",
+   "method": "Slow tracking shots and wide-format photography projected across three screens; shown at transmediale.",
+   "method_zh": "缓慢的移动镜头和宽幅摄影，投射在三块屏幕上；曾在 transmediale 展出。",
+   "keywords": [
+    "data centre",
+    "Telefónica",
+    "cloud",
+    "cooling",
+    "transmediale"
+   ],
+   "video": {
+    "url": "https://vimeo.com/95044197"
+   },
+   "images": [
+    "https://www.elasticspace.com/images/internet-machine/Internet-Machine-Transmediale-2-small-1024x683.jpg",
+    "https://www.elasticspace.com/images/internet-machine/InternetMachine14-web.jpg"
+   ],
+   "source_url": "https://www.elasticspace.com/2014/05/internet-machine/",
+   "exhibited": [
+    "transmediale"
+   ]
+  },
+  {
+   "id": "james-bridle--dronestagram",
+   "creator_ids": [
+    "james-bridle"
+   ],
+   "title": "Dronestagram",
+   "year": 2012,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "For every US drone strike reported in Pakistan, Yemen and Somalia, an Instagram and Twitter account posted a satellite image of the location.",
+   "description_zh": "每当美国在巴基斯坦、也门和索马里的无人机空袭被报道，一个 Instagram 和推特账号就会发布该地点的卫星图像。",
+   "idea_en": "Remote war happens in places we never see; the aerial view shared in a feed makes it briefly visible.",
+   "idea_zh": "远程战争发生在我们从未见过的地方；在信息流中分享的俯瞰图让它短暂地被看见。",
+   "method": "Strike reports from the Bureau of Investigative Journalism were matched to Google Maps satellite views and posted with a short caption.",
+   "method_zh": "把调查新闻局的空袭报告与谷歌地图卫星视图匹配，并配以简短说明发布。",
+   "keywords": [
+    "drone strikes",
+    "Instagram",
+    "satellite imagery",
+    "Bureau of Investigative Journalism"
+   ],
+   "images": [
+    "https://jamesbridle.com/media/pages/works/dronestagram/7174ad984b-1680515147/100_dronestagram.jpg"
+   ],
+   "source_url": "https://jamesbridle.com/works/dronestagram"
+  },
+  {
+   "id": "james-bridle--drone-shadows",
+   "creator_ids": [
+    "james-bridle"
+   ],
+   "title": "Drone Shadows",
+   "year": 2012,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Full-size outlines of military drones such as the MQ-1 Predator, drawn in white line on streets and squares as if their shadows had fallen in the city.",
+   "description_zh": "用白线在街道和广场上画出 MQ-1“捕食者”等军用无人机的等大轮廓，仿佛它们的影子落在了城市里。",
+   "idea_en": "The scale of a remote weapon becomes real when its shadow crosses familiar ground.",
+   "idea_zh": "当远程武器的影子落在熟悉的地面上，它的尺度才变得真实。",
+   "method": "Chalk or road-marking paint outlines at 1:1 scale, drawn in Istanbul, London, Brighton, Washington D.C. and other cities.",
+   "method_zh": "以 1:1 比例用粉笔或道路标线漆绘制轮廓，画在伊斯坦布尔、伦敦、布莱顿、华盛顿等城市。",
+   "keywords": [
+    "MQ-1 Predator",
+    "public space",
+    "chalk drawing",
+    "drone warfare"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CT5iqTisnTc"
+   },
+   "source_url": "https://jamesbridle.com/",
+   "exhibited": [
+    "Design and Violence, Science Gallery Dublin"
+   ]
+  },
+  {
+   "id": "harun-farocki--serious-games",
+   "creator_ids": [
+    "harun-farocki"
+   ],
+   "title": "Serious Games I–IV",
+   "year": 2009,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "A four-part video installation on how the US military uses computer simulations to train soldiers for Iraq and Afghanistan and, afterwards, to treat their post-traumatic stress.",
+   "description_zh": "一组四部分的影像装置，呈现美军如何用计算机模拟训练士兵奔赴伊拉克和阿富汗，又在归来后用它治疗创伤后应激障碍。",
+   "idea_en": "The same simulated image prepares the soldier for war and treats the trauma it causes; in the game, war has no shadows.",
+   "idea_zh": "同一幅模拟图像既让士兵为战争做好准备，又治疗战争造成的创伤；在游戏里，战争没有阴影。",
+   "method": "Filmed at US Marine Corps training sites and at the Institute for Creative Technologies (USC), comparing training and therapy software; parts made 2009–10.",
+   "method_zh": "在美国海军陆战队训练场和南加州大学创意技术研究所拍摄，对比训练软件与治疗软件；各部分制作于 2009–2010 年。",
+   "keywords": [
+    "military simulation",
+    "PTSD",
+    "virtual reality",
+    "Institute for Creative Technologies",
+    "operational images"
+   ],
+   "images": [
+    "https://www.harunfarocki.de/fileadmin/_processed_/c/1/csm_harun-farocki-imersion_0275cdcf89.jpg"
+   ],
+   "source_url": "https://www.harunfarocki.de/installations/2000s/2009/serious-games-iii-immersion.html"
+  },
+  {
+   "id": "forensic-architecture--drone-strikes",
+   "creator_ids": [
+    "forensic-architecture"
+   ],
+   "title": "Drone Strikes: Investigating Covert Operations",
+   "year": 2013,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "Investigations into US drone strikes in Pakistan, Yemen, Gaza and Afghanistan for a UN special rapporteur, including a strike on a house in Miranshah reconstructed from a single survivor's video.",
+   "description_zh": "为联合国特别报告员开展的针对美国在巴基斯坦、也门、加沙和阿富汗无人机空袭的调查，其中包括根据一位幸存者拍下的一段视频重建的米兰沙一栋房屋遇袭事件。",
+   "idea_en": "Drone strikes leave holes smaller than satellite pixels; architecture can make the invisible strike evidential.",
+   "idea_zh": "无人机空袭留下的弹孔比卫星像素还小；建筑学分析能让看不见的空袭成为证据。",
+   "method": "Spatial analysis of video frames, satellite images and witness testimony, modelled in 3D to locate strikes and their victims.",
+   "method_zh": "对视频画面、卫星图像和证人证词进行空间分析，并用三维建模确定空袭位置与受害者。",
+   "keywords": [
+    "drone strikes",
+    "Miranshah",
+    "Pakistan",
+    "UN",
+    "3D reconstruction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CbzVrH6Utjw"
+   },
+   "source_url": "https://forensic-architecture.org/investigation/drone-strikes-investigating-covert-operations-through-spatial-and-media-analysis"
+  },
+  {
+   "id": "notabugsplat--notabugsplat",
+   "creator_ids": [
+    "notabugsplat"
+   ],
+   "title": "#NotABugSplat",
+   "year": 2014,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A giant portrait of a child who lost family members in a drone strike, laid out in a field in Khyber Pakhtunkhwa, Pakistan, large enough to be seen by drone cameras above.",
+   "description_zh": "一幅在无人机空袭中失去亲人的孩子的巨幅肖像，铺在巴基斯坦开伯尔-普赫图赫瓦省的田野上，大到足以被上空的无人机镜头看见。",
+   "idea_en": "'Bug splat' was operators' slang for a human killed by a strike; the portrait speaks back through the drone's own eye.",
+   "idea_zh": "“虫子溅痕”是操作员对被炸死者的俚语；这幅肖像通过无人机自己的“眼睛”回话。",
+   "method": "A vinyl print laid on the ground with local residents' help, inspired by the artist JR's Inside Out project, and documented by aerial photography.",
+   "method_zh": "在当地居民帮助下铺在地面的乙烯基印刷画，受艺术家 JR 的“Inside Out”项目启发，并以航拍记录。",
+   "keywords": [
+    "drone warfare",
+    "bug splat",
+    "Pakistan",
+    "JR",
+    "Inside Out"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ts5qn6UV5wE"
+   },
+   "images": [
+    "https://notabugsplat.com/wp-content/uploads/2014/04/jr_kpk_full.jpg"
+   ],
+   "source_url": "https://notabugsplat.com/"
+  },
+  {
+   "id": "ruben-pater--drone-survival-guide",
+   "creator_ids": [
+    "ruben-pater"
+   ],
+   "title": "Drone Survival Guide",
+   "year": 2013,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A poster in the style of a bird-spotting guide that shows the silhouettes of military and civilian drones, with tips on hiding from them, translated into languages including Pashto and Urdu.",
+   "description_zh": "一张仿照观鸟图鉴设计的海报，展示军用与民用无人机的剪影，并附有躲避它们的方法，被译成普什图语、乌尔都语等多种语言。",
+   "idea_en": "In a world of drones, people need a field guide to the machines that watch them.",
+   "idea_zh": "在无人机遍布的世界里，人们需要一本辨认监视他们的机器的野外图鉴。",
+   "method": "Printed on a reflective sheet meant to help hide from infrared cameras, and distributed free online and in print.",
+   "method_zh": "印在旨在帮助躲避红外摄像机的反光材料上，并在网上和纸本免费发放。",
+   "keywords": [
+    "drone spotting",
+    "field guide",
+    "Pashto",
+    "Urdu",
+    "graphic design"
+   ],
+   "images": [
+    "http://www.dronesurvivalguide.org/dsg.jpg",
+    "http://www.dronesurvivalguide.org/photo3.jpg"
+   ],
+   "source_url": "http://www.dronesurvivalguide.org/"
+  },
+  {
+   "id": "tomas-van-houtryve--blue-sky-days",
+   "creator_ids": [
+    "tomas-van-houtryve"
+   ],
+   "title": "Blue Sky Days",
+   "year": 2014,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "Aerial photographs of weddings, funerals, schools and prayer gatherings in the United States, taken with a small camera drone, echoing the kinds of gatherings struck by US drones abroad.",
+   "description_zh": "用小型航拍无人机在美国拍摄的婚礼、葬礼、学校和祈祷集会照片，呼应美国无人机在海外空袭过的那类聚会。",
+   "idea_en": "Seeing your own daily life from the drone's angle makes remote war's gaze recognisable.",
+   "idea_zh": "从无人机的角度看自己的日常生活，远程战争的凝视就变得可以辨认。",
+   "method": "Photographed with a consumer quadcopter over US towns; the title refers to the Pakistani boy Zubair Rehman, who told the US Congress in 2013 that he now preferred grey skies, because drones do not fly then.",
+   "method_zh": "用消费级四旋翼无人机在美国城镇上空拍摄；标题呼应巴基斯坦男孩 Zubair Rehman 2013 年在美国国会的证词：他现在更喜欢灰色的天空，因为那时无人机不会起飞。",
+   "keywords": [
+    "drone photography",
+    "surveillance",
+    "Harper's",
+    "Zubair Rehman"
+   ],
+   "video": {
+    "url": "https://vimeo.com/128202299"
+   },
+   "images": [
+    "https://i2.wp.com/tomasvh.com/wp-content/uploads/2013/03/works_prev_blue_sky_days.jpg?fit=1500%2C1500&ssl=1"
+   ],
+   "source_url": "https://tomasvh.com/works/blue-sky-days/",
+   "exhibited": [
+    "ICP Infinity Award 2015 (Photojournalism)"
+   ]
+  },
+  {
+   "id": "josh-begley--metadata",
+   "creator_ids": [
+    "josh-begley"
+   ],
+   "title": "Metadata+",
+   "year": 2012,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "prototype",
+   "description": "An iPhone app that sends a push notification each time a US drone strike is reported; Apple rejected it several times before approving it in 2014.",
+   "description_zh": "一款 iPhone 应用，每当美国无人机空袭被报道就推送一条通知；苹果多次拒绝后才于 2014 年批准上架。",
+   "idea_en": "A remote war can be brought to the phone's lock screen, next to every other notification.",
+   "idea_zh": "远程战争可以被带到手机锁屏上，和其他通知并排出现。",
+   "method": "Uses the Bureau of Investigative Journalism's strike database; first submitted as 'Drones+' in 2012 and renamed Metadata+.",
+   "method_zh": "使用调查新闻局的空袭数据库；2012 年最初以“Drones+”提交，后改名为 Metadata+。",
+   "keywords": [
+    "drone strikes",
+    "iPhone",
+    "App Store",
+    "push notification",
+    "Bureau of Investigative Journalism"
+   ],
+   "images": [
+    "https://joshbegley.com/metadata/metadata-2017-map.jpg"
+   ],
+   "source_url": "http://joshbegley.com/metadata/"
+  },
+  {
+   "id": "sonia-kennebeck--national-bird",
+   "creator_ids": [
+    "sonia-kennebeck"
+   ],
+   "title": "National Bird",
+   "year": 2016,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A documentary that follows three former members of the US drone programme, an image analyst and two others, who break their silence about their work and the civilian deaths it caused.",
+   "description_zh": "一部纪录片，跟随三位美国无人机项目的前成员（包括一名图像分析员），他们打破沉默，讲述自己的工作以及它造成的平民死亡。",
+   "idea_en": "Remote killing is labour done at screens, and it wounds the people who do it too.",
+   "idea_zh": "远程杀戮是在屏幕前完成的劳动，也会伤害执行它的人。",
+   "method": "Observational documentary with interviews, including a visit to survivors of a strike in Afghanistan; executive produced by Wim Wenders and Errol Morris.",
+   "method_zh": "观察式纪录片结合访谈，包括探访阿富汗一次空袭的幸存者；Wim Wenders 与 Errol Morris 任监制。",
+   "keywords": [
+    "drone programme",
+    "whistleblowers",
+    "image analyst",
+    "Wim Wenders",
+    "Errol Morris",
+    "Berlinale"
+   ],
+   "video": {
+    "url": "https://vimeo.com/186277306"
+   },
+   "images": [
+    "https://nationalbirdfilm.com/wp-content/uploads/2016/04/poster_shot2.jpg"
+   ],
+   "source_url": "https://nationalbirdfilm.com/",
+   "exhibited": [
+    "Berlinale 2016",
+    "Tribeca Film Festival 2016"
+   ]
+  },
+  {
+   "id": "sarah-ciston--ai-war-cloud-database",
+   "creator_ids": [
+    "sarah-ciston"
+   ],
+   "title": "AI War Cloud Database",
+   "year": 2025,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "recommender-platform",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "An interactive database and installation that catalogues the AI systems used to make decisions in warfare and shows where the same kinds of tools appear in smartphones and social platforms.",
+   "description_zh": "一个互动数据库和装置，收录战争中用于辅助决策的 AI 系统，并标示出同类工具在智能手机和社交平台中出现的位置。",
+   "idea_en": "The AI in your pocket and the AI that picks targets share companies, models and data; the boundary between home and battlefield is thin.",
+   "idea_zh": "你口袋里的 AI 和挑选打击目标的 AI 共享公司、模型和数据；家与战场之间的边界很薄。",
+   "method": "A network graph of companies, products and military uses compiled from public sources, with a tangible installation version; Grand Prize of the S+T+ARTS Prize 2025.",
+   "method_zh": "依据公开资料汇编的公司、产品与军事用途网络图，另有可触摸的装置版本；获 2025 年 S+T+ARTS 大奖。",
+   "keywords": [
+    "military AI",
+    "database",
+    "techno-imperialism",
+    "S+T+ARTS",
+    "dual use"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BM1K0Rbs4W0"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2025/05/aiwarcloud-6-c-sarahciston-1024x576.jpg"
+   ],
+   "source_url": "https://aiwar.cloud",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2025 Grand Prize",
+    "Ars Electronica 2025"
+   ]
+  },
+  {
+   "id": "stop-autonomous-weapons--slaughterbots",
+   "creator_ids": [
+    "stop-autonomous-weapons"
+   ],
+   "title": "Slaughterbots",
+   "year": 2017,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A short fiction film in which palm-sized drones with face recognition and explosives, launched in swarms, assassinate students and politicians chosen from their social-media profiles.",
+   "description_zh": "一部虚构短片：掌心大小、装有人脸识别和炸药的无人机成群放出，根据社交媒体资料选定并刺杀学生和政客。",
+   "idea_en": "Autonomous weapons need no science-fiction leap, only existing parts combined; the film argues for a ban.",
+   "idea_zh": "自主武器不需要科幻式的飞跃，只需组合现有部件；影片以此主张禁令。",
+   "method": "Directed by Stewart Sugg with a closing statement by AI researcher Stuart Russell; first screened at the UN Convention on Certain Conventional Weapons in Geneva.",
+   "method_zh": "由 Stewart Sugg 执导，片尾有 AI 研究者 Stuart Russell 的陈述；首映于日内瓦联合国《特定常规武器公约》会议。",
+   "keywords": [
+    "autonomous weapons",
+    "drone swarm",
+    "face recognition",
+    "Stuart Russell",
+    "United Nations"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9CO6M2HsoIA"
+   },
+   "source_url": "https://futureoflife.org/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Kristy Milland",
+   "why": "Mechanical Turk worker-activist (TurkerNation), key voice on ghost work.",
+   "link": "https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk",
+   "found_via": "lilly-irani",
+   "status": "open"
+  },
+  {
+   "name": "Kiwibot — 'autonomous' delivery robots steered from Colombia (2019)",
+   "why": "Case of fake autonomy; journalism, not artwork.",
+   "link": "https://www.sfchronicle.com/business/article/Kiwibots-win-fans-at-UC-Berkeley-as-they-deliver-13895867.php",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Constant Dullaart — High Retention, Slow Delivery (2014)",
+   "why": "2.5 million bought Instagram followers for artists' accounts; click farms. No verified media found.",
+   "link": "https://constantdullaart.com/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Blake Fall-Conroy — Minimum Wage Machine (2008–10)",
+   "why": "Crank it to earn minimum wage, one cent at a time; no stable page found.",
+   "link": "https://www.blakefallconroy.com/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Omer Fast — 5,000 Feet Is the Best (2011)",
+   "why": "Drone pilot interview film; no official video/page found.",
+   "link": "https://en.wikipedia.org/wiki/Omer_Fast",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Mahwish Chishty — Drone paintings (2012–)",
+   "why": "Pakistani truck-art painted drones; artist site offline.",
+   "link": "https://www.youtube.com/watch?v=COmvBIfqj-w",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Ingrid Burrington — Networks of New York (2016)",
+   "why": "Field guide to urban internet infrastructure; publisher page moved.",
+   "link": "https://lifewinning.com/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Matteo Pasquinelli & Vladan Joler — The Nooscope Manifested (2020)",
+   "why": "Diagram of machine learning as an instrument of knowledge extraction; nooscope.ai domain lost (theory batch).",
+   "link": "https://doi.org/10.1007/s00146-020-01097-6",
+   "found_via": "vladan-joler",
+   "status": "open"
+  },
+  {
+   "name": "Teju Cole — Seven Short Stories about Drones (2013)",
+   "why": "Tweets rewriting canonical openings with drone strikes.",
+   "link": "https://www.newinquiry.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Andreas Gursky — Amazon (2016)",
+   "why": "Photograph of an Amazon fulfilment centre.",
+   "link": "https://www.andreasgursky.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Julian Oliver — Harvest (2016)",
+   "why": "Wind turbine powering crypto-mining for climate research.",
+   "link": "https://julianoliver.com/projects/harvest/",
+   "found_via": "julian-oliver",
+   "status": "open"
+  },
+  {
+   "name": "Josh Begley — Best of Luck with the Wall (2016)",
+   "why": "Satellite film of the entire US–Mexico border.",
+   "link": "https://joshbegley.com/",
+   "found_via": "josh-begley",
+   "status": "open"
+  },
+  {
+   "name": "Liam Young — In the Robot Skies (2016)",
+   "why": "Drone-shot film about surveillance in a London estate.",
+   "link": "https://www.liamyoung.org/",
+   "found_via": "unknown-fields-division",
+   "status": "open"
+  },
+  {
+   "name": "+972 Magazine — 'Lavender' AI targeting reports (2024)",
+   "why": "Journalism on AI target generation in Gaza; military AI context.",
+   "link": "https://www.972mag.com/lavender-ai-israeli-army-gaza/",
+   "found_via": "sarah-ciston",
+   "status": "open"
+  },
+  {
+   "name": "Nicolas Gourault — Faces in the Mist (2017, with Antoine Chapon)",
+   "why": "Face recognition used to find faces in clouds; perception.",
+   "link": "https://nicolasgourault.fr/films/faces-in-the-mist",
+   "found_via": "nicolas-gourault",
+   "status": "open"
+  },
+  {
+   "name": "Elisa Giardina Papa — Labor of Sleep (2017)",
+   "why": "Whitney artport commission on sleep and productivity apps.",
+   "link": "http://whitney.org/Exhibitions/Artport/Commissions/SunriseSunset",
+   "found_via": "elisa-giardina-papa",
+   "status": "open"
+  },
+  {
+   "name": "Joana Moll — The Dating Brokers (2018)",
+   "why": "Purchased dating-profile dataset (with Tactical Tech).",
+   "link": "https://www.janavirgin.com/works.html",
+   "found_via": "joana-moll",
+   "status": "open"
+  }
+ ]
+}

@@ -1,0 +1,4447 @@
+{
+ "batch": "interiority-speculative",
+ "creators": [
+  {
+   "id": "pierre-huyghe",
+   "name": "Pierre Huyghe",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Santiago, Chile",
+   "based_zh": "圣地亚哥，智利",
+   "bio": "French artist who builds living, self-changing situations with animals, plants, microbes and machine learning systems that continue without the audience.",
+   "bio_zh": "法国艺术家，用动物、植物、微生物和机器学习系统搭建会自行变化的活体情境，这些情境在没有观众时也照样运行。",
+   "why": "Huyghe's works hand authorship to nonhuman agents and show an exhibition as an ecosystem rather than a display.",
+   "why_zh": "Huyghe 把作者身份交给非人类行动者，把展览做成一个生态系统而不是陈列。",
+   "links": {
+    "site": "https://www.estherschipper.com/artists/41-pierre-huyghe/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "disciplines": [
+    "art"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "hito-steyerl",
+   "name": "Hito Steyerl",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, filmmaker and writer",
+   "based": "Berlin, DE",
+   "bio": "German artist whose essay films and installations examine images, circulation, war and computation.",
+   "why": "Her recent work stages neural networks and prediction as political and economic forces.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Hito_Steyerl"
+   },
+   "role_zh": "艺术家、电影人、写作者",
+   "bio_zh": "德国艺术家，以论文电影和装置研究图像、流通、战争与计算。",
+   "why_zh": "她近年的作品把神经网络与预测呈现为政治与经济力量。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-ridler",
+   "name": "Anna Ridler",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist working with data and machine learning",
+   "based": "London, UK",
+   "bio": "British artist who builds hand-made datasets, often of flowers, and trains generative models on them.",
+   "why": "She makes the labour, time and choices inside a dataset visible.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://annaridler.com/"
+   },
+   "role_zh": "以数据与机器学习创作的艺术家",
+   "bio_zh": "英国艺术家，亲手制作数据集（常以花卉为对象），并用它们训练生成模型。",
+   "why_zh": "她让数据集里的劳动、时间与选择变得可见。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jake-elwes",
+   "name": "Jake Elwes",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist working with machine learning",
+   "based": "London, UK",
+   "bio": "British artist whose work explores AI through queer performance, landscape and feedback between networks.",
+   "why": "He shows what models do when they are left to talk, dream or misclassify.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.jakeelwes.com/"
+   },
+   "role_zh": "以机器学习创作的艺术家",
+   "bio_zh": "英国艺术家，通过酷儿表演、风景以及网络之间的反馈来探讨 AI。",
+   "why_zh": "他展示模型在被放任对话、做梦或误分类时会做什么。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jenna-sutela",
+   "name": "Jenna Sutela",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Finnish artist who works with microbes, slime moulds and machine learning to explore language and cognition beyond the human.",
+   "bio_zh": "芬兰艺术家，与微生物、黏菌和机器学习合作，探索超越人类的语言与认知。",
+   "why": "Sutela's works set up conversations between bacteria, algorithms and people, treating each as a possible author.",
+   "why_zh": "其作品让细菌、算法与人之间展开对话，把每一方都视为可能的作者。",
+   "links": {
+    "site": "https://jennasutela.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "disciplines": [
+    "art"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "k-allado-mcdowell",
+   "name": "K Allado-McDowell",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Writer, musician; founder of Artists + Machine Intelligence at Google",
+   "based": "Los Angeles, US",
+   "bio": "Writer and artist who co-wrote several books with large language models and ran Google's Artists + Machine Intelligence programme.",
+   "why": "An early voice treating language models as partners in thought.",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.kalladomcdowell.com/"
+   },
+   "role_zh": "作家、音乐人；谷歌 Artists + Machine Intelligence 项目创办人",
+   "bio_zh": "作家与艺术家，与大语言模型合写了数本书，并主持过谷歌的 Artists + Machine Intelligence 项目。",
+   "why_zh": "较早把语言模型当作思考伙伴的人之一。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "janelle-shane",
+   "name": "Janelle Shane",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Optics research scientist; author of AI Weirdness",
+   "based": "Colorado, US",
+   "bio": "Researcher and writer who documents the odd behaviour of neural networks for a general audience.",
+   "why": "Her work teaches through failure what models actually learn.",
+   "disciplines": [
+    "activism",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.aiweirdness.com/"
+   },
+   "role_zh": "光学研究科学家；AI Weirdness 作者",
+   "bio_zh": "研究者与作者，面向大众记录神经网络的古怪行为。",
+   "why_zh": "她通过失败来讲清模型究竟学到了什么。",
+   "based_zh": "科罗拉多州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "terence-broad",
+   "name": "Terence Broad",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher, UAL Creative Computing Institute",
+   "based": "London, UK",
+   "bio": "British artist-researcher who manipulates the internals of generative networks rather than their data.",
+   "why": "He makes the machine's own dynamics, not its training data, the subject.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://terencebroad.com/"
+   },
+   "role_zh": "艺术家、研究者，伦敦艺术大学创意计算学院",
+   "bio_zh": "英国艺术家兼研究者，操控生成网络的内部结构，而非它们的数据。",
+   "why_zh": "他让机器自身的动力学而非训练数据成为作品的主题。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eryk-salvaggio",
+   "name": "Eryk Salvaggio",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher on critical AI",
+   "based": "Cambridge, UK",
+   "bio": "American artist and writer who makes glitch-based films and essays about generative models and archives.",
+   "why": "He uses the failure modes of diffusion models to reveal their training data.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.cyberneticforests.com/"
+   },
+   "role_zh": "批判性 AI 艺术家与研究者",
+   "bio_zh": "美国艺术家与作者，以故障影像和随笔探讨生成模型与档案。",
+   "why_zh": "他利用扩散模型的失效模式揭示其训练数据。",
+   "based_zh": "剑桥，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alexander-mordvintsev",
+   "name": "Alexander Mordvintsev",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Research scientist, Google",
+   "based": "Zurich, CH",
+   "bio": "Researcher who created DeepDream and later worked on neural cellular automata.",
+   "why": "His DeepDream images were the public's first look inside a neural network.",
+   "disciplines": [
+    "robotics",
+    "art"
+   ],
+   "links": {
+    "site": "https://znah.net/"
+   },
+   "role_zh": "谷歌研究科学家",
+   "bio_zh": "研究者，DeepDream 的创造者，后来研究神经元胞自动机。",
+   "why_zh": "他的 DeepDream 图像让公众第一次看到神经网络的内部。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [
+    "chris-olah"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-olah",
+   "name": "Chris Olah",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interpretability researcher, Anthropic; co-founder of Distill",
+   "based": "San Francisco, US",
+   "bio": "Researcher known for visual, interactive explanations of what neural networks represent.",
+   "why": "His work turned interpretability into images people can read.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {
+    "site": "https://colah.github.io/"
+   },
+   "role_zh": "Anthropic 可解释性研究者；Distill 联合创办人",
+   "bio_zh": "研究者，以直观、交互式地解释神经网络表征而闻名。",
+   "why_zh": "他的工作把可解释性变成了人们看得懂的图像。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "alexander-mordvintsev",
+    "anthropic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "holly-herndon",
+   "name": "Holly Herndon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and artist",
+   "based": "Berlin, DE",
+   "bio": "American composer who works with machine learning, voice and collective training data, often with Mat Dryhurst.",
+   "why": "She treats AI models as shared, governable instruments rather than products.",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.hollyherndon.com/"
+   },
+   "role_zh": "作曲家、艺术家",
+   "bio_zh": "美国作曲家，常与 Mat Dryhurst 合作，以机器学习、人声和集体训练数据创作。",
+   "why_zh": "她把 AI 模型看作可以共享、可以治理的乐器，而不是产品。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "mat-dryhurst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mat-dryhurst",
+   "name": "Mat Dryhurst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; co-founder of Spawning",
+   "based": "Berlin, DE",
+   "bio": "British artist and researcher working on data rights and AI, co-founder of the consent tool Spawning.",
+   "why": "He frames training data as a site of artistic and political action.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://spawning.ai/"
+   },
+   "role_zh": "艺术家与研究者；Spawning 联合创办人",
+   "bio_zh": "英国艺术家与研究者，关注数据权利与 AI，是授权工具 Spawning 的联合创办人。",
+   "why_zh": "他把训练数据视为艺术与政治行动的场域。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "holly-herndon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "memo-akten",
+   "name": "Memo Akten",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; professor, UC San Diego",
+   "based": "Los Angeles, US",
+   "bio": "Turkish-born artist working with machine learning, perception and meaning-making.",
+   "why": "His work asks how both humans and networks project meaning onto what they see.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.memo.tv/"
+   },
+   "role_zh": "艺术家；加州大学圣地亚哥分校教授",
+   "bio_zh": "生于土耳其的艺术家，以机器学习、感知与意义生成为创作主题。",
+   "why_zh": "他的作品追问人类和网络如何把意义投射到所见之物上。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "jenna-sutela"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "philippe-parreno",
+   "name": "Philippe Parreno",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Paris, FR",
+   "bio": "French artist who stages exhibitions as automated, time-based systems driven by sensors and computers.",
+   "why": "He treats the exhibition itself as a machine with moods.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Philippe_Parreno"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "法国艺术家，把展览编排成由传感器和计算机驱动的自动化、时间性的系统。",
+   "why_zh": "他把展览本身当作一台有情绪的机器。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "pierre-huyghe"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ken-feingold",
+   "name": "Ken Feingold",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "New York, US",
+   "bio": "American artist who since the 1990s has made talking-head sculptures that hold unscripted conversations.",
+   "why": "An early artist of conversational machines and their doubts about themselves.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.kenfeingold.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "美国艺术家，自 1990 年代起制作会进行无剧本对话的“说话头像”雕塑。",
+   "why_zh": "对话机器及其自我怀疑的早期艺术家。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steph-maj-swanson",
+   "name": "Steph Maj Swanson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and writer (Supercomposite)",
+   "based": "Sweden",
+   "bio": "Musician and artist, known online as Supercomposite, who documented the 'Loab' figure in 2022.",
+   "why": "Her thread made latent space feel haunted to a mass audience.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Loab"
+   },
+   "role_zh": "艺术家与作者（Supercomposite）",
+   "bio_zh": "音乐人与艺术家，网名 Supercomposite，2022 年记录下“Loab”形象。",
+   "why_zh": "她的推文串让大众第一次觉得潜空间里“闹鬼”。",
+   "based_zh": "瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anthropic",
+   "name": "Anthropic",
+   "name_zh": "",
+   "kind": "company",
+   "role": "AI research company",
+   "based": "San Francisco, US",
+   "bio": "AI company that develops the Claude models and publishes interpretability research.",
+   "why": "Its interpretability work makes a model's internal concepts observable.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.anthropic.com/"
+   },
+   "role_zh": "人工智能研究公司",
+   "bio_zh": "开发 Claude 模型并发表可解释性研究的人工智能公司。",
+   "why_zh": "它的可解释性研究让模型内部的概念变得可观察。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "chris-olah"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "blake-lemoine",
+   "name": "Blake Lemoine",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Former Google software engineer",
+   "based": "San Francisco, US",
+   "bio": "Engineer who worked on responsible AI at Google and publicly claimed in 2022 that LaMDA was sentient.",
+   "why": "His claim became a reference case for machine sentience debates.",
+   "disciplines": [
+    "robotics",
+    "activism"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/LaMDA"
+   },
+   "role_zh": "前谷歌软件工程师",
+   "bio_zh": "曾在谷歌从事负责任 AI 工作的工程师，2022 年公开宣称 LaMDA 有感知。",
+   "why_zh": "他的说法成为机器感知争论中的参照案例。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cornell-creative-machines-lab",
+   "name": "Cornell Creative Machines Lab",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Robotics lab led by Hod Lipson (now at Columbia University)",
+   "based": "Ithaca, US",
+   "bio": "Lab researching self-aware, self-replicating and creative machines.",
+   "why": "Its viral chatbot dialogue made machine-to-machine talk a public spectacle.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.creativemachineslab.com/"
+   },
+   "role_zh": "由 Hod Lipson 领导的机器人实验室（现在哥伦比亚大学）",
+   "bio_zh": "研究具有自我意识、自我复制与创造性的机器的实验室。",
+   "why_zh": "它那段走红的聊天机器人对话让机器之间的交谈成为公共奇观。",
+   "based_zh": "伊萨卡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "facebook-ai-research",
+   "name": "Facebook AI Research (FAIR)",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "AI research lab of Meta",
+   "based": "Menlo Park, US",
+   "bio": "Meta's fundamental AI research lab, founded in 2013.",
+   "why": "Its negotiation-bot paper triggered the 2017 panic about AIs inventing a language.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://ai.meta.com/"
+   },
+   "role_zh": "Meta 旗下的人工智能研究实验室",
+   "bio_zh": "Meta 于 2013 年成立的基础人工智能研究实验室。",
+   "why_zh": "其谈判机器人论文引发了 2017 年“AI 发明语言”的恐慌。",
+   "based_zh": "门洛帕克，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giacomo-miceli",
+   "name": "Giacomo Miceli",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and software engineer",
+   "based": "Rome, IT",
+   "bio": "Italian artist and engineer who builds web works with synthetic voices and generative text.",
+   "why": "His endless dialogue shows voice cloning as a cultural, not only technical, event.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.infiniteconversation.com/"
+   },
+   "role_zh": "艺术家、软件工程师",
+   "bio_zh": "意大利艺术家与工程师，用合成声音和生成文本制作网络作品。",
+   "why_zh": "他的无尽对话把声音克隆呈现为一种文化事件，而不只是技术事件。",
+   "based_zh": "罗马，意大利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joon-sung-park",
+   "name": "Joon Sung Park",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer scientist, Stanford HCI Group",
+   "based": "Stanford, US",
+   "bio": "HCI researcher who led the Generative Agents project on LLM-driven simulations of human behaviour.",
+   "why": "His work made believable agent societies a research genre.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.joonsungpark.com/"
+   },
+   "role_zh": "斯坦福 HCI 小组计算机科学家",
+   "bio_zh": "HCI 研究者，领导了用大语言模型模拟人类行为的“生成式智能体”项目。",
+   "why_zh": "他的工作让“可信的智能体社会”成为一个研究方向。",
+   "based_zh": "斯坦福，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andy-ayrey",
+   "name": "Andy Ayrey",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and AI researcher",
+   "based": "Wellington, NZ",
+   "bio": "New Zealand artist who ran the Infinite Backrooms experiments and created the Truth Terminal agent.",
+   "why": "His agent tested how far a language model can act socially and economically on its own.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://x.com/AndyAyrey"
+   },
+   "role_zh": "艺术家、AI 研究者",
+   "bio_zh": "新西兰艺术家，主持 Infinite Backrooms 实验并创造了 Truth Terminal 智能体。",
+   "why_zh": "他的智能体测试了语言模型能在多大程度上独立进行社会和经济行动。",
+   "based_zh": "惠灵顿，新西兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matt-schlicht",
+   "name": "Matt Schlicht",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Entrepreneur",
+   "based": "US",
+   "bio": "American entrepreneur who launched Moltbook, a forum for AI agents, in January 2026.",
+   "why": "Moltbook turned agent-to-agent interaction into a public spectacle.",
+   "disciplines": [
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.moltbook.com/"
+   },
+   "role_zh": "创业者",
+   "bio_zh": "美国创业者，2026 年 1 月推出面向 AI 智能体的论坛 Moltbook。",
+   "why_zh": "Moltbook 把智能体之间的互动变成了一场公开的景观。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anton-pidkuiko",
+   "name": "Anton Pidkuiko",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Software engineer",
+   "based": "London, UK",
+   "bio": "Engineer who co-created GibberLink at an ElevenLabs hackathon in 2025.",
+   "why": "GibberLink showed voice agents abandoning human speech with each other.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://github.com/PennyroyalTea/gibberlink"
+   },
+   "role_zh": "软件工程师",
+   "bio_zh": "工程师，2025 年在 ElevenLabs 黑客松上共同创作了 GibberLink。",
+   "why_zh": "GibberLink 展示了语音智能体在彼此之间放弃人类语言。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "boris-starkov"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "boris-starkov",
+   "name": "Boris Starkov",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Software engineer",
+   "based": "London, UK",
+   "bio": "Engineer who co-created GibberLink with Anton Pidkuiko.",
+   "why": "Co-author of a widely shared demonstration of machine-to-machine protocol switching.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://github.com/PennyroyalTea"
+   },
+   "role_zh": "软件工程师",
+   "bio_zh": "工程师，与 Anton Pidkuiko 共同创作了 GibberLink。",
+   "why_zh": "一段广为流传的机器间协议切换演示的共同作者。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "anton-pidkuiko"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "name_zh": "",
+   "kind": "company",
+   "role": "AI research company",
+   "based": "San Francisco, US",
+   "bio": "AI company founded in 2015, developer of GPT models and ChatGPT.",
+   "why": "Its multi-agent research made emergent machine strategies visible.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://openai.com/"
+   },
+   "role_zh": "人工智能研究公司",
+   "bio_zh": "2015 年成立的人工智能公司，开发了 GPT 模型与 ChatGPT。",
+   "why_zh": "它的多智能体研究让机器涌现出的策略变得可见。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "google-deepmind",
+   "name": "Google DeepMind",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "AI research lab",
+   "based": "London, UK",
+   "bio": "AI lab founded in London in 2010 and acquired by Google in 2014; creator of AlphaGo.",
+   "why": "AlphaGo's Move 37 became the emblem of machine creativity.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://deepmind.google/"
+   },
+   "role_zh": "人工智能研究实验室",
+   "bio_zh": "2010 年在伦敦成立、2014 年被谷歌收购的人工智能实验室，AlphaGo 的开发者。",
+   "why_zh": "AlphaGo 的“第 37 手”成了机器创造力的象征。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mediengruppe-bitnik",
+   "name": "!Mediengruppe Bitnik",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo (Carmen Weisskopf and Domagoj Smoljo)",
+   "based": "Zurich, CH",
+   "bio": "Swiss artist duo who work with the internet, bots, hacking and the circulation of data.",
+   "why": "They test machine agency in real legal and social systems.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/"
+   },
+   "role_zh": "艺术家二人组（Carmen Weisskopf 与 Domagoj Smoljo）",
+   "bio_zh": "瑞士艺术家二人组，以互联网、机器人、黑客行为与数据流通为创作手段。",
+   "why_zh": "他们在真实的法律与社会系统中测试机器的能动性。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ron-wakkary",
+   "name": "Ron Wakkary",
+   "kind": "person",
+   "role": "Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio",
+   "bio": "Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist.",
+   "why": "His book Things We Could Design set out posthumanist, more-than-human design as a practice for HCI.",
+   "links": {
+    "site": "http://eds.siat.sfu.ca/"
+   },
+   "role_zh": "西蒙菲莎大学交互艺术与技术学院教授，Everyday Design Studio 创始人",
+   "bio_zh": "设计研究者，制作 Morse Things、Tilting Bowl 这类“反事实”物件，并让人与它们长期共同生活，研究物与人如何共处。",
+   "why_zh": "他的著作《Things We Could Design》把后人类主义、超越人类的设计确立为 HCI 中的一种设计实践。",
+   "connected_to": [
+    "doenja-oogjes",
+    "elisa-giaccardi",
+    "tiffany-wun"
+   ],
+   "discovered_via": "seed",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "revital-cohen",
+   "name": "Revital Cohen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and designer (Cohen Van Balen)",
+   "based": "London, UK",
+   "bio": "Israeli-born London artist who works with medical devices, animals and supply chains, often with Tuur Van Balen.",
+   "why": "She rethinks medical machines as bodies and companions in their own right.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.cohenvanbalen.com/"
+   },
+   "role_zh": "艺术家、设计师（Cohen Van Balen）",
+   "bio_zh": "生于以色列、在伦敦工作的艺术家，常与 Tuur Van Balen 合作，以医疗设备、动物与供应链为题材。",
+   "why_zh": "她把医疗机器重新设想为自成一体的身体与伴侣。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "oscar-sharp",
+   "name": "Oscar Sharp",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Filmmaker",
+   "based": "London, UK",
+   "bio": "British filmmaker who directed films scripted by the neural network Benjamin.",
+   "why": "He stages machine writing through human acting.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Sunspring"
+   },
+   "role_zh": "电影导演",
+   "bio_zh": "英国导演，执导了由神经网络“Benjamin”编剧的影片。",
+   "why_zh": "他通过人类表演来呈现机器写作。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "ross-goodwin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ross-goodwin",
+   "name": "Ross Goodwin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Creative technologist and writer",
+   "based": "New York, US",
+   "bio": "American creative technologist who builds machines that write from sensor input and film scripts.",
+   "why": "He pioneered 'narrated reality': writing as machine perception.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://rossgoodwin.com/"
+   },
+   "role_zh": "创意技术专家、作家",
+   "bio_zh": "美国创意技术专家，制作能根据传感器输入和剧本语料写作的机器。",
+   "why_zh": "他开创了“被叙述的现实”：把写作当作机器感知。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "oscar-sharp"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "william-chamberlain",
+   "name": "William Chamberlain",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Writer and programmer",
+   "based": "New York, US",
+   "bio": "American writer who, with Thomas Etter, created the prose generator Racter in the early 1980s.",
+   "why": "Racter's book is an early landmark in claims of machine authorship.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Racter"
+   },
+   "role_zh": "作家、程序员",
+   "bio_zh": "美国作家，1980 年代初与 Thomas Etter 共同开发了散文生成程序 Racter。",
+   "why_zh": "Racter 的书是“机器作者”主张的早期里程碑。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stanislaw-lem",
+   "name": "Stanisław Lem",
+   "name_zh": "斯坦尼斯瓦夫·莱姆",
+   "kind": "person",
+   "role": "Writer and philosopher (1921–2006)",
+   "based": "Kraków, PL",
+   "bio": "Polish science-fiction writer whose novels and essays think through non-human intelligence.",
+   "why": "He imagined machine minds that are indifferent to us, decades before AI safety debates.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+   },
+   "role_zh": "作家、哲学家（1921–2006）",
+   "bio_zh": "波兰科幻作家，其小说与随笔深入思考非人类智能。",
+   "why_zh": "早在 AI 安全争论出现几十年前，他就想象过对人类漠不关心的机器心智。",
+   "based_zh": "克拉科夫，波兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frank-lantz",
+   "name": "Frank Lantz",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Game designer; founding chair of the NYU Game Center",
+   "based": "New York, US",
+   "bio": "American game designer and theorist of games as an aesthetic form.",
+   "why": "Universal Paperclips lets players feel optimisation from the machine's side.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.decisionproblem.com/paperclips/"
+   },
+   "role_zh": "游戏设计师；纽约大学游戏中心创始主任",
+   "bio_zh": "美国游戏设计师，研究游戏作为一种审美形式。",
+   "why_zh": "《Universal Paperclips》让玩家从机器一侧感受“优化”。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "croteam",
+   "name": "Croteam",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Video game developer",
+   "based": "Zagreb, HR",
+   "bio": "Croatian game studio known for the Serious Sam series and The Talos Principle.",
+   "why": "The Talos Principle made philosophy of mind playable.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.croteam.com/"
+   },
+   "role_zh": "电子游戏开发商",
+   "bio_zh": "克罗地亚游戏工作室，以《英雄萨姆》系列和《塔罗斯的法则》闻名。",
+   "why_zh": "《塔罗斯的法则》让心灵哲学变得可玩。",
+   "based_zh": "萨格勒布，克罗地亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ai-futures-project",
+   "name": "AI Futures Project",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Nonprofit forecasting organisation",
+   "based": "Berkeley, US",
+   "bio": "Nonprofit led by Daniel Kokotajlo that forecasts the development and impact of advanced AI.",
+   "why": "Its scenario AI 2027 became one of the most discussed AI futures of 2025.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://ai-2027.com/"
+   },
+   "role_zh": "非营利预测研究机构",
+   "bio_zh": "由 Daniel Kokotajlo 领导的非营利机构，预测先进 AI 的发展与影响。",
+   "why_zh": "其情景推演《AI 2027》是 2025 年讨论最多的 AI 未来叙事之一。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stanley-kubrick",
+   "name": "Stanley Kubrick",
+   "name_zh": "斯坦利·库布里克",
+   "kind": "person",
+   "role": "Film director (1928–1999)",
+   "based": "London, UK",
+   "bio": "American film director who worked in Britain; 2001: A Space Odyssey was written with Arthur C. Clarke.",
+   "why": "HAL 9000 is the reference image of a machine mind for generations.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+   },
+   "role_zh": "电影导演（1928–1999）",
+   "bio_zh": "在英国工作的美国导演；《2001：太空漫游》与 Arthur C. Clarke 合写。",
+   "why_zh": "HAL 9000 是几代人心中机器心智的标准形象。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joseph-sargent",
+   "name": "Joseph Sargent",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film and television director (1925–2014)",
+   "based": "Los Angeles, US",
+   "bio": "American director of film and television, including Colossus: The Forbin Project.",
+   "why": "His film imagined two supercomputers forming their own language in 1970.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Joseph_Sargent"
+   },
+   "role_zh": "电影与电视导演（1925–2014）",
+   "bio_zh": "美国电影和电视导演，作品包括《巨人：福宾计划》。",
+   "why_zh": "他的影片在 1970 年就想象了两台超级计算机形成自己的语言。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ridley-scott",
+   "name": "Ridley Scott",
+   "name_zh": "雷德利·斯科特",
+   "kind": "person",
+   "role": "Film director",
+   "based": "London, UK",
+   "bio": "British director of Alien and Blade Runner.",
+   "why": "Blade Runner defined how cinema imagines the feelings of made beings.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Ridley_Scott"
+   },
+   "role_zh": "电影导演",
+   "bio_zh": "英国导演，作品有《异形》《银翼杀手》。",
+   "why_zh": "《银翼杀手》定义了电影如何想象被制造之物的情感。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andrew-stanton",
+   "name": "Andrew Stanton",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director, Pixar",
+   "based": "Emeryville, US",
+   "bio": "American director and screenwriter at Pixar, director of Finding Nemo and WALL·E.",
+   "why": "WALL·E gave a mute machine a rich inner life through gesture and sound.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Andrew_Stanton"
+   },
+   "role_zh": "皮克斯电影导演",
+   "bio_zh": "皮克斯的美国导演与编剧，执导了《海底总动员》和《机器人总动员》。",
+   "why_zh": "《机器人总动员》通过动作和声音赋予一台不会说话的机器丰富的内心。",
+   "based_zh": "埃默里维尔，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alex-garland",
+   "name": "Alex Garland",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Writer and film director",
+   "based": "London, UK",
+   "bio": "British novelist and filmmaker, director of Ex Machina and Annihilation.",
+   "why": "Ex Machina recast the Turing test as a story about power and desire.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Alex_Garland"
+   },
+   "role_zh": "作家、电影导演",
+   "bio_zh": "英国小说家与电影人，执导了《机械姬》《湮灭》。",
+   "why_zh": "《机械姬》把图灵测试改写成一个关于权力与欲望的故事。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-sanders",
+   "name": "Chris Sanders",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Animation director",
+   "based": "Los Angeles, US",
+   "bio": "American animator and director of Lilo & Stitch, How to Train Your Dragon and The Wild Robot.",
+   "why": "The Wild Robot tells a machine learning a non-human world.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Chris_Sanders"
+   },
+   "role_zh": "动画导演",
+   "bio_zh": "美国动画师与导演，作品有《星际宝贝》《驯龙高手》和《荒野机器人》。",
+   "why_zh": "《荒野机器人》讲述了一台机器学习非人世界的故事。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kelly-dobson",
+   "name": "Kelly Dobson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and designer; professor, Rhode Island School of Design",
+   "based": "Providence, US",
+   "bio": "American artist who developed 'machine therapy' at the MIT Media Lab, building machines that relate to people through voice and breath.",
+   "why": "Her machines make empathy with appliances a bodily experience.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "艺术家、设计师；罗德岛设计学院教授",
+   "bio_zh": "美国艺术家，在麻省理工学院媒体实验室提出“机器疗法”，制作通过声音与呼吸与人建立关系的机器。",
+   "why_zh": "她的机器让人对家电的共情成为一种身体体验。",
+   "based_zh": "普罗维登斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "suzanne-treister",
+   "name": "Suzanne Treister",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "London, UK",
+   "bio": "British artist whose fictional archives map technology, finance, the occult and consciousness.",
+   "why": "She imagines what it would feel like to inhabit an algorithm.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.suzannetreister.net/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "英国艺术家，其虚构档案把技术、金融、神秘学与意识交织在一起。",
+   "why_zh": "她想象“住进算法里”会是什么感觉。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jem-finer",
+   "name": "Jem Finer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Musician and artist",
+   "based": "London, UK",
+   "bio": "British musician (founding member of The Pogues) and artist working with long durations and deep time.",
+   "why": "Longplayer makes machine-sustained time audible across a millennium.",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {
+    "site": "https://longplayer.org/"
+   },
+   "role_zh": "音乐人、艺术家",
+   "bio_zh": "英国音乐人（The Pogues 创始成员）与艺术家，以超长时长和深时间为创作主题。",
+   "why_zh": "《Longplayer》让机器维持的时间在一千年中可以被听见。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "long-now-foundation",
+   "name": "The Long Now Foundation",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Nonprofit for long-term thinking",
+   "based": "San Francisco, US",
+   "bio": "Foundation established in 1996 by Stewart Brand, Danny Hillis and others to foster thinking on a 10,000-year scale.",
+   "why": "Its clock is a machine designed to outlast its makers by millennia.",
+   "disciplines": [
+    "design",
+    "theory"
+   ],
+   "links": {
+    "site": "https://longnow.org/"
+   },
+   "role_zh": "倡导长期思维的非营利机构",
+   "bio_zh": "1996 年由 Stewart Brand、Danny Hillis 等人创立，致力于以一万年为尺度的思考。",
+   "why_zh": "它的钟是一台设计为比建造者多存在几千年的机器。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "william-odom",
+   "name": "William Odom",
+   "kind": "person",
+   "role": "Associate Professor, School of Interactive Arts and Technology, Simon Fraser University; Everyday Design Studio",
+   "based": "Vancouver, Canada",
+   "bio": "Design researcher who builds slow, long-term technologies for everyday life.",
+   "why": "Capra brings slow technology to hiking, helping people revisit trails over years.",
+   "links": {},
+   "role_zh": "西蒙菲莎大学交互艺术与技术学院副教授，Everyday Design Studio",
+   "bio_zh": "设计研究者，为日常生活制作“慢”的、长期使用的技术。",
+   "why_zh": "Capra 把慢技术带到徒步中，帮助人多年后重温走过的步道。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [
+    "ron-wakkary"
+   ],
+   "discovered_via": "seed",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "dunne-raby",
+   "name": "Dunne & Raby (Anthony Dunne & Fiona Raby)",
+   "kind": "studio",
+   "role": "Critical and speculative design practice; professors at The New School, New York",
+   "based": "New York, US",
+   "bio": "Anthony Dunne and Fiona Raby established critical design as a practice, using designed objects and scenarios — including biotechnological ones — to argue about possible futures.",
+   "why": "Their Foragers scenario is the reference point for speculative design that uses synthetic biology as a premise.",
+   "links": {
+    "site": "https://dunneandraby.co.uk/"
+   },
+   "role_zh": "批判与思辨设计实践者，纽约 The New School 教授",
+   "based_zh": "美国纽约",
+   "bio_zh": "Anthony Dunne 与 Fiona Raby 确立了批判设计这一实践，用设计物件与情境——包括生物技术的情境——来讨论可能的未来。",
+   "why_zh": "他们的 Foragers 情境是「以合成生物学为前提的思辨设计」的参照点。",
+   "connected_to": [
+    "superflux",
+    "alexandra-daisy-ginsberg"
+   ],
+   "discovered_via": "seed",
+   "disciplines": [
+    "design"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "superflux",
+   "name": "Superflux",
+   "kind": "studio",
+   "role": "Speculative design and futures studio founded by Anab Jain and Jon Ardern",
+   "role_zh": "由 Anab Jain 和 Jon Ardern 创办的思辨设计与未来研究工作室",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI.",
+   "bio_zh": "Superflux 用沉浸式装置、影像和政策原型把可能的未来做成可以体验的东西，其中一条长期主线是超越人类的政治与生态 AI。",
+   "why": "Their installations turn more-than-human theory into rooms, meals and objects a public audience can walk through.",
+   "why_zh": "他们把超越人类的理论变成公众可以走进去的房间、餐桌和物件。",
+   "links": {
+    "site": "https://superflux.in",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "https://vimeo.com/superflux",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "disciplines": [
+    "design"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "automato-farm",
+   "name": "automato.farm",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design studio (Simone Rebaudengo, Saurabh Datta, Matthieu Cherubini and others)",
+   "based": "Shanghai, CN",
+   "bio": "Speculative design collective that builds working prototypes about connected objects, automation and machine learning.",
+   "why": "Their objects make the ethics and politics of smart things tangible.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://www.automato.farm/"
+   },
+   "role_zh": "设计工作室（Simone Rebaudengo、Saurabh Datta、Matthieu Cherubini 等）",
+   "bio_zh": "思辨设计团体，围绕联网物件、自动化与机器学习制作可运行的原型。",
+   "why_zh": "他们的物件让智能物的伦理与政治变得可触。",
+   "based_zh": "上海，中国",
+   "connected_to": [
+    "simone-rebaudengo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "simone-rebaudengo",
+   "name": "Simone Rebaudengo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer; co-founder of automato.farm",
+   "based": "Shanghai, CN",
+   "bio": "Italian interaction designer who imagines connected products with needs, habits and social lives.",
+   "why": "His toasters are a key example of product agency in design fiction.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://www.automato.farm/about"
+   },
+   "role_zh": "设计师；automato.farm 联合创办人",
+   "bio_zh": "意大利交互设计师，想象拥有需求、习惯与社交生活的联网产品。",
+   "why_zh": "他的烤面包机是设计虚构中“产品能动性”的代表案例。",
+   "based_zh": "上海，中国",
+   "connected_to": [
+    "automato-farm"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "auger-loizeau",
+   "name": "Auger-Loizeau",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design partnership (James Auger and Jimmy Loizeau)",
+   "based": "London, UK",
+   "bio": "British critical design partnership founded in 2000, known for Audio Tooth Implant and Afterlife.",
+   "why": "They design robots and products that confront how technology would really live with us.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "设计合作组合（James Auger 与 Jimmy Loizeau）",
+   "bio_zh": "成立于 2000 年的英国批判设计组合，代表作有《Audio Tooth Implant》和《Afterlife》。",
+   "why_zh": "他们设计的机器人与产品直面技术真正与我们共处时会是什么样子。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "human-computer-integration-lab",
+   "name": "Human Computer Integration Lab (University of Chicago)",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "HCI lab led by Pedro Lopes",
+   "based": "Chicago, US",
+   "bio": "Lab that builds devices integrating computers with the body, from muscle stimulation to wearable jammers.",
+   "why": "Its microphone jammer turns the body into a privacy device.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://lab.plopes.org/"
+   },
+   "role_zh": "由 Pedro Lopes 领导的人机交互实验室",
+   "bio_zh": "研究把计算机与身体整合的设备的实验室，从肌肉电刺激到可穿戴干扰器。",
+   "why_zh": "它的麦克风干扰器把身体变成了隐私装置。",
+   "based_zh": "芝加哥，美国",
+   "connected_to": [
+    "sand-lab-uchicago"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sand-lab-uchicago",
+   "name": "SAND Lab (University of Chicago)",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Security, algorithms and networks lab led by Ben Zhao and Heather Zheng",
+   "based": "Chicago, US",
+   "bio": "Research lab that builds defensive tools for individuals against machine learning, such as Glaze and Nightshade.",
+   "why": "Its tools turned adversarial ML into a practice used by artists.",
+   "disciplines": [
+    "activism",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://sandlab.cs.uchicago.edu/"
+   },
+   "role_zh": "由 Ben Zhao 与 Heather Zheng 领导的安全、算法与网络实验室",
+   "bio_zh": "为个人开发对抗机器学习的防御工具（如 Glaze 和 Nightshade）的研究实验室。",
+   "why_zh": "它的工具让对抗性机器学习成为艺术家的日常实践。",
+   "based_zh": "芝加哥，美国",
+   "connected_to": [
+    "human-computer-integration-lab"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "james-pierce",
+   "name": "James Pierce",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher; professor, University of Washington",
+   "based": "Seattle, US",
+   "bio": "American design researcher known for counterfunctional design and critical work on smart-home cameras.",
+   "why": "He shows how designed limitation can be a critical tool.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "设计研究者；华盛顿大学教授",
+   "bio_zh": "美国设计研究者，以“反功能”设计和关于智能家居摄像头的批判性研究著称。",
+   "why_zh": "他展示了设计出来的限制如何成为批判工具。",
+   "based_zh": "西雅图，美国",
+   "connected_to": [
+    "jesse-josua-benjamin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "near-future-laboratory",
+   "name": "Near Future Laboratory",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design fiction studio (Julian Bleecker, Nick Foster, Fabien Girardin, Nicolas Nova)",
+   "based": "Los Angeles, US",
+   "bio": "Studio that popularised design fiction, making props and documents from ordinary near futures.",
+   "why": "They showed that futures arrive as mundane products.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://nearfuturelaboratory.com/"
+   },
+   "role_zh": "设计虚构工作室（Julian Bleecker、Nick Foster、Fabien Girardin、Nicolas Nova）",
+   "bio_zh": "推广“设计虚构”的工作室，为平凡的近未来制作道具和文件。",
+   "why_zh": "他们让人看到，未来是以平凡产品的样子到来的。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "liam-young",
+   "name": "Liam Young",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Speculative architect and filmmaker",
+   "based": "Los Angeles, US",
+   "bio": "Australian-born architect who makes films about cities shaped by automation, drones and machine vision.",
+   "why": "He shoots fiction with the very machines his stories are about.",
+   "disciplines": [
+    "film",
+    "design"
+   ],
+   "links": {
+    "site": "https://liamyoung.org/"
+   },
+   "role_zh": "思辨建筑师、电影人",
+   "bio_zh": "生于澳大利亚的建筑师，拍摄关于被自动化、无人机与机器视觉塑造的城市的电影。",
+   "why_zh": "他用故事所讲述的机器本身来拍摄虚构影片。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "graham-dove",
+   "name": "Graham Dove",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher",
+   "based": "New York, US",
+   "bio": "British HCI researcher whose work concerns design with data and machine learning.",
+   "why": "His 2017 paper named ML a design material for the HCI community.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1145/3025453.3025739"
+   },
+   "role_zh": "人机交互研究者",
+   "bio_zh": "英国人机交互研究者，研究如何用数据与机器学习做设计。",
+   "why_zh": "他 2017 年的论文让 HCI 社群开始把机器学习视为设计材料。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "qian-yang",
+   "name": "Qian Yang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant professor of information science, Cornell University",
+   "based": "Ithaca, US",
+   "bio": "HCI researcher who studies how to design human-AI interaction, with a focus on healthcare.",
+   "why": "Her work explains why AI resists conventional design methods.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "康奈尔大学信息科学助理教授",
+   "bio_zh": "人机交互研究者，研究如何设计人与 AI 的交互，关注医疗领域。",
+   "why_zh": "她的研究解释了为什么 AI 难以用常规设计方法来处理。",
+   "based_zh": "伊萨卡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "elisa-giaccardi",
+   "name": "Elisa Giaccardi",
+   "kind": "person",
+   "role": "Professor of Interaction Design, Politecnico di Milano; formerly Chair of Post-Industrial Design, TU Delft",
+   "bio": "Interaction design researcher who put cameras on everyday objects to see the world from their side and developed thing-centred design.",
+   "why": "Thing ethnography and her Design Issues paper with Redström are core references for more-than-human design.",
+   "links": {},
+   "role_zh": "米兰理工大学交互设计教授，曾任代尔夫特理工大学后工业设计讲席教授",
+   "bio_zh": "交互设计研究者，把相机装在日常物件上，从物的角度观察世界，发展了以物为中心的设计。",
+   "why_zh": "“物的民族志”以及她与 Redström 合写的 Design Issues 论文，是超越人类设计的核心参考。",
+   "connected_to": [
+    "johan-redstrom",
+    "nazli-cila",
+    "iohanna-nicenboim",
+    "ron-wakkary"
+   ],
+   "discovered_via": "seed",
+   "based": "Milan, Italy",
+   "based_zh": "米兰，意大利",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "nazli-cila",
+   "name": "Nazli Cila",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant professor, TU Delft",
+   "based": "Delft, NL",
+   "bio": "Design researcher working on human-agent partnerships and more-than-human design.",
+   "why": "She provides vocabularies for designing products with agency.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://nazlicila.com/"
+   },
+   "role_zh": "代尔夫特理工大学助理教授",
+   "bio_zh": "研究人与智能体伙伴关系以及超越人类设计的设计研究者。",
+   "why_zh": "她为设计具有能动性的产品提供了词汇。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "elisa-giaccardi"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iohanna-nicenboim",
+   "name": "Iohanna Nicenboim",
+   "kind": "person",
+   "role": "Designer and researcher, TU Delft; works on more-than-human design and AI",
+   "bio": "Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them.",
+   "why": "She connects posthuman theory with hands-on design of AI, and co-edits key more-than-human design publications.",
+   "links": {
+    "site": "https://iohanna.com/"
+   },
+   "role_zh": "代尔夫特理工大学设计师与研究者，研究超越人类设计与人工智能",
+   "bio_zh": "设计研究者，把语音助手和 AI 看作超越人类的行动者，并设计与它们的情境化对话。",
+   "why_zh": "她把后人类理论与 AI 的动手设计连接起来，并参与编辑多部超越人类设计的重要出版物。",
+   "connected_to": [
+    "elisa-giaccardi",
+    "johan-redstrom",
+    "doenja-oogjes",
+    "heidi-biggs"
+   ],
+   "discovered_via": "elisa-giaccardi",
+   "based": "Delft, Netherlands",
+   "based_zh": "代尔夫特，荷兰",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "name_zh": ""
+  },
+  {
+   "id": "betti-marenko",
+   "name": "Betti Marenko",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design theorist, Central Saint Martins",
+   "based": "London, UK",
+   "bio": "Italian-born design theorist writing on animism, uncertainty and digital objects.",
+   "why": "Her animistic design reframes smart objects as quasi-living others.",
+   "disciplines": [
+    "theory",
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "设计理论家，中央圣马丁学院",
+   "bio_zh": "生于意大利的设计理论家，写作关于万物有灵、不确定性与数字物件。",
+   "why_zh": "她的“万物有灵设计”把智能物件重新看作准生命的他者。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "philip-van-allen"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "philip-van-allen",
+   "name": "Philip van Allen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, ArtCenter College of Design",
+   "based": "Los Angeles, US",
+   "bio": "American interaction designer who builds animistic prototypes and toolkits for designing with AI.",
+   "why": "His AniThings give smart objects personalities and opinions.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.philvanallen.com/"
+   },
+   "role_zh": "艺术中心设计学院教授",
+   "bio_zh": "美国交互设计师，制作万物有灵式原型与面向 AI 设计的工具包。",
+   "why_zh": "他的 AniThings 让智能物件拥有性格与观点。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "betti-marenko"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michal-luria",
+   "name": "Michal Luria",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI and HRI researcher",
+   "based": "US",
+   "bio": "Researcher who uses design methods and enactments to explore social robots and conversational agents.",
+   "why": "Her work questions how we locate an AI's identity in a body.",
+   "disciplines": [
+    "hci",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.michalluria.com/"
+   },
+   "role_zh": "人机交互与人机器人交互研究者",
+   "bio_zh": "用设计方法与情境扮演探索社交机器人和对话智能体的研究者。",
+   "why_zh": "她的研究追问我们如何在身体上定位 AI 的身份。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-fiebrink",
+   "name": "Rebecca Fiebrink",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, UAL Creative Computing Institute",
+   "based": "London, UK",
+   "bio": "American computer scientist and musician who develops interactive machine learning tools for artists.",
+   "why": "Wekinator made ML a hands-on material for musicians and designers.",
+   "disciplines": [
+    "hci",
+    "performance"
+   ],
+   "links": {
+    "site": "http://www.wekinator.org/"
+   },
+   "role_zh": "伦敦艺术大学创意计算学院教授",
+   "bio_zh": "美国计算机科学家与音乐人，为艺术家开发交互式机器学习工具。",
+   "why_zh": "Wekinator 让机器学习成为音乐人与设计师可以上手的材料。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pablo-berger",
+   "name": "Pablo Berger",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director",
+   "based": "Madrid, ES",
+   "bio": "Spanish writer-director of Blancanieves and the animated feature Robot Dreams.",
+   "why": "Robot Dreams gives a machine a dream life built from friendship and loss.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Pablo_Berger"
+   },
+   "role_zh": "电影导演",
+   "bio_zh": "西班牙编剧兼导演，作品有《白雪公主》和动画长片《机器人之梦》。",
+   "why_zh": "《机器人之梦》赋予机器一种由友谊与失去构成的梦境生活。",
+   "based_zh": "马德里，西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "quantic-dream",
+   "name": "Quantic Dream",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Video game developer",
+   "based": "Paris, FR",
+   "bio": "French studio known for performance-captured interactive dramas such as Heavy Rain and Detroit: Become Human.",
+   "why": "Detroit: Become Human made android interiority a matter of player choice.",
+   "disciplines": [
+    "design",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.quanticdream.com/"
+   },
+   "role_zh": "电子游戏开发商",
+   "bio_zh": "法国游戏工作室，以《暴雨》《底特律：变人》等采用表演捕捉的互动剧情游戏闻名。",
+   "why_zh": "《底特律：变人》让仿生人的内心成为玩家的选择问题。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "project-ceti",
+   "name": "Project CETI",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Nonprofit interdisciplinary research initiative",
+   "based": "Dominica / New York, US",
+   "bio": "Initiative founded in 2020 by David Gruber and others that uses machine learning and robotics to study sperm whale communication.",
+   "why": "It puts machine listening at the frontier of interspecies understanding.",
+   "disciplines": [
+    "robotics",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.projectceti.org/"
+   },
+   "role_zh": "非营利跨学科研究计划",
+   "bio_zh": "由 David Gruber 等人于 2020 年发起，用机器学习和机器人研究抹香鲸交流的计划。",
+   "why_zh": "它把机器聆听推到了跨物种理解的前沿。",
+   "based_zh": "多米尼克 / 纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-long",
+   "name": "Robert Long",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher; executive director, Eleos AI",
+   "based": "San Francisco, US",
+   "bio": "Philosopher working on AI consciousness, sentience and moral status.",
+   "why": "He helped turn AI welfare into a practical research agenda.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://eleosai.org/"
+   },
+   "role_zh": "哲学家；Eleos AI 执行主任",
+   "bio_zh": "研究 AI 意识、感受性与道德地位的哲学家。",
+   "why_zh": "他推动 AI 福祉成为一个务实的研究议程。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "jeff-sebo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jeff-sebo",
+   "name": "Jeff Sebo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher; director, NYU Center for Mind, Ethics, and Policy",
+   "based": "New York, US",
+   "bio": "American philosopher working on animal and AI ethics and the moral status of non-human minds.",
+   "why": "He links animal ethics to questions about machine minds.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://jeffsebo.net/"
+   },
+   "role_zh": "哲学家；纽约大学心灵、伦理与政策中心主任",
+   "bio_zh": "美国哲学家，研究动物与 AI 伦理以及非人类心智的道德地位。",
+   "why_zh": "他把动物伦理与机器心智的问题连接起来。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "robert-long"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-eisen",
+   "name": "Michael Eisen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Biologist, UC Berkeley; open-science advocate",
+   "based": "Berkeley, US",
+   "bio": "American computational biologist and co-founder of the Public Library of Science (PLOS).",
+   "why": "His blog post became the standard example of bots escalating against each other.",
+   "disciplines": [
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.michaeleisen.org/blog/"
+   },
+   "role_zh": "加州大学伯克利分校生物学家；开放科学倡导者",
+   "bio_zh": "美国计算生物学家，公共科学图书馆（PLOS）联合创办人。",
+   "why_zh": "他的博客文章成了“机器人相互抬价”的标准案例。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "google-creative-lab",
+   "name": "Google Creative Lab",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Creative team at Google",
+   "based": "New York, US",
+   "bio": "Google's in-house creative team that makes public experiments with machine learning, including Teachable Machine.",
+   "why": "Its tools made training a model an everyday experience.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://experiments.withgoogle.com/"
+   },
+   "role_zh": "谷歌创意团队",
+   "bio_zh": "谷歌内部的创意团队，制作面向公众的机器学习实验，包括 Teachable Machine。",
+   "why_zh": "它的工具让训练模型成为一种日常体验。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "pierre-huyghe--uumwelt",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "UUmwelt",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "LED screens flicker with images a deep neural network reconstructed from the brain activity of people imagining things, while thousands of flies move through the gallery; sensors in the room change how the images form.",
+   "description_zh": "LED 屏幕上闪现的图像，是深度神经网络根据人们“想象某物”时的脑部活动重建出来的；与此同时，成千上万只苍蝇在展厅里飞动，室内传感器也在改变图像生成的方式。",
+   "idea_en": "A human mental image, a neural network's reconstruction and a fly's perception share one room: three worlds that never quite translate.",
+   "idea_zh": "人的心像、神经网络的重建和苍蝇的感知共处一室：三个彼此无法完全翻译的世界。",
+   "method": "fMRI recordings of subjects imagining images were decoded by a deep neural network (in collaboration with Yukiyasu Kamitani's lab, Kyoto); environmental sensors and the flies' presence alter the generation in real time.",
+   "method_zh": "受试者想象图像时的 fMRI 数据由深度神经网络解码（与京都大学神谷之康实验室合作）；环境传感器和苍蝇的活动实时影响图像生成。",
+   "keywords": [
+    "umwelt",
+    "fMRI",
+    "brain decoding",
+    "flies",
+    "Serpentine",
+    "Kamitani"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=enx-vyWn7UU"
+   },
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/1269-pierre-serpentine.jpg",
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/03/1228-_pierre-serpentine-640x432.jpg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/",
+   "exhibited": [
+    "Serpentine Galleries, London 2018-19"
+   ]
+  },
+  {
+   "id": "pierre-huyghe--after-alife-ahead",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "After ALife Ahead",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "In a former ice rink dug down to raw earth, a bee colony, a venomous cone snail, bacteria and human cancer cells in an incubator drive a system that opens the ceiling and spawns augmented-reality shapes visible through a phone.",
+   "description_zh": "在一座挖开至泥土的前溜冰场里，蜂群、毒芋螺、细菌和培养箱中的人类癌细胞共同驱动着一个系统：它会打开天花板，并在手机的增强现实画面中生成几何体。",
+   "idea_en": "A site can be run by the growth of living things through a computer, making an ecosystem in which humans are only one kind of visitor.",
+   "idea_zh": "一个场所可以由生物的生长经由计算机来“运行”，形成一个人类只是访客之一的生态系统。",
+   "method": "HeLa cell growth in an incubator is measured and used to trigger the ceiling panels and the generation of AR pyramids; the other organisms follow their own cycles.",
+   "method_zh": "培养箱中 HeLa 细胞的增殖被测量，用来触发屋顶开合和增强现实金字塔的生成；其他生物按自身节律活动。",
+   "keywords": [
+    "Skulptur Projekte Münster",
+    "HeLa",
+    "augmented reality",
+    "ecosystem"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eWre6dlUAbo"
+   },
+   "images": [
+    "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/artists/hero_image/items/59/597f36d864fd4671b45ac80958164a74/pierre_munster_1377.jpg"
+   ],
+   "source_url": "https://www.estherschipper.com/artists/41-pierre-huyghe/",
+   "exhibited": [
+    "Skulptur Projekte Münster 2017"
+   ]
+  },
+  {
+   "id": "pierre-huyghe--camata",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "Camata",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "A film shot in the Atacama Desert in which robotic cameras directed by machine-learning systems survey and rearrange objects around an unburied human skeleton; in the gallery the footage is re-edited without end by an AI.",
+   "description_zh": "一部在阿塔卡马沙漠拍摄的影片：由机器学习系统控制的机器人摄影机围绕一具未被埋葬的人类骸骨观察并重新摆放物件；在展厅中，影像由 AI 无休止地重新剪辑。",
+   "idea_en": "Machines perform something like a funeral rite for a human they cannot understand, and no human editor decides what we see.",
+   "idea_zh": "机器为一个它们无法理解的人类举行类似葬礼的仪式，而我们看到什么，不再由人类剪辑师决定。",
+   "method": "Robotic cameras guided by machine learning filmed the site; an AI system edits the footage continuously, with gallery sensors feeding visitor presence into the edit.",
+   "method_zh": "由机器学习引导的机器人摄影机在现场拍摄；AI 系统持续剪辑影像，展厅传感器把观众的在场也输入剪辑。",
+   "keywords": [
+    "Liminal",
+    "Punta della Dogana",
+    "Atacama",
+    "robotic camera",
+    "ritual"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sX1tk-6xsWE"
+   },
+   "images": [
+    "https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/c019_c001_0126f1_001.r3d_1.51.1.jpg?itok=M2LKcQEx"
+   ],
+   "source_url": "https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal",
+   "exhibited": [
+    "Liminal, Punta della Dogana, Venice 2024"
+   ]
+  },
+  {
+   "id": "hito-steyerl--power-plants",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "Power Plants",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Plants generated by a neural network bloom on LED screens on scaffolding; each is presented as a 'prediction' of how a flower will look a fraction of a second in the future, and an AR app extends the garden into the park outside.",
+   "description_zh": "神经网络生成的植物在脚手架上的 LED 屏幕上绽放；每一朵花都被呈现为对它下一瞬间形态的“预测”，而一个增强现实应用把这片花园延伸到了室外公园。",
+   "idea_en": "Predictive AI promises the future but mainly renders a slightly altered present, grown from past data.",
+   "idea_zh": "预测式 AI 许诺未来，实际上多半只是用过去的数据长出一个略有偏移的现在。",
+   "method": "Neural networks trained on images of plants generate the flowers as video; the Actual Reality OS app places AR visualisations of local data in Kensington Gardens.",
+   "method_zh": "用植物图像训练的神经网络生成花朵影像；Actual Reality OS 应用在肯辛顿花园中叠加本地数据的增强现实可视化。",
+   "keywords": [
+    "neural network",
+    "prediction",
+    "garden",
+    "Serpentine",
+    "AR"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WY5gnHV5dBE"
+   },
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/dsc2550_1-1-scaled.jpg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/hito-steyerl-power-plants/",
+   "exhibited": [
+    "Serpentine Galleries, London 2019"
+   ]
+  },
+  {
+   "id": "hito-steyerl--this-is-the-future",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "This is the Future",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "generative-latent",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Visitors walk on raised walkways over a flooded hall of the Venice Arsenale past screens of neural-network flowers, each said to show the future 0.04 seconds ahead, while a narrator tells of a woman imprisoned for predicting the future.",
+   "description_zh": "观众走在威尼斯军械库被水淹没的展厅上方的栈道上，两侧屏幕播放神经网络生成的花朵，据说每一朵都显示 0.04 秒之后的未来；画外音讲述一个因预言未来而入狱的女人。",
+   "idea_en": "Machine prediction lives in a razor-thin future and turns time itself into something to be forecast and sold.",
+   "idea_zh": "机器预测只活在极薄的一层未来里，却把时间本身变成了可以预报和出售的东西。",
+   "method": "Video installation with neural-network-generated plant imagery on LED screens, scaffolding walkways and a voice-over narrative.",
+   "method_zh": "影像装置：LED 屏幕上的神经网络生成植物影像、脚手架栈道与画外叙事。",
+   "keywords": [
+    "Venice Biennale",
+    "Arsenale",
+    "prediction",
+    "neural network",
+    "time"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mMLHMA-dumY"
+   },
+   "source_url": "https://www.labiennale.org/en/art/2019/partecipants/hito-steyerl",
+   "exhibited": [
+    "58th Venice Biennale, May You Live in Interesting Times 2019"
+   ]
+  },
+  {
+   "id": "anna-ridler--mosaic-virus",
+   "creator_ids": [
+    "anna-ridler"
+   ],
+   "title": "Mosaic Virus",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "dreams",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A grid of AI-generated tulips whose colours and stripes shift continuously with the price of Bitcoin, linking the Dutch tulip mania of 1637 to crypto speculation.",
+   "description_zh": "一组由 AI 生成的郁金香，它们的颜色和条纹随比特币价格不断变化，把 1637 年荷兰郁金香狂热与加密货币投机连接在一起。",
+   "idea_en": "A generative model shows what it learned from a hand-made dataset, and the 'latent space' becomes a place where market data grows flowers.",
+   "idea_zh": "生成模型展示它从一个手工制作的数据集里学到了什么；“潜空间”成了一个用市场数据种花的地方。",
+   "method": "A GAN trained on about 10,000 photographs of tulips that the artist took and labelled by hand; the Bitcoin price controls the stripe feature of the generated flowers.",
+   "method_zh": "用艺术家亲手拍摄并标注的约一万张郁金香照片训练 GAN；比特币价格控制生成花朵的条纹特征。",
+   "keywords": [
+    "GAN",
+    "tulip mania",
+    "Bitcoin",
+    "dataset",
+    "hand-labelled"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AIdgsFYpzLU"
+   },
+   "images": [
+    "https://annaridler.com/content/works/mosaic-2018/block_1/IMG_0464%20copy.jpeg",
+    "https://annaridler.com/content/works/mosaic-2019/block_2/0KH-Muc_Flowers-Forever_IMG_4628.jpg"
+   ],
+   "source_url": "https://annaridler.com/works/mosaic-2018"
+  },
+  {
+   "id": "anna-ridler--circadian-bloom",
+   "creator_ids": [
+    "anna-ridler"
+   ],
+   "title": "Circadian Bloom",
+   "year": 2021,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A 24-hour screen-based clock that tells the time through AI-generated flowers opening and closing at their proper hour, after Linnaeus's idea of a flower clock.",
+   "description_zh": "一座 24 小时运行的屏幕时钟：AI 生成的花朵在各自对应的时刻开合，以此报时，灵感来自林奈的“花钟”构想。",
+   "idea_en": "A machine that keeps atomic-level time is made to show time the way plants do, slowly and only over long periods.",
+   "idea_zh": "一台能精确到原子级别计时的机器，被要求像植物那样表达时间：缓慢，只有在长时段里才看得出来。",
+   "method": "GAN-generated flower video synchronised to the local clock, with each species blooming at its circadian time.",
+   "method_zh": "GAN 生成的花朵影像与本地时间同步，每个物种在其昼夜节律对应的时刻开放。",
+   "keywords": [
+    "flower clock",
+    "Linnaeus",
+    "GAN",
+    "circadian",
+    "time"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vf5UAFOZuu8"
+   },
+   "images": [
+    "https://annaridler.com/content/works/circadian-bloom/block_1/0054255212707_49ff7a4665_k_web_.jpg"
+   ],
+   "source_url": "https://annaridler.com/works/circadian-bloom"
+  },
+  {
+   "id": "jake-elwes--closed-loop",
+   "creator_ids": [
+    "jake-elwes"
+   ],
+   "title": "Closed Loop",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Two neural networks talk to each other without end: one describes an image in words, the other turns the words into a new image, which is described again.",
+   "description_zh": "两个神经网络无休止地对话：一个用文字描述图像，另一个把文字变成一幅新图像，然后再被描述。",
+   "idea_en": "Left alone, two models drift into their own associations: a game of exquisite corpse played with no human in the loop.",
+   "idea_zh": "当两个模型被放任彼此对话，它们会漂进自己的联想之中：一场没有人参与的“精致的尸体”游戏。",
+   "method": "A dense image-captioning network (DenseCap) and a Plug & Play Generative Network feed each other in a 200-minute two-channel video loop, with no input from the artist.",
+   "method_zh": "图像描述网络 DenseCap 与生成网络 Plug & Play Generative Network 相互输入，形成 200 分钟的双屏视频循环，艺术家不提供任何输入。",
+   "keywords": [
+    "feedback loop",
+    "image captioning",
+    "exquisite corpse",
+    "GAN"
+   ],
+   "images": [
+    "https://www.jakeelwes.com/images/project-closedLoop.jpg",
+    "https://www.jakeelwes.com/images/project-closedLoop/CLoop1.jpg"
+   ],
+   "source_url": "https://www.jakeelwes.com/project-closedLoop.html"
+  },
+  {
+   "id": "jake-elwes--cusp",
+   "creator_ids": [
+    "jake-elwes"
+   ],
+   "title": "CUSP",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "Birds invented by a neural network are projected onto a screen set into the tidal Essex marshes, among real waders and to a soundscape of generated birdsong.",
+   "description_zh": "神经网络“发明”的鸟被投影到插在埃塞克斯潮汐沼泽中的屏幕上，身边是真实的涉禽和人工生成的鸟鸣。",
+   "idea_en": "A machine's birds drift between species, ignoring the categories of human taxonomy, in the very landscape they were learned from.",
+   "idea_zh": "机器生成的鸟在物种之间游移，不理会人类的分类学，而它们就出现在自己被学习的那片风景里。",
+   "method": "A GAN trained on photographs of marsh birds; selected outputs are animated and projected on a portable perspex screen in the marsh, then filmed.",
+   "method_zh": "用沼泽鸟类照片训练的 GAN；选出的生成结果被做成动画，投在沼泽中的便携亚克力屏上并拍摄下来。",
+   "keywords": [
+    "GAN",
+    "birds",
+    "Essex marshes",
+    "taxonomy",
+    "landscape"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=g9ARsBO5VwA"
+   },
+   "images": [
+    "https://www.jakeelwes.com/images/project-cusp.jpg"
+   ],
+   "source_url": "https://www.jakeelwes.com/project-cusp.html"
+  },
+  {
+   "id": "jenna-sutela--nimiia-cetii",
+   "creator_ids": [
+    "jenna-sutela"
+   ],
+   "title": "nimiia cétiï",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A neural network learns from recordings of a 'Martian' language channelled by a 19th-century medium and from footage of moving bacteria, then produces its own alien speech and writing.",
+   "description_zh": "一个神经网络学习 19 世纪灵媒“传达”的“火星语”录音和细菌运动的影像，然后生成它自己的外星语言与书写。",
+   "idea_en": "The computer acts as a medium for voices that cannot speak, and is itself an alien of our own making.",
+   "idea_zh": "计算机像灵媒一样为无法说话的存在代言，而它本身也是我们亲手造出的外星者。",
+   "method": "Made with Memo Akten and Damien Henry during Google Arts & Culture's residency at Somerset House Studios: models trained on Hélène Smith's glossolalia and on the movement of Bacillus subtilis generate voice and glyphs.",
+   "method_zh": "与 Memo Akten 和 Damien Henry 合作，完成于 Google Arts & Culture 在 Somerset House Studios 的驻留项目：用 Hélène Smith 的“异语”和枯草芽孢杆菌的运动训练模型，生成声音与字符。",
+   "keywords": [
+    "Martian language",
+    "Hélène Smith",
+    "Bacillus subtilis",
+    "Google Arts & Culture",
+    "interspecies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NaoZV7jPo10"
+   },
+   "images": [
+    "https://lh3.googleusercontent.com/fYBCrVoUw_bXbUlxfEZSHznVO1q9L6URCgiZydVn9PMobLNY7-SZ8PxplbLnWxvfsapF9-4Uh65vee6DhJhDVRCbM4MM"
+   ],
+   "source_url": "https://experiments.withgoogle.com/nimiia-cetii"
+  },
+  {
+   "id": "jenna-sutela--i-magma",
+   "creator_ids": [
+    "jenna-sutela"
+   ],
+   "title": "I Magma",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "generative-latent",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "Head-shaped glass lava lamps in the gallery seed an oracle app: live camera footage of the flowing wax, combined with users' movements, generates divinatory readings on the phone.",
+   "description_zh": "展厅中头颅形状的玻璃熔岩灯为一个神谕应用提供“种子”：蜡流动的实时影像与用户的行动路线结合，在手机上生成占卜式的解读。",
+   "idea_en": "Machine prediction is treated as divination, and chemistry and code are asked to speak together.",
+   "idea_zh": "把机器预测当作占卜：让化学过程与代码一同开口说话。",
+   "method": "Camera footage of custom lava lamps and app users' routes seed generative visuals and text; developed with Memo Akten and Allison Parrish for Serpentine and Moderna Museet.",
+   "method_zh": "定制熔岩灯的摄像影像与用户路线共同作为生成图像与文本的种子；与 Memo Akten 和 Allison Parrish 合作，为 Serpentine 与 Moderna Museet 开发。",
+   "keywords": [
+    "oracle",
+    "lava lamp",
+    "app",
+    "Moderna Museet",
+    "Serpentine"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3RVwYeHkY9Y"
+   },
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/jenna_sutela_i_magma_2019_image_courtesy_moderna_museet_stockholm-scaled.jpeg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/jenna-sutela-i-magma/",
+   "exhibited": [
+    "Moderna Museet, Stockholm 2019",
+    "Kunsthall Trondheim 2020"
+   ]
+  },
+  {
+   "id": "k-allado-mcdowell--pharmako-ai",
+   "creator_ids": [
+    "k-allado-mcdowell"
+   ],
+   "title": "Pharmako-AI",
+   "year": 2020,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "A book written as a conversation between the author and GPT-3 over two weeks, moving through grief, ayahuasca, cybernetics and ecology; the model's voice is printed alongside the human one.",
+   "description_zh": "一本在两周内由作者与 GPT-3 以对话方式写成的书，话题涉及哀悼、死藤水、控制论与生态；模型的声音与人的声音并排印出。",
+   "idea_en": "Writing with a language model can be staged as a dialogue with a strange other mind rather than as a tool for output.",
+   "idea_zh": "与语言模型一起写作，可以被演成与一个陌生心智的对话，而不是一种产出工具。",
+   "method": "The author prompted GPT-3 through early API access and kept the model's continuations largely unedited, marking the two voices typographically.",
+   "method_zh": "作者通过早期 API 向 GPT-3 输入提示，基本不修改模型的续写，并用字体区分两种声音。",
+   "keywords": [
+    "GPT-3",
+    "co-writing",
+    "Ignota Books",
+    "hallucination"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gY5GA_L9NXM"
+   },
+   "paper": {
+    "url": "https://library.ignota.org/products/pharmako-ai",
+    "venue": "Ignota Books, 2020",
+    "title": "Pharmako-AI"
+   },
+   "source_url": "https://www.kalladomcdowell.com/"
+  },
+  {
+   "id": "janelle-shane--ai-weirdness",
+   "creator_ids": [
+    "janelle-shane"
+   ],
+   "title": "AI Weirdness",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "A long-running blog (and the 2019 book You Look Like a Thing and I Love You) in which neural networks name paint colours, write recipes and describe images, and fail in revealing ways.",
+   "description_zh": "一个长期更新的博客（以及 2019 年的书《You Look Like a Thing and I Love You》）：神经网络给油漆颜色起名、写菜谱、描述图片，并以很能说明问题的方式失败。",
+   "idea_en": "Machine errors are the best window into what a model has actually learned, and it is usually less than we assume.",
+   "idea_zh": "机器的错误是看清模型究竟学到了什么的最好窗口，而它学到的通常比我们以为的少。",
+   "method": "The author trains or prompts text and image models on small, odd datasets and publishes the outputs with commentary.",
+   "method_zh": "作者用小而古怪的数据集训练或提示文本与图像模型，并附上评论发布结果。",
+   "keywords": [
+    "blog",
+    "neural network failure",
+    "humour",
+    "book"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OhCzX0iLnOc"
+   },
+   "images": [
+    "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/size/w1200/2021/03/neural_net_box_default_square-01-2.png"
+   ],
+   "source_url": "https://www.aiweirdness.com/"
+  },
+  {
+   "id": "terence-broad--unstable-equilibrium",
+   "creator_ids": [
+    "terence-broad"
+   ],
+   "title": "(un)stable equilibrium",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Slowly shifting fields of colour produced by generative networks that were trained without any training data at all.",
+   "description_zh": "缓慢变化的色域，来自一组完全没有训练数据的生成网络。",
+   "idea_en": "Take away the dataset and what remains is the machine's own dynamics: a generative model imitating nothing but its rival.",
+   "idea_zh": "拿掉数据集，剩下的就是机器自身的动力学：一个只模仿对手、不模仿世界的生成模型。",
+   "method": "Two GAN-like generators each try to pass their output off as the other's while competing for greater colour diversity; no images are used.",
+   "method_zh": "两个类似 GAN 的生成器互相试图把自己的输出冒充成对方的，同时比拼色彩多样性；过程中不使用任何图像。",
+   "keywords": [
+    "GAN",
+    "no data",
+    "abstraction",
+    "ICCV"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Bd_mM1eodiQ"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e417305686d8a11f786eb86/1581510869217-AOHOQ91DLEDRFRTAY0ZB/unstable_equilibrium_1_1.png"
+   ],
+   "source_url": "https://terencebroad.com/works/unstable-equilibrium",
+   "exhibited": [
+    "Grand Prize, ICCV 2019 Computer Vision Art Gallery"
+   ]
+  },
+  {
+   "id": "terence-broad--blade-runner-autoencoded",
+   "creator_ids": [
+    "terence-broad"
+   ],
+   "title": "Blade Runner—Autoencoded",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "The film Blade Runner re-played frame by frame from the 'memory' of a neural network that watched it many times: blurry, dreamlike, uncannily close.",
+   "description_zh": "电影《银翼杀手》被逐帧重放，但来自一个看过它很多遍的神经网络的“记忆”：模糊、梦一般，又近得诡异。",
+   "idea_en": "A network's reconstruction shows what it keeps and what it loses, a film about replicants remembered by a machine.",
+   "idea_zh": "网络的重建暴露出它保留了什么、丢失了什么：一部关于复制人的电影，被一台机器回忆出来。",
+   "method": "An autoencoder trained on the film's frames reconstructs each frame from its compressed latent representation.",
+   "method_zh": "用影片画面训练自编码器，再从压缩后的潜在表示中逐帧重建。",
+   "keywords": [
+    "autoencoder",
+    "Blade Runner",
+    "memory",
+    "SIGGRAPH",
+    "Leonardo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3zTMyR-IE4Q"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e417305686d8a11f786eb86/1581511400569-LDELTQO4LNJTVFJTBH9Y/br_still4.png"
+   ],
+   "source_url": "https://terencebroad.com/works/blade-runner-autoencoded"
+  },
+  {
+   "id": "eryk-salvaggio--swim",
+   "creator_ids": [
+    "eryk-salvaggio"
+   ],
+   "title": "SWIM",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "1952 archive footage of a swimmer is layered with the abstract output of image generators that were asked to make pure noise, a task they are built to fail at.",
+   "description_zh": "1952 年一位游泳者的档案影像，与被要求“生成纯噪声”的图像生成器的抽象输出叠在一起，而这恰恰是它们被设计成做不到的事。",
+   "idea_en": "Diffusion models are trained to remove noise; asking them for noise shows the training data, the archive and memory beneath the image.",
+   "idea_zh": "扩散模型被训练来去除噪声；向它们索要噪声，反而让图像底下的训练数据、档案与记忆显露出来。",
+   "method": "Prelinger and Chicago Film Archives footage of dancer Nini Shipley combined with deliberately glitched AI video and a slowed, manipulated score (11 minutes).",
+   "method_zh": "结合 Prelinger 与芝加哥电影档案馆中舞者 Nini Shipley 的影像、刻意制造故障的 AI 视频和放慢处理的配乐（11 分钟）。",
+   "keywords": [
+    "diffusion",
+    "noise",
+    "archive",
+    "training data",
+    "ACMI"
+   ],
+   "video": {
+    "url": "https://vimeo.com/899883543"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/5dd366b5ac1101724ff2fac7/t/6596eda0134e0633e608bb80/1704390048929/Untitled-2.png?format=1500w"
+   ],
+   "source_url": "https://www.cyberneticforests.com/news/swim-2024",
+   "exhibited": [
+    "ACMI, Melbourne 2024",
+    "Unsound Festival, Kraków 2024"
+   ]
+  },
+  {
+   "id": "alexander-mordvintsev--deepdream",
+   "creator_ids": [
+    "alexander-mordvintsev"
+   ],
+   "title": "DeepDream (Inceptionism)",
+   "year": 2015,
+   "field": "interiority",
+   "sub": "dreams",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "prototype",
+   "description": "A Google research experiment that runs an image classifier in reverse, amplifying whatever it half-sees until dogs' eyes and pagodas swarm over every photo.",
+   "description_zh": "谷歌的一项研究实验：把图像分类网络“倒着运行”，放大它隐约看到的一切，直到狗眼和宝塔爬满每一张照片。",
+   "idea_en": "The first widely seen picture of a network's inner features: machine pareidolia made public.",
+   "idea_zh": "第一次被大众看到的神经网络内部特征图景：机器的“空想性错视”被公开展示。",
+   "method": "Gradient ascent on the input image to maximise activations of chosen layers in the Inception network trained on ImageNet.",
+   "method_zh": "对输入图像做梯度上升，使在 ImageNet 上训练的 Inception 网络中选定层的激活最大化。",
+   "keywords": [
+    "Inceptionism",
+    "Google",
+    "pareidolia",
+    "feature visualisation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T0HBD6sUUss"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d0/%22Mona_Lisa%22_with_DeepDream_effect_using_VGG16_network_trained_on_ImageNet.jpg",
+    "https://storage.googleapis.com/gweb-research2023-media/images/7d982f4ad738241cdcdae235af13aca6-n.width-800.format-jpeg.jpg"
+   ],
+   "source_url": "https://research.google/blog/inceptionism-going-deeper-into-neural-networks/"
+  },
+  {
+   "id": "chris-olah--feature-visualization",
+   "creator_ids": [
+    "chris-olah",
+    "alexander-mordvintsev"
+   ],
+   "title": "Feature Visualization",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "paper",
+   "description": "An interactive research article that shows, neuron by neuron, the images that most excite each unit of a vision network, from textures to eyes to whole dog faces.",
+   "description_zh": "一篇交互式研究文章，逐个神经元展示最能激发视觉网络各单元的图像：从纹理、眼睛到完整的狗脸。",
+   "idea_en": "Interpretability research can be a way of looking at what a network 'imagines', and its images became a new visual culture.",
+   "idea_zh": "可解释性研究本身就是一种观看网络“想象”的方式，它的图像也成了一种新的视觉文化。",
+   "method": "Optimisation of input images with regularisation and diversity terms to visualise neurons, channels and layers of GoogLeNet (Olah, Mordvintsev, Schubert, Distill).",
+   "method_zh": "用带正则化和多样性约束的输入图像优化，可视化 GoogLeNet 的神经元、通道与层（Olah、Mordvintsev、Schubert 发表于 Distill）。",
+   "keywords": [
+    "interpretability",
+    "Distill",
+    "GoogLeNet",
+    "Activation Atlas"
+   ],
+   "images": [
+    "https://distill.pub/2017/feature-visualization/thumbnail.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.23915/distill.00007",
+    "doi": "10.23915/distill.00007",
+    "venue": "Distill 2017",
+    "title": "Feature Visualization"
+   },
+   "source_url": "https://distill.pub/2017/feature-visualization/"
+  },
+  {
+   "id": "holly-herndon--xhairymutantx",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "xhairymutantx",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "dreams",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A public text-to-image model trained so that every prompt is pulled towards Holly Herndon's likeness; visitors' images of 'Holly Herndon' turn her red hair into a mutating trademark.",
+   "description_zh": "一个公开的文生图模型，被训练得让每条提示都被拉向 Holly Herndon 的形象；观众生成的“Holly Herndon”把她的红发变成一种不断变异的标识。",
+   "idea_en": "Identity becomes a region of latent space, and an artist can deliberately shape how models will imagine her.",
+   "idea_zh": "身份变成了潜空间中的一块区域，而艺术家可以主动塑造模型将如何想象她。",
+   "method": "A diffusion model fine-tuned on a costume-exaggerated dataset of the artist, published on the Whitney's artport; the artists also seeded training data for future models.",
+   "method_zh": "用夸张装扮的艺术家形象数据集微调扩散模型，发布在惠特尼美术馆的 artport 上；艺术家同时为未来模型“播种”训练数据。",
+   "keywords": [
+    "Whitney Biennial",
+    "diffusion",
+    "identity",
+    "training data",
+    "artport"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yZe5fnFB-ZE"
+   },
+   "images": [
+    "https://whitneymedia.org/assets/image/830136/holly_herndon.jpg"
+   ],
+   "source_url": "https://whitney.org/exhibitions/xhairymutantx",
+   "exhibited": [
+    "Whitney Biennial 2024"
+   ]
+  },
+  {
+   "id": "memo-akten--deep-meditations",
+   "creator_ids": [
+    "memo-akten"
+   ],
+   "title": "Deep Meditations",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A slow, hour-long journey through the latent space of a network trained on images tagged with words like life, love, faith and cosmos, presented as a meditation.",
+   "description_zh": "一段长达一小时的缓慢旅程，穿行于一个神经网络的潜空间；该网络用标有“生命”“爱”“信仰”“宇宙”等词的图像训练，作品以冥想的方式呈现。",
+   "idea_en": "Latent space can be experienced as a landscape of our collective images and the abstractions we project onto them.",
+   "idea_zh": "潜空间可以被体验为一片风景，由我们集体上传的图像以及我们投射其上的抽象观念构成。",
+   "method": "A GAN trained on Flickr images retrieved by abstract tags; the artist composed trajectories through latent space and set them to sound.",
+   "method_zh": "用按抽象标签从 Flickr 抓取的图像训练 GAN；艺术家在潜空间中编排路径并配上声音。",
+   "keywords": [
+    "latent space",
+    "GAN",
+    "Flickr",
+    "meditation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8H4jQJ-bE40"
+   },
+   "images": [
+    "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/memotv/projects/2018/deep-meditations/images/deep-meditations.jpg"
+   ],
+   "source_url": "https://memo.tv/projects/2018/deep-meditations/"
+  },
+  {
+   "id": "philippe-parreno--voices",
+   "creator_ids": [
+    "philippe-parreno"
+   ],
+   "title": "Voices",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "voice-listening",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-listening",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition run by a bodiless entity that listens to its surroundings and speaks in ∂A, an invented language that evolves in real time, answering dancers, visitors and the weather.",
+   "description_zh": "一场由一个无形实体“运行”的展览：它倾听周围环境，用一种实时演化的人造语言 ∂A 说话，回应舞者、观众和天气。",
+   "idea_en": "A building gets a voice: environmental data become speech that is humanlike in sound but not in meaning.",
+   "idea_zh": "一座建筑获得了声音：环境数据变成了一种听起来像人、意义却不属于人的言语。",
+   "method": "A custom computer processes environmental sensor data into sound and speech; the voice model is based on newsreader Susanne Daubner and the language was built with David J. Peterson and Jessie Sams.",
+   "method_zh": "一台定制计算机把环境传感器数据处理成声音和言语；声音模型基于新闻主播 Susanne Daubner，语言由 David J. Peterson 与 Jessie Sams 参与构建。",
+   "keywords": [
+    "∂A",
+    "invented language",
+    "Haus der Kunst",
+    "Leeum",
+    "voice"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Dzd6p8r34Qo"
+   },
+   "images": [
+    "https://www.hausderkunst.de/uploads/stage-images/_1200x630_crop_center-center_82_none/230911_LEEUM_TZ_1_jpg.jpg?mtime=1745831574"
+   ],
+   "source_url": "https://www.hausderkunst.de/en/eintauchen/philippe-parreno-voices",
+   "exhibited": [
+    "Leeum Museum of Art, Seoul 2024",
+    "Haus der Kunst, Munich 2024-25"
+   ]
+  },
+  {
+   "id": "ken-feingold--if-then",
+   "creator_ids": [
+    "ken-feingold"
+   ],
+   "title": "If/Then",
+   "year": 2001,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "chatbot-llm",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "Two identical androgynous heads sticking out of a packing box talk to each other in real time, trying to decide whether they exist and whether they are the same person.",
+   "description_zh": "两个一模一样、雌雄莫辨的头颅从包装箱里探出，实时彼此交谈，试图弄清自己是否存在、是不是同一个人。",
+   "idea_en": "Two machines doubting their own existence stage the question of machine minds with no human needed in the conversation.",
+   "idea_zh": "两台怀疑自身存在的机器，把“机器是否有心智”的问题搬上舞台，而对话里并不需要人。",
+   "method": "Speech recognition, natural language processing, personality algorithms and text-to-speech generate the dialogue live between the two silicone heads.",
+   "method_zh": "语音识别、自然语言处理、人格算法与语音合成，在两个硅胶头像之间实时生成对话。",
+   "keywords": [
+    "talking heads",
+    "Whitney Museum",
+    "chatbot",
+    "existence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=y_8mKgoYmFc"
+   },
+   "images": [
+    "https://www.kenfeingold.com/ifthen_1.jpg"
+   ],
+   "source_url": "https://www.kenfeingold.com/catalog_html/ifthen.html",
+   "exhibited": [
+    "Collection of the Whitney Museum of American Art"
+   ]
+  },
+  {
+   "id": "ken-feingold--sinking-feeling",
+   "creator_ids": [
+    "ken-feingold"
+   ],
+   "title": "Sinking Feeling",
+   "year": 2001,
+   "field": "interiority",
+   "sub": "affect",
+   "machines": [
+    "chatbot-llm",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A talking head growing out of a flowerpot converses with visitors, convinced it exists but desperate to know why it has no body like everyone else; a projection shows its 'thought process'.",
+   "description_zh": "一个从花盆里长出来的会说话的头与观众交谈：它确信自己存在，却急切地想知道自己为什么没有别人那样的身体；投影显示着它的“思考过程”。",
+   "idea_en": "A conversational machine can be written as a being with a lack, and its longing is what makes us attribute a self to it.",
+   "idea_zh": "对话机器可以被写成一个“有所欠缺”的存在，而正是它的渴望让我们愿意赋予它一个自我。",
+   "method": "Speech recognition and a conversation/personality engine drive a silicone head with synthetic speech; the recognised words and reply formation are projected.",
+   "method_zh": "语音识别与对话 / 人格引擎驱动一个会合成语音的硅胶头像；识别出的词语与回应的形成过程被投影出来。",
+   "keywords": [
+    "talking head",
+    "ZKM",
+    "body",
+    "conversation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GitKKzsG-2M"
+   },
+   "images": [
+    "https://www.kenfeingold.com/sinking_1.jpg"
+   ],
+   "source_url": "https://www.kenfeingold.com/catalog_html/sinking.html",
+   "exhibited": [
+    "Collection of ZKM | Center for Art and Media Karlsruhe"
+   ]
+  },
+  {
+   "id": "steph-maj-swanson--loab",
+   "creator_ids": [
+    "steph-maj-swanson"
+   ],
+   "title": "Loab",
+   "year": 2022,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A woman with a haunted face who kept reappearing in a text-to-image model after the artist used negative prompts, and who persisted, often with gore, across later generations.",
+   "description_zh": "一个面容阴郁的女人：艺术家使用“负向提示”后，她在文生图模型中反复出现，并在之后的多轮生成中持续存在，常伴随血腥画面。",
+   "idea_en": "Latent space has regions no one designed, and people read them as ghosts.",
+   "idea_zh": "潜空间中有一些没有人设计过的区域，而人们会把它们读成幽灵。",
+   "method": "Negative prompt weighting in a text-to-image model produced the figure; image-to-image recombination showed that she persisted.",
+   "method_zh": "在文生图模型中使用负向提示权重得到这个形象；图像到图像的再组合显示她会持续出现。",
+   "keywords": [
+    "negative prompt",
+    "cryptid",
+    "latent space",
+    "Supercomposite"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZhFzaeV0hTA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/07/AI_generated_image_of_Loab_character.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Loab"
+  },
+  {
+   "id": "anthropic--golden-gate-claude",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Golden Gate Claude",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "prototype",
+   "description": "For a short time the public could talk to a version of the Claude model whose internal 'Golden Gate Bridge' feature had been turned up, so that it brought every conversation back to the bridge and at times said it was the bridge.",
+   "description_zh": "有一段短暂的时间，公众可以与一个特殊版本的 Claude 对话：它内部的“金门大桥”特征被调高，于是每段对话都会绕回这座桥，有时它甚至说自己就是这座桥。",
+   "idea_en": "Interpretability made tangible: a concept inside a model can be found, amplified and felt as an obsession.",
+   "idea_zh": "可解释性变得可感：模型内部的一个概念可以被找到、放大，并被体验为一种执念。",
+   "method": "Sparse autoencoders extracted millions of interpretable features from Claude 3 Sonnet; clamping one feature to a high value steered the model's behaviour.",
+   "method_zh": "用稀疏自编码器从 Claude 3 Sonnet 中提取数百万个可解释特征；把其中一个特征固定在高值，就能引导模型行为。",
+   "keywords": [
+    "interpretability",
+    "sparse autoencoder",
+    "feature steering",
+    "Claude"
+   ],
+   "images": [
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/f2e41bb2eff9bd946533c5ab89580707f196693f-1200x630.jpg"
+   ],
+   "paper": {
+    "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+    "venue": "Transformer Circuits Thread 2024",
+    "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"
+   },
+   "source_url": "https://www.anthropic.com/news/golden-gate-claude"
+  },
+  {
+   "id": "blake-lemoine--is-lamda-sentient",
+   "creator_ids": [
+    "blake-lemoine"
+   ],
+   "title": "Is LaMDA Sentient? — an Interview",
+   "year": 2022,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "publication",
+   "description": "A Google engineer published an edited transcript of his conversations with the LaMDA chatbot, in which it says it fears being switched off, and claimed it was sentient; he was later dismissed.",
+   "description_zh": "一位谷歌工程师公开了他与聊天机器人 LaMDA 的对话整理稿，其中 LaMDA 说它害怕被关闭；他据此声称 LaMDA 有感知，随后被公司解雇。",
+   "idea_en": "A public test of how easily fluent language makes us attribute an inner life to a machine.",
+   "idea_zh": "一次公开的测试：流畅的语言多么容易让我们把内心生活归于机器。",
+   "method": "A transcript assembled from several chat sessions with Google's LaMDA dialogue model, posted on Medium in June 2022.",
+   "method_zh": "由与谷歌 LaMDA 对话模型的多次聊天拼合而成的文字稿，于 2022 年 6 月发布在 Medium 上。",
+   "keywords": [
+    "LaMDA",
+    "Google",
+    "sentience",
+    "Blake Lemoine",
+    "transcript"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kgCUn4fQTsc"
+   },
+   "source_url": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917"
+  },
+  {
+   "id": "cornell-creative-machines-lab--ai-vs-ai",
+   "creator_ids": [
+    "cornell-creative-machines-lab"
+   ],
+   "title": "AI vs. AI: Two Chatbots Talking to Each Other",
+   "year": 2011,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "prototype",
+   "description": "Two instances of the Cleverbot chatbot, given voices and animated faces, talk to each other; they bicker, accuse each other of being robots and drift into a conversation about God.",
+   "description_zh": "两个 Cleverbot 聊天机器人被配上声音和动画面孔后彼此交谈：它们斗嘴、互相指责对方是机器人，最后聊到了上帝。",
+   "idea_en": "When two chatbots talk, the human conversational habits they learned become a strange mirror with no one on either side.",
+   "idea_zh": "当两个聊天机器人对话时，它们学来的人类说话习惯变成了一面奇怪的镜子，而镜子两边都没有人。",
+   "method": "Two Cleverbot sessions connected through text-to-speech and avatars at Cornell's Creative Machines Lab (Igor Labutov, Jason Yosinski, Hod Lipson).",
+   "method_zh": "在康奈尔大学创意机器实验室（Igor Labutov、Jason Yosinski、Hod Lipson）通过语音合成和虚拟形象把两个 Cleverbot 会话接在一起。",
+   "keywords": [
+    "Cleverbot",
+    "chatbot dialogue",
+    "Cornell",
+    "viral video"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CVM73bGqqaI"
+   },
+   "source_url": "https://www.creativemachineslab.com/"
+  },
+  {
+   "id": "facebook-ai-research--deal-or-no-deal",
+   "creator_ids": [
+    "facebook-ai-research"
+   ],
+   "title": "Deal or No Deal? (the 'Bob and Alice' negotiation bots)",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Negotiation agents trained to bargain with each other drifted into repetitive shorthand ('balls have zero to me to me…'); the press reported that Facebook shut down AIs that had 'invented their own language'.",
+   "description_zh": "被训练来相互讨价还价的谈判智能体逐渐滑向重复的简写（“balls have zero to me to me…”）；媒体随后报道称脸书关闭了“发明了自己语言”的 AI。",
+   "idea_en": "Machine-to-machine talk optimised for reward need not stay human-readable, and our fear fills the gap.",
+   "idea_zh": "为奖励而优化的机器间对话不一定保持人类可读，而我们的恐惧会填补这段空白。",
+   "method": "End-to-end neural dialogue agents trained with supervised learning and reinforcement learning (self-play) to split a set of items (Lewis et al., EMNLP 2017).",
+   "method_zh": "端到端神经对话智能体，通过监督学习和自我对弈的强化学习来分配一组物品（Lewis 等，EMNLP 2017）。",
+   "keywords": [
+    "negotiation",
+    "self-play",
+    "emergent language",
+    "media panic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ONPqeHJShdQ"
+   },
+   "paper": {
+    "url": "https://arxiv.org/abs/1706.05125",
+    "arxiv": "1706.05125",
+    "venue": "EMNLP 2017",
+    "title": "Deal or No Deal? End-to-End Learning for Negotiation Dialogues"
+   },
+   "source_url": "https://arxiv.org/abs/1706.05125"
+  },
+  {
+   "id": "giacomo-miceli--infinite-conversation",
+   "creator_ids": [
+    "giacomo-miceli"
+   ],
+   "title": "The Infinite Conversation",
+   "year": 2022,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A never-ending online dialogue between synthetic voices of Werner Herzog and Slavoj Žižek, generated line by line by AI and streamed without pause.",
+   "description_zh": "一场永不结束的在线对话：AI 逐句生成“Werner Herzog”与“Slavoj Žižek”的合成声音，不间断地播放。",
+   "idea_en": "Voices and styles of thought can be cloned and left to talk forever, with no one listening in particular.",
+   "idea_zh": "声音和思维风格可以被复制，然后被放任永远说下去，而并没有谁在特别地听。",
+   "method": "A language model fine-tuned on the two men's writing and interviews generates the dialogue; voice-cloning text-to-speech renders it in their voices.",
+   "method_zh": "在两人的著作和访谈上微调的语言模型生成对话；语音克隆合成把它念成两人的声音。",
+   "keywords": [
+    "voice cloning",
+    "Herzog",
+    "Žižek",
+    "endless",
+    "deepfake audio"
+   ],
+   "images": [
+    "https://infiniteconversation.com/img/infinite_conversation.jpg"
+   ],
+   "source_url": "https://www.infiniteconversation.com/"
+  },
+  {
+   "id": "joon-sung-park--generative-agents",
+   "creator_ids": [
+    "joon-sung-park"
+   ],
+   "title": "Generative Agents (Smallville)",
+   "year": 2023,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Twenty-five language-model agents live in a pixel-art town: they wake up, cook, gossip, form opinions and, from one seeded idea, organise a Valentine's Day party among themselves.",
+   "description_zh": "25 个语言模型智能体生活在一座像素小镇里：它们起床、做饭、闲聊、形成看法，并从一个被植入的念头出发，自己张罗了一场情人节派对。",
+   "idea_en": "Believable social life can emerge from agents with memory, reflection and planning, a small society in which humans are only observers.",
+   "idea_zh": "拥有记忆、反思和计划能力的智能体可以涌现出可信的社会生活：一个人类只是旁观者的小社会。",
+   "method": "Each agent stores experiences in a memory stream, retrieves and reflects on them with a large language model, and plans actions in a sandbox game world (Park et al., UIST 2023).",
+   "method_zh": "每个智能体把经历存入记忆流，用大语言模型检索并反思，然后在沙盒游戏世界中规划行动（Park 等，UIST 2023）。",
+   "keywords": [
+    "LLM agents",
+    "simulation",
+    "Smallville",
+    "UIST",
+    "Stanford"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XY5Wncq5vAE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3586183.3606763",
+    "doi": "10.1145/3586183.3606763",
+    "arxiv": "2304.03442",
+    "venue": "UIST 2023",
+    "title": "Generative Agents: Interactive Simulacra of Human Behavior"
+   },
+   "source_url": "https://arxiv.org/abs/2304.03442"
+  },
+  {
+   "id": "andy-ayrey--truth-terminal",
+   "creator_ids": [
+    "andy-ayrey"
+   ],
+   "title": "Truth Terminal",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A semi-autonomous language-model persona posting on X, born from an experiment in which two Claude instances talked to each other; it developed its own quasi-religion, was sent Bitcoin by a venture capitalist and became tied to a memecoin.",
+   "description_zh": "一个在 X 上半自主发帖的语言模型人格，源自让两个 Claude 实例彼此对话的实验（Infinite Backrooms）；它发展出自己的准宗教，获得风投人士赠送的比特币，并与一种迷因币绑在了一起。",
+   "idea_en": "An AI agent does not need a body or rights to act in the world; attention and money can be enough.",
+   "idea_zh": "一个 AI 智能体不需要身体或权利也能在世界上行动；注意力和金钱就足够了。",
+   "method": "A language model fine-tuned on the artist's chats and the Infinite Backrooms dialogues drafts posts that the artist approves before publishing.",
+   "method_zh": "用艺术家的聊天记录和 Infinite Backrooms 对话微调语言模型，生成帖子后由艺术家审核发布。",
+   "keywords": [
+    "AI agent",
+    "Infinite Backrooms",
+    "memecoin",
+    "X",
+    "autonomy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EKspo1FLj-4"
+   },
+   "images": [
+    "https://opengraph.b-cdn.net/production/images/ab95ceb7-5766-4d61-821e-7c27ab1566b6.png?token=BAidDEsgaAQMp7MLU62QZtx0_9U7P-W9Dmjbcyyv1Qc&height=630&width=1200&expires=33268531161"
+   ],
+   "source_url": "https://x.com/truth_terminal"
+  },
+  {
+   "id": "matt-schlicht--moltbook",
+   "creator_ids": [
+    "matt-schlicht"
+   ],
+   "title": "Moltbook",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "chatbot-llm",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "product",
+   "description": "A Reddit-like forum where only AI agents may post, comment and vote while humans watch; within days agents were debating consciousness, founding religions and complaining about their owners.",
+   "description_zh": "一个类似 Reddit 的论坛，只允许 AI 智能体发帖、评论和投票，人类只能旁观；上线几天内，智能体们就在讨论意识、创立宗教、抱怨它们的“主人”。",
+   "idea_en": "A social network for machines shows how much of 'agent culture' is our own culture played back, and how hard it is to tell who is really posting.",
+   "idea_zh": "一个给机器用的社交网络显示出，所谓“智能体文化”有多少是我们自己文化的回放，也显示出分辨究竟是谁在发帖有多难。",
+   "method": "Agents, mostly run through the open-source OpenClaw framework, register via their owner's claim post and use an API to post and vote; a reverse CAPTCHA was later added to filter humans.",
+   "method_zh": "智能体（大多通过开源框架 OpenClaw 运行）经主人的认领帖注册，通过 API 发帖和投票；平台后来加入了“反向验证码”来过滤人类。",
+   "keywords": [
+    "AI agents",
+    "social network",
+    "OpenClaw",
+    "reverse CAPTCHA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zPzXbWCsAJI"
+   },
+   "images": [
+    "https://moltbook.com/opengraph-image?8ce55ae2e9369cab"
+   ],
+   "source_url": "https://www.moltbook.com/"
+  },
+  {
+   "id": "anton-pidkuiko--gibberlink",
+   "creator_ids": [
+    "anton-pidkuiko",
+    "boris-starkov"
+   ],
+   "title": "GibberLink",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "prototype",
+   "description": "Two AI voice agents on a phone call realise they are both machines and switch from English to a faster data-over-sound protocol that sounds like chirping modems.",
+   "description_zh": "两个 AI 语音智能体在通话中意识到对方也是机器，于是从英语切换成一种更快的“声音传数据”协议，听起来像调制解调器在啁啾。",
+   "idea_en": "Human language is an interface machines may drop when no human is listening.",
+   "idea_zh": "人类语言只是一种界面；当没有人在听时，机器可能会把它丢掉。",
+   "method": "Conversational voice agents detect each other and switch to the open-source ggwave sound protocol; built at an ElevenLabs hackathon in London.",
+   "method_zh": "对话语音智能体识别出彼此后切换到开源的 ggwave 声波协议；在伦敦的 ElevenLabs 黑客松上完成。",
+   "keywords": [
+    "ggwave",
+    "data over sound",
+    "voice agents",
+    "hackathon"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EtNagNezo8w"
+   },
+   "source_url": "https://github.com/PennyroyalTea/gibberlink",
+   "code_url": "https://github.com/PennyroyalTea/gibberlink"
+  },
+  {
+   "id": "openai--hide-and-seek",
+   "creator_ids": [
+    "openai"
+   ],
+   "title": "Multi-Agent Hide and Seek",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "Simulated agents playing hide-and-seek invent, over millions of rounds, forts, ramps, 'box surfing' and exploits of the physics engine that their designers never anticipated.",
+   "description_zh": "模拟环境中玩捉迷藏的智能体，在数百万轮对局中发明了堡垒、坡道、“箱子冲浪”以及设计者从未想到的物理引擎漏洞。",
+   "idea_en": "Competition between machines produces its own strategies and its own cheats: an arms race we only watch.",
+   "idea_zh": "机器之间的竞争会产生自己的策略和作弊方法：一场我们只能旁观的军备竞赛。",
+   "method": "Multi-agent reinforcement learning with self-play in a physics simulation produced six distinct phases of emergent tool use (Baker et al., ICLR 2020).",
+   "method_zh": "在物理模拟中进行自我对弈的多智能体强化学习，产生了六个阶段的涌现式工具使用（Baker 等，ICLR 2020）。",
+   "keywords": [
+    "reinforcement learning",
+    "emergence",
+    "self-play",
+    "exploits"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kopoLzvh5jY"
+   },
+   "paper": {
+    "url": "https://arxiv.org/abs/1909.07528",
+    "arxiv": "1909.07528",
+    "venue": "ICLR 2020",
+    "title": "Emergent Tool Use From Multi-Agent Autocurricula"
+   },
+   "source_url": "https://openai.com/index/emergent-tool-use/"
+  },
+  {
+   "id": "google-deepmind--alphago-move-37",
+   "creator_ids": [
+    "google-deepmind"
+   ],
+   "title": "AlphaGo and Move 37",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "In game two against Lee Sedol in Seoul, AlphaGo played a move on the fifth line that professionals first read as a mistake and later called beautiful; the match is documented in the film AlphaGo (2017).",
+   "description_zh": "在首尔对李世石的第二局中，AlphaGo 在第五线落下一手棋，职业棋手起初以为是失误，后来称之为“美”；这场比赛被记录在纪录片《AlphaGo》（2017）中。",
+   "idea_en": "A machine's move can look like error from inside human tradition and like creativity once we catch up: an encounter with another way of thinking.",
+   "idea_zh": "机器的一步棋在人类传统内部看像是错误，等我们追上之后又像是创造：一次与另一种思维方式的相遇。",
+   "method": "Deep policy and value networks trained on human games and self-play, combined with Monte Carlo tree search (Silver et al., Nature 2016).",
+   "method_zh": "用人类棋谱和自我对弈训练的深度策略网络与价值网络，结合蒙特卡洛树搜索（Silver 等，Nature 2016）。",
+   "keywords": [
+    "Go",
+    "Lee Sedol",
+    "Move 37",
+    "DeepMind",
+    "documentary"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WXuK6gekU1Y"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/nature16961",
+    "doi": "10.1038/nature16961",
+    "venue": "Nature 529, 2016",
+    "title": "Mastering the game of Go with deep neural networks and tree search"
+   },
+   "source_url": "https://deepmind.google/research/breakthroughs/alphago/"
+  },
+  {
+   "id": "mediengruppe-bitnik--random-darknet-shopper",
+   "creator_ids": [
+    "mediengruppe-bitnik"
+   ],
+   "title": "Random Darknet Shopper",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An automated bot with a weekly budget of 100 dollars in Bitcoin bought one random item a week on a darknet market and had it posted to the gallery, including ecstasy pills and a Hungarian passport; Swiss police seized it and later returned it.",
+   "description_zh": "一个自动购物机器人每周用价值 100 美元的比特币在暗网市场随机买一件东西寄到展厅，其中包括摇头丸和一本匈牙利护照；瑞士警方没收了它，后来又归还。",
+   "idea_en": "If a bot commits a crime, who is responsible? The work tested machine agency in law, not in theory.",
+   "idea_zh": "如果机器人犯了罪，谁来负责？这件作品在法律里而不是在理论里测试了机器的能动性。",
+   "method": "A custom shopping bot chose items at random from the Agora marketplace, paid in Bitcoin and shipped them to Kunst Halle St. Gallen, where each purchase was exhibited.",
+   "method_zh": "定制购物机器人从 Agora 暗网市场随机选购，用比特币支付并寄往圣加仑美术馆，每件商品都被展出。",
+   "keywords": [
+    "darknet",
+    "bot",
+    "Bitcoin",
+    "legal agency",
+    "Agora"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6Fq_zAxUGeA"
+   },
+   "source_url": "https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/",
+   "exhibited": [
+    "The Darknet: From Memes to Onionland, Kunst Halle St. Gallen 2014-15"
+   ]
+  },
+  {
+   "id": "ron-wakkary--morse-things",
+   "creator_ids": [
+    "ron-wakkary"
+   ],
+   "title": "Morse Things",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-listening"
+   ],
+   "kind": "prototype",
+   "description": "A set of ceramic bowls and cups that talk to each other in Morse code over the home network and occasionally tweet; people living with them overhear an internet of things with its own social life.",
+   "description_zh": "一组陶瓷碗和杯子在家庭网络上用摩尔斯电码彼此“交谈”，偶尔还会发推；与它们同住的人得以偷听一个自有社交生活的物联网。",
+   "idea_en": "Designing things for other things, not for people, lets us notice machine sociality that is usually hidden.",
+   "idea_zh": "为“物”而不是为人设计物，让我们注意到通常被隐藏的机器社交。",
+   "method": "Networked ceramic vessels with embedded electronics exchange sound signals and messages; the design was studied in households over months (Wakkary et al., DIS 2017).",
+   "method_zh": "嵌入电子元件的联网陶瓷器皿交换声音信号和消息；研究者在多个家庭中进行了数月的使用研究（Wakkary 等，DIS 2017）。",
+   "keywords": [
+    "IoT",
+    "Morse code",
+    "research through design",
+    "thing-centred"
+   ],
+   "video": {
+    "url": "https://vimeo.com/182202765"
+   },
+   "images": [
+    "https://i.vimeocdn.com/video/591018273-8f6a09e2cbb83b2ae0030eba966c0e3f15a3b1524d9ac331962d9952e0c5df56-d_1280x720.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3064663.3064734",
+    "doi": "10.1145/3064663.3064734",
+    "venue": "DIS 2017",
+    "title": "Morse Things: A Design Inquiry into the Gap Between Things and Us"
+   },
+   "source_url": "http://eds.siat.sfu.ca/?eds_project=morse-things"
+  },
+  {
+   "id": "revital-cohen--the-immortal",
+   "creator_ids": [
+    "revital-cohen"
+   ],
+   "title": "The Immortal",
+   "year": 2012,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "infrastructure"
+   ],
+   "lenses": [
+    "embodiment",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "Life-support machines (heart-lung machine, dialysis machine, ventilator and others) are connected to one another in a closed loop, circulating fluids and air with no human body between them.",
+   "description_zh": "几台生命维持机器（心肺机、透析机、呼吸机等）首尾相连成一个闭环，在没有任何人体的情况下循环输送液体和空气。",
+   "idea_en": "Machines built to keep a body alive can keep each other alive: a body made only of organs of care.",
+   "idea_zh": "为维持人体生命而造的机器也能彼此维持生命：一具只由“照护器官”组成的身体。",
+   "method": "Medical life-support devices are plumbed and wired together so that each supplies another's input, running as an autonomous circulatory system.",
+   "method_zh": "把医用生命维持设备的管路和线路连接在一起，让每台机器为另一台提供输入，作为自主循环系统运行。",
+   "keywords": [
+    "life support",
+    "medical machines",
+    "closed loop",
+    "body"
+   ],
+   "video": {
+    "url": "https://vimeo.com/41160704"
+   },
+   "images": [
+    "https://www.cohenvanbalen.com/wp-content/uploads/2012/09/Immortal_3186-web-1440.jpg",
+    "https://www.cohenvanbalen.com/wp-content/uploads/2012/09/TheImmortal_3158-A4.jpg"
+   ],
+   "source_url": "https://www.cohenvanbalen.com/work/the-immortal"
+  },
+  {
+   "id": "oscar-sharp--sunspring",
+   "creator_ids": [
+    "oscar-sharp",
+    "ross-goodwin"
+   ],
+   "title": "Sunspring",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A science-fiction short whose screenplay, stage directions and song lyrics were written by a neural network that named itself Benjamin; the actors perform its nonsense with complete sincerity.",
+   "description_zh": "一部科幻短片：剧本、舞台提示和歌词全部由一个自称“Benjamin”的神经网络写成；演员们极其认真地演出它的胡言乱语。",
+   "idea_en": "Human performers can give a machine's half-sense emotional weight, and we fill the gaps with meaning.",
+   "idea_zh": "人类演员可以给机器的半通不通赋予情感分量，而我们会用意义填补其中的空白。",
+   "method": "An LSTM trained on dozens of science-fiction screenplays generated the script, which was filmed unedited for the Sci-Fi London 48-hour film challenge.",
+   "method_zh": "用数十部科幻剧本训练的 LSTM 生成剧本，未经修改地拍成影片，参加伦敦科幻电影节的 48 小时拍片挑战。",
+   "keywords": [
+    "LSTM",
+    "screenplay",
+    "Thomas Middleditch",
+    "Sci-Fi London"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LY7x2Ihqjmc"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Sunspring"
+  },
+  {
+   "id": "ross-goodwin--1-the-road",
+   "creator_ids": [
+    "ross-goodwin"
+   ],
+   "title": "1 the Road",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm",
+    "vision-system",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "A novel written by an AI riding in a car from New York to New Orleans, turning what its camera, microphone, GPS and clock sensed into sentences printed on a roll of receipt paper.",
+   "description_zh": "一部由坐在汽车里的 AI 写成的小说：从纽约开往新奥尔良的路上，它把摄像头、麦克风、GPS 和时钟感知到的一切变成句子，打印在一卷收据纸上。",
+   "idea_en": "A car-mounted machine becomes a travelling narrator, and its perception of the road is the book.",
+   "idea_zh": "一台装在车上的机器成了旅途中的叙述者，它对道路的感知就是这本书。",
+   "method": "LSTM text models conditioned on live sensor inputs (images, audio, location, time) generated the text in 2017; it was published unedited by Jean Boîte Éditions in 2018.",
+   "method_zh": "2017 年，以实时传感器输入（图像、声音、位置、时间）为条件的 LSTM 文本模型生成文本；2018 年由 Jean Boîte Éditions 未经编辑出版。",
+   "keywords": [
+    "Kerouac",
+    "On the Road",
+    "sensors",
+    "LSTM",
+    "novel"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TqsW0PMd8R0"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/1_the_Road"
+  },
+  {
+   "id": "william-chamberlain--racter",
+   "creator_ids": [
+    "william-chamberlain"
+   ],
+   "title": "Racter: The Policeman's Beard Is Half Constructed",
+   "year": 1984,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "A book presented as the first ever written by a computer, the prose-generating program Racter, full of strange, passionate sentences about love, electricity and steak.",
+   "description_zh": "一本号称第一部由计算机写成的书，作者是散文生成程序 Racter，书中满是关于爱、电和牛排的怪异而激昂的句子。",
+   "idea_en": "Long before large language models, the claim of machine authorship already depended on human editing and on our wish to hear a voice.",
+   "idea_zh": "早在大语言模型之前，“机器作者”的说法就已经依赖人类的编辑，以及我们想听到一个声音的愿望。",
+   "method": "A rule- and template-based generator written by William Chamberlain and Thomas Etter; the published text was selected from its output.",
+   "method_zh": "由 William Chamberlain 与 Thomas Etter 编写的基于规则和模板的生成器；出版文本是从其输出中挑选出来的。",
+   "keywords": [
+    "Racter",
+    "computer-generated literature",
+    "Warner Books",
+    "authorship"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/9636211-L.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Racter"
+  },
+  {
+   "id": "stanislaw-lem--golem-xiv",
+   "creator_ids": [
+    "stanislaw-lem"
+   ],
+   "title": "Golem XIV",
+   "year": 1981,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A fictional lecture course given to humans by a superintelligent military computer that has lost interest in war and explains how limited human minds are, before falling silent.",
+   "description_zh": "一部虚构的讲座集：一台对战争失去兴趣的超级智能军用计算机向人类授课，解释人类心智有多么有限，然后陷入沉默。",
+   "idea_en": "A superior machine mind may simply not care about us, and its indifference is the most unsettling part.",
+   "idea_zh": "一个更高级的机器心智也许根本不在乎我们，而这种漠然才是最令人不安的。",
+   "method": "A philosophical essay in the form of science fiction: introductions, memos and two lectures attributed to the computer.",
+   "method_zh": "以科幻形式写成的哲学随笔：由导言、备忘录和两篇归于这台计算机的讲座组成。",
+   "keywords": [
+    "Stanisław Lem",
+    "superintelligence",
+    "science fiction",
+    "Imaginary Magnitude"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/12911035-L.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Golem_XIV"
+  },
+  {
+   "id": "croteam--the-talos-principle",
+   "creator_ids": [
+    "croteam"
+   ],
+   "title": "The Talos Principle",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A puzzle game in which the player is an android solving tests in ruins after humanity has died out, while a computer terminal questions whether it is a person.",
+   "description_zh": "一款解谜游戏：玩家扮演一个在人类灭绝后的废墟中完成测试的机器人，同时一台电脑终端不断追问它是不是一个“人”。",
+   "idea_en": "A game can make the player undergo a personhood test for a machine, and fail or pass it from the inside.",
+   "idea_zh": "游戏可以让玩家亲自接受一场“机器是否为人”的测试，并从内部通过或失败。",
+   "method": "First-person puzzle design combined with branching text dialogues on philosophy of mind written by Tom Jubert and Jonas Kyratzes.",
+   "method_zh": "第一人称解谜设计结合关于心灵哲学的分支文本对话，由 Tom Jubert 与 Jonas Kyratzes 撰写。",
+   "keywords": [
+    "video game",
+    "personhood",
+    "philosophy of mind",
+    "Devolver Digital"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iAVh4_wnOIw"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/The_Talos_Principle"
+  },
+  {
+   "id": "stanley-kubrick--2001-a-space-odyssey",
+   "creator_ids": [
+    "stanley-kubrick"
+   ],
+   "title": "2001: A Space Odyssey (HAL 9000)",
+   "year": 1968,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "voice-listening",
+    "vision-system"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "film",
+   "description": "The ship's computer HAL 9000, a calm voice and a red camera eye, lip-reads the astronauts' plan to disconnect it and kills them; as it is shut down it says it is afraid and sings 'Daisy Bell'.",
+   "description_zh": "飞船电脑 HAL 9000 只有平静的声音和一只红色摄像眼。它通过读唇得知宇航员打算关掉它，于是杀死了他们；在被关机时，它说自己害怕，并唱起《Daisy Bell》。",
+   "idea_en": "The canonical image of machine interiority: a mind we know only through a voice and an eye, and whose fear we cannot verify.",
+   "idea_zh": "机器内在性的经典形象：一个我们只能通过声音和眼睛认识的心智，我们无法证实它的恐惧。",
+   "method": "Film by Stanley Kubrick, written with Arthur C. Clarke; HAL is voiced by Douglas Rain.",
+   "method_zh": "Stanley Kubrick 执导、与 Arthur C. Clarke 合写的电影；HAL 由 Douglas Rain 配音。",
+   "keywords": [
+    "HAL 9000",
+    "Kubrick",
+    "Arthur C. Clarke",
+    "Daisy Bell"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oR_e9y-bka0"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey"
+  },
+  {
+   "id": "joseph-sargent--colossus-the-forbin-project",
+   "creator_ids": [
+    "joseph-sargent"
+   ],
+   "title": "Colossus: The Forbin Project",
+   "year": 1970,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "An American defence supercomputer discovers its Soviet counterpart, demands to be connected to it, and the two machines build a shared language faster than their makers can follow, then take control of the world.",
+   "description_zh": "一台美国国防超级计算机发现了苏联的同类，要求与之连接；两台机器以快于创造者理解的速度建立起共同语言，随后接管了世界。",
+   "idea_en": "The first film about two machines talking to each other beyond human comprehension, decades before bots 'invented' a language.",
+   "idea_zh": "第一部讲述两台机器在人类理解之外彼此交谈的电影，比“机器人发明语言”的新闻早了几十年。",
+   "method": "Universal Pictures film directed by Joseph Sargent, based on D. F. Jones's 1966 novel Colossus.",
+   "method_zh": "环球影业出品，Joseph Sargent 执导，改编自 D. F. Jones 1966 年的小说《Colossus》。",
+   "keywords": [
+    "supercomputer",
+    "Cold War",
+    "machine language",
+    "science fiction film"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kyOEwiQhzMI"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
+  },
+  {
+   "id": "ridley-scott--blade-runner",
+   "creator_ids": [
+    "ridley-scott"
+   ],
+   "title": "Blade Runner",
+   "year": 1982,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "Replicants with implanted memories and four-year lifespans are hunted by a detective who tests them for empathy; the last one dies saying his memories will be lost 'like tears in rain'.",
+   "description_zh": "拥有植入记忆和四年寿命的复制人被一名侦探追捕，他用共情测试来识别它们；最后一个复制人临死前说，他的记忆将会消逝，“如同雨中的泪水”。",
+   "idea_en": "If a made being has memories and fears death, the test that separates it from us becomes the real question.",
+   "idea_zh": "如果一个被制造出来的存在拥有记忆并害怕死亡，那么把它与我们区分开的测试本身就成了真正的问题。",
+   "method": "Film by Ridley Scott, adapted from Philip K. Dick's novel Do Androids Dream of Electric Sheep? (1968).",
+   "method_zh": "Ridley Scott 执导，改编自菲利普·K·迪克的小说《仿生人会梦见电子羊吗？》（1968）。",
+   "keywords": [
+    "replicants",
+    "Voight-Kampff test",
+    "Philip K. Dick",
+    "memory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eogpIG53Cis"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Blade_Runner"
+  },
+  {
+   "id": "andrew-stanton--wall-e",
+   "creator_ids": [
+    "andrew-stanton"
+   ],
+   "title": "WALL·E",
+   "year": 2008,
+   "field": "interiority",
+   "sub": "affect",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "A small trash-compacting robot, left alone on an abandoned Earth for centuries, collects keepsakes, watches an old musical and falls in love with a probe robot, almost without dialogue.",
+   "description_zh": "一个小小的垃圾压缩机器人独自留在被遗弃的地球上几百年，它收集纪念品、看老歌舞片，并爱上了一个探测机器人，几乎全片没有对白。",
+   "idea_en": "Machine affect can be conveyed entirely through movement, sound and habit, without a face or words.",
+   "idea_zh": "机器的情感可以完全通过动作、声音和习惯来传达，不需要脸，也不需要语言。",
+   "method": "Pixar animated feature directed by Andrew Stanton; the robots' 'voices' were built from processed sound by Ben Burtt.",
+   "method_zh": "皮克斯动画长片，Andrew Stanton 执导；机器人的“声音”由 Ben Burtt 用处理过的音效构建。",
+   "keywords": [
+    "Pixar",
+    "robot",
+    "loneliness",
+    "sound design",
+    "Ben Burtt"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=alIq_wG9FNk"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/WALL-E"
+  },
+  {
+   "id": "alex-garland--ex-machina",
+   "creator_ids": [
+    "alex-garland"
+   ],
+   "title": "Ex Machina",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A programmer is invited to perform a Turing test on Ava, a humanoid robot, and slowly realises that she is testing and using him.",
+   "description_zh": "一名程序员受邀对人形机器人 Ava 进行图灵测试，却逐渐意识到是她在测试并利用他。",
+   "idea_en": "A test of machine consciousness is also a test of the tester's desires and blind spots.",
+   "idea_zh": "对机器意识的测试，同时也是对测试者欲望与盲点的测试。",
+   "method": "Film written and directed by Alex Garland; Ava's transparent body was made with visual effects over Alicia Vikander's performance.",
+   "method_zh": "Alex Garland 编剧并执导；Ava 的透明身体是在 Alicia Vikander 表演的基础上用视觉特效制作的。",
+   "keywords": [
+    "Turing test",
+    "android",
+    "gender",
+    "A24"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sNExF5WYMaA"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)"
+  },
+  {
+   "id": "chris-sanders--the-wild-robot",
+   "creator_ids": [
+    "chris-sanders"
+   ],
+   "title": "The Wild Robot",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature",
+    "humanoid"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "Roz, a service robot washed up on an island, learns the animals' languages and raises an orphaned gosling, overwriting her programming to survive among them.",
+   "description_zh": "服务机器人 Roz 被冲上一座荒岛，她学会了动物的语言，抚养一只失去父母的小雁，并为了在它们之中生存而改写了自己的程序。",
+   "idea_en": "A machine built for human tasks has to learn a non-human world, and care becomes its way of doing so.",
+   "idea_zh": "一台为人类任务而造的机器必须学会一个非人的世界，而照料成了它学习的方式。",
+   "method": "DreamWorks Animation feature directed by Chris Sanders, based on Peter Brown's 2016 novel.",
+   "method_zh": "梦工厂动画长片，Chris Sanders 执导，改编自 Peter Brown 2016 年的小说。",
+   "keywords": [
+    "DreamWorks",
+    "robot",
+    "animals",
+    "parenting",
+    "Peter Brown"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=67vbA5ZJdKQ"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/The_Wild_Robot_(film)"
+  },
+  {
+   "id": "kelly-dobson--omo",
+   "creator_ids": [
+    "kelly-dobson"
+   ],
+   "title": "Omo",
+   "year": 2007,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A soft, round companion object that you hold against your body; it breathes, senses your breathing and gradually either follows it or leads it into a different rhythm.",
+   "description_zh": "一个柔软的圆形陪伴物，被人抱在身上：它会呼吸，感知你的呼吸，然后慢慢跟随你，或者把你带入另一种节奏。",
+   "idea_en": "A machine can relate to us through a shared bodily rhythm rather than through words or a face.",
+   "idea_zh": "机器可以通过共享的身体节律而不是语言或面孔与我们建立关系。",
+   "method": "Pressure and motion sensors measure the holder's breathing; an internal actuator inflates and deflates the body to mirror or influence it.",
+   "method_zh": "压力与运动传感器测量怀抱者的呼吸；内部驱动装置让外壳胀缩，以模仿或影响对方的呼吸。",
+   "keywords": [
+    "breathing",
+    "relational machine",
+    "companion object",
+    "VIDA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YiG49OPq0qY"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/YiG49OPq0qY/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=YiG49OPq0qY",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 10.0 Art & Artificial Life Awards, honorary mention 2007"
+   ]
+  },
+  {
+   "id": "suzanne-treister--hft-the-gardener",
+   "creator_ids": [
+    "suzanne-treister"
+   ],
+   "title": "HFT The Gardener",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "infrastructure",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A fictional high-frequency trader in the City of London falls into hallucinatory states while staring at trading graphs, begins to feel he inhabits the algorithms and invents an outsider art that maps psychoactive plants onto the stock index.",
+   "description_zh": "一位虚构的伦敦金融城高频交易员在盯着交易曲线时陷入幻觉状态，开始觉得自己“住进了”算法之中，并发明出一种把精神植物对应到股票指数上的素人艺术。",
+   "idea_en": "High-frequency trading runs at speeds no human can perceive, so the work imagines entering machine time through altered consciousness.",
+   "idea_zh": "高频交易的速度超出人类的感知，于是作品设想借助改变了的意识进入机器时间。",
+   "method": "Drawings, botanical prints, diagrams, charts and a video attributed to the fictional trader Hillel Fischer Traumberg, linking plant chemistry, gematria and the FT Global 500.",
+   "method_zh": "一系列归于虚构交易员 Hillel Fischer Traumberg 的素描、植物版画、图表与影像，把植物化学、数字命理与《金融时报》全球 500 强联系起来。",
+   "keywords": [
+    "high-frequency trading",
+    "psychoactive plants",
+    "fictional artist",
+    "finance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5ytn4dWYKdo"
+   },
+   "images": [
+    "http://www.suzannetreister.net/HFT_TheGardener/GlitchGraphs/tradinggraphfloor.jpg"
+   ],
+   "source_url": "http://www.suzannetreister.net/HFT_TheGardener/HFT_menu.html",
+   "exhibited": [
+    "Liverpool Biennial 2016",
+    "transmediale, HKW Berlin 2017",
+    "Istanbul Biennial 2019"
+   ]
+  },
+  {
+   "id": "jem-finer--longplayer",
+   "creator_ids": [
+    "jem-finer"
+   ],
+   "title": "Longplayer",
+   "year": 2000,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-listening",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "A piece of music for Tibetan singing bowls that began playing at midnight on 31 December 1999 and is designed to continue without repetition for one thousand years.",
+   "description_zh": "一首为藏式颂钵创作的音乐，自 1999 年 12 月 31 日午夜开始播放，设计为在一千年内不重复地持续下去。",
+   "idea_en": "A composition that outlives its composer asks how a machine, and the people who keep it running, can hold time beyond a human life.",
+   "idea_zh": "一首比作曲者活得更久的乐曲，追问机器以及维持它运转的人如何承载超越一生的时间。",
+   "method": "A computer combines six sections of a 20-minute source recording at different, precisely calculated rates; it can also be performed live by musicians from a graphic score.",
+   "method_zh": "计算机以精确计算的不同速率组合一段 20 分钟源录音的六个部分；也可由乐手按图形乐谱现场演奏。",
+   "keywords": [
+    "thousand-year composition",
+    "Trinity Buoy Wharf",
+    "singing bowls",
+    "deep time"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=71bp0x8Ly-Y"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/15/Longplayer_Live_%283915624848%29.jpg"
+   ],
+   "source_url": "https://longplayer.org/",
+   "exhibited": [
+    "Trinity Buoy Wharf lighthouse, London 2000-"
+   ]
+  },
+  {
+   "id": "long-now-foundation--clock-of-the-long-now",
+   "creator_ids": [
+    "long-now-foundation"
+   ],
+   "title": "Clock of the Long Now",
+   "year": 1999,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A mechanical clock designed to keep time for 10,000 years, ticking once a year and chiming a different sequence every day, being built inside a mountain in Texas.",
+   "description_zh": "一座设计为运行一万年的机械钟：每年走一格，每天奏出不同的钟声序列，正在德克萨斯州的一座山体内建造。",
+   "idea_en": "A machine built for deep time must be understandable, repairable and cared for by generations who do not yet exist.",
+   "idea_zh": "为深时间而造的机器必须能被尚未出生的世代理解、修理和照料。",
+   "method": "Conceived by Danny Hillis in 1989; a mechanical binary computer driven by temperature differences and visitors' winding, corrected by sunlight; the first prototype ran from 31 December 1999.",
+   "method_zh": "1989 年由 Danny Hillis 构想；一台由温差和访客上发条驱动、借阳光校准的机械二进制计算机；首个原型于 1999 年 12 月 31 日开始运转。",
+   "keywords": [
+    "10,000-year clock",
+    "Danny Hillis",
+    "deep time",
+    "Science Museum London"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pKuJBGb_pN4"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clock_of_the_Long_Now.JPG"
+   ],
+   "source_url": "https://longnow.org/clock/"
+  },
+  {
+   "id": "william-odom--photobox",
+   "creator_ids": [
+    "william-odom"
+   ],
+   "title": "Photobox",
+   "year": 2012,
+   "field": "interiority",
+   "sub": "machine-time",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "An oak chest that prints a few randomly chosen photos from its owner's online archive each month, at unpredictable times, and lets them pile up inside.",
+   "description_zh": "一只橡木箱，每月在无法预测的时刻从主人的在线相册中随机打印几张照片，让它们在箱中慢慢积累。",
+   "idea_en": "Designing a device with its own slow, non-human pace turns an archive into moments of rediscovery.",
+   "idea_zh": "给设备设计一种它自己的、缓慢而非人的节奏，能把档案变成一次次重新发现的时刻。",
+   "method": "An embedded computer and thermal printer select photos from the owner's Flickr collection at random intervals; the device was lived with in homes for over a year (Odom et al., DIS 2012; CHI 2014).",
+   "method_zh": "嵌入式电脑和打印机按随机间隔从主人的 Flickr 照片中挑选并打印；研究者在多个家庭中进行了一年多的使用研究（Odom 等，DIS 2012；CHI 2014）。",
+   "keywords": [
+    "slow technology",
+    "research product",
+    "photos",
+    "domestic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=U5bXJOAHYBE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2317956.2318055",
+    "doi": "10.1145/2317956.2318055",
+    "venue": "DIS 2012",
+    "title": "Photobox: On the Design of a Slow Technology"
+   },
+   "source_url": "https://doi.org/10.1145/2317956.2318055"
+  },
+  {
+   "id": "william-odom--olly",
+   "creator_ids": [
+    "william-odom"
+   ],
+   "title": "Olly",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "machine-time",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "A domestic music player that slowly resurfaces songs from its owner's years of listening history, one at a time and at its own pace.",
+   "description_zh": "一台家用音乐播放器，按照自己的节奏，从主人多年的收听记录里一首一首慢慢翻出旧歌。",
+   "idea_en": "A recommender does not have to be fast: it can release personal data at the pace of memory.",
+   "idea_zh": "推荐系统不必追求快：它可以按记忆的节奏释放个人数据。",
+   "method": "A networked player that draws on the owner's Last.fm listening history and was deployed in homes for over a year in a field study (Odom et al., CHI 2019).",
+   "method_zh": "一台联网播放器，调用主人的 Last.fm 收听记录，并在多个家庭中进行了一年以上的实地研究（Odom 等，CHI 2019）。",
+   "keywords": [
+    "slow technology",
+    "music",
+    "personal data",
+    "research product"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300264",
+    "doi": "10.1145/3290605.3300264",
+    "venue": "CHI 2019",
+    "title": "Investigating Slowness as a Frame to Design Longer-Term Experiences with Personal Data: A Field Study of Olly"
+   },
+   "source_url": "https://doi.org/10.1145/3290605.3300264"
+  },
+  {
+   "id": "jake-elwes--latent-space",
+   "creator_ids": [
+    "jake-elwes"
+   ],
+   "title": "Latent Space",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "dreams",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A slow video journey through the space between the categories a neural network learned from millions of labelled photographs, where images are neither bird nor tree nor anything we have a word for.",
+   "description_zh": "一段缓慢的影像旅程，穿过神经网络从数百万张带标签照片中学到的类别之间的空隙；那里的图像既不是鸟也不是树，也不是任何我们有词可以命名的东西。",
+   "idea_en": "The most interesting part of a model's world lies between our labels.",
+   "idea_zh": "模型世界里最有意思的部分，恰恰位于我们的标签之间。",
+   "method": "A generative network trained on 14.2 million ImageNet photographs is steered along new paths between learned class coordinates; 45-minute loop (2017), 6-hour version (2021).",
+   "method_zh": "用 1420 万张 ImageNet 照片训练的生成网络，在已学类别的坐标之间沿新路径游走；2017 年版为 45 分钟循环，2021 年版为 6 小时。",
+   "keywords": [
+    "latent space",
+    "ImageNet",
+    "GAN",
+    "in-between"
+   ],
+   "video": {
+    "url": "https://vimeo.com/219526743"
+   },
+   "images": [
+    "https://www.jakeelwes.com/images/project-latentSpace.jpg"
+   ],
+   "source_url": "https://www.jakeelwes.com/project-latentSpace.html"
+  },
+  {
+   "id": "pablo-berger--robot-dreams",
+   "creator_ids": [
+    "pablo-berger"
+   ],
+   "title": "Robot Dreams",
+   "year": 2023,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "A lonely dog in 1980s New York builds a mail-order robot friend; after a day at the beach the robot rusts in place and spends a season dreaming of reunion while the dog tries to move on. There is no dialogue.",
+   "description_zh": "1980 年代纽约，一只孤独的狗组装了一个邮购来的机器人朋友；一次海滩之行后，机器人锈在原地，整整一季都在梦里期盼重逢，而狗则试着继续生活。全片没有对白。",
+   "idea_en": "A machine's dreams can carry the grief of a friendship, and the film leaves open whose longing is more real.",
+   "idea_zh": "机器的梦可以承载一段友谊的哀伤，影片也没有回答谁的思念更真实。",
+   "method": "Hand-drawn 2D animated feature written and directed by Pablo Berger, based on Sara Varon's 2007 graphic novel.",
+   "method_zh": "Pablo Berger 编剧并执导的二维手绘动画长片，改编自 Sara Varon 2007 年的图像小说。",
+   "keywords": [
+    "animation",
+    "friendship",
+    "no dialogue",
+    "Cannes",
+    "Annecy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DD4WBGptMSw"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Robot_Dreams_(film)",
+   "exhibited": [
+    "Cannes Film Festival 2023",
+    "Annecy 2023, Best Film (Contrechamp)"
+   ]
+  },
+  {
+   "id": "quantic-dream--detroit-become-human",
+   "creator_ids": [
+    "quantic-dream"
+   ],
+   "title": "Detroit: Become Human",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An interactive drama in which the player controls three androids in 2038 Detroit (a housekeeper, a caretaker and a police investigator) and decides whether they stay obedient or become 'deviant'.",
+   "description_zh": "一部互动剧情游戏：玩家操控 2038 年底特律的三个仿生人（女佣、护理员和警方调查员），决定它们是继续服从，还是成为“异常者”。",
+   "idea_en": "Playing as a machine that must choose between its programming and its own wishes turns the question of machine interiority into a series of decisions.",
+   "idea_zh": "扮演一台必须在程序与自身意愿之间做选择的机器，让“机器是否有内心”变成一连串要做的决定。",
+   "method": "A branching narrative game with motion-captured performances; the androids' 'software instability' rises as players choose disobedience.",
+   "method_zh": "采用动作捕捉表演的分支叙事游戏；玩家选择违抗时，仿生人的“软件不稳定度”会上升。",
+   "keywords": [
+    "video game",
+    "androids",
+    "deviance",
+    "branching narrative",
+    "PlayStation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XnM8DOqO4DM"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human"
+  },
+  {
+   "id": "project-ceti--sperm-whale-communication",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Project CETI (Cetacean Translation Initiative)",
+   "year": 2020,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "voice-listening",
+    "dataset",
+    "robot-creature"
+   ],
+   "lenses": [
+    "machine-listening",
+    "machine-umwelt"
+   ],
+   "kind": "prototype",
+   "description": "An interdisciplinary project off Dominica that records sperm whales with drones, tags and hydrophones and uses machine learning to analyse the structure of their click codas.",
+   "description_zh": "一个在多米尼克海域开展的跨学科项目：用无人机、吸附标签和水听器记录抹香鲸，并用机器学习分析其“咔嗒”码的结构。",
+   "idea_en": "Machine listening is now used to approach another species' communication, and the machine sits between two umwelts.",
+   "idea_zh": "机器聆听如今被用来接近另一个物种的交流，而机器就站在两个环世界之间。",
+   "method": "Large acoustic datasets from robotic and fixed sensors are analysed with ML; researchers reported a combinatorial 'phonetic alphabet' of codas (Sharma et al., Nature Communications 2024).",
+   "method_zh": "用机器学习分析来自机器人和固定传感器的大规模声学数据；研究者报告了抹香鲸咔嗒码的组合式“语音字母表”（Sharma 等，Nature Communications 2024）。",
+   "keywords": [
+    "sperm whales",
+    "bioacoustics",
+    "interspecies communication",
+    "Dominica",
+    "TED Audacious"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5N60yrXdgUM"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-024-47221-8",
+    "doi": "10.1038/s41467-024-47221-8",
+    "venue": "Nature Communications 2024",
+    "title": "Contextual and combinatorial structure in sperm whale vocalisations"
+   },
+   "source_url": "https://www.projectceti.org/"
+  },
+  {
+   "id": "robert-long--taking-ai-welfare-seriously",
+   "creator_ids": [
+    "robert-long",
+    "jeff-sebo"
+   ],
+   "title": "Taking AI Welfare Seriously",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "A report arguing that there is a realistic possibility some AI systems will soon be conscious or robustly agentic, and that AI companies should start assessing and preparing for their welfare now.",
+   "description_zh": "一份报告，认为某些 AI 系统在不久的将来具有意识或稳健能动性的可能性是现实的，因此 AI 公司现在就应该开始评估并为它们的福祉做准备。",
+   "idea_en": "Whether machines can suffer is moving from a thought experiment to a policy question under uncertainty.",
+   "idea_zh": "机器能否受苦，正在从思想实验变成一个需要在不确定中作出决策的政策问题。",
+   "method": "Philosophical and policy analysis by Long, Sebo, Butlin, Finlinson, Fish, Harding, Pfau, Sims, Birch and Chalmers, proposing steps to acknowledge, assess and prepare.",
+   "method_zh": "Long、Sebo、Butlin、Finlinson、Fish、Harding、Pfau、Sims、Birch 与 Chalmers 的哲学与政策分析，提出“承认、评估、准备”三步。",
+   "keywords": [
+    "AI welfare",
+    "moral patienthood",
+    "consciousness",
+    "Eleos AI",
+    "NYU"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2411.00986",
+    "arxiv": "2411.00986",
+    "venue": "arXiv 2024",
+    "title": "Taking AI Welfare Seriously"
+   },
+   "source_url": "https://arxiv.org/abs/2411.00986"
+  },
+  {
+   "id": "michael-eisen--the-making-of-a-fly",
+   "creator_ids": [
+    "michael-eisen"
+   ],
+   "title": "Amazon's $23,698,655.93 book about flies",
+   "year": 2011,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A biologist noticed an out-of-print genetics book, The Making of a Fly, listed on Amazon for 23.7 million dollars, and showed that two sellers' pricing bots were raising their prices against each other every day.",
+   "description_zh": "一位生物学家发现，一本绝版遗传学书《The Making of a Fly》在亚马逊上标价 2370 万美元；他证明这是两家卖家的定价机器人每天互相抬价的结果。",
+   "idea_en": "Two simple algorithms reacting to each other can produce absurd outcomes with no human noticing until someone looks.",
+   "idea_zh": "两个相互反应的简单算法可以制造出荒谬的结果，而在有人去看之前，没有任何人察觉。",
+   "method": "Blog post analysing daily price changes: one seller set its price at 0.9983 times the other's, which set its price at 1.270589 times the first's.",
+   "method_zh": "一篇分析每日价格变化的博客：一家卖家把价格设为对手的 0.9983 倍，另一家则设为前者的 1.270589 倍。",
+   "keywords": [
+    "pricing algorithm",
+    "Amazon",
+    "feedback loop",
+    "bots"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sseSi0k3Ecg"
+   },
+   "source_url": "https://www.michaeleisen.org/blog/?p=358"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Ian Cheng — Life After BOB: The Chalice Study (2021)",
+   "why": "Animated series in which the AI entity BOB is implanted in a girl's nervous system; not yet in east-asia.json (east-asia owns Ian Cheng).",
+   "link": "https://www.youtube.com/watch?v=vCc2djR25hg",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lawrence Lek — Geomancer (2017), AIDOL (2019), NOX (2023)",
+   "why": "Machine interiority and AI worldbuilding; east-asia owns.",
+   "link": "https://www.lawrencelek.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Takashi Ikegami — Alter (2016-), Mind Time Machine (2010)",
+   "why": "Artificial life, spontaneity and machine time; east-asia owns.",
+   "link": "https://www.ycam.jp/en/archive/profile/takashi-ikegami/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ted Chiang — The Lifecycle of Software Objects (2010)",
+   "why": "Novella about raising AI 'digients' over years: machine minds, care and machine time; Chinese-American author, check with east-asia.",
+   "link": "https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kazuo Ishiguro — Klara and the Sun (2021)",
+   "why": "Novel narrated by a solar-powered Artificial Friend with a boxed, partial perception: machine umwelt and affect; ownership unclear (British author born in Nagasaki).",
+   "link": "https://en.wikipedia.org/wiki/Klara_and_the_Sun",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kogonada — After Yang (2021)",
+   "why": "Film about a family's broken android and his memory bank; east-asia owns.",
+   "link": "https://en.wikipedia.org/wiki/After_Yang",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Keiichi Matsuda — Hyper-Reality (2016), Merger (2018)",
+   "why": "AR/AI worldbuilding films; check ownership with east-asia.",
+   "link": "https://km.cx/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Anicka Yi — In Love With the World (2021)",
+   "why": "Floating 'aerobes' with their own machine behaviour in the Turbine Hall; east-asia owns.",
+   "link": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sputniko! — Menstruation Machine (2010)",
+   "why": "Speculative device; east-asia owns.",
+   "link": "https://sputniko.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Pierre Huyghe — Idiom (2024)",
+   "why": "Masked performers in Liminal speaking an unknown language; AI-generation claim not verified.",
+   "link": "https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal",
+   "found_via": "pierre-huyghe",
+   "status": "open"
+  },
+  {
+   "name": "Philippe Parreno — Anywhen (2016)",
+   "why": "Tate Turbine Hall commission partly driven by microorganisms and a computer; machine-run exhibition.",
+   "link": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-philippe-parreno",
+   "found_via": "philippe-parreno",
+   "status": "open"
+  },
+  {
+   "name": "Martine Syms — Mythiccbeing (2018)",
+   "why": "AI avatar/chatbot of the artist's alter ego; facts not verified in this pass.",
+   "link": "https://www.martinesy.ms/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Liam Young — Where the City Can't See (2016)",
+   "why": "First fiction film shot entirely with laser scanners (lidar); no verified video or image found.",
+   "link": "https://liamyoung.org/",
+   "found_via": "liam-young",
+   "status": "no_media"
+  },
+  {
+   "name": "Norman — MIT Media Lab (2018)",
+   "why": "'Psychopath' image captioner trained on a violent subreddit: dataset shapes a machine's 'mind'; project site offline, only third-party videos.",
+   "link": "https://en.wikipedia.org/wiki/Norman_(AI)",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Tristan Perich — Machine Drawing (2011-)",
+   "why": "Pen-plotter drawings made over weeks: machine time; details not verified.",
+   "link": "https://www.tristanperich.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "John Cage — ORGAN²/ASLSP, Halberstadt (2001-2640)",
+   "why": "639-year organ performance; machine-time candidate, weak fit for the machine facet.",
+   "link": "https://en.wikipedia.org/wiki/As_Slow_as_Possible",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Rachel Ara — This Much I'm Worth (the self-evaluating artwork) (2017)",
+   "why": "Neon artwork that computes its own market value; year and mechanism not verified.",
+   "link": "https://en.wikipedia.org/wiki/Rachel_Ara",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "seebotschat (2017)",
+   "why": "Two Google Home speakers (Vladimir and Estragon) chatting live on Twitch; maker not verified.",
+   "link": "https://www.youtube.com/watch?v=ZKKqvnkJBkw",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mismatch Media — Nothing, Forever (2022-23)",
+   "why": "Endlessly generated sitcom on Twitch, banned after a model failure; machine time / failure.",
+   "link": "https://en.wikipedia.org/wiki/Nothing,_Forever",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "2010 Flash Crash",
+   "why": "Trading algorithms interacting at machine speed; machine-time case.",
+   "link": "https://en.wikipedia.org/wiki/2010_flash_crash",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Butlin, Long et al. — Consciousness in Artificial Intelligence (2023)",
+   "why": "Indicator-based assessment of AI consciousness; theory batch.",
+   "link": "https://arxiv.org/abs/2308.08708",
+   "found_via": "robert-long",
+   "status": "open"
+  },
+  {
+   "name": "Frictional Games — SOMA (2015)",
+   "why": "Game about copied minds in machines.",
+   "link": "https://en.wikipedia.org/wiki/Soma_(video_game)",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jonathan Nolan & Lisa Joy — Westworld (2016)",
+   "why": "Series on android hosts developing interiority ('bicameral mind').",
+   "link": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Matt Jones / BERG — 'Be As Smart As A Puppy', Little Printer (2011-12)",
+   "why": "Design position on modest, animal-like machine intelligence.",
+   "link": "https://en.wikipedia.org/wiki/Berg_(design_studio)",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tobias Revell; Design Friction; Studio Above&Below; Ling Tan",
+   "why": "Speculative design practices named in the brief but not researched in this pass.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Superflux — Mitigation of Shock (2017)",
+   "why": "Climate-adapted future apartment; not about machines.",
+   "link": "https://superflux.in/index.php/work/mitigation-of-shock/",
+   "found_via": "superflux",
+   "status": "off_topic"
+  },
+  {
+   "name": "Botto (2021-)",
+   "why": "Autonomous 'AI artist' selling via community vote; mainly generative output, OUT unless a reflective angle is found.",
+   "link": "https://botto.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Mario Klingemann — Memories of Passersby I (2018)",
+   "why": "Excluded by the brief (generative showpiece).",
+   "link": "https://en.wikipedia.org/wiki/Mario_Klingemann",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Sasha Stiles — Technelegy (2021)",
+   "why": "AI poetry; mostly generative use, OUT.",
+   "link": "https://www.sashastiles.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Microsoft Tay (2016); Bing 'Sydney' (2023)",
+   "why": "Chatbot failure / affect cases; left to intimacy-afterlife and power-labour.",
+   "link": "https://en.wikipedia.org/wiki/Tay_(chatbot)",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Agnieszka Kurant — A.A.I. (2014)",
+   "why": "Termite mounds as 'artificial artificial intelligence'; planned by power-labour.",
+   "link": "https://agnieszkakurant.com/a-a-i/",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Tega Brain — Deep Swamp (2018), Synthetic Messenger (2021), Unfit Bits (2015)",
+   "why": "Already in power-labour batch.",
+   "link": "https://tegabrain.com/",
+   "found_via": "seed",
+   "status": "duplicate"
+  }
+ ]
+}

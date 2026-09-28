@@ -1,0 +1,1673 @@
+{
+ "batch": "theory-2",
+ "creators": [
+  {
+   "id": "fritz-heider",
+   "name": "Fritz Heider",
+   "kind": "person",
+   "role": "Psychologist (1896–1988)",
+   "based": "Lawrence, US",
+   "bio": "Austrian-born social psychologist at Smith College and the University of Kansas, founder of attribution theory.",
+   "why": "He showed that people cannot help attributing intentions to anything that moves in the right way.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "心理学家（1896–1988）",
+   "bio_zh": "奥地利出生的社会心理学家，先后任教于史密斯学院与堪萨斯大学，归因理论的奠基者。",
+   "why_zh": "他证明：只要运动方式对了，人就会忍不住给任何东西赋予意图。",
+   "based_zh": "劳伦斯（堪萨斯），美国",
+   "connected_to": [
+    "marianne-simmel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marianne-simmel",
+   "name": "Marianne Simmel",
+   "kind": "person",
+   "role": "Psychologist (1923–2010)",
+   "based": "Northampton, US",
+   "bio": "German-born experimental psychologist, later known for research on phantom limbs and body image.",
+   "why": "Co-author of the animation that became the standard test of animacy perception.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "心理学家（1923–2010）",
+   "bio_zh": "德国出生的实验心理学家，后来以幻肢与身体意象研究著称。",
+   "why_zh": "她共同创作的动画成为“生命感知”研究的标准材料。",
+   "based_zh": "北安普顿（马萨诸塞），美国",
+   "connected_to": [
+    "fritz-heider"
+   ],
+   "discovered_via": "fritz-heider"
+  },
+  {
+   "id": "rodney-brooks",
+   "name": "Rodney Brooks",
+   "kind": "person",
+   "role": "Roboticist; Panasonic Professor of Robotics Emeritus, MIT",
+   "based": "Cambridge, US",
+   "bio": "Australian roboticist who directed the MIT AI Lab and CSAIL and co-founded iRobot, Rethink Robotics and Robust.AI.",
+   "why": "His behaviour-based robots showed that intelligence can emerge from bodies acting in the world, without an inner model of it.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {
+    "site": "https://rodneybrooks.com"
+   },
+   "role_zh": "机器人学家，麻省理工学院荣休教授",
+   "bio_zh": "澳大利亚机器人学家，曾任麻省理工学院人工智能实验室及 CSAIL 主任，联合创办 iRobot、Rethink Robotics 与 Robust.AI。",
+   "why_zh": "他的行为主义机器人表明：智能可以从身体在世界中的行动里涌现，而无需内部的世界模型。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [
+    "cynthia-breazeal"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sherry-turkle",
+   "name": "Sherry Turkle",
+   "kind": "person",
+   "role": "Abby Rockefeller Mauzé Professor of the Social Studies of Science and Technology, MIT",
+   "based": "Cambridge, US",
+   "bio": "Sociologist and clinical psychologist who founded the MIT Initiative on Technology and Self, author of The Second Self (1984) and Alone Together (2011).",
+   "why": "Her decades of interviews track how children and the elderly come to treat machines as \"alive enough\" to love.",
+   "disciplines": [
+    "theory",
+    "hci"
+   ],
+   "links": {
+    "site": "https://sherryturkle.mit.edu"
+   },
+   "role_zh": "麻省理工学院科学技术社会研究教授",
+   "bio_zh": "社会学家与临床心理学家，创立麻省理工学院“技术与自我”研究项目，著有《The Second Self》（1984）和《群体性孤独》（2011）。",
+   "why_zh": "她几十年的访谈记录了儿童与老人如何开始把机器当作“足够有生命”、可以去爱的对象。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "byron-reeves",
+   "name": "Byron Reeves",
+   "kind": "person",
+   "role": "Paul C. Edwards Professor of Communication, Stanford University",
+   "based": "Stanford, US",
+   "bio": "Communication researcher who studies media psychology, from television to games and screen use.",
+   "why": "With Clifford Nass he showed that people respond socially to media by default.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "斯坦福大学传播学教授",
+   "bio_zh": "传播学者，研究从电视到游戏与屏幕使用的媒介心理学。",
+   "why_zh": "他与 Clifford Nass 一同证明：人对媒介的社交反应是默认的。",
+   "based_zh": "斯坦福，美国",
+   "connected_to": [
+    "clifford-nass"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "clifford-nass",
+   "name": "Clifford Nass",
+   "kind": "person",
+   "role": "Professor of Communication, Stanford University (1958–2013)",
+   "based": "Stanford, US",
+   "bio": "Stanford social scientist who led the CHIMe lab and wrote Wired for Speech (2005) and The Man Who Lied to His Laptop (2010).",
+   "why": "His experiments proved that people apply politeness, gender stereotypes and team loyalty to computers.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "斯坦福大学传播学教授（1958–2013）",
+   "bio_zh": "斯坦福大学社会科学家，主持 CHIMe 实验室，著有《Wired for Speech》（2005）与《The Man Who Lied to His Laptop》（2010）。",
+   "why_zh": "他的实验证明，人会把礼貌、性别刻板印象和团队忠诚套用到计算机身上。",
+   "based_zh": "斯坦福，美国",
+   "connected_to": [
+    "byron-reeves"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rolf-pfeifer",
+   "name": "Rolf Pfeifer",
+   "kind": "person",
+   "role": "Professor Emeritus of Computer Science, University of Zurich; founder of the AI Lab",
+   "based": "Zurich, CH",
+   "bio": "Swiss roboticist who led embodied-AI research on morphological computation and soft, compliant robot bodies.",
+   "why": "He shows that a robot's body does part of its thinking.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "苏黎世大学计算机科学荣休教授，人工智能实验室创始人",
+   "bio_zh": "瑞士机器人学家，主导具身人工智能研究，涉及形态计算以及柔软、顺应的机器人身体。",
+   "why_zh": "他说明机器人的身体承担了它一部分的“思考”。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [
+    "josh-bongard"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-sparrow",
+   "name": "Robert Sparrow",
+   "kind": "person",
+   "role": "Professor of Philosophy, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "Australian philosopher who writes on the ethics of robots, military AI, aged care and human enhancement.",
+   "why": "He gave the sharpest early critique of robot companions as deceptive substitutes for human care.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "莫纳什大学哲学教授",
+   "bio_zh": "澳大利亚哲学家，研究机器人伦理、军事 AI、养老照护与人类增强。",
+   "why_zh": "他最早也最尖锐地批判了把陪伴机器人当作人类照护之欺骗性替代品的做法。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joanna-zylinska",
+   "name": "Joanna Zylinska",
+   "kind": "person",
+   "role": "Professor of Media Philosophy and Critical Digital Practice, King's College London",
+   "based": "London, UK",
+   "bio": "Polish-British writer, artist and curator working on photography, AI and the ethics of technology.",
+   "why": "She separates art that exposes how AI works from AI imagery that merely decorates, and asks what perception becomes after AI.",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.joannazylinska.net"
+   },
+   "role_zh": "伦敦国王学院媒介哲学与批判性数字实践教授",
+   "bio_zh": "波兰裔英国写作者、艺术家与策展人，研究摄影、AI 与技术伦理。",
+   "why_zh": "她区分了揭示 AI 运作的艺术与只是装饰的 AI 图像，并追问 AI 之后的感知变成了什么。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jill-walker-rettberg",
+   "name": "Jill Walker Rettberg",
+   "kind": "person",
+   "role": "Professor of Digital Culture; Co-director, Center for Digital Narrative, University of Bergen",
+   "based": "Bergen, NO",
+   "bio": "Norwegian digital culture scholar who led the ERC project Machine Vision in Everyday Life and its database of 500 creative works.",
+   "why": "Her book and database are the most systematic survey of how art, games and fiction imagine machine vision.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://jilltxt.net"
+   },
+   "role_zh": "卑尔根大学数字文化教授，数字叙事中心联合主任",
+   "bio_zh": "挪威数字文化学者，主持欧洲研究理事会项目“日常生活中的机器视觉”及其收录 500 件创作的数据库。",
+   "why_zh": "她的专著与数据库是对艺术、游戏与小说如何想象机器视觉最系统的梳理。",
+   "based_zh": "卑尔根，挪威",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jasia-reichardt",
+   "name": "Jasia Reichardt",
+   "kind": "person",
+   "role": "Curator and writer; former Assistant Director, Institute of Contemporary Arts, London",
+   "based": "London, UK",
+   "bio": "Polish-born British curator who organised Cybernetic Serendipity (ICA, 1968) and wrote Robots: Fact, Fiction and Prediction (1978).",
+   "why": "She put computers, robots and cybernetic machines into an art museum for the first time at scale.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "策展人、作家，伦敦当代艺术学院前副馆长",
+   "bio_zh": "波兰出生的英国策展人，策划“控制论的偶然”（ICA，1968），著有《Robots: Fact, Fiction and Prediction》（1978）。",
+   "why_zh": "她首次大规模地把计算机、机器人与控制论机器带进美术馆。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jack-burnham",
+   "name": "Jack Burnham",
+   "kind": "person",
+   "role": "Art critic and theorist (1931–2019)",
+   "based": "Evanston, US",
+   "bio": "American critic and Northwestern University professor who wrote \"Systems Esthetics\" (Artforum, 1968) and curated Software (Jewish Museum, 1970).",
+   "why": "He predicted that sculpture would move from objects to systems and lifelike machines.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "艺术评论家、理论家（1931–2019）",
+   "bio_zh": "美国评论家、西北大学教授，写有《Systems Esthetics》（Artforum，1968），并策划展览 Software（犹太博物馆，1970）。",
+   "why_zh": "他预言雕塑将从物体转向系统和类生命的机器。",
+   "based_zh": "埃文斯顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sofian-audry",
+   "name": "Sofian Audry",
+   "kind": "person",
+   "role": "Artist; Professor, École des médias, Université du Québec à Montréal",
+   "based": "Montréal, CA",
+   "bio": "Canadian artist and scholar who makes robotic and machine-learning artworks.",
+   "why": "He ties machine-learning art back to cybernetic, artificial-life and evolutionary art.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://sofianaudry.com"
+   },
+   "role_zh": "艺术家，魁北克大学蒙特利尔分校媒体学院教授",
+   "bio_zh": "加拿大艺术家与学者，创作机器人与机器学习艺术作品。",
+   "why_zh": "他把机器学习艺术与控制论艺术、人工生命艺术和演化艺术联系起来。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adrian-mackenzie",
+   "name": "Adrian Mackenzie",
+   "kind": "person",
+   "role": "Professor of Sociology, Australian National University",
+   "based": "Canberra, AU",
+   "bio": "Sociologist of software and data, author of Cutting Code (2006) and Machine Learners (2017).",
+   "why": "He studies machine learning from the inside of its code and datasets.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "澳大利亚国立大学社会学教授",
+   "bio_zh": "软件与数据社会学家，著有《Cutting Code》（2006）与《Machine Learners》（2017）。",
+   "why_zh": "他从代码与数据集的内部研究机器学习。",
+   "based_zh": "堪培拉，澳大利亚",
+   "connected_to": [
+    "anna-munster"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-munster",
+   "name": "Anna Munster",
+   "kind": "person",
+   "role": "Professor, School of Art & Design, UNSW Sydney",
+   "based": "Sydney, AU",
+   "bio": "Artist and theorist of networks, perception and machine vision, author of An Aesthesia of Networks (2013).",
+   "why": "She describes how seeing is now distributed across datasets and platforms.",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "新南威尔士大学艺术与设计学院教授",
+   "bio_zh": "艺术家与理论家，研究网络、感知与机器视觉，著有《An Aesthesia of Networks》（2013）。",
+   "why_zh": "她描述了“看”如何分散到数据集与平台之中。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [
+    "adrian-mackenzie"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lev-manovich",
+   "name": "Lev Manovich",
+   "kind": "person",
+   "role": "Presidential Professor, The Graduate Center, CUNY; Director, Cultural Analytics Lab",
+   "based": "New York, US",
+   "bio": "Russian-American media theorist, author of The Language of New Media (2001) and Cultural Analytics (2020).",
+   "why": "He asks how AI changes aesthetic taste and cultural production at scale.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "http://manovich.net"
+   },
+   "role_zh": "纽约市立大学研究生中心校级教授，文化分析实验室主任",
+   "bio_zh": "俄裔美国媒介理论家，著有《新媒体的语言》（2001）与《Cultural Analytics》（2020）。",
+   "why_zh": "他追问 AI 如何在大规模层面改变审美与文化生产。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-rhee",
+   "name": "Jennifer Rhee",
+   "kind": "person",
+   "role": "Professor of English, Virginia Commonwealth University",
+   "based": "Richmond, US",
+   "bio": "Scholar of technology, literature and art, author of The Robotic Imaginary (2018).",
+   "why": "She shows that the humanlike robot is built from devalued care, emotional and military labour.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "弗吉尼亚联邦大学英语系教授",
+   "bio_zh": "研究技术、文学与艺术的学者，著有《The Robotic Imaginary》（2018）。",
+   "why_zh": "她指出类人机器人建立在被贬低的照护劳动、情感劳动与军事劳动之上。",
+   "based_zh": "里士满（弗吉尼亚），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-virilio",
+   "name": "Paul Virilio",
+   "kind": "person",
+   "role": "Cultural theorist and urbanist (1932–2018)",
+   "based": "Paris, FR",
+   "bio": "French theorist of speed, war and perception, author of Speed and Politics (1977) and War and Cinema (1984).",
+   "why": "He named the \"vision machine\", automated perception without a human viewer.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "文化理论家、城市学家（1932–2018）",
+   "bio_zh": "法国理论家，研究速度、战争与感知，著有《速度与政治》（1977）和《战争与电影》（1984）。",
+   "why_zh": "他提出了“视觉机器”：没有人类观看者的自动化感知。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "fritz-heider--apparent-behavior",
+   "creator_ids": [
+    "fritz-heider",
+    "marianne-simmel"
+   ],
+   "title": "An Experimental Study of Apparent Behavior",
+   "year": 1944,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Heider and Simmel showed viewers a 2.5-minute film of two triangles and a circle moving around a box; almost everyone described a story of a bully, a chase and a couple escaping.",
+   "description_zh": "Heider 与 Simmel 给观众放映一段两分半钟的短片：两个三角形和一个圆围着一个方框移动；几乎所有人都把它讲成一个关于恶霸、追逐和一对情侣出逃的故事。",
+   "idea_en": "Motion alone is enough for us to see agents with intentions and feelings, which is why simple robots feel alive.",
+   "idea_zh": "仅凭运动，我们就会看到有意图、有情感的主体，这就是简单的机器人也显得有生命的原因。",
+   "method": "Stop-motion animation of geometric shapes shown to 114 students, who then described or answered questions about it.",
+   "method_zh": "向 114 名学生放映几何图形的定格动画，随后让他们描述内容或回答问题。",
+   "keywords": [
+    "animacy",
+    "attribution",
+    "anthropomorphism",
+    "Heider–Simmel animation",
+    "American Journal of Psychology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n9TWwG4SFWQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.2307/1416950",
+    "doi": "10.2307/1416950",
+    "arxiv": "",
+    "venue": "American Journal of Psychology 57(2), 1944",
+    "title": "An Experimental Study of Apparent Behavior"
+   }
+  },
+  {
+   "id": "rodney-brooks--intelligence-without-representation",
+   "creator_ids": [
+    "rodney-brooks"
+   ],
+   "title": "Intelligence without Representation",
+   "year": 1991,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Brooks argues that robots should be built from layers of simple behaviours coupled directly to sensors and motors, using \"the world as its own best model\", as in his six-legged robot Genghis walking over rough ground.",
+   "description_zh": "Brooks 主张机器人应由直接耦合传感器与电机的简单行为层层叠加而成，“以世界本身为最好的模型”；他的六足机器人 Genghis 就是这样在崎岖地面上行走的。",
+   "idea_en": "Intelligence can be situated and embodied rather than planned from an internal model, and it looks more alive that way.",
+   "idea_zh": "智能可以是情境的、具身的，而不必依赖内部模型的规划；这样的机器看起来也更有生命。",
+   "method": "Subsumption architecture: stacked finite-state machines that suppress or inhibit each other, tested on mobile robots at the MIT AI Lab.",
+   "method_zh": "包容式架构：层层叠加、相互压制或抑制的有限状态机，在麻省理工学院人工智能实验室的移动机器人上验证。",
+   "keywords": [
+    "subsumption architecture",
+    "behaviour-based robotics",
+    "Genghis",
+    "situated robotics",
+    "Artificial Intelligence journal"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-6piNZBFdfY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/0004-3702(91)90053-M",
+    "doi": "10.1016/0004-3702(91)90053-M",
+    "arxiv": "",
+    "venue": "Artificial Intelligence 47(1–3), 1991",
+    "title": "Intelligence without Representation"
+   }
+  },
+  {
+   "id": "rodney-brooks--cog-project",
+   "creator_ids": [
+    "rodney-brooks"
+   ],
+   "title": "The Cog Project: Building a Humanoid Robot",
+   "year": 1999,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Brooks, Breazeal, Marjanović, Scassellati and Williamson report on Cog, an upper-torso humanoid at MIT built to develop skills such as eye movements, reaching and joint attention by interacting with people, as an infant would.",
+   "description_zh": "Brooks、Breazeal、Marjanović、Scassellati 与 Williamson 介绍 Cog：麻省理工学院一台只有上半身的类人机器人，旨在像婴儿一样，通过与人互动发展出眼动、伸手和共同注意等能力。",
+   "idea_en": "Giving a robot a humanlike body and social development makes people treat it as someone, which in turn shapes what it learns.",
+   "idea_zh": "给机器人类人的身体与社会性发育，人们就会把它当作“某个人”来对待，而这又反过来塑造了它学到的东西。",
+   "method": "Upper-torso humanoid platform with active vision and behaviour-based control, developed 1993–2004.",
+   "method_zh": "具有主动视觉与行为控制的上半身类人平台，1993–2004 年间开发。",
+   "keywords": [
+    "Cog",
+    "humanoid robot",
+    "developmental robotics",
+    "joint attention",
+    "MIT AI Lab",
+    "MIT Museum"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oWjWzDzfLBo"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cog%2C_1993-2004%2C_view_1_-_MIT_Museum_-_DSC03732.JPG/960px-Cog%2C_1993-2004%2C_view_1_-_MIT_Museum_-_DSC03732.JPG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/3-540-48834-0_5",
+    "doi": "10.1007/3-540-48834-0_5",
+    "arxiv": "",
+    "venue": "Computation for Metaphors, Analogy, and Agents, LNCS 1562, Springer, 1999",
+    "title": "The Cog Project: Building a Humanoid Robot"
+   }
+  },
+  {
+   "id": "cynthia-breazeal--designing-sociable-robots",
+   "creator_ids": [
+    "cynthia-breazeal"
+   ],
+   "title": "Designing Sociable Robots",
+   "year": 2002,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Breazeal's book on Kismet, the expressive robot head she built at MIT, lays out how a robot can use drives, emotions and facial expression to engage people as a caregiver engages an infant.",
+   "description_zh": "Breazeal 这本书围绕她在麻省理工学院制作的表情机器人头部 Kismet，阐述机器人如何借助驱力、情绪与面部表情吸引人互动，就像照料者与婴儿互动一样。",
+   "idea_en": "A robot that shows needs invites people to care for it, and that care is what makes it social.",
+   "idea_zh": "会表现出需要的机器人，会引来人的照料，而正是这种照料让它成为社会性的存在。",
+   "method": "Synthesis of her doctoral work: motivational and emotional models, perception of faces and voice prosody, and an actuated face with eyebrows, ears, eyelids and lips.",
+   "method_zh": "她博士研究的综合：动机与情绪模型、人脸与语调感知，以及可驱动眉毛、耳朵、眼睑和嘴唇的面部。",
+   "keywords": [
+    "Kismet",
+    "sociable robots",
+    "affective computing",
+    "MIT",
+    "ISBN 9780262025102"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/151207-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kismet-IMG_6014.JPG/960px-Kismet-IMG_6014.JPG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/2376.001.0001",
+    "doi": "10.7551/mitpress/2376.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2002",
+    "title": "Designing Sociable Robots"
+   }
+  },
+  {
+   "id": "kate-darling--the-new-breed",
+   "creator_ids": [
+    "kate-darling"
+   ],
+   "title": "The New Breed: What Our History with Animals Reveals about Our Future with Robots",
+   "year": 2021,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot",
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Darling argues that robots are better understood on the model of animals than of humans, and uses cases such as soldiers holding funerals for bomb-disposal robots and people refusing to hurt a Pleo dinosaur.",
+   "description_zh": "Darling 主张以动物而非人为模型来理解机器人，并举出士兵为排爆机器人举行葬礼、人们拒绝伤害 Pleo 恐龙玩具等案例。",
+   "idea_en": "We already know how to live with non-human others we use, love and mourn; robots can join that history.",
+   "idea_zh": "我们早已懂得如何与被使用、被爱、被哀悼的非人他者共处；机器人可以加入这段历史。",
+   "method": "Popular-science argument combining HRI experiments, legal history of animals and ethics.",
+   "method_zh": "结合人机交互实验、动物法律史与伦理学的科普论证。",
+   "keywords": [
+    "animal analogy",
+    "robot empathy",
+    "Pleo",
+    "anthropomorphism",
+    "Henry Holt",
+    "ISBN 9781250296115"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sTJ7E7TDTrU"
+   },
+   "images": [
+    "https://mpd-biblio-covers.imgix.net/9781250296115.jpg?fm=jpg"
+   ],
+   "paper": {
+    "url": "https://us.macmillan.com/books/9781250296115/thenewbreed/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Henry Holt, 2021",
+    "title": "The New Breed: What Our History with Animals Reveals about Our Future with Robots"
+   },
+   "source_url": "https://us.macmillan.com/books/9781250296115/thenewbreed/"
+  },
+  {
+   "id": "sherry-turkle--alone-together",
+   "creator_ids": [
+    "sherry-turkle"
+   ],
+   "title": "Alone Together: Why We Expect More from Technology and Less from Each Other",
+   "year": 2011,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Based on fifteen years of interviews, Turkle describes a \"robotic moment\" in which children and elderly people accept Furbies, AIBO, My Real Baby and the seal robot Paro as companions that are \"alive enough\".",
+   "description_zh": "基于十五年的访谈，Turkle 描述了一个“机器人时刻”：儿童与老人接受 Furby、AIBO、My Real Baby 和海豹机器人 Paro，把它们当作“足够有生命”的陪伴者。",
+   "idea_en": "We are ready to accept a performance of care in place of care, and that says more about us than about the machines.",
+   "idea_zh": "我们已准备好接受“照护的表演”来代替照护，这更多说明了我们自己，而不是机器。",
+   "method": "Clinical interviews and field observation in homes, schools and nursing homes.",
+   "method_zh": "在家庭、学校和养老院进行的临床访谈与田野观察。",
+   "keywords": [
+    "robotic moment",
+    "relational artifacts",
+    "Paro",
+    "Furby",
+    "AIBO",
+    "Basic Books",
+    "ISBN 9780465031467"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MtLVCpZIiNs"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/6952623-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.basicbooks.com/titles/sherry-turkle/alone-together/9780465093656/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Basic Books, 2011",
+    "title": "Alone Together: Why We Expect More from Technology and Less from Each Other"
+   }
+  },
+  {
+   "id": "byron-reeves--the-media-equation",
+   "creator_ids": [
+    "byron-reeves",
+    "clifford-nass"
+   ],
+   "title": "The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places",
+   "year": 1996,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "machines": [
+    "voice-listening",
+    "social-robot"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "publication",
+   "description": "Reeves and Nass report dozens of experiments in which people are polite to computers, respond to their flattery, and assign them gender and personality, even while saying they know the machine is not a person.",
+   "description_zh": "Reeves 与 Nass 报告了数十个实验：人们对计算机讲礼貌、会被它的恭维打动，还给它赋予性别和个性，尽管他们都说自己知道机器不是人。",
+   "idea_en": "Media = real life: social responses to machines are automatic, so design always addresses a social animal.",
+   "idea_zh": "媒介 = 真实生活：人对机器的社交反应是自动的，所以设计面对的永远是一种社会动物。",
+   "method": "Classic social-psychology studies replicated with computers and television in place of people.",
+   "method_zh": "把经典社会心理学实验中的“人”换成计算机和电视后重做的研究。",
+   "keywords": [
+    "media equation",
+    "CASA",
+    "anthropomorphism",
+    "Cambridge University Press / CSLI",
+    "ISBN 9781575860527"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/829557-L.jpg"
+   ],
+   "paper": {
+    "url": "https://en.wikipedia.org/wiki/The_Media_Equation",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Cambridge University Press / CSLI Publications, 1996",
+    "title": "The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places"
+   }
+  },
+  {
+   "id": "clifford-nass--computers-are-social-actors",
+   "creator_ids": [
+    "clifford-nass"
+   ],
+   "title": "Computers Are Social Actors",
+   "year": 1994,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Nass, Jonathan Steuer and Ellen R. Tauber ran a series of experiments showing that people apply politeness norms and gender stereotypes to computers that speak, for example rating a computer more kindly when that same computer asks.",
+   "description_zh": "Nass、Jonathan Steuer 与 Ellen R. Tauber 进行了一系列实验，证明人会对会说话的计算机套用礼貌规范与性别刻板印象，例如由同一台计算机来询问时，人们会给它更高的评价。",
+   "idea_en": "Minimal social cues, a voice and a role, are enough to trigger full social behaviour towards a machine.",
+   "idea_zh": "极少的社交线索（一个声音和一个角色）就足以引发人对机器的完整社交行为。",
+   "method": "Controlled lab experiments with tutoring and evaluating computers using recorded voices.",
+   "method_zh": "使用录制语音、由计算机担任辅导和评估角色的受控实验室实验。",
+   "keywords": [
+    "CASA paradigm",
+    "politeness",
+    "gender stereotypes",
+    "CHI 1994"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=e7PvUUhDrfk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/191666.191703",
+    "doi": "10.1145/191666.191703",
+    "arxiv": "",
+    "venue": "CHI 1994",
+    "title": "Computers Are Social Actors"
+   }
+  },
+  {
+   "id": "rolf-pfeifer--how-the-body-shapes-the-way-we-think",
+   "creator_ids": [
+    "rolf-pfeifer",
+    "josh-bongard"
+   ],
+   "title": "How the Body Shapes the Way We Think: A New View of Intelligence",
+   "year": 2006,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment"
+   ],
+   "kind": "publication",
+   "description": "Pfeifer and Bongard argue that intelligence depends on the morphology and materials of a body interacting with its environment, using passive-dynamic walkers and compliant robots as examples.",
+   "description_zh": "Pfeifer 与 Bongard 主张智能取决于身体的形态与材料如何与环境互动，并以被动动力行走机和柔顺机器人为例。",
+   "idea_en": "Some of a robot's intelligence is in its shape and materials, not its controller.",
+   "idea_zh": "机器人的一部分智能在于它的形状与材料，而不在控制器。",
+   "method": "Synthesis of embodied AI research with design principles for robots.",
+   "method_zh": "对具身人工智能研究的综合，并提出机器人设计原则。",
+   "keywords": [
+    "embodied AI",
+    "morphological computation",
+    "passive dynamic walker",
+    "MIT Press",
+    "ISBN 9780262162395"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mhWwoaoxIyc"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/13662665-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/3585.001.0001",
+    "doi": "10.7551/mitpress/3585.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2006",
+    "title": "How the Body Shapes the Way We Think: A New View of Intelligence"
+   }
+  },
+  {
+   "id": "robert-sparrow--in-the-hands-of-machines",
+   "creator_ids": [
+    "robert-sparrow"
+   ],
+   "title": "In the Hands of Machines? The Future of Aged Care",
+   "year": 2006,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Robert and Linda Sparrow argue that care robots for older people would reduce human contact and rely on deceiving vulnerable people into believing a machine cares for them.",
+   "description_zh": "Robert Sparrow 与 Linda Sparrow 认为，面向老年人的照护机器人会减少人的接触，并且依赖于让弱势者误以为机器在关心他们。",
+   "idea_en": "A machine that simulates care may be a harm, not a help, when it replaces the people who would have cared.",
+   "idea_zh": "当模拟关怀的机器取代了本该照护的人时，它可能是伤害而非帮助。",
+   "method": "Ethical analysis of the tasks of aged care against the capacities of existing and projected robots.",
+   "method_zh": "把养老照护的具体任务与现有及预期机器人的能力对照进行伦理分析。",
+   "keywords": [
+    "care robots",
+    "aged care",
+    "deception",
+    "robot ethics",
+    "Minds and Machines"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s11023-006-9030-6",
+    "doi": "10.1007/s11023-006-9030-6",
+    "arxiv": "",
+    "venue": "Minds and Machines 16(2), 2006",
+    "title": "In the Hands of Machines? The Future of Aged Care"
+   }
+  },
+  {
+   "id": "joanna-zylinska--ai-art",
+   "creator_ids": [
+    "joanna-zylinska"
+   ],
+   "title": "AI Art: Machine Visions and Warped Dreams",
+   "year": 2020,
+   "field": "theory",
+   "sub": "art-theory",
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Zylinska rejects the question \"can computers be creative?\" and instead reads works such as Lauren McCarthy's LAUREN, Pierre Huyghe's UUmwelt and Trevor Paglen's Sight Machine against neural-network imagery she calls kitsch.",
+   "description_zh": "Zylinska 拒绝“计算机能否有创造力”这个问题，转而把 Lauren McCarthy 的《LAUREN》、Pierre Huyghe 的《UUmwelt》、Trevor Paglen 的《Sight Machine》等作品，与她称为“媚俗”的神经网络图像对照阅读。",
+   "idea_en": "The interesting AI art is the one that shows how the machine works and who works for it.",
+   "idea_zh": "值得关注的 AI 艺术，是那些揭示机器如何运作、谁在为它工作的作品。",
+   "method": "Critical essay in the Media : Art : Write : Now series, open access; includes her own photo-and-AI project.",
+   "method_zh": "“Media : Art : Write : Now”丛书中的批判论著，开放获取；书中也收录她自己的摄影与 AI 项目。",
+   "keywords": [
+    "AI art",
+    "kitsch",
+    "Anthropocene",
+    "posthumanist ethics",
+    "open access",
+    "Open Humanities Press",
+    "ISBN 9781785420856"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jASV6Hjd2bY"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14833507-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.openhumanitiespress.org/books/titles/ai-art/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Open Humanities Press, 2020",
+    "title": "AI Art: Machine Visions and Warped Dreams"
+   },
+   "source_url": "https://www.openhumanitiespress.org/books/titles/ai-art/"
+  },
+  {
+   "id": "joanna-zylinska--the-perception-machine",
+   "creator_ids": [
+    "joanna-zylinska"
+   ],
+   "title": "The Perception Machine: Our Photographic Future between the Eye and AI",
+   "year": 2023,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Zylinska argues that photography has become a planetary perception machine of cameras, sensors and algorithms, and asks how humans can still see and act within it.",
+   "description_zh": "Zylinska 主张摄影已成为由相机、传感器与算法构成的星球级感知机器，并追问人在其中如何仍能看见与行动。",
+   "idea_en": "Perception is now a joint human–machine process, so critique has to work from inside it.",
+   "idea_zh": "感知如今是人与机器的共同过程，因此批判必须从内部展开。",
+   "method": "Media-philosophical essay with her own artistic experiments; open access.",
+   "method_zh": "结合作者自身艺术实验的媒介哲学论著；开放获取。",
+   "keywords": [
+    "nonhuman photography",
+    "machine vision",
+    "perception",
+    "open access",
+    "MIT Press",
+    "ISBN 9780262546836"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jsdZFeTs2VA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/14471.001.0001",
+    "doi": "10.7551/mitpress/14471.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2023",
+    "title": "The Perception Machine: Our Photographic Future between the Eye and AI"
+   }
+  },
+  {
+   "id": "jill-walker-rettberg--machine-vision",
+   "creator_ids": [
+    "jill-walker-rettberg"
+   ],
+   "title": "Machine Vision: How Algorithms Are Changing the Way We See the World",
+   "year": 2023,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Rettberg organises machine vision into five modes (seeing more, seeing differently, seeing everything, being seen and seeing less) and reads artworks such as Zizi – Queering the Dataset and The Normalizing Machine alongside smart doorbells and face filters.",
+   "description_zh": "Rettberg 把机器视觉分为五种模式（看得更多、看得不同、看见一切、被看见、看得更少），并将《Zizi – Queering the Dataset》《The Normalizing Machine》等作品与智能门铃、人脸滤镜并置阅读。",
+   "idea_en": "Machine vision is not one eye but a set of relations that make some things visible and others unseen.",
+   "idea_zh": "机器视觉不是一只眼睛，而是一组关系：它让某些事物可见，另一些事物被忽视。",
+   "method": "Qualitative analysis of the Machine Vision in Art, Games and Narratives database (500 works) built by her ERC team; open access.",
+   "method_zh": "基于其欧洲研究理事会团队建立的“艺术、游戏与叙事中的机器视觉”数据库（500 件作品）的质性分析；开放获取。",
+   "keywords": [
+    "machine vision",
+    "algorithmic gaze",
+    "open access",
+    "Polity",
+    "ISBN 9781509545223",
+    "machine-vision.no"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ybva0y9KF8Q"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14726453-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.politybooks.com/bookdetail?book_slug=machine-vision-how-algorithms-are-changing-the-way-we-see-the-world--9781509545223",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Polity, 2023",
+    "title": "Machine Vision: How Algorithms Are Changing the Way We See the World"
+   },
+   "source_url": "https://machine-vision.no"
+  },
+  {
+   "id": "trevor-paglen--invisible-images",
+   "creator_ids": [
+    "trevor-paglen"
+   ],
+   "title": "Invisible Images (Your Pictures Are Looking at You)",
+   "year": 2016,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Paglen argues that most images are now made by machines for other machines, such as licence-plate readers and face recognisers, and that this invisible visual culture escapes the tools of art history.",
+   "description_zh": "Paglen 指出，如今大多数图像由机器为其他机器而制造，比如车牌识别器与人脸识别器；这种不可见的视觉文化超出了艺术史的分析工具。",
+   "idea_en": "The most consequential images are ones no human looks at.",
+   "idea_zh": "影响最深远的图像，是没有人去看的那些。",
+   "method": "Essay drawing on his research with computer-vision systems for the works It Began as a Military Experiment and Sight Machine.",
+   "method_zh": "一篇随笔，基于他为《It Began as a Military Experiment》和《Sight Machine》等作品研究计算机视觉系统的经验。",
+   "keywords": [
+    "machine-to-machine images",
+    "computer vision",
+    "The New Inquiry",
+    "visual culture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JZjGsaJ1OcU"
+   },
+   "images": [
+    "https://thenewinquiry.com/app/uploads/2016/12/57paglen01.jpg"
+   ],
+   "paper": {
+    "url": "https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "The New Inquiry, 8 December 2016",
+    "title": "Invisible Images (Your Pictures Are Looking at You)"
+   }
+  },
+  {
+   "id": "harun-farocki--phantom-images",
+   "creator_ids": [
+    "harun-farocki"
+   ],
+   "title": "Phantom Images",
+   "year": 2004,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception",
+    "labour"
+   ],
+   "machines": [
+    "vision-system",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "Farocki's essay on \"operational images\", images from missile cameras and industrial vision systems that neither entertain nor inform but are part of an operation, written alongside his installation cycle Eye/Machine (2001–03).",
+   "description_zh": "Farocki 关于“操作图像”的文章：导弹摄像头与工业视觉系统的图像既不为娱乐也不为告知，而是某个操作的一部分；它与他的装置系列《Eye/Machine》（2001–03）同期写成。",
+   "idea_en": "When images become steps in a process, seeing turns into doing, and the human viewer drops out.",
+   "idea_zh": "当图像变成流程中的一步，看就变成了做，人类观者随之退场。",
+   "method": "Essay based on archival footage of guided weapons and machine-vision systems gathered for Eye/Machine.",
+   "method_zh": "一篇文章，依据为《Eye/Machine》收集的制导武器与机器视觉系统档案影像写成。",
+   "keywords": [
+    "operational images",
+    "Eye/Machine",
+    "machine vision",
+    "Gulf War",
+    "Public journal"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tERIscWmpSo"
+   },
+   "paper": {
+    "url": "https://www.harunfarocki.de/installations/2000s/2003/eye-machine-iii.html",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Public 29, 2004",
+    "title": "Phantom Images"
+   },
+   "source_url": "https://www.harunfarocki.de/installations/2000s/2003/eye-machine-iii.html"
+  },
+  {
+   "id": "simon-penny--making-sense",
+   "creator_ids": [
+    "simon-penny"
+   ],
+   "title": "Making Sense: Cognition, Computing, Art, and Embodiment",
+   "year": 2017,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Penny critiques the computational theory of mind and draws on enactive and distributed cognition, cybernetics and his own robotic works such as Petit Mal to argue for a performative aesthetics of interactive art.",
+   "description_zh": "Penny 批判计算主义心智理论，借助生成认知、分布式认知、控制论以及他自己的机器人作品（如《Petit Mal》），论证交互艺术的“表演性美学”。",
+   "idea_en": "Artists who build behaving machines have long practised a theory of embodied cognition that AI ignored.",
+   "idea_zh": "制作会“行为”的机器的艺术家，长期实践着被 AI 忽视的具身认知理论。",
+   "method": "Book-length theory from four decades of practice, published in the Leonardo series.",
+   "method_zh": "基于四十年实践写成的理论专著，收入 Leonardo 丛书。",
+   "keywords": [
+    "embodied cognition",
+    "enaction",
+    "Petit Mal",
+    "performative aesthetics",
+    "Leonardo",
+    "MIT Press",
+    "ISBN 9780262036757"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PU_WDouhkw8"
+   },
+   "paper": {
+    "url": "https://mitpress.mit.edu/9780262036757/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "MIT Press / Leonardo, 2017",
+    "title": "Making Sense: Cognition, Computing, Art, and Embodiment"
+   }
+  },
+  {
+   "id": "eduardo-kac--foundation-and-development-of-robotic-art",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Foundation and Development of Robotic Art",
+   "year": 1997,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "humanoid",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Kac traces robotic art from three 1960s works, Nam June Paik and Shuya Abe's Robot K-456, Tom Shannon's Squat and Edward Ihnatowicz's SAM and Senster, to telepresence and web-controlled robots of the 1990s.",
+   "description_zh": "Kac 从 1960 年代的三件作品（白南准与阿部修也的《Robot K-456》、Tom Shannon 的《Squat》以及 Edward Ihnatowicz 的《SAM》和《Senster》）出发，追溯机器人艺术直到 1990 年代的远程在场与网络操控机器人。",
+   "idea_en": "Robotic art split early into three lines: anthropomorphic, cybernetic-responsive and bio-hybrid.",
+   "idea_zh": "机器人艺术很早就分成三条路线：拟人的、控制论响应式的，以及生物混合的。",
+   "method": "Art-historical survey in the Art Journal issue on art and technology.",
+   "method_zh": "刊于《Art Journal》艺术与技术专号的艺术史综述。",
+   "keywords": [
+    "robotic art",
+    "Robot K-456",
+    "Senster",
+    "telepresence",
+    "Art Journal"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/00043249.1997.10791834",
+    "doi": "10.1080/00043249.1997.10791834",
+    "arxiv": "",
+    "venue": "Art Journal 56(3), 1997",
+    "title": "Foundation and Development of Robotic Art"
+   },
+   "source_url": "https://www.ekac.org"
+  },
+  {
+   "id": "jack-burnham--beyond-modern-sculpture",
+   "creator_ids": [
+    "jack-burnham"
+   ],
+   "title": "Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century",
+   "year": 1968,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "publication",
+   "description": "Burnham surveys twentieth-century sculpture from vitalism to kinetic, light and cybernetic art, and predicts a move from static objects to responsive systems and artificial life.",
+   "description_zh": "Burnham 回顾 20 世纪雕塑从生机论到动态、光与控制论艺术的发展，并预言雕塑将从静态物体转向会回应的系统与人工生命。",
+   "idea_en": "Sculpture's long wish to make the object alive ends in the machine that behaves.",
+   "idea_zh": "雕塑让物体“活起来”的长久愿望，最终落到会行为的机器身上。",
+   "method": "Art-historical and systems-theoretical survey.",
+   "method_zh": "结合艺术史与系统论的综述。",
+   "keywords": [
+    "systems aesthetics",
+    "kinetic art",
+    "cybernetic sculpture",
+    "George Braziller"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/14444956-L.jpg"
+   ],
+   "paper": {
+    "url": "https://archive.org/details/beyondmodernscul0000burn",
+    "doi": "",
+    "arxiv": "",
+    "venue": "George Braziller, 1968",
+    "title": "Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century"
+   }
+  },
+  {
+   "id": "sofian-audry--art-in-the-age-of-machine-learning",
+   "creator_ids": [
+    "sofian-audry"
+   ],
+   "title": "Art in the Age of Machine Learning",
+   "year": 2021,
+   "field": "theory",
+   "sub": "art-theory",
+   "machines": [
+    "generative-latent",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Audry explains how machine-learning systems are trained and places ML art in the lineage of cybernetic, artificial-life and evolutionary art, with case studies of contemporary ML artworks.",
+   "description_zh": "Audry 解释机器学习系统如何被训练，并把机器学习艺术放进控制论艺术、人工生命艺术与演化艺术的谱系中，并分析当代机器学习艺术作品的案例。",
+   "idea_en": "The artist's material is the training process itself, and it has a longer history than the current hype admits.",
+   "idea_zh": "艺术家的材料是训练过程本身，而它的历史比眼下的热潮所承认的更长。",
+   "method": "Technical-conceptual framework (data, training, model) applied to case studies; Leonardo series.",
+   "method_zh": "把“数据—训练—模型”的技术概念框架用于案例研究；收入 Leonardo 丛书。",
+   "keywords": [
+    "machine learning art",
+    "training",
+    "artificial life art",
+    "Leonardo",
+    "MIT Press",
+    "ISBN 9780262046183"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TwtgaQSmnXc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/12832.001.0001",
+    "doi": "10.7551/mitpress/12832.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press / Leonardo, 2021",
+    "title": "Art in the Age of Machine Learning"
+   }
+  },
+  {
+   "id": "hito-steyerl--a-sea-of-data",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "A Sea of Data: Apophenia and Pattern (Mis-)Recognition",
+   "year": 2016,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Steyerl writes about intelligence agencies and neural networks drowning in data and finding patterns that are not there, using Google's DeepDream images as an example of apophenia.",
+   "description_zh": "Steyerl 描写情报机构与神经网络如何淹没在数据中，并看见本不存在的模式；她以谷歌 DeepDream 图像作为“空想性错觉”的例子。",
+   "idea_en": "Pattern recognition is also pattern projection; machines hallucinate the order their owners want to see.",
+   "idea_zh": "模式识别也是模式投射；机器幻觉出的，正是其所有者想看到的秩序。",
+   "method": "Essay combining media theory, surveillance history and image analysis.",
+   "method_zh": "结合媒介理论、监控史与图像分析的随笔。",
+   "keywords": [
+    "apophenia",
+    "DeepDream",
+    "surveillance",
+    "e-flux journal",
+    "noise"
+   ],
+   "images": [
+    "https://images.e-flux.com/test/cad7b8d2-d37e-4c14-825a-431c296346ff?width=1200&height=630"
+   ],
+   "paper": {
+    "url": "https://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "e-flux journal 72, 2016",
+    "title": "A Sea of Data: Apophenia and Pattern (Mis-)Recognition"
+   }
+  },
+  {
+   "id": "hito-steyerl--mean-images",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "Mean Images",
+   "year": 2023,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Steyerl reads generative-AI images as statistical averages of scraped data, starting from how images of herself appear in the LAION-5B dataset and what models generate from her name.",
+   "description_zh": "Steyerl 把生成式 AI 图像读作对抓取数据的统计平均；她从自己的照片在 LAION-5B 数据集中的呈现方式，以及模型根据她的名字生成的图像出发。",
+   "idea_en": "Generated images are \"mean\" in both senses: averages that also enforce norms and exclude.",
+   "idea_zh": "生成图像在双重意义上是“mean”的：它们是平均值，也会强化规范并排斥他者。",
+   "method": "Essay combining close reading of model outputs with the political economy of datasets.",
+   "method_zh": "把对模型输出的细读与数据集的政治经济学结合起来的文章。",
+   "keywords": [
+    "mean images",
+    "LAION-5B",
+    "Stable Diffusion",
+    "New Left Review",
+    "statistics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PFwaqpkd61M"
+   },
+   "images": [
+    "https://newleftreview.org/system/dragonfly/production/2023/04/28/7rn0jeq677_Steyerl_Figure_1.jpg"
+   ],
+   "paper": {
+    "url": "https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images",
+    "doi": "",
+    "arxiv": "",
+    "venue": "New Left Review 140/141, 2023",
+    "title": "Mean Images"
+   }
+  },
+  {
+   "id": "adrian-mackenzie--platform-seeing",
+   "creator_ids": [
+    "adrian-mackenzie",
+    "anna-munster"
+   ],
+   "title": "Platform Seeing: Image Ensembles and Their Invisualities",
+   "year": 2019,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "dataset",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "machine-seeing"
+   ],
+   "kind": "paper",
+   "description": "Mackenzie and Munster argue that on platforms, seeing is done by huge ensembles of images, formats, hardware and models, and that this \"platform seeing\" produces invisualities rather than views.",
+   "description_zh": "Mackenzie 与 Munster 指出，在平台上，“看”是由海量图像、格式、硬件与模型组成的集合完成的；这种“平台之看”生成的是“不可视性”，而非视野。",
+   "idea_en": "Machine vision happens in datasets and pipelines, not in any single image or eye.",
+   "idea_zh": "机器视觉发生在数据集与处理管线中，而不在任何单一图像或眼睛里。",
+   "method": "Media-theoretical analysis of deep-learning datasets such as ImageNet and their hardware.",
+   "method_zh": "对 ImageNet 等深度学习数据集及其硬件的媒介理论分析。",
+   "keywords": [
+    "platform seeing",
+    "invisuality",
+    "image ensembles",
+    "ImageNet",
+    "Theory, Culture & Society"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/0263276419847508",
+    "doi": "10.1177/0263276419847508",
+    "arxiv": "",
+    "venue": "Theory, Culture & Society 36(5), 2019",
+    "title": "Platform Seeing: Image Ensembles and Their Invisualities"
+   }
+  },
+  {
+   "id": "lev-manovich--ai-aesthetics",
+   "creator_ids": [
+    "lev-manovich"
+   ],
+   "title": "AI Aesthetics",
+   "year": 2018,
+   "field": "theory",
+   "sub": "art-theory",
+   "machines": [
+    "generative-latent",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "A short book on how AI already shapes everyday aesthetic decisions, from photo filters and recommendations to design, and what it means for culture when machines learn and predict taste.",
+   "description_zh": "一本小书，讨论 AI 如何已经塑造日常的审美决策（从照片滤镜、推荐到设计），以及当机器学习并预测品味时，文化会发生什么。",
+   "idea_en": "AI's biggest aesthetic effect is not generating art but quietly sorting and predicting taste.",
+   "idea_zh": "AI 对美学最大的影响不是生成艺术，而是悄悄地给品味分类并加以预测。",
+   "method": "Essay from the Strelka Press series, drawing on his cultural-analytics research.",
+   "method_zh": "Strelka Press 丛书中的一篇长文，依据他的文化分析研究。",
+   "keywords": [
+    "AI aesthetics",
+    "cultural analytics",
+    "recommendation",
+    "Strelka Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oR1NyrAY_w4"
+   },
+   "images": [
+    "https://manovich.net/content/04-projects/184-ai-aesthetics/ai_new.jpg"
+   ],
+   "paper": {
+    "url": "http://manovich.net/index.php/projects/ai-aesthetics",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Strelka Press, 2018",
+    "title": "AI Aesthetics"
+   },
+   "source_url": "http://manovich.net/index.php/projects/ai-aesthetics"
+  },
+  {
+   "id": "jennifer-rhee--the-robotic-imaginary",
+   "creator_ids": [
+    "jennifer-rhee"
+   ],
+   "title": "The Robotic Imaginary: The Human and the Price of Dehumanized Labor",
+   "year": 2018,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "humanoid",
+    "vehicle-drone",
+    "social-robot"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Rhee reads robots in AI research, film, literature and art, from ELIZA and Kismet to drone art such as #NotABugSplat, and shows that each definition of the humanlike robot rests on devalued human labour.",
+   "description_zh": "Rhee 阅读 AI 研究、电影、文学与艺术中的机器人（从 ELIZA、Kismet 到《#NotABugSplat》等无人机艺术），揭示每一种“类人机器人”的定义都建立在被贬低的人类劳动之上。",
+   "idea_en": "To ask what makes a robot humanlike is to ask whose labour counts as human.",
+   "idea_zh": "追问什么让机器人像人，就是追问谁的劳动被算作人的劳动。",
+   "method": "Cultural analysis across chapters on care labour, emotional labour, drone warfare and the Turing test.",
+   "method_zh": "按照护劳动、情感劳动、无人机战争与图灵测试分章展开的文化分析。",
+   "keywords": [
+    "anthropomorphization",
+    "dehumanization",
+    "care labour",
+    "drones",
+    "University of Minnesota Press",
+    "ISBN 9781517902988"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7APzxormknw"
+   },
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9781517902988.jpg?w=400"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5749/j.ctv62hh4x",
+    "doi": "10.5749/j.ctv62hh4x",
+    "arxiv": "",
+    "venue": "University of Minnesota Press, 2018",
+    "title": "The Robotic Imaginary: The Human and the Price of Dehumanized Labor"
+   }
+  },
+  {
+   "id": "louis-philippe-demers--multiple-bodies-of-a-machine-performer",
+   "creator_ids": [
+    "louis-philippe-demers"
+   ],
+   "title": "The Multiple Bodies of a Machine Performer",
+   "year": 2016,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "coperformance",
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "Demers analyses how audiences perceive agency in robots on stage, drawing on his own works such as The Tiller Girls, and separates a machine performer's physical, perceived and narrative bodies.",
+   "description_zh": "Demers 结合自己的作品（如《The Tiller Girls》）分析观众如何感知舞台上机器人的能动性，并区分机器表演者的物理身体、被感知的身体与叙事身体。",
+   "idea_en": "A machine performer's presence comes from how its movement is read, not from how humanlike it looks.",
+   "idea_zh": "机器表演者的在场感来自其动作如何被解读，而不是它看起来多像人。",
+   "method": "Practice-based analysis in the volume Robots and Art: Exploring an Unlikely Symbiosis, edited by Herath, Kroos and Stelarc.",
+   "method_zh": "基于创作实践的分析，收入 Herath、Kroos 与 Stelarc 主编的《Robots and Art: Exploring an Unlikely Symbiosis》。",
+   "keywords": [
+    "machine performers",
+    "perceived agency",
+    "robotic performance",
+    "Robots and Art",
+    "Springer"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Bf-r34FzLhs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/978-981-10-0321-9_14",
+    "doi": "10.1007/978-981-10-0321-9_14",
+    "arxiv": "",
+    "venue": "Robots and Art, Springer, 2016",
+    "title": "The Multiple Bodies of a Machine Performer"
+   }
+  },
+  {
+   "id": "paul-virilio--the-vision-machine",
+   "creator_ids": [
+    "paul-virilio"
+   ],
+   "title": "The Vision Machine",
+   "year": 1988,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "vehicle-drone",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "Virilio describes the rise of automated perception, cameras and computers that see and interpret without a human viewer, as a \"sightless vision\" rooted in military logistics.",
+   "description_zh": "Virilio 描述自动化感知的兴起：无需人类观看者就能观看并解读的相机与计算机，他称之为源于军事后勤的“无视之视”。",
+   "idea_en": "When machines see for us, perception becomes logistics and the human eye is optional.",
+   "idea_zh": "当机器替我们去看，感知就变成后勤，人的眼睛成了可有可无的东西。",
+   "method": "Essay in media archaeology, from perspective painting to smart weapons; French original La Machine de vision (Galilée, 1988).",
+   "method_zh": "从透视绘画到智能武器的媒介考古随笔；法文原版《La Machine de vision》（Galilée，1988）。",
+   "keywords": [
+    "sightless vision",
+    "logistics of perception",
+    "La Machine de vision",
+    "BFI",
+    "Indiana University Press"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/148033-L.jpg"
+   ],
+   "paper": {
+    "url": "https://iupress.org/9780253209016/the-vision-machine/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Galilée, 1988; English: BFI / Indiana University Press, 1994",
+    "title": "The Vision Machine"
+   }
+  },
+  {
+   "id": "blaise-aguera-y-arcas--art-in-the-age-of-machine-intelligence",
+   "creator_ids": [
+    "blaise-aguera-y-arcas"
+   ],
+   "title": "Art in the Age of Machine Intelligence",
+   "year": 2017,
+   "field": "theory",
+   "sub": "art-theory",
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Agüera y Arcas compares machine learning to photography's arrival in the 19th century, uses DeepDream as an example, and argues that artists should work with neural networks as a new medium.",
+   "description_zh": "Agüera y Arcas 把机器学习与 19 世纪摄影的出现相比，以 DeepDream 为例，主张艺术家应把神经网络当作新媒介来创作。",
+   "idea_en": "Like photography, machine intelligence will change what art is, and artists should shape it rather than just react.",
+   "idea_zh": "与摄影一样，机器智能会改变艺术本身，艺术家应当参与塑造它，而不只是做出反应。",
+   "method": "Essay by the founder of Google's Artists + Machine Intelligence programme, open access.",
+   "method_zh": "谷歌 Artists + Machine Intelligence 项目创始人撰写的文章，开放获取。",
+   "keywords": [
+    "Artists + Machine Intelligence",
+    "DeepDream",
+    "photography analogy",
+    "Arts journal",
+    "open access"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uSUOdu_5MPc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.3390/arts6040018",
+    "doi": "10.3390/arts6040018",
+    "arxiv": "",
+    "venue": "Arts 6(4), 2017",
+    "title": "Art in the Age of Machine Intelligence"
+   }
+  },
+  {
+   "id": "jasia-reichardt--cybernetic-serendipity-catalogue",
+   "creator_ids": [
+    "jasia-reichardt"
+   ],
+   "title": "Cybernetic Serendipity: The Computer and the Arts",
+   "year": 1968,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "The catalogue of Reichardt's ICA exhibition, published as a special issue of Studio International, documenting computer graphics, music, poetry and cybernetic machines by Gordon Pask, Nam June Paik, Edward Ihnatowicz and many others.",
+   "description_zh": "Reichardt 在伦敦当代艺术学院所策展览的图录，以《Studio International》特刊形式出版，记录了 Gordon Pask、白南准、Edward Ihnatowicz 等人的计算机图形、音乐、诗歌与控制论机器。",
+   "idea_en": "The first large art show of computers presented machines as collaborators and characters, not just tools.",
+   "idea_zh": "第一场大型计算机艺术展把机器呈现为合作者和角色，而不仅仅是工具。",
+   "method": "Exhibition catalogue with artists' statements, diagrams and essays by scientists and engineers.",
+   "method_zh": "展览图录，收录艺术家自述、图解以及科学家与工程师的文章。",
+   "keywords": [
+    "Cybernetic Serendipity",
+    "ICA 1968",
+    "Studio International",
+    "computer art",
+    "Gordon Pask"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5mH9DysESqo"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/8992379-L.jpg"
+   ],
+   "paper": {
+    "url": "https://cyberneticserendipity.net",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Studio International special issue, 1968",
+    "title": "Cybernetic Serendipity: The Computer and the Arts"
+   },
+   "source_url": "https://cyberneticserendipity.net",
+   "collections": [
+    "cybernetic-serendipity-1968"
+   ]
+  }
+ ],
+ "leads": []
+}

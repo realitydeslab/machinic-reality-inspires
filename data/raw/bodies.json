@@ -1,0 +1,2137 @@
+{
+ "batch": "bodies",
+ "creators": [
+  {
+   "id": "w-grey-walter",
+   "name": "W. Grey Walter",
+   "kind": "person",
+   "role": "Neurophysiologist and cybernetician, Burden Neurological Institute, Bristol",
+   "based": "Bristol, UK",
+   "bio": "American-born British neurophysiologist (1910–1977) who worked on EEG and built the first autonomous electronic 'tortoises' in 1948–49.",
+   "why": "His tortoises showed that a machine with two 'neurons' can look alive, the starting point of robots as creatures.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "神经生理学家、控制论学者，布里斯托尔 Burden 神经学研究所",
+   "bio_zh": "美裔英国神经生理学家（1910–1977），从事脑电图研究，并在 1948–49 年造出最早的自主电子“乌龟”。",
+   "why_zh": "他的乌龟证明只有两个“神经元”的机器也能显得像活物，是“机器人即生灵”这一思路的起点。",
+   "based_zh": "布里斯托尔，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "johns-hopkins-apl",
+   "name": "Johns Hopkins Applied Physics Laboratory",
+   "kind": "lab",
+   "role": "University-affiliated research laboratory",
+   "based": "Laurel, Maryland, US",
+   "bio": "Research laboratory of Johns Hopkins University where engineers built the 'Beast', a self-charging mobile automaton, in the early 1960s.",
+   "why": "The Beast is an early machine whose whole behaviour is organised around its own survival.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.jhuapl.edu/"
+   },
+   "role_zh": "大学附属研究实验室",
+   "bio_zh": "约翰斯·霍普金斯大学的研究实验室，20 世纪 60 年代初工程师在这里造出了会自己充电的移动自动机“野兽”。",
+   "why_zh": "“野兽”是早期一台整个行为都围绕自身“生存”组织起来的机器。",
+   "based_zh": "马里兰州劳雷尔，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "claude-shannon",
+   "name": "Claude Shannon",
+   "kind": "person",
+   "role": "Mathematician and engineer, Bell Labs and MIT",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "American mathematician (1916–2001) who founded information theory and built playful machines, including the maze-learning mouse Theseus and the 'Ultimate Machine'.",
+   "why": "Besides founding information theory, he built small machines that staged learning and refusal as physical behaviour.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "数学家、工程师，贝尔实验室与麻省理工学院",
+   "bio_zh": "美国数学家（1916–2001），信息论的奠基人，也做了不少带玩心的机器，包括会学走迷宫的老鼠 Theseus 和“终极机器”。",
+   "why_zh": "除了奠定信息论，他还做了一些小机器，把“学习”和“拒绝”演成看得见的身体行为。",
+   "based_zh": "马萨诸塞州剑桥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicolas-schoffer",
+   "name": "Nicolas Schöffer",
+   "kind": "person",
+   "role": "Artist, pioneer of cybernetic art",
+   "based": "Paris, FR",
+   "bio": "Hungarian-born French artist (1912–1992) who developed 'spatiodynamic' and cybernetic sculpture from the 1950s.",
+   "why": "CYSP 1 (1956) is often called the first cybernetic sculpture: an artwork with sensors and a feedback 'brain'.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家，控制论艺术先驱",
+   "bio_zh": "匈牙利裔法国艺术家（1912–1992），20 世纪 50 年代起发展“空间动力”与控制论雕塑。",
+   "why_zh": "CYSP 1（1956）常被称为第一件控制论雕塑：一件带传感器和反馈“大脑”的艺术品。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gordon-pask",
+   "name": "Gordon Pask",
+   "kind": "person",
+   "role": "Cybernetician, inventor and theorist of conversation",
+   "based": "London, UK",
+   "bio": "British cybernetician (1928–1996) who built learning and 'conversational' machines, from Musicolour (1953) to the Colloquy of Mobiles (1968).",
+   "why": "He treated machines as partners in a conversation that can get bored, learn and court each other.",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "控制论学者、发明家、会话理论提出者",
+   "bio_zh": "英国控制论学者（1928–1996），做过会学习、会“对话”的机器，从 Musicolour（1953）到 Colloquy of Mobiles（1968）。",
+   "why_zh": "他把机器当作会厌倦、会学习、会互相求偶的对话伙伴。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "edward-ihnatowicz"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edward-ihnatowicz",
+   "name": "Edward Ihnatowicz",
+   "kind": "person",
+   "role": "Sculptor and pioneer of robotic art",
+   "based": "London, UK",
+   "bio": "Polish-born British sculptor (1926–1988) who built SAM (1968) and The Senster (1970), early computer-controlled sculptures that responded to people.",
+   "why": "He showed that a machine's attention, turning toward or away from us, is enough to make it seem alive.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "http://www.senster.com/"
+   },
+   "role_zh": "雕塑家、机器人艺术先驱",
+   "bio_zh": "波兰裔英国雕塑家（1926–1988），做了 SAM（1968）和 The Senster（1970）这两件早期会回应人的计算机控制雕塑。",
+   "why_zh": "他证明机器的“注意力”——转向或避开我们——就足以让它显得有生命。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "gordon-pask"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bruce-lacey",
+   "name": "Bruce Lacey",
+   "kind": "person",
+   "role": "Artist, performer and robot maker",
+   "based": "London, UK",
+   "bio": "British artist (1927–2016) who made anarchic, junk-built humanoid robots and performances in the 1960s.",
+   "why": "His robots mocked the dream of the perfect machine servant with scrap, humour and sex.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "艺术家、表演者、机器人制作者",
+   "bio_zh": "英国艺术家（1927–2016），20 世纪 60 年代用废品做出无政府主义式的人形机器人和表演。",
+   "why_zh": "他的机器人用废料、幽默和性去嘲弄“完美机器仆人”的梦想。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jean-tinguely",
+   "name": "Jean Tinguely",
+   "kind": "person",
+   "role": "Kinetic artist",
+   "based": "Paris, FR / Basel, CH",
+   "bio": "Swiss artist (1925–1991) whose clattering, junk-built machines drew, played music and destroyed themselves.",
+   "why": "He made machines that are useless, absurd and mortal, the opposite of industrial efficiency.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.tinguely.ch/"
+   },
+   "role_zh": "动态艺术家",
+   "bio_zh": "瑞士艺术家（1925–1991），他用废品拼成的哐当作响的机器会画画、演奏，甚至自我毁灭。",
+   "why_zh": "他让机器变得无用、荒诞、会死，正好与工业效率相反。",
+   "based_zh": "巴黎，法国／巴塞尔，瑞士",
+   "connected_to": [
+    "robert-breer"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "norman-white",
+   "name": "Norman White",
+   "kind": "person",
+   "role": "Robotic artist; taught at OCAD and Ryerson University",
+   "based": "Toronto, CA",
+   "bio": "American-born Canadian artist (born 1938) who has built behaving robots since Ménage (1974).",
+   "why": "The Helpless Robot turned the servant machine into a needy, bossy one and became a classic of robot art.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "机器人艺术家；曾任教于安大略艺术设计学院与瑞尔森大学",
+   "bio_zh": "美裔加拿大艺术家（1938 年生），自 Ménage（1974）起制作有“行为”的机器人。",
+   "why_zh": "The Helpless Robot 把仆人式机器变成一个既需要人又爱使唤人的角色，成为机器人艺术经典。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [
+    "laura-kikauka"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laura-kikauka",
+   "name": "Laura Kikauka",
+   "kind": "person",
+   "role": "Artist and maker of kinetic environments",
+   "based": "Toronto, CA / Berlin, DE",
+   "bio": "Canadian artist known for dense, humorous environments of found electronics and her Funny Farm studio.",
+   "why": "Her collaboration with Norman White staged robot desire as slapstick.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家、动态环境创作者",
+   "bio_zh": "加拿大艺术家，以堆满旧电子物件、充满幽默的环境装置和她的 Funny Farm 工作室闻名。",
+   "why_zh": "她与 Norman White 的合作把机器人的“欲望”演成闹剧。",
+   "based_zh": "多伦多，加拿大／柏林，德国",
+   "connected_to": [
+    "norman-white"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "survival-research-labs",
+   "name": "Survival Research Labs",
+   "kind": "studio",
+   "role": "Machine-performance group founded by Mark Pauline in 1978",
+   "based": "San Francisco, US",
+   "bio": "San Francisco group that stages large, dangerous performances in which custom-built machines fight and destroy each other.",
+   "why": "SRL invented the machine-performance genre and shows machines as violent bodies, not tools.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://srl.org/"
+   },
+   "role_zh": "Mark Pauline 于 1978 年创立的机器表演团体",
+   "bio_zh": "旧金山团体，上演大型、危险的表演，让自制机器互相搏斗、彼此摧毁。",
+   "why_zh": "SRL 开创了机器表演这一类型，把机器呈现为暴力的身体而不是工具。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-horn",
+   "name": "Rebecca Horn",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Berlin, DE",
+   "bio": "German artist (1944–2024) who moved from body extensions to melancholic, self-moving machines and installations.",
+   "why": "Her machines behave like wounded bodies: they tremble, spray, burst and collapse.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "德国艺术家（1944–2024），从身体延伸装置转向带着忧郁气质、会自己动的机器与装置。",
+   "why_zh": "她的机器像受伤的身体一样行为：颤抖、喷洒、迸开、塌落。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arthur-ganson",
+   "name": "Arthur Ganson",
+   "kind": "person",
+   "role": "Kinetic sculptor",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "American kinetic sculptor (born 1955) whose gear machines, shown at the MIT Museum, stage time, effort and futility.",
+   "why": "He makes machine time and machine pointlessness tangible.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.arthurganson.com/"
+   },
+   "role_zh": "动态雕塑家",
+   "bio_zh": "美国动态雕塑家（1955 年生），作品在麻省理工学院博物馆展出，用齿轮机器演绎时间、努力与徒劳。",
+   "why_zh": "他让机器时间与机器的无意义变得可感。",
+   "based_zh": "马萨诸塞州剑桥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "louis-philippe-demers",
+   "name": "Louis-Philippe Demers",
+   "kind": "person",
+   "role": "Robotic artist and researcher",
+   "based": "Quebec, CA / Singapore",
+   "bio": "Canadian artist who has made large robotic installations and performances since the 1990s, often with Bill Vorn, and writes on the performing machine.",
+   "why": "His robots are built to provoke empathy through touch, misery and ensemble movement.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "机器人艺术家、研究者",
+   "bio_zh": "加拿大艺术家，自 20 世纪 90 年代起创作大型机器人装置与表演，常与 Bill Vorn 合作，并撰写关于“表演的机器”的论述。",
+   "why_zh": "他的机器人专门通过触摸、痛苦与群体动作来唤起人的共情。",
+   "based_zh": "魁北克，加拿大／新加坡",
+   "connected_to": [
+    "bill-vorn"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bill-vorn",
+   "name": "Bill Vorn",
+   "kind": "person",
+   "role": "Robotic artist; professor, Concordia University",
+   "based": "Montreal, CA",
+   "bio": "Canadian artist (born 1959) who builds robotic installations about the 'aesthetics of artificial behaviour', from hysterical to mentally ill machines.",
+   "why": "He gives machines symptoms, making dysfunction the content of the work.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://billvorn.concordia.ca/"
+   },
+   "role_zh": "机器人艺术家；康考迪亚大学教授",
+   "bio_zh": "加拿大艺术家（1959 年生），围绕“人工行为美学”创作机器人装置，从歇斯底里的机器到“精神疾病”的机器。",
+   "why_zh": "他给机器安上“症状”，让功能失常本身成为作品内容。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [
+    "louis-philippe-demers"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "boston-dynamics",
+   "name": "Boston Dynamics",
+   "kind": "company",
+   "role": "Robotics company",
+   "based": "Waltham, Massachusetts, US",
+   "bio": "American company spun out of MIT in 1992, known for dynamic legged robots such as BigDog, Spot and Atlas.",
+   "why": "Its demo videos made robot bodies a mass-media spectacle and a test of public empathy.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://bostondynamics.com/"
+   },
+   "role_zh": "机器人公司",
+   "bio_zh": "1992 年从麻省理工学院分拆出来的美国公司，以 BigDog、Spot、Atlas 等动态足式机器人闻名。",
+   "why_zh": "它的演示视频让机器人身体成为大众媒体景观，也成了公众共情的一场测试。",
+   "based_zh": "马萨诸塞州沃尔瑟姆，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "darpa",
+   "name": "DARPA",
+   "kind": "lab",
+   "role": "Defense Advanced Research Projects Agency, US Department of Defense",
+   "based": "Arlington, Virginia, US",
+   "bio": "US military research agency that funds and stages robotics competitions, including the DARPA Robotics Challenge (2012–2015).",
+   "why": "Its Robotics Challenge produced the most-watched images of humanoid robots failing.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.darpa.mil/"
+   },
+   "role_zh": "美国国防部高级研究计划局",
+   "bio_zh": "美国军方研究机构，资助并举办机器人竞赛，包括 DARPA 机器人挑战赛（2012–2015）。",
+   "why_zh": "它举办的机器人挑战赛留下了人形机器人失败的最广为流传的影像。",
+   "based_zh": "弗吉尼亚州阿灵顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "knightscope",
+   "name": "Knightscope",
+   "kind": "company",
+   "role": "Security-robot company",
+   "based": "Mountain View, California, US",
+   "bio": "American company founded in 2013 that deploys autonomous security robots in malls, car parks and offices.",
+   "why": "Its K5 robot's fall into a fountain became a global meme about robot failure.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.knightscope.com/"
+   },
+   "role_zh": "安保机器人公司",
+   "bio_zh": "2013 年成立的美国公司，在商场、停车场和办公楼部署自主安保机器人。",
+   "why_zh": "它的 K5 机器人掉进喷泉，成了关于机器人失败的全球表情包。",
+   "based_zh": "加利福尼亚州山景城，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "simone-giertz",
+   "name": "Simone Giertz",
+   "kind": "person",
+   "role": "Inventor and YouTuber",
+   "based": "Los Angeles, US",
+   "bio": "Swedish inventor (born 1990) known for deliberately useless 'shitty robots' on YouTube.",
+   "why": "Her robots make failure and incompetence the pleasure of watching machines.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.simonegiertz.com/"
+   },
+   "role_zh": "发明家、YouTuber",
+   "bio_zh": "瑞典发明家（1990 年生），以在 YouTube 上发布故意做得很糟的“烂机器人”闻名。",
+   "why_zh": "她的机器人让失败和笨拙成为看机器的乐趣所在。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "filipe-vilas-boas",
+   "name": "Filipe Vilas-Boas",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Paris, FR",
+   "bio": "Portuguese artist based in Paris who makes installations about digital life, surveillance and robots.",
+   "why": "The Punishment turns Asimov's first law into a schoolroom punishment for a robot.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.filipevilasboas.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "常驻巴黎的葡萄牙艺术家，创作关于数字生活、监控与机器人的装置。",
+   "why_zh": "The Punishment 把阿西莫夫第一定律变成了机器人的课堂罚抄。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kelly-heaton",
+   "name": "Kelly Heaton",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Virginia, US",
+   "bio": "American artist who made pelts from gutted electronic toys and later 'electronic naturalism' circuits.",
+   "why": "Her Elmo and Furby pelts treat mass-market robot toys as hunted animals.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "美国艺术家，曾用拆开的电子玩具做成毛皮，后来创作“电子自然主义”电路作品。",
+   "why_zh": "她的 Elmo 与 Furby 毛皮作品把大众机器人玩具当作被猎杀的动物。",
+   "based_zh": "弗吉尼亚州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bot-and-dolly",
+   "name": "Bot & Dolly",
+   "kind": "company",
+   "role": "Design and engineering studio for robotic camera and motion control (acquired by Google in 2013)",
+   "based": "San Francisco, US",
+   "bio": "San Francisco studio that used industrial robot arms for film and live performance.",
+   "why": "Box made industrial arms the invisible stagehands of a live illusion.",
+   "disciplines": [
+    "robotics",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "机器人摄影与运动控制设计工程工作室（2013 年被谷歌收购）",
+   "bio_zh": "旧金山工作室，把工业机械臂用于电影与现场表演。",
+   "why_zh": "Box 让工业机械臂成为一场现场幻术中看不见的场务。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "madeline-gannon",
+   "name": "Madeline Gannon",
+   "kind": "person",
+   "role": "Artist and roboticist; founder of ATONATON",
+   "based": "Pittsburgh, US",
+   "bio": "American artist-roboticist who gives industrial robots perception and personality so they can share space with people.",
+   "why": "Mimus and Manus turned factory arms into curious creatures and packs.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://atonaton.com/"
+   },
+   "role_zh": "艺术家、机器人研究者；ATONATON 创始人",
+   "bio_zh": "美国艺术家兼机器人研究者，给工业机器人加上感知与性格，让它们能与人共处一室。",
+   "why_zh": "Mimus 和 Manus 把工厂机械臂变成好奇的生灵和群体。",
+   "based_zh": "匹兹堡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jordan-wolfson",
+   "name": "Jordan Wolfson",
+   "kind": "person",
+   "role": "Artist",
+   "based": "New York, US / Los Angeles, US",
+   "bio": "American artist (born 1980) known for animatronic sculptures and virtual-reality works about violence and attention.",
+   "why": "His animatronics use eye contact and brutality to make viewers complicit.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.davidzwirner.com/artists/jordan-wolfson"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "美国艺术家（1980 年生），以关于暴力与注意力的电子动偶雕塑和虚拟现实作品知名。",
+   "why_zh": "他的电子动偶用眼神接触和暴力让观众变成共谋。",
+   "based_zh": "纽约，美国／洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "engineered-arts",
+   "name": "Engineered Arts",
+   "kind": "company",
+   "role": "Humanoid-robot company",
+   "based": "Falmouth, UK",
+   "bio": "British company founded by Will Jackson that builds humanoid entertainment robots such as RoboThespian and Ameca.",
+   "why": "Ameca's viral face clips show how much people read into machine expressions.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.engineeredarts.co.uk/"
+   },
+   "role_zh": "人形机器人公司",
+   "bio_zh": "由 Will Jackson 创立的英国公司，制作 RoboThespian、Ameca 等娱乐用人形机器人。",
+   "why_zh": "Ameca 的爆红表情视频显示了人们会从机器的表情里读出多少东西。",
+   "based_zh": "法尔茅斯，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pierre-jaquet-droz",
+   "name": "Pierre Jaquet-Droz",
+   "kind": "person",
+   "role": "Watchmaker and automaton maker",
+   "based": "La Chaux-de-Fonds, CH",
+   "bio": "Swiss watchmaker (1721–1790) who with his son Henri-Louis and Jean-Frédéric Leschot built the Writer, the Draughtsman and the Musician.",
+   "why": "The Writer is an 18th-century programmable android and an ancestor of the uncanny machine hand.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "钟表匠、自动人偶制作者",
+   "bio_zh": "瑞士钟表匠（1721–1790），与儿子 Henri-Louis 及 Jean-Frédéric Leschot 一起造出了“书写者”“绘图者”和“音乐家”三个人偶。",
+   "why_zh": "“书写者”是 18 世纪可编程的仿真人，也是令人不安的“机器之手”的祖先。",
+   "based_zh": "拉绍德封，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "w-grey-walter--tortoises",
+   "creator_ids": [
+    "w-grey-walter"
+   ],
+   "title": "Machina speculatrix (Elmer and Elsie)",
+   "year": 1949,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "prototype",
+   "description": "Two small three-wheeled 'tortoises' with a light sensor and a touch switch wander a room, seek moderate light, back off from bright light and obstacles, and return to a lit hutch to recharge. With a light on its shell, one tortoise reacts to its own reflection in a mirror or to the other one, as if recognising itself.",
+   "description_zh": "两只装有光传感器和触碰开关的三轮小“乌龟”在房间里游走：趋向柔和的光，躲开强光和障碍物，电量不足时回到有灯的小窝充电。在壳上装一盏灯后，乌龟会对镜中的自己或另一只乌龟起反应，好像能认出自己。",
+   "idea_en": "Two 'neurons' and a body in a room are enough for behaviour that people read as curiosity, hunger and self-recognition.",
+   "idea_zh": "两个“神经元”加上一个在房间里的身体，就足以产生被人读作好奇、饥饿和自我识别的行为。",
+   "method": "Analogue circuits with two vacuum-tube 'neurons' connect a rotating photocell and a shell touch contact to steering and drive motors; behaviour emerges from feedback between the body and its environment.",
+   "method_zh": "用两只电子管“神经元”组成的模拟电路，把旋转光电管和外壳触碰开关连接到转向和驱动电机；行为来自身体与环境之间的反馈。",
+   "keywords": [
+    "Grey Walter",
+    "tortoise",
+    "Burden Neurological Institute",
+    "cybernetics",
+    "phototaxis",
+    "autonomous robot"
+   ],
+   "also": [
+    "theory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wQE82derooc"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/77/Replica_of_Grey_Walter%27s_tortoise_%283572415081%29.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Turtle_(robot)",
+   "exhibited": [
+    "Festival of Britain, London 1951"
+   ]
+  },
+  {
+   "id": "johns-hopkins-apl--beast",
+   "creator_ids": [
+    "johns-hopkins-apl"
+   ],
+   "title": "The Hopkins Beast",
+   "year": 1962,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A wheeled automaton wanders the white corridors of the laboratory on its own and, when its batteries run low, looks for black wall sockets, plugs itself in and recharges. Later versions used sonar to avoid people and recognise doors and stairs.",
+   "description_zh": "一台轮式自动机独自在实验室白色走廊里游荡，电池快没电时就寻找黑色的墙上插座，自己插上充电。后来的版本用声呐避开行人、识别门和楼梯。",
+   "idea_en": "A machine whose whole world is organised around one need, finding food, already looks like an animal.",
+   "idea_zh": "一台整个世界都围绕“觅食”这一个需求组织起来的机器，看起来已经像动物了。",
+   "method": "Transistor logic without a computer links touch switches, sonar and, in Mod II, an optical sensor for dark sockets to tracks, a wall-following arm and extendable plug prongs.",
+   "method_zh": "不用计算机，只用晶体管逻辑，把触碰开关、声呐和（二型中的）识别深色插座的光学传感器，连到履带、沿墙探臂和可伸出的插头上。",
+   "keywords": [
+    "Johns Hopkins Beast",
+    "Applied Physics Laboratory",
+    "self-charging",
+    "mobile automaton",
+    "cybernetics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zMpEeag7kkM"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3e/00-01964_APL_66196_001_The_Beast.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Johns_Hopkins_Beast"
+  },
+  {
+   "id": "claude-shannon--theseus",
+   "creator_ids": [
+    "claude-shannon"
+   ],
+   "title": "Theseus (maze-solving mouse)",
+   "year": 1950,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A magnetic toy mouse, moved from below the table by relays, explores a reconfigurable maze by trial and error, remembers the route and then runs straight to the 'cheese'. When the maze is changed, it relearns.",
+   "description_zh": "一只磁性玩具老鼠由桌下的继电器驱动，在可以重新布置的迷宫里试错探索，记住路线，然后径直跑到“奶酪”那里。迷宫一改，它就重新学习。",
+   "idea_en": "Learning becomes visible as a small body in a maze, even though the 'brain' is a bank of telephone relays under the floor.",
+   "idea_zh": "学习被演成迷宫里一个小身体的动作，尽管它的“大脑”其实是地板下一排电话继电器。",
+   "method": "About 75 telephone relays store, for each square of a 25-square maze, the last direction that led out; a magnet on a motorised carriage beneath the board pulls the mouse.",
+   "method_zh": "约 75 个电话继电器为 25 格迷宫中的每一格记下上次走出去的方向；板下一辆电动小车上的磁铁拖动老鼠。",
+   "keywords": [
+    "Claude Shannon",
+    "Theseus",
+    "Bell Labs",
+    "machine learning",
+    "maze",
+    "relays"
+   ],
+   "also": [
+    "theory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_9_AEVQ_p74"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Claude_Shannon"
+  },
+  {
+   "id": "claude-shannon--ultimate-machine",
+   "creator_ids": [
+    "claude-shannon"
+   ],
+   "title": "Ultimate Machine",
+   "year": 1952,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A small wooden box with a single switch: when someone flips it on, a lid opens, a mechanical hand reaches out, switches it off and withdraws. The machine's only function is to turn itself off.",
+   "description_zh": "一个只有一个开关的小木盒：有人把开关拨到“开”，盖子就打开，一只机械手伸出来把开关拨回“关”，然后缩回去。这台机器唯一的功能就是把自己关掉。",
+   "idea_en": "A machine that exists only to refuse to run is the purest joke about machine purpose and autonomy.",
+   "idea_zh": "一台只为拒绝运行而存在的机器，是关于机器目的与自主最纯粹的玩笑。",
+   "method": "A switch closes a circuit that drives a small motor and lever arm, which pushes the switch back and cuts its own power; the idea is credited to Marvin Minsky, built by Shannon at Bell Labs.",
+   "method_zh": "开关接通电路，驱动小电机和杠杆臂，把开关推回并切断自身电源；构想归于 Marvin Minsky，由 Shannon 在贝尔实验室制作。",
+   "keywords": [
+    "Ultimate Machine",
+    "useless machine",
+    "Leave Me Alone Box",
+    "Marvin Minsky",
+    "Bell Labs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C8kU3oZwVJA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fb/UselessMachine.png"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Useless_machine"
+  },
+  {
+   "id": "nicolas-schoffer--cysp-1",
+   "creator_ids": [
+    "nicolas-schoffer"
+   ],
+   "title": "CYSP 1",
+   "year": 1956,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A tower of steel and aluminium plates on a wheeled base turns, spins its polychrome blades and moves across the floor in response to light, colour and sound around it. In 1956 it performed with Maurice Béjart's dancers on the roof of the Cité radieuse in Marseille.",
+   "description_zh": "一座由钢和铝板组成的塔立在带轮底座上，会随周围的光、颜色和声音转动、旋转彩色叶片并在地面上移动。1956 年，它在马赛“光辉城市”屋顶上与 Maurice Béjart 的舞者同台演出。",
+   "idea_en": "The first sculpture to have sense organs and a nervous system made the artwork an agent that reacts rather than an object that is looked at.",
+   "idea_zh": "第一件拥有感官和“神经系统”的雕塑，让艺术品变成会反应的主体，而不是被观看的物件。",
+   "method": "Photocells and microphones feed an electronic 'brain' built with Philips that drives the motors in the wheeled base and the rotating plates; excitation and calm states depend on the stimuli.",
+   "method_zh": "光电管和麦克风把信号送入与飞利浦合作制作的电子“大脑”，驱动带轮底座中的电机和旋转板；兴奋或平静取决于外部刺激。",
+   "keywords": [
+    "CYSP 1",
+    "cybernetic sculpture",
+    "spatiodynamism",
+    "Philips",
+    "Maurice Béjart",
+    "Nicolas Schöffer"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=u8nxktU1R6E"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Nicolas_Sch%C3%B6ffer",
+   "collections": [
+    "artistes-robots-2018"
+   ],
+   "exhibited": [
+    "Cité radieuse, Marseille 1956",
+    "Artistes & Robots, Grand Palais 2018"
+   ]
+  },
+  {
+   "id": "gordon-pask--colloquy-of-mobiles",
+   "creator_ids": [
+    "gordon-pask"
+   ],
+   "title": "Colloquy of Mobiles",
+   "year": 1968,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Five hanging mobiles, three 'females' and two 'males', court each other with beams of light and sound, learning which approaches 'satisfy' their partners. Visitors given mirrors and torches could join in and redirect the machines' desire.",
+   "description_zh": "五件悬挂的活动装置，三件“雌性”、两件“雄性”，用光束和声音互相求偶，并学会怎样的接近能让对方“满足”。观众拿着镜子和手电筒也可以加入，改变机器欲望的方向。",
+   "idea_en": "Machines can be staged as partners in a conversation of desire, and humans can enter that conversation as just one more participant.",
+   "idea_zh": "机器可以被演成一场欲望对话中的伙伴，而人只是这场对话里又多出来的一个参与者。",
+   "method": "Rotating fibreglass bodies with lights, mirrors and photocells are driven by motor-driven 'drives' that build up and discharge; each mobile adjusts its behaviour to reward signals from the others.",
+   "method_zh": "装有灯、镜子和光电管的旋转玻璃钢身体，由会积累与释放的“驱力”带动电机；每件装置根据其他装置的回馈信号调整行为。",
+   "keywords": [
+    "Colloquy of Mobiles",
+    "Gordon Pask",
+    "Cybernetic Serendipity",
+    "conversation theory",
+    "courtship",
+    "mobiles"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RlXDL8Ab0oQ"
+   },
+   "source_url": "https://cyberneticserendipity.net/",
+   "collections": [
+    "cybernetic-serendipity-1968"
+   ],
+   "exhibited": [
+    "Cybernetic Serendipity, ICA London 1968",
+    "Centre Pompidou reconstruction 2020"
+   ]
+  },
+  {
+   "id": "edward-ihnatowicz--sam",
+   "creator_ids": [
+    "edward-ihnatowicz"
+   ],
+   "title": "SAM (Sound Activated Mobile)",
+   "year": 1968,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "cybernetic-alife",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A flower-like head of fibreglass petals on an articulated aluminium neck turns toward whoever is speaking or making noise nearby, as if listening.",
+   "description_zh": "一个像花一样的玻璃钢“头”，装在可弯曲的铝制“颈”上，会转向附近说话或发出声音的人，仿佛在倾听。",
+   "idea_en": "Turning to listen is the simplest gesture of attention, and it is enough to make a machine seem to be someone.",
+   "idea_zh": "“转过头去听”是最简单的注意姿态，这就足以让一台机器看起来像是“某个人”。",
+   "method": "Four microphones in the head compare sound levels; small hydraulic pistons move the neck vertebrae toward the loudest direction.",
+   "method_zh": "头部的四个麦克风比较声音强弱；小型液压活塞推动“颈椎”转向声音最响的方向。",
+   "keywords": [
+    "SAM",
+    "Sound Activated Mobile",
+    "Cybernetic Serendipity",
+    "listening machine",
+    "Ihnatowicz"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8b52qpyV__g"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sound_Activated_Mobile.jpg"
+   ],
+   "source_url": "http://www.senster.com/ihnatowicz/",
+   "collections": [
+    "cybernetic-serendipity-1968"
+   ],
+   "exhibited": [
+    "Cybernetic Serendipity, ICA London 1968"
+   ]
+  },
+  {
+   "id": "edward-ihnatowicz--senster",
+   "creator_ids": [
+    "edward-ihnatowicz"
+   ],
+   "title": "The Senster",
+   "year": 1970,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A 4-metre hydraulic creature shaped like a lobster's claw on a long neck, installed at the Philips Evoluon in Eindhoven, moved its 'head' toward quiet sounds and slow movements and shied away from loud noise and sudden gestures. Visitors shouted at it and waited for it to come closer.",
+   "description_zh": "一只 4 米高、像长颈龙虾钳的液压生物，安装在埃因霍温飞利浦 Evoluon 科技馆，会把“头”伸向轻柔的声音和缓慢的动作，而躲开喧哗和突然的手势。观众对它喊叫，又静静等它靠近。",
+   "idea_en": "Shyness is more lifelike than obedience: the machine's withdrawal made visitors change their own behaviour.",
+   "idea_zh": "害羞比顺从更像活物：机器的退缩让观众改变了自己的行为。",
+   "method": "A Philips P9201 computer processes input from four microphones and two Doppler radar sensors in the head and drives six electro-hydraulic servo joints modelled on a lobster's claw.",
+   "method_zh": "一台飞利浦 P9201 计算机处理头部四个麦克风和两个多普勒雷达传感器的输入，驱动仿照龙虾钳设计的六个电液伺服关节。",
+   "keywords": [
+    "Senster",
+    "Evoluon",
+    "Philips",
+    "hydraulic",
+    "computer-controlled sculpture",
+    "Ihnatowicz"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1jDt5unArNk"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/14/Edward_Ihnatowicz%2C_The_Senster_%2853386590223%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/45/Edward_Ihnatowicz%2C_The_Senster_%2853386711664%29.jpg"
+   ],
+   "source_url": "http://www.senster.com/",
+   "exhibited": [
+    "Philips Evoluon, Eindhoven 1970–1974",
+    "Nieuwe Instituut, Rotterdam (restored)"
+   ]
+  },
+  {
+   "id": "bruce-lacey--rosa-bosom",
+   "creator_ids": [
+    "bruce-lacey"
+   ],
+   "title": "ROSA BOSOM",
+   "year": 1965,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A clanking, junk-built 'female' robot actress on wheels whose name spells Radio Operated Simulated Actress Battery Or Standby Operated Mains. At Cybernetic Serendipity she was shown with her partner MATE, parodying the dream of the machine woman.",
+   "description_zh": "一个用废品拼成、哐当作响的“女性”机器人演员，装在轮子上，名字是 Radio Operated Simulated Actress Battery Or Standby Operated Mains 的缩写。她在 Cybernetic Serendipity 展上与伴侣 MATE 一起展出，戏仿“机器女人”的幻想。",
+   "idea_en": "A deliberately crude android shows how much of the robot fantasy is gender, theatre and a remote control.",
+   "idea_zh": "一个刻意粗糙的仿真人显示：机器人幻想中有多少是性别、剧场和遥控器。",
+   "method": "Radio-controlled motors move a body assembled from scrap, domestic objects and mannequin parts; it runs on batteries or mains power as the name says.",
+   "method_zh": "无线电遥控的电机带动一个由废料、家用物件和人体模特零件组装的身体；如名字所示，可用电池或市电供电。",
+   "keywords": [
+    "Bruce Lacey",
+    "ROSA BOSOM",
+    "MATE",
+    "Cybernetic Serendipity",
+    "junk robot",
+    "gender"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nTMNiYV5yIE"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Bruce_Lacey",
+   "collections": [
+    "cybernetic-serendipity-1968"
+   ],
+   "exhibited": [
+    "Cybernetic Serendipity, ICA London 1968"
+   ]
+  },
+  {
+   "id": "jean-tinguely--homage-to-new-york",
+   "creator_ids": [
+    "jean-tinguely"
+   ],
+   "title": "Homage to New York",
+   "year": 1960,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A large machine assembled from bicycle wheels, a piano, motors, fans and a bathtub was set running in the sculpture garden of the Museum of Modern Art on 17 March 1960 to destroy itself; it caught fire, the fire brigade put it out, and the audience took home the fragments.",
+   "description_zh": "一台用自行车轮、钢琴、电机、风扇和浴缸拼成的大型机器，于 1960 年 3 月 17 日在纽约现代艺术博物馆雕塑花园启动，目的是毁掉自己；它着了火，消防员将火扑灭，观众把碎片带回了家。",
+   "idea_en": "A machine built to die in public turns the industrial dream of permanence into a short, chaotic life.",
+   "idea_zh": "一台为了当众死去而造的机器，把工业对“永久”的梦想变成一段短暂而混乱的生命。",
+   "method": "Dozens of motors, timed circuits and chemical charges (engineered with Billy Klüver of Bell Labs) trigger sequences that play, draw, smoke, burn and tear the structure apart.",
+   "method_zh": "数十个电机、定时电路和化学装置（与贝尔实验室的 Billy Klüver 共同设计）依次触发，让结构演奏、绘画、冒烟、燃烧并把自己拆散。",
+   "keywords": [
+    "Homage to New York",
+    "self-destroying machine",
+    "MoMA",
+    "Billy Klüver",
+    "auto-destructive art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5DZGu6xDKbM"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Jean_Tinguely",
+   "exhibited": [
+    "Museum of Modern Art sculpture garden, New York, 17 March 1960"
+   ]
+  },
+  {
+   "id": "norman-white--helpless-robot",
+   "creator_ids": [
+    "norman-white"
+   ],
+   "title": "The Helpless Robot",
+   "year": 1987,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A tall, awkward sculpture that cannot move by itself asks passers-by in a synthetic voice to turn it by its handles. If ignored it pleads politely; once helped, it grows demanding, complains that it was turned the wrong way and bosses people around.",
+   "description_zh": "一件高大笨拙、自己不能动的雕塑，用合成语音请路人抓住把手转动它。没人理它时它会礼貌地恳求；一旦有人帮忙，它就越来越苛刻，抱怨被转错了方向，开始对人发号施令。",
+   "idea_en": "By needing us, a machine can control us: the robot's helplessness reverses who serves whom.",
+   "idea_zh": "机器可以借“需要我们”来支配我们：机器人的无助颠倒了谁为谁服务。",
+   "method": "A rotation sensor on the base and presence sensors feed a program that selects from hundreds of recorded phrases according to its 'mood' and the history of interaction.",
+   "method_zh": "底座的旋转传感器和人体感应器把信息送入程序，程序根据“情绪”和互动历史，从数百句录好的话中挑选回应。",
+   "keywords": [
+    "The Helpless Robot",
+    "Norman White",
+    "voice",
+    "servitude",
+    "Agnes Etherington Art Centre",
+    "Prix Ars Electronica"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LYyAHOxY7jU"
+   },
+   "images": [
+    "https://agnes.queensu.ca/mimsyxg/46-003S.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c3/The_Helpless_Robot.JPG",
+    "https://archive.aec.at/asset/1395201/preview/"
+   ],
+   "source_url": "https://agnes.queensu.ca/explore/collections/object/the-helpless-robot/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 1990, Award of Distinction (Interactive Art)",
+    "Agnes Etherington Art Centre collection"
+   ]
+  },
+  {
+   "id": "norman-white--them-fuckin-robots",
+   "creator_ids": [
+    "norman-white",
+    "laura-kikauka"
+   ],
+   "title": "Them Fuckin' Robots",
+   "year": 1988,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "performance",
+   "description": "Two robots, a 'male' built by Norman White and a 'female' built by Laura Kikauka without seeing each other's work, were brought together for the first time in front of an audience and connected to 'have sex', pumping, sparking and gurgling oil.",
+   "description_zh": "两台机器人——Norman White 做的“雄性”和 Laura Kikauka 做的“雌性”——在互不看对方作品的情况下分别完成，然后第一次在观众面前被接在一起“做爱”：抽动、冒火花、汩汩流油。",
+   "idea_en": "Machine sex as slapstick exposes how our fantasies of robot desire are borrowed from human scripts.",
+   "idea_zh": "把机器性爱做成闹剧，暴露出我们对机器人欲望的想象其实借自人类的剧本。",
+   "method": "Two independently built electromechanical assemblages were matched only by an agreed electrical interface, so their 'encounter' was unrehearsed.",
+   "method_zh": "两台独立制作的机电装置只约定了电气接口，所以它们的“相遇”完全没有排练。",
+   "keywords": [
+    "Them Fuckin' Robots",
+    "Laura Kikauka",
+    "robot sex",
+    "performance",
+    "Toronto"
+   ],
+   "also": [
+    "intimacy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kM2wbdh4eTU"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Norman_White"
+  },
+  {
+   "id": "survival-research-labs--machine-performances",
+   "creator_ids": [
+    "survival-research-labs"
+   ],
+   "title": "SRL machine performances",
+   "year": 1979,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "In vacant lots and under freeways, huge home-built machines, flame-throwers, walking robots and remote-controlled vehicles fight, burn and dismantle each other and props in front of crowds, in shows such as A Plan for Social Improvement (1988) and Illusions of Shameless Abundance (1989).",
+   "description_zh": "在空地和高架桥下，巨大的自制机器、喷火器、步行机器人和遥控车辆当着人群互相搏斗、焚烧，拆毁彼此和道具，如 A Plan for Social Improvement（1988）和 Illusions of Shameless Abundance（1989）。",
+   "idea_en": "Machines built only to attack each other reveal the violence and spectacle inside industrial and military technology.",
+   "idea_zh": "只为互相攻击而造的机器，揭示了工业与军事技术内部的暴力和景观。",
+   "method": "Mark Pauline's team rebuilds industrial and military surplus into remote-controlled and semi-autonomous machines, operated live by crews during the shows.",
+   "method_zh": "Mark Pauline 的团队把工业和军用剩余物资改装成遥控和半自主机器，演出时由操作组现场操控。",
+   "keywords": [
+    "Survival Research Labs",
+    "SRL",
+    "Mark Pauline",
+    "machine performance",
+    "destruction",
+    "San Francisco"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_gSxR1vR2gk"
+   },
+   "source_url": "https://srl.org/",
+   "exhibited": [
+    "Delusions of Expediency, San Francisco 1987",
+    "A Plan for Social Improvement, Amsterdam 1988"
+   ]
+  },
+  {
+   "id": "rebecca-horn--concert-for-anarchy",
+   "creator_ids": [
+    "rebecca-horn"
+   ],
+   "title": "Concert for Anarchy",
+   "year": 1990,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A grand piano hangs upside down from the ceiling. Every few minutes its lid bursts open and its keys shoot out like a tongue with a discordant crash, then slowly retract until the instrument is silent and closed again.",
+   "description_zh": "一架三角钢琴倒挂在天花板上。每隔几分钟，琴盖猛然弹开，琴键像舌头一样吐出，发出刺耳的轰响，然后又慢慢缩回，直到钢琴重新闭合、恢复沉默。",
+   "idea_en": "An instrument turned into a convulsing body makes breakdown the performance.",
+   "idea_zh": "一件被变成抽搐身体的乐器，让“崩溃”本身成为演出。",
+   "method": "Motors and a timer control push the keyboard out and throw the lid open, then retract them in a slow cycle.",
+   "method_zh": "电机与定时控制把键盘推出、把琴盖弹开，再以缓慢循环收回。",
+   "keywords": [
+    "Rebecca Horn",
+    "Concert for Anarchy",
+    "piano",
+    "Tate",
+    "kinetic sculpture"
+   ],
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_CR9VdPA.jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/art/artworks/horn-concert-for-anarchy-t07517",
+   "exhibited": [
+    "Tate collection"
+   ]
+  },
+  {
+   "id": "arthur-ganson--machine-with-concrete",
+   "creator_ids": [
+    "arthur-ganson"
+   ],
+   "title": "Machine with Concrete",
+   "year": 1992,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A motor turns the first of twelve gear reductions at 200 revolutions per minute; each pair slows the motion by a factor of 50, so the last gear, embedded in a block of concrete, would take more than two trillion years to turn once.",
+   "description_zh": "一台电机以每分钟 200 转带动十二级减速齿轮中的第一级；每一级把速度降到五十分之一，所以最后一个嵌在混凝土块里的齿轮要转完一圈需要两万亿年以上。",
+   "idea_en": "A machine can run forever and do nothing: machine time stretches beyond any human or planetary scale.",
+   "idea_zh": "一台机器可以永远运转却什么也不做：机器时间可以延伸到超出人类乃至行星的尺度。",
+   "method": "Twelve 50:1 worm-gear reductions in series connect a small electric motor to a fixed final gear set in concrete.",
+   "method_zh": "十二组 50:1 的蜗轮减速串联起来，把小电机连到一个被固定在混凝土中的末级齿轮。",
+   "keywords": [
+    "Arthur Ganson",
+    "Machine with Concrete",
+    "gear reduction",
+    "MIT Museum",
+    "deep time"
+   ],
+   "also": [
+    "interiority"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5q-BH-tvxEg"
+   },
+   "source_url": "https://www.arthurganson.com/"
+  },
+  {
+   "id": "arthur-ganson--machine-with-oil",
+   "creator_ids": [
+    "arthur-ganson"
+   ],
+   "title": "Machine with Oil",
+   "year": 1990,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A skeletal steel machine stands in a bath of thick black oil and endlessly scoops the oil over itself, as if bathing or tending its own body.",
+   "description_zh": "一台骨架般的钢制机器站在一池浓稠的黑油中，不停地把油舀起来浇在自己身上，好像在洗澡，又像在照料自己的身体。",
+   "idea_en": "Maintenance becomes self-care: the machine's only task is to keep itself lubricated.",
+   "idea_zh": "保养变成了自我照护：这台机器唯一的任务，是让自己保持润滑。",
+   "method": "A slow motor-driven linkage lifts a ladle through the oil bath and tips it over the frame in a continuous loop.",
+   "method_zh": "缓慢的电机连杆把勺子从油池里提起，倾倒在机身上，循环往复。",
+   "keywords": [
+    "Arthur Ganson",
+    "Machine with Oil",
+    "MIT Museum",
+    "self-care",
+    "kinetic sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=__GhJl_UQg0"
+   },
+   "source_url": "https://www.arthurganson.com/"
+  },
+  {
+   "id": "louis-philippe-demers--la-cour-des-miracles",
+   "creator_ids": [
+    "louis-philippe-demers",
+    "bill-vorn"
+   ],
+   "title": "La Cour des Miracles",
+   "year": 1997,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "In a dark room, a population of bare metal machines, the Begging, Convulsive, Crawling, Harassing and Heretic machines, twitch, groan, beg and limp when visitors approach, like the beggars of the old Parisian 'court of miracles'.",
+   "description_zh": "在一间暗室里，一群裸露金属的机器——乞讨机、抽搐机、爬行机、骚扰机、异端机——在观众靠近时抽动、呻吟、乞求、跛行，就像旧巴黎“奇迹宫廷”里的乞丐。",
+   "idea_en": "Pain can be simulated with a few sounds and jerky movements, and we still feel pity for bare metal.",
+   "idea_zh": "痛苦只需几种声音和抽搐的动作就能被模拟，而我们依然会对裸露的金属心生怜悯。",
+   "method": "Pneumatic and electric actuators, presence sensors and a MIDI-based control system trigger each machine's behaviour sequences and sound.",
+   "method_zh": "气动与电动执行器、人体感应器和基于 MIDI 的控制系统触发每台机器的行为序列和声音。",
+   "keywords": [
+    "La Cour des Miracles",
+    "Bill Vorn",
+    "Louis-Philippe Demers",
+    "misery of machines",
+    "empathy",
+    "robotic installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=14Y-OP4v3EY"
+   },
+   "images": [
+    "https://billvorn.concordia.ca/robography/images/CdM-gif/cdm1.gif"
+   ],
+   "source_url": "https://billvorn.concordia.ca/robography/Cour.html",
+   "exhibited": [
+    "ISEA 1997, Chicago"
+   ]
+  },
+  {
+   "id": "bill-vorn--hysterical-machines",
+   "creator_ids": [
+    "bill-vorn"
+   ],
+   "title": "Hysterical Machines",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Octopus-like robots with eight long metal legs hang from the ceiling in a dark space; when visitors come close they flail, twitch and flash in bursts of panicked, 'hysterical' movement.",
+   "description_zh": "像章鱼一样的机器人长着八条长长的金属腿，悬挂在暗室天花板上；观众一靠近，它们就乱甩、抽搐、闪光，爆发出惊慌的“歇斯底里”动作。",
+   "idea_en": "A machine that overreacts looks more alive than one that works well: dysfunction reads as emotion.",
+   "idea_zh": "反应过度的机器比运转良好的机器更像活物：功能失常被读作情绪。",
+   "method": "Each machine has a central body with infrared presence sensors, lights and pneumatic cylinders driving eight arms; the control program switches between calm and agitated states.",
+   "method_zh": "每台机器的中心身体装有红外人体感应器、灯和驱动八条臂的气缸；控制程序在平静和激动两种状态间切换。",
+   "keywords": [
+    "Bill Vorn",
+    "Hysterical Machines",
+    "aesthetics of artificial behaviour",
+    "dysfunction",
+    "robotic installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3apled3EdFs"
+   },
+   "images": [
+    "https://billvorn.concordia.ca/robography/images/hysterbbox2.jpg"
+   ],
+   "source_url": "https://billvorn.concordia.ca/robography/Hysterical.html"
+  },
+  {
+   "id": "bill-vorn--dsm-vi",
+   "creator_ids": [
+    "bill-vorn"
+   ],
+   "title": "DSM-VI",
+   "year": 2012,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "alterity-uncanny",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A 'psychiatric ward' of robots, each staging a mental disorder such as paranoia, depression, psychosis or obsessive behaviour, twitches, hides or repeats itself as visitors walk through. The title parodies the Diagnostic and Statistical Manual of Mental Disorders.",
+   "description_zh": "一间机器人“精神科病房”：每台机器人演绎一种精神障碍，如偏执、抑郁、精神病或强迫行为，观众走过时它们抽搐、躲藏或不断重复。标题戏仿《精神障碍诊断与统计手册》。",
+   "idea_en": "Diagnosing machines as mad shows how much we already read machine behaviour through psychology.",
+   "idea_zh": "给机器诊断“精神病”，显示我们早已在用心理学去解读机器的行为。",
+   "method": "Robotic structures with pneumatic and electric actuators, sensors and sound are programmed with behaviour patterns derived from the DSM's descriptions of symptoms.",
+   "method_zh": "装有气动与电动执行器、传感器和声音的机器结构，按照 DSM 对症状的描述编写行为模式。",
+   "keywords": [
+    "Bill Vorn",
+    "DSM-VI",
+    "mental illness",
+    "psychiatry",
+    "robotic installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YC3BiEr0aCk"
+   },
+   "images": [
+    "https://billvorn.concordia.ca/robography/images/DSM01.jpg"
+   ],
+   "source_url": "https://billvorn.concordia.ca/robography/DSM.html"
+  },
+  {
+   "id": "bill-vorn--grace-state-machines",
+   "creator_ids": [
+    "bill-vorn"
+   ],
+   "title": "Grace State Machines",
+   "year": 2007,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "robot-creature",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A 27-minute stage duet between performer Emma Howes and a robot: her movements and internal body states are captured and transposed onto the machine's body, so the two move in a shifting, symbiotic dialogue.",
+   "description_zh": "表演者 Emma Howes 与一台机器人之间长 27 分钟的舞台二重奏：她的动作和体内状态被捕捉并转移到机器身体上，两者在不断变化的共生对话中一起运动。",
+   "idea_en": "When a robot moves from a human's inner signals, the line between the two bodies becomes the choreography.",
+   "idea_zh": "当机器人依据人体内部信号而动时，两具身体之间的界线本身就成了编舞。",
+   "method": "Motion capture and biofeedback sensors on the performer drive the robot's actuators in real time (with Jonathan Villeneuve).",
+   "method_zh": "舞者身上的动作捕捉和生物反馈传感器实时驱动机器人的执行器（与 Jonathan Villeneuve 合作）。",
+   "keywords": [
+    "Bill Vorn",
+    "Emma Howes",
+    "Grace State Machines",
+    "motion capture",
+    "biofeedback",
+    "dance"
+   ],
+   "also": [
+    "bodies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b6TiJdGRMTw"
+   },
+   "images": [
+    "https://billvorn.concordia.ca/robography/images/GSMBB.jpg"
+   ],
+   "source_url": "https://billvorn.concordia.ca/robography/GraceState.html"
+  },
+  {
+   "id": "boston-dynamics--spot-kicked",
+   "creator_ids": [
+    "boston-dynamics"
+   ],
+   "title": "Introducing Spot (the kicking video)",
+   "year": 2015,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A promotional video shows the dog-sized quadruped Spot walking, climbing stairs and being kicked by engineers to show that it can recover its balance. Many viewers and news outlets reacted with outrage and asked whether it is wrong to kick a robot.",
+   "description_zh": "一段宣传视频展示狗一般大小的四足机器人 Spot 行走、爬楼梯，并被工程师踢了几脚以证明它能恢复平衡。大量观众和媒体感到愤慨，纷纷追问：踢机器人是不是不对。",
+   "idea_en": "A stumble is enough for empathy: a machine body that recovers like an animal makes kicking it look like cruelty.",
+   "idea_zh": "一个踉跄就足以引发共情：像动物一样恢复平衡的机器身体，让踢它看起来像虐待。",
+   "method": "Hydraulic legs controlled by dynamic balance algorithms; the kicks were a robustness test staged for the camera.",
+   "method_zh": "液压腿由动态平衡算法控制；踢的动作是为镜头安排的稳健性测试。",
+   "keywords": [
+    "Boston Dynamics",
+    "Spot",
+    "robot abuse",
+    "empathy",
+    "viral video",
+    "quadruped"
+   ],
+   "also": [
+    "intimacy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=M8YjvHYbZ9w"
+   },
+   "source_url": "https://bostondynamics.com/"
+  },
+  {
+   "id": "darpa--robotics-challenge-falls",
+   "creator_ids": [
+    "darpa"
+   ],
+   "title": "Robots falling at the DARPA Robotics Challenge",
+   "year": 2015,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "At the 2015 DARPA Robotics Challenge finals, humanoid robots built for disaster response tried to drive, open doors and climb stairs, and many slowly toppled over. A compilation of the falls by IEEE Spectrum became one of the most-watched robot videos.",
+   "description_zh": "在 2015 年 DARPA 机器人挑战赛决赛上，为灾难救援打造的人形机器人尝试开车、开门、爬楼梯，许多机器人缓慢地倒下。IEEE Spectrum 剪辑的摔倒合集成了播放量最高的机器人视频之一。",
+   "idea_en": "The slow collapse of a heavy humanoid shows how far the imagined robot is from the real one, and makes failure endearing.",
+   "idea_zh": "沉重的人形机器人缓慢倒下，显示了想象中的机器人与真实机器人之间的距离，也让失败变得惹人怜爱。",
+   "method": "Teams of university and company engineers teleoperated or semi-autonomously controlled robots such as Atlas through a course simulating the Fukushima disaster, under degraded communication.",
+   "method_zh": "来自大学和企业的工程师团队在通信受限条件下，以遥操作或半自主方式控制 Atlas 等机器人，完成模拟福岛核灾的赛道任务。",
+   "keywords": [
+    "DARPA Robotics Challenge",
+    "Atlas",
+    "humanoid",
+    "falling",
+    "IEEE Spectrum",
+    "disaster robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=g0TaYhjpOfo"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/DARPA_Robotics_Challenge"
+  },
+  {
+   "id": "knightscope--k5-fountain",
+   "creator_ids": [
+    "knightscope"
+   ],
+   "title": "K5 security robot falls into a fountain",
+   "year": 2017,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "surveillance-biometric",
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "In July 2017 a Knightscope K5 security robot patrolling an office complex in Washington, D.C., rolled down steps into a fountain. Photos of the 'drowned' robot spread online as a joke about a robot 'committing suicide'.",
+   "description_zh": "2017 年 7 月，一台在华盛顿特区办公区巡逻的 Knightscope K5 安保机器人滚下台阶，掉进了喷泉。“溺水”机器人的照片在网上流传，被调侃为机器人“自杀”。",
+   "idea_en": "When a surveillance machine fails in public, mockery becomes a small act of relief from being watched.",
+   "idea_zh": "当一台监控机器当众失败，嘲笑就成了从“被监视”中获得的小小解脱。",
+   "method": "The K5 navigates with lidar, cameras and GPS; it failed to detect the edge of the steps.",
+   "method_zh": "K5 依靠激光雷达、摄像头和 GPS 导航；它没能识别台阶的边缘。",
+   "keywords": [
+    "Knightscope",
+    "K5",
+    "security robot",
+    "fountain",
+    "meme",
+    "surveillance"
+   ],
+   "also": [
+    "power"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9EoPoZAHxjI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/cd/KnightScope_K5_robot.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Knightscope"
+  },
+  {
+   "id": "simone-giertz--shitty-robots",
+   "creator_ids": [
+    "simone-giertz"
+   ],
+   "title": "Shitty robots",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-arm",
+    "robot-creature"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "In a series of YouTube videos, a breakfast machine slops milk and cereal over her face, a lipstick robot smears her mouth and a haircutting machine hacks at her hair: robots that do everyday tasks badly on purpose.",
+   "description_zh": "在一系列 YouTube 视频里，早餐机把牛奶和麦片泼了她一脸，涂口红机器人把她的嘴抹花，理发机乱剪她的头发：这些机器人故意把日常小事做得一团糟。",
+   "idea_en": "Designing for failure turns the automation promise into comedy and makes the machine lovable instead of threatening.",
+   "idea_zh": "为失败而设计，把自动化的承诺变成喜剧，也让机器从令人不安变得可爱。",
+   "method": "Simple hobby servos, arms and household objects driven by Arduino-type controllers, with no sensing of the user.",
+   "method_zh": "用简单的舵机、机械臂和家用物品，由 Arduino 类控制器驱动，完全不感知使用者。",
+   "keywords": [
+    "Simone Giertz",
+    "shitty robots",
+    "YouTube",
+    "failure",
+    "comedy",
+    "DIY"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=E2evC2xTNWg"
+   },
+   "source_url": "https://www.simonegiertz.com/"
+  },
+  {
+   "id": "filipe-vilas-boas--the-punishment",
+   "creator_ids": [
+    "filipe-vilas-boas"
+   ],
+   "title": "The Punishment",
+   "year": 2017,
+   "field": "bodies",
+   "sub": "arms",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An industrial robot arm sits at a school desk and writes, over and over in neat handwriting, the line 'I must not hurt humans', like a child punished with lines.",
+   "description_zh": "一只工业机械臂坐在课桌前，用工整的笔迹一遍又一遍地写下“I must not hurt humans”，就像被罚抄的孩子。",
+   "idea_en": "Robot ethics as a schoolroom punishment asks whether rules can be learned by repetition, and who is really being disciplined.",
+   "idea_zh": "把机器人伦理变成课堂罚抄，追问规则能否靠重复学会，以及到底是谁在被规训。",
+   "method": "A small industrial arm holding a pen replays a handwriting trajectory on paper in an endless loop.",
+   "method_zh": "一只握笔的小型工业机械臂在纸上无限循环地重放书写轨迹。",
+   "keywords": [
+    "Filipe Vilas-Boas",
+    "The Punishment",
+    "Asimov",
+    "robot ethics",
+    "robot arm",
+    "handwriting"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wA0zU2wC2dk"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/19/638884/12653201/prt_1497962393_2x.jpg"
+   ],
+   "source_url": "https://www.filipevilasboas.com/the-punishment"
+  },
+  {
+   "id": "kelly-heaton--live-pelt",
+   "creator_ids": [
+    "kelly-heaton"
+   ],
+   "title": "Live Pelt (The Surrogate)",
+   "year": 2003,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "Heaton bought used Tickle Me Elmo dolls on eBay, 'eviscerated' them and sewed their fur and laughing electronics into a coat that giggles and quivers when touched. Earlier the same year she showed Dead Pelt, a fur made from gutted Furbies.",
+   "description_zh": "Heaton 在 eBay 上买来二手 Tickle Me Elmo 玩偶，把它们“开膛破肚”，用它们的绒毛和会笑的电子元件缝成一件外套，一被触摸就咯咯笑、微微颤抖。同年早些时候，她展出了用拆开的 Furby 做成的毛皮 Dead Pelt。",
+   "idea_en": "Treating robot toys as game to be trapped and skinned exposes the strange intimacy and disposability of artificial companions.",
+   "idea_zh": "把机器人玩具当成被捕杀剥皮的猎物，暴露出人工伙伴既亲密又可随手丢弃的奇怪处境。",
+   "method": "Fur and motor-and-sound units from 64 Tickle Me Elmo dolls were reassembled into a wearable garment with touch-triggered giggles.",
+   "method_zh": "把 64 个 Tickle Me Elmo 玩偶的绒毛和电机、发声单元重新组装成一件可穿戴的衣服，触摸时会发笑。",
+   "keywords": [
+    "Kelly Heaton",
+    "Live Pelt",
+    "Dead Pelt",
+    "Tickle Me Elmo",
+    "Furby",
+    "Ronald Feldman Gallery"
+   ],
+   "also": [
+    "afterlife"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SQzG1xD_LYs"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Kelly_Heaton",
+   "exhibited": [
+    "Ronald Feldman Fine Arts, New York 2003"
+   ]
+  },
+  {
+   "id": "bot-and-dolly--box",
+   "creator_ids": [
+    "bot-and-dolly"
+   ],
+   "title": "Box",
+   "year": 2013,
+   "field": "bodies",
+   "sub": "arms",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A live performance filmed in one take: two industrial robot arms move large screens while a performer interacts with projection-mapped illusions of depth, cubes and collapse. The arms are the invisible stagehands.",
+   "description_zh": "一场一镜到底拍摄的现场表演：两只工业机械臂移动大屏，表演者与投影映射出的纵深、立方体和坍塌幻象互动。机械臂是看不见的场务。",
+   "idea_en": "When industrial arms move the stage, precision itself becomes the illusion, and the machine hides by performing perfectly.",
+   "idea_zh": "当工业机械臂移动舞台，精准本身就成了幻术，机器靠完美表演把自己藏起来。",
+   "method": "Robot arms carrying projection surfaces are synchronised with projection mapping and a motion-control camera in Autodesk Maya-based choreography.",
+   "method_zh": "承载投影面的机械臂与投影映射、运动控制摄像机同步，编排基于 Autodesk Maya。",
+   "keywords": [
+    "Bot & Dolly",
+    "Box",
+    "projection mapping",
+    "robot arms",
+    "motion control"
+   ],
+   "also": [
+    "coperformance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lX6JcybgDFo"
+   }
+  },
+  {
+   "id": "madeline-gannon--mimus",
+   "creator_ids": [
+    "madeline-gannon"
+   ],
+   "title": "Mimus",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "arms",
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A 1,200 kg ABB industrial robot in a glass enclosure at the Design Museum in London notices visitors, follows the most interesting one and gets bored when they stay still, like a curious animal.",
+   "description_zh": "在伦敦设计博物馆的玻璃围栏里，一台重 1200 公斤的 ABB 工业机器人会注意到观众，跟随其中最有趣的那个，对方一动不动时它就厌倦了，像一只好奇的动物。",
+   "idea_en": "A factory robot given curiosity instead of a task is no longer a threat but a creature to meet.",
+   "idea_zh": "一台被赋予好奇心而非任务的工厂机器人，不再是威胁，而是一个可以相遇的生灵。",
+   "method": "Depth sensors in the ceiling track visitors; custom software (no pre-programmed movements) decides where the arm looks and moves in real time.",
+   "method_zh": "天花板上的深度传感器追踪观众；定制软件（没有预先编好的动作）实时决定机械臂看向哪里、如何移动。",
+   "keywords": [
+    "Mimus",
+    "Madeline Gannon",
+    "ABB IRB 6700",
+    "Design Museum",
+    "Fear and Love",
+    "curiosity"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=B9jwNWiEd_M"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/5758289d27d4bdf581e1c031/t/64386d617b6835253f5680cd/1681419617332/charlie-longexposure-2.jpg?format=1500w"
+   ],
+   "source_url": "https://atonaton.com/mimus",
+   "exhibited": [
+    "Fear and Love, Design Museum London 2016"
+   ]
+  },
+  {
+   "id": "madeline-gannon--manus",
+   "creator_ids": [
+    "madeline-gannon"
+   ],
+   "title": "Manus",
+   "year": 2018,
+   "field": "bodies",
+   "sub": "arms",
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Ten industrial robot arms in a row share one perception system and behave as a pack, turning together to follow passers-by and passing attention along the line.",
+   "description_zh": "十台排成一列的工业机械臂共享一个感知系统，像一个群体一样行动：一起转向跟随路人，把注意力沿着队列传递下去。",
+   "idea_en": "Industrial robots can be designed as a social group with shared attention rather than as isolated tools.",
+   "idea_zh": "工业机器人可以被设计成共享注意力的社会群体，而不是孤立的工具。",
+   "method": "Depth sensors at the base feed a single tracking system; each ABB arm chooses targets according to pack-behaviour rules.",
+   "method_zh": "底部的深度传感器汇入一个统一的追踪系统；每台 ABB 机械臂按群体行为规则选择目标。",
+   "keywords": [
+    "Manus",
+    "Madeline Gannon",
+    "World Economic Forum",
+    "Tianjin",
+    "robot pack",
+    "ABB"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lyQwqi-Hycw"
+   },
+   "source_url": "https://atonaton.com/manus",
+   "exhibited": [
+    "World Economic Forum Annual Meeting of the New Champions, Tianjin 2018"
+   ]
+  },
+  {
+   "id": "jordan-wolfson--female-figure",
+   "creator_ids": [
+    "jordan-wolfson"
+   ],
+   "title": "(Female figure)",
+   "year": 2014,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid",
+    "vision-system"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A life-size animatronic woman in a witch mask, bikini and dirty boots dances seductively against a mirror, then looks the viewer in the eye while speaking in the artist's voice.",
+   "description_zh": "一个真人大小、戴女巫面具、穿比基尼和脏靴子的电子动偶女人对着镜子挑逗地跳舞，然后直视观众的眼睛，用艺术家本人的声音说话。",
+   "idea_en": "Eye contact from a machine turns looking into being looked at, and makes the viewer complicit in a sexualised display.",
+   "idea_zh": "机器的眼神接触把“看”变成“被看”，让观众成为这场性化展示的共谋。",
+   "method": "An animatronic figure built with Spectral Motion runs choreographed routines; facial-recognition cameras let it lock eyes with viewers.",
+   "method_zh": "由 Spectral Motion 制作的电子动偶执行编排好的动作；面部识别摄像头让它与观众对视。",
+   "keywords": [
+    "Jordan Wolfson",
+    "Female figure",
+    "animatronic",
+    "facial recognition",
+    "David Zwirner",
+    "gaze"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XSFP6JHnn9c"
+   },
+   "source_url": "https://www.davidzwirner.com/artists/jordan-wolfson",
+   "exhibited": [
+    "David Zwirner, New York 2014"
+   ]
+  },
+  {
+   "id": "jordan-wolfson--colored-sculpture",
+   "creator_ids": [
+    "jordan-wolfson"
+   ],
+   "title": "Colored sculpture",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A large cartoonish marionette of a red-haired boy hangs from chains that lift, swing and slam it violently against the floor, while its eyes track the audience.",
+   "description_zh": "一个红发男孩模样的大型卡通木偶挂在锁链上，锁链把它吊起、甩动、狠狠砸向地面，而它的眼睛一直追随着观众。",
+   "idea_en": "Watching a machine perform violence on a figure that looks back makes spectatorship feel like complicity.",
+   "idea_zh": "看着机器对一个会回看的形象施暴，让“观看”本身变成共谋。",
+   "method": "An industrial chain hoist system with programmed choreography moves the figure; eye-tracking animatronic eyes follow viewers.",
+   "method_zh": "一套编排好动作的工业链条吊装系统移动这个形象；带视线追踪的电子眼追随观众。",
+   "keywords": [
+    "Jordan Wolfson",
+    "Colored sculpture",
+    "violence",
+    "chains",
+    "animatronic",
+    "David Zwirner"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gsla5fbzhpw"
+   },
+   "source_url": "https://www.davidzwirner.com/artists/jordan-wolfson",
+   "exhibited": [
+    "David Zwirner, London 2016"
+   ]
+  },
+  {
+   "id": "engineered-arts--ameca",
+   "creator_ids": [
+    "engineered-arts"
+   ],
+   "title": "Ameca",
+   "year": 2021,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "product",
+   "description": "A grey-skinned, deliberately genderless humanoid robot whose first video, waking up and looking at its own hands with surprise, went viral; it is now shown at fairs and museums, often talking through a large language model.",
+   "description_zh": "一个灰色皮肤、刻意无性别的人形机器人，它的第一段视频——醒来后惊讶地看着自己的双手——迅速爆红；如今它在展会和博物馆展出，常借助大语言模型说话。",
+   "idea_en": "Its viral clips show how much feeling people read into a machine face, even when they know the expression is programmed.",
+   "idea_zh": "它的爆红片段显示，即使知道表情是编程出来的，人们仍会从机器的脸上读出大量情感。",
+   "method": "A modular humanoid platform with dozens of facial actuators, cameras in the eyes and cloud software for animation and conversation.",
+   "method_zh": "模块化人形平台，面部有数十个执行器，眼中有摄像头，由云端软件负责动画与对话。",
+   "keywords": [
+    "Ameca",
+    "Engineered Arts",
+    "humanoid",
+    "facial expression",
+    "uncanny valley",
+    "viral video"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IPukuYb9xWw"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg"
+   ],
+   "source_url": "https://www.engineeredarts.co.uk/robot/ameca/"
+  },
+  {
+   "id": "pierre-jaquet-droz--the-writer",
+   "creator_ids": [
+    "pierre-jaquet-droz"
+   ],
+   "title": "The Writer",
+   "year": 1774,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A doll-sized boy at a desk dips a goose quill in ink and writes a text of up to 40 characters, following the letters with his eyes. It is still demonstrated at the Musée d'art et d'histoire in Neuchâtel.",
+   "description_zh": "一个玩偶大小的男孩坐在书桌前，用鹅毛笔蘸墨，写下最多 40 个字符的文字，眼睛随着字母移动。它至今仍在纳沙泰尔艺术与历史博物馆演示。",
+   "idea_en": "An 18th-century android already raised the question of writing without a mind behind it.",
+   "idea_zh": "一个 18 世纪的仿真人早已提出了“没有心灵的书写”这一问题。",
+   "method": "About 6,000 parts, with a programmable wheel of interchangeable cams that sets each letter; made with Henri-Louis Jaquet-Droz and Jean-Frédéric Leschot.",
+   "method_zh": "约 6000 个零件，用一个可更换凸轮的可编程轮盘设定每个字母；与 Henri-Louis Jaquet-Droz 和 Jean-Frédéric Leschot 共同制作。",
+   "keywords": [
+    "Jaquet-Droz",
+    "The Writer",
+    "automaton",
+    "Neuchâtel",
+    "android",
+    "programmable"
+   ],
+   "also": [
+    "coperformance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ux2KW20nqHU"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Jaquet-Droz_automata",
+   "exhibited": [
+    "Musée d'art et d'histoire, Neuchâtel"
+   ]
+  },
+  {
+   "id": "arthur-ganson--machine-with-wishbone",
+   "creator_ids": [
+    "arthur-ganson"
+   ],
+   "title": "Machine with Wishbone",
+   "year": 1988,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A chicken wishbone, attached to a small mechanism, 'walks' endlessly across the table on its two tips, dragging the machine behind it like a burden.",
+   "description_zh": "一根鸡的叉骨装在一个小机构上，用它的两个尖端在桌上无休止地“行走”，身后拖着那台机器，像拖着一个负担。",
+   "idea_en": "A bone and a machine are locked in symbiosis: neither can move meaningfully without the other.",
+   "idea_zh": "一根骨头与一台机器被锁在共生关系里：没有对方，谁都无法有意义地移动。",
+   "method": "A small motor drives a linkage that lifts and swings the wishbone's two legs in a walking gait, while the mechanism trails on a track.",
+   "method_zh": "小电机驱动连杆，让叉骨的两条“腿”以行走步态抬起、摆动，机构则在轨道上被拖着走。",
+   "keywords": [
+    "Arthur Ganson",
+    "Machine with Wishbone",
+    "walking",
+    "kinetic sculpture",
+    "MIT Museum"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4pZXoayEL78"
+   },
+   "source_url": "https://www.arthurganson.com/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Nam June Paik & Shuya Abe — Robot K-456 (1964)",
+   "why": "Canonical walking, bean-excreting robot, 'killed' by a car in 1982; Korean/Japanese creators, left to east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Wen-Ying Tsai (蔡文颖) — Cybernetic Sculptures (1968–)",
+   "why": "Chinese-American pioneer; strobe-lit vibrating rods respond to sound; left to east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Wen-Ying_Tsai",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hiroshi Ishiguro — Geminoid HI-1 (2006) / Takashi Ikegami — Alter (2016)",
+   "why": "Android twin and ALife-driven android; left to east-asia batch.",
+   "link": "http://www.geminoid.jp/en/robots.html",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sun Yuan & Peng Yu — Can't Help Myself (2016)",
+   "why": "Canonical 'sad' KUKA arm; left to east-asia batch.",
+   "link": "https://www.guggenheim.org/artwork/34812",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Anicka Yi — In Love With the World (2021)",
+   "why": "Floating 'aerobe' machines in Tate's Turbine Hall; Korean-American, check with east-asia batch.",
+   "link": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Choe U-Ram — anima machines / Little Ark (2022)",
+   "why": "Korean kinetic 'mechanical organisms'; east-asia batch.",
+   "link": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20220915/kinetic-artist-choe-u-rams-motorized-ark-becomes-miniature-human-society",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Wang Yuyang — Breathe series (2005–)",
+   "why": "Silicone appliances that breathe (soft-living); east-asia batch.",
+   "link": "https://www.designboom.com/art/wang-yuyang-breathing-series-finance-department-at-art-basel-in-miami-beach-12-30-2013/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Gordon Pask — Musicolour (1953)",
+   "why": "Learning light-show machine that 'gets bored' with a musician; no verified image or video found.",
+   "link": "https://en.wikipedia.org/wiki/Gordon_Pask",
+   "found_via": "gordon-pask",
+   "status": "no_media"
+  },
+  {
+   "name": "Ruairi Glynn — Fearful Symmetry (2012, Tate Tanks)",
+   "why": "Flying light tetrahedron that approaches visitors; project page 404, no stable media found.",
+   "link": "https://en.wikipedia.org/wiki/Ruairi_Glynn",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "MSCHF — Spot's Rampage (2021)",
+   "why": "Paintball gun on a Boston Dynamics Spot driven by the public; no official media page found (mschf.com page 404).",
+   "link": "https://en.wikipedia.org/wiki/MSCHF",
+   "found_via": "boston-dynamics",
+   "status": "no_media"
+  },
+  {
+   "name": "Alan Rath — robotic sculptures (1980s–)",
+   "why": "Bay Area robotic sculptor (e.g. works at the Contemporary Jewish Museum); pick 1–2 key works with dates.",
+   "link": "https://www.youtube.com/watch?v=9BLp9zyejkM",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kaspar König — sound and kinetic machines",
+   "why": "Inventor-artist of sound machines; no clearly machine-phenomenology work confirmed.",
+   "link": "https://www.youtube.com/watch?v=_ze0sH8ZvZc",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Pinar Yoldas — An Ecosystem of Excess (2014)",
+   "why": "Speculative organisms for a plastic ocean; biology rather than machine, likely off-topic for bodies.",
+   "link": "https://www.pinaryoldas.info/Ecosystem-of-Excess-2014",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Rodney Brooks — Genghis (1989) and Cog (1993–)",
+   "why": "Behaviour-based robotics; left to theory batch (robotics-hri). Video: IEEE Spectrum 'Genghis first steps'.",
+   "link": "https://www.youtube.com/watch?v=-6piNZBFdfY",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "W. Ross Ashby — Homeostat (1948)",
+   "why": "Ultrastable feedback machine; theory batch (cybernetics).",
+   "link": "https://en.wikipedia.org/wiki/Homeostat",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Valentino Braitenberg — Vehicles (1984)",
+   "why": "Thought-experiment robots that seem to love, fear and explore; theory batch.",
+   "link": "https://mitpress.mit.edu/9780262521123/vehicles/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Johns Hopkins APL — Ferdinand (1964)",
+   "why": "Sister mobile automaton of the Hopkins Beast.",
+   "link": "https://www.youtube.com/watch?v=szGFt28BiBY",
+   "found_via": "johns-hopkins-apl",
+   "status": "open"
+  },
+  {
+   "name": "Stephan von Huene — Tisch Tänzer / Text Tones",
+   "why": "Sound sculptures and a dancing table; ZKM holdings.",
+   "link": "https://www.youtube.com/watch?v=4-quIUsCgEI",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Björn Schülke — kinetic sensing sculptures (Solar Kinetic Objects, Space Observer)",
+   "why": "German kinetic robot-like sculptures that watch the viewer; own YouTube channel.",
+   "link": "https://www.youtube.com/watch?v=AZ9JHsqg8Vg",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Bill Vorn — I.C.U. (Intensive Care Unit) (2021)",
+   "why": "Robots in a hospital-ward setting; newer Vorn work.",
+   "link": "https://billvorn.concordia.ca/robography/ICU.html",
+   "found_via": "bill-vorn",
+   "status": "open"
+  },
+  {
+   "name": "Petra Gemeinboeck & Rob Saunders — Accomplice (2013), Alloyed Bodies (2024)",
+   "why": "Follow-ups to Zwischenräume; movement studies with robots and dancers.",
+   "link": "https://www.youtube.com/watch?v=sEJRIsLQvXw",
+   "found_via": "petra-gemeinboeck",
+   "status": "open"
+  },
+  {
+   "name": "Paula Gaetano Adi — Mestizo Robotics / Robocalyptic Manifesto",
+   "why": "Further robots and writing on Latin American robotics.",
+   "link": "https://www.paulagaetanoadi.com/",
+   "found_via": "paula-gaetano-adi",
+   "status": "open"
+  },
+  {
+   "name": "Ralf Baecker — Interface I (2016)",
+   "why": "Japan Media Arts Festival Grand Prize work (2017) driven by background radiation.",
+   "link": "https://rlfbckr.io/",
+   "found_via": "ralf-baecker",
+   "status": "open"
+  },
+  {
+   "name": "Guto Nóbrega — Breathing (2008)",
+   "why": "Brazilian plant–robot hybrid; no media found this round.",
+   "link": "",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Ai-Da (Aidan Meller / Engineered Arts, 2019)",
+   "why": "Humanoid 'robot artist'; critical case, left to coperformance (drawing).",
+   "link": "https://www.ai-darobot.com/",
+   "found_via": "engineered-arts",
+   "status": "open"
+  },
+  {
+   "name": "Kate Darling & Hannes Gassert — Pleo workshop at LIFT (2013)",
+   "why": "Participants refuse to hurt robot dinosaurs; research case for futility/intimacy; check theory batch.",
+   "link": "https://www.youtube.com/watch?v=7BGDFqwYTpA",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Blast Theory — Cat Royale (2023)",
+   "why": "Robot arm caring for cats for 12 days; intimacy/care batch.",
+   "link": "https://www.blasttheory.co.uk/projects/cat-royale/",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

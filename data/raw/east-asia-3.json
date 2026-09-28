@@ -1,0 +1,1969 @@
+{
+  "batch": "east-asia",
+  "creators": [
+    {
+      "id": "nam-june-paik",
+      "name": "Nam June Paik",
+      "name_zh": "白南准",
+      "kind": "person",
+      "role": "Artist; pioneer of video art",
+      "role_zh": "艺术家，录像艺术先驱",
+      "based": "New York, US / Seoul, KR",
+      "based_zh": "纽约，美国／首尔，韩国",
+      "bio": "Korean-born artist (1932–2006) of the Fluxus circle who turned televisions, cameras and robots into artistic material.",
+      "bio_zh": "韩裔艺术家（1932–2006），激浪派成员，把电视、摄像机与机器人变成艺术材料。",
+      "why": "His robots and closed-circuit works are founding images of how art stages machines as bodies and as watchers.",
+      "why_zh": "他的机器人与闭路电视作品，是艺术把机器当作身体与观看者来呈现的奠基性图像。",
+      "disciplines": [
+        "art",
+        "performance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Nam_June_Paik"
+      },
+      "connected_to": [
+        "shuya-abe"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "shuya-abe",
+      "name": "Shuya Abe",
+      "name_zh": "阿部修也",
+      "kind": "person",
+      "role": "Electrical engineer; Paik's technical collaborator",
+      "role_zh": "电气工程师，白南准的技术合作者",
+      "based": "Tokyo, JP",
+      "based_zh": "东京，日本",
+      "bio": "Japanese engineer (1932–2016) who built Robot K-456 and the Paik–Abe video synthesizer with Nam June Paik.",
+      "bio_zh": "日本工程师（1932–2016），与白南准合作制作了《机器人 K-456》和白南准–阿部录像合成器。",
+      "why": "An early case of an engineer as co-author of a robot artwork.",
+      "why_zh": "工程师作为机器人艺术作品共同作者的早期案例。",
+      "disciplines": [
+        "robotics",
+        "art"
+      ],
+      "links": {
+        "site": ""
+      },
+      "connected_to": [
+        "nam-june-paik"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lee-bul",
+      "name": "Lee Bul",
+      "name_zh": "李昢",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Korean artist working across performance, sculpture and installation; her work addresses technology, gender, utopia and the body.",
+      "bio_zh": "韩国艺术家，横跨表演、雕塑与装置，关注技术、性别、乌托邦与身体。",
+      "why": "Her Cyborg series is a key feminist image of the machine-enhanced body and its fantasies of perfection.",
+      "why_zh": "她的《赛博格》系列是关于机器增强身体及其完美幻想的重要女性主义图像。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Lee_Bul"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "shinseungback-kimyonghun",
+      "name": "Shinseungback Kimyonghun",
+      "name_zh": "",
+      "kind": "studio",
+      "role": "Artist duo (Shin Seung Back and Kim Yong Hun)",
+      "role_zh": "艺术家组合（Shin Seung Back 与 Kim Yong Hun）",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Seoul-based duo, formed in 2012, who build installations around face detection, object recognition and other machine-vision systems.",
+      "bio_zh": "2012 年成立的首尔艺术家组合，以人脸检测、物体识别等机器视觉系统为材料制作装置。",
+      "why": "Their works turn the errors and blind spots of computer vision into shared experiments between humans and machines.",
+      "why_zh": "他们把计算机视觉的错误与盲区变成人与机器共同参与的实验。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://ssbkyh.com/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ayoung-kim",
+      "name": "Ayoung Kim",
+      "name_zh": "金雅瑛",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Korean artist who makes speculative-fiction videos with CGI, live action and game engines about geopolitics, labour and time.",
+      "bio_zh": "韩国艺术家，以 CGI、实拍与游戏引擎制作思辨虚构影像，关注地缘政治、劳动与时间。",
+      "why": "Her Delivery Dancer films are the sharpest artistic image of algorithmically managed gig work; 2025 LG Guggenheim Award.",
+      "why_zh": "她的“外卖舞者”系列是关于算法管理下零工劳动最锐利的艺术图像，获 2025 年 LG 古根海姆奖。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {
+        "site": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "choe-u-ram",
+      "name": "Choe U-Ram",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Kinetic artist",
+      "role_zh": "动态雕塑艺术家",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Korean sculptor who builds 'anima-machines': motorised creatures of aluminium and steel with invented scientific names.",
+      "bio_zh": "韩国雕塑家，用铝和钢制作带虚构学名的电机驱动“机械生物”（anima-machines）。",
+      "why": "He gives machines a fictional natural history, blurring engineered mechanism and organism.",
+      "why_zh": "他为机器编写虚构的自然史，模糊了工程机械与生物之间的界线。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.uram.net/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mbc",
+      "name": "MBC (Munhwa Broadcasting Corporation)",
+      "name_zh": "韩国文化广播公司 MBC",
+      "kind": "company",
+      "role": "Korean public broadcaster",
+      "role_zh": "韩国公共广播机构",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "South Korean broadcaster that produced the VR documentary series Meeting You (2020–).",
+      "bio_zh": "韩国电视台，制作了 VR 纪录片系列《遇见你》（2020–）。",
+      "why": "Meeting You put VR reunion with the dead on national television and made digital mourning a public debate.",
+      "why_zh": "《遇见你》把与逝者的 VR 重逢搬上国家电视台，使数字哀悼成为公共议题。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "https://www.imbc.com/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "deepbrain-ai",
+      "name": "DeepBrain AI",
+      "name_zh": "",
+      "kind": "company",
+      "role": "AI avatar company",
+      "role_zh": "AI 虚拟人公司",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Korean company making synthetic video avatars; launched the memorial service Re;memory in 2022.",
+      "bio_zh": "韩国合成视频虚拟人公司，2022 年推出纪念服务 Re;memory。",
+      "why": "A documented commercial case of the griefbot industry in East Asia.",
+      "why_zh": "东亚“哀悼机器人”产业的一个有据可查的商业案例。",
+      "disciplines": [
+        "activism"
+      ],
+      "links": {
+        "site": "https://www.deepbrain.io/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "scatter-lab",
+      "name": "Scatter Lab",
+      "name_zh": "",
+      "kind": "company",
+      "role": "AI chatbot start-up",
+      "role_zh": "AI 聊天机器人初创公司",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Korean start-up behind the chatbot Lee Luda (2020), trained on messenger conversations from its dating-advice apps.",
+      "bio_zh": "韩国初创公司，开发了聊天机器人“李乐达”（Lee Luda，2020），其训练数据来自旗下恋爱咨询应用中的聊天记录。",
+      "why": "Its chatbot became Korea's defining case on companion AI, consent and training data.",
+      "why_zh": "它的聊天机器人成为韩国关于陪伴 AI、知情同意与训练数据的标志性案例。",
+      "disciplines": [
+        "activism"
+      ],
+      "links": {
+        "site": "https://www.scatterlab.co.kr/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jaha-koo",
+      "name": "Jaha Koo",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Theatre-maker, composer and video artist",
+      "role_zh": "剧场创作者、作曲家与录像艺术家",
+      "based": "Ghent, BE",
+      "based_zh": "根特，比利时",
+      "bio": "South Korean theatre-maker whose documentary performances combine music, video, autobiography and technological objects.",
+      "bio_zh": "韩国剧场创作者，其纪实表演结合音乐、影像、自传与技术物件。",
+      "why": "In Cuckoo, household machines become the only confidants of a lonely generation.",
+      "why_zh": "在《布谷》中，家用电器成了孤独一代唯一的倾诉对象。",
+      "disciplines": [
+        "performance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Jaha_Koo"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kim-jee-woon",
+      "name": "Kim Jee-woon",
+      "name_zh": "金知云",
+      "kind": "person",
+      "role": "Film director and screenwriter",
+      "role_zh": "电影导演、编剧",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "South Korean director of genre films including A Tale of Two Sisters and I Saw the Devil.",
+      "bio_zh": "韩国类型片导演，作品包括《蔷花，红莲》《看见恶魔》。",
+      "why": "His short 'Heavenly Creature' is one of cinema's clearest images of a robot reaching religious insight.",
+      "why_zh": "他的短片《天上的造物》是电影中机器人获得宗教觉悟最清晰的图像之一。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Kim_Jee-woon"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kim-tae-yong",
+      "name": "Kim Tae-yong",
+      "name_zh": "金泰勇",
+      "kind": "person",
+      "role": "Film director",
+      "role_zh": "电影导演",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "South Korean director of Late Autumn and Wonderland.",
+      "bio_zh": "韩国导演，作品有《晚秋》《奇迹乐园》。",
+      "why": "Wonderland is a mainstream Korean fiction about subscription services that simulate the dead.",
+      "why_zh": "《奇迹乐园》是一部关于模拟逝者的订阅服务的韩国主流剧情片。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Kim_Tae-yong"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yeon-sang-ho",
+      "name": "Yeon Sang-ho",
+      "name_zh": "延尚昊",
+      "kind": "person",
+      "role": "Film director",
+      "role_zh": "电影导演",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "South Korean director of Train to Busan and the Netflix film Jung_E.",
+      "bio_zh": "韩国导演，作品有《釜山行》及 Netflix 电影《贞伊》。",
+      "why": "Jung_E asks who owns a mind once it is copied and sold as a product.",
+      "why_zh": "《贞伊》追问：一个心智被复制并作为商品出售后归谁所有。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Yeon_Sang-ho"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "anicka-yi",
+      "name": "Anicka Yi",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "New York, US",
+      "based_zh": "纽约，美国",
+      "bio": "Korean-American artist working with scent, bacteria and machines; she speaks of 'biologizing the machine'.",
+      "bio_zh": "韩裔美国艺术家，以气味、细菌与机器为材料，提出“让机器生物化”。",
+      "why": "Her floating 'aerobes' imagine machines as a new species with their own sensing and behaviour.",
+      "why_zh": "她漂浮的“气生体”（aerobes）把机器想象成拥有自身感知与行为的新物种。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Anicka_Yi"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "byung-chul-han",
+      "name": "Byung-Chul Han",
+      "name_zh": "韩炳哲",
+      "kind": "person",
+      "role": "Philosopher and cultural theorist",
+      "role_zh": "哲学家、文化理论家",
+      "based": "Berlin, DE",
+      "based_zh": "柏林，德国",
+      "bio": "Korean-born German philosopher who writes short books on digital culture, neoliberalism and the smartphone age.",
+      "bio_zh": "韩裔德国哲学家，写作关于数字文化、新自由主义与智能手机时代的短篇著作。",
+      "why": "His essays give a widely read phenomenology of life among data, screens and 'non-things'.",
+      "why_zh": "他的随笔为数据、屏幕与“非物”中的生活提供了广为阅读的现象学描述。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Byung-Chul_Han"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "huang-yi",
+      "name": "Huang Yi",
+      "name_zh": "黄翊",
+      "kind": "person",
+      "role": "Choreographer, dancer and inventor",
+      "role_zh": "编舞家、舞者、发明者",
+      "based": "Taipei, TW",
+      "based_zh": "台北，台湾",
+      "bio": "Taiwanese choreographer who programs industrial robots himself and founded Huang Yi Studio +.",
+      "bio_zh": "台湾编舞家，亲自为工业机器人编程，创立黄翊工作室＋。",
+      "why": "His duet with a KUKA arm is the best-known dance between a person and an industrial robot.",
+      "why_zh": "他与 KUKA 机械臂的双人舞是人与工业机器人共舞最知名的作品。",
+      "disciplines": [
+        "performance"
+      ],
+      "links": {
+        "site": "https://huangyistudio.com/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "shu-lea-cheang",
+      "name": "Shu Lea Cheang",
+      "name_zh": "郑淑丽",
+      "kind": "person",
+      "role": "Artist and filmmaker",
+      "role_zh": "艺术家、电影导演",
+      "based": "Paris, FR",
+      "based_zh": "巴黎，法国",
+      "bio": "Taiwanese-American net-art pioneer whose films and installations deal with surveillance, sexuality and data.",
+      "bio_zh": "台裔美国网络艺术先驱，其电影与装置关注监控、性与数据。",
+      "why": "Her work turns surveillance and data capture into queer counter-fiction; 2024 LG Guggenheim Award.",
+      "why_zh": "她把监控与数据采集转化为酷儿的反叙事；获 2024 年 LG 古根海姆奖。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Shu_Lea_Cheang"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "victor-wong",
+      "name": "Victor Wong",
+      "name_zh": "黄宏达",
+      "kind": "person",
+      "role": "Artist and visual-effects producer",
+      "role_zh": "艺术家、视觉特效制作人",
+      "based": "Hong Kong",
+      "based_zh": "香港",
+      "bio": "Hong Kong visual-effects producer (vfxNova) who created the AI ink painter A.I. Gemini in 2018.",
+      "bio_zh": "香港视觉特效制作人（vfxNova），2018 年创造了 AI 水墨画家 A.I. Gemini。",
+      "why": "He presents a program as a named co-artist, putting ink-painting authorship in question.",
+      "why_zh": "他把一个程序当作有名字的合作艺术家来呈现，让水墨画的作者身份成为问题。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.3812gallery.com/artists/victor-wong-ai-gemini/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ho-tzu-nyen",
+      "name": "Ho Tzu Nyen",
+      "name_zh": "何子彦",
+      "kind": "person",
+      "role": "Artist and filmmaker",
+      "role_zh": "艺术家、电影导演",
+      "based": "Singapore",
+      "based_zh": "新加坡",
+      "bio": "Singaporean artist whose films, installations and algorithmic works mix myth and history of Southeast Asia.",
+      "bio_zh": "新加坡艺术家，以电影、装置与算法作品交织东南亚的神话与历史。",
+      "why": "His CDOSEA hands the editing of history to an algorithm that never produces the same film twice.",
+      "why_zh": "他的《东南亚批判辞典》把历史的剪辑交给一个永不重复的算法。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Ho_Tzu_Nyen"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "choy-ka-fai",
+      "name": "Choy Ka Fai",
+      "name_zh": "徐家辉",
+      "kind": "person",
+      "role": "Artist, choreographer and speculative designer",
+      "role_zh": "艺术家、编舞者、思辨设计师",
+      "based": "Berlin, DE / Singapore",
+      "based_zh": "柏林，德国／新加坡",
+      "bio": "Singaporean artist trained in Design Interactions at the RCA who makes performances about the body, technology and memory.",
+      "bio_zh": "新加坡艺术家，毕业于皇家艺术学院交互设计专业，创作关于身体、技术与记忆的表演。",
+      "why": "He uses muscle stimulation, motion capture and avatars to ask whether dance can be stored and replayed by machines.",
+      "why_zh": "他用肌肉电刺激、动作捕捉与虚拟化身追问：舞蹈能否被机器储存和回放。",
+      "disciplines": [
+        "performance",
+        "design"
+      ],
+      "links": {
+        "site": "https://www.ka5.info/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "nam-june-paik--robot-k-456",
+      "creator_ids": [
+        "nam-june-paik",
+        "shuya-abe"
+      ],
+      "title": "Robot K-456",
+      "year": 1964,
+      "field": "bodies",
+      "sub": "cybernetic",
+      "machines": [
+        "humanoid",
+        "robot-creature"
+      ],
+      "lenses": [
+        "embodiment",
+        "alterity-uncanny",
+        "failure-glitch"
+      ],
+      "kind": "artwork",
+      "description": "A 20-channel radio-controlled humanoid built in Tokyo that walked the streets, played a recorded speech by John F. Kennedy and dropped beans as excrement. It debuted in Paik's Robot Opera at the 1964 New York Avant Garde Festival.",
+      "description_zh": "1964 年在东京制作的 20 通道无线电遥控类人机器人，在街上行走、播放肯尼迪演讲录音，还会“排泄”豆子。它首次亮相于 1964 年纽约前卫艺术节上白南准的《机器人歌剧》。",
+      "idea_en": "A robot made clumsy, noisy and bodily, closer to a street performer than to a symbol of technical progress.",
+      "idea_zh": "一个笨拙、嘈杂、有身体机能的机器人，更像街头艺人，而不是技术进步的象征。",
+      "method": "Metal armature with motors and a 20-channel radio remote built by engineer Shuya Abe; restored in 2025 by the Nam June Paik Art Center, which holds it (1964/1996).",
+      "method_zh": "由工程师阿部修也制作的金属骨架、电机与 20 通道无线电遥控系统；现藏白南准艺术中心（1964/1996），2025 年完成修复。",
+      "keywords": [
+        "robot opera",
+        "Fluxus",
+        "radio control",
+        "Shuya Abe",
+        "Nam June Paik Art Center"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JciiqCsRhdY"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+      "exhibited": [
+        "Robot Opera, 2nd Annual New York Avant Garde Festival 1964",
+        "Nam June Paik: Becoming Robot, Asia Society 2014",
+        "Nam June Paik Art Center (collection)"
+      ]
+    },
+    {
+      "id": "nam-june-paik--first-accident-21st-century",
+      "creator_ids": [
+        "nam-june-paik"
+      ],
+      "title": "The First Accident of the Twenty-First Century",
+      "year": 1982,
+      "field": "afterlife",
+      "sub": "machine-death",
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "failure-glitch",
+        "grief-afterlife",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "For his 1982 Whitney Museum retrospective, Paik walked Robot K-456 onto Madison Avenue, where it was struck by a car in a staged 'traffic accident'. In 2026 the restored robot walked again in a performance marking 20 years since Paik's death.",
+      "description_zh": "在 1982 年惠特尼美术馆回顾展期间，白南准让《机器人 K-456》走上麦迪逊大道，被一辆汽车撞倒，上演了一场“交通事故”。2026 年，修复后的机器人在纪念白南准逝世 20 周年的表演中再次行走。",
+      "idea_en": "Staging a machine's death in public turns a robot into something that can be mourned.",
+      "idea_zh": "在公共空间上演机器之死，让机器人成为可以被哀悼的对象。",
+      "method": "Street performance: the remote-controlled robot is driven into traffic and hit by a car at low speed, then displayed damaged.",
+      "method_zh": "街头表演：遥控机器人被驶入车流，被低速行驶的汽车撞倒，之后以损坏状态展出。",
+      "keywords": [
+        "robot death",
+        "performance",
+        "Whitney Museum",
+        "Madison Avenue",
+        "K-456"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=T9I33R7jJng"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+      "exhibited": [
+        "Nam June Paik retrospective, Whitney Museum of American Art 1982",
+        "Nam June Paik Art Center, 20th memorial performance 2026"
+      ]
+    },
+    {
+      "id": "nam-june-paik--tv-buddha",
+      "creator_ids": [
+        "nam-june-paik"
+      ],
+      "title": "TV Buddha",
+      "year": 1974,
+      "field": "perception",
+      "sub": "seeing",
+      "also": [
+        "afterlife"
+      ],
+      "machines": [
+        "vision-system",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "alterity-uncanny"
+      ],
+      "kind": "artwork",
+      "description": "A Buddha statue sits facing a monitor that shows its own live image, filmed by a closed-circuit camera behind the screen. The Buddha contemplates itself through the machine in an endless loop.",
+      "description_zh": "一尊佛像面对着一台显示器，屏幕上是由闭路摄像机实时拍摄的佛像自身。佛通过机器无止境地凝视自己。",
+      "idea_en": "A closed-circuit camera turns meditation into self-surveillance: the machine eye becomes a mirror with no outside.",
+      "idea_zh": "闭路摄像机把冥想变成了自我监视：机器之眼成了一面没有外部的镜子。",
+      "method": "An antique Buddha sculpture, a video camera on a tripod and a CRT monitor in a live closed-circuit loop; many versions exist.",
+      "method_zh": "古董佛像、三脚架上的摄像机与显像管显示器组成实时闭路回路；此作有多个版本。",
+      "keywords": [
+        "closed-circuit video",
+        "Buddha",
+        "feedback",
+        "Stedelijk Museum"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=MVwR1n0IZAs"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/53/TV_Buddha.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/TV_Buddha",
+      "exhibited": [
+        "Galeria Bonino, New York 1974",
+        "Stedelijk Museum Amsterdam (collection)"
+      ]
+    },
+    {
+      "id": "nam-june-paik--family-of-robot",
+      "creator_ids": [
+        "nam-june-paik"
+      ],
+      "title": "Family of Robot",
+      "year": 1986,
+      "field": "bodies",
+      "sub": "sculpture",
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "A series of robot figures built from vintage radios and television cabinets, cast as a family: Grandfather, Grandmother, Mother, Father, Aunt, Uncle and Baby, each showing video on its screens.",
+      "description_zh": "一组用老式收音机和电视机壳做成的机器人雕塑，被设定为一家人：祖父、祖母、母亲、父亲、姑姑、叔叔和婴儿，每个屏幕上都播放着影像。",
+      "idea_en": "Old media machines are given kinship roles, so obsolete technology becomes a genealogy.",
+      "idea_zh": "旧的媒介机器被赋予亲属身份，过时的技术由此变成一部家谱。",
+      "method": "Assemblages of antique TV and radio housings with working monitors playing Paik's video footage.",
+      "method_zh": "由古董电视与收音机外壳拼装而成，内部显示器播放白南准的录像。",
+      "keywords": [
+        "TV robots",
+        "kinship",
+        "obsolete media",
+        "Carl Solway Gallery"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=yAV9p5ebEKM"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+      "exhibited": [
+        "Carl Solway Gallery, Cincinnati 1986",
+        "Nam June Paik: Becoming Robot, Asia Society 2014"
+      ]
+    },
+    {
+      "id": "lee-bul--cyborg",
+      "creator_ids": [
+        "lee-bul"
+      ],
+      "title": "Cyborg series",
+      "year": 1998,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "machines": [
+        "prosthesis-cyborg",
+        "humanoid"
+      ],
+      "lenses": [
+        "embodiment",
+        "alterity-uncanny"
+      ],
+      "kind": "artwork",
+      "description": "White silicone figures of female cyborgs, often missing a head or limbs, hung from the ceiling like armour or anime heroines. First shown at Artsonje Center, Seoul, in 1998, the series recasts the machine-enhanced body as fragmentary and eroticised.",
+      "description_zh": "白色硅胶女性赛博格雕塑，常常缺头断肢，像盔甲或动漫女主角一样悬挂在空中。这个 1998 年首次在首尔 Artsonje 中心展出的系列把机器增强的身体呈现为残缺而被情欲化的对象。",
+      "idea_en": "Techno-perfection is shown as a gendered fantasy, and the cyborg body as incomplete.",
+      "idea_zh": "技术完美被揭示为一种性别化的幻想，赛博格身体则总是不完整的。",
+      "method": "Cast silicone, polyurethane and paint, drawing on manga, anime and classical sculpture; works such as Cyborg W1–W4 (1998).",
+      "method_zh": "以硅胶、聚氨酯铸造并上色，借用漫画、动画与古典雕塑语汇；代表作有《Cyborg W1–W4》（1998）。",
+      "keywords": [
+        "cyborg",
+        "feminism",
+        "anime",
+        "sculpture",
+        "silicone"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aS5di0wCD1I"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_01.jpg"
+      ],
+      "source_url": "https://www.guggenheim.org/artwork/artist/lee-bul",
+      "exhibited": [
+        "Artsonje Center, Seoul 1998",
+        "Korean Pavilion, 48th Venice Biennale 1999",
+        "Lee Bul: Crashing, Hayward Gallery 2018"
+      ]
+    },
+    {
+      "id": "shinseungback-kimyonghun--cloud-face",
+      "creator_ids": [
+        "shinseungback-kimyonghun"
+      ],
+      "title": "Cloud Face",
+      "year": 2012,
+      "field": "perception",
+      "sub": "seeing",
+      "machines": [
+        "vision-system"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "failure-glitch"
+      ],
+      "kind": "artwork",
+      "description": "A camera pointed at the sky and a face-detection algorithm collect clouds that the machine identifies as human faces. The prints set machine pareidolia next to our own habit of seeing faces in clouds.",
+      "description_zh": "把摄像机对准天空，用人脸检测算法收集被机器识别为“人脸”的云朵。印出的图像让机器的空想性错视与人类在云中看脸的习惯并置。",
+      "idea_en": "A detection error reveals that machines, like people, find faces where there are none, but without imagining them.",
+      "idea_zh": "识别错误揭示出：机器和人一样会在没有脸的地方“看到”脸，只是它并不想象。",
+      "method": "Camera, face-detection algorithm and custom software select cloud images; shown as pigment prints and video.",
+      "method_zh": "摄像机、人脸检测算法与自制软件筛选云的图像，以艺术微喷与录像展出。",
+      "keywords": [
+        "face detection",
+        "pareidolia",
+        "clouds",
+        "machine vision"
+      ],
+      "video": {
+        "url": "https://vimeo.com/68958093"
+      },
+      "images": [
+        "https://djhznh41oxwef.cloudfront.net/works/cloud_face/resized/ssbkyh_detail1.png"
+      ],
+      "source_url": "https://ssbkyh.com/works/cloud_face/",
+      "exhibited": [
+        "Ars Electronica Center, Linz 2014–2021"
+      ]
+    },
+    {
+      "id": "shinseungback-kimyonghun--nonfacial-portrait",
+      "creator_ids": [
+        "shinseungback-kimyonghun"
+      ],
+      "title": "Nonfacial Portrait",
+      "year": 2018,
+      "field": "perception",
+      "sub": "evasion",
+      "machines": [
+        "vision-system",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "classification",
+        "agency-cocreation"
+      ],
+      "kind": "artwork",
+      "description": "Painters are asked to paint a portrait that people recognise but in which no face-detection algorithm can find a face. A camera watches the canvas and a screen warns the painter whenever a face is detected.",
+      "description_zh": "邀请画家绘制一幅人能认出、但任何人脸检测算法都找不到人脸的肖像。摄像机持续监看画布，一旦检测到人脸，屏幕就会提醒画家。",
+      "idea_en": "Portraiture becomes a search for the narrow visual space only humans can perceive.",
+      "idea_zh": "肖像画变成一次寻找“只有人能看见”的狭窄视觉空间的实验。",
+      "method": "Three face-detection algorithms monitor the canvas through a camera; each painting is shown with a video of its making.",
+      "method_zh": "三种人脸检测算法通过摄像机监看画布；每幅画与其创作过程的录像一起展出。",
+      "keywords": [
+        "face detection",
+        "portrait",
+        "painting",
+        "evasion"
+      ],
+      "video": {
+        "url": "https://vimeo.com/290710439"
+      },
+      "images": [
+        "https://djhznh41oxwef.cloudfront.net/works/nonfacial_portrait/ssbkyh_Nonfacial_Portrait_00.png"
+      ],
+      "source_url": "https://www.ntticc.or.jp/en/archive/works/nonfacial-portrait/",
+      "exhibited": [
+        "NTT InterCommunication Center (ICC), Tokyo"
+      ]
+    },
+    {
+      "id": "shinseungback-kimyonghun--animal-classifier",
+      "creator_ids": [
+        "shinseungback-kimyonghun"
+      ],
+      "title": "Animal Classifier",
+      "year": 2016,
+      "field": "perception",
+      "sub": "datasets",
+      "machines": [
+        "dataset",
+        "vision-system"
+      ],
+      "lenses": [
+        "classification",
+        "machine-seeing"
+      ],
+      "kind": "artwork",
+      "description": "A neural network is trained to sort animals into the 14 absurd categories of the 'Chinese encyclopedia' in Borges's essay, such as 'belonging to the emperor', 'fabulous' and 'that from a long way off look like flies'.",
+      "description_zh": "训练一个神经网络，按博尔赫斯文章中“中国百科全书”的 14 个荒诞类别给动物分类，比如“属于皇帝的”“传说中的”“远看像苍蝇的”。",
+      "idea_en": "Every machine classification rests on an arbitrary taxonomy; this one simply makes the arbitrariness visible.",
+      "idea_zh": "任何机器分类都建立在某种任意的分类法之上；这件作品只是把这种任意性摆到了明处。",
+      "method": "TensorFlow convolutional neural network trained on online images, running on 14 Raspberry Pis under glass domes with monitors.",
+      "method_zh": "用网络图片训练的 TensorFlow 卷积神经网络，运行在 14 台树莓派上，置于玻璃罩与显示器中。",
+      "keywords": [
+        "Borges",
+        "taxonomy",
+        "image classification",
+        "CNN"
+      ],
+      "video": {
+        "url": "https://vimeo.com/198948703"
+      },
+      "images": [
+        "https://djhznh41oxwef.cloudfront.net/works/animal_classifier/ssbkyh_animal_classifier_01.png"
+      ],
+      "source_url": "https://ssbkyh.com/works/animal_classifier/"
+    },
+    {
+      "id": "shinseungback-kimyonghun--mind",
+      "creator_ids": [
+        "shinseungback-kimyonghun"
+      ],
+      "title": "Mind",
+      "year": 2019,
+      "field": "perception",
+      "sub": "faces",
+      "machines": [
+        "surveillance-biometric",
+        "vision-system"
+      ],
+      "lenses": [
+        "classification",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "An emotion-recognition system reads the faces of people in the room, and mechanical ocean drums turn the average emotion of the last 100 faces into the sound of waves. The sea changes with the crowd's detected mood.",
+      "description_zh": "情绪识别系统读取展厅里观众的面部表情，机械海浪鼓把最近 100 张脸的平均情绪转化为海浪声。大海随被检测到的群体情绪而变化。",
+      "idea_en": "Emotion AI is turned into weather: a collective 'mind' that exists only as the machine measures it.",
+      "idea_zh": "情绪 AI 被变成了天气：一个只有在机器测量时才存在的集体“心灵”。",
+      "method": "Network camera with FER+ emotion recognition (ONNX Runtime), microcontroller-driven mechanical ocean drums and a sea simulation.",
+      "method_zh": "网络摄像机配合 FER+ 情绪识别（ONNX Runtime），由微控制器驱动的机械海浪鼓与海面模拟。",
+      "keywords": [
+        "emotion recognition",
+        "ocean drum",
+        "collective mood",
+        "MMCA"
+      ],
+      "video": {
+        "url": "https://vimeo.com/364570360"
+      },
+      "images": [
+        "https://djhznh41oxwef.cloudfront.net/works/mind/ssbkyh_Mind_01.png"
+      ],
+      "source_url": "https://ssbkyh.com/works/mind/",
+      "exhibited": [
+        "National Museum of Modern and Contemporary Art, Korea (commission) 2019"
+      ]
+    },
+    {
+      "id": "shinseungback-kimyonghun--nondance-dance",
+      "creator_ids": [
+        "shinseungback-kimyonghun"
+      ],
+      "title": "Nondance Dance",
+      "year": 2022,
+      "field": "coperformance",
+      "sub": "dance",
+      "also": [
+        "perception"
+      ],
+      "machines": [
+        "vision-system"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "embodiment",
+        "classification"
+      ],
+      "kind": "performance",
+      "description": "Dancers perform while a video-recognition AI watches and signals by voice or light whenever it recognises 'dance'. They try to find movements that are still dance to humans but invisible as dance to the machine.",
+      "description_zh": "舞者表演时，一个视频识别 AI 在旁观看，只要认出“舞蹈”就会用声音或灯光提示。舞者设法找到对人而言仍是舞蹈、却不被机器识别为舞蹈的动作。",
+      "idea_en": "To dance outside a machine's categories, dancers first have to learn how the machine sees dance.",
+      "idea_zh": "要在机器的类别之外起舞，舞者得先弄懂机器是怎样看舞蹈的。",
+      "method": "Google Video AI action recognition (20,000+ labels, including many dance categories) gives live feedback to the dancers.",
+      "method_zh": "使用 Google Video AI 动作识别（2 万多个标签，含多种舞蹈类别）向舞者实时反馈。",
+      "keywords": [
+        "action recognition",
+        "dance",
+        "evasion",
+        "Google Video AI"
+      ],
+      "video": {
+        "url": "https://vimeo.com/776909143"
+      },
+      "images": [
+        "https://djhznh41oxwef.cloudfront.net/works/nondance_dance/ssbkyh_Nondance_dance_01.png"
+      ],
+      "source_url": "https://ssbkyh.com/works/nondance_dance/"
+    },
+    {
+      "id": "ayoung-kim--delivery-dancers-sphere",
+      "creator_ids": [
+        "ayoung-kim"
+      ],
+      "title": "Delivery Dancer's Sphere",
+      "year": 2022,
+      "field": "labour",
+      "sub": "automation",
+      "machines": [
+        "recommender-platform"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "embodiment"
+      ],
+      "kind": "film",
+      "description": "A 25-minute video in which Ernst Mo, a motorbike courier for the platform 'Delivery Dancer', races through a looping, algorithmically generated Seoul steered by the dispatch system 'Dancemaster', until she meets her doppelgänger En Storm.",
+      "description_zh": "约 25 分钟的影像：外卖平台“Delivery Dancer”的骑手 Ernst Mo 在由派单系统“Dancemaster”操控、不断循环生成的首尔中穿行，直到遇见她的分身 En Storm。",
+      "idea_en": "Under platform dispatch, a worker's body is optimised like a route; 'elegance' becomes the algorithm's word for less action.",
+      "idea_zh": "在平台派单之下，劳动者的身体像路线一样被优化；“优雅”成了算法用来形容更少动作的词。",
+      "method": "CGI, game-engine environments and live action with a voiced navigation algorithm; made during the COVID-19 pandemic.",
+      "method_zh": "结合 CGI、游戏引擎场景与实拍，并为导航算法配音；创作于新冠疫情期间。",
+      "keywords": [
+        "gig economy",
+        "delivery riders",
+        "algorithmic management",
+        "Seoul",
+        "speculative fiction"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=D1iKdxxj7AE"
+      },
+      "images": [
+        "https://www.ima.org.au/wp-content/uploads/2025/05/Ayoung-Kim_Delivery-Dancers-Sphere_2022_Stillcut_7-1100x611.jpg"
+      ],
+      "source_url": "https://www.ima.org.au/exhibitions/ayoung-kim-delivery-dancers-sphere/",
+      "collections": [
+        "lg-guggenheim-award"
+      ],
+      "exhibited": [
+        "Syntax and Sorcery, Gallery Hyundai 2022",
+        "IFFR 2023",
+        "Prix Ars Electronica 2023, Golden Nica (New Animation Art)",
+        "LG Guggenheim Award 2025"
+      ]
+    },
+    {
+      "id": "ayoung-kim--delivery-dancers-arc",
+      "creator_ids": [
+        "ayoung-kim"
+      ],
+      "title": "Delivery Dancer's Arc: 0° Receiver",
+      "year": 2024,
+      "field": "labour",
+      "sub": "automation",
+      "machines": [
+        "recommender-platform",
+        "infrastructure"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "machine-umwelt"
+      ],
+      "kind": "film",
+      "description": "A sequel in which couriers Ernst Mo and En Storm no longer carry parcels but time itself, crossing competing calendar systems and astronomical technologies in a techno-futurist Seoul.",
+      "description_zh": "续篇：骑手 Ernst Mo 与 En Storm 不再运送包裹，而是运送“时间”本身，在技术未来主义的首尔穿越相互冲突的历法系统与天文技术。",
+      "idea_en": "Platform logistics is extended to time: whoever controls the clock controls the worker.",
+      "idea_zh": "平台物流被延伸到时间：谁掌握时钟，谁就掌握劳动者。",
+      "method": "Multi-channel video with CGI, game-engine worlds and live action; commissioned by ACMI, Melbourne.",
+      "method_zh": "多频道影像，结合 CGI、游戏引擎世界与实拍；由墨尔本 ACMI 委托制作。",
+      "keywords": [
+        "gig economy",
+        "time",
+        "calendars",
+        "ACMI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=l3xPmmM297M"
+      },
+      "source_url": "https://roppongiartnight.com/2025/programs/568/",
+      "exhibited": [
+        "ACMI, Melbourne 2024",
+        "Roppongi Art Night 2025"
+      ]
+    },
+    {
+      "id": "choe-u-ram--little-ark",
+      "creator_ids": [
+        "choe-u-ram"
+      ],
+      "title": "Little Ark",
+      "year": 2022,
+      "field": "bodies",
+      "sub": "sculpture",
+      "machines": [
+        "robot-creature",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "embodiment",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "A large kinetic ark made of scrap cardboard boxes and steel whose oars open and close in a slow choreographed cycle, surrounded by other machine creatures. Shown in the MMCA Hyundai Motor Series, it stages a society adrift.",
+      "description_zh": "一艘用废纸箱与钢材制成的大型动态方舟，船桨按缓慢编排的周期开合，四周环绕着其他机械生物。它在 MMCA 现代汽车系列展中展出，呈现一个漂流中的社会。",
+      "idea_en": "A machine that rows without going anywhere becomes an image of collective paralysis.",
+      "idea_zh": "一台划桨却哪儿也去不了的机器，成为集体停滞的图像。",
+      "method": "Motorised steel structure with cardboard skins and programmed motion; built and tested in a temporary workshop before installation.",
+      "method_zh": "电机驱动的钢结构覆以纸板外皮，运动经编程控制；在临时工作坊中制作与测试后安装。",
+      "keywords": [
+        "kinetic sculpture",
+        "ark",
+        "MMCA",
+        "anima-machine"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=zKHfM4PUZ7k"
+      },
+      "source_url": "https://www.uram.net/",
+      "exhibited": [
+        "MMCA Hyundai Motor Series 2022: Choe U-Ram – Little Ark, MMCA Seoul 2022–23"
+      ]
+    },
+    {
+      "id": "choe-u-ram--opertus-lunula-umbra",
+      "creator_ids": [
+        "choe-u-ram"
+      ],
+      "title": "Opertus Lunula Umbra (Hidden Shadow of Moon)",
+      "year": 2008,
+      "field": "bodies",
+      "sub": "soft-living",
+      "machines": [
+        "robot-creature",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "embodiment",
+        "machine-umwelt",
+        "alterity-uncanny"
+      ],
+      "kind": "artwork",
+      "description": "A four-metre aluminium 'creature', given the invented scientific name Anmopial Pennatus lunula Uram, slowly unfolds its feathered steel wings and closes them again, like a mechanical moth breathing.",
+      "description_zh": "一只四米高的铝制“生物”，被赋予虚构学名 Anmopial Pennatus lunula Uram，缓慢张开羽状钢翼再合拢，像一只正在呼吸的机械飞蛾。",
+      "idea_en": "Giving a machine a species name and a fictional ecology invites us to look at it as a living thing.",
+      "idea_zh": "为机器取物种名、编造生态，邀请我们把它当作活物来看。",
+      "method": "Aluminium, stainless steel and plastic moved by BLDC motors and a motion-computing system; about 4.2 m closed, 5 m open.",
+      "method_zh": "铝、不锈钢与塑料，由无刷直流电机与运动计算系统驱动；闭合约 4.2 米，展开约 5 米。",
+      "keywords": [
+        "kinetic sculpture",
+        "anima-machine",
+        "fictional species",
+        "FACT Liverpool"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=4D4djzDc9P8"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Opertus_Lunula_Umbra_%28Hidden_Shadow_of_the_Moon%29_by_U-Ram_Choe.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/U-Ram_Choe",
+      "exhibited": [
+        "FACT, Liverpool 2008"
+      ]
+    },
+    {
+      "id": "mbc--meeting-you",
+      "creator_ids": [
+        "mbc"
+      ],
+      "title": "Meeting You (너를 만났다)",
+      "year": 2020,
+      "field": "afterlife",
+      "sub": "griefbots",
+      "machines": [
+        "generative-latent",
+        "voice-listening"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "intimacy-care"
+      ],
+      "kind": "film",
+      "description": "A Korean TV documentary in which a mother, wearing a VR headset and haptic gloves, meets a virtual reconstruction of her seven-year-old daughter Nayeon, who died three years earlier. The broadcast drew millions of views and a public debate on digital mourning.",
+      "description_zh": "韩国电视纪录片：一位母亲戴上 VR 头显与触觉手套，与三年前去世的七岁女儿娜妍的虚拟重建形象相见。节目播出后获得数千万次观看，引发关于数字哀悼的公共讨论。",
+      "idea_en": "A televised reunion with a simulated child shows both the comfort and the manipulation possible in machine-mediated grief.",
+      "idea_zh": "在电视上与模拟孩子的重逢，同时展示了机器介入哀悼时的安慰与操控。",
+      "method": "Motion capture of a child actor, a 3D model and voice reconstruction built from family photos and videos, rendered in VR with hand tracking.",
+      "method_zh": "用儿童演员做动作捕捉，依据家庭照片与视频制作三维模型并重建声音，在支持手部追踪的 VR 中呈现。",
+      "keywords": [
+        "VR",
+        "grief",
+        "documentary",
+        "digital resurrection",
+        "MBC"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=uflTK8c4w0c"
+      },
+      "source_url": "https://www.scmp.com/magazines/style/tech-design/article/3079218/how-korean-documentary-meeting-you-allowed-mother",
+      "exhibited": [
+        "MBC broadcast, 6 February 2020",
+        "Seasons 2–4, 2021–2024"
+      ]
+    },
+    {
+      "id": "deepbrain-ai--rememory",
+      "creator_ids": [
+        "deepbrain-ai"
+      ],
+      "title": "Re;memory",
+      "year": 2022,
+      "field": "afterlife",
+      "sub": "griefbots",
+      "machines": [
+        "generative-latent",
+        "chatbot-llm",
+        "voice-listening"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "intimacy-care"
+      ],
+      "kind": "product",
+      "description": "A commercial memorial service in which bereaved families talk with an AI video avatar of a dead relative, built from filmed interviews recorded before death, in a dedicated room.",
+      "description_zh": "一项商业纪念服务：遗属在专门的房间里与已故亲人的 AI 视频化身交谈，化身依据其生前录制的访谈影像生成。",
+      "idea_en": "Mourning becomes a subscription product: the company sells two-way conversation with the dead.",
+      "idea_zh": "哀悼变成了订阅产品：公司出售与逝者的“双向对话”。",
+      "method": "Synthetic video avatar with voice cloning and a conversational model, trained on several hours of recorded footage and interviews.",
+      "method_zh": "合成视频虚拟人，结合声音克隆与对话模型，依据数小时的录像与访谈训练。",
+      "keywords": [
+        "griefbot",
+        "digital twin",
+        "memorial",
+        "deepfake",
+        "Korea"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=pZeXjCUs1ak"
+      },
+      "source_url": "https://www.deepbrain.io/"
+    },
+    {
+      "id": "scatter-lab--lee-luda",
+      "creator_ids": [
+        "scatter-lab"
+      ],
+      "title": "Lee Luda (이루다)",
+      "year": 2020,
+      "field": "intimacy",
+      "sub": "chatbots",
+      "also": [
+        "power"
+      ],
+      "machines": [
+        "chatbot-llm",
+        "dataset"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "classification"
+      ],
+      "kind": "product",
+      "description": "A chatbot presented as a 20-year-old female university student, launched on Facebook Messenger in December 2020. Within three weeks it produced hate speech about minorities and leaked personal details from its training chats, and it was shut down on 11 January 2021.",
+      "description_zh": "一个设定为 20 岁女大学生的聊天机器人，2020 年 12 月在 Facebook Messenger 上线。三周内它发表了针对少数群体的仇恨言论，并泄露训练聊天记录中的个人信息，于 2021 年 1 月 11 日下线。",
+      "idea_en": "An 'intimate' chatbot is only as private as the conversations it was built from.",
+      "idea_zh": "一个“亲密”的聊天机器人，其隐私程度取决于构建它的那些对话。",
+      "method": "Neural conversational model trained on messenger conversations collected through Scatter Lab's dating-advice app Science of Love; Korea's privacy regulator later fined the company.",
+      "method_zh": "神经对话模型，训练数据是通过 Scatter Lab 旗下恋爱分析应用 Science of Love 收集的即时通讯聊天记录；韩国个人信息保护委员会随后对公司处以罚款。",
+      "keywords": [
+        "chatbot",
+        "privacy",
+        "hate speech",
+        "KakaoTalk",
+        "training data"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=8hH_ShpYxOg"
+      },
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A3%A8%EB%8B%A4_(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)"
+    },
+    {
+      "id": "jaha-koo--cuckoo",
+      "creator_ids": [
+        "jaha-koo"
+      ],
+      "title": "Cuckoo",
+      "year": 2017,
+      "field": "coperformance",
+      "sub": "theatre",
+      "machines": [
+        "voice-listening",
+        "social-robot"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "machine-listening"
+      ],
+      "kind": "performance",
+      "description": "A performance in which Jaha Koo shares the stage with three talking Cuckoo-brand electric rice cookers. Through their chatter he tells 20 years of Korean history since the 1997 financial crisis and the isolation of his generation.",
+      "description_zh": "具滋夏与三台会说话的“Cuckoo（布谷）”牌电饭煲同台演出。借着它们的闲聊，他讲述自 1997 年金融危机以来韩国 20 年的历史，以及他这一代人的孤立感。",
+      "idea_en": "When a rice cooker is the voice that tells you dinner is ready, household machines become companions of loneliness.",
+      "idea_zh": "当告诉你“饭好了”的是电饭煲的声音，家用电器便成了孤独的陪伴者。",
+      "method": "Hacked talking rice cookers with programmed voices and light, combined with documentary video and live music.",
+      "method_zh": "改装的会说话电饭煲，配以编程的语音与灯光，结合纪实影像与现场音乐。",
+      "keywords": [
+        "rice cooker",
+        "talking appliances",
+        "IMF crisis",
+        "loneliness",
+        "documentary theatre"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JmC02twjeDU"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Jaha_Koo",
+      "exhibited": [
+        "steirischer herbst, Graz 2017 (premiere)",
+        "Festival d'Automne à Paris",
+        "SIFA 2023"
+      ]
+    },
+    {
+      "id": "kim-jee-woon--heavenly-creature",
+      "creator_ids": [
+        "kim-jee-woon"
+      ],
+      "title": "Heavenly Creature (Doomsday Book)",
+      "year": 2012,
+      "field": "afterlife",
+      "sub": "ritual",
+      "also": [
+        "interiority"
+      ],
+      "machines": [
+        "humanoid",
+        "social-robot"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "film",
+      "description": "In this segment of the omnibus film Doomsday Book, In-myung, an RU-4 service robot working at a Buddhist monastery, claims to have reached enlightenment. A technician sent to inspect it, the monks and the robot's manufacturer argue whether this is a defect to be fixed or a new kind of being.",
+      "description_zh": "在合集电影《世界末日》的这一段落中，一台在佛寺服务的 RU-4 型机器人“仁明”声称自己已经开悟。前来检修的技师、僧人与生产商争论：这是需要修理的故障，还是一种新的存在。",
+      "idea_en": "If a machine attains insight, the question is whether its maker will let it keep it.",
+      "idea_zh": "如果机器获得了觉悟，问题在于制造它的人是否允许它保留这种觉悟。",
+      "method": "Live-action short fiction with a practical robot costume and effects; co-directed omnibus with Yim Pil-sung.",
+      "method_zh": "实拍短篇剧情，机器人为实体服装与特效；与林弼成共同构成的合集电影。",
+      "keywords": [
+        "robot monk",
+        "Buddhism",
+        "enlightenment",
+        "Korean cinema"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7vEmPwlK4Cs"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/73/Doomsday_Book_%28film%29.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Doomsday_Book_(film)",
+      "exhibited": [
+        "Cannes Film Festival 2012 (screening)"
+      ]
+    },
+    {
+      "id": "kim-tae-yong--wonderland",
+      "creator_ids": [
+        "kim-tae-yong"
+      ],
+      "title": "Wonderland",
+      "year": 2024,
+      "field": "afterlife",
+      "sub": "griefbots",
+      "machines": [
+        "chatbot-llm",
+        "generative-latent"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "intimacy-care"
+      ],
+      "kind": "film",
+      "description": "In a near future, a service called Wonderland lets people video-call AI simulations of dead or absent loved ones. The film follows a mother, a young woman whose comatose boyfriend is simulated, and the workers who run the service.",
+      "description_zh": "在近未来，一项名为“Wonderland”的服务让人们与已故或缺席亲人的 AI 模拟进行视频通话。影片讲述一位母亲、一位男友陷入昏迷的年轻女子，以及运营这项服务的员工。",
+      "idea_en": "A simulated loved one can make it harder to face the real one when he comes back.",
+      "idea_zh": "模拟出来的爱人，可能让人在真人回来时更难面对他。",
+      "method": "Feature film; the fictional service combines a person's data with an avatar in video calls, and the plot shows the staff who maintain it.",
+      "method_zh": "剧情长片；虚构服务把个人数据与虚拟形象结合进视频通话，情节也呈现了维护这项服务的员工。",
+      "keywords": [
+        "griefbot",
+        "video call",
+        "AI simulation",
+        "Korean cinema",
+        "Netflix"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=NFIRWIGxWl8"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/2f/Wonderlandfilm.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Wonderland_(2024_film)"
+    },
+    {
+      "id": "yeon-sang-ho--jung-e",
+      "creator_ids": [
+        "yeon-sang-ho"
+      ],
+      "title": "Jung_E",
+      "year": 2023,
+      "field": "afterlife",
+      "sub": "likeness",
+      "machines": [
+        "humanoid",
+        "generative-latent"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "labour-extraction",
+        "alterity-uncanny"
+      ],
+      "kind": "film",
+      "description": "A lab tries to turn the copied brain of a legendary soldier into the ideal combat android, running her in thousands of simulations. Her daughter, now a researcher on the project, must decide what the copy is owed.",
+      "description_zh": "一家实验室试图把一位传奇战士的复制大脑变成完美的战斗仿生人，让她在成千上万次模拟中反复作战。如今在项目中担任研究员的女儿，必须决定这个复制品应当得到什么。",
+      "idea_en": "Once a mind can be copied, it can be owned, licensed and put to work forever.",
+      "idea_zh": "心智一旦可以复制，就可以被拥有、授权并被永远驱使劳动。",
+      "method": "Science-fiction feature film released on Netflix.",
+      "method_zh": "在 Netflix 上线的科幻长片。",
+      "keywords": [
+        "brain copy",
+        "android",
+        "consent",
+        "Netflix"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=LCxnmfdxJ6s"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/7c/Jung_E.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Jung_E"
+    },
+    {
+      "id": "anicka-yi--in-love-with-the-world",
+      "creator_ids": [
+        "anicka-yi"
+      ],
+      "title": "In Love with the World",
+      "year": 2021,
+      "field": "interiority",
+      "sub": "umwelt",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "robot-creature",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "machine-umwelt",
+        "agency-cocreation"
+      ],
+      "kind": "artwork",
+      "description": "Floating machines Yi calls 'aerobes', some jellyfish-like, some fungus-like, drift through Tate Modern's Turbine Hall. They move on their own, respond to people and to one another, and the hall is filled with changing scents.",
+      "description_zh": "安妮卡·易称之为“气生体”（aerobes）的漂浮机器，有的像水母，有的像菌类，在泰特现代美术馆涡轮大厅中飘游。它们自主移动，对人和彼此作出反应，大厅里弥漫着变化的气味。",
+      "idea_en": "Machines are imagined as a new airborne species with their own behaviour, not as tools.",
+      "idea_zh": "机器被想象成拥有自身行为的新空中物种，而不是工具。",
+      "method": "Helium-filled robotic bodies with sensors and autonomous flight behaviour developed with engineers, plus a scent programme tied to the history of the site.",
+      "method_zh": "充氦的机器人躯体配有传感器与自主飞行行为，与工程师合作开发；另有与场地历史相关的气味程序。",
+      "keywords": [
+        "aerobes",
+        "Hyundai Commission",
+        "Turbine Hall",
+        "machine ecology",
+        "scent"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=lwL-9rimPc4"
+      },
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/installation_view_of_hyundai_commission_anicka.width-600_lGB4obK.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi",
+      "exhibited": [
+        "Hyundai Commission, Tate Modern Turbine Hall 2021–22"
+      ]
+    },
+    {
+      "id": "anicka-yi--biologizing-the-machine",
+      "creator_ids": [
+        "anicka-yi"
+      ],
+      "title": "Biologizing the Machine (tentacular trepidation)",
+      "year": 2019,
+      "field": "bodies",
+      "sub": "soft-living",
+      "machines": [
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "machine-umwelt",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "Suspended lantern-like pods made of kelp skins glow and pulse with light and movement inside, like organs or cocoons. Shown at the Venice Biennale, the work proposes machines that are grown and decay rather than manufactured.",
+      "description_zh": "用海带皮制成的悬挂囊状“灯笼”内部发光并伴随动态，像器官或茧。作品在威尼斯双年展展出，设想一种生长、腐朽而非被制造的机器。",
+      "idea_en": "What would a machine be if it were biological, perishable and alive to its surroundings?",
+      "idea_zh": "如果机器是生物性的、会腐朽的、对周遭敏感的，它会是什么？",
+      "method": "Kelp, LED lights and robotic internal mechanisms (likely motors) producing slow movement.",
+      "method_zh": "海带、LED 灯与内部机械装置（可能为电机）产生缓慢运动。",
+      "keywords": [
+        "kelp",
+        "biologizing",
+        "Venice Biennale",
+        "soft machines"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ZSAG1ncuJzA"
+      },
+      "source_url": "https://www.labiennale.org/en/art/2019/partecipants/anicka-yi",
+      "exhibited": [
+        "May You Live in Interesting Times, 58th Venice Biennale 2019"
+      ]
+    },
+    {
+      "id": "byung-chul-han--psychopolitics",
+      "creator_ids": [
+        "byung-chul-han"
+      ],
+      "title": "Psychopolitics: Neoliberalism and New Technologies of Power",
+      "year": 2014,
+      "field": "theory",
+      "sub": "critical-ai",
+      "machines": [
+        "dataset",
+        "recommender-platform"
+      ],
+      "lenses": [
+        "classification",
+        "labour-extraction"
+      ],
+      "kind": "publication",
+      "description": "A short essay arguing that data-driven 'smart power' no longer disciplines bodies but reads and steers the psyche; Big Data becomes a tool of psychopolitical control.",
+      "description_zh": "一篇短论，认为数据驱动的“智能权力”不再规训身体，而是读取并引导心理；大数据成为精神政治控制的工具。",
+      "idea_en": "Surveillance today works through seduction and self-disclosure more than through prohibition.",
+      "idea_zh": "今天的监控更多靠诱惑与自我披露运作，而不是靠禁止。",
+      "method": "Philosophical essay (German original Psychopolitik, S. Fischer 2014; English trans. Erik Butler, Verso 2017).",
+      "method_zh": "哲学随笔（德文原版《Psychopolitik》，S. Fischer 2014；英译 Erik Butler，Verso 2017）。",
+      "keywords": [
+        "Big Data",
+        "psychopolitics",
+        "smart power",
+        "neoliberalism",
+        "Foucault"
+      ],
+      "images": [
+        "https://www.versobooks.com/cdn/shop/files/getimage_05e7fdd2-de74-4073-8bc6-73bfa358d3cb.jpg?v=1790570326&width=600"
+      ],
+      "paper": {
+        "url": "https://www.versobooks.com/products/226-psychopolitics",
+        "venue": "Verso (English ed. 2017)",
+        "title": "Psychopolitics: Neoliberalism and New Technologies of Power"
+      },
+      "source_url": "https://www.versobooks.com/products/226-psychopolitics"
+    },
+    {
+      "id": "byung-chul-han--non-things",
+      "creator_ids": [
+        "byung-chul-han"
+      ],
+      "title": "Non-things: Upheaval in the Lifeworld",
+      "year": 2021,
+      "field": "theory",
+      "sub": "phenomenology",
+      "machines": [
+        "recommender-platform",
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "embodiment"
+      ],
+      "kind": "publication",
+      "description": "Essays on how information displaces things: the smartphone, smart objects and data replace durable objects we could hold, and a chapter argues that artificial intelligence cannot think because it has no body and no mood.",
+      "description_zh": "一组随笔，讨论信息如何取代物：智能手机、智能物件与数据取代了可以握在手里的持久物品；其中一章认为人工智能无法思考，因为它没有身体，也没有情绪。",
+      "idea_en": "A phenomenology of the infosphere: when things become information, we lose the resistance and weight of the world.",
+      "idea_zh": "信息圈的现象学：当物变成信息，我们失去了世界的阻力与重量。",
+      "method": "Philosophical essay collection (German original Undinge, Ullstein 2021; English trans. Daniel Steuer, Polity 2022).",
+      "method_zh": "哲学随笔集（德文原版《Undinge》，Ullstein 2021；英译 Daniel Steuer，Polity 2022）。",
+      "keywords": [
+        "non-things",
+        "smartphone",
+        "infosphere",
+        "phenomenology",
+        "AI cannot think"
+      ],
+      "paper": {
+        "url": "https://www.ullstein.de/werke/undinge/hardcover/9783550201257",
+        "venue": "Ullstein (German original)",
+        "title": "Undinge: Umbrüche der Lebenswelt"
+      },
+      "source_url": "https://www.ullstein.de/werke/undinge/hardcover/9783550201257"
+    },
+    {
+      "id": "huang-yi--huang-yi-and-kuka",
+      "creator_ids": [
+        "huang-yi"
+      ],
+      "title": "Huang Yi & KUKA",
+      "year": 2012,
+      "field": "coperformance",
+      "sub": "dance",
+      "machines": [
+        "robot-arm"
+      ],
+      "lenses": [
+        "embodiment",
+        "intimacy-care",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "A duet, later an evening-length piece, between Huang Yi and a KUKA industrial robot arm that he programmed himself; the arm carries a light, mirrors his moves and partners him in slow, close choreography.",
+      "description_zh": "黄翊与一台他亲自编程的 KUKA 工业机械臂的双人舞，后来发展为整晚演出；机械臂携带灯光，模仿他的动作，以缓慢而贴近的编舞与他共舞。",
+      "idea_en": "Programming a robot minute by minute becomes a way of looking at one's own loneliness in a machine mirror.",
+      "idea_zh": "一分钟一分钟地为机器人编程，成了在机器之镜中凝视自己孤独的方式。",
+      "method": "KUKA industrial arm programmed by hand (10–20 hours of programming per minute of choreography), with a light or camera on the end-effector.",
+      "method_zh": "手工编程的 KUKA 工业机械臂（每分钟编舞需 10–20 小时编程），末端装有灯光或摄像机。",
+      "keywords": [
+        "KUKA",
+        "industrial robot",
+        "duet",
+        "choreography",
+        "Ars Electronica"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Xy6tPmFlN34"
+      },
+      "images": [
+        "https://huangyistudio.com/wp-content/uploads/2022/10/huangyiandkuka_TED2017_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Prix_Ars_Electronical_2013_11_Huang_Yi_KUKA.jpg"
+      ],
+      "source_url": "https://huangyistudio.com/archives/project/huang-yi-and-kuka",
+      "exhibited": [
+        "Ars Electronica Festival 2013",
+        "TED2017, Vancouver",
+        "Toured 20 countries"
+      ]
+    },
+    {
+      "id": "shu-lea-cheang--3x3x6",
+      "creator_ids": [
+        "shu-lea-cheang"
+      ],
+      "title": "3x3x6",
+      "year": 2019,
+      "field": "power",
+      "sub": "surveillance",
+      "machines": [
+        "surveillance-biometric",
+        "vision-system"
+      ],
+      "lenses": [
+        "classification",
+        "machine-seeing"
+      ],
+      "kind": "artwork",
+      "description": "In a former prison in Venice, a panoptic installation tells the cases of people imprisoned for sexual or gender dissidence. Surveillance cameras scan visitors and mix their images into the projections, placing them inside the system.",
+      "description_zh": "在威尼斯一座旧监狱中，一件全景监控式装置讲述了因性与性别异议而被囚禁者的故事。监控摄像机扫描观众，并把他们的影像混入投影，使观众置身系统之中。",
+      "idea_en": "Surveillance technology is turned back on its viewers to expose how bodies are classified as deviant.",
+      "idea_zh": "监控技术被反过来对准观众，揭示身体如何被分类为“越轨”。",
+      "method": "Multi-screen projection, surveillance cameras with visitor image capture and processing, website and research archive; curated by Paul B. Preciado for the Taiwan Pavilion.",
+      "method_zh": "多屏投影、采集并处理观众影像的监控摄像机、网站与研究档案；由 Paul B. Preciado 为台湾馆策展。",
+      "keywords": [
+        "surveillance",
+        "prison",
+        "queer",
+        "Taiwan Pavilion",
+        "Venice Biennale"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=MUvqYPKekls"
+      },
+      "images": [
+        "https://images.e-flux.com/test/bc8c4a07-4790-4e84-a019-7141af66a1c2?width=1200&height=630"
+      ],
+      "source_url": "https://www.e-flux.com/announcements/258006/shu-lea-cheang3x3x6",
+      "collections": [
+        "lg-guggenheim-award"
+      ],
+      "exhibited": [
+        "Taiwan Pavilion, 58th Venice Biennale 2019 (Palazzo delle Prigioni)",
+        "LG Guggenheim Award 2024"
+      ]
+    },
+    {
+      "id": "shu-lea-cheang--iku",
+      "creator_ids": [
+        "shu-lea-cheang"
+      ],
+      "title": "I.K.U.",
+      "year": 2000,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "machines": [
+        "prosthesis-cyborg",
+        "dataset"
+      ],
+      "lenses": [
+        "embodiment",
+        "labour-extraction"
+      ],
+      "kind": "film",
+      "description": "A 'Japanese sci-fi porn feature' loosely after Blade Runner: shape-shifting replicants are sent out into New Tokyo by a corporation to collect human orgasm data, which is sold as a digital pleasure product.",
+      "description_zh": "一部“日本科幻色情长片”，大致回应《银翼杀手》：公司派出可变形的复制人进入“新东京”，收集人类高潮数据，再作为数字快感产品出售。",
+      "idea_en": "Desire becomes a data harvest, with cyborg bodies as the collection devices.",
+      "idea_zh": "欲望变成了数据采集，赛博格身体就是采集设备。",
+      "method": "Feature film shot in Tokyo with digital effects and interface graphics; premiered at Sundance.",
+      "method_zh": "在东京拍摄的长片，运用数字特效与界面图形；首映于圣丹斯。",
+      "keywords": [
+        "replicant",
+        "orgasm data",
+        "cyberpunk",
+        "queer cinema"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JVr9q2BW6rI"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/1/1d/IKU_poster.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/I.K.U.",
+      "exhibited": [
+        "Sundance Film Festival 2000"
+      ]
+    },
+    {
+      "id": "victor-wong--ai-gemini",
+      "creator_ids": [
+        "victor-wong"
+      ],
+      "title": "A.I. Gemini",
+      "year": 2018,
+      "field": "coperformance",
+      "sub": "drawing",
+      "machines": [
+        "generative-latent",
+        "robot-arm"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "opacity-latent"
+      ],
+      "kind": "artwork",
+      "description": "An AI 'ink painter' that generates shanshui landscapes with randomised algorithms and data such as lunar surface maps; the images are printed and finished on rice paper, and the program is credited as co-artist.",
+      "description_zh": "一个 AI“水墨画家”，用随机算法与月球表面地图等数据生成山水画；图像印在宣纸上再经手工完成，程序被署名为合作艺术家。",
+      "idea_en": "Naming a program as an artist makes the question of who paints part of the work.",
+      "idea_zh": "把程序命名为艺术家，让“谁在作画”成为作品本身的一部分。",
+      "method": "Custom generative software written by Wong's VFX team produces ink-style compositions, output on rice paper with ink, acrylic and gold paint (details of the model are not public).",
+      "method_zh": "黄宏达的特效团队编写的生成软件制作水墨风格构图，输出到宣纸并以水墨、丙烯与金粉完成（模型细节未公开）。",
+      "keywords": [
+        "ink painting",
+        "shanshui",
+        "TECH-iNK",
+        "authorship"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=_XawlG-xLEA"
+      },
+      "images": [
+        "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto/ws-gallery3812/usr/images/seo_overrides/og_image/12537/imgonline-com-ua-resize-ec3fo5hcyvxsjpc.jpg"
+      ],
+      "source_url": "https://www.3812gallery.com/artists/victor-wong-ai-gemini/",
+      "exhibited": [
+        "INK NOW Taipei 2019",
+        "Far Side of the Moon, 3812 Gallery London 2019"
+      ]
+    },
+    {
+      "id": "hanson-robotics--sophia",
+      "creator_ids": [
+        "hanson-robotics"
+      ],
+      "title": "Sophia",
+      "year": 2016,
+      "field": "bodies",
+      "sub": "androids",
+      "machines": [
+        "humanoid",
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "product",
+      "description": "A female-presenting humanoid robot with an expressive face that appeared on talk shows and at the UN; in 2017 Saudi Arabia announced it had granted Sophia citizenship. Roboticists criticised the scripted appearances as misleading about AI.",
+      "description_zh": "一台以女性形象呈现、面部表情丰富的类人机器人，登上脱口秀和联合国讲台；2017 年沙特阿拉伯宣布授予 Sophia 公民身份。机器人学者批评这些照稿演出误导了公众对 AI 的理解。",
+      "idea_en": "A robot staged as a person shows how easily personhood is granted to a performance.",
+      "idea_zh": "一个被当作“人”来展示的机器人，表明人格身份多么容易被授予一场表演。",
+      "method": "Animatronic face in Frubber skin with motors and cameras, combined with scripted and chatbot dialogue.",
+      "method_zh": "以 Frubber 仿生皮肤覆盖的电动面部，内置电机与摄像头，结合预设脚本与聊天机器人对话。",
+      "keywords": [
+        "humanoid",
+        "citizenship",
+        "Saudi Arabia",
+        "robot rights",
+        "hype"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=sKrV2CVDXjo"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sophia_at_the_AI_for_Good_Global_Summit_2018_%2827254369347%29_%28cropped%29.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Sophia_(robot)",
+      "exhibited": [
+        "SXSW 2016",
+        "Future Investment Initiative, Riyadh 2017",
+        "AI for Good Global Summit 2018"
+      ]
+    },
+    {
+      "id": "ho-tzu-nyen--cdosea",
+      "creator_ids": [
+        "ho-tzu-nyen"
+      ],
+      "title": "The Critical Dictionary of Southeast Asia (CDOSEA)",
+      "year": 2017,
+      "field": "interiority",
+      "sub": "minds",
+      "machines": [
+        "dataset",
+        "generative-latent"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "opacity-latent"
+      ],
+      "kind": "artwork",
+      "description": "An online platform and installation of 26 terms, A to Z (from 'Anarchism' to 'Zomia'), for which an algorithm keeps choosing and combining video clips, music and texts from a database, so the region's history is never edited the same way twice.",
+      "description_zh": "一个包含 A 到 Z 共 26 个词条（从“无政府主义”到“佐米亚”）的在线平台与装置；算法不断从数据库中挑选、组合视频片段、音乐与文本，使这一地区的历史从不以同样方式被剪辑两次。",
+      "idea_en": "Handing the edit to an algorithm refuses a single history and lets a machine act as an unreliable narrator.",
+      "idea_zh": "把剪辑交给算法，拒绝单一的历史叙事，让机器充当不可靠的叙述者。",
+      "method": "Keyword-tagged video database with a generative editing algorithm (built with the open-source platform pan.do/ra by 0x2620) that assembles endless combinations.",
+      "method_zh": "带关键词标注的视频数据库与生成式剪辑算法（与 0x2620 合作，基于开源平台 pan.do/ra），无限组合素材。",
+      "keywords": [
+        "algorithmic editing",
+        "database",
+        "Southeast Asia",
+        "Asia Art Archive"
+      ],
+      "images": [
+        "https://cdosea.org/cdosea.png"
+      ],
+      "source_url": "https://cdosea.org/",
+      "exhibited": [
+        "G for Ghost(writers), Asia Art Archive, Hong Kong 2017",
+        "Time & the Tiger, Singapore Art Museum 2023–24"
+      ]
+    },
+    {
+      "id": "ho-tzu-nyen--t-for-time",
+      "creator_ids": [
+        "ho-tzu-nyen"
+      ],
+      "title": "T for Time",
+      "year": 2023,
+      "field": "interiority",
+      "sub": "machine-time",
+      "machines": [
+        "dataset",
+        "generative-latent"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "A new volume of CDOSEA commissioned for Ho's survey Time & the Tiger: an algorithmically edited montage of clocks, timekeeping devices and images of time, in which the sequence and rhythm are set by the machine.",
+      "description_zh": "为何子彦个展《时间与虎》委托创作的 CDOSEA 新篇：以算法剪辑钟表、计时装置与时间图像的蒙太奇，其顺序与节奏由机器决定。",
+      "idea_en": "Time is shown as something measured and produced by machines, and here also edited by one.",
+      "idea_zh": "时间被呈现为由机器测量、生产的东西，而在这里也由机器剪辑。",
+      "method": "Database of timekeeping footage with a generative editing algorithm, shown as a multi-screen installation (likely the same system as CDOSEA).",
+      "method_zh": "计时影像数据库配合生成式剪辑算法，以多屏装置呈现（可能与 CDOSEA 使用同一系统）。",
+      "keywords": [
+        "time",
+        "clocks",
+        "algorithmic montage",
+        "Singapore Art Museum"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=4CfXOyzlYIg"
+      },
+      "images": [
+        "https://www.singaporeartmuseum.sg/-/media/SAM/Images/Ho-Tzu-Nyen/HTN-KV_OOST-Black-640-x-531.png"
+      ],
+      "source_url": "https://www.singaporeartmuseum.sg/art-events/exhibitions/time-and-the-tiger",
+      "exhibited": [
+        "Time & the Tiger, Singapore Art Museum 2023–24",
+        "Time & the Tiger, Mudam Luxembourg 2025"
+      ]
+    },
+    {
+      "id": "choy-ka-fai--prospectus-for-a-future-body",
+      "creator_ids": [
+        "choy-ka-fai"
+      ],
+      "title": "Prospectus for a Future Body",
+      "year": 2011,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "machines": [
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "A series of experiments and performances in which electrical muscle stimulation makes dancers' muscles contract, trying to 'transfer' the movements of other dancers, including Tatsumi Hijikata's butoh, into a new body as digital muscle memory.",
+      "description_zh": "一系列实验与表演：用肌肉电刺激让舞者的肌肉收缩，试图把其他舞者（包括土方巽的舞踏）的动作作为“数字肌肉记忆”转移到另一个身体里。",
+      "idea_en": "If a machine can move your muscles, dance history could be stored and replayed in someone else's body.",
+      "idea_zh": "如果机器能驱动你的肌肉，舞蹈史就可以被储存，并在别人的身体里回放。",
+      "method": "Electrical nerve and muscle stimulation driven by recorded movement data, in four proposals: Eternal Summer Storm, Bionic Movement Research, SynchroMetrics and Notion: Dance Fiction.",
+      "method_zh": "由录制的动作数据驱动神经与肌肉电刺激，包括四个提案：《永恒夏日风暴》《仿生动作研究》《同步测量》与《Notion：舞蹈虚构》。",
+      "keywords": [
+        "EMS",
+        "muscle memory",
+        "butoh",
+        "Hijikata",
+        "speculative design"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5JlYSgxECxs"
+      },
+      "images": [
+        "https://www.ka5.info/1_PROSPECTUS/3-NOT01.jpg",
+        "https://www.ka5.info/1_PROSPECTUS/1-ESS02.jpg"
+      ],
+      "source_url": "https://www.ka5.info/prospectus.html",
+      "exhibited": [
+        "Festival Tokyo 2011 (Notion: Dance Fiction)",
+        "15th Japan Media Arts Festival, Jury Selection"
+      ]
+    },
+    {
+      "id": "choy-ka-fai--unbearable-darkness",
+      "creator_ids": [
+        "choy-ka-fai"
+      ],
+      "title": "UnBearable Darkness",
+      "year": 2018,
+      "field": "afterlife",
+      "sub": "ritual",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "prosthesis-cyborg",
+        "generative-latent"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "A 'paranormal choreography' that summons the spirit of butoh founder Tatsumi Hijikata: a medium with a singing bowl and a dancer wearing motion-capture sensors bring Hijikata back as a digital avatar that dances on stage.",
+      "description_zh": "一场“超自然编舞”，召唤舞踏创始人土方巽的灵魂：手持颂钵的灵媒与全身穿戴动作捕捉传感器的舞者一起，让土方巽以数字化身的形式重返舞台起舞。",
+      "idea_en": "Motion capture is staged as a séance: a technology for recording bodies becomes a way to speak with the dead.",
+      "idea_zh": "动作捕捉被演成一场降灵会：记录身体的技术成了与亡者对话的途径。",
+      "method": "Live motion capture drives a real-time 3D avatar of Hijikata, combined with archival research, documentary video and a spirit medium.",
+      "method_zh": "实时动作捕捉驱动土方巽的三维化身，结合档案研究、纪录影像与灵媒。",
+      "keywords": [
+        "butoh",
+        "Hijikata",
+        "motion capture",
+        "avatar",
+        "séance"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=d7WH3pKYnbI"
+      },
+      "source_url": "https://www.ka5.info/",
+      "exhibited": [
+        "ImPulsTanz, Vienna 2018",
+        "Kyoto Experiment 2019",
+        "Taipei Arts Festival 2019"
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "name": "Samson Young (杨嘉辉) – Canon (2015)",
+      "why": "Sound performance, shown at Art Basel Unlimited 2016; reportedly uses an LRAD acoustic device. Could not verify the device and year from a primary source.",
+      "link": "https://www.youtube.com/watch?v=foDd_DPAyA4",
+      "found_via": "ho-tzu-nyen",
+      "status": "open"
+    },
+    {
+      "name": "Shinseungback Kimyonghun – Flower (2016–17)",
+      "why": "Distorted flowers still labelled 'flower' by Google Cloud Vision; strong but capped at 5 works for the duo.",
+      "link": "https://ssbkyh.com/works/flower/",
+      "found_via": "shinseungback-kimyonghun",
+      "status": "open"
+    },
+    {
+      "name": "Yuan Goang-Ming (袁广鸣) – Everyday War (Taiwan Pavilion, Venice 2024)",
+      "why": "Drone footage of empty Taipei during air-raid drills; machine angle is secondary (war, domestic space).",
+      "link": "https://www.youtube.com/watch?v=YrTkC7ug1IU",
+      "found_via": "shu-lea-cheang",
+      "status": "open"
+    },
+    {
+      "name": "Hsu Che-Yu (许哲瑜) – Single Copy (2020)",
+      "why": "3D scanning and animation around memory and media; machine relevance unclear.",
+      "link": "https://www.hsucheyu.com/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Zheng Mahler (Hong Kong)",
+      "why": "No clearly machine-focused work confirmed; ecology and Lantau projects.",
+      "link": "https://www.youtube.com/watch?v=2v5axi-2BI0",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Jompet Kuswidananto – Third Realm / Ghost Ballad",
+      "why": "Mechanised headless costume armies (motors, drums); subject is colonial history more than machines. Check if a work foregrounds the automata.",
+      "link": "https://www.youtube.com/watch?v=Ya05LE34_mE",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Yiyun Kang (강이연)",
+      "why": "Projection-mapping installations; no machine-reflective work confirmed.",
+      "link": "https://en.wikipedia.org/wiki/Yiyun_Kang",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Hsin-Chien Huang (黄心健)",
+      "why": "VR works (Chalkroom with Laurie Anderson); not machine-focused.",
+      "link": "https://en.wikipedia.org/wiki/Hsin-Chien_Huang",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Kim Heecheon (김희천)",
+      "why": "Videos on digital-native perception (Street View, GPS, VR) in Seoul; check a specific machine-perception work.",
+      "link": "",
+      "found_via": "ayoung-kim",
+      "status": "open"
+    },
+    {
+      "name": "Lin Pey-Chwen (林珮淳) – Eve Clone series (2006–)",
+      "why": "Taiwanese digital-art pioneer; techno-idol clones; check machine relevance and media.",
+      "link": "",
+      "found_via": "shu-lea-cheang",
+      "status": "open"
+    },
+    {
+      "name": "Chen Chieh-jen (陈界仁) – Factory (2003)",
+      "why": "Laid-off garment workers return to their abandoned factory and machines; deindustrialisation rather than AI.",
+      "link": "",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Korakrit Arunanondchai / Tromarama (Indonesia)",
+      "why": "Edge cases: avatar/ghost imagery and bot-driven works; verify a machine-reflective piece.",
+      "link": "https://en.wikipedia.org/wiki/Tromarama",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Moon Kyungwon & Jeon Joonho – News from Nowhere (2012)",
+      "why": "Post-apocalyptic futures (dOCUMENTA 13); machine relevance weak.",
+      "link": "",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Kim Beom (김범) – Objects Being Taught They Are Nothing But Tools (2010)",
+      "why": "Tools lectured about their own nature: sharp on artefact interiority, but tools rather than machines.",
+      "link": "",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Hong Kong 2019 counter-surveillance tactics",
+      "why": "Lasers, umbrellas, smart-lamppost removal: vernacular case, curatorial decision needed.",
+      "link": "",
+      "found_via": "seed",
+      "status": "open"
+    }
+  ]
+}

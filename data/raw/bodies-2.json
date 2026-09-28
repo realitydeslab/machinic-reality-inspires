@@ -1,0 +1,2933 @@
+{
+ "batch": "bodies",
+ "creators": [
+  {
+   "id": "tom-shannon",
+   "name": "Tom Shannon",
+   "kind": "person",
+   "role": "Artist and inventor",
+   "based": "New York, US",
+   "bio": "American artist (born 1947) who, as a young artist in 1966, built Squat, a robot controlled by a living plant.",
+   "why": "Squat is one of the first plant–machine hybrids in art.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家、发明家",
+   "bio_zh": "美国艺术家（1947 年生），1966 年还是年轻艺术家时就做出了由活植物控制的机器人 Squat。",
+   "why_zh": "Squat 是艺术史上最早的植物—机器混合体之一。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-breer",
+   "name": "Robert Breer",
+   "kind": "person",
+   "role": "Experimental filmmaker and kinetic sculptor",
+   "based": "New York, US",
+   "bio": "American experimental filmmaker and sculptor (1926–2011) who made slowly creeping motorised 'Floats' from the mid-1960s.",
+   "why": "His Floats make a machine's slowness and blind bumping into the whole experience.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "实验电影人、动态雕塑家",
+   "bio_zh": "美国实验电影人和雕塑家（1926–2011），20 世纪 60 年代中期起做出缓慢爬行的电动“漂浮物”。",
+   "why_zh": "他的漂浮物把机器的缓慢与盲目碰撞本身变成全部体验。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "jean-tinguely"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "simon-penny",
+   "name": "Simon Penny",
+   "kind": "person",
+   "role": "Artist and theorist of embodied interaction; professor, UC Irvine",
+   "based": "Irvine, US",
+   "bio": "Australian artist and theorist (born 1955) whose autonomous robots and interactive environments probe embodiment; author of Making Sense (2017).",
+   "why": "Petit Mal is a benchmark for a robot whose only content is its behaviour.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://simonpenny.net/"
+   },
+   "role_zh": "艺术家、具身交互理论家；加州大学尔湾分校教授",
+   "bio_zh": "澳大利亚艺术家与理论家（1955 年生），用自主机器人和交互环境探讨具身性；著有 Making Sense（2017）。",
+   "why_zh": "Petit Mal 是“行为即全部内容”的机器人作品的标杆。",
+   "based_zh": "尔湾，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ken-rinaldo",
+   "name": "Ken Rinaldo",
+   "kind": "person",
+   "role": "Artist; professor emeritus of art and technology, The Ohio State University",
+   "based": "Columbus, US",
+   "bio": "American artist who has built interspecies robotic installations since the late 1980s, in which fish, insects and bacteria steer or switch machines.",
+   "why": "One of the first artists to hand the controls of a robot to an animal, and to build robot groups with a collective mood.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.kenrinaldo.com/"
+   },
+   "role_zh": "艺术家；俄亥俄州立大学艺术与技术荣休教授",
+   "bio_zh": "美国艺术家，自 20 世纪 80 年代末起创作跨物种机器人装置，让鱼、昆虫和细菌来驾驶或开关机器。",
+   "why_zh": "最早把机器人控制权交给动物、并打造具有集体情绪的机器人群体的艺术家之一。",
+   "based_zh": "哥伦布，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chico-macmurtrie",
+   "name": "Chico MacMurtrie",
+   "kind": "person",
+   "role": "Artist; founder of Amorphic Robot Works",
+   "based": "Brooklyn, US",
+   "bio": "American artist (born 1961) who with Amorphic Robot Works builds anthropomorphic, musical and inflatable robotic sculptures.",
+   "why": "His pneumatic robots breathe and unfold like organisms rather than march like machines.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "http://www.amorphicrobotworks.org/"
+   },
+   "role_zh": "艺术家；Amorphic Robot Works 创始人",
+   "bio_zh": "美国艺术家（1961 年生），与 Amorphic Robot Works 一起制作拟人的、会奏乐的和充气式机器人雕塑。",
+   "why_zh": "他的气动机器人像生物一样呼吸、舒展，而不像机器那样行进。",
+   "based_zh": "布鲁克林，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mariela-yeregui",
+   "name": "Mariela Yeregui",
+   "kind": "person",
+   "role": "Artist; professor, Universidad Nacional de Tres de Febrero",
+   "based": "Buenos Aires, AR",
+   "bio": "Argentine artist who makes robotic and electronic installations about distance, contact and fragility.",
+   "why": "Her robots make social distance a machine behaviour, from a Latin American practice.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://marielayeregui.com/"
+   },
+   "role_zh": "艺术家；阿根廷国立二月三日大学教授",
+   "bio_zh": "阿根廷艺术家，创作关于距离、接触与脆弱的机器人和电子装置。",
+   "why_zh": "她的机器人把社交距离变成一种机器行为，来自拉丁美洲的实践。",
+   "based_zh": "布宜诺斯艾利斯，阿根廷",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leandro-nunez",
+   "name": "Leandro Núñez",
+   "kind": "person",
+   "role": "Artist (Leo Núñez)",
+   "based": "Buenos Aires, AR",
+   "bio": "Argentine artist working with robotics, artificial life and generative systems.",
+   "why": "Propagaciones turns a cellular automaton into a population of small robots.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.leonunez.com.ar/"
+   },
+   "role_zh": "艺术家（Leo Núñez）",
+   "bio_zh": "阿根廷艺术家，创作涉及机器人、人工生命与生成系统。",
+   "why_zh": "Propagaciones 把元胞自动机变成一群小机器人。",
+   "based_zh": "布宜诺斯艾利斯，阿根廷",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paula-gaetano-adi",
+   "name": "Paula Gaetano Adi",
+   "kind": "person",
+   "role": "Artist; professor, Rhode Island School of Design",
+   "based": "Providence, US / Argentina",
+   "bio": "Argentine artist who builds robots about 'artificial corporeality' and Andean cosmotechnics rather than artificial intelligence.",
+   "why": "Her robots are anchored in Latin American bodies, landscapes and knowledge.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.paulagaetanoadi.com/"
+   },
+   "role_zh": "艺术家；罗德岛设计学院教授",
+   "bio_zh": "阿根廷艺术家，她的机器人关注“人工身体性”和安第斯宇宙技术，而不是人工智能。",
+   "why_zh": "她的机器人扎根于拉丁美洲的身体、地景与知识。",
+   "based_zh": "普罗维登斯，美国／阿根廷",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ralf-baecker",
+   "name": "Ralf Baecker",
+   "kind": "person",
+   "role": "Media artist; professor, University of the Arts Bremen",
+   "based": "Berlin, DE",
+   "bio": "German artist (born 1977) who builds large mechanical models of computation, perception and neural networks.",
+   "why": "He opens the black box by rebuilding computation from strings, crystals and motors.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://rlfbckr.io/"
+   },
+   "role_zh": "媒体艺术家；不来梅艺术大学教授",
+   "bio_zh": "德国艺术家（1977 年生），用大型机械装置来模拟计算、感知与神经网络。",
+   "why_zh": "他用绳子、晶体和电机重建计算，把黑箱打开给人看。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julius-popp",
+   "name": "Julius Popp",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Leipzig, DE",
+   "bio": "German artist (born 1973) who builds machines about information and self-organisation, best known for bit.fall.",
+   "why": "bit.fall shows the news stream as a machine that prints words in falling water.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "德国艺术家（1973 年生），创作关于信息与自组织的机器，最知名的是 bit.fall。",
+   "why_zh": "bit.fall 把新闻流变成一台用落水“打印”单词的机器。",
+   "based_zh": "莱比锡，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cod-act",
+   "name": "Cod.Act",
+   "kind": "studio",
+   "role": "Duo of André and Michel Décosterd (composer and architect)",
+   "based": "La Chaux-de-Fonds, CH",
+   "bio": "Swiss duo that builds sound machines whose chaotic movement produces their music; winners of the Swiss Grand Award for Music 2019.",
+   "why": "Their machines writhe like animals, making sound the trace of a body.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://codact.ch/"
+   },
+   "role_zh": "André 与 Michel Décosterd 兄弟二人组（作曲家与建筑师）",
+   "bio_zh": "瑞士二人组，制作以混沌运动产生音乐的声音机器；2019 年获瑞士音乐大奖。",
+   "why_zh": "他们的机器像动物一样扭动，让声音成为身体的痕迹。",
+   "based_zh": "拉绍德封，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zimoun",
+   "name": "Zimoun",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Bern, CH",
+   "bio": "Swiss artist (born 1977) who builds large installations of hundreds of small DC motors striking cardboard, wire and cotton.",
+   "why": "His works make mass machine movement sound like weather or insects.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.zimoun.net/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "瑞士艺术家（1977 年生），用数百个小直流电机敲击纸板、铁丝和棉球，搭建大型装置。",
+   "why_zh": "他的作品让大量机器的动作听起来像天气或昆虫。",
+   "based_zh": "伯尔尼，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "random-international",
+   "name": "Random International",
+   "kind": "studio",
+   "role": "Art collective founded by Hannes Koch and Florian Ortkrass",
+   "based": "London, UK / Berlin, Germany",
+   "bio": "Studio making installations about behaviour and machines.",
+   "why": "Rain Room lets people walk through rain without getting wet.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.random-international.com/"
+   },
+   "role_zh": "由 Hannes Koch 与 Florian Ortkrass 创立的艺术团体",
+   "bio_zh": "创作关于行为与机器的装置的工作室。",
+   "why_zh": "《雨屋》让人穿过雨却不被淋湿。",
+   "based_zh": "伦敦，英国 / 柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adam-ben-dror",
+   "name": "Adam Ben-Dror",
+   "kind": "person",
+   "role": "Designer and artist",
+   "based": "Wellington, NZ",
+   "bio": "New Zealand designer who made Pinokio, a desk lamp with a personality, with Shanshan Zhou and Joss Doggett at Victoria University of Wellington.",
+   "why": "Pinokio showed how little it takes for an object to seem curious and alive.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师、艺术家",
+   "bio_zh": "新西兰设计师，在惠灵顿维多利亚大学与 Shanshan Zhou、Joss Doggett 一起做出有“性格”的台灯 Pinokio。",
+   "why_zh": "Pinokio 显示出，只要一点点行为，一个物件就会显得好奇而有生命。",
+   "based_zh": "惠灵顿，新西兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jacques-de-vaucanson",
+   "name": "Jacques de Vaucanson",
+   "kind": "person",
+   "role": "Inventor and automaton maker",
+   "based": "Paris, FR",
+   "bio": "French inventor (1709–1782) of lifelike automata and of an automated loom.",
+   "why": "His Digesting Duck staged a living body with a hidden trick.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "发明家、自动机制作者",
+   "bio_zh": "法国发明家（1709–1782），造过逼真的自动机，也发明了自动织布机。",
+   "why_zh": "他的“消化鸭”用暗藏的机关假扮一个活的身体。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karl-sims",
+   "name": "Karl Sims",
+   "kind": "person",
+   "role": "Computer graphics artist and researcher",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "American artist and researcher (born 1962) known for evolved virtual creatures and interactive evolution installations.",
+   "why": "His creatures showed bodies designed by evolution, not by an engineer.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.karlsims.com/"
+   },
+   "role_zh": "计算机图形艺术家、研究者",
+   "bio_zh": "美国艺术家与研究者（1962 年生），以演化出的虚拟生物和交互演化装置闻名。",
+   "why_zh": "他的生物展示了由演化而非工程师设计出来的身体。",
+   "based_zh": "马萨诸塞州剑桥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christa-sommerer-laurent-mignonneau",
+   "name": "Christa Sommerer & Laurent Mignonneau",
+   "kind": "studio",
+   "role": "Media-art duo; professors at the Interface Cultures department, University of Art and Design Linz",
+   "based": "Linz, AT",
+   "bio": "Christa Sommerer and Laurent Mignonneau have made interactive artworks about artificial life since the early 1990s.",
+   "why": "Interactive Plant Growing (1992) was one of the first artworks to use real plants as the interface.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术二人组，林茨艺术与设计大学界面文化系教授",
+   "bio_zh": "Christa Sommerer 和 Laurent Mignonneau 自 1990 年代初开始创作关于人工生命的交互艺术。",
+   "why_zh": "Interactive Plant Growing（1992）是最早把真实植物当作界面的艺术作品之一。",
+   "based_zh": "林茨，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jon-mccormack",
+   "name": "Jon McCormack",
+   "kind": "person",
+   "role": "Artist; professor and director of SensiLab, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "Australian artist and researcher in generative art and artificial life.",
+   "why": "Eden made an artificial ecosystem that evolves in response to the attention of its visitors.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.jonmccormack.info/"
+   },
+   "role_zh": "艺术家；莫纳什大学教授、SensiLab 主任",
+   "bio_zh": "澳大利亚艺术家与研究者，研究生成艺术与人工生命。",
+   "why_zh": "Eden 做出一个会随观众注意力而演化的人工生态系统。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "craig-reynolds",
+   "name": "Craig Reynolds",
+   "kind": "person",
+   "role": "Computer graphics researcher",
+   "based": "US",
+   "bio": "American computer scientist (born 1953) who created the Boids flocking model in 1986–87.",
+   "why": "Boids showed that lifelike collective motion can emerge from three local rules.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.red3d.com/cwr/"
+   },
+   "role_zh": "计算机图形研究者",
+   "bio_zh": "美国计算机科学家（1953 年生），1986–87 年创造了 Boids 群聚模型。",
+   "why_zh": "Boids 显示了逼真的群体运动可以从三条局部规则中涌现出来。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "radhika-nagpal",
+   "name": "Radhika Nagpal",
+   "kind": "person",
+   "role": "Computer scientist; professor, Princeton University (formerly Harvard)",
+   "based": "Princeton, US",
+   "bio": "Indian-American roboticist who studies collective intelligence in robot swarms and social insects.",
+   "why": "Her Kilobots made a thousand-robot swarm a physical reality.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "计算机科学家；普林斯顿大学教授（曾任职哈佛）",
+   "bio_zh": "印度裔美国机器人学家，研究机器人群体与社会性昆虫的集体智能。",
+   "why_zh": "她的 Kilobot 让千台机器人组成的群体成为现实。",
+   "based_zh": "普林斯顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hod-lipson",
+   "name": "Hod Lipson",
+   "kind": "person",
+   "role": "Roboticist; professor, Columbia University",
+   "based": "New York, US",
+   "bio": "Israeli-American roboticist working on evolutionary robotics, self-modelling and self-aware machines.",
+   "why": "His robots design themselves and model their own bodies.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.hodlipson.com/"
+   },
+   "role_zh": "机器人学家；哥伦比亚大学教授",
+   "bio_zh": "以色列裔美国机器人学家，研究演化机器人、自我建模与自我觉察的机器。",
+   "why_zh": "他的机器人会设计自己，也会为自己的身体建模。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "josh-bongard"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "josh-bongard",
+   "name": "Josh Bongard",
+   "kind": "person",
+   "role": "Roboticist; professor, University of Vermont",
+   "based": "Burlington, Vermont, US",
+   "bio": "Canadian roboticist working on evolutionary robotics and embodied cognition; co-creator of xenobots.",
+   "why": "His work asks what a body must be for a machine to adapt and think.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "机器人学家；佛蒙特大学教授",
+   "bio_zh": "加拿大机器人学家，研究演化机器人与具身认知，是异种机器人（xenobot）的共同创造者之一。",
+   "why_zh": "他的研究追问：机器要有怎样的身体，才能适应与思考。",
+   "based_zh": "佛蒙特州伯灵顿，美国",
+   "connected_to": [
+    "hod-lipson",
+    "sam-kriegman",
+    "michael-levin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leonel-moura",
+   "name": "Leonel Moura",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Lisbon, PT",
+   "bio": "Portuguese artist (born 1948) who since 2001 has made paintings with swarms of small autonomous robots.",
+   "why": "He argues for 'non-human art' made by emergent machine collectives.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.leonelmoura.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "葡萄牙艺术家（1948 年生），自 2001 年起用成群的小型自主机器人作画。",
+   "why_zh": "他主张由涌现的机器集体创作的“非人艺术”。",
+   "based_zh": "里斯本，葡萄牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "primavera-de-filippi",
+   "name": "Primavera De Filippi",
+   "kind": "person",
+   "role": "Legal scholar and artist; researcher at CNRS and Harvard Berkman Klein Center",
+   "based": "Paris, FR",
+   "bio": "Italian legal scholar and artist who studies blockchain governance and made the Plantoid, a self-owning robotic 'plant'.",
+   "why": "Plantoid imagines a machine that owns itself, pays for its own reproduction and evolves.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "法律学者、艺术家；法国国家科学研究中心与哈佛 Berkman Klein 中心研究员",
+   "bio_zh": "意大利法律学者与艺术家，研究区块链治理，并创作了拥有自己的机器人“植物” Plantoid。",
+   "why_zh": "Plantoid 想象了一台拥有自己、为自己的繁殖付费并不断演化的机器。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "petra-gemeinboeck",
+   "name": "Petra Gemeinboeck",
+   "kind": "person",
+   "role": "Artist and researcher in human–robot movement; Swinburne University of Technology",
+   "based": "Melbourne, AU",
+   "bio": "Austrian-Australian artist who develops robot bodies and movement with dancers, often with Rob Saunders.",
+   "why": "Her 'bodying-thinging' approach treats robots as non-human movers, not humanlike helpers.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "艺术家、人机动作研究者；斯威本科技大学",
+   "bio_zh": "奥地利裔澳大利亚艺术家，常与 Rob Saunders 合作，同舞者一起发展机器人的身体与动作。",
+   "why_zh": "她的“身体化—物化”方法把机器人当作非人类的运动者，而不是像人的助手。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "rob-saunders"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rob-saunders",
+   "name": "Rob Saunders",
+   "kind": "person",
+   "role": "Computational creativity researcher; Leiden University",
+   "based": "Leiden, NL",
+   "bio": "British researcher in computational creativity and curious agents, long-time collaborator of Petra Gemeinboeck.",
+   "why": "He builds machines that are curious for their own sake.",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "计算创造力研究者；莱顿大学",
+   "bio_zh": "英国计算创造力与“好奇智能体”研究者，Petra Gemeinboeck 的长期合作者。",
+   "why_zh": "他做的是出于自身而好奇的机器。",
+   "based_zh": "莱顿，荷兰",
+   "connected_to": [
+    "petra-gemeinboeck"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "theo-jansen",
+   "name": "Theo Jansen",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Delft, Netherlands",
+   "bio": "Dutch artist who has built wind-walking 'beach animals' from PVC tubing since 1990.",
+   "why": "His Strandbeests are a technological species evolving to live on the beach.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.strandbeest.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "荷兰艺术家，自 1990 年起用 PVC 管制作靠风行走的“海滩生物”。",
+   "why_zh": "他的 Strandbeest 是一种为在海滩生存而演化的技术物种。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sam-kriegman",
+   "name": "Sam Kriegman",
+   "kind": "person",
+   "role": "Roboticist; assistant professor, Northwestern University",
+   "based": "Evanston, US",
+   "bio": "American roboticist who designs bodies with evolutionary algorithms; first author of the 2020 xenobot paper.",
+   "why": "Xenobots moved the design of machine bodies into living tissue.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "机器人学家；西北大学助理教授",
+   "bio_zh": "美国机器人学家，用演化算法设计身体；2020 年异种机器人论文的第一作者。",
+   "why_zh": "异种机器人把机器身体的设计搬进了活体组织。",
+   "based_zh": "埃文斯顿，美国",
+   "connected_to": [
+    "josh-bongard",
+    "michael-levin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-levin",
+   "name": "Michael Levin",
+   "kind": "person",
+   "role": "Biologist; professor, Tufts University",
+   "based": "Medford, Massachusetts, US",
+   "bio": "American developmental biologist who studies bioelectricity and synthetic living machines.",
+   "why": "He treats cells as programmable agents, blurring organism and machine.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "生物学家；塔夫茨大学教授",
+   "bio_zh": "美国发育生物学家，研究生物电与合成的“活机器”。",
+   "why_zh": "他把细胞当作可编程的能动者，模糊了生物与机器的界线。",
+   "based_zh": "马萨诸塞州梅德福，美国",
+   "connected_to": [
+    "josh-bongard",
+    "sam-kriegman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-wood",
+   "name": "Robert Wood",
+   "kind": "person",
+   "role": "Roboticist; professor, Harvard University",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "American roboticist working on soft and micro robots at Harvard SEAS and the Wyss Institute.",
+   "why": "The Octobot made a robot with no hard parts at all.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "机器人学家；哈佛大学教授",
+   "bio_zh": "美国机器人学家，在哈佛工程与应用科学学院和 Wyss 研究所研究软体与微型机器人。",
+   "why_zh": "Octobot 做出了一个完全没有硬部件的机器人。",
+   "based_zh": "马萨诸塞州剑桥，美国",
+   "connected_to": [
+    "jennifer-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-lewis",
+   "name": "Jennifer A. Lewis",
+   "kind": "person",
+   "role": "Materials scientist; professor, Harvard University",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "American materials scientist known for 3D printing of soft and functional materials.",
+   "why": "Her printing methods made the fully soft Octobot possible.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "材料科学家；哈佛大学教授",
+   "bio_zh": "美国材料科学家，以软材料和功能材料的 3D 打印闻名。",
+   "why_zh": "她的打印方法让完全柔软的 Octobot 成为可能。",
+   "based_zh": "马萨诸塞州剑桥，美国",
+   "connected_to": [
+    "robert-wood"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "philip-beesley",
+   "name": "Philip Beesley",
+   "kind": "person",
+   "role": "Architect and artist; professor at the University of Waterloo; director of the Living Architecture Systems Group",
+   "based": "Toronto, CA",
+   "bio": "Philip Beesley builds immersive responsive environments that behave like near-living systems.",
+   "why": "His Hylozoic series is a reference for architecture that breathes, senses and hosts chemical life.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.philipbeesleystudioinc.com"
+   },
+   "role_zh": "建筑师、艺术家；滑铁卢大学教授；Living Architecture Systems Group 负责人",
+   "bio_zh": "Philip Beesley 建造沉浸式响应环境，让它们像“近乎活着”的系统一样运作。",
+   "why_zh": "他的 Hylozoic 系列是会呼吸、会感知、能容纳化学生命的建筑的参照。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "guy-ben-ary",
+   "name": "Guy Ben-Ary",
+   "kind": "person",
+   "role": "Artist and researcher, SymbioticA, The University of Western Australia",
+   "based": "Perth, AU",
+   "bio": "Bio-artist who has worked with living neurons since 2000: robotic drawing (MEART), neural synthesizers (cellF) and organoids grown from the composer Alvin Lucier's blood (Revivification).",
+   "why": "He has made neural cultures into performers and asked who the author is when neurons make art.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://guybenary.com"
+   },
+   "role_zh": "西澳大学 SymbioticA 艺术家与研究者",
+   "bio_zh": "生物艺术家，自 2000 年起与活体神经元合作：机器人绘画（MEART）、神经合成器（cellF），以及用作曲家 Alvin Lucier 的血液培养出的类器官（Revivification）。",
+   "why_zh": "他把神经培养物变成表演者，并追问：当神经元创作艺术时，作者是谁。",
+   "based_zh": "珀斯，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "garnet-hertz",
+   "name": "Garnet Hertz",
+   "kind": "person",
+   "role": "Artist and design researcher; Canada Research Chair in Design and Media Arts, Emily Carr University",
+   "based": "Vancouver, CA",
+   "bio": "Canadian artist and researcher known for critical making, DIY electronics and the cockroach-driven robot he built as a graduate student at UC Irvine.",
+   "why": "His cockroach-controlled robot is a reference point for insect-as-CPU artworks.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "http://www.conceptlab.com/"
+   },
+   "role_zh": "艺术家、设计研究者；Emily Carr 大学设计与媒体艺术加拿大研究讲席",
+   "bio_zh": "加拿大艺术家与研究者，以批判性制作、DIY 电子，以及他在 UC Irvine 读研时做的蟑螂驾驶机器人而知名。",
+   "why_zh": "他的蟑螂控制机器人是「昆虫当 CPU」类艺术作品的参照点。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [
+    "simon-penny"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ivan-henriques",
+   "name": "Ivan Henriques",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Amsterdam, NL / Rio de Janeiro, BR",
+   "bio": "Brazilian artist who builds hybrid machines that connect plants, microbes and robotics.",
+   "why": "His plant-driven robots give vegetal sensing a machine body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "巴西艺术家，制作把植物、微生物与机器人连接起来的混合机器。",
+   "why_zh": "他的植物驱动机器人给植物的感知一个机器身体。",
+   "based_zh": "阿姆斯特丹，荷兰／里约热内卢，巴西",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "harpreet-sareen",
+   "name": "Harpreet Sareen",
+   "kind": "person",
+   "role": "Designer and researcher; professor, Parsons School of Design",
+   "based": "New York, US",
+   "bio": "Indian-born designer and researcher who developed 'cyborg botany' at the MIT Media Lab.",
+   "why": "Elowan lets a plant's own electrical signals drive a robot body toward light.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师、研究者；帕森斯设计学院教授",
+   "bio_zh": "印度出生的设计师与研究者，在麻省理工学院媒体实验室发展了“赛博植物学”。",
+   "why_zh": "Elowan 让植物自身的电信号驱动机器人身体向光移动。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "diemut-strebe",
+   "name": "Diemut Strebe",
+   "kind": "person",
+   "role": "Artist, affiliate at MIT Center for Art, Science & Technology",
+   "based": "Boston, US / Germany",
+   "bio": "Diemut Strebe makes works with scientific laboratories, including Sugababe, a living replica of Van Gogh's ear engineered from cells of a Van Gogh descendant and kept alive in a nutrient vitrine.",
+   "why": "She uses genetic relatedness and machines as materials for art-historical argument.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://diemutstrebe.com/"
+   },
+   "role_zh": "艺术家，麻省理工学院艺术、科学与技术中心附属",
+   "bio_zh": "Diemut Strebe 与科学实验室合作创作，包括 Sugababe：用梵高后裔细胞培养出的活体梵高耳朵复制品，保存在营养液展柜中。",
+   "why_zh": "她把遗传亲缘关系与机器当作论述艺术史的材料。",
+   "based_zh": "美国波士顿／德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "tom-shannon--squat",
+   "creator_ids": [
+    "tom-shannon"
+   ],
+   "title": "Squat",
+   "year": 1966,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A squat robotic sculpture is wired to a living philodendron plant; when a visitor touches the plant, the small electrical change in its leaves switches the robot on and it starts to move and hum.",
+   "description_zh": "一件矮胖的机器人雕塑用导线连着一株活的喜林芋；观众一碰植物，叶片上微弱的电变化就会启动机器人，它开始动起来并发出嗡嗡声。",
+   "idea_en": "The plant becomes the robot's nerve: a human touch reaches the machine only through another living being.",
+   "idea_zh": "植物成了机器人的神经：人的触碰只有经过另一个生命，才能传到机器那里。",
+   "method": "Electrodes on the plant pick up the change in bioelectric potential caused by touch and trigger the robot's motors (built by the 19-year-old artist).",
+   "method_zh": "植物上的电极拾取触碰引起的生物电位变化，并触发机器人的电机（作者当时 19 岁）。",
+   "keywords": [
+    "Squat",
+    "plant",
+    "philodendron",
+    "biofeedback",
+    "Tom Shannon",
+    "1960s"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/41/Tom_Shannon_-_Squat.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Tom_Shannon_(artist)"
+  },
+  {
+   "id": "robert-breer--floats",
+   "creator_ids": [
+    "robert-breer"
+   ],
+   "title": "Floats",
+   "year": 1965,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Large, plain dome-like sculptures glide over the floor so slowly that their movement is almost invisible, change direction when they bump into a wall or a person, and drift on. Seven of them roamed the Pepsi Pavilion at Expo '70 in Osaka.",
+   "description_zh": "巨大而朴素的穹顶状雕塑在地面上缓缓滑行，慢到几乎看不出在动；碰到墙或人就换个方向，继续漂移。其中七件曾在 1970 年大阪世博会百事馆内游走。",
+   "idea_en": "At machine slowness, a minimal object becomes a presence you only notice when it has already moved.",
+   "idea_zh": "以机器的慢速移动时，一个极简物件会变成一种存在感——你只在它已经挪了位置时才察觉。",
+   "method": "Battery-powered motors on hidden wheels drive each shell at a few centimetres per minute; a bumper switch reverses or turns the drive on contact.",
+   "method_zh": "每个壳体下隐藏的轮子由电池电机驱动，速度只有每分钟几厘米；碰撞开关在接触时让它倒退或转向。",
+   "keywords": [
+    "Robert Breer",
+    "Floats",
+    "Expo '70",
+    "Pepsi Pavilion",
+    "E.A.T.",
+    "slow motion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=obFl4BvWw1I"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Robert_Breer",
+   "exhibited": [
+    "Pepsi Pavilion, Expo '70, Osaka 1970",
+    "Museum Tinguely, Basel 2011"
+   ]
+  },
+  {
+   "id": "louis-philippe-demers--tiller-girls",
+   "creator_ids": [
+    "louis-philippe-demers"
+   ],
+   "title": "The Tiller Girls",
+   "year": 2010,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A chorus line of identical, faceless robots rock, tilt and teeter together on rounded bases, performing a mechanical cabaret named after the 1920s precision-dance troupe that critics compared to machines.",
+   "description_zh": "一排相同的、没有脸的机器人在圆底座上一起摇晃、倾斜、晃荡，演出一场机械歌舞，名字取自 20 世纪 20 年代被评论家比作机器的整齐舞蹈团 Tiller Girls。",
+   "idea_en": "Robots performing the human ideal of mechanical synchrony turn the old comparison of dancers to machines back on itself.",
+   "idea_zh": "机器人表演人类“机械般整齐”的理想，把“舞者像机器”这一旧比喻翻转回来。",
+   "method": "Weighted, round-bottomed robotic bodies are rocked by internal actuators under central control, with lighting and sound (developed with Armin Purkrabek and Phillip Schulze).",
+   "method_zh": "底部为圆形并配重的机器人身体由内部执行器在中央控制下摇动，配合灯光与声音（与 Armin Purkrabek 和 Phillip Schulze 合作开发）。",
+   "keywords": [
+    "The Tiller Girls",
+    "chorus line",
+    "robot ensemble",
+    "Louis-Philippe Demers",
+    "Siegfried Kracauer"
+   ],
+   "also": [
+    "coperformance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PjLfb97T7iQ"
+   },
+   "exhibited": [
+    "ELEKTRA, Montreal",
+    "Bains numériques, Enghien-les-Bains"
+   ]
+  },
+  {
+   "id": "simon-penny--petit-mal",
+   "creator_ids": [
+    "simon-penny"
+   ],
+   "title": "Petit Mal",
+   "year": 1993,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A waist-high robot of two bicycle wheels and nested aluminium pendulums rolls around a gallery on its own, approaches visitors, follows them and wobbles away. It looks like no animal or person, so its behaviour is the only thing to relate to.",
+   "description_zh": "一台齐腰高的机器人由两个自行车轮和嵌套的铝制钟摆组成，在展厅里自己滚动，靠近观众、跟着他们、又摇摇晃晃地离开。它既不像动物也不像人，所以人能与之发生关系的只有它的行为。",
+   "idea_en": "A deliberately non-anthropomorphic robot shows that personality can live in motion alone, and that its wobble is part of its charm.",
+   "idea_zh": "一台刻意不拟人的机器人显示：性格可以只存在于动作之中，它的摇晃正是它的魅力所在。",
+   "method": "Ultrasonic and pyroelectric body-heat sensors, an accelerometer and two encoded motors are run by a single Motorola 68HC11 microcontroller; the double pendulum adds physical unpredictability.",
+   "method_zh": "超声波与热释电人体传感器、加速度计和两个带编码器的电机由一枚摩托罗拉 68HC11 微控制器控制；双摆结构带来物理上的不可预测性。",
+   "keywords": [
+    "Petit Mal",
+    "Simon Penny",
+    "autonomous robot",
+    "embodiment",
+    "non-anthropomorphic",
+    "artificial life"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fxdUiE9vYx4"
+   },
+   "images": [
+    "https://simonpenny.net/works/petitmal_files/petit_mal_2_wm_med.jpg"
+   ],
+   "source_url": "https://simonpenny.net/works/petitmal.html",
+   "exhibited": [
+    "Shown internationally 1995–1997",
+    "transmediale, Berlin 2006"
+   ]
+  },
+  {
+   "id": "simon-penny--sympathetic-sentience",
+   "creator_ids": [
+    "simon-penny"
+   ],
+   "title": "Sympathetic Sentience",
+   "year": 1995,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Twelve small electronic units on the walls and ceiling of a dark room chirp and pass their rhythms to each other by infrared, so that a complex, never-repeating sound pattern builds up. Visitors walking through break the chain and the room slowly falls silent, then rebuilds its song.",
+   "description_zh": "暗室的墙和天花板上装有十二个小电子单元，它们啁啾作响，并通过红外线把各自的节奏传给下一个，逐渐形成复杂、永不重复的声音图案。观众走过会打断这条链，房间慢慢安静下来，然后重新建立它的歌。",
+   "idea_en": "A machine collective can have a life of its own that humans can only disturb, not control.",
+   "idea_zh": "一个机器集体可以有自己的生命，人类只能打扰它，却无法控制它。",
+   "method": "Each identical unit chirps once a minute and combines its own rhythm with the infrared data stream it receives before passing it on (with Jamieson Schulte).",
+   "method_zh": "每个相同的单元每分钟啁啾一次，把自己的节奏与接收到的红外数据流合并后再传出去（与 Jamieson Schulte 合作）。",
+   "keywords": [
+    "Sympathetic Sentience",
+    "Simon Penny",
+    "Jamieson Schulte",
+    "emergence",
+    "infrared",
+    "sound installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZX9Zta2T1do"
+   },
+   "source_url": "https://simonpenny.net/works/sympathetic.html"
+  },
+  {
+   "id": "ken-rinaldo--autopoiesis",
+   "creator_ids": [
+    "ken-rinaldo"
+   ],
+   "title": "Autopoiesis",
+   "year": 2000,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-arm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Fifteen robotic arms made of grapevine and electronics hang from the ceiling, sense visitors and bend toward them, and signal to each other with tones so that the group's behaviour shifts as a whole.",
+   "description_zh": "十五条由葡萄藤和电子元件做成的机械臂从天花板垂下，感知观众并向他们弯曲，彼此之间用音调发信号，使整个群体的行为一起变化。",
+   "idea_en": "A group of machines that talk to each other develops a collective mood that no single arm contains.",
+   "idea_zh": "一群彼此交谈的机器会形成一种集体情绪，而这种情绪不在任何一条机械臂里。",
+   "method": "Each arm has infrared sensors and a microcontroller; the arms share information through a central computer and audible tones, and a camera tracks visitors' positions.",
+   "method_zh": "每条臂装有红外传感器和微控制器；机械臂通过中央计算机和可听的音调共享信息，一台摄像机追踪观众位置。",
+   "keywords": [
+    "Autopoiesis",
+    "Ken Rinaldo",
+    "Kiasma",
+    "Alien Intelligence",
+    "robotic sculpture",
+    "emergence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9TfrKQH6OPg"
+   },
+   "images": [
+    "https://www.kenrinaldo.com/wp-content/uploads/2015/04/Autopoieis3-440x450.jpg",
+    "https://archive.aec.at/asset/1318971/preview/"
+   ],
+   "source_url": "https://www.kenrinaldo.com/portfolio/autopoiesis/",
+   "collections": [
+    "vida-awards",
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Alien Intelligence, Kiasma, Helsinki 2000",
+    "VIDA 3.0, first prize",
+    "Prix Ars Electronica 2001, Honorary Mention (Interactive Art)"
+   ]
+  },
+  {
+   "id": "ken-rinaldo--augmented-fish-reality",
+   "creator_ids": [
+    "ken-rinaldo"
+   ],
+   "title": "Augmented Fish Reality",
+   "year": 2004,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Five rolling robotic fishbowls are steered by the Siamese fighting fish inside them, which drive toward each other, toward visitors or away as they choose.",
+   "description_zh": "五个会滚动的机器人鱼缸由缸里的暹罗斗鱼驾驶，它们可以自主选择靠近同伴、靠近观众或走开。",
+   "idea_en": "Handing a robot's controls to a fish turns the machine into a prosthesis for another species' umwelt.",
+   "idea_zh": "把机器人的控制权交给一条鱼，机器就成了另一物种环世界的义体。",
+   "method": "Infrared sensors around each bowl detect where the fish swims and drive the wheels in that direction; a plant in each bowl supports the fish's habitat.",
+   "method_zh": "每个鱼缸周围的红外传感器检测鱼游向哪里，并驱动轮子朝那个方向移动；缸中的植物维持鱼的栖息环境。",
+   "keywords": [
+    "Augmented Fish Reality",
+    "Ken Rinaldo",
+    "interspecies",
+    "Siamese fighting fish",
+    "robotic fishbowl"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=honGCrgPBAw"
+   },
+   "images": [
+    "https://www.kenrinaldo.com/wp-content/uploads/2015/08/fish_robot_004.jpg",
+    "https://archive.aec.at/asset/1319695/preview/"
+   ],
+   "source_url": "https://www.kenrinaldo.com/portfolio/augmented-fish-reality/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2004, Award of Distinction (Interactive Art)"
+   ]
+  },
+  {
+   "id": "chico-macmurtrie--inflatable-architectural-body",
+   "creator_ids": [
+    "chico-macmurtrie"
+   ],
+   "title": "Inflatable Architectural Body",
+   "year": 2007,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A branching structure of inflatable, bone-like modules fills a room; sections inflate and bend away as visitors pass, keeping a constant distance, so the sculpture seems to breathe and flinch around the body.",
+   "description_zh": "由充气的骨状模块组成的分叉结构充满整个房间；观众经过时，局部会充气、弯折退开，与人保持固定距离，整件雕塑仿佛在呼吸、在身体周围退缩。",
+   "idea_en": "Soft pneumatic bodies make a machine feel like an organism that has a comfort zone.",
+   "idea_zh": "柔软的气动身体让机器感觉像一个有“舒适距离”的生物。",
+   "method": "Plug-and-play musculoskeletal fabric modules are inflated by computer-controlled valves and air compressors, triggered by simple presence sensors.",
+   "method_zh": "即插即用的织物“肌肉骨骼”模块由计算机控制的阀门和空压机充气，由简单的人体感应器触发。",
+   "keywords": [
+    "Chico MacMurtrie",
+    "Amorphic Robot Works",
+    "inflatable",
+    "pneumatic",
+    "soft robotics",
+    "responsive sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vqXJpuglpa0"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/57acb395e58c62449d47f5ab/1482430100678-CK73IWJJTWQGUEZ2PBIL/CMM+IAB+6.jpg"
+   ],
+   "source_url": "http://www.amorphicrobotworks.org/inflatable-architectural-body"
+  },
+  {
+   "id": "chico-macmurtrie--robotic-church",
+   "creator_ids": [
+    "chico-macmurtrie"
+   ],
+   "title": "The Robotic Church",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "humanoid",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "In a 19th-century former church in Brooklyn, some thirty-five pneumatic robots, drummers, singers and anthropomorphic figures, perform a mechanical oratorio of rhythm and breath for a seated congregation.",
+   "description_zh": "在布鲁克林一座 19 世纪的旧教堂里，约三十五台气动机器人——鼓手、歌手和拟人形体——为坐着的“会众”演出一场由节奏与呼吸组成的机械清唱剧。",
+   "idea_en": "A congregation of machines performing ritual asks what devotion looks like when the performers have no belief.",
+   "idea_zh": "一群举行仪式的机器追问：当表演者没有信仰时，虔诚看起来会是什么样子。",
+   "method": "Pneumatic cylinders and valves driven by a central computer and compressors animate the robots' limbs, lungs and instruments in composed sequences.",
+   "method_zh": "由中央计算机和空压机驱动的气缸与阀门，按作曲好的序列带动机器人的四肢、“肺”和乐器。",
+   "keywords": [
+    "The Robotic Church",
+    "Chico MacMurtrie",
+    "Amorphic Robot Works",
+    "Brooklyn",
+    "robotic orchestra",
+    "ritual"
+   ],
+   "also": [
+    "afterlife"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LwRXDUsmaE4"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/57acb395e58c62449d47f5ab/1472520986872-YA0RQ7R7FU3967ICEK4F/Chico_Church.jpg"
+   ],
+   "source_url": "http://www.amorphicrobotworks.org/the-robotic-church"
+  },
+  {
+   "id": "mariela-yeregui--proxemia",
+   "creator_ids": [
+    "mariela-yeregui"
+   ],
+   "title": "Proxemia (Proxemics)",
+   "year": 2005,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Twenty-five glowing acrylic spheres roll freely across the floor; whenever one touches a visitor, another sphere or a wall it changes colour and veers away, as if phobic of contact. One transparent sphere, with its robot visible inside, behaves differently from the rest.",
+   "description_zh": "二十五个发光的亚克力球在地面上自由滚动；每当碰到观众、另一个球或墙壁，它就变色并转向离开，仿佛害怕接触。其中一个透明球能看到内部的机器人，行为与其他球不同。",
+   "idea_en": "Social distance and fear of touch can be staged as machine behaviour, making the visitor an obstacle in a robot community.",
+   "idea_zh": "社交距离和对触碰的恐惧可以被演成机器行为，让观众变成机器人群体里的一个障碍物。",
+   "method": "Each 25 cm sphere contains a small robot with position and motion sensing, bump detection and its own lights; contact triggers a change of direction and light.",
+   "method_zh": "每个直径 25 厘米的球内装有一台小机器人，具备位置与运动感知、碰撞检测和自己的灯；接触会触发方向和灯光的变化。",
+   "keywords": [
+    "Mariela Yeregui",
+    "Proxemia",
+    "proxemics",
+    "robotic spheres",
+    "Argentina",
+    "multi-agent system"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MEYvKy38x1o"
+   },
+   "images": [
+    "https://marielayeregui.com/wp-content/uploads/2021/10/esferasx2-1024x683.jpg"
+   ],
+   "source_url": "https://marielayeregui.com/proxemia-proxemics/"
+  },
+  {
+   "id": "leandro-nunez--propagaciones",
+   "creator_ids": [
+    "leandro-nunez"
+   ],
+   "title": "Propagaciones",
+   "year": 2007,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A grid of small robots turns on and off according to the rules of Conway's Game of Life, so patterns of 'living' and 'dying' cells propagate through a physical machine population.",
+   "description_zh": "一排排小机器人按照康威“生命游戏”的规则点亮或熄灭，让“生”与“死”的细胞图案在一群实体机器中传播开来。",
+   "idea_en": "Embodying a cellular automaton in robots makes an abstract model of life into something that happens in the room.",
+   "idea_zh": "用机器人来体现元胞自动机，把抽象的生命模型变成在房间里发生的事。",
+   "method": "Each robot reads the states of its neighbours and updates its own light and movement following Game of Life rules; the whole grid runs without central control.",
+   "method_zh": "每台机器人读取邻居的状态，按生命游戏的规则更新自己的灯光和动作；整个网格没有中央控制。",
+   "keywords": [
+    "Leo Núñez",
+    "Propagaciones",
+    "Game of Life",
+    "cellular automaton",
+    "Argentina",
+    "robots"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5BTa1c3Y6Fo"
+   },
+   "source_url": "https://www.leonunez.com.ar/"
+  },
+  {
+   "id": "paula-gaetano-adi--alexitimia",
+   "creator_ids": [
+    "paula-gaetano-adi"
+   ],
+   "title": "Alexitimia",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A large, rubbery, motionless blob sits on a plinth; when visitors caress it, it begins to sweat. It has no face, no speech and no intelligence, only a skin that responds to touch.",
+   "description_zh": "一团大而有橡胶质感、一动不动的物体放在台座上；观众抚摸它，它就开始出汗。它没有脸、不说话，也没有智能，只有一层会回应触摸的皮肤。",
+   "idea_en": "A robot can be defined by corporeality instead of intelligence: sweat replaces speech as the machine's way to express.",
+   "idea_zh": "机器人可以由身体性而非智能来定义：汗水取代语言，成为机器的表达方式。",
+   "method": "Touch sensors across a latex-like skin trigger pumps that push water from a tank in the base through pores in the surface.",
+   "method_zh": "类乳胶皮肤上的触摸传感器触发水泵，把底座水箱里的水从表面的小孔中推出。",
+   "keywords": [
+    "Paula Gaetano Adi",
+    "Alexitimia",
+    "alexithymia",
+    "sweat",
+    "artificial corporeality",
+    "Argentina"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UaKAdvaMP7w"
+   },
+   "source_url": "https://www.paulagaetanoadi.com/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 9.0, first prize, 2006"
+   ]
+  },
+  {
+   "id": "paula-gaetano-adi--guanaquerx",
+   "creator_ids": [
+    "paula-gaetano-adi"
+   ],
+   "title": "Guanaquerx",
+   "year": 2025,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "An autonomous rover built with artisans and amateur mechanics in San Juan, Argentina, crosses the Andes toward Chile, re-enacting José de San Martín's 1817 independence expedition as a multi-day performance.",
+   "description_zh": "一台与阿根廷圣胡安工匠和业余机修工一起制作的自主越野车穿越安第斯山脉驶向智利，以多日表演重演何塞·德·圣马丁 1817 年的独立远征。",
+   "idea_en": "Robotics can be rooted in local, Andean knowledge and landscape rather than in Silicon Valley's image of the machine.",
+   "idea_zh": "机器人技术可以扎根于安第斯的在地知识与地景，而不是硅谷式的机器想象。",
+   "method": "An all-terrain rover inspired by local 'guanaqueras' (home-built off-road vehicles) navigates mountain terrain autonomously, with community workshops as part of the work.",
+   "method_zh": "一台受当地“guanaquera”（自制越野车）启发的全地形车自主穿越山地，社区工作坊也是作品的一部分。",
+   "keywords": [
+    "Paula Gaetano Adi",
+    "Guanaquerx",
+    "Andes",
+    "San Martín",
+    "cosmotechnics",
+    "rover"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TRGilwpKi-I"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3849576/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/303077/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2025, Golden Nica (Artificial Life & Intelligence)"
+   ]
+  },
+  {
+   "id": "ralf-baecker--rechnender-raum",
+   "creator_ids": [
+    "ralf-baecker"
+   ],
+   "title": "Rechnender Raum",
+   "year": 2007,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A large, delicate structure of sticks, strings, weights and small motors computes in front of the viewer: a mechanical cellular automaton whose logic states can be seen as moving threads.",
+   "description_zh": "一个由木棍、细绳、配重和小电机搭成的大型精巧结构当着观众的面“计算”：这是一台机械元胞自动机，它的逻辑状态显现为移动的线。",
+   "idea_en": "Rebuilding computation at human scale and with slow materials opens the black box of the digital.",
+   "idea_zh": "用缓慢的材料、以人的尺度重建计算，把数字的黑箱打开。",
+   "method": "Servo motors pull strings that set the state of each cell in a ring of mechanical logic elements, following Konrad Zuse's idea of a 'calculating space'.",
+   "method_zh": "伺服电机拉动细绳，设定环形机械逻辑单元中每个单元的状态，取意于 Konrad Zuse 的“计算空间”设想。",
+   "keywords": [
+    "Ralf Baecker",
+    "Rechnender Raum",
+    "Konrad Zuse",
+    "cellular automaton",
+    "mechanical computer"
+   ],
+   "also": [
+    "interiority"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GgxG2aINTKU"
+   },
+   "source_url": "https://rlfbckr.io/project/rechnender-raum/"
+  },
+  {
+   "id": "ralf-baecker--irrational-computing",
+   "creator_ids": [
+    "ralf-baecker"
+   ],
+   "title": "Irrational Computing",
+   "year": 2011,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Five linked modules of raw crystals, minerals and electrodes form a primitive, enlarged signal processor: silicon carbide flickers like a display, quartz resonates and data pulses visibly between the stations.",
+   "description_zh": "五个互相连接的模块由原矿晶体、矿物和电极组成，构成一台原始的、被放大的信号处理器：碳化硅像显示屏一样闪烁，石英共振，数据脉冲肉眼可见地在各站之间流动。",
+   "idea_en": "Showing the minerals under every microchip makes computation a material, geological process again.",
+   "idea_zh": "展示每块芯片底下的矿物，让计算重新成为一种物质的、地质的过程。",
+   "method": "Crystals from nature, industrial waste or lab growth are used as semiconductors, oscillators and light emitters, wired into a feedback network.",
+   "method_zh": "来自自然、工业废料或实验室培养的晶体被用作半导体、振荡器和发光体，接入一个反馈网络。",
+   "keywords": [
+    "Ralf Baecker",
+    "Irrational Computing",
+    "crystals",
+    "semiconductor",
+    "silicon carbide",
+    "materiality"
+   ],
+   "also": [
+    "labour"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rwR_ofkPFnk"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1530041/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/194180/",
+   "collections": [
+    "vida-awards",
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2012, Honorary Mention (Hybrid Art)",
+    "VIDA 14.0, second prize"
+   ]
+  },
+  {
+   "id": "ralf-baecker--mirage",
+   "creator_ids": [
+    "ralf-baecker"
+   ],
+   "title": "Mirage",
+   "year": 2014,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "generative-latent",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A laser line reflected off a thin, trembling mirror sheet projects a slowly shifting landscape on the wall, the 'dream' of a neural network fed by the Earth's magnetic field.",
+   "description_zh": "一道激光打在一片薄而颤动的镜面上，在墙上投出缓慢变化的地景，那是一个由地球磁场“喂养”的神经网络所做的“梦”。",
+   "idea_en": "A learning machine can dream of a world it senses but never sees, and we see only its hallucination.",
+   "idea_zh": "一台学习机器可以梦见它感知却从未看见的世界，而我们看到的只是它的幻觉。",
+   "method": "A fluxgate magnetometer feeds an unsupervised learning algorithm modelled on the Helmholtz machine; its generated variations drive 48 muscle wires that deform the mirror.",
+   "method_zh": "磁通门磁力计的数据输入一个以亥姆霍兹机为原型的无监督学习算法；它生成的变体驱动 48 根肌肉线来使镜面变形。",
+   "keywords": [
+    "Ralf Baecker",
+    "Mirage",
+    "Helmholtz machine",
+    "magnetometer",
+    "neural network",
+    "laser"
+   ],
+   "also": [
+    "interiority"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VY1hOjWlVO8"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1882015/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/212751/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2015, Honorary Mention (Hybrid Art)",
+    "ACT Festival, Asia Culture Center, Gwangju 2015"
+   ]
+  },
+  {
+   "id": "julius-popp--bit-fall",
+   "creator_ids": [
+    "julius-popp"
+   ],
+   "title": "bit.fall",
+   "year": 2005,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "infrastructure",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A row of nozzles releases precisely timed drops of water so that words, taken live from online news, appear for a moment as falling letters and dissolve.",
+   "description_zh": "一排喷嘴以精确的时机释放水滴，让从网络新闻中实时抓取的单词以下落的字母形式短暂出现，然后消散。",
+   "idea_en": "The news stream becomes a machine output that exists only for a second: information as falling matter.",
+   "idea_zh": "新闻流变成只存在一秒的机器输出：信息成了下落的物质。",
+   "method": "A computer selects frequent words from news feeds and converts them to bitmaps; magnetic valves on a row of nozzles release water drops line by line.",
+   "method_zh": "计算机从新闻源中挑出高频词并转成点阵；一排喷嘴上的电磁阀逐行释放水滴。",
+   "keywords": [
+    "Julius Popp",
+    "bit.fall",
+    "water",
+    "news feed",
+    "information",
+    "kinetic installation"
+   ],
+   "also": [
+    "perception"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gg9LWsfqqrk"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Julius_Popp",
+   "exhibited": [
+    "London 2012 Olympic Park",
+    "MONA, Hobart"
+   ]
+  },
+  {
+   "id": "cod-act--piton",
+   "creator_ids": [
+    "cod-act"
+   ],
+   "title": "πTon",
+   "year": 2017,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "A huge ring of rubbery tube lies on the floor and writhes, twists and contracts like a living creature; its convulsions produce a vocal, choral sound.",
+   "description_zh": "一个巨大的橡胶管环躺在地上，像活物一样扭动、缠绕、收缩；它的抽搐发出类似人声、合唱般的声音。",
+   "idea_en": "When sound comes from the contortions of a soft machine body, the machine seems to sing its own effort.",
+   "idea_zh": "当声音来自一具柔软机器身体的扭曲，机器仿佛在唱出自己的用力。",
+   "method": "Internal motors and cables deform the elastic tube; its movement data are transformed in real time into a vocal soundscape.",
+   "method_zh": "内部电机和缆绳让弹性管变形；它的运动数据被实时转换为人声般的声景。",
+   "keywords": [
+    "Cod.Act",
+    "πTon",
+    "André Décosterd",
+    "Michel Décosterd",
+    "sound machine",
+    "soft body"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fB1kI5EGzqY"
+   },
+   "images": [
+    "https://codact.ch/wp-content/uploads/2018/05/PiTon230518SC-09.jpg"
+   ],
+   "source_url": "https://codact.ch/"
+  },
+  {
+   "id": "cod-act--nyloid",
+   "creator_ids": [
+    "cod-act"
+   ],
+   "title": "Nyloïd",
+   "year": 2013,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A tall tripod creature with long, nylon-sheathed legs twists, whips and folds in a performance, emitting a strange voice as its limbs torque and release.",
+   "description_zh": "一个高大的三脚生物长着套着尼龙的长腿，在表演中扭转、甩动、折叠，四肢绞紧又释放时发出奇异的声音。",
+   "idea_en": "A machine without head or face can still read as a creature through tension, torsion and voice.",
+   "idea_zh": "一台没有头也没有脸的机器，仍然可以借张力、扭转和声音被读作一种生物。",
+   "method": "Motors twist the three flexible legs to store and release elastic energy; a sound system turns the movement into vocal sound.",
+   "method_zh": "电机扭转三条柔性腿来储存和释放弹性能量；声音系统把动作转为人声般的声音。",
+   "keywords": [
+    "Cod.Act",
+    "Nyloïd",
+    "sound machine",
+    "tripod",
+    "performance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f2sMD73fdYM"
+   },
+   "images": [
+    "https://codact.ch/wp-content/uploads/2013/10/Nyl-18-Copie.jpg"
+   ],
+   "source_url": "https://codact.ch/",
+   "exhibited": [
+    "Sónar, Barcelona",
+    "FutureEverything, Manchester"
+   ]
+  },
+  {
+   "id": "zimoun--216-prepared-dc-motors",
+   "creator_ids": [
+    "zimoun"
+   ],
+   "title": "216 prepared dc-motors, filler wire 1.0mm",
+   "year": 2009,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "machine-listening",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "216 small DC motors mounted in a grid on a wall each spin a short piece of wire that taps the wall, filling the room with a dense, rustling sound like rain or insects.",
+   "description_zh": "216 个小直流电机以网格方式装在墙上，每个带动一小段铁丝敲打墙面，让整个房间充满细密的沙沙声，像雨或昆虫。",
+   "idea_en": "Many identical machines with tiny irregularities produce something that feels natural rather than mechanical.",
+   "idea_zh": "许多相同却各有微小差异的机器，能产生一种感觉更像自然而非机械的东西。",
+   "method": "Each motor runs at constant speed; variations in mounting and wire length create a complex, non-repeating texture.",
+   "method_zh": "每个电机以恒定速度运转；安装方式和铁丝长度的差异产生复杂而不重复的纹理。",
+   "keywords": [
+    "Zimoun",
+    "dc-motors",
+    "sound sculpture",
+    "minimalism",
+    "repetition"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Cd7tkWq3LZU"
+   },
+   "source_url": "https://www.zimoun.net/"
+  },
+  {
+   "id": "random-international--swarm-study",
+   "creator_ids": [
+    "random-international"
+   ],
+   "title": "Swarm Study (series)",
+   "year": 2010,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Lights in a grid of brass rods move like a flock of birds or a shoal of fish, gathering and scattering in response to the people below. Swarm Study / III (2011) is in the V&A collection.",
+   "description_zh": "黄铜杆网格中的灯光像鸟群或鱼群一样移动，随着下方的人聚拢又散开。Swarm Study / III（2011）为维多利亚与艾伯特博物馆收藏。",
+   "idea_en": "Collective motion rules alone can give light the feel of a living group that notices us.",
+   "idea_zh": "仅凭群体运动规则，就能让光拥有一个会注意到我们的活群体的感觉。",
+   "method": "A flocking algorithm drives individually addressable lights on brass rods; sensors register visitors' positions and presence as disturbances to the swarm.",
+   "method_zh": "群聚算法驱动黄铜杆上可单独控制的灯；传感器把观众的位置与存在记录为对群体的扰动。",
+   "keywords": [
+    "Random International",
+    "Swarm Study",
+    "flocking",
+    "V&A",
+    "light sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ajV8A5Y2_dE"
+   },
+   "source_url": "https://www.random-international.com/",
+   "exhibited": [
+    "Victoria and Albert Museum, London (Swarm Study / III)"
+   ]
+  },
+  {
+   "id": "random-international--study-for-fifteen-points",
+   "creator_ids": [
+    "random-international"
+   ],
+   "title": "Study for Fifteen Points / I",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Fifteen points of light on mechanical rods move so that, together, they are instantly seen as a person walking, although there is no body, only machinery.",
+   "description_zh": "机械杆上的十五个光点一起运动，让人立刻看出一个正在行走的人，尽管那里没有身体，只有机器。",
+   "idea_en": "Fifteen moving points are enough for us to see a human; the machine exploits our perception of biological motion.",
+   "idea_zh": "十五个移动的点就足以让我们看见一个人；机器利用的是我们对生物运动的感知。",
+   "method": "Motors move fifteen lights along rods to reproduce a point-light walker, developed after a residency at Harvard's School of Engineering and Applied Sciences.",
+   "method_zh": "电机沿杆移动十五盏灯，重现“光点行走者”；作品源于在哈佛工程与应用科学学院的驻留。",
+   "keywords": [
+    "Random International",
+    "Fifteen Points",
+    "point-light walker",
+    "biological motion",
+    "kinetic sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qnkxo7CWACs"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/663ca532b3e3797d82159fe2/0d90a48e-3f33-4c69-b508-9cbc6a607893/STUDY+FOR+FIFTEEN+POINTS+%3A+I%2C+2016++.jpeg"
+   ],
+   "source_url": "https://www.random-international.com/study-for-fifteen-points"
+  },
+  {
+   "id": "adam-ben-dror--pinokio",
+   "creator_ids": [
+    "adam-ben-dror"
+   ],
+   "title": "Pinokio",
+   "year": 2012,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "social-robot",
+    "vision-system"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation",
+    "machine-seeing"
+   ],
+   "kind": "prototype",
+   "description": "A desk lamp watches people with a camera in its head, follows their faces, grows bored, looks around and dances to sounds; if someone switches it off, it switches itself back on.",
+   "description_zh": "一盏台灯用灯头里的摄像头看着人，跟随他们的脸，会厌倦、四处张望、随声音舞动；有人把它关掉，它会自己再打开。",
+   "idea_en": "A familiar object gains a personality through a few behaviours: attention, boredom and refusal to be switched off.",
+   "idea_zh": "一个熟悉的物件，只靠几种行为——注意、厌倦、拒绝被关掉——就获得了性格。",
+   "method": "A webcam and face tracking in Processing/OpenCV drive six servo motors through an Arduino (with Shanshan Zhou and Joss Doggett).",
+   "method_zh": "摄像头与基于 Processing/OpenCV 的人脸追踪，经由 Arduino 驱动六个舵机（与 Shanshan Zhou、Joss Doggett 合作）。",
+   "keywords": [
+    "Pinokio",
+    "lamp",
+    "Adam Ben-Dror",
+    "Shanshan Zhou",
+    "face tracking",
+    "personality"
+   ],
+   "also": [
+    "intimacy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1E_hHr6YuFk"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 16.0 (Fundación Telefónica), 2014"
+   ]
+  },
+  {
+   "id": "jacques-de-vaucanson--digesting-duck",
+   "creator_ids": [
+    "jacques-de-vaucanson"
+   ],
+   "title": "Digesting Duck (Canard digérateur)",
+   "year": 1739,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A gilded copper duck flapped its wings, drank water, ate grain and then excreted, seeming to digest. Much later it was shown that the droppings were pre-loaded in a hidden compartment.",
+   "description_zh": "一只镀金铜鸭会拍打翅膀、喝水、吃谷粒，然后排泄，看上去像在消化。很久以后人们才发现，粪便是预先装在暗格里的。",
+   "idea_en": "The first famous 'living' machine was also a fake: simulating a body invites hidden tricks.",
+   "idea_zh": "第一台著名的“活”机器也是个骗局：模拟身体总会招来暗藏的机关。",
+   "method": "Hundreds of moving parts in each wing and a cam cylinder drove the movements; the digestion was staged with a second chamber of prepared pellets.",
+   "method_zh": "每只翅膀里有数百个活动部件，由凸轮筒驱动；“消化”靠另一个装着预制颗粒的腔室来表演。",
+   "keywords": [
+    "Vaucanson",
+    "Digesting Duck",
+    "automaton",
+    "18th century",
+    "hoax"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T6_VXofpcB0"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Digesting_Duck.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Digesting_Duck"
+  },
+  {
+   "id": "karl-sims--evolved-virtual-creatures",
+   "creator_ids": [
+    "karl-sims"
+   ],
+   "title": "Evolved Virtual Creatures",
+   "year": 1994,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "paper",
+   "description": "Block-bodied creatures swim, walk, jump and fight over a cube in a physically simulated world. Both their bodies and their neural 'brains' were evolved by a genetic algorithm, not designed.",
+   "description_zh": "由方块组成身体的生物在物理模拟的世界里游泳、行走、跳跃，并争夺一个方块。它们的身体和神经“大脑”都是由遗传算法演化出来的，而不是设计出来的。",
+   "idea_en": "Evolution in simulation produces machine bodies no engineer would draw, strange yet obviously purposeful.",
+   "idea_zh": "模拟中的演化能产生没有工程师会画出来的机器身体——奇怪，却明显有目的。",
+   "method": "Directed graphs encode morphology and neural controllers; populations are selected for swimming, walking, jumping, following or competition in a rigid-body physics simulation on a Connection Machine CM-5.",
+   "method_zh": "用有向图编码形态与神经控制器；在 Connection Machine CM-5 上运行的刚体物理模拟中，按游泳、行走、跳跃、跟随或竞争的表现选择种群。",
+   "keywords": [
+    "Karl Sims",
+    "evolved virtual creatures",
+    "genetic algorithm",
+    "SIGGRAPH",
+    "artificial life",
+    "morphology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RZtZia4ZkX8"
+   },
+   "images": [
+    "http://www.karlsims.com/creatures-crab-vs-arm.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/192161.192167",
+    "doi": "10.1145/192161.192167",
+    "venue": "SIGGRAPH 1994",
+    "title": "Evolving virtual creatures"
+   },
+   "source_url": "https://www.karlsims.com/evolved-virtual-creatures.html"
+  },
+  {
+   "id": "karl-sims--galapagos",
+   "creator_ids": [
+    "karl-sims"
+   ],
+   "title": "Galápagos",
+   "year": 1997,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Twelve screens each show an abstract animated organism. Visitors stand on sensors in front of the ones they like; those survive, mate and mutate, while the others die, so the audience acts as natural selection.",
+   "description_zh": "十二块屏幕各显示一种抽象的动画生物。观众站到自己喜欢的屏幕前的感应器上，被选中的生物存活、交配并变异，其余的死去，于是观众扮演了自然选择。",
+   "idea_en": "Aesthetic preference becomes a selection pressure, and the artist hands authorship to an evolutionary process.",
+   "idea_zh": "审美偏好成了选择压力，艺术家把作者身份交给了演化过程。",
+   "method": "Twelve computers render organisms from genetic codes; step sensors in front of each screen register selections, and the chosen genotypes are copied, recombined and mutated.",
+   "method_zh": "十二台计算机根据遗传编码渲染生物；每块屏幕前的踏板感应器记录选择，被选中的基因型被复制、重组和变异。",
+   "keywords": [
+    "Karl Sims",
+    "Galápagos",
+    "ICC Tokyo",
+    "interactive evolution",
+    "artificial life"
+   ],
+   "images": [
+    "https://www.karlsims.com/galapagos/galapagos-icc.jpg",
+    "https://www.karlsims.com/galapagos/image39.jpg"
+   ],
+   "source_url": "https://www.karlsims.com/galapagos/index.html",
+   "exhibited": [
+    "NTT InterCommunication Center (ICC), Tokyo 1997–2000"
+   ]
+  },
+  {
+   "id": "christa-sommerer-laurent-mignonneau--a-volve",
+   "creator_ids": [
+    "christa-sommerer-laurent-mignonneau"
+   ],
+   "title": "A-Volve",
+   "year": 1994,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Visitors draw a shape on a touch screen and it becomes a 3D creature swimming in a real pool of water. The creatures hunt, mate and die according to their form, and visitors can touch and protect them with their hands in the water.",
+   "description_zh": "观众在触摸屏上画出一个形状，它就变成一只在真实水池中游动的三维生物。生物根据自身形态捕食、交配、死亡，观众可以把手伸进水里触碰和保护它们。",
+   "idea_en": "Artificial life becomes tangible when a drawn form has to survive in a shared environment with other creatures and human hands.",
+   "idea_zh": "当一个画出来的形状必须在与其他生物和人手共享的环境中求生时，人工生命就变得可以触摸。",
+   "method": "Drawings are converted into genetic code that sets each creature's shape and swimming ability; creatures are projected into a water-filled glass pool where cameras track visitors' hands.",
+   "method_zh": "绘画被转成决定每只生物形状和游泳能力的遗传编码；生物被投影进一个盛水的玻璃池，摄像头追踪观众的手。",
+   "keywords": [
+    "A-Volve",
+    "Sommerer & Mignonneau",
+    "artificial life",
+    "Golden Nica",
+    "interactive art",
+    "evolution"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0WG45k93pCA"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1390558/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/142357/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 1994, Golden Nica (Interactive Art)"
+   ]
+  },
+  {
+   "id": "christa-sommerer-laurent-mignonneau--life-spacies",
+   "creator_ids": [
+    "christa-sommerer-laurent-mignonneau"
+   ],
+   "title": "Life Spacies",
+   "year": 1997,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Visitors send text messages over the internet; each text is read as a genetic code that creates a unique artificial creature, which then lives, feeds on further text and reproduces in a shared online and gallery world.",
+   "description_zh": "观众通过互联网发送文字信息；每段文字被当作遗传编码，生成一只独特的人工生物，它在共享的线上与展厅世界中生活，以更多文字为食并繁殖。",
+   "idea_en": "Language becomes DNA: what people write literally shapes the bodies of machine creatures.",
+   "idea_zh": "语言变成了 DNA：人们写下的文字真的在塑造机器生物的身体。",
+   "method": "A text-to-form genetic algorithm translates characters and their order into body parameters; typed text also becomes food in the environment.",
+   "method_zh": "一种“文字到形态”的遗传算法把字符及其顺序转译为身体参数；打出的文字也成为环境中的食物。",
+   "keywords": [
+    "Life Spacies",
+    "Sommerer & Mignonneau",
+    "ICC Tokyo",
+    "text as genetic code",
+    "artificial life"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-OXpk0PmMLc"
+   },
+   "exhibited": [
+    "NTT InterCommunication Center (ICC), Tokyo 1997"
+   ]
+  },
+  {
+   "id": "christa-sommerer-laurent-mignonneau--interactive-plant-growing",
+   "creator_ids": [
+    "christa-sommerer-laurent-mignonneau"
+   ],
+   "title": "Interactive Plant Growing",
+   "year": 1992,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Visitors touch or approach five real plants, and each gesture makes virtual plants grow on a large projection; the living plants act as the interface to an artificial garden.",
+   "description_zh": "观众触摸或靠近五株真实植物，每个动作都会让大屏投影上的虚拟植物生长；活植物成为通往人工花园的界面。",
+   "idea_en": "Living plants and virtual growth are coupled so that the garden grows only through human–plant contact.",
+   "idea_zh": "活植物与虚拟生长被耦合在一起，这座花园只有通过人与植物的接触才会生长。",
+   "method": "The plants' electrical potential changes when touched are measured and translated into growth parameters for real-time 3D plant models.",
+   "method_zh": "测量植物被触碰时的电位变化，并将其转换为实时三维植物模型的生长参数。",
+   "keywords": [
+    "Interactive Plant Growing",
+    "Sommerer & Mignonneau",
+    "ZKM",
+    "plant interface",
+    "artificial life"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JXX7JNFD2X8"
+   },
+   "exhibited": [
+    "ZKM Karlsruhe collection"
+   ]
+  },
+  {
+   "id": "jon-mccormack--eden",
+   "creator_ids": [
+    "jon-mccormack"
+   ],
+   "title": "Eden",
+   "year": 2000,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An evolving ecosystem of sonic creatures lives on a cellular world projected onto translucent screens. The creatures learn to sing, mate and find food; because visitors' presence makes food grow, creatures that attract people with their songs survive.",
+   "description_zh": "一个会演化的“声音生物”生态系统生活在投影到半透明屏幕上的元胞世界里。生物学会唱歌、交配和觅食；由于观众的存在会让食物生长，能用歌声吸引人的生物更容易存活。",
+   "idea_en": "Human attention becomes an ecological resource that artificial creatures evolve to capture.",
+   "idea_zh": "人的注意力成了一种生态资源，人工生物演化出捕获它的能力。",
+   "method": "Agents with learning classifier systems move on a lattice and generate sound; infrared sensors detect visitors and increase food in nearby cells.",
+   "method_zh": "带有学习分类器系统的智能体在网格上移动并发声；红外传感器检测观众，增加附近格子里的食物。",
+   "keywords": [
+    "Jon McCormack",
+    "Eden",
+    "artificial life",
+    "sonic ecosystem",
+    "evolution",
+    "attention"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Yrww68pnqqM"
+   },
+   "images": [
+    "https://i0.wp.com/jonmccormack.info/wp-content/uploads/2023/03/Eden3.jpg?fit=1920%2C1280&ssl=1"
+   ],
+   "source_url": "https://www.jonmccormack.info/artworks/eden/"
+  },
+  {
+   "id": "craig-reynolds--boids",
+   "creator_ids": [
+    "craig-reynolds"
+   ],
+   "title": "Boids",
+   "year": 1987,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "paper",
+   "description": "Simulated 'bird-oid' agents flock, split around obstacles and regroup like real birds, although each follows only three local rules. The model was soon used for bats and penguins in films such as Batman Returns (1992).",
+   "description_zh": "模拟的“类鸟”智能体会群聚、绕开障碍分流再重新汇合，就像真正的鸟群，尽管每个个体只遵循三条局部规则。这个模型很快被用于《蝙蝠侠归来》（1992）等电影中的蝙蝠和企鹅。",
+   "idea_en": "Collective life can emerge without a leader or plan, which changed how we imagine swarms of machines.",
+   "idea_zh": "集体生命可以在没有领导和计划的情况下涌现，这改变了我们对机器群体的想象。",
+   "method": "Each agent steers by separation, alignment and cohesion relative to nearby flockmates, computed in a 3D animation system.",
+   "method_zh": "每个智能体根据与邻近同伴的分离、对齐与聚合三条规则转向，在三维动画系统中计算。",
+   "keywords": [
+    "Boids",
+    "Craig Reynolds",
+    "flocking",
+    "emergence",
+    "SIGGRAPH",
+    "artificial life"
+   ],
+   "also": [
+    "theory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=86iQiV3-3IA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/37401.37406",
+    "doi": "10.1145/37401.37406",
+    "venue": "SIGGRAPH 1987",
+    "title": "Flocks, herds and schools: A distributed behavioral model"
+   },
+   "source_url": "https://www.red3d.com/cwr/boids/"
+  },
+  {
+   "id": "radhika-nagpal--kilobots",
+   "creator_ids": [
+    "radhika-nagpal"
+   ],
+   "title": "Kilobots: a thousand-robot swarm",
+   "year": 2014,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "1,024 coin-sized robots on three wiry legs slowly assemble themselves into a star, a letter K and other shapes, using only local signals with their neighbours; traffic jams and stragglers are part of the result.",
+   "description_zh": "1024 台硬币大小、靠三根细腿移动的机器人，只靠与邻居之间的局部信号，缓慢地把自己排成星形、字母 K 等形状；堵塞和掉队者也是结果的一部分。",
+   "idea_en": "A swarm of cheap, error-prone machines can still build a collective form, with errors absorbed by the group.",
+   "idea_zh": "一群廉价、容易出错的机器仍然能组成集体形态，错误被群体吸收。",
+   "method": "Each Kilobot moves by vibration motors and communicates by infrared reflected off the table; a distributed algorithm uses edge-following, gradient formation and localisation (with Michael Rubenstein and Alejandro Cornejo).",
+   "method_zh": "每台 Kilobot 靠振动电机移动，通过从桌面反射的红外线通信；分布式算法使用沿边移动、梯度形成与定位（与 Michael Rubenstein、Alejandro Cornejo 合作）。",
+   "keywords": [
+    "Kilobot",
+    "swarm robotics",
+    "Radhika Nagpal",
+    "Michael Rubenstein",
+    "Harvard",
+    "self-assembly"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=G1t4M2XnIhI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kilobot_robot_swarm.JPG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/science.1254295",
+    "doi": "10.1126/science.1254295",
+    "venue": "Science 2014",
+    "title": "Programmable self-assembly in a thousand-robot swarm"
+   }
+  },
+  {
+   "id": "hod-lipson--golem",
+   "creator_ids": [
+    "hod-lipson"
+   ],
+   "title": "Golem project",
+   "year": 2000,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "Computers evolved simple bar-and-actuator robots in simulation, selecting them for their ability to crawl, then 3D-printed them; after motors were added by hand, the physical 'lifeforms' crawled across the floor as in simulation.",
+   "description_zh": "计算机在模拟中演化出由杆件和执行器组成的简单机器人，按爬行能力进行选择，再把它们 3D 打印出来；手工装上电机后，这些实体“生命形式”像在模拟中一样在地上爬行。",
+   "idea_en": "Machines can design and make their own bodies, with humans reduced to plugging in the motors.",
+   "idea_zh": "机器可以设计并制造自己的身体，人只剩下插上电机这一步。",
+   "method": "An evolutionary algorithm co-evolves morphology and neural control in a physics simulation; winning designs are fabricated by rapid prototyping (with Jordan Pollack, Brandeis University).",
+   "method_zh": "演化算法在物理模拟中同时演化形态与神经控制；胜出的设计用快速成型制造（与布兰迪斯大学 Jordan Pollack 合作）。",
+   "keywords": [
+    "Golem",
+    "Hod Lipson",
+    "Jordan Pollack",
+    "evolutionary robotics",
+    "3D printing",
+    "Brandeis"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tgJcYx-yewA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/35023115",
+    "doi": "10.1038/35023115",
+    "venue": "Nature 2000",
+    "title": "Automatic design and manufacture of robotic lifeforms"
+   }
+  },
+  {
+   "id": "josh-bongard--resilient-machines",
+   "creator_ids": [
+    "josh-bongard",
+    "hod-lipson"
+   ],
+   "title": "Resilient Machines Through Continuous Self-Modeling",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "A four-legged 'starfish' robot does not know its own shape. It moves a little, builds competing models of its body, and uses them to learn to walk; when a leg is shortened, it notices the damage and invents a new gait.",
+   "description_zh": "一台四条腿的“海星”机器人不知道自己的形状。它稍微动一动，建立几个互相竞争的身体模型，并用它们学会走路；当一条腿被截短，它能发现损伤并发明新的步态。",
+   "idea_en": "A machine that models its own body can survive injury, a first step toward a kind of machine self-awareness.",
+   "idea_zh": "一台能为自己身体建模的机器可以在受伤后存活，这是迈向某种机器自我觉察的第一步。",
+   "method": "The robot uses tilt sensors and joint encoders to test action hypotheses and select among candidate self-models, then optimises locomotion on the best model (with Viktor Zykov).",
+   "method_zh": "机器人用倾角传感器和关节编码器检验动作假设，在候选自我模型中挑选，再在最佳模型上优化运动（与 Viktor Zykov 合作）。",
+   "keywords": [
+    "Resilient Machines",
+    "self-model",
+    "starfish robot",
+    "Josh Bongard",
+    "Hod Lipson",
+    "Cornell"
+   ],
+   "also": [
+    "interiority"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=x579QKA6fkY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.1133687",
+    "doi": "10.1126/science.1133687",
+    "venue": "Science 2006",
+    "title": "Resilient Machines Through Continuous Self-Modeling"
+   }
+  },
+  {
+   "id": "leonel-moura--artsbots",
+   "creator_ids": [
+    "leonel-moura"
+   ],
+   "title": "ArtSBots",
+   "year": 2003,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A swarm of small wheeled robots with coloured pens moves over a large canvas, each reacting to colour left by the others, until a painting emerges that no one planned. In 2006 Moura's RAP (Robotic Action Painter) extended the idea to a single autonomous painter.",
+   "description_zh": "一群装着彩色笔的小型轮式机器人在大画布上移动，每台机器人都对其他机器人留下的颜色做出反应，最后出现一幅无人规划的画。2006 年，Moura 的 RAP（机器人行动画家）把这个思路延伸为一台自主作画的机器。",
+   "idea_en": "Emergent machine collectives can produce 'non-human art' whose author is the swarm.",
+   "idea_zh": "涌现的机器集体可以产生作者是群体本身的“非人艺术”。",
+   "method": "Each robot has colour sensors, obstacle sensors and a microcontroller running stigmergy-like rules: it paints more where colour already is, as ants follow pheromones (with Henrique Garcia Pereira).",
+   "method_zh": "每台机器人配有颜色传感器、避障传感器和微控制器，运行类似“共识主动性”的规则：在已有颜色的地方画得更多，就像蚂蚁追随信息素（与 Henrique Garcia Pereira 合作）。",
+   "keywords": [
+    "Leonel Moura",
+    "ArtSBots",
+    "RAP",
+    "swarm painting",
+    "non-human art",
+    "stigmergy"
+   ],
+   "also": [
+    "coperformance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XlUxXQPmKUc"
+   },
+   "source_url": "https://www.leonelmoura.com/robot-art/"
+  },
+  {
+   "id": "primavera-de-filippi--plantoid",
+   "creator_ids": [
+    "primavera-de-filippi"
+   ],
+   "title": "Plantoid",
+   "year": 2015,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A metal robotic flower that dances and lights up when it receives cryptocurrency donations. When it has collected enough, it commissions artists to build its offspring, choosing among proposals by vote of its donors: a machine that owns and reproduces itself.",
+   "description_zh": "一朵金属机器花，收到加密货币捐款时会舞动、发光。攒够钱后，它会委托艺术家为它制造后代，由捐款人投票在方案中做出选择：一台拥有自己并能自我繁殖的机器。",
+   "idea_en": "A blockchain can give a machine an economic life of its own, with humans as its pollinators.",
+   "idea_zh": "区块链可以让一台机器拥有自己的经济生命，而人类成了它的传粉者。",
+   "method": "A sculpture with sensors, lights and motors is linked to a smart contract on a blockchain that holds its funds and runs the voting for new plantoids (with Okhaos).",
+   "method_zh": "装有传感器、灯和电机的雕塑连接到区块链上的智能合约，由合约保管资金并组织新 Plantoid 的投票（与 Okhaos 合作）。",
+   "keywords": [
+    "Plantoid",
+    "Primavera De Filippi",
+    "blockchain",
+    "smart contract",
+    "DAO",
+    "self-owning machine"
+   ],
+   "also": [
+    "interiority"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5gMbhCgHGjY"
+   }
+  },
+  {
+   "id": "petra-gemeinboeck--zwischenraume",
+   "creator_ids": [
+    "petra-gemeinboeck",
+    "rob-saunders"
+   ],
+   "title": "Zwischenräume",
+   "year": 2010,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Robots hidden inside the gallery's walls punch and scratch small holes through the plasterboard, look out with cameras and follow visitors through the gaps, slowly reshaping the architecture.",
+   "description_zh": "藏在展厅墙体内部的机器人在石膏板上凿、刮出小洞，用摄像头往外看，透过缝隙跟随观众，慢慢改变建筑本身。",
+   "idea_en": "Curious machines living inside the architecture turn the gallery wall into a boundary between two worlds that watch each other.",
+   "idea_zh": "住在建筑内部的好奇机器，把展厅的墙变成两个互相注视的世界之间的边界。",
+   "method": "Wall-mounted robotic agents with camera vision run custom curiosity-driven AI software that rewards novel perceptions; they punch and scrape through the plasterboard.",
+   "method_zh": "装在墙内的机器人智能体配有摄像头视觉，运行以“新奇感”为奖励的定制好奇心 AI 软件；它们在石膏板上凿孔、刮擦。",
+   "keywords": [
+    "Petra Gemeinboeck",
+    "Rob Saunders",
+    "Zwischenräume",
+    "curious robots",
+    "architecture",
+    "machine vision"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rbDT3tMQL-I"
+   },
+   "exhibited": [
+    "National New Media Art Award, Gallery of Modern Art (QAGOMA), Brisbane 2012"
+   ]
+  },
+  {
+   "id": "theo-jansen--strandbeest",
+   "creator_ids": [
+    "theo-jansen"
+   ],
+   "title": "Strandbeest",
+   "year": 1990,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Large walking skeletons of PVC tubing that are powered by wind on Dutch beaches, store air in bottles, and in later generations sense water and turn back from the sea.",
+   "description_zh": "用 PVC 管制作的大型行走骨架，在荷兰海滩上靠风驱动，把空气储存在瓶中，后代机型还能感知海水并掉头远离大海。",
+   "idea_en": "A machine without electronics can still evolve, sense and 'survive' in its own habitat.",
+   "idea_zh": "一台没有电子元件的机器，仍然可以在自己的栖息地里演化、感知和“求生”。",
+   "method": "Leg linkages with 'holy numbers' found by a computer-evolved algorithm convert wind-driven rotation into walking; plastic bottles act as air 'stomachs' and tubes as logic.",
+   "method_zh": "用计算机演化算法找到的“神圣数字”设计腿部连杆，把风力驱动的旋转转为行走；塑料瓶是储气的“胃”，管子充当逻辑元件。",
+   "keywords": [
+    "Theo Jansen",
+    "Strandbeest",
+    "wind",
+    "PVC",
+    "walking machine",
+    "Dutch beach"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C97kMKwZ2-g"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1050599/preview/"
+   ],
+   "source_url": "https://www.strandbeest.com/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2005, special prize (Interactive Art)"
+   ]
+  },
+  {
+   "id": "sam-kriegman--xenobots",
+   "creator_ids": [
+    "sam-kriegman",
+    "josh-bongard",
+    "michael-levin"
+   ],
+   "title": "Xenobots",
+   "year": 2020,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny",
+    "machine-umwelt"
+   ],
+   "kind": "prototype",
+   "description": "Millimetre-sized 'living robots' made from frog skin and heart-muscle cells, designed by an evolutionary algorithm on a supercomputer, walk, push pellets and heal themselves; a 2021 follow-up found they can gather loose cells into copies of themselves.",
+   "description_zh": "用青蛙皮肤细胞和心肌细胞做成、只有毫米大小的“活体机器人”，由超级计算机上的演化算法设计，会行走、推动小颗粒并自我愈合；2021 年的后续研究发现，它们能把散落的细胞聚集成自己的复制品。",
+   "idea_en": "When machine bodies are made of living cells, the line between robot and organism no longer holds.",
+   "idea_zh": "当机器身体由活细胞构成，机器人与生物之间的界线就不再成立。",
+   "method": "Designs evolved in simulation (University of Vermont) were built by hand from Xenopus laevis stem cells with microsurgery tools (Tufts University).",
+   "method_zh": "在模拟中演化出的设计（佛蒙特大学）用显微手术工具以非洲爪蟾干细胞手工制作（塔夫茨大学）。",
+   "keywords": [
+    "xenobots",
+    "living robots",
+    "Xenopus",
+    "evolutionary algorithm",
+    "Michael Levin",
+    "Josh Bongard"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aBYtBXaxsOw"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/dd/Xenobot.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.1910837117",
+    "doi": "10.1073/pnas.1910837117",
+    "venue": "PNAS 2020",
+    "title": "A scalable pipeline for designing reconfigurable organisms"
+   }
+  },
+  {
+   "id": "robert-wood--octobot",
+   "creator_ids": [
+    "robert-wood",
+    "jennifer-lewis"
+   ],
+   "title": "Octobot",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A small octopus-shaped robot made entirely of soft materials, with no batteries, wires or rigid electronics, curls its arms as fuel reacts inside it.",
+   "description_zh": "一个章鱼形状的小机器人完全由柔软材料制成，没有电池、电线或硬质电子元件，体内燃料发生反应时，它的触手就会卷曲。",
+   "idea_en": "A robot with no hard parts shows that a machine body need not be a rigid mechanism at all.",
+   "idea_zh": "一个没有任何硬部件的机器人显示：机器身体根本不必是刚性机构。",
+   "method": "Hydrogen peroxide decomposes on a platinum catalyst to gas that inflates the arms; a microfluidic logic circuit alternates the flow, and the body is made by embedded 3D printing and moulding (first author Michael Wehner).",
+   "method_zh": "过氧化氢在铂催化剂上分解成气体，给触手充气；微流控逻辑回路交替控制流动，身体用嵌入式 3D 打印和模塑制成（第一作者 Michael Wehner）。",
+   "keywords": [
+    "Octobot",
+    "soft robotics",
+    "Harvard",
+    "microfluidics",
+    "3D printing",
+    "Wyss Institute"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1vkQ3SBwuU4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/nature19100",
+    "doi": "10.1038/nature19100",
+    "venue": "Nature 2016",
+    "title": "An integrated design and fabrication strategy for entirely soft, autonomous robots"
+   }
+  },
+  {
+   "id": "philip-beesley--hylozoic-ground",
+   "creator_ids": [
+    "philip-beesley"
+   ],
+   "title": "Hylozoic Ground",
+   "year": 2010,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "An immersive forest of tens of thousands of acrylic fronds, whiskers and filters in the Canada Pavilion at the Venice Architecture Biennale, moving in response to visitors and hosting flasks of protocell chemistry.",
+   "description_zh": "威尼斯建筑双年展加拿大馆里由数万片亚克力叶片、触须和过滤器组成的沉浸式“森林”，会对观众作出反应，并容纳装有原生细胞化学物的烧瓶。",
+   "idea_en": "Architecture can behave like a near-living organism that breathes and reaches toward the people inside it.",
+   "idea_zh": "建筑可以像一个近乎活着的生物那样行为，会呼吸，也会伸向身在其中的人。",
+   "method": "A mesh of laser-cut acrylic and mylar elements is fitted with capacitive and infrared sensors, shape-memory-alloy actuators and microcontrollers, plus glass vessels of protocell solutions (with Rachel Armstrong).",
+   "method_zh": "激光切割的亚克力和聚酯薄膜网格装有电容和红外传感器、形状记忆合金执行器和微控制器，还有盛放原生细胞溶液的玻璃容器（与 Rachel Armstrong 合作）。",
+   "keywords": [
+    "Philip Beesley",
+    "Hylozoic Ground",
+    "Venice Architecture Biennale",
+    "responsive architecture",
+    "protocells"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jgL2ppDmNtA"
+   },
+   "images": [
+    "https://www.philipbeesleystudioinc.com/wp-content/uploads/2021/06/banner-39.jpg"
+   ],
+   "source_url": "https://www.philipbeesleystudioinc.com/sculpture/hylozoic-ground-venice-biennale/",
+   "exhibited": [
+    "Canada Pavilion, Venice Architecture Biennale 2010"
+   ]
+  },
+  {
+   "id": "guy-ben-ary--meart",
+   "creator_ids": [
+    "guy-ben-ary"
+   ],
+   "title": "MEART – The Semi-Living Artist",
+   "year": 2003,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-arm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A robotic drawing arm in a gallery was controlled over the internet by rat cortical neurons living in a lab in Atlanta; a camera fed the drawing back to the neurons so they could 'see' their work.",
+   "description_zh": "展厅里的机械绘画臂通过互联网，由位于亚特兰大实验室中的大鼠皮层神经元控制；摄像头把画面反馈给神经元，让它们“看到”自己的作品。",
+   "idea_en": "When living neurons drive a machine body across continents, the 'artist' is split between tissue, network and robot.",
+   "idea_zh": "当活体神经元跨越大洲驱动一具机器身体，“艺术家”就被分散在组织、网络与机器人之间。",
+   "method": "Neural cultures on a multi-electrode array in Steve Potter's lab at Georgia Tech are stimulated with camera data; their activity is translated into arm movements in Perth (SymbioticA).",
+   "method_zh": "佐治亚理工学院 Steve Potter 实验室中多电极阵列上的神经培养物接收摄像头数据的刺激；其活动被转换为珀斯（SymbioticA）机械臂的动作。",
+   "keywords": [
+    "MEART",
+    "Guy Ben-Ary",
+    "SymbioticA",
+    "semi-living",
+    "neurons",
+    "Steve Potter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PM5Ui5KwmXQ"
+   },
+   "images": [
+    "https://guybenary.com/images/meart.jpg"
+   ],
+   "source_url": "https://guybenary.com/projects/meart.html"
+  },
+  {
+   "id": "guy-ben-ary--cellf",
+   "creator_ids": [
+    "guy-ben-ary"
+   ],
+   "title": "cellF",
+   "year": 2015,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife",
+    "voice-listening"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "A neural synthesizer whose 'brain' is a network of about 100,000 neurons grown from the artist's own skin cells. It plays analog modular synthesizers in live improvisation with human musicians.",
+   "description_zh": "一台神经合成器，它的“大脑”是用艺术家自己的皮肤细胞培养出的约 10 万个神经元网络。它在现场即兴中与人类音乐家一起演奏模拟模块合成器。",
+   "idea_en": "A self grown outside the body becomes a machine musician, and the artist meets his own neurons as a bandmate.",
+   "idea_zh": "在身体之外长出的“自我”成了机器音乐家，艺术家把自己的神经元当作乐队伙伴来相遇。",
+   "method": "Skin cells reprogrammed into stem cells and then neurons grow on a multi-electrode array; their spikes control synthesizer voltages, and the musicians' sound is fed back as stimulation.",
+   "method_zh": "皮肤细胞被重编程为干细胞再分化为神经元，生长在多电极阵列上；它们的放电控制合成器电压，音乐家的声音又被反馈为刺激。",
+   "keywords": [
+    "cellF",
+    "Guy Ben-Ary",
+    "neural synthesizer",
+    "iPSC",
+    "SymbioticA",
+    "improvisation"
+   ],
+   "also": [
+    "coperformance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1G-vk5QWRsg"
+   },
+   "images": [
+    "https://guybenary.com/images/cellf.jpg",
+    "https://archive.aec.at/asset/2230565/preview/"
+   ],
+   "source_url": "https://guybenary.com/projects/cellf.html",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2017, Honorary Mention (Hybrid Art)"
+   ]
+  },
+  {
+   "id": "garnet-hertz--cockroach-controlled-mobile-robot",
+   "creator_ids": [
+    "garnet-hertz"
+   ],
+   "title": "Cockroach Controlled Mobile Robot",
+   "year": 2004,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A Madagascar hissing cockroach stands on a trackball on top of a three-wheeled robot; its walking steers the robot, and distance sensors feed back to the insect so it can avoid obstacles.",
+   "description_zh": "一只马达加斯加发声蟑螂站在三轮机器人顶部的轨迹球上，它的行走驾驶机器人；距离传感器再把障碍信息反馈给这只昆虫。",
+   "idea_en": "An insect can be the brain of a robot, which raises the question of whose perception the machine extends.",
+   "idea_zh": "一只昆虫可以当机器人的大脑，这就引出问题：这台机器延伸的是谁的感知。",
+   "method": "An inverted trackball reads the cockroach's steps and drives the wheels; infrared range sensors trigger small lights in front of the insect to steer it away from walls.",
+   "method_zh": "倒置的轨迹球读取蟑螂的步伐并驱动轮子；红外测距传感器触发昆虫前方的小灯，引导它避开墙壁。",
+   "keywords": [
+    "Garnet Hertz",
+    "cockroach",
+    "biorobotics",
+    "UC Irvine",
+    "insect cyborg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7mTb7LYj7KE"
+   },
+   "images": [
+    "http://www.conceptlab.com/control/IMG_1834_600.jpg"
+   ],
+   "source_url": "https://www.conceptlab.com/roachbot/"
+  },
+  {
+   "id": "ivan-henriques--action-plant",
+   "creator_ids": [
+    "ivan-henriques"
+   ],
+   "title": "Jurema Action Plant",
+   "year": 2010,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A sensitive plant (Mimosa pudica, 'jurema' in Brazil) sits on a small robotic vehicle; when it is touched, its electrical signals make the vehicle move away, giving a threatened plant the ability to flee its aggressors.",
+   "description_zh": "一株含羞草（巴西称 jurema）立在一辆小型机器人车上；被触碰时，它的电信号会让小车移开，赋予受威胁的植物逃离“侵害者”的能力。",
+   "idea_en": "A machine body can extend a plant's own sensing into movement it never had.",
+   "idea_zh": "机器身体可以把植物自身的感知延伸为它从未有过的移动能力。",
+   "method": "Electrodes read the plant's action potentials; a microcontroller turns spikes into motor commands for the wheeled base (V2_Lab Summer Sessions).",
+   "method_zh": "电极读取植物的动作电位；微控制器把电位峰转换为轮式底座的电机指令（V2_ 实验室夏季驻留项目）。",
+   "keywords": [
+    "Ivan Henriques",
+    "Action Plant",
+    "Mimosa pudica",
+    "plant-robot hybrid",
+    "V2_",
+    "Brazil"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZdrDNA0-nz0"
+   },
+   "exhibited": [
+    "V2_ Summer Sessions, Rotterdam 2010"
+   ]
+  },
+  {
+   "id": "harpreet-sareen--elowan",
+   "creator_ids": [
+    "harpreet-sareen"
+   ],
+   "title": "Elowan",
+   "year": 2018,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A potted plant sits on a wheeled robot base and drives itself toward the brightest light: the plant's own electrical responses to light, not a light sensor, decide where the robot goes.",
+   "description_zh": "一盆植物坐在轮式机器人底座上，自己驶向最亮的光：决定机器人去向的不是光传感器，而是植物自身对光的电反应。",
+   "idea_en": "A robot can act as a prosthetic body for a plant, amplifying its intentions instead of replacing them.",
+   "idea_zh": "机器人可以充当植物的义体，放大而不是取代它的意图。",
+   "method": "Silver electrodes on leaves and stem pick up bioelectrochemical signals; these are amplified and mapped to the motors of the base (MIT Media Lab, with Pattie Maes).",
+   "method_zh": "叶片与茎上的银电极拾取生物电化学信号，放大后映射到底座的电机（麻省理工学院媒体实验室，与 Pattie Maes 合作）。",
+   "keywords": [
+    "Elowan",
+    "Harpreet Sareen",
+    "MIT Media Lab",
+    "cyborg botany",
+    "plant-robot hybrid"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EoXQBQR5OaE"
+   },
+   "images": [
+    "https://dam-prod.media.mit.edu/thumb/2018/11/01/BannerImage_v01.jpg.1400x1400.jpg"
+   ],
+   "source_url": "https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/"
+  },
+  {
+   "id": "diemut-strebe--sugababe",
+   "creator_ids": [
+    "diemut-strebe"
+   ],
+   "title": "Sugababe",
+   "year": 2014,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife",
+    "voice-listening"
+   ],
+   "lenses": [
+    "embodiment",
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A living replica of Van Gogh's severed ear, grown from cartilage cells engineered with DNA from a Van Gogh descendant and kept alive in a nutrient case; visitors can speak into a microphone and a computer turns their voice into nerve-like impulses sent to the ear.",
+   "description_zh": "梵高被割下的耳朵的活体复制品：用带有梵高后裔 DNA 的软骨细胞培养而成，保存在营养舱中；观众可以对着麦克风说话，计算机把声音转换成类似神经冲动的信号传给这只耳朵。",
+   "idea_en": "A machine-mediated living organ that 'listens' asks what is left of a person, and of genius, when only tissue and signal remain.",
+   "idea_zh": "一只经机器中介、会“倾听”的活体器官追问：当只剩下组织与信号时，一个人、一位“天才”还剩下什么。",
+   "method": "Tissue-engineered cartilage shaped by 3D imaging is kept in a bioreactor; a microphone and processor convert speech into electrical pulses (with scientists at Harvard and MIT).",
+   "method_zh": "按三维成像塑形的组织工程软骨保存在生物反应器中；麦克风和处理器把语音转成电脉冲（与哈佛和麻省理工学院的科学家合作）。",
+   "keywords": [
+    "Diemut Strebe",
+    "Sugababe",
+    "Van Gogh",
+    "tissue engineering",
+    "ZKM",
+    "bio art"
+   ],
+   "also": [
+    "afterlife"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tdZYPLYEkVc"
+   },
+   "source_url": "https://diemutstrebe.com/",
+   "exhibited": [
+    "ZKM Karlsruhe, 30 May – 6 July 2014"
+   ]
+  },
+  {
+   "id": "chico-macmurtrie--border-crosser",
+   "creator_ids": [
+    "chico-macmurtrie"
+   ],
+   "title": "Border Crosser",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A 40-foot inflatable robotic arch rises from the ground, sways toward one of three directions and finally bends over an imagined border to touch down on the other side, forming a bridge.",
+   "description_zh": "一座 40 英尺高的充气机器人拱从地面升起，朝三个方向之一摇摆，最终弯过一条假想的边界，在另一侧着地，形成一座桥。",
+   "idea_en": "A soft machine that can only grow, bend and reach makes crossing a border look like a bodily gesture of connection.",
+   "idea_zh": "一台只会生长、弯曲和伸展的柔软机器，让跨越边界看起来像一个身体上的连接姿态。",
+   "method": "High-strength fabric tubes are inflated in sequence by computer-controlled valves and blowers; its form refers to telecommunication and power towers. Later versions were staged at the US–Mexico border.",
+   "method_zh": "高强度织物管由计算机控制的阀门和鼓风机依次充气；造型参照通信塔与电塔。后续版本在美墨边境上演。",
+   "keywords": [
+    "Chico MacMurtrie",
+    "Amorphic Robot Works",
+    "Border Crosser",
+    "inflatable robot",
+    "ZERO1",
+    "borders"
+   ],
+   "also": [
+    "power"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8yeyn_8PSPU"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/57acb395e58c62449d47f5ab/1638811097602-QHWP46PRIXFEN1EYH7EN/Caroussel+image+Border+Crossers.jpg"
+   ],
+   "source_url": "http://www.amorphicrobotworks.org/",
+   "exhibited": [
+    "ZERO1 commission, San Jose 2016"
+   ]
+  },
+  {
+   "id": "ralf-baecker--putting-the-pieces-back-together-again",
+   "creator_ids": [
+    "ralf-baecker"
+   ],
+   "title": "Putting the Pieces Back Together Again",
+   "year": 2018,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "An array of 1,250 small stepper motors, each turning a white bar, forms a surface across which waves, clusters and swarm-like patterns pass, as the motors align with and disturb their neighbours.",
+   "description_zh": "由 1250 个小步进电机组成的阵列，每个电机转动一根白色短杆，形成一个表面；电机与相邻电机彼此对齐又互相扰动，波纹、簇团和群体般的图案在表面上流过。",
+   "idea_en": "Order emerges and dissolves in a field of simple machines, making self-organisation visible as motion.",
+   "idea_zh": "秩序在一片简单机器中出现又消散，自组织被显现为运动。",
+   "method": "Each motor is an element of a coupled-oscillator or spin-like model; local interaction rules computed in real time set each bar's angle (commissioned for the Drehmoment festival in a former newspaper building).",
+   "method_zh": "每个电机是一个耦合振子或类自旋模型中的单元；实时计算的局部相互作用规则决定每根杆的角度（为 Drehmoment 艺术节在一座旧报社大楼中委托创作）。",
+   "keywords": [
+    "Ralf Baecker",
+    "Putting the Pieces Back Together Again",
+    "stepper motors",
+    "self-organisation",
+    "Drehmoment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8GtFttw8z9U"
+   },
+   "source_url": "https://rlfbckr.io/project/ptpbta/",
+   "exhibited": [
+    "Drehmoment, KulturRegion Stuttgart, Kirchheim unter Teck 2018"
+   ]
+  },
+  {
+   "id": "guy-ben-ary--silent-barrage",
+   "creator_ids": [
+    "guy-ben-ary"
+   ],
+   "title": "Silent Barrage",
+   "year": 2009,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Tall robotic poles in a gallery mark walls with ink, driven by a rat neural culture in Atlanta; visitors' movements are sent back as stimulation, trying to calm the culture's epilepsy-like bursts.",
+   "description_zh": "展厅中高大的机器人立柱在墙上留下墨迹，由亚特兰大的大鼠神经培养物驱动；观众的移动被回传为刺激，试图平息培养物类似癫痫的爆发。",
+   "idea_en": "The audience becomes part of a feedback loop that may soothe or agitate a living network inside a machine body.",
+   "idea_zh": "观众成为反馈回路的一部分，可能安抚、也可能激惹一个寄居在机器身体中的活神经网络。",
+   "method": "Cameras track visitors and convert their positions into stimulation of a remote multi-electrode-array culture; recorded activity drives 32 robotic pole-drawers (with Steve Potter and the Neurotica group).",
+   "method_zh": "摄像头追踪观众，把他们的位置转换成对远端微电极阵列培养物的刺激；记录到的活动驱动 32 根机器人绘画立柱（与 Steve Potter 及 Neurotica 小组合作）。",
+   "keywords": [
+    "Silent Barrage",
+    "Guy Ben-Ary",
+    "Neurotica",
+    "neural culture",
+    "epilepsy",
+    "robotic poles"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aaIJoXlXHZM"
+   },
+   "images": [
+    "https://guybenary.com/images/silent-barrage.jpg"
+   ],
+   "source_url": "https://guybenary.com/projects/silent-barrage.html"
+  },
+  {
+   "id": "hod-lipson--self-reproducing-machines",
+   "creator_ids": [
+    "hod-lipson"
+   ],
+   "title": "Self-reproducing machines (Molecubes)",
+   "year": 2005,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "paper",
+   "description": "A tower of four magnetically linked robotic cubes bends, picks up fresh cubes from feeding stations and stacks them into a copy of itself, in about two and a half minutes.",
+   "description_zh": "一座由四个磁力相连的机器人立方体组成的塔弯下身子，从“喂料站”拾起新的立方体，把它们叠成自己的复制品，用时约两分半钟。",
+   "idea_en": "Self-reproduction, long a defining trait of life, can be performed by simple modular machines given a supply of parts.",
+   "idea_zh": "自我复制长期被视为生命的标志，而只要有零件供应，简单的模块化机器也能做到。",
+   "method": "Each 10 cm cube has a swivel joint, electromagnets on its faces and a microcontroller; a pre-programmed sequence moves cubes from feeders to build the replica (Cornell, with Victor Zykov, Efstathios Mytilinaios and Bryant Adams).",
+   "method_zh": "每个 10 厘米的立方体有一个旋转关节、各面上的电磁铁和一枚微控制器；预编程序列把立方体从喂料站移去搭建复制品（康奈尔大学，与 Victor Zykov、Efstathios Mytilinaios、Bryant Adams 合作）。",
+   "keywords": [
+    "Molecubes",
+    "self-replication",
+    "Hod Lipson",
+    "Victor Zykov",
+    "Cornell",
+    "modular robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gZwTcLeelAY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/435163a",
+    "doi": "10.1038/435163a",
+    "venue": "Nature 2005",
+    "title": "Self-reproducing machines"
+   }
+  }
+ ],
+ "leads": []
+}

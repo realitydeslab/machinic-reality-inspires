@@ -1,0 +1,2811 @@
+{
+ "batch": "machine-vision-db",
+ "creators": [
+  {
+   "id": "christian-moeller",
+   "name": "Christian Moeller",
+   "kind": "person",
+   "role": "Media artist; Professor, UCLA Design Media Arts",
+   "based": "Los Angeles, US",
+   "bio": "German-born media artist who makes interactive installations and public artworks with sensors, cameras and robots.",
+   "why": "His early works stage the demands that sensing machines place on human bodies and faces.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://christianmoeller.com"
+   },
+   "role_zh": "媒体艺术家；加州大学洛杉矶分校设计媒体艺术系教授",
+   "bio_zh": "德国出生的媒体艺术家，用传感器、摄像头和机器人制作互动装置与公共艺术。",
+   "why_zh": "他的早期作品把感知机器对人的身体与面孔提出的要求直接搬上舞台。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "bernd-hopfengaertner",
+   "name": "Bernd Hopfengärtner",
+   "kind": "person",
+   "role": "Designer and artist",
+   "based": "Germany",
+   "bio": "German designer whose films and objects explore near-future consumer technologies.",
+   "why": "His film Belief Systems is an early speculative look at shops that read faces.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://berndhopfengaertner.net"
+   },
+   "role_zh": "设计师、艺术家",
+   "bio_zh": "德国设计师，通过影片与物件探讨近未来的消费技术。",
+   "why_zh": "他的影片 Belief Systems 很早就想象了会读取人脸的商店。",
+   "based_zh": "德国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "michael-snow",
+   "name": "Michael Snow",
+   "kind": "person",
+   "role": "Artist and filmmaker (1928–2023)",
+   "based": "Toronto, Canada",
+   "bio": "Canadian artist and structural filmmaker known for Wavelength (1967) and La Région Centrale (1971).",
+   "why": "He built a machine to film a landscape with a camera freed from the human body.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家、电影人（1928–2023）",
+   "bio_zh": "加拿大艺术家与结构主义电影人，代表作有 Wavelength（1967）和 La Région Centrale（1971）。",
+   "why_zh": "他造了一台机器，让摄像机脱离人的身体去拍摄风景。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "bureau-of-inverse-technology",
+   "name": "Bureau of Inverse Technology (BIT)",
+   "kind": "studio",
+   "role": "Art-engineering collective",
+   "based": "US / UK",
+   "bio": "Anonymous information agency founded in the early 1990s, with Natalie Jeremijenko and Kate Rich among its members, that built devices to monitor the monitors.",
+   "why": "BIT turned surveillance technology back on corporations and the state, well before consumer drones.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://bureauit.org"
+   },
+   "role_zh": "艺术工程团体",
+   "bio_zh": "1990 年代初成立的匿名“信息机构”，成员包括 Natalie Jeremijenko 与 Kate Rich，制作用来监视监视者的装置。",
+   "why_zh": "早在消费级无人机出现之前，BIT 就把监控技术反过来对准了企业与国家。",
+   "based_zh": "美国 / 英国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "waltz-binaire",
+   "name": "Waltz Binaire",
+   "kind": "studio",
+   "role": "Design and media art studio (Christian Mio Loclair)",
+   "based": "Berlin, Germany",
+   "bio": "Berlin studio led by Christian Mio Loclair that makes installations with machine learning and motion.",
+   "why": "Narciss asks what a vision model says when it looks at itself.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://christianmioloclair.com"
+   },
+   "role_zh": "设计与媒体艺术工作室（Christian Mio Loclair）",
+   "bio_zh": "由 Christian Mio Loclair 主持的柏林工作室，用机器学习和动作制作装置。",
+   "why_zh": "Narciss 追问：一个视觉模型看着自己时会说什么。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "benjamin-maus",
+   "name": "Benjamin Maus",
+   "kind": "person",
+   "role": "Designer and artist",
+   "based": "Berlin, Germany",
+   "bio": "German designer and artist who builds machines and software systems that sort, draw and compute.",
+   "why": "Jller turns an industrial sorting machine into a patient reader of geological time.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://allesblinkt.com"
+   },
+   "role_zh": "设计师、艺术家",
+   "bio_zh": "德国设计师与艺术家，制作会分类、绘图与计算的机器和软件系统。",
+   "why_zh": "Jller 把一台工业分拣机变成了耐心阅读地质时间的机器。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "prokop-bartonicek"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "prokop-bartonicek",
+   "name": "Prokop Bartoníček",
+   "kind": "person",
+   "role": "Designer and artist",
+   "based": "Berlin, Germany",
+   "bio": "Czech designer and artist working with interactive systems, installations and machines.",
+   "why": "Co-author of Jller, a machine that sorts river stones by age using computer vision.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "http://www.prokopbartonicek.com"
+   },
+   "role_zh": "设计师、艺术家",
+   "bio_zh": "捷克设计师与艺术家，创作互动系统、装置与机器。",
+   "why_zh": "Jller 的共同作者，这台机器用计算机视觉按年代给河石排序。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "benjamin-maus"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "helena-nikonole",
+   "name": "Helena Nikonole",
+   "kind": "person",
+   "role": "Artist and curator",
+   "based": "Berlin, Germany",
+   "bio": "Helena Nikonole is a new-media artist working with AI, bio art and DIY biotechnology.",
+   "why": "Treats the skin microbiome as an interface between species.",
+   "links": {
+    "site": "https://nikonole.com/"
+   },
+   "role_zh": "艺术家、策展人",
+   "bio_zh": "Helena Nikonole 是新媒体艺术家，创作涉及人工智能、生物艺术和 DIY 生物技术。",
+   "why_zh": "把皮肤微生物组视为物种之间的界面。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db",
+   "disciplines": [
+    "art"
+   ]
+  },
+  {
+   "id": "emilio-vavarella",
+   "name": "Emilio Vavarella",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "US / Italy",
+   "bio": "Italian artist working on the relation between humans, technology and power, often through errors in automated image systems.",
+   "why": "His Google and Facebook series collect the moments when automated imaging shows its human side or its mistakes.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://emiliovavarella.com"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "意大利艺术家，常借自动图像系统的错误，研究人、技术与权力之间的关系。",
+   "why_zh": "他关于 Google 与 Facebook 的系列收集了自动成像显露人的痕迹或出错的瞬间。",
+   "based_zh": "美国 / 意大利",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "katja-novitskova",
+   "name": "Katja Novitskova",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Estonian artist whose sculptures and images deal with how technology, imaging and biology render life; she represented Estonia at the 2017 Venice Biennale.",
+   "why": "Her Earthware works picture animals as they appear to sensing machines.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.katjanovitskova.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "爱沙尼亚艺术家，作品关注技术、成像与生物学如何呈现生命；2017 年代表爱沙尼亚参加威尼斯双年展。",
+   "why_zh": "她的 Earthware 系列描绘动物在感知机器眼中的样子。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "joaquin-fargas",
+   "name": "Joaquín Fargas",
+   "kind": "person",
+   "role": "Artist and engineer; director of Proyecto Biosfera",
+   "bio": "Argentine artist working across art, science and technology on climate and life, including sealed biospheres and Antarctic robots.",
+   "why": "His Glaciator robots work on behalf of a glacier rather than people.",
+   "links": {
+    "site": "https://www.joaquinfargas.com"
+   },
+   "role_zh": "艺术家、工程师，Proyecto Biosfera 负责人",
+   "bio_zh": "阿根廷艺术家，以艺术、科学与技术回应气候与生命议题，作品包括封闭生物圈和南极机器人。",
+   "why_zh": "他的 Glaciator 机器人为冰川而不是为人工作。",
+   "based": "Buenos Aires, Argentina",
+   "based_zh": "布宜诺斯艾利斯，阿根廷",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db",
+   "disciplines": [
+    "art",
+    "robotics"
+   ]
+  },
+  {
+   "id": "richard-mosse",
+   "name": "Richard Mosse",
+   "kind": "person",
+   "role": "Artist and photographer",
+   "based": "New York, US",
+   "bio": "Irish artist who uses military and scientific imaging technologies, such as infrared film and thermal cameras, to document conflict and migration.",
+   "why": "Incoming turns a weapons-grade camera on the people it was built to detect.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.richardmosse.com"
+   },
+   "role_zh": "艺术家、摄影师",
+   "bio_zh": "爱尔兰艺术家，使用红外胶片、热成像相机等军事与科学成像技术记录冲突与迁徙。",
+   "why_zh": "Incoming 把一台武器级相机对准了它本来要探测的人。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "geocinema",
+   "name": "Geocinema",
+   "kind": "studio",
+   "role": "Artist collective",
+   "based": "Europe / Asia",
+   "bio": "Collective founded by Asia Bazdyrieva and Solveig Suess (with Alexey Orlov in early projects) that treats planetary sensing networks as one distributed camera.",
+   "why": "They read satellites, CCTV and street-view cars as a cinema of the Earth made by machines.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://geocinema.network"
+   },
+   "role_zh": "艺术团体",
+   "bio_zh": "由 Asia Bazdyrieva 与 Solveig Suess 创立（早期项目有 Alexey Orlov 参与）的团体，把行星级传感网络视为一台分布式摄像机。",
+   "why_zh": "他们把卫星、监控与街景车看作由机器拍摄的“地球电影”。",
+   "based_zh": "欧洲 / 亚洲",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "max-dovey",
+   "name": "Max Dovey",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "London, UK",
+   "bio": "British artist whose performances put people in the position of being classified by, or working for, machine-learning systems.",
+   "why": "He makes the everyday comedy and labour of machine classification bodily.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.maxdovey.com"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "英国艺术家，其表演让人处在被机器学习系统分类或为之劳动的位置。",
+   "why_zh": "他让机器分类中的日常荒诞与劳动变得切身可感。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "manetta-berends"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "manetta-berends",
+   "name": "Manetta Berends",
+   "kind": "person",
+   "role": "Designer and researcher",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Dutch designer and researcher working with free software, publishing and machine-learning literacy.",
+   "why": "Co-author of H.I.T., a game show about the human labour inside image recognition.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师、研究者",
+   "bio_zh": "荷兰设计师与研究者，关注自由软件、出版与机器学习素养。",
+   "why_zh": "H.I.T. 的共同作者，这是一档关于图像识别背后人类劳动的游戏节目。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [
+    "max-dovey"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "martin-backes",
+   "name": "Martin Backes",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Berlin, Germany",
+   "bio": "German artist and designer making objects and sound works about digital culture.",
+   "why": "Pixelhead was one of the first wearable refusals of photo tagging.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.martinbackes.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "德国艺术家与设计师，创作关于数字文化的物件与声音作品。",
+   "why_zh": "Pixelhead 是最早以可穿戴方式拒绝照片自动标记的作品之一。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "amy-alexander",
+   "name": "Amy Alexander",
+   "kind": "person",
+   "role": "Artist; Professor, UC San Diego",
+   "based": "San Diego, US",
+   "bio": "American artist who makes audiovisual performances and software art about how machines and people look at media.",
+   "why": "What the Robot Saw lets a commercial vision API edit a film from the internet's least-watched videos.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://amy-alexander.com"
+   },
+   "role_zh": "艺术家；加州大学圣地亚哥分校教授",
+   "bio_zh": "美国艺术家，以视听表演和软件艺术探讨机器与人如何观看媒介。",
+   "why_zh": "What the Robot Saw 让一个商业视觉 API 用网上最少人看的视频剪出一部电影。",
+   "based_zh": "圣地亚哥，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "alessandro-ludovico",
+   "name": "Alessandro Ludovico",
+   "kind": "person",
+   "role": "Artist, editor of Neural magazine",
+   "based": "Bari, Italy",
+   "bio": "Italian artist, researcher and founding editor of the media-art magazine Neural.",
+   "why": "Co-author of the Hacking Monopolism trilogy with Paolo Cirio.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://neural.it"
+   },
+   "role_zh": "艺术家，Neural 杂志主编",
+   "bio_zh": "意大利艺术家、研究者，媒体艺术杂志 Neural 的创刊主编。",
+   "why_zh": "与 Paolo Cirio 合作完成 Hacking Monopolism 三部曲。",
+   "based_zh": "巴里，意大利",
+   "connected_to": [
+    "paolo-cirio"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "marnix-de-nijs",
+   "name": "Marnix de Nijs",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Dutch artist who builds physically demanding interactive installations about perception and control.",
+   "why": "His biometric gates make visitors feel the judgement of face matching.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.marnixdenijs.nl"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "荷兰艺术家，制作对身体有要求的互动装置，探讨感知与控制。",
+   "why_zh": "他的生物识别闸门让观众亲身体会人脸比对的裁判。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "lancel-maat",
+   "name": "Lancel & Maat",
+   "kind": "studio",
+   "role": "Artist duo (Karen Lancel and Hermen Maat)",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Dutch duo making participatory installations about touch, trust and presence in networked and surveilled spaces.",
+   "why": "Saving Face uses touch to confront face recognition with intimacy.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://lancelmaat.nl"
+   },
+   "role_zh": "艺术家组合（Karen Lancel 与 Hermen Maat）",
+   "bio_zh": "荷兰艺术家组合，以参与式装置探讨网络化与被监控空间中的触碰、信任与在场。",
+   "why_zh": "Saving Face 用触摸让人脸识别与亲密感正面相遇。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "thiago-hersan",
+   "name": "Thiago Hersan",
+   "kind": "person",
+   "role": "Artist and engineer",
+   "based": "São Paulo, Brazil",
+   "bio": "Brazilian-American artist who makes installations about how machines and networks represent people.",
+   "why": "memememe lets phones take and post selfies of each other.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://thiagohersan.com"
+   },
+   "role_zh": "艺术家、工程师",
+   "bio_zh": "巴西裔美国艺术家，其装置探讨机器与网络如何表征人。",
+   "why_zh": "memememe 让手机彼此自拍并发布出去。",
+   "based_zh": "圣保罗，巴西",
+   "connected_to": [
+    "radames-ajna"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "radames-ajna",
+   "name": "Radamés Ajna",
+   "kind": "person",
+   "role": "Artist and technologist",
+   "based": "São Paulo, Brazil",
+   "bio": "Brazilian artist and technologist working with electronics, networks and machine learning.",
+   "why": "Co-author of memememe with Thiago Hersan.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家、技术专家",
+   "bio_zh": "巴西艺术家与技术专家，使用电子、网络与机器学习。",
+   "why_zh": "与 Thiago Hersan 共同创作 memememe。",
+   "based_zh": "圣保罗，巴西",
+   "connected_to": [
+    "thiago-hersan"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "bruno-moreschi",
+   "name": "Bruno Moreschi",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "São Paulo, Brazil",
+   "bio": "Brazilian artist-researcher who questions art institutions and the systems that classify art, including computer vision.",
+   "why": "He lets commercial vision APIs read museum collections to expose both the machine and the institution.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://brunomoreschi.com"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "巴西艺术家兼研究者，质疑艺术机构及其分类体系，包括计算机视觉。",
+   "why_zh": "他让商业视觉 API 去“读”美术馆藏品，同时揭露机器与机构。",
+   "based_zh": "圣保罗，巴西",
+   "connected_to": [
+    "gabriel-pereira"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "gabriel-pereira",
+   "name": "Gabriel Pereira",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "London, UK",
+   "bio": "Brazilian researcher who studies computer vision and critical data practices.",
+   "why": "Co-author of Recoding Art and its paper on computer vision as institutional critique.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "研究者",
+   "bio_zh": "巴西研究者，研究计算机视觉与批判性数据实践。",
+   "why_zh": "Recoding Art 及其“以计算机视觉进行机构批判”论文的共同作者。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "bruno-moreschi"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "michelle-teran",
+   "name": "Michelle Teran",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Canadian artist whose walks and performances make hidden media networks in cities perceptible.",
+   "why": "She tuned into wireless CCTV feeds and showed passers-by the city's private surveillance.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "加拿大艺术家，通过行走与表演让城市中隐藏的媒介网络变得可感。",
+   "why_zh": "她截取无线监控信号，把城市的私人监视画面展示给路人。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "kairus",
+   "name": "KairUs",
+   "kind": "studio",
+   "role": "Artist duo (Linda Kronman and Andreas Zingerle)",
+   "based": "Bergen, Norway / Linz, Austria",
+   "bio": "Artist duo researching surveillance, smart cities and the hidden labour of machine vision.",
+   "why": "Suspicious Behavior puts the viewer in the seat of an image annotator.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://kairus.org"
+   },
+   "role_zh": "艺术家组合（Linda Kronman 与 Andreas Zingerle）",
+   "bio_zh": "研究监控、智慧城市与机器视觉背后隐藏劳动的艺术家组合。",
+   "why_zh": "Suspicious Behavior 让观众坐到图像标注员的位置上。",
+   "based_zh": "卑尔根，挪威 / 林茨，奥地利",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "silvia-ruzanka",
+   "name": "Silvia Ruzanka",
+   "kind": "person",
+   "role": "Artist and Lecturer, Rensselaer Polytechnic Institute",
+   "based": "Troy, US",
+   "bio": "Silvia Ruzanka is a media artist who makes games and glitch art, including a videogame played by a Venus flytrap.",
+   "why": "Plant Play asks what play means for a nonhuman player.",
+   "links": {},
+   "role_zh": "伦斯勒理工学院艺术家与讲师",
+   "bio_zh": "Silvia Ruzanka 是媒体艺术家，创作游戏和故障艺术，其中包括一款由捕蝇草来玩的电子游戏。",
+   "why_zh": "Plant Play 追问：对非人类玩家来说，“玩”意味着什么。",
+   "based_zh": "特洛伊，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db",
+   "disciplines": [
+    "art"
+   ]
+  },
+  {
+   "id": "peng-collective",
+   "name": "Peng! Collective",
+   "kind": "studio",
+   "role": "Activist art collective",
+   "based": "Berlin, Germany",
+   "bio": "Berlin collective that combines culture jamming, hacking and civil disobedience.",
+   "why": "Mask.ID used face-morphing to show that biometric passports can be fooled.",
+   "disciplines": [
+    "activism",
+    "art"
+   ],
+   "links": {
+    "site": "https://pen.gg"
+   },
+   "role_zh": "行动主义艺术团体",
+   "bio_zh": "结合文化干扰、黑客行动与公民不服从的柏林团体。",
+   "why_zh": "Mask.ID 用人脸融合证明生物识别护照可以被骗过。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "moritz-stefaner",
+   "name": "Moritz Stefaner",
+   "kind": "person",
+   "role": "Data visualisation designer",
+   "based": "Lilienthal, Germany",
+   "bio": "German designer known for data visualisation and interactive information design.",
+   "why": "Co-author of Selfiecity's visual interface.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://truth-and-beauty.net"
+   },
+   "role_zh": "数据可视化设计师",
+   "bio_zh": "德国设计师，以数据可视化与交互信息设计著称。",
+   "why_zh": "Selfiecity 视觉界面的共同作者。",
+   "based_zh": "利林塔尔，德国",
+   "connected_to": [
+    "lev-manovich"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "romi-ron-morrison",
+   "name": "Romi Ron Morrison",
+   "kind": "person",
+   "role": "Artist and scholar",
+   "based": "US",
+   "bio": "American interdisciplinary artist and scholar working on Black geographies, data and surveillance.",
+   "why": "The Argus Project imagines counter-surveillance as collective, bodily armour.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "艺术家、学者",
+   "bio_zh": "美国跨学科艺术家与学者，关注黑人地理、数据与监控。",
+   "why_zh": "The Argus Project 把反监控想象成一套集体的身体盔甲。",
+   "based_zh": "美国",
+   "connected_to": [
+    "gan-golan"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "gan-golan",
+   "name": "Gan Golan",
+   "kind": "person",
+   "role": "Artist",
+   "based": "US",
+   "bio": "American artist and designer of public interventions and wearable sculpture.",
+   "why": "Co-creator of The Argus Project's camera exo-suit.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "美国艺术家，创作公共介入行动与可穿戴雕塑。",
+   "why_zh": "The Argus Project 摄像外骨骼的共同创作者。",
+   "based_zh": "美国",
+   "connected_to": [
+    "romi-ron-morrison"
+   ],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "molleindustria",
+   "name": "Molleindustria",
+   "kind": "studio",
+   "role": "Independent game studio of Paolo Pedercini",
+   "based": "Pittsburgh, US",
+   "bio": "Italian-founded studio making short political video games about labour, war and technology.",
+   "why": "Unmanned plays out the ordinary day of a drone pilot.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.molleindustria.org"
+   },
+   "role_zh": "Paolo Pedercini 的独立游戏工作室",
+   "bio_zh": "意大利创立的工作室，制作关于劳动、战争与技术的短篇政治电子游戏。",
+   "why_zh": "Unmanned 让玩家度过一名无人机飞行员平常的一天。",
+   "based_zh": "匹兹堡，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "ruben-van-de-ven",
+   "name": "Ruben van de Ven",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Dutch artist-researcher who examines emotion recognition and the politics of algorithmic seeing.",
+   "why": "Emotion Hero makes players train their faces for an emotion classifier.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://rubenvandeven.com"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "荷兰艺术家兼研究者，考察情绪识别与算法观看的政治。",
+   "why_zh": "Emotion Hero 让玩家为了情绪分类器去训练自己的脸。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "steina-vasulka",
+   "name": "Steina Vasulka",
+   "kind": "person",
+   "role": "Video artist",
+   "based": "Santa Fe, US",
+   "bio": "Icelandic-born video pioneer who co-founded The Kitchen in New York with Woody Vasulka in 1971.",
+   "why": "Her Machine Vision series (1976–78) let cameras on motorised mounts see space without a human eye.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "http://www.vasulka.org"
+   },
+   "role_zh": "录像艺术家",
+   "bio_zh": "冰岛出生的录像艺术先驱，1971 年与 Woody Vasulka 在纽约共同创办 The Kitchen。",
+   "why_zh": "她的 Machine Vision 系列（1976–78）让装在电动支架上的摄像机脱离人眼去观看空间。",
+   "based_zh": "圣菲，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "etsuko-ichihara",
+   "name": "Etsuko Ichihara",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Tokyo, Japan",
+   "bio": "Japanese media artist who combines folk rituals and customs with technologies such as robots, VR and face recognition.",
+   "why": "Her Digital Shaman and Namahage projects ask how old rituals change when machines perform them.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://etsuko-ichihara.com"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "日本媒体艺术家，把民俗仪式与习俗同机器人、VR、人脸识别等技术结合。",
+   "why_zh": "她的 Digital Shaman 与 Namahage 项目追问：当机器来执行古老仪式时，仪式会怎样变化。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "iris-long",
+   "name": "Iris Long",
+   "kind": "person",
+   "role": "Artist, curator and researcher",
+   "based": "Beijing, China",
+   "bio": "Chinese artist and curator working on data, machine perception and the politics of algorithms.",
+   "why": "A leading Chinese voice on art about computation and datasets.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "艺术家、策展人、研究者",
+   "bio_zh": "中国艺术家与策展人，关注数据、机器感知与算法政治。",
+   "why_zh": "关于计算与数据集的艺术创作在中国的重要声音。",
+   "based_zh": "北京，中国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db",
+   "name_zh": "龙星如"
+  },
+  {
+   "id": "jing-cai-liu",
+   "name": "Jing-cai Liu",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Netherlands",
+   "bio": "Chinese designer who makes wearable devices that question privacy and face recognition.",
+   "why": "The Wearable Face Projector is a much-cited design against face and emotion recognition.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://jingcailiu.com"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "中国设计师，以可穿戴设备追问隐私与人脸识别。",
+   "why_zh": "Wearable Face Projector 是被广泛引用的对抗人脸与情绪识别的设计。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "unmake-lab",
+   "name": "unmake lab",
+   "kind": "studio",
+   "role": "Artist collective",
+   "based": "Seoul, South Korea",
+   "bio": "Korean artist collective, including Choi Binna, that studies how machine vision constructs nature and society.",
+   "why": "They read AI classification and 'generic nature' in Korean construction landscapes.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术团体",
+   "bio_zh": "韩国艺术团体（成员包括崔彬娜），研究机器视觉如何建构自然与社会。",
+   "why_zh": "他们解读 AI 分类，以及韩国建设景观中的“通用自然”。",
+   "based_zh": "首尔，韩国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "keiichi-matsuda",
+   "name": "Keiichi Matsuda",
+   "kind": "person",
+   "role": "Designer and filmmaker",
+   "based": "London, UK",
+   "bio": "British-Japanese designer and filmmaker whose films imagine cities saturated with augmented reality.",
+   "why": "Hyper-Reality became a reference image for life inside a commercial machine view.",
+   "disciplines": [
+    "design",
+    "film"
+   ],
+   "links": {
+    "site": "http://km.cx"
+   },
+   "role_zh": "设计师、电影人",
+   "bio_zh": "英日混血的设计师与电影人，其影片想象被增强现实全面覆盖的城市。",
+   "why_zh": "Hyper-Reality 成为“生活在商业化机器视野中”的参照影像。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  }
+ ],
+ "works": [
+  {
+   "id": "christian-moeller--cheese",
+   "creator_ids": [
+    "christian-moeller"
+   ],
+   "title": "Cheese",
+   "year": 2003,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Six actresses each hold a smile on camera for as long as they can, up to an hour and a half, while emotion-recognition software scores it; when the measured happiness drops, an alarm tells them to smile more sincerely.",
+   "description_zh": "六位女演员面对摄像机尽可能长时间地保持微笑，最长约一个半小时；情绪识别软件实时打分，一旦“快乐程度”下降，警报便提醒她们笑得更真诚些。",
+   "idea_en": "A machine that grades sincerity turns a smile into exhausting labour.",
+   "idea_zh": "一台给“真诚”打分的机器，把微笑变成了令人筋疲力尽的劳动。",
+   "method": "Multi-screen video installation; an emotion-recognition system (likely a research prototype of the time) analysed each face live and triggered an alarm below a happiness threshold.",
+   "method_zh": "多屏影像装置；一套情绪识别系统（很可能是当时的研究原型）实时分析每张脸，“快乐值”低于阈值即触发警报。",
+   "keywords": [
+    "emotion recognition",
+    "smile",
+    "endurance",
+    "affective computing"
+   ],
+   "video": {
+    "url": "https://vimeo.com/42719594"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/7/229866/4243042/67-1.jpeg",
+    "https://payload.cargocollective.com/1/7/229866/4243042/40-1.jpeg"
+   ],
+   "source_url": "https://christianmoeller.com/Cheese",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "bernd-hopfengaertner--belief-systems",
+   "creator_ids": [
+    "bernd-hopfengaertner"
+   ],
+   "title": "Belief Systems",
+   "year": 2009,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A short speculative film about a near future in which shops and machines read shoppers' facial expressions, such as a vending machine that watches your face and hands you the snack you secretly want.",
+   "description_zh": "一部思辨短片，设想商店与机器读取顾客表情的近未来，例如一台盯着你的脸、把你心里想要的零食递给你的自动售货机。",
+   "idea_en": "When machines act on our expressions, we start performing our faces for them.",
+   "idea_zh": "当机器根据表情行事，我们便开始为它们表演自己的脸。",
+   "method": "Scenario film with staged product prototypes built on facial-expression analysis.",
+   "method_zh": "以面部表情分析为基础、搭建产品原型并拍摄的情景影片。",
+   "keywords": [
+    "emotion recognition",
+    "retail",
+    "speculative design",
+    "vending machine"
+   ],
+   "video": {
+    "url": "https://vimeo.com/158377035"
+   },
+   "images": [
+    "https://berndhopfengaertner.net/m/uploads/2011/07/16/surprise_vending.jpg",
+    "https://berndhopfengaertner.net/m/uploads/2011/07/16/surprise_hoch.jpg"
+   ],
+   "source_url": "https://berndhopfengaertner.net/projects/belief-systems/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "michael-snow--la-region-centrale",
+   "creator_ids": [
+    "michael-snow"
+   ],
+   "title": "La Région Centrale",
+   "year": 1971,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "A three-hour film shot on a remote mountaintop in Quebec by a camera mounted on a programmable robotic arm that swings, spins and loops through every direction, with no human operator behind the lens.",
+   "description_zh": "一部三小时的影片，在魁北克偏远山顶拍摄；摄像机装在可编程机械臂上，向各个方向摆动、旋转、翻转，镜头后没有操作者。",
+   "idea_en": "A camera released from the human body sees the landscape as no person could.",
+   "idea_zh": "脱离人身体的摄像机，以任何人都无法做到的方式看见风景。",
+   "method": "Snow commissioned engineer Pierre Abbeloos to build a motorised camera arm controlled by pre-recorded sound signals.",
+   "method_zh": "Snow 请工程师 Pierre Abbeloos 制造一台由预录声音信号控制的电动摄像臂。",
+   "keywords": [
+    "structural film",
+    "camera machine",
+    "landscape",
+    "Quebec"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KWyv7mSaXHM"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/La_R%C3%A9gion_Centrale",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "bureau-of-inverse-technology--bit-plane",
+   "creator_ids": [
+    "bureau-of-inverse-technology"
+   ],
+   "title": "BIT Plane",
+   "year": 1999,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A small radio-controlled plane carrying a video camera flew over Silicon Valley's no-camera zones, filming the tech companies that build the information age from above.",
+   "description_zh": "一架搭载摄像机的小型遥控飞机飞越硅谷的“禁止拍摄区”，从空中拍下建造信息时代的科技公司。",
+   "idea_en": "An early drone that watched the watchers.",
+   "idea_zh": "一架早期的无人机，它监视的是监视者。",
+   "method": "Custom radio-controlled model aircraft with onboard video camera and transmitter, piloted over corporate campuses.",
+   "method_zh": "自制遥控模型飞机，机载摄像机与发射器，飞越企业园区上空。",
+   "keywords": [
+    "drone",
+    "Silicon Valley",
+    "counter-surveillance",
+    "tactical media"
+   ],
+   "images": [
+    "https://bureauit.org/images/plane/plane0self.jpg",
+    "https://bureauit.org/images/plane/plane031lockh.jpg"
+   ],
+   "source_url": "https://bureauit.org/plane/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "waltz-binaire--narciss",
+   "creator_ids": [
+    "waltz-binaire"
+   ],
+   "title": "Narciss",
+   "year": 2018,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "vision-system",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A small computer with a camera looks at itself in a mirror and uses image-recognition and captioning networks to describe what it sees, producing an endless, halting self-description.",
+   "description_zh": "一台带摄像头的小电脑对着镜子看自己，用图像识别与图像描述网络讲述所见，生成一段没有尽头、磕磕绊绊的自我描述。",
+   "idea_en": "Asked to look at itself, a vision model can only name parts, never a self.",
+   "idea_zh": "被要求审视自身时，视觉模型只能叫出零件的名字，却说不出“自我”。",
+   "method": "Camera, mirror and on-device neural networks for object recognition and image captioning; captions are displayed as text.",
+   "method_zh": "摄像头、镜子与本地运行的目标识别和图像描述神经网络；描述以文字显示。",
+   "keywords": [
+    "self-recognition",
+    "image captioning",
+    "mirror",
+    "Narcissus"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WMY9LFBlwNg"
+   },
+   "images": [
+    "https://christianmioloclair.com/wp-content/uploads/2019/05/1100_620_0006_Ebene-16.jpg",
+    "https://christianmioloclair.com/wp-content/uploads/2019/05/Full_HD_0000_Ebene-23.jpg"
+   ],
+   "source_url": "https://christianmioloclair.com",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "benjamin-maus--jller",
+   "creator_ids": [
+    "benjamin-maus",
+    "prokop-bartonicek"
+   ],
+   "title": "Jller",
+   "year": 2015,
+   "field": "bodies",
+   "sub": "sculpture",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "vision-system",
+    "robot-arm"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "An industrial machine picks up stones collected from the Iller river in southern Germany one by one, photographs them and lays them out in rows by geological age.",
+   "description_zh": "一台工业机器把采自德国南部伊勒河（Iller）的石头逐一拾起、拍照，再按地质年代一排排摆放。",
+   "idea_en": "Computer vision can be slow and contemplative: a machine reading deep time.",
+   "idea_zh": "计算机视觉也可以缓慢而沉思：一台阅读深时间的机器。",
+   "method": "Gantry robot with vacuum gripper and camera; image features (likely colour, texture and veining) classify each stone by geological origin, trained on stones labelled by the artists.",
+   "method_zh": "带真空吸盘与摄像头的龙门机器人；以图像特征（很可能是颜色、纹理与纹路）判断石头的地质来源，训练数据为艺术家亲手标注的石头。",
+   "keywords": [
+    "sorting machine",
+    "geology",
+    "river stones",
+    "deep time"
+   ],
+   "images": [
+    "https://media.wired.com/photos/5926f95bcfe0d93c47431f8b/191:100/w_1280,c_limit/RockRobot-1.jpg"
+   ],
+   "source_url": "http://www.prokopbartonicek.com/jller-ignorance-with-benjamin-maus-2015",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "helena-nikonole--deus-x-mchn",
+   "creator_ids": [
+    "helena-nikonole"
+   ],
+   "title": "deus X mchn",
+   "year": 2017,
+   "field": "afterlife",
+   "sub": "ritual",
+   "machines": [
+    "surveillance-biometric",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "Hacked, unsecured IP surveillance cameras around the world start reciting AI-generated holy texts through their speakers, and the same cameras record how people nearby react to the preaching machines.",
+   "description_zh": "世界各地未加密的 IP 监控摄像头被入侵，通过扬声器诵读 AI 生成的“圣典”，同一批摄像头再录下附近的人对这些“布道机器”的反应。",
+   "idea_en": "The all-seeing surveillance camera, given a voice, becomes a god.",
+   "idea_zh": "被赋予声音的全视监控摄像头，成了一尊神。",
+   "method": "A neural network trained on religious texts generates prayers, voiced by speech synthesis through the speakers of vulnerable networked cameras.",
+   "method_zh": "用宗教文本训练的神经网络生成祷文，经语音合成通过有漏洞的联网摄像头扬声器播出。",
+   "keywords": [
+    "IoT",
+    "hacked cameras",
+    "religion",
+    "text generation"
+   ],
+   "images": [
+    "https://static.tildacdn.com/tild3430-3233-4234-b164-616666333039/deus_X_mchn.png"
+   ],
+   "source_url": "http://nikonole.com/deusxmchn",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "emilio-vavarella--the-driver-and-the-cameras",
+   "creator_ids": [
+    "emilio-vavarella"
+   ],
+   "title": "The Google Trilogy 3: The Driver and the Cameras",
+   "year": 2012,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "vision-system",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "Portraits of the Google Street View drivers and camera operators, found by the artist inside Google's own panoramas, where the automated camera accidentally recorded the workers who maintain it.",
+   "description_zh": "艺术家在 Google 自家的街景全景图中找到街景车司机与摄像维护人员，他们被自动摄像头意外拍下，成为一组肖像。",
+   "idea_en": "Behind every automated image of the world there is a worker the system tries to erase.",
+   "idea_zh": "每一张自动生成的世界图像背后，都有一个系统试图抹去的劳动者。",
+   "method": "Screenshots selected from Google Street View where the 360-degree camera captured its own operators; printed as portraits.",
+   "method_zh": "从 Google 街景中挑选 360 度摄像头拍到自身操作员的截图，印制成肖像。",
+   "keywords": [
+    "Google Street View",
+    "maintenance labour",
+    "found images"
+   ],
+   "images": [
+    "https://emiliovavarella.com/wp-content/uploads/2018/12/2-Driver-and-the-cameras-photographers-gallery-london.jpg"
+   ],
+   "source_url": "http://emiliovavarella.com/archive/google-trilogy/driver-and-cameras/",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "The Photographers' Gallery, London"
+   ]
+  },
+  {
+   "id": "emilio-vavarella--digital-pareidolia",
+   "creator_ids": [
+    "emilio-vavarella"
+   ],
+   "title": "Digital Pareidolia: A Personal Index of Facebook's Erroneous Portraits",
+   "year": 2013,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A collection of photos from the artist's Facebook in which the platform's face detector framed a face that is not there: a knot of wood, a shadow, a pattern on a wall.",
+   "description_zh": "艺术家从自己的 Facebook 中收集照片：平台的人脸检测框住了并不存在的脸——一个木结、一片阴影、墙上的花纹。",
+   "idea_en": "Machines also see faces in clouds; their pareidolia shows what a face is to them.",
+   "idea_zh": "机器也会在云里看见人脸；它们的“空想性错视”揭示了脸对它们意味着什么。",
+   "method": "Screenshots of Facebook's automatic face-tagging boxes on objects, compiled as an index.",
+   "method_zh": "收集 Facebook 自动人脸标记框落在物体上的截图，编成索引。",
+   "keywords": [
+    "pareidolia",
+    "face detection",
+    "Facebook",
+    "misrecognition"
+   ],
+   "images": [
+    "https://emiliovavarella.com/wp-content/uploads/2020/07/DIGITAL-PAREIDOLIA-1.jpg"
+   ],
+   "source_url": "http://emiliovavarella.com/digital-pareidolia/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "katja-novitskova--earthware-driverless-car-deer",
+   "creator_ids": [
+    "katja-novitskova"
+   ],
+   "title": "Earthware (driverless car seeing a deer for the first time)",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "A large printed image of a deer as seen by a self-driving car's perception system, with the object-recognition box and sensor colours of the machine's view.",
+   "description_zh": "一幅大型印刷图像：自动驾驶汽车的感知系统看到一头鹿，画面带着目标识别框与机器视角的传感色彩。",
+   "idea_en": "A first encounter between a machine and an animal, told from the machine's side.",
+   "idea_zh": "从机器一方讲述机器与动物的第一次相遇。",
+   "method": "Image derived from autonomous-vehicle sensor and detection imagery, printed at large scale as part of the Earthware series.",
+   "method_zh": "图像源自自动驾驶汽车的传感与检测画面，作为 Earthware 系列大幅印制。",
+   "keywords": [
+    "self-driving car",
+    "deer",
+    "object detection",
+    "animals"
+   ],
+   "images": [
+    "https://cdn.prod.website-files.com/5ffef7846bca58e9b0671256/6176b2d2c32a4b2c7c30c282_Katja%20Novitskova-Earthware%20(driverless%20car%20seeing%20a%20deer%20for%20the%20first%20time%202).jpg"
+   ],
+   "source_url": "https://www.katjanovitskova.com/serie/earthwares",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "joaquin-fargas--robotika-the-nannybot",
+   "creator_ids": [
+    "joaquin-fargas"
+   ],
+   "title": "Robotika, the Nannybot",
+   "year": 2018,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "social-robot",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A robotic cradle-side nanny that watches a baby with cameras and sensors, reads its face and movements, and rocks, sings or calls for help.",
+   "description_zh": "一台守在摇篮边的机器人保姆，用摄像头与传感器看护婴儿，读取其表情与动作，然后摇晃、唱歌或呼叫帮助。",
+   "idea_en": "The first face a baby learns to read could belong to a machine that is reading it back.",
+   "idea_zh": "婴儿学着读懂的第一张脸，也许属于一台同时在读它的机器。",
+   "method": "Robot with camera-based face and emotion recognition, motion tracking and thermal sensing (per the Ars Electronica description).",
+   "method_zh": "机器人配备基于摄像头的面部与情绪识别、动作追踪和热感应（据林茨电子艺术节介绍）。",
+   "keywords": [
+    "childcare robot",
+    "emotion recognition",
+    "infant"
+   ],
+   "images": [
+    "https://ars.electronica.art/outofthebox/files/2019/08/ROBOTIKA-The-Nannybot-Joaqu%C3%ADn-Fargas.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/outofthebox/en/robotika/",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "Ars Electronica Festival 2019"
+   ]
+  },
+  {
+   "id": "richard-mosse--incoming",
+   "creator_ids": [
+    "richard-mosse"
+   ],
+   "title": "Incoming",
+   "year": 2017,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A three-screen film of refugees crossing the Mediterranean and living in camps, shot with a military-grade thermal camera that can detect a body from 30 km away and renders people as glowing heat.",
+   "description_zh": "一部三屏影片，记录穿越地中海的难民及其营地生活；使用可在 30 公里外探测人体的军用热成像相机拍摄，人被呈现为发光的热量。",
+   "idea_en": "A weapons camera sees people as heat signatures: bodies without faces, stripped of individuality.",
+   "idea_zh": "武器级相机把人看成热信号：没有面孔、被剥去个性的身体。",
+   "method": "Filmed over two years with a long-range thermal camera classified as a weapon under export law; score by Ben Frost.",
+   "method_zh": "用出口管制中被列为武器的远距离热成像相机拍摄两年；配乐 Ben Frost。",
+   "keywords": [
+    "thermal imaging",
+    "migration",
+    "border",
+    "weapon-grade camera"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6QOyFAqs_rM"
+   },
+   "source_url": "https://www.richardmosse.com/",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "The Curve, Barbican 2017",
+    "NGV Triennial 2017"
+   ]
+  },
+  {
+   "id": "geocinema--geocinema",
+   "creator_ids": [
+    "geocinema"
+   ],
+   "title": "Geocinema",
+   "year": 2018,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "A research and film project that treats satellites, CCTV, phone cameras and street-view cars as one planetary camera, following sensing infrastructure along China's Belt and Road routes.",
+   "description_zh": "一个研究与影像项目，把卫星、监控、手机摄像头与街景车视为一台“行星摄像机”，沿中国“一带一路”沿线追踪感知基础设施。",
+   "idea_en": "The Earth is now filmed continuously by machines, and whoever owns the sensors writes its story.",
+   "idea_zh": "地球如今被机器持续拍摄，谁拥有传感器，谁就书写地球的故事。",
+   "method": "Essay films combining infrared drone footage, satellite imagery and Street View captures.",
+   "method_zh": "散文影片，结合红外无人机画面、卫星影像与街景截图。",
+   "keywords": [
+    "planetary sensing",
+    "satellites",
+    "Belt and Road",
+    "infrastructure"
+   ],
+   "images": [
+    "https://geocinema.network/_next/image/?url=https%3A%2F%2Fgeocinema.network%2Fuploads%2Fbanner2_3a749bd8f2.png&w=3840&q=50"
+   ],
+   "source_url": "https://geocinema.network/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "max-dovey--hit",
+   "creator_ids": [
+    "max-dovey",
+    "manetta-berends"
+   ],
+   "title": "H.I.T.",
+   "year": 2016,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "performance",
+   "description": "A live game show in which contestants race to clean data, label images and classify pictures of work, competing to build the best image-recognition model for recognising human labour.",
+   "description_zh": "一场现场游戏节目：参赛者比拼清洗数据、标注图像、给劳动场景分类，争相训练出最能识别“人类劳动”的图像识别模型。",
+   "idea_en": "Machine learning runs on the same piecework it claims to automate.",
+   "idea_zh": "机器学习依赖的，正是它声称要自动化的计件劳动。",
+   "method": "Performance format modelled on Amazon Mechanical Turk Human Intelligence Tasks, with a small image classifier trained live.",
+   "method_zh": "表演形式模仿 Amazon Mechanical Turk 的“人类智能任务”，现场训练一个小型图像分类器。",
+   "keywords": [
+    "Mechanical Turk",
+    "data labelling",
+    "game show",
+    "HIT"
+   ],
+   "images": [
+    "https://www.maxdovey.com/assets/images/projects/hits/hit2.jpg"
+   ],
+   "source_url": "https://www.maxdovey.com/HITS/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "martin-backes--pixelhead",
+   "creator_ids": [
+    "martin-backes"
+   ],
+   "title": "Pixelhead",
+   "year": 2010,
+   "field": "perception",
+   "sub": "evasion",
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A full-face balaclava printed with a pixelated face, so that its wearer cannot be recognised or automatically tagged in photos posted online.",
+   "description_zh": "一顶印着马赛克人脸的全脸头套，让佩戴者无法在网上照片中被识别或自动标记。",
+   "idea_en": "The pixel mosaic, the screen's own sign of anonymity, can be worn as clothing.",
+   "idea_zh": "马赛克这种屏幕上的匿名符号，可以被穿在身上。",
+   "method": "Printed textile mask; defeats face detection by hiding facial landmarks.",
+   "method_zh": "印花织物面罩，通过遮蔽面部特征点使人脸检测失效。",
+   "keywords": [
+    "anti-surveillance",
+    "mask",
+    "photo tagging",
+    "privacy"
+   ],
+   "images": [
+    "https://www.martinbackes.com/wordpress/wp-content/uploads/2013/03/martinbackes_web4.jpg"
+   ],
+   "source_url": "https://www.martinbackes.com",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "james-bridle--cloud-index",
+   "creator_ids": [
+    "james-bridle"
+   ],
+   "title": "Cloud Index",
+   "year": 2016,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A neural network trained on satellite weather images and UK polling data generates the skies that would have produced any given result in the Brexit referendum, offering weather as a lever on politics.",
+   "description_zh": "神经网络用卫星云图和英国民调数据训练，生成能让脱欧公投得出任何指定结果的“天空”，把天气当作操纵政治的杠杆。",
+   "idea_en": "Predictive models blur forecasting and control: to predict the vote is to imagine steering it.",
+   "idea_zh": "预测模型模糊了预报与控制：预测选票，就是想象去操控它。",
+   "method": "Correlation of historical cloud imagery with polling data; a DCGAN renders the sky images.",
+   "method_zh": "把历史云图与民调数据相关联，用 DCGAN 生成天空图像。",
+   "keywords": [
+    "Brexit",
+    "weather",
+    "prediction",
+    "DCGAN",
+    "satellite imagery"
+   ],
+   "images": [
+    "https://jamesbridle.com/media/pages/works/cloud-index/890e90e757-1680515138/165_opengraph.jpg"
+   ],
+   "source_url": "https://jamesbridle.com/works/cloud-index",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "heather-dewey-hagborg--how-do-you-see-me",
+   "creator_ids": [
+    "heather-dewey-hagborg"
+   ],
+   "title": "How do you see me?",
+   "year": 2019,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "Dewey-Hagborg uses adversarial image generation to build pictures that a face detector accepts as her face, although to a human eye they look like abstract smudges.",
+   "description_zh": "Dewey-Hagborg 用对抗式图像生成，制作出人脸检测器会认作“她的脸”的图像，而在人眼看来只是抽象的色块。",
+   "idea_en": "What counts as a face to a machine can be almost unrecognisable to us.",
+   "idea_zh": "对机器而言算作“脸”的东西，对我们几乎认不出来。",
+   "method": "An image generator is optimised against a face-detection and recognition model until its outputs are classified as the artist.",
+   "method_zh": "针对人脸检测与识别模型优化图像生成器，直到输出被识别为艺术家本人。",
+   "keywords": [
+    "adversarial",
+    "face detection",
+    "self-portrait",
+    "opacity"
+   ],
+   "video": {
+    "url": "https://vimeo.com/361593768"
+   },
+   "images": [
+    "https://www.deweyhagborg.com/media/pages/projects/how-do-you-see-me/9b1078df08-1643025907/heatherdeweyhagborg_kateelliott_01.jpg"
+   ],
+   "source_url": "https://www.deweyhagborg.com/projects/how-do-you-see-me",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "amy-alexander--what-the-robot-saw",
+   "creator_ids": [
+    "amy-alexander"
+   ],
+   "title": "What the Robot Saw",
+   "year": 2020,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "recommender-platform",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A never-ending live-streamed film edited by a robot from the least-viewed YouTube videos of the last hours, titled and grouped using a commercial face-analysis service's labels of age, gender and mood.",
+   "description_zh": "一部永不结束的直播电影，由“机器人”从最近几小时内观看最少的 YouTube 视频中剪辑而成，并用商业人脸分析服务给出的年龄、性别、情绪标签来命名与分组。",
+   "idea_en": "The platform's forgotten videos become visible only through the machine's demographic gaze.",
+   "idea_zh": "平台上被遗忘的视频，只能通过机器的人口统计式凝视才被看见。",
+   "method": "Software searches YouTube for low-view uploads, analyses them with Amazon Rekognition and other vision models, and edits a continuous film streamed on Twitch.",
+   "method_zh": "软件在 YouTube 搜索低播放量视频，用 Amazon Rekognition 等视觉模型分析，剪成连续影片在 Twitch 直播。",
+   "keywords": [
+    "YouTube",
+    "Amazon Rekognition",
+    "live stream",
+    "algorithmic editing"
+   ],
+   "images": [
+    "https://what-the-robot-saw.com/dir/wp-content/uploads/2026/06/Screen-Shot-2020-02-07-at-10.40.07-PM-1.png"
+   ],
+   "source_url": "https://what-the-robot-saw.com",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "paolo-cirio--face-to-facebook",
+   "creator_ids": [
+    "paolo-cirio",
+    "alessandro-ludovico"
+   ],
+   "title": "Face to Facebook",
+   "year": 2011,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "The artists scraped one million Facebook profiles, used face-analysis software to sort 250,000 profile pictures into temperaments such as 'smug' or 'easy going', and published them on a fake dating site, Lovely-Faces.com.",
+   "description_zh": "艺术家抓取一百万个 Facebook 个人主页，用人脸分析软件把 25 万张头像按“得意”“随和”等性格分类，再发布到一个虚假的交友网站 Lovely-Faces.com 上。",
+   "idea_en": "Once faces are data, they can be re-sorted into any identity someone chooses.",
+   "idea_zh": "脸一旦成为数据，就可以被任意重新归入别人选定的身份。",
+   "method": "Custom scraper plus face-detection and expression-analysis software; profiles re-published on a purpose-built dating website.",
+   "method_zh": "自制爬虫加人脸检测与表情分析软件；把资料重新发布在专门搭建的交友网站上。",
+   "keywords": [
+    "Facebook",
+    "scraping",
+    "Lovely-Faces",
+    "Hacking Monopolism"
+   ],
+   "images": [
+    "https://www.face-to-facebook.net/img/header_k.jpg",
+    "https://www.face-to-facebook.net/img/face-to-facebook-diagram_web.gif"
+   ],
+   "source_url": "https://www.face-to-facebook.net/how.php",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "transmediale 2011"
+   ]
+  },
+  {
+   "id": "marnix-de-nijs--physiognomic-scrutinizer",
+   "creator_ids": [
+    "marnix-de-nijs"
+   ],
+   "title": "Physiognomic Scrutinizer",
+   "year": 2009,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Visitors pass through a gate that scans their face and matches it with one of 150 infamous or controversial people; as they walk through, a robotic voice tells the story of their 'match'.",
+   "description_zh": "观众穿过一道闸门，闸门扫描其面孔，并与 150 位臭名昭著或有争议的人物之一匹配；走过时，机器声音讲述这位“匹配者”的故事。",
+   "idea_en": "Face matching quietly revives physiognomy: judging character by likeness.",
+   "idea_zh": "人脸比对悄悄复活了面相学：以相貌判断品性。",
+   "method": "Airport-style gate with camera and face-recognition software comparing visitors to a curated gallery; speech synthesis narrates the match.",
+   "method_zh": "机场式闸门配摄像头与人脸识别软件，将观众与精选图库比对，再由语音合成讲述结果。",
+   "keywords": [
+    "physiognomy",
+    "face matching",
+    "security gate"
+   ],
+   "video": {
+    "url": "https://vimeo.com/21460350"
+   },
+   "images": [
+    "http://www.marnixdenijs.nl/photos_640x/physiognomic-scrut_2018-09-04_1.png"
+   ],
+   "source_url": "http://www.marnixdenijs.nl/physiognomic_scrutinizer.htm",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "lancel-maat--saving-face",
+   "creator_ids": [
+    "lancel-maat"
+   ],
+   "title": "Saving Face",
+   "year": 2011,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "Visitors caress their own face in front of a camera; face recognition tracks the touch and blends their portrait, stroke by stroke, with the faces of earlier visitors into a shared, merged face on a large screen.",
+   "description_zh": "观众在摄像头前抚摸自己的脸；人脸识别追踪触摸，一笔一笔地把其肖像与先前观众的脸融合，在大屏上形成一张共享的合成面孔。",
+   "idea_en": "Touch turns face recognition from identification into a gesture of shared intimacy.",
+   "idea_zh": "触摸把人脸识别从身份核验变成了一种共享亲密的姿态。",
+   "method": "Camera and face-tracking software map touched regions of the visitor's face onto a composite of stored portraits.",
+   "method_zh": "摄像头与人脸追踪软件把观众触摸的面部区域映射到已存肖像的合成图像上。",
+   "keywords": [
+    "touch",
+    "face recognition",
+    "composite portrait",
+    "participation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/28499178"
+   },
+   "source_url": "https://lancelmaat.nl/work/saving-face/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "thiago-hersan--memememe",
+   "creator_ids": [
+    "thiago-hersan",
+    "radames-ajna"
+   ],
+   "title": "memememe #selfie",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "vision-system",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "Smartphones look for phones, their own reflection in a mirror or each other; whenever a phone recognises a phone, it takes a picture and posts the 'selfie' online with hashtags.",
+   "description_zh": "智能手机寻找手机——镜中的自己或彼此；一旦识别出一部手机，它便拍下照片，把这张“自拍”带上标签发到网上。",
+   "idea_en": "Selfie culture continues without us: machines photograph machines for machines.",
+   "idea_zh": "自拍文化在没有我们的情况下继续：机器为机器拍摄机器。",
+   "method": "Android phones with custom object detection trained to recognise phones; images posted automatically to social media.",
+   "method_zh": "安卓手机运行训练来识别手机的自制目标检测程序，图像自动发布到社交媒体。",
+   "keywords": [
+    "selfie",
+    "smartphone",
+    "object detection",
+    "social media"
+   ],
+   "video": {
+    "url": "https://vimeo.com/108008040"
+   },
+   "images": [
+    "https://thiagohersan.com/assets/projects/memememe/meme2meme_00.jpg",
+    "https://thiagohersan.com/assets/projects/memememe/meme2self_00.jpg"
+   ],
+   "source_url": "https://thiagohersan.com/memememe/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "bruno-moreschi--recoding-art",
+   "creator_ids": [
+    "bruno-moreschi",
+    "gabriel-pereira"
+   ],
+   "title": "Recoding Art",
+   "year": 2019,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Commercial computer-vision services are asked to read the Van Abbemuseum's collection; their literal, banal labels ('furniture', 'person', 'art') are shown next to the works and set against the museum's expert descriptions.",
+   "description_zh": "让商业计算机视觉服务“阅读”Van Abbemuseum 的藏品；它们直白而平庸的标签（“家具”“人”“艺术”）与作品并置，并与美术馆的专业描述对照。",
+   "idea_en": "Machine misreadings of art expose both the machine's categories and the museum's authority.",
+   "idea_zh": "机器对艺术的误读，同时暴露了机器的分类与美术馆的权威。",
+   "method": "Images of museum works processed by commercial vision APIs; outputs displayed as an alternative catalogue.",
+   "method_zh": "用商业视觉 API 处理馆藏作品图像，把输出结果展示为另一份目录。",
+   "keywords": [
+    "museum",
+    "institutional critique",
+    "vision API",
+    "Van Abbemuseum"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00146-020-01059-y",
+    "doi": "10.1007/s00146-020-01059-y",
+    "venue": "AI & Society 2021",
+    "title": "Artificial intelligence and institutional critique 2.0: unexpected ways of seeing with computer vision"
+   },
+   "source_url": "https://brunomoreschi.com/Recoding-Art-Van-Abbemuseum-collection",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "jill-magid--system-azure-security-ornamentation",
+   "creator_ids": [
+    "jill-magid"
+   ],
+   "title": "System Azure Security Ornamentation",
+   "year": 2002,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "classification"
+   ],
+   "kind": "performance",
+   "description": "Magid offered the Amsterdam police her services to decorate the city's surveillance cameras with rhinestones and ornaments, making them visible and, in her words, more beautiful.",
+   "description_zh": "Magid 向阿姆斯特丹警方提出为城市监控摄像头装饰水钻与饰物，让它们显眼起来，用她的话说，更美。",
+   "idea_en": "Ornamenting a camera makes an invisible gaze visible and oddly personal.",
+   "idea_zh": "装饰摄像头，让不可见的凝视变得显眼，也奇特地带上了私人色彩。",
+   "method": "Proposal letters and meetings with the police, followed by decorating CCTV cameras in public space.",
+   "method_zh": "与警方的提案信件和会面，随后在公共空间装饰监控摄像头。",
+   "keywords": [
+    "CCTV",
+    "Amsterdam",
+    "police",
+    "ornament"
+   ],
+   "images": [
+    "http://www.jillmagid.com/uploads/images/scaled/slide_thumb/302",
+    "http://www.jillmagid.com/uploads/images/scaled/slide_thumb/305"
+   ],
+   "source_url": "http://www.jillmagid.com/projects/system-azure-security-ornamentation",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "michelle-teran--life-a-users-manual",
+   "creator_ids": [
+    "michelle-teran"
+   ],
+   "title": "Life: A User's Manual",
+   "year": 2003,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "Teran walks through cities pulling a suitcase with a video scanner and screen, picking up the unencrypted wireless signals of private surveillance cameras and showing passers-by the hidden images around them.",
+   "description_zh": "Teran 拖着装有视频扫描器与屏幕的行李箱穿行城市，截获私人监控摄像头未加密的无线信号，把身边隐藏的画面展示给路人。",
+   "idea_en": "The city is already full of images of us that we never see.",
+   "idea_zh": "城市里早已充满我们看不见的、关于我们的图像。",
+   "method": "Handheld receiver scanning the frequency band (likely 2.4 GHz) used by consumer wireless cameras; images displayed in a mobile monitor.",
+   "method_zh": "手持接收器扫描民用无线摄像头所用频段（很可能是 2.4 GHz），画面显示在随身监视器上。",
+   "keywords": [
+    "wireless cameras",
+    "urban walk",
+    "interception",
+    "CCTV"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MS-T6Yooa9E"
+   },
+   "source_url": "https://www.youtube.com/watch?v=MS-T6Yooa9E",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "mediengruppe-bitnik--surveillance-chess",
+   "creator_ids": [
+    "mediengruppe-bitnik"
+   ],
+   "title": "Surveillance Chess",
+   "year": 2012,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "performance",
+   "description": "In London before the 2012 Olympics, the artists hijacked the signal of a CCTV camera in a public space and replaced it with a chess game, inviting the unseen control-room operator to play.",
+   "description_zh": "2012 年伦敦奥运会前，艺术家劫持了公共空间一台监控摄像头的信号，换成一盘国际象棋，邀请看不见的控制室操作员下一局。",
+   "idea_en": "Every surveillance camera has a human at the other end who can be addressed.",
+   "idea_zh": "每台监控摄像头的另一端，都有一个可以被搭话的人。",
+   "method": "A portable transmitter overrode the camera's wireless video feed with the artists' chess interface.",
+   "method_zh": "便携发射器用艺术家的国际象棋画面覆盖了摄像头的无线视频信号。",
+   "keywords": [
+    "CCTV",
+    "hijack",
+    "London 2012",
+    "chess"
+   ],
+   "video": {
+    "url": "https://vimeo.com/46236909"
+   },
+   "source_url": "https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/s/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "kairus--suspicious-behavior",
+   "creator_ids": [
+    "kairus"
+   ],
+   "title": "Suspicious Behavior",
+   "year": 2020,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "An online tutorial and installation that trains the visitor as an image annotator for a smart-surveillance client, labelling people's behaviour as suspicious or not under time pressure and vague guidelines.",
+   "description_zh": "一套线上教程与装置，把观众培训成智能监控客户的图像标注员，在时间压力与含糊的指引下判断画面中人的行为是否“可疑”。",
+   "idea_en": "What a camera flags as suspicious was first decided in seconds by a low-paid human.",
+   "idea_zh": "摄像头标记为“可疑”的，最初由一个低薪的人在几秒钟内决定。",
+   "method": "Web-based annotation interface modelled on crowdsourcing platforms, using surveillance footage and real annotation guidelines.",
+   "method_zh": "模仿众包平台的网页标注界面，使用监控画面与真实的标注指引。",
+   "keywords": [
+    "annotation",
+    "crowdwork",
+    "smart surveillance",
+    "suspicion"
+   ],
+   "images": [
+    "https://kairus.org/wp-content/uploads/2020/05/suspicious_behavior01-653x450.png",
+    "https://kairus.org/wp-content/uploads/2020/05/suspicious_behavior03-653x450.png"
+   ],
+   "source_url": "http://kairus.org/portfolio/suspicious-behavior-2020/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "silvia-ruzanka--insecurity-camera",
+   "creator_ids": [
+    "silvia-ruzanka"
+   ],
+   "title": "(In)Security Camera",
+   "year": 2003,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A surveillance camera that is shy: instead of following movement, it turns away from visitors who approach and avoids eye contact. Made with Ben Chang and Dmitry Strakovsky.",
+   "description_zh": "一台“害羞”的监控摄像头：它不追踪移动，反而在观众靠近时转开、回避对视。与 Ben Chang、Dmitry Strakovsky 合作。",
+   "idea_en": "Give a watching machine a personality and the power relation flips.",
+   "idea_zh": "给一台监视机器赋予性格，权力关系便倒转过来。",
+   "method": "Motorised pan-tilt camera with motion and face tracking programmed to avoid rather than follow targets.",
+   "method_zh": "电动云台摄像头，带运动与人脸追踪，被编程为躲避而非跟随目标。",
+   "keywords": [
+    "shy machine",
+    "surveillance camera",
+    "robot behaviour"
+   ],
+   "video": {
+    "url": "https://vimeo.com/9293913"
+   },
+   "images": [
+    "https://silviaruzanka.com/wp-content/uploads/2021/01/insecurity_image.jpg"
+   ],
+   "source_url": "https://silviaruzanka.com/art/insecurity-camera/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "forensic-architecture--the-battle-of-ilovaisk",
+   "creator_ids": [
+    "forensic-architecture"
+   ],
+   "title": "The Battle of Ilovaisk",
+   "year": 2019,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An investigation into Russian military presence in eastern Ukraine in 2014, in which a machine-learning classifier trained to recognise T-72 tanks searched thousands of online videos for evidence.",
+   "description_zh": "对 2014 年乌克兰东部俄罗斯军队存在的调查：一个训练来识别 T-72 坦克的机器学习分类器在数千段网络视频中搜寻证据。",
+   "idea_en": "Counter-forensics uses machine vision to see what states deny.",
+   "idea_zh": "反取证用机器视觉去看见国家所否认的东西。",
+   "method": "Classifier trained on synthetic 3D renderings of the tank model, applied to scraped YouTube footage; results verified by researchers.",
+   "method_zh": "用坦克型号的合成三维渲染训练分类器，应用于抓取的 YouTube 视频，结果经研究人员核实。",
+   "keywords": [
+    "T-72",
+    "Ukraine",
+    "synthetic training data",
+    "open-source investigation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OldnzVNE71E"
+   },
+   "source_url": "https://forensic-architecture.org/investigation/the-battle-of-ilovaisk",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "peng-collective--mask-id",
+   "creator_ids": [
+    "peng-collective"
+   ],
+   "title": "Mask.ID",
+   "year": 2018,
+   "field": "perception",
+   "sub": "evasion",
+   "machines": [
+    "surveillance-biometric",
+    "generative-latent"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A Peng! member merged her face with that of EU foreign-policy chief Federica Mogherini and obtained a real German passport with the morphed photo; the campaign asked citizens to do the same to help refugees travel.",
+   "description_zh": "Peng! 的一名成员把自己的脸与欧盟外交与安全政策高级代表 Federica Mogherini 的脸融合，用这张合成照片申请到一本真实的德国护照；行动呼吁公民效仿，以帮助难民出行。",
+   "idea_en": "A biometric passport photo can belong to two people at once.",
+   "idea_zh": "一张生物识别护照照片可以同时属于两个人。",
+   "method": "Face-morphing software blends two faces until face recognition matches both; the image was submitted through a standard passport application.",
+   "method_zh": "人脸融合软件混合两张脸，直到人脸识别能同时匹配二者；照片通过正常护照申请提交。",
+   "keywords": [
+    "face morphing",
+    "passport",
+    "biometrics",
+    "migration"
+   ],
+   "images": [
+    "https://pen.gg/wp-content/uploads/2018/09/MaskID_Kabine_1_Melber-1800x1200.jpg"
+   ],
+   "source_url": "https://pen.gg/campaign/mask-id-2/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "ken-goldberg--demonstrate",
+   "creator_ids": [
+    "ken-goldberg"
+   ],
+   "title": "Demonstrate",
+   "year": 2004,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "For the 40th anniversary of the Free Speech Movement, a high-resolution robotic webcam overlooked Sproul Plaza at UC Berkeley; anyone online could steer it, take pictures of people and comment on them.",
+   "description_zh": "为纪念言论自由运动四十周年，一台高分辨率机器人网络摄像头俯瞰加州大学伯克利分校的 Sproul 广场；任何网民都可以操控它、拍下人群并加以评论。",
+   "idea_en": "Giving the public the controls of a surveillance camera tests free speech against privacy.",
+   "idea_zh": "把监控摄像头的控制权交给公众，是在让言论自由与隐私相互试探。",
+   "method": "Networked pan-tilt-zoom camera with a web interface; user-captured frames and comments archived.",
+   "method_zh": "联网云台变焦摄像头配网页界面，用户截取的画面与评论被存档。",
+   "keywords": [
+    "telerobotic camera",
+    "Free Speech Movement",
+    "Berkeley",
+    "privacy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hd6vNv1m6NE"
+   },
+   "source_url": "https://goldberg.berkeley.edu/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "lev-manovich--selfiecity",
+   "creator_ids": [
+    "lev-manovich",
+    "moritz-stefaner"
+   ],
+   "title": "Selfiecity",
+   "year": 2014,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An interactive analysis of 3,200 Instagram selfies from five cities, sortable by estimated age, gender, head tilt, smile and mood, produced by a mix of face-analysis software and Mechanical Turk workers.",
+   "description_zh": "对来自五座城市的 3200 张 Instagram 自拍进行交互分析，可按估算的年龄、性别、头部倾斜、微笑与情绪排序；这些数据由人脸分析软件与 Mechanical Turk 工人共同生成。",
+   "idea_en": "Reading culture through face analysis mixes machine estimates with hidden human judgement.",
+   "idea_zh": "用人脸分析解读文化，混合了机器估算与隐藏的人工判断。",
+   "method": "Instagram images filtered and tagged by Mechanical Turk workers, measured with face-analysis software, and shown in interactive visualisations.",
+   "method_zh": "Instagram 图像经 Mechanical Turk 工人筛选与标注，用人脸分析软件测量，并以交互可视化呈现。",
+   "keywords": [
+    "selfie",
+    "cultural analytics",
+    "Instagram",
+    "Mechanical Turk"
+   ],
+   "images": [
+    "http://selfiecity.net/assets/img/selfiecity-600.jpg"
+   ],
+   "source_url": "http://selfiecity.net",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "christa-sommerer-laurent-mignonneau--neuro-mirror",
+   "creator_ids": [
+    "christa-sommerer-laurent-mignonneau"
+   ],
+   "title": "Neuro Mirror",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Three screens show a visitor's image as past, present and a predicted future, as a network anticipates the next movements from what it has learned about bodies.",
+   "description_zh": "三块屏幕分别以过去、现在和预测的未来呈现观众的影像；网络根据它对身体的学习来预判下一个动作。",
+   "idea_en": "A machine that predicts your next gesture shows you a self slightly ahead of you.",
+   "idea_zh": "一台预测你下一个动作的机器，给你看一个略微走在你前面的自己。",
+   "method": "Cameras and machine-learning models for body and face tracking and motion prediction, inspired by research on mirror neurons.",
+   "method_zh": "摄像头与机器学习模型用于身体、人脸追踪和动作预测，灵感来自镜像神经元研究。",
+   "keywords": [
+    "prediction",
+    "mirror neurons",
+    "interactive installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=S3MJOsiFPBo"
+   },
+   "source_url": "https://www.digitalartarchive.at/database/general/work/neuro-mirror.html",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "romi-ron-morrison--the-argus-project",
+   "creator_ids": [
+    "romi-ron-morrison",
+    "gan-golan"
+   ],
+   "title": "The Argus Project",
+   "year": 2016,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A wearable exo-suit covered with cameras, after the hundred-eyed giant Argus, worn on night walks through the city as a 'force field of accountability' for filming the police.",
+   "description_zh": "一套布满摄像头的可穿戴外骨骼，取名自百眼巨人阿尔戈斯，穿着它在夜间穿行城市，作为拍摄警察的“问责力场”。",
+   "idea_en": "Counter-surveillance can be imagined as a collective body armed with eyes.",
+   "idea_zh": "反监控可以被想象成一个长满眼睛的集体身体。",
+   "method": "Sculptural suit with embedded cameras and lights; performances documented in public space. Collaborators include Raquel De Anda, Ligaiya Romero, Ayodamola Okunseinde and others.",
+   "method_zh": "嵌有摄像头与灯光的雕塑服装，在公共空间表演并记录。合作者包括 Raquel De Anda、Ligaiya Romero、Ayodamola Okunseinde 等。",
+   "keywords": [
+    "copwatch",
+    "wearable",
+    "police accountability",
+    "Argus Panoptes"
+   ],
+   "video": {
+    "url": "https://vimeo.com/185745057"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5a15cc35ccc5c5ef7b89ee2d/1511470361428-WJLOQ36VG386HRT8A6QS/IMG_4178.jpg"
+   ],
+   "source_url": "https://elegantcollisions.com/argus",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "jake-elwes--the-zizi-show",
+   "creator_ids": [
+    "jake-elwes"
+   ],
+   "title": "The Zizi Show",
+   "year": 2020,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A virtual deepfake drag cabaret: thirteen London drag performers were filmed to train networks, and online visitors can make their generated bodies perform songs, including the composite queen Zizi.",
+   "description_zh": "一场虚拟的深度伪造变装歌舞秀：拍摄十三位伦敦变装表演者来训练网络，网上观众可以让生成的身体表演歌曲，包括混合出来的女王 Zizi。",
+   "idea_en": "Training AI on drag bodies queers the norms of the datasets it usually learns from.",
+   "idea_zh": "用变装身体训练 AI，是在“酷儿化”它通常学习的数据集规范。",
+   "method": "Pose-conditioned video generation trained on footage of each performer; web interface lets users pick acts and songs.",
+   "method_zh": "以每位表演者的影像训练姿态条件视频生成模型，网页界面让用户选择节目与歌曲。",
+   "keywords": [
+    "deepfake",
+    "drag",
+    "queer AI",
+    "cabaret"
+   ],
+   "images": [
+    "https://www.jakeelwes.com/images/project-zizi-show.jpg"
+   ],
+   "source_url": "https://www.jakeelwes.com/project-zizi-show.html",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "superflux--song-of-the-machine",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Song of the Machine",
+   "year": 2011,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "A speculative film about a person whose sight is restored by optogenetics and a headset, which lets them switch between filtered views such as infrared or augmented overlays that no unaided eye could see.",
+   "description_zh": "一部思辨影片：主人公借助光遗传学与头戴设备恢复视力，并能在红外、增强叠加等常人肉眼看不到的滤镜视图之间切换。",
+   "idea_en": "Restored sight through a machine is not natural sight but a new, modulated world.",
+   "idea_zh": "借助机器恢复的视觉并非天然的视觉，而是一个被调制的新世界。",
+   "method": "Design fiction film based on optogenetic retinal research, with visualised interface filters.",
+   "method_zh": "以光遗传视网膜研究为基础的设计虚构影片，配以可视化的界面滤镜。",
+   "keywords": [
+    "optogenetics",
+    "prosthetic vision",
+    "design fiction"
+   ],
+   "video": {
+    "url": "https://vimeo.com/22616192"
+   },
+   "source_url": "https://superflux.in",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "molleindustria--unmanned",
+   "creator_ids": [
+    "molleindustria"
+   ],
+   "title": "Unmanned",
+   "year": 2012,
+   "field": "labour",
+   "sub": "military",
+   "machines": [
+    "vehicle-drone",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A short browser game about one day in the life of a drone pilot: shaving, commuting, watching a target on a screen, playing video games with his son.",
+   "description_zh": "一款关于无人机飞行员一天生活的网页小游戏：刮胡子、通勤、在屏幕上盯着目标、和儿子玩电子游戏。",
+   "idea_en": "Remote war is office work, and its violence sits beside ordinary domestic life.",
+   "idea_zh": "遥控战争是一份办公室工作，它的暴力就摆在寻常家庭生活旁边。",
+   "method": "Split-screen Flash game written by Paolo Pedercini with Jim Munroe.",
+   "method_zh": "分屏 Flash 游戏，由 Paolo Pedercini 与 Jim Munroe 创作。",
+   "keywords": [
+    "drone pilot",
+    "game",
+    "remote war"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qTsP0SpWdCk"
+   },
+   "images": [
+    "http://unmanned.molleindustria.org/fb-thumbnail.jpg"
+   ],
+   "source_url": "http://unmanned.molleindustria.org/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "ruben-van-de-ven--emotion-hero",
+   "creator_ids": [
+    "ruben-van-de-ven"
+   ],
+   "title": "Emotion Hero",
+   "year": 2016,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A mobile game in the style of Guitar Hero in which players score points by making facial expressions on cue, then receive feedback on how to express emotions better for the machine.",
+   "description_zh": "一款吉他英雄风格的手机游戏：玩家按提示做出表情得分，之后还会收到如何更好地向机器“表达情绪”的反馈。",
+   "idea_en": "Emotion recognition does not read feelings; it trains people to perform its categories.",
+   "idea_zh": "情绪识别读的不是感受，而是在训练人去表演它的分类。",
+   "method": "Smartphone game built on a commercial emotion-recognition SDK (likely Affectiva) that scores expressions against its categories.",
+   "method_zh": "基于商业情绪识别 SDK（很可能是 Affectiva）的手机游戏，按其类别为表情打分。",
+   "keywords": [
+    "emotion recognition",
+    "game",
+    "Affectiva",
+    "facial expression"
+   ],
+   "images": [
+    "https://emotionhero.com/emotionhero.png"
+   ],
+   "source_url": "https://rubenvandeven.com/emotionhero",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "steina-vasulka--machine-vision",
+   "creator_ids": [
+    "steina-vasulka"
+   ],
+   "title": "Machine Vision",
+   "year": 1978,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system",
+    "robot-arm"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "An installation in which video cameras on slowly rotating motorised mounts, one pair aimed at a mirrored sphere, scan the room and show it on monitors from viewpoints no human eye occupies.",
+   "description_zh": "一件装置：装在缓慢旋转的电动支架上的摄像机（其中一对对准一个镜面球体）扫视房间，在监视器上呈现人眼无法占据的视角。",
+   "idea_en": "A camera that moves by itself shows space as a machine would sense it, without a body.",
+   "idea_zh": "自行移动的摄像机，以机器的方式感知空间，无需身体。",
+   "method": "Turntables and motorised arms carry cameras around a mirrored sphere; the live feeds play on monitors in the room.",
+   "method_zh": "转台与电动臂带动摄像机绕镜面球体转动，实时画面在房间内的监视器上播放。",
+   "keywords": [
+    "video art",
+    "mirrored sphere",
+    "Allvision",
+    "camera machine"
+   ],
+   "images": [
+    "http://www.vasulka.org/Steina/Steina_MachineVision/img/MachineVision01.jpg",
+    "http://www.vasulka.org/Steina/Steina_MachineVision/img/MachineVision02.jpg"
+   ],
+   "source_url": "http://www.vasulka.org/Steina/Steina_MachineVision/MachineVision.html",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "Albright-Knox Art Gallery, Buffalo 1978"
+   ]
+  },
+  {
+   "id": "daito-manabe--dissonant-imaginary",
+   "creator_ids": [
+    "daito-manabe"
+   ],
+   "title": "Dissonant Imaginary",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "dreams",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "generative-latent",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "performance",
+   "description": "An audiovisual performance, made with Kamitani Lab at Kyoto University, in which images are reconstructed from fMRI recordings of a person's visual cortex while they listen to music.",
+   "description_zh": "与京都大学神谷实验室合作的视听表演：在受试者聆听音乐时，从其视觉皮层的 fMRI 记录中重建图像。",
+   "idea_en": "Decoding the brain with a network produces images that belong neither to the person nor to the machine.",
+   "idea_zh": "用神经网络解码大脑，得到的图像既不完全属于人，也不完全属于机器。",
+   "method": "Brain-decoding models from Kamitani Lab map fMRI activity to deep-network image features, which are rendered live with the music.",
+   "method_zh": "神谷实验室的脑解码模型把 fMRI 活动映射到深度网络的图像特征，并随音乐实时渲染。",
+   "keywords": [
+    "fMRI",
+    "brain decoding",
+    "Kamitani Lab",
+    "Sónar"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VrsEdWpg6Jw"
+   },
+   "source_url": "https://www.youtube.com/watch?v=VrsEdWpg6Jw",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "Sónar Barcelona 2019",
+    "MUTEK 2019"
+   ]
+  },
+  {
+   "id": "etsuko-ichihara--namahage-in-tokyo",
+   "creator_ids": [
+    "etsuko-ichihara"
+   ],
+   "title": "Namahage in Tokyo",
+   "year": 2017,
+   "field": "afterlife",
+   "sub": "ritual",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "An update of the Namahage, the masked demons of Akita who scold lazy children at New Year: in Tokyo they use face recognition, CCTV and social-media data to find 'bad adults' and discipline them.",
+   "description_zh": "对秋田“生剥鬼”（Namahage，新年时训诫懒惰孩子的面具鬼）的更新：在东京，它们用人脸识别、监控与社交媒体数据找出“坏大人”并加以管教。",
+   "idea_en": "A folk ritual of moral surveillance fits unsettlingly well with algorithmic scoring.",
+   "idea_zh": "一种民间的道德监视仪式，与算法评分出奇地契合，令人不安。",
+   "method": "Performance with costumed Namahage and a staged system of face recognition, social-media profiling and VR, produced with Dentsu ISID's innovation lab.",
+   "method_zh": "身着生剥鬼装扮的表演，配以人脸识别、社交媒体画像与 VR 的模拟系统，与电通国际信息服务创新实验室合作制作。",
+   "keywords": [
+    "Namahage",
+    "folk ritual",
+    "face recognition",
+    "social scoring"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=O5zvKmsMKv8"
+   },
+   "source_url": "https://www.youtube.com/watch?v=O5zvKmsMKv8",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "iris-long--rasa-box",
+   "creator_ids": [
+    "iris-long"
+   ],
+   "title": "RASA-BOX",
+   "year": 2019,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A 'mirror' that reads visitors' body posture with a camera, infers their emotional state and writes a sentence in the same emotional category, testing how private our feelings remain.",
+   "description_zh": "一面“镜子”：用摄像头读取观众的身体姿态，推断其情绪状态，并写出一句同类情绪的句子，检验我们的感受还有多少私密可言。",
+   "idea_en": "Emotion inference turns the body into a text a machine claims to read.",
+   "idea_zh": "情绪推断把身体变成一段机器声称能读懂的文本。",
+   "method": "Pose estimation from camera skeleton data feeds an emotion classifier and a text generator; made with Hanbin Deng and Wu Tiancheng.",
+   "method_zh": "摄像头骨骼数据经姿态估计输入情绪分类器与文本生成器；与 Hanbin Deng、Wu Tiancheng 合作完成。",
+   "keywords": [
+    "emotion recognition",
+    "pose estimation",
+    "rasa",
+    "privacy of feeling"
+   ],
+   "images": [
+    "https://ars.electronica.art/outofthebox/files/2019/08/RASABOX_Iris-Long.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/outofthebox/en/rasa-box/",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "Ars Electronica Festival 2019"
+   ]
+  },
+  {
+   "id": "jing-cai-liu--wearable-face-projector",
+   "creator_ids": [
+    "jing-cai-liu"
+   ],
+   "title": "Wearable Face Projector",
+   "year": 2017,
+   "field": "perception",
+   "sub": "evasion",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "A head-mounted mini projector that casts another person's face onto the wearer's own, to confuse face and emotion recognition in public space.",
+   "description_zh": "一个头戴式微型投影仪，把另一个人的脸投射到佩戴者脸上，以迷惑公共空间中的人脸与情绪识别。",
+   "idea_en": "Against face recognition, one answer is to wear someone else's face.",
+   "idea_zh": "对抗人脸识别的一种答案，是戴上别人的脸。",
+   "method": "Small projector on a head-mounted arm projects face video onto the wearer; design prototype and film.",
+   "method_zh": "装在头戴支架上的小型投影仪把人脸视频投到佩戴者脸上；设计原型与影片。",
+   "keywords": [
+    "anti-surveillance",
+    "projection",
+    "wearable",
+    "design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_PoudPCevN0"
+   },
+   "images": [
+    "http://jingcailiu.com/wp-content/uploads/2020/06/Wearable-face-projector-21may2020-scaled-e1592083294514-1024x340.jpg"
+   ],
+   "source_url": "http://jingcailiu.com/wearable-face-projector/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "unmake-lab--utopian-extraction",
+   "creator_ids": [
+    "unmake-lab"
+   ],
+   "title": "Utopian Extraction",
+   "year": 2020,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "vision-system",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "performance",
+   "description": "Drone and satellite images of Korean construction sites where 'nature' is manufactured, set beside a performance in which object recognition keeps relabelling a performer wrapped in zebra-patterned cloth.",
+   "description_zh": "以无人机与卫星影像呈现韩国“制造自然”的建设工地，并配以一场表演：目标识别不断给一位裹着斑马纹布料的表演者重新贴标签。",
+   "idea_en": "Machine vision's categories flatten nature into the same generic, constructible thing.",
+   "idea_zh": "机器视觉的分类把自然压扁为同一种通用、可施工的东西。",
+   "method": "Satellite imagery, drone footage and a live object-recognition app; presented as a lecture performance.",
+   "method_zh": "卫星影像、无人机画面与实时目标识别应用，以讲座表演形式呈现。",
+   "keywords": [
+    "generic nature",
+    "construction",
+    "object recognition",
+    "Korea"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RSRjDoCALKM"
+   },
+   "source_url": "https://www.youtube.com/watch?v=RSRjDoCALKM",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "Coreana Museum of Art C*-lab, Seoul 2020"
+   ]
+  },
+  {
+   "id": "agnieszka-kurant--assembly-line",
+   "creator_ids": [
+    "agnieszka-kurant"
+   ],
+   "title": "Assembly Line",
+   "year": 2017,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "Kurant paid Amazon Mechanical Turk workers to send selfies, merged them into composite portraits of the crowd workforce, and returns a share of sales to the workers.",
+   "description_zh": "Kurant 付费请 Amazon Mechanical Turk 工人发来自拍，把它们合成为这一群体劳动力的肖像，并把销售所得的一部分返还给工人。",
+   "idea_en": "The crowd that trains machines to see faces rarely has a face of its own.",
+   "idea_zh": "训练机器识别人脸的群体，自己却很少拥有一张脸。",
+   "method": "Selfies commissioned through Mechanical Turk, merged with face-morphing software into composite portraits; a bonus system shares profits with contributors.",
+   "method_zh": "通过 Mechanical Turk 征集自拍，用人脸融合软件合成肖像；以奖金机制与参与者分享收益。",
+   "keywords": [
+    "Mechanical Turk",
+    "crowd labour",
+    "composite portrait",
+    "profit sharing"
+   ],
+   "images": [
+    "https://sfmomaopenspace.s3.us-west-2.amazonaws.com/wp-content/uploads/2018/02/25191941/assembly-line-smaller.jpg"
+   ],
+   "source_url": "https://openspace.sfmoma.org/2018/03/assembly-line-animal-internet/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "keiichi-matsuda--hyper-reality",
+   "creator_ids": [
+    "keiichi-matsuda"
+   ],
+   "title": "Hyper-Reality",
+   "year": 2016,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "machines": [
+    "vision-system",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "A short film seen through the augmented-reality view of a gig worker in Medellín, whose world is covered with ads, loyalty points and task prompts until the system glitches and her identity is wiped.",
+   "description_zh": "一部短片，透过麦德林一名零工劳动者的增强现实视野展开：她的世界被广告、积分和任务提示覆盖，直到系统出错、她的身份被清空。",
+   "idea_en": "When a machine view becomes the only view, the world itself turns into an interface for sale.",
+   "idea_zh": "当机器的视野成为唯一的视野，世界本身就变成了待售的界面。",
+   "method": "Live-action footage shot in Medellín composited with dense AR interface graphics; crowdfunded independent production.",
+   "method_zh": "在麦德林拍摄的实景画面合成密集的 AR 界面图形；众筹独立制作。",
+   "keywords": [
+    "augmented reality",
+    "gamification",
+    "Medellín",
+    "gig work"
+   ],
+   "video": {
+    "url": "https://vimeo.com/166807261"
+   },
+   "images": [
+    "http://hyper-reality.co/assets/images/og-image.jpg"
+   ],
+   "source_url": "http://hyper-reality.co/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "IOCOSE — Drone Selfies (2014)",
+   "why": "Photos of drones taking selfies in mirrors: machine vanity after the end of war; artist site down, no verified media.",
+   "link": "https://www.iocose.org/works/drone_selfies.html",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Simone C. Niquille — REALFACE Glamoflage (2013)",
+   "why": "T-shirts printed with celebrity faces to jam Facebook face tagging; no work-specific media found.",
+   "link": "http://www.technofle.sh/",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Marta Revuelta & Laurent Weingart — AI Facial Profiling, Levels of Paranoia (2018)",
+   "why": "Machine that sorts visitors by a face classifier's guess of whether they are dangerous; site returned no media.",
+   "link": "https://revuelta.ch/ai-facial-profiling",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Martin Le Chevallier — Vigilance 1.0 (2001)",
+   "why": "Surveillance game in which the player watches CCTV screens to report offences; no media found.",
+   "link": "http://www.martinlechevallier.net/english/A_vigilance.html",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Douglas Coupland — CMYK Deep Face Dude (2014)",
+   "why": "Painting with coloured squares over a face, echoing face-detection boxes.",
+   "link": "https://www.coupland.com/visual-arts/cmyk-deep-face-dude",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Max Dovey — How to be More or Less Human (2015)",
+   "why": "Performance in which the artist is classified live by image recognition; no work-specific media.",
+   "link": "https://www.maxdovey.com",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Jip van Leeuwenstein — Surveillance Exclusion (2016)",
+   "why": "Transparent lens mask that blocks face recognition while keeping the face visible.",
+   "link": "http://www.jipvanleeuwenstein.nl/",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Sookyun Yang, Jinoon Choi, Hyun Parke — Volumetric Data Collector (2019)",
+   "why": "Robot that 3D-scans its surroundings, shown at Ars Electronica Center; page now 404 (Korean artists, lead for east-asia).",
+   "link": "https://ars.electronica.art/center/en/volumetricdatacollector/",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "SHI Weili — Terra Mars (2019)",
+   "why": "GAN that renders Mars topography in the style of Earth satellite imagery; borderline (generative), Chinese artist.",
+   "link": "https://shi-weili.com/terra-mars",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Nora Al-Badri & Jan Nikolai Nelles — The Other Nefertiti (2015)",
+   "why": "Covert 3D scan of the Nefertiti bust released online; about scanning and restitution rather than machine vision.",
+   "link": "https://www.nora-al-badri.de/works-index",
+   "found_via": "machine-vision-db",
+   "status": "off_topic"
+  },
+  {
+   "name": "Iyo Bisseck — The Human Detector (2018)",
+   "why": "Face detection that fails on dark skin, by a Senegalese-French artist.",
+   "link": "https://iyo.io/",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Nushin Isabelle Yazdani & Nakeema Stefflbauer — Future Tense: AI from the margins (2020)",
+   "why": "Speculative work on emotion and face recognition from marginalised perspectives.",
+   "link": "https://nushinyazdani.com/Future-Tense-AI-from-the-margins",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Sara Lana — Pontos cegos / Blind spots (2016)",
+   "why": "Brazilian work on the blind spots of urban CCTV.",
+   "link": "https://touca.ninja/pontos-cegos",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Les Levine — Iris (1968)",
+   "why": "Early closed-circuit video sculpture: six monitors and three hidden cameras show viewers themselves at three distances; no verified media found.",
+   "link": "https://machine-vision.no",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Mimi Onuoha — Classification.01 (2017)",
+   "why": "Sculpture whose neon brackets light up only when two visitors are classified as similar by a face model; project page now 404.",
+   "link": "https://mimionuoha.com",
+   "found_via": "machine-vision-db",
+   "status": "no_media"
+  },
+  {
+   "name": "Shinseungback Kimyonghun — Flower (2017) and Cat or Human (2013)",
+   "why": "Database works by the Korean duo (east-asia batch already has five of their works, incl. Animal Classifier); add if a sixth is wanted.",
+   "link": "http://ssbkyh.com/works/flower/",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Harun Farocki — Serious Games I–IV (2009–10)",
+   "why": "Other parts of the series beyond Immersion; power-labour-2 holds Serious Games.",
+   "link": "https://www.harunfarocki.de",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  },
+  {
+   "name": "Waltz Binaire / Tomás Laurenzo / Bruno Moreschi — further database works",
+   "why": "Smile (Laurenzo 2018), Outra 33 Bienal (Moreschi et al. 2018) and Memoirs of the Blind are in the database but were not added.",
+   "link": "https://machine-vision.no",
+   "found_via": "machine-vision-db",
+   "status": "open"
+  }
+ ]
+}

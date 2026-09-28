@@ -1,0 +1,2523 @@
+{
+ "batch": "coperformance-2",
+ "creators": [
+  {
+   "id": "karel-capek",
+   "name": "Karel Čapek",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Writer and playwright (1890–1938)",
+   "based": "Prague, Czechoslovakia",
+   "bio": "Czech writer whose play R.U.R. introduced the word 'robot', suggested by his brother Josef.",
+   "why": "R.U.R. set the terms of a century of robot stories: artificial workers, exploitation and revolt.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek"
+   },
+   "role_zh": "作家、剧作家（1890–1938）",
+   "bio_zh": "捷克作家，他的剧本 R.U.R. 让“robot”（机器人）一词进入世界语言，这个词由他的哥哥 Josef 提议。",
+   "why_zh": "R.U.R. 为此后一个世纪的机器人故事定下基调：人造工人、剥削与反叛。",
+   "based_zh": "布拉格，捷克斯洛伐克",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rimini-protokoll",
+   "name": "Rimini Protokoll",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Theatre collective (Helgard Haug, Stefan Kaegi, Daniel Wetzel)",
+   "based": "Berlin, Germany",
+   "bio": "German-Swiss collective known for documentary theatre with 'experts of the everyday' instead of actors.",
+   "why": "Uncanny Valley replaced the expert himself with his robotic double.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.rimini-protokoll.de/"
+   },
+   "role_zh": "剧场团体（Helgard Haug、Stefan Kaegi、Daniel Wetzel）",
+   "bio_zh": "德瑞剧场团体，以“日常生活专家”代替演员的纪录剧场闻名。",
+   "why_zh": "《恐怖谷》把“专家”本人换成了他的机器人替身。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "thomas-melle"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-melle",
+   "name": "Thomas Melle",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Writer",
+   "based": "Berlin, Germany",
+   "bio": "German novelist and playwright who wrote about his bipolar disorder in The World at My Back.",
+   "why": "He lent his face, voice and life story to an animatronic double that performs in his place.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "作家",
+   "bio_zh": "德国小说家、剧作家，在《我背后的世界》中书写自己的双相障碍。",
+   "why_zh": "他把自己的面孔、声音与人生故事交给一个替他演出的电子动画替身。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "rimini-protokoll"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "heather-knight",
+   "name": "Heather Knight",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Roboticist; Assistant Professor, Oregon State University (CHARISMA Lab)",
+   "based": "Corvallis, US",
+   "bio": "Social roboticist who founded Marilyn Monrobot and uses theatre and comedy to study robot expression.",
+   "why": "She treats performance as a lab for how robots read and respond to audiences.",
+   "disciplines": [
+    "robotics",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.marilynmonrobot.com/"
+   },
+   "role_zh": "机器人学家；俄勒冈州立大学助理教授（CHARISMA 实验室）",
+   "bio_zh": "社交机器人学家，创立 Marilyn Monrobot，借剧场与喜剧研究机器人的表现力。",
+   "why_zh": "她把表演当作实验室，研究机器人如何读懂并回应观众。",
+   "based_zh": "科瓦利斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "annie-dorsen",
+   "name": "Annie Dorsen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Director and writer of algorithmic theatre",
+   "based": "New York, US",
+   "bio": "American theatre director who since 2010 has made performances in which algorithms write, speak or stage the text live.",
+   "why": "Her 'algorithmic theatre' puts the machine's way of producing language itself on stage, and later critiques large language models.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://anniedorsen.com/"
+   },
+   "role_zh": "算法剧场导演与作者",
+   "bio_zh": "美国剧场导演，自 2010 年起创作由算法现场书写、说出或调度文本的表演。",
+   "why_zh": "她的“算法剧场”把机器生产语言的方式本身搬上舞台，后来又转向批判大语言模型。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tod-machover",
+   "name": "Tod Machover",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer; Professor, MIT Media Lab (Opera of the Future)",
+   "based": "Cambridge, MA, US",
+   "bio": "American composer who invented hyperinstruments and makes technology-driven operas.",
+   "why": "Death and the Powers imagines a man living on inside the machines of his house.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/tod/overview/"
+   },
+   "role_zh": "作曲家；MIT 媒体实验室教授（Opera of the Future 组）",
+   "bio_zh": "美国作曲家，发明“超级乐器”（hyperinstruments），创作以技术驱动的歌剧。",
+   "why_zh": "《死亡与权力》想象一个人在自家房屋的机器里继续活着。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pipeline-theatre",
+   "name": "Pipeline Theatre",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Theatre company",
+   "based": "Plymouth, UK",
+   "bio": "British theatre company that made Spillikin with the humanoid robot company Engineered Arts.",
+   "why": "Spillikin put a working humanoid robot on tour as a character in a play about dementia and love.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.pipelinetheatre.com/"
+   },
+   "role_zh": "剧团",
+   "bio_zh": "英国剧团，与人形机器人公司 Engineered Arts 合作创作了 Spillikin。",
+   "why_zh": "Spillikin 让一台真实运行的人形机器人作为角色，在一部关于失智与爱情的戏中巡演。",
+   "based_zh": "普利茅斯，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rik-lander",
+   "name": "Rik Lander",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and writer; co-creator of I Am Echoborg",
+   "based": "Bristol, UK",
+   "bio": "British interactive storyteller who makes participatory works about AI.",
+   "why": "I Am Echoborg turns the audience into negotiators with a human who speaks for a machine.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://echoborg.com/"
+   },
+   "role_zh": "艺术家、编剧；I Am Echoborg 联合创作者",
+   "bio_zh": "英国互动叙事创作者，创作关于 AI 的参与式作品。",
+   "why_zh": "I Am Echoborg 让观众与一个“替机器说话的人”展开协商。",
+   "based_zh": "布里斯托，英国",
+   "connected_to": [
+    "phil-d-hall"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "phil-d-hall",
+   "name": "Phil D. Hall",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Conversational AI designer; co-creator of I Am Echoborg",
+   "based": "Bristol, UK",
+   "bio": "Chatbot designer who writes the conversational agent behind I Am Echoborg.",
+   "why": "He designs the machine side of a human-machine conversation staged as theatre.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://echoborg.com/"
+   },
+   "role_zh": "对话式 AI 设计师；I Am Echoborg 联合创作者",
+   "bio_zh": "聊天机器人设计师，编写 I Am Echoborg 背后的对话代理。",
+   "why_zh": "他设计了一场被搬上舞台的人机对话中“机器”的那一方。",
+   "based_zh": "布里斯托，英国",
+   "connected_to": [
+    "rik-lander"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "piotr-mirowski",
+   "name": "Piotr Mirowski",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI researcher and improviser; co-founder of Improbotics",
+   "based": "London, UK",
+   "bio": "Research scientist in machine learning who performs improvised theatre with AI systems.",
+   "why": "Improbotics uses the stage to test how language models behave as scene partners.",
+   "disciplines": [
+    "performance",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://improbotics.org/"
+   },
+   "role_zh": "AI 研究者、即兴演员；Improbotics 联合创始人",
+   "bio_zh": "机器学习研究科学家，与 AI 系统一起表演即兴戏剧。",
+   "why_zh": "Improbotics 用舞台检验语言模型作为对手演员时的表现。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "kory-mathewson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kory-mathewson",
+   "name": "Kory Mathewson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI researcher and improviser; co-founder of Improbotics",
+   "based": "Montreal, Canada",
+   "bio": "Canadian research scientist who built improvising dialogue agents and co-founded Improbotics.",
+   "why": "He brought human-machine improvisation into AI research venues.",
+   "disciplines": [
+    "performance",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://improbotics.org/"
+   },
+   "role_zh": "AI 研究者、即兴演员；Improbotics 联合创始人",
+   "bio_zh": "加拿大研究科学家，构建会即兴的对话代理，并联合创立 Improbotics。",
+   "why_zh": "他把人机即兴带进了 AI 研究的会议与论文。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [
+    "piotr-mirowski"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "theaitre",
+   "name": "THEaiTRE",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Research and theatre project (Charles University, Švandovo divadlo, DAMU)",
+   "based": "Prague, Czech Republic",
+   "bio": "Czech project that used language models to write theatre plays, starting with the R.U.R. centenary in 2021.",
+   "why": "It returned the robot to the Czech stage as the author of a play.",
+   "disciplines": [
+    "performance",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.theaitre.com/"
+   },
+   "role_zh": "研究与剧场项目（查理大学、Švandovo 剧院、布拉格表演艺术学院）",
+   "bio_zh": "捷克项目，用语言模型写剧本，始于 2021 年 R.U.R. 百年纪念。",
+   "why_zh": "它让机器人以剧作者的身份回到捷克舞台。",
+   "based_zh": "布拉格，捷克",
+   "connected_to": [
+    "karel-capek"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "george-lewis",
+   "name": "George E. Lewis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer, trombonist and scholar; Professor, Columbia University",
+   "based": "New York, US",
+   "bio": "American composer and AACM member who has made interactive computer music since the late 1970s.",
+   "why": "Voyager and his writing framed the improvising computer as a partner shaped by culture, not a neutral tool.",
+   "disciplines": [
+    "performance",
+    "theory"
+   ],
+   "links": {
+    "site": "https://music.columbia.edu/bios/george-e-lewis"
+   },
+   "role_zh": "作曲家、长号手、学者；哥伦比亚大学教授",
+   "bio_zh": "美国作曲家、AACM 成员，自 1970 年代末创作互动计算机音乐。",
+   "why_zh": "Voyager 及其论述把会即兴的计算机视为受文化塑造的伙伴，而非中立的工具。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "holly-herndon",
+   "name": "Holly Herndon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and artist",
+   "based": "Berlin, Germany",
+   "bio": "American composer who makes music with voice, computers and AI models she trains with her collaborators.",
+   "why": "She treats AI as a collective, governed voice, not a replacement for singers.",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.hollyherndon.com/"
+   },
+   "role_zh": "作曲家、艺术家",
+   "bio_zh": "美国作曲家，用人声、计算机以及与合作者共同训练的 AI 模型创作音乐。",
+   "why_zh": "她把 AI 当作一种集体的、可被治理的声音，而非歌手的替代品。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "mat-dryhurst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mat-dryhurst",
+   "name": "Mat Dryhurst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "Berlin, Germany",
+   "bio": "British artist and Herndon's long-time collaborator, working on AI, data rights and online governance.",
+   "why": "He co-designed the governance models around Spawn and Holly+.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "英国艺术家，Herndon 的长期合作者，关注 AI、数据权利与网络治理。",
+   "why_zh": "他共同设计了 Spawn 与 Holly+ 的治理模式。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "holly-herndon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gil-weinberg",
+   "name": "Gil Weinberg",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor; founding director, Georgia Tech Center for Music Technology",
+   "based": "Atlanta, US",
+   "bio": "Israeli-American researcher who builds robotic musicians that listen and improvise.",
+   "why": "His 'robotic musicianship' asks what a machine adds to music when it has a body.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://gtcmt.gatech.edu/"
+   },
+   "role_zh": "教授；佐治亚理工学院音乐技术中心创始主任",
+   "bio_zh": "以色列裔美国研究者，打造会聆听并即兴的机器人音乐家。",
+   "why_zh": "他的“机器人音乐性”研究追问：当机器有了身体，它能为音乐带来什么。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "squarepusher",
+   "name": "Squarepusher",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Musician (Tom Jenkinson)",
+   "based": "London, UK",
+   "bio": "British electronic musician and bassist on Warp Records.",
+   "why": "Music for Robots asked what music is when written for players with inhuman bodies.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://squarepusher.net/"
+   },
+   "role_zh": "音乐人（Tom Jenkinson）",
+   "bio_zh": "英国电子音乐人与贝斯手，签约 Warp 唱片。",
+   "why_zh": "《为机器人写的音乐》追问：为拥有非人身体的演奏者写的音乐是什么。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-walshe",
+   "name": "Jennifer Walshe",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and performer; Professor of Composition, University of Oxford",
+   "based": "Dublin, Ireland",
+   "bio": "Irish composer and vocalist whose work mixes extended voice, fictional archives and AI.",
+   "why": "She approaches AI as a strange new voice to perform with and to question.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "http://milker.org/"
+   },
+   "role_zh": "作曲家、表演者；牛津大学作曲教授",
+   "bio_zh": "爱尔兰作曲家与歌手，作品融合扩展人声、虚构档案与 AI。",
+   "why_zh": "她把 AI 当作一种可与之共演、也需被追问的陌生新声音。",
+   "based_zh": "都柏林，爱尔兰",
+   "connected_to": [
+    "memo-akten",
+    "dadabots"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dadabots",
+   "name": "Dadabots",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Music AI duo (CJ Carr, Zack Zukowski)",
+   "based": "Boston, US",
+   "bio": "Duo that trains raw-audio neural networks on bands and voices, known for endless AI metal streams.",
+   "why": "They build models of specific musicians' sound, raising questions of voice and ownership.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://dadabots.com/"
+   },
+   "role_zh": "音乐 AI 二人组（CJ Carr、Zack Zukowski）",
+   "bio_zh": "用原始音频神经网络训练乐队与人声的二人组，以不停歇的 AI 金属乐直播闻名。",
+   "why_zh": "他们为特定音乐人的声音建模，引出关于声音与所有权的问题。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [
+    "jennifer-walshe"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yacht",
+   "name": "YACHT",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Band (Claire L. Evans, Jona Bechtolt, Rob Kieswetter)",
+   "based": "Los Angeles, US",
+   "bio": "American electronic pop band that made an album with machine learning under strict self-imposed rules.",
+   "why": "They documented the friction of making music through models, not just the result.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://teamyacht.com/"
+   },
+   "role_zh": "乐队（Claire L. Evans、Jona Bechtolt、Rob Kieswetter）",
+   "bio_zh": "美国电子流行乐队，在严格的自设规则下用机器学习制作专辑。",
+   "why_zh": "他们记录的是借模型做音乐的摩擦，而不只是结果。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pat-metheny",
+   "name": "Pat Metheny",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Jazz guitarist and composer",
+   "based": "New York, US",
+   "bio": "American guitarist who toured with an orchestra of mechanically played acoustic instruments.",
+   "why": "Orchestrion is a large-scale case of a solo musician improvising with machines.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.patmetheny.com/"
+   },
+   "role_zh": "爵士吉他手、作曲家",
+   "bio_zh": "美国吉他手，曾带着一支由机械演奏的原声乐器乐队巡演。",
+   "why_zh": "Orchestrion 是一位独奏音乐家与机器即兴的大规模案例。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alvin-lucier",
+   "name": "Alvin Lucier",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer (1931–2021)",
+   "based": "Middletown, CT, US",
+   "bio": "American experimental composer whose works explore the physical properties of sound and the body.",
+   "why": "Music for Solo Performer was the first piece to use brainwaves to make music.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Alvin_Lucier"
+   },
+   "role_zh": "作曲家（1931–2021）",
+   "bio_zh": "美国实验作曲家，作品探索声音与身体的物理特性。",
+   "why_zh": "《为独奏者而作的音乐》是第一部用脑电波制造音乐的作品。",
+   "based_zh": "米德尔敦（康涅狄格州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michel-waisvisz",
+   "name": "Michel Waisvisz",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and instrument inventor; artistic director of STEIM (1949–2008)",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Dutch composer who built gestural electronic instruments at STEIM.",
+   "why": "The Hands made the performer's body, not the keyboard, the interface to electronic sound.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Michel_Waisvisz"
+   },
+   "role_zh": "作曲家、乐器发明者；STEIM 艺术总监（1949–2008）",
+   "bio_zh": "荷兰作曲家，在 STEIM 打造以手势演奏的电子乐器。",
+   "why_zh": "The Hands 让表演者的身体而非键盘，成为通往电子声音的界面。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [
+    "laetitia-sonami"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laetitia-sonami",
+   "name": "Laetitia Sonami",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Sound artist and composer",
+   "based": "San Francisco, US",
+   "bio": "French-born composer known for performing electronic music with the Lady's Glove and later a machine-learning instrument.",
+   "why": "Her glove turned a gendered accessory into a sensor-laden instrument that made gesture audible.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://sonami.net/"
+   },
+   "role_zh": "声音艺术家、作曲家",
+   "bio_zh": "生于法国的作曲家，以戴着 Lady's Glove 表演电子音乐著称，后来又使用机器学习乐器。",
+   "why_zh": "她的手套把一件带性别意味的配饰变成布满传感器、让手势发声的乐器。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "michel-waisvisz"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kraftwerk",
+   "name": "Kraftwerk",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Band (founded by Ralf Hütter and Florian Schneider)",
+   "based": "Düsseldorf, Germany",
+   "bio": "German electronic band, founded in 1970, whose image and sound fused musicians with machines.",
+   "why": "They performed themselves as robots and later let robot dummies take their place on stage.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://kraftwerk.com/"
+   },
+   "role_zh": "乐队（由 Ralf Hütter 与 Florian Schneider 创立）",
+   "bio_zh": "1970 年成立的德国电子乐队，其形象与声音把音乐人与机器融为一体。",
+   "why_zh": "他们把自己表演成机器人，后来又让机器人假人代替自己站上舞台。",
+   "based_zh": "杜塞尔多夫，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "francois-pachet",
+   "name": "François Pachet",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI and music researcher; former director of Sony CSL Paris",
+   "based": "Paris, France",
+   "bio": "French computer scientist who built interactive style-learning music systems.",
+   "why": "The Continuator let musicians play with a machine reflection of their own style.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.francoispachet.fr/"
+   },
+   "role_zh": "AI 与音乐研究者；索尼计算机科学实验室巴黎分部前主任",
+   "bio_zh": "法国计算机科学家，开发会学习风格的互动音乐系统。",
+   "why_zh": "Continuator 让音乐人与一面映照自身风格的机器之镜一同演奏。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "harold-cohen",
+   "name": "Harold Cohen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Painter and AI art pioneer (1928–2016)",
+   "based": "San Diego, US",
+   "bio": "British-born painter who wrote and developed the drawing program AARON from 1973 until his death.",
+   "why": "His four-decade collaboration with one program is the longest experiment in machine authorship.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://aaronshome.com/"
+   },
+   "role_zh": "画家、AI 艺术先驱（1928–2016）",
+   "bio_zh": "生于英国的画家，自 1973 年起编写并发展绘画程序 AARON，直至去世。",
+   "why_zh": "他与一个程序长达四十余年的合作，是机器作者身份最漫长的实验。",
+   "based_zh": "圣地亚哥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "desmond-paul-henry",
+   "name": "Desmond Paul Henry",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and philosopher (1921–2004)",
+   "based": "Manchester, UK",
+   "bio": "British philosophy lecturer who built drawing machines from bombsight analogue computers in the 1950s–60s.",
+   "why": "His machines are among the first to produce art through a computer mechanism.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.desmondhenry.com/"
+   },
+   "role_zh": "艺术家、哲学家（1921–2004）",
+   "bio_zh": "英国哲学讲师，1950–60 年代用轰炸瞄准器的模拟计算机制作绘画机器。",
+   "why_zh": "他的机器是最早通过计算机构创作艺术的机器之一。",
+   "based_zh": "曼彻斯特，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jean-tinguely",
+   "name": "Jean Tinguely",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Sculptor (1925–1991)",
+   "based": "Paris, France / Basel, Switzerland",
+   "bio": "Swiss artist of kinetic 'meta-mechanical' sculptures and self-destroying machines.",
+   "why": "His drawing machines parodied artistic genius by automating it.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.tinguely.ch/"
+   },
+   "role_zh": "雕塑家（1925–1991）",
+   "bio_zh": "瑞士艺术家，以动态“元机械”雕塑和自毁机器闻名。",
+   "why_zh": "他的绘画机器通过把艺术天才自动化来戏仿它。",
+   "based_zh": "巴黎，法国 / 巴塞尔，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "patrick-tresset",
+   "name": "Patrick Tresset",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Brussels, Belgium",
+   "bio": "French artist who builds robotic agents that draw people with deliberately clumsy, obsessive gestures.",
+   "why": "His robots stage the act of drawing as observation, fatigue and error.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://patricktresset.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "法国艺术家，制作以刻意笨拙而执着的笔触为人画像的机器人。",
+   "why_zh": "他的机器人把绘画行为呈现为观察、疲惫与错误。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leonel-moura",
+   "name": "Leonel Moura",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Lisbon, Portugal",
+   "bio": "Portuguese artist who has made autonomous painting robots and robot swarms since 2003.",
+   "why": "He argues for 'non-human art' made by machines that decide for themselves.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.leonelmoura.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "葡萄牙艺术家，自 2003 年起制作自主绘画机器人与机器人群。",
+   "why_zh": "他主张由自行决定的机器创作的“非人艺术”。",
+   "based_zh": "里斯本，葡萄牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aidan-meller",
+   "name": "Aidan Meller",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Gallerist; creator of the Ai-Da robot project",
+   "based": "Oxford, UK",
+   "bio": "British gallerist who initiated Ai-Da, a humanoid 'robot artist' built with Engineered Arts in 2019.",
+   "why": "Ai-Da is a widely publicised, contested test case for claims of machine authorship.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.ai-darobot.com/"
+   },
+   "role_zh": "画廊主；Ai-Da 机器人项目发起人",
+   "bio_zh": "英国画廊主，2019 年与 Engineered Arts 合作推出类人“机器人艺术家”Ai-Da。",
+   "why_zh": "Ai-Da 是关于“机器作者”主张的一个广受报道、也饱受争议的案例。",
+   "based_zh": "牛津，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agnieszka-pilat",
+   "name": "Agnieszka Pilat",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "San Francisco, US",
+   "bio": "Polish-born painter who works with Boston Dynamics' Spot robots as studio companions and co-painters.",
+   "why": "She treats machines as a new audience and species with their own visual language.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.agnieszkapilat.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "生于波兰的画家，把 Boston Dynamics 的 Spot 机器人当作工作室伙伴与共同作画者。",
+   "why_zh": "她把机器视为拥有自身视觉语言的新观众和新物种。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "boston-dynamics"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-horn",
+   "name": "Rebecca Horn",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist (1944–2024)",
+   "based": "Berlin, Germany",
+   "bio": "German artist known for body extensions, performance films and kinetic sculptures.",
+   "why": "Her body extensions of the early 1970s are pre-digital prostheses that make the body a sensing, drawing instrument.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Rebecca_Horn"
+   },
+   "role_zh": "艺术家（1944–2024）",
+   "bio_zh": "德国艺术家，以身体延伸装置、表演影像和动态雕塑闻名。",
+   "why_zh": "她 1970 年代初的身体延伸装置是前数字时代的义体，把身体变成会感知、会绘画的工具。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "karel-capek--rur",
+   "creator_ids": [
+    "karel-capek"
+   ],
+   "title": "R.U.R. (Rossum's Universal Robots)",
+   "year": 1921,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "Čapek's play is set in a factory that mass-produces artificial workers, the 'roboti', who are sold worldwide, then revolt and destroy humanity; its premiere at Prague's National Theatre gave the world the word robot.",
+   "description_zh": "Čapek 的剧本以一座批量生产人造工人“roboti”的工厂为背景，这些工人被销往全球，随后反叛并毁灭人类；它在布拉格国家剧院的首演让“机器人”一词进入世界语言。",
+   "idea_en": "The first robots were imagined as workers: the idea of the machine-other was born as a question about labour.",
+   "idea_zh": "最早的机器人被想象为工人：“机器他者”的观念诞生于一个关于劳动的问题。",
+   "method": "Stage play; the robots are biological-chemical artificial people played by human actors.",
+   "method_zh": "舞台剧；剧中的机器人是由生化方法制造的人造人，由真人演员扮演。",
+   "keywords": [
+    "robot",
+    "Čapek",
+    "labour",
+    "National Theatre Prague"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/87/Capek_play.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/R.U.R.",
+   "exhibited": [
+    "National Theatre, Prague (1921)"
+   ]
+  },
+  {
+   "id": "kris-verdonck--end",
+   "creator_ids": [
+    "kris-verdonck"
+   ],
+   "title": "END",
+   "year": 2008,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "robot-creature",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "performance",
+   "description": "In ten scenes, END stages possible final stages of human society, drawn from media images of melting glaciers, burning forests, cameras spying on us and weapons; performers, objects and machines share the stage as equal presences.",
+   "description_zh": "END 用十个场景呈现人类社会可能的终局，取材于媒体中融化的冰川、燃烧的森林、窥视我们的摄像头与武器；表演者、物件与机器以同等的存在感共享舞台。",
+   "idea_en": "When the human is no longer the centre of the stage, machines and objects can carry the drama of an ending.",
+   "idea_zh": "当人不再是舞台中心，机器与物件也能承载“终结”的戏剧。",
+   "method": "Theatre installation combining performers, mechanical objects, projections and machine-driven stage elements across ten scenes.",
+   "method_zh": "结合表演者、机械物件、投影与机器驱动舞台元素的剧场装置，共十个场景。",
+   "keywords": [
+    "post-human theatre",
+    "catastrophe",
+    "machines on stage",
+    "Kunstenfestivaldesarts"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jbtwrPjuc0U"
+   },
+   "images": [
+    "https://www.atwodogscompany.org/media/og/149-endcreinouthiel.jpg"
+   ],
+   "source_url": "https://www.atwodogscompany.org/en/projects/end/",
+   "exhibited": [
+    "Kunstenfestivaldesarts, Brussels (2008)",
+    "Kampnagel, Hamburg (2008)"
+   ]
+  },
+  {
+   "id": "kris-verdonck--actor-1",
+   "creator_ids": [
+    "kris-verdonck"
+   ],
+   "title": "ACTOR #1",
+   "year": 2010,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "robot-creature",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "kind": "performance",
+   "description": "A three-part piece that tests what an actor is: a figure made of mist, a doll-like performer, and a robot that keeps falling, each asked to 'act' on stage without a human actor.",
+   "description_zh": "一部三段式作品，检验“演员”是什么：一个由雾构成的形体、一个人偶般的表演者、一台不断跌倒的机器人，它们都在没有人类演员的舞台上“表演”。",
+   "idea_en": "An actor can be anything that holds attention on stage; a machine's fall can carry pathos.",
+   "idea_zh": "演员可以是任何能在舞台上吸引注意的东西；一台机器的跌倒也能承载悲怆。",
+   "method": "Stage machines, fog effects and a robotic figure programmed for repeated falls, performed without human actors.",
+   "method_zh": "舞台机械、烟雾效果与被编程为反复跌倒的机器人形体，在没有人类演员的情况下演出。",
+   "keywords": [
+    "machine actor",
+    "falling robot",
+    "object theatre",
+    "A Two Dogs Company"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BtGwRJsq4ig"
+   },
+   "source_url": "https://www.atwodogscompany.org/en/projects/actor-1/"
+  },
+  {
+   "id": "rimini-protokoll--uncanny-valley",
+   "creator_ids": [
+    "rimini-protokoll",
+    "thomas-melle"
+   ],
+   "title": "Uncanny Valley (Unheimliches Tal)",
+   "year": 2018,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "An animatronic replica of writer Thomas Melle sits alone on stage and delivers a lecture about his bipolar disorder, Alan Turing and doubles, while the real Melle is absent.",
+   "description_zh": "作家 Thomas Melle 的电子动画复制品独自坐在舞台上，讲述他的双相障碍、Alan Turing 与替身，而真正的 Melle 并不在场。",
+   "idea_en": "A robotic double can speak about the self more frankly than the self, and makes the audience ask whom they are feeling for.",
+   "idea_zh": "机器人替身能比本人更坦率地谈论自我，也让观众追问：自己究竟在为谁动容。",
+   "method": "Silicone animatronic made from casts and scans of Melle, with pre-recorded voice and programmed facial and hand movements.",
+   "method_zh": "依据 Melle 的翻模与扫描制作的硅胶电子动画人偶，配以预录声音与编程的面部和手部动作。",
+   "keywords": [
+    "animatronic",
+    "double",
+    "bipolar disorder",
+    "Münchner Kammerspiele"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7dOnjW5sQPk"
+   },
+   "source_url": "https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley",
+   "exhibited": [
+    "Münchner Kammerspiele (2018)"
+   ]
+  },
+  {
+   "id": "heather-knight--data",
+   "creator_ids": [
+    "heather-knight"
+   ],
+   "title": "Data, the robot stand-up comedian",
+   "year": 2010,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A small NAO robot named Data performs stand-up comedy and chooses its next joke from the audience's laughter and applause; it premiered at TEDWomen 2010.",
+   "description_zh": "一台名为 Data 的小型 NAO 机器人表演单口喜剧，并根据观众的笑声与掌声选择下一个笑话；首演于 TEDWomen 2010。",
+   "idea_en": "Comedy is a test of machine social sense: timing and reading the room are harder than the jokes.",
+   "idea_zh": "喜剧是对机器社交能力的检验：节奏与察言观色比笑话本身更难。",
+   "method": "NAO humanoid with a joke database; audio and audience-feedback input update which joke is told next.",
+   "method_zh": "带笑话数据库的 NAO 类人机器人；根据音频与观众反馈决定下一个笑话。",
+   "keywords": [
+    "robot comedy",
+    "NAO",
+    "audience feedback",
+    "Marilyn Monrobot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Fu_kBW_KSms"
+   },
+   "images": [
+    "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f8bd657fb5e99e575ec030ddd925a8a782724e5_800x600.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82&w=1200"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-642-25504-5_5",
+    "doi": "10.1007/978-3-642-25504-5_5",
+    "venue": "ICSR 2011",
+    "title": "Eight Lessons Learned about Non-verbal Interactions through Robot Theater"
+   },
+   "source_url": "https://www.ted.com/talks/heather_knight_silicon_based_comedy"
+  },
+  {
+   "id": "annie-dorsen--hello-hi-there",
+   "creator_ids": [
+    "annie-dorsen"
+   ],
+   "title": "Hello Hi There",
+   "year": 2010,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "Two chatbots on two laptops hold a live conversation seeded with the 1971 television debate between Noam Chomsky and Michel Foucault on human nature; no two performances are the same.",
+   "description_zh": "两台笔记本电脑上的两个聊天机器人现场对话，其语料来自 1971 年 Noam Chomsky 与 Michel Foucault 关于人性的电视辩论；每场演出都不一样。",
+   "idea_en": "Watching machines debate human nature shows how language can be produced without anyone meaning it.",
+   "idea_zh": "看机器辩论人性，会发现语言可以在无人“意指”的情况下被生产出来。",
+   "method": "Custom chatbot programs with text corpora (the debate plus other sources), text-to-speech and projected text.",
+   "method_zh": "定制的聊天机器人程序，配合文本语料（辩论及其他来源）、语音合成与投影文字。",
+   "keywords": [
+    "algorithmic theatre",
+    "chatbots",
+    "Chomsky",
+    "Foucault"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3PiwEQQNnBk"
+   },
+   "images": [
+    "https://anniedorsen.com/wp/wp-content/uploads/2020/08/hellohi_silveri4519-e1608324384987.jpg"
+   ],
+   "source_url": "https://anniedorsen.com/projects/hello-hi-there/",
+   "exhibited": [
+    "steirischer herbst, Graz (2010)"
+   ]
+  },
+  {
+   "id": "annie-dorsen--a-piece-of-work",
+   "creator_ids": [
+    "annie-dorsen"
+   ],
+   "title": "A Piece of Work",
+   "year": 2013,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "An algorithmic Hamlet: each night computer programs cut, reorder and remix Shakespeare's text, which is spoken by synthetic voices and, in some scenes, by an actor, with lights and sound also run by code.",
+   "description_zh": "算法版《哈姆雷特》：每晚由计算机程序剪切、重排和混编莎士比亚的文本，由合成语音说出，部分场景由一位演员念出，灯光与声音也由代码控制。",
+   "idea_en": "When a machine performs the canon, 'what a piece of work is a man' becomes a question about pattern, not character.",
+   "idea_zh": "当机器演绎经典，“人是多么了不起的杰作”变成关于模式而非人物的问题。",
+   "method": "Markov chains and other text algorithms applied to Hamlet in real time, with speech synthesis and generative lighting cues.",
+   "method_zh": "对《哈姆雷特》实时运用马尔可夫链等文本算法，配合语音合成与生成式灯光提示。",
+   "keywords": [
+    "algorithmic theatre",
+    "Hamlet",
+    "Markov chain",
+    "speech synthesis"
+   ],
+   "images": [
+    "https://anniedorsen.com/wp/wp-content/uploads/2020/09/Annie-Dorsen_A-Piece-of-Work_revengepic_photo-by-Bruno-Pocheron-1900x1069.jpg"
+   ],
+   "source_url": "https://anniedorsen.com/projects/piece-of-work/"
+  },
+  {
+   "id": "annie-dorsen--prometheus-firebringer",
+   "creator_ids": [
+    "annie-dorsen"
+   ],
+   "title": "Prometheus Firebringer",
+   "year": 2023,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A language model generates a 'restoration' of Aeschylus's lost play, performed by AI-generated masks and voices, while Dorsen herself delivers a lecture on what such systems take from human culture.",
+   "description_zh": "语言模型生成埃斯库罗斯失传剧作的“复原本”，由 AI 生成的面具与声音演出；与此同时，Dorsen 本人发表讲演，讨论这类系统从人类文化中拿走了什么。",
+   "idea_en": "Generative AI 'restores' the past by averaging it; the piece stages that loss alongside the machine's fluency.",
+   "idea_zh": "生成式 AI 以“平均”的方式“复原”过去；这部作品把这种损失与机器的流畅并置于舞台。",
+   "method": "Large language model (GPT-3.5) generating the play, with generated mask images and synthetic voices, alongside a live human lecture.",
+   "method_zh": "大语言模型（GPT-3.5）生成剧本，配合生成的面具图像与合成语音，同时进行真人现场讲演。",
+   "keywords": [
+    "large language model",
+    "Aeschylus",
+    "algorithmic theatre",
+    "critique of AI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CKDwPyJaESk"
+   },
+   "images": [
+    "https://anniedorsen.com/wp/wp-content/uploads/2023/04/Copy-of-Prometheus_Firebringer_Baranova-2869-1900x1267.jpg"
+   ],
+   "source_url": "https://anniedorsen.com/projects/prometheus-firebringer/",
+   "exhibited": [
+    "Theatre for a New Audience, New York (2023)"
+   ]
+  },
+  {
+   "id": "tod-machover--death-and-the-powers",
+   "creator_ids": [
+    "tod-machover"
+   ],
+   "title": "Death and the Powers",
+   "year": 2010,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "robot-creature",
+    "infrastructure"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A robot opera: a dying billionaire uploads himself into 'the System', his house, and the stage itself, with a chorus of robotic 'Operabots', moving book-walls and a musical chandelier, becomes his new body.",
+   "description_zh": "一部机器人歌剧：垂死的亿万富翁把自己上传进“系统”，也就是他的房子；舞台本身，连同一群机器人“Operabots”、会移动的书墙和会奏乐的吊灯，成了他的新身体。",
+   "idea_en": "If a person can live on in a building's machinery, the question becomes whether the family can still reach him.",
+   "idea_zh": "如果一个人能在建筑的机器中继续存在，问题就变成：家人还能触及他吗？",
+   "method": "MIT Media Lab stage robotics (Operabots, robotic walls) driven by 'disembodied performance' sensing of the singer's voice and body.",
+   "method_zh": "MIT 媒体实验室的舞台机器人（Operabots、机器人墙体），由对歌手声音和身体的“去身体化表演”感知驱动。",
+   "keywords": [
+    "robot opera",
+    "upload",
+    "Opera of the Future",
+    "Operabots"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mPp9juefl2Y"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Death_and_the_Powers",
+   "exhibited": [
+    "Opéra de Monte-Carlo (2010)",
+    "Pulitzer Prize finalist (2012)"
+   ]
+  },
+  {
+   "id": "pipeline-theatre--spillikin",
+   "creator_ids": [
+    "pipeline-theatre"
+   ],
+   "title": "Spillikin: A Love Story",
+   "year": 2015,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "kind": "performance",
+   "description": "A play about Sue, who lives with Alzheimer's; her late husband, a roboticist, built a humanoid robot to keep her company and remember their life together, and the robot performs on stage alongside four actors.",
+   "description_zh": "一部关于患阿尔茨海默病的 Sue 的戏：她已故的丈夫是一位机器人专家，造了一台类人机器人陪伴她、记住他们的共同生活；这台机器人与四名演员同台演出。",
+   "idea_en": "A care robot can also be a vessel of memory and love left by the dead.",
+   "idea_zh": "照护机器人也可以是逝者留下的记忆与爱的容器。",
+   "method": "RoboThespian humanoid by Engineered Arts, programmed with cues and dialogue for each performance.",
+   "method_zh": "由 Engineered Arts 制造的 RoboThespian 类人机器人，按每场演出的提示与台词编程。",
+   "keywords": [
+    "RoboThespian",
+    "Engineered Arts",
+    "dementia",
+    "care robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CeoxJ2ZWRd0"
+   },
+   "images": [
+    "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_40jqdrnd3v8v183r6r55fsabms/e6f52ab8f37f9350171e05627b93dfdc_1790197362113.png"
+   ],
+   "source_url": "https://www.pipelinetheatre.com/spillikin",
+   "exhibited": [
+    "Edinburgh Festival Fringe, Pleasance (2015)"
+   ]
+  },
+  {
+   "id": "rik-lander--i-am-echoborg",
+   "creator_ids": [
+    "rik-lander",
+    "phil-d-hall"
+   ],
+   "title": "I Am Echoborg",
+   "year": 2016,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A human performer speaks only the words a chatbot sends through an earpiece; audience volunteers talk with this 'echoborg' and try to work out with it how humans and machines should live together.",
+   "description_zh": "一名真人表演者只说出聊天机器人通过耳机传来的话；观众志愿者与这个“回声人”对话，尝试与它一起想清楚人与机器该如何共处。",
+   "idea_en": "Putting a machine's words in a human mouth reveals how much we judge a mind by its body.",
+   "idea_zh": "把机器的话放进人的嘴里，暴露出我们在多大程度上凭身体来判断心智。",
+   "method": "Custom conversational agent whose output is converted to speech and relayed to a human speaker (the echoborg method from social psychology).",
+   "method_zh": "定制对话代理，其输出转为语音传给真人说出（源自社会心理学的“回声人”方法）。",
+   "keywords": [
+    "echoborg",
+    "chatbot",
+    "interactive theatre",
+    "social psychology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wh5QASc7PFY"
+   },
+   "images": [
+    "https://echoborg.com/img/E7b_1920x1008_3_og.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3389/fpsyg.2015.00634",
+    "doi": "10.3389/fpsyg.2015.00634",
+    "venue": "Frontiers in Psychology 2015",
+    "title": "A truly human interface: interacting face-to-face with someone whose words are determined by a computer program"
+   },
+   "source_url": "https://echoborg.com/"
+  },
+  {
+   "id": "piotr-mirowski--improbotics",
+   "creator_ids": [
+    "piotr-mirowski",
+    "kory-mathewson"
+   ],
+   "title": "Improbotics",
+   "year": 2018,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "An improv theatre company in which one performer, the 'cyborg', speaks lines generated live by a language model through an earpiece, while other players and the audience try to guess who is fed by the machine: a staged Turing test.",
+   "description_zh": "一个即兴剧团：其中一名演员作为“赛博格”，说出语言模型经耳机实时生成的台词，其他演员与观众则猜谁在被机器喂词，一场舞台上的图灵测试。",
+   "idea_en": "Improvisation exposes what a language model lacks as a partner: listening, memory of the scene and timing.",
+   "idea_zh": "即兴表演暴露了语言模型作为搭档所缺的东西：倾听、对场景的记忆与节奏。",
+   "method": "Speech recognition feeds a dialogue model whose replies are read to the human cyborg via earpiece or shown on screen.",
+   "method_zh": "语音识别把台词输入对话模型，模型的回复通过耳机传给真人“赛博格”或显示在屏幕上。",
+   "keywords": [
+    "improv",
+    "Turing test",
+    "language model",
+    "cyborg actor"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ICUoJBRNkkU"
+   },
+   "images": [
+    "https://i0.wp.com/improbotics.org/wp-content/uploads/2019/11/improbotics_rosettacode_voilaeurope_2019nov8_markhambelton_dsc0219-2-e1573434690902.jpg?fit=1200%2C762&ssl=1"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/1809.01807",
+    "arxiv": "1809.01807",
+    "venue": "arXiv 2018",
+    "title": "Improbotics: Exploring the Imitation Game using Machine Intelligence in Improvised Theatre"
+   },
+   "source_url": "https://improbotics.org/"
+  },
+  {
+   "id": "theaitre--ai-when-a-robot-writes-a-play",
+   "creator_ids": [
+    "theaitre"
+   ],
+   "title": "AI: When a Robot Writes a Play",
+   "year": 2021,
+   "field": "coperformance",
+   "sub": "theatre",
+   "machines": [
+    "chatbot-llm",
+    "humanoid"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "For the centenary of R.U.R., a team from Charles University and Prague theatres used GPT-2 to generate most of the script of a play about a robot facing birth, death, love and loneliness; it premiered online at Švandovo divadlo in February 2021.",
+   "description_zh": "为纪念 R.U.R. 百年，查理大学与布拉格剧院的团队用 GPT-2 生成了剧本的大部分内容，讲述一个机器人面对出生、死亡、爱与孤独；2021 年 2 月在 Švandovo 剧院线上首演。",
+   "idea_en": "A machine-written 'autobiography' of a robot shows both what a model borrows from human drama and where it loses the thread.",
+   "idea_zh": "一部由机器写成的机器人“自传”，既显示模型从人类戏剧中借来了什么，也显示它在哪里失去了线索。",
+   "method": "GPT-2 generating dialogue from human-written prompts, with human curation and editing in a custom tool, staged by professional actors.",
+   "method_zh": "GPT-2 根据人写的提示生成对白，在定制工具中由人筛选与编辑，由职业演员演出。",
+   "keywords": [
+    "GPT-2",
+    "R.U.R. centenary",
+    "AI playwright",
+    "Švandovo divadlo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8ho5sXiDX_A"
+   },
+   "images": [
+    "https://www.theaitre.com/wp-content/uploads/THEaiTRE_PLAKAT_FINAL_web-e1614159078389.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2006.14668",
+    "arxiv": "2006.14668",
+    "venue": "arXiv 2020",
+    "title": "THEaiTRE: Artificial Intelligence to Write a Theatre Play"
+   },
+   "source_url": "https://www.theaitre.com/"
+  },
+  {
+   "id": "george-lewis--voyager",
+   "creator_ids": [
+    "george-lewis"
+   ],
+   "title": "Voyager",
+   "year": 1987,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "An interactive computer 'orchestra' listens to human improvisers and answers with its own musical behaviour, sometimes following, sometimes ignoring or opposing them; Lewis calls it a non-hierarchical partner.",
+   "description_zh": "一个互动计算机“乐团”聆听人类即兴演奏者，并以自身的音乐行为回应：有时跟随，有时无视或对抗；Lewis 称之为“非等级”的伙伴。",
+   "idea_en": "An improvising machine is designed with values; Voyager's autonomy comes from the aesthetics of African American improvised music.",
+   "idea_zh": "会即兴的机器是带着价值观被设计出来的；Voyager 的自主性来自非裔美国人即兴音乐的美学。",
+   "method": "Pitch-to-MIDI analysis of the human player feeds a program with many semi-independent voices that drive a MIDI (later Disklavier) orchestra.",
+   "method_zh": "对人类演奏者做音高到 MIDI 的分析，输入一个拥有多个半独立声部的程序，驱动 MIDI（后来是 Disklavier）乐团。",
+   "keywords": [
+    "improvisation",
+    "interactive music",
+    "AACM",
+    "computer music"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=N7IBn1FhrLc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1162/096112100570585",
+    "doi": "10.1162/096112100570585",
+    "venue": "Leonardo Music Journal 2000",
+    "title": "Too Many Notes: Computers, Complexity and Culture in Voyager"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/George_E._Lewis"
+  },
+  {
+   "id": "holly-herndon--proto",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "PROTO (with Spawn)",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "An album made with Spawn, a neural network 'AI baby' that Herndon and Dryhurst trained on their voices and those of an ensemble; Spawn's rough, half-formed voice sings among human choirs.",
+   "description_zh": "一张与 Spawn 合作的专辑：Spawn 是 Herndon 和 Dryhurst 用自己及一个合唱团的声音训练的神经网络“AI 宝宝”；它粗糙、未成形的声音在人声合唱中歌唱。",
+   "idea_en": "A model can be raised by a community rather than trained on scraped data; its voice then belongs to the ensemble.",
+   "idea_zh": "模型可以由一个社群“养大”，而不是用抓取的数据训练；它的声音也因此属于这个合唱团。",
+   "method": "Neural network voice models trained on recordings of Herndon and an ensemble, used live and in the studio for timbre transfer and call-and-response.",
+   "method_zh": "用 Herndon 与合唱团录音训练的神经网络声音模型，在现场和录音室中用于音色迁移和一唱一和。",
+   "keywords": [
+    "Spawn",
+    "AI voice",
+    "ensemble",
+    "4AD"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sc9OjL6Mjqo"
+   },
+   "source_url": "https://www.hollyherndon.com/"
+  },
+  {
+   "id": "gil-weinberg--shimon",
+   "creator_ids": [
+    "gil-weinberg"
+   ],
+   "title": "Shimon",
+   "year": 2008,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "robot-creature",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A four-armed robotic marimba player that listens to human musicians, improvises with them, and nods its head to the beat so the band can read its intentions.",
+   "description_zh": "一台四臂机器人木琴演奏者，聆听人类乐手并与他们即兴合奏，还会随节拍点头，让乐手读懂它的意图。",
+   "idea_en": "Musical partnership needs a body: gestures like nodding make a machine's timing legible.",
+   "idea_zh": "音乐伙伴关系需要身体：点头之类的动作让机器的节奏变得可读。",
+   "method": "Robotic arms with solenoid mallets on a linear rail, real-time beat and pitch tracking, and a socially expressive head.",
+   "method_zh": "直线导轨上的机械臂配电磁琴槌，实时追踪节拍与音高，另有一个具社交表现力的头部。",
+   "keywords": [
+    "robotic musicianship",
+    "marimba",
+    "Georgia Tech",
+    "improvisation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=l9OUbqWHOSk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/s10514-011-9237-0",
+    "doi": "10.1007/s10514-011-9237-0",
+    "venue": "Autonomous Robots 2011",
+    "title": "Interactive improvisation with a robotic marimba player"
+   },
+   "source_url": "https://gtcmt.gatech.edu/"
+  },
+  {
+   "id": "gil-weinberg--robotic-drumming-prosthesis",
+   "creator_ids": [
+    "gil-weinberg"
+   ],
+   "title": "Robotic drumming prosthesis (with Jason Barnes)",
+   "year": 2014,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "prosthesis-cyborg",
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "For drummer Jason Barnes, who lost part of his right arm, Georgia Tech built a prosthetic arm with two sticks: one follows his muscle signals, the other listens to the music and improvises on its own.",
+   "description_zh": "佐治亚理工学院为失去部分右臂的鼓手 Jason Barnes 打造了一只带两根鼓棒的义肢：一根跟随他的肌肉信号，另一根聆听音乐并自行即兴。",
+   "idea_en": "A prosthesis can have its own musical mind: the drummer shares his arm with an improvising agent.",
+   "idea_zh": "义肢可以有自己的音乐头脑：鼓手与一个会即兴的代理共享自己的手臂。",
+   "method": "EMG sensors control one motorised stick; the second stick is driven by a program that analyses the music and generates rhythms.",
+   "method_zh": "肌电传感器控制一根电动鼓棒；另一根由分析音乐并生成节奏的程序驱动。",
+   "keywords": [
+    "prosthesis",
+    "drumming",
+    "EMG",
+    "Georgia Tech"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xaUKursM5rs"
+   },
+   "source_url": "https://gtcmt.gatech.edu/"
+  },
+  {
+   "id": "squarepusher--music-for-robots",
+   "creator_ids": [
+    "squarepusher"
+   ],
+   "title": "Music for Robots (with Z-Machines)",
+   "year": 2014,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "robot-creature",
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "Squarepusher wrote an EP for Z-Machines, a robot band built in Japan whose guitarist has 78 fingers and drummer 22 arms, to find out what music becomes when players have no human limits.",
+   "description_zh": "Squarepusher 为日本打造的机器人乐队 Z-Machines 写了一张 EP：乐队的吉他手有 78 根手指，鼓手有 22 只手臂，他想看看当演奏者不受人体限制时音乐会变成什么。",
+   "idea_en": "Machine bodies can play anything, and that freedom makes the question of expression in music sharper, not easier.",
+   "idea_zh": "机器身体什么都能演奏，这种自由反而让音乐表达的问题更尖锐，而非更容易。",
+   "method": "Z-Machines robots (guitar, drums, keyboard) driven by MIDI sequences composed by Squarepusher.",
+   "method_zh": "Z-Machines 机器人（吉他、鼓、键盘）由 Squarepusher 编写的 MIDI 序列驱动。",
+   "keywords": [
+    "robot band",
+    "Z-Machines",
+    "Warp Records",
+    "Sad Robot Goes Funny"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tHnMFS-XxtQ"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Squarepusher"
+  },
+  {
+   "id": "jennifer-walshe--a-late-anthology-of-early-music",
+   "creator_ids": [
+    "jennifer-walshe",
+    "dadabots"
+   ],
+   "title": "A Late Anthology of Early Music Vol. 1: Ancient to Renaissance",
+   "year": 2020,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "generative-latent",
+    "voice-listening",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "An album of 'early music', from ancient Greece to the Renaissance, sung by an AI model of Walshe's voice built with Dadabots; the pieces sound like music history retold by a machine learning to sing.",
+   "description_zh": "一张“早期音乐”专辑，从古希腊到文艺复兴，由与 Dadabots 共同构建的 Walshe 声音 AI 模型演唱；听起来像是一台正在学唱歌的机器重述音乐史。",
+   "idea_en": "AI can be heard as a new musical period with its own accent, rather than a perfect imitator.",
+   "idea_zh": "AI 可以被听作一个带着自己口音的新音乐时期，而非完美的模仿者。",
+   "method": "Raw-audio neural networks (likely SampleRNN-type, as Dadabots use) trained on recordings of Walshe's voice.",
+   "method_zh": "用 Walshe 的声音录音训练的原始音频神经网络（可能是 Dadabots 常用的 SampleRNN 类）。",
+   "keywords": [
+    "AI voice",
+    "early music",
+    "Dadabots",
+    "SampleRNN"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RrZedzc1TbM"
+   },
+   "source_url": "http://milker.org/"
+  },
+  {
+   "id": "yacht--chain-tripping",
+   "creator_ids": [
+    "yacht"
+   ],
+   "title": "Chain Tripping",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "performance",
+   "description": "YACHT trained models on their own back catalogue and generated lyrics and melodies, then played the fragments themselves under strict rules; the machine's odd phrasing was hard to perform, a 'computer accent' later explored in a documentary.",
+   "description_zh": "YACHT 用自己的旧作训练模型，生成歌词与旋律，然后在严格规则下亲自演奏这些片段；机器怪异的乐句很难演奏，这种“计算机口音”后来成为一部纪录片的主题。",
+   "idea_en": "Working with a model is embodied labour: humans must learn to perform the machine's awkwardness.",
+   "idea_zh": "与模型合作也是具身劳动：人必须学会演奏机器的笨拙。",
+   "method": "Symbolic music models (MusicVAE) and text models trained on the band's catalogue, with human-performed arrangements and no added notes.",
+   "method_zh": "用乐队旧作训练的符号音乐模型（MusicVAE）与文本模型，由人演奏编配，不额外添加音符。",
+   "keywords": [
+    "machine learning",
+    "MusicVAE",
+    "Grammy nomination",
+    "The Computer Accent"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yi7mnmBqNmg"
+   },
+   "images": [
+    "https://teamyacht.com/yacht-banner.png"
+   ],
+   "source_url": "https://teamyacht.com/",
+   "exhibited": [
+    "Grammy nomination, Best Immersive Audio Album (2020)"
+   ]
+  },
+  {
+   "id": "pat-metheny--orchestrion",
+   "creator_ids": [
+    "pat-metheny"
+   ],
+   "title": "Orchestrion",
+   "year": 2010,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "Metheny recorded and toured with an orchestra of mechanically played acoustic instruments, pianos, marimbas, percussion, guitars and tuned bottles, which he controlled and improvised with from his guitar.",
+   "description_zh": "Metheny 带着一支由机械演奏的原声乐器乐队录音与巡演，包括钢琴、马林巴、打击乐、吉他和调音瓶子，他从自己的吉他上控制它们并与之即兴。",
+   "idea_en": "A solo musician with a room of machines is neither alone nor in a band: the machines extend his hands into space.",
+   "idea_zh": "一个独奏者与满屋机器，既非孤身一人，也不是在乐队里：机器把他的双手延伸进空间。",
+   "method": "Solenoid- and pneumatic-driven instruments built by LEMUR (Eric Singer) and others, triggered via MIDI from guitar and foot controllers.",
+   "method_zh": "由 LEMUR（Eric Singer）等制作的电磁阀与气动驱动乐器，通过吉他与脚踏控制器以 MIDI 触发。",
+   "keywords": [
+    "orchestrion",
+    "LEMUR",
+    "solenoids",
+    "Nonesuch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KsYEOUKS4Yk"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Orchestrion_(album)"
+  },
+  {
+   "id": "alvin-lucier--music-for-solo-performer",
+   "creator_ids": [
+    "alvin-lucier"
+   ],
+   "title": "Music for Solo Performer",
+   "year": 1965,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "Electrodes on the performer's scalp pick up alpha brainwaves; when he relaxes into alpha, the amplified signal drives loudspeakers placed against drums, gongs and cymbals, making them sound.",
+   "description_zh": "表演者头皮上的电极采集阿尔法脑电波；当他放松进入阿尔法状态，放大的信号驱动贴在鼓、锣和镲上的扬声器，使它们发声。",
+   "idea_en": "The performer plays by not acting: the machine makes an inner state audible.",
+   "idea_zh": "表演者以“不作为”来演奏：机器让内在状态变得可听。",
+   "method": "EEG electrodes, amplifiers and filters feed loudspeakers coupled to percussion instruments.",
+   "method_zh": "脑电电极、放大器与滤波器把信号送入与打击乐器耦合的扬声器。",
+   "keywords": [
+    "EEG",
+    "brainwaves",
+    "biofeedback",
+    "experimental music"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bIPU2ynqy2Y"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/AlvinLucier-MusicForSoloPerformer-DenHaag2010.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Alvin_Lucier"
+  },
+  {
+   "id": "michel-waisvisz--the-hands",
+   "creator_ids": [
+    "michel-waisvisz"
+   ],
+   "title": "The Hands",
+   "year": 1984,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A pair of controllers strapped to the hands, with keys, tilt switches and an ultrasound sensor measuring the distance between them, with which Waisvisz played electronic sound through gesture for more than twenty years.",
+   "description_zh": "一对绑在双手上的控制器，带按键、倾斜开关和测量双手距离的超声传感器；Waisvisz 用它以手势演奏电子声音二十余年。",
+   "idea_en": "An instrument worn on the body makes electronic sound physical again: effort and gesture become audible.",
+   "idea_zh": "穿在身上的乐器让电子声音重新变得有身体感：力气与姿态变得可听。",
+   "method": "Hand-mounted sensors built at STEIM, sending MIDI to synthesisers and later to STEIM's LiSa live-sampling software.",
+   "method_zh": "在 STEIM 制作的手戴传感器，向合成器（后来是 STEIM 的 LiSa 实时采样软件）发送 MIDI。",
+   "keywords": [
+    "STEIM",
+    "gestural controller",
+    "live electronics",
+    "MIDI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aaYE1TQGIvk"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Michel_Waisvisz"
+  },
+  {
+   "id": "laetitia-sonami--ladys-glove",
+   "creator_ids": [
+    "laetitia-sonami"
+   ],
+   "title": "Lady's Glove",
+   "year": 1991,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "A black evening glove covered with sensors, first made for Ars Electronica in 1991, with which Sonami shapes and triggers electronic sound through hand and arm movement in live performance.",
+   "description_zh": "一只布满传感器的黑色晚装手套，1991 年首次为林茨电子艺术节制作；Sonami 在现场表演中用手与手臂的动作塑造并触发电子声音。",
+   "idea_en": "A worn interface turns gesture into sound and makes the performer's body part of the instrument.",
+   "idea_zh": "穿戴式界面把姿态变成声音，让表演者的身体成为乐器的一部分。",
+   "method": "Micro-switches, pressure pads, bend sensors, accelerometers and ultrasound on the glove, routed through STEIM's SensorLab to Max/MSP.",
+   "method_zh": "手套上装有微动开关、压力垫、弯曲传感器、加速度计与超声传感器，经 STEIM 的 SensorLab 接入 Max/MSP。",
+   "keywords": [
+    "glove controller",
+    "STEIM",
+    "Ars Electronica",
+    "live electronics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f_4EiQBYkoc"
+   },
+   "images": [
+    "https://sonami.net/wp-content/uploads/2021/09/Instrument_ladysglove-Laetitia_Sonami-1024x683.jpg"
+   ],
+   "source_url": "https://sonami.net/works/ladys-glove/",
+   "exhibited": [
+    "Ars Electronica, Linz (1991)"
+   ]
+  },
+  {
+   "id": "kraftwerk--the-man-machine",
+   "creator_ids": [
+    "kraftwerk"
+   ],
+   "title": "Die Mensch-Maschine (The Man-Machine) and the robots",
+   "year": 1978,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "humanoid",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "On the album Die Mensch-Maschine, Kraftwerk sing 'we are the robots' through vocoders; they had mannequin doubles of themselves made, and in later concerts robot dummies performed The Robots on stage in their place.",
+   "description_zh": "在专辑 Die Mensch-Maschine 中，Kraftwerk 用声码器唱着“我们是机器人”；他们为自己制作了人偶替身，后来的演唱会上则由机器人假人代替他们在台上表演《机器人》。",
+   "idea_en": "Pop can make the fusion of human and machine desirable; the robot doubles also question who the performer is.",
+   "idea_zh": "流行音乐能让人与机器的融合变得令人向往；机器人替身也让人追问：谁才是表演者。",
+   "method": "Vocoders and synthesisers, choreographed stiff movement, and mechanised mannequins of the four members.",
+   "method_zh": "声码器与合成器、编排好的僵硬动作，以及四名成员的机械化人偶。",
+   "keywords": [
+    "Kraftwerk",
+    "vocoder",
+    "robot doubles",
+    "The Robots"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YHaZ3UL2oHk"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/60/Wir_sind_die_Roboter.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/The_Man-Machine"
+  },
+  {
+   "id": "francois-pachet--continuator",
+   "creator_ids": [
+    "francois-pachet"
+   ],
+   "title": "The Continuator",
+   "year": 2002,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "voice-listening",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A system that listens to a musician's phrases and immediately plays back continuations in the same style, so players, from jazz musicians to young children, improvise with a machine reflection of themselves.",
+   "description_zh": "一个聆听乐手乐句、并立即以相同风格续奏的系统；从爵士乐手到幼儿，演奏者都在与一面映照自己的机器之镜即兴。",
+   "idea_en": "A machine that mirrors your style creates a feedback loop in which you hear yourself as another.",
+   "idea_zh": "一台映照你风格的机器会形成反馈回路，让你把自己听作他者。",
+   "method": "Variable-order Markov models learned in real time from MIDI input, generating continuations in the player's style.",
+   "method_zh": "从 MIDI 输入实时学习的变阶马尔可夫模型，以演奏者的风格生成续奏。",
+   "keywords": [
+    "Markov model",
+    "style",
+    "reflexive interaction",
+    "Sony CSL"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RIoE4ckZYgs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1076/jnmr.32.3.333.16861",
+    "doi": "10.1076/jnmr.32.3.333.16861",
+    "venue": "Journal of New Music Research 2003",
+    "title": "The Continuator: Musical Interaction With Style"
+   },
+   "source_url": "https://www.francoispachet.fr/"
+  },
+  {
+   "id": "harold-cohen--aaron",
+   "creator_ids": [
+    "harold-cohen"
+   ],
+   "title": "AARON",
+   "year": 1973,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "generative-latent",
+    "robot-arm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A drawing program Cohen developed for over forty years, from abstract line drawings made by a turtle robot and plotters to coloured figurative paintings; Cohen called it a collaborator but never claimed it was creative on its own.",
+   "description_zh": "Cohen 开发了四十多年的绘画程序：从由乌龟机器人与绘图仪画出的抽象线描，到彩色具象画作；Cohen 称它为合作者，却从不声称它能独立创造。",
+   "idea_en": "Authorship with a machine can be a lifelong relationship in which artist and program shape each other.",
+   "idea_zh": "与机器共同创作可以是一段终生的关系，艺术家与程序在其中相互塑造。",
+   "method": "Rule-based symbolic AI program (written in C and later Lisp) encoding knowledge about drawing, output through plotters, a painting machine and screens.",
+   "method_zh": "基于规则的符号 AI 程序（先后用 C 与 Lisp 编写），编码关于绘画的知识，通过绘图仪、绘画机器与屏幕输出。",
+   "keywords": [
+    "symbolic AI",
+    "plotter",
+    "computer art",
+    "authorship"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uhxlFOKg17s"
+   },
+   "images": [
+    "https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg",
+    "https://whitneymedia.org/assets/image/829972/large_RS79421_WMAA_H.-COHEN_INSTALL_01.jpg"
+   ],
+   "source_url": "https://whitney.org/exhibitions/harold-cohen-aaron",
+   "collections": [
+    "electric-dreams-2024"
+   ],
+   "exhibited": [
+    "Whitney Museum of American Art, New York (2024)",
+    "Tate Modern, Electric Dreams (2024)"
+   ]
+  },
+  {
+   "id": "desmond-paul-henry--drawing-machines",
+   "creator_ids": [
+    "desmond-paul-henry"
+   ],
+   "title": "Henry Drawing Machines",
+   "year": 1961,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Henry rebuilt the analogue bombsight computer of a World War II bomber into drawing machines whose moving mechanics produce intricate, unrepeatable line drawings; the artist starts and steers them but cannot fully predict them.",
+   "description_zh": "Henry 把二战轰炸机上的模拟瞄准计算机改造成绘画机器，其运动机构画出繁复而不可重复的线描；艺术家启动并引导它们，却无法完全预测结果。",
+   "idea_en": "A war machine repurposed as a drawing partner produces images through chance and mechanism, not intention.",
+   "idea_zh": "被改作绘画伙伴的战争机器，靠偶然与机构而非意图生成图像。",
+   "method": "Sperry bombsight analogue computer mechanisms driving pens over paper, adjusted by hand during drawing.",
+   "method_zh": "Sperry 轰炸瞄准器的模拟计算机构驱动笔在纸上移动，绘制过程中由人手调节。",
+   "keywords": [
+    "analogue computer",
+    "bombsight",
+    "early computer art",
+    "drawing machine"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/01/Drawing_Machine_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/24/Picture_produced_by_Drawing_Machine_1.jpg"
+   ],
+   "source_url": "https://www.desmondhenry.com/"
+  },
+  {
+   "id": "jean-tinguely--meta-matics",
+   "creator_ids": [
+    "jean-tinguely"
+   ],
+   "title": "Méta-Matics",
+   "year": 1959,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Motorised drawing machines: visitors fit a pen and paper, start the motor, and the machine scribbles an abstract drawing, mocking the gestural painting of the day; at the 1959 Paris Biennale, Méta-Matic No. 17 produced tens of thousands of drawings.",
+   "description_zh": "电动绘画机器：观众装上笔和纸、启动马达，机器就涂画出一幅抽象画，嘲讽当时的姿态绘画；在 1959 年巴黎双年展上，Méta-Matic No. 17 画出了数万张画。",
+   "idea_en": "If a machine can produce 'expressive' abstraction on demand, the value of the artist's gesture is in question.",
+   "idea_zh": "如果机器能按需生产“有表现力”的抽象画，艺术家笔触的价值就成了问题。",
+   "method": "Scrap-metal kinetic sculptures with electric motors, cams and arms holding pens or brushes over paper.",
+   "method_zh": "用废金属制成的动态雕塑，配电机、凸轮和握笔或刷子的臂杆在纸上作画。",
+   "keywords": [
+    "drawing machine",
+    "kinetic art",
+    "Nouveau Réalisme",
+    "parody"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VxoqVvQeil0"
+   },
+   "source_url": "https://www.tinguely.ch/",
+   "collections": [
+    "artistes-robots-2018",
+    "cybernetic-serendipity-1968"
+   ],
+   "exhibited": [
+    "Kaplan Gallery, London (1959)",
+    "Paris Biennale (1959)"
+   ]
+  },
+  {
+   "id": "patrick-tresset--human-study-1",
+   "creator_ids": [
+    "patrick-tresset"
+   ],
+   "title": "Human Study #1 (5 Robots Named Paul)",
+   "year": 2011,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A visitor sits as a model while several simple robots, each a desk-mounted arm with a camera 'eye', look at them and draw their portrait in ballpoint pen over about half an hour, with hesitant, obsessive strokes.",
+   "description_zh": "一位观众坐下当模特，几台简单的机器人（每台是一只装在桌上的机械臂，配一只摄像“眼”）注视着他，用约半小时以圆珠笔画出肖像，笔触迟疑而执着。",
+   "idea_en": "Being drawn by a machine reverses the gaze: the sitter feels observed, and the robot's clumsiness reads as effort.",
+   "idea_zh": "被机器描画会反转凝视：模特感到被观察，而机器人的笨拙被读作努力。",
+   "method": "Camera on a pan-tilt 'head', computer-vision and drawing-style algorithms, and a small planar arm holding a pen.",
+   "method_zh": "云台“头部”上的摄像头、计算机视觉与绘画风格算法，以及握笔的小型平面机械臂。",
+   "keywords": [
+    "drawing robots",
+    "portrait",
+    "computer vision",
+    "Paul"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YijAkr5xwOY"
+   },
+   "images": [
+    "https://patricktresset.com/new/wp-content/uploads/artistbook_Merge__MG_1284.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cag.2013.01.012",
+    "doi": "10.1016/j.cag.2013.01.012",
+    "venue": "Computers & Graphics 2013",
+    "title": "Portrait drawing by Paul the robot"
+   },
+   "source_url": "https://patricktresset.com/new/project/human-study-1/",
+   "collections": [
+    "artistes-robots-2018"
+   ]
+  },
+  {
+   "id": "leonel-moura--rap",
+   "creator_ids": [
+    "leonel-moura"
+   ],
+   "title": "RAP (Robotic Action Painter)",
+   "year": 2006,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "An autonomous mobile robot that moves over a canvas, reacts to the colours already on it, and decides by itself when a painting is finished, then signs it.",
+   "description_zh": "一台自主移动机器人在画布上移动，对画布上已有的颜色作出反应，自行决定一幅画何时完成，然后签名。",
+   "idea_en": "Moura's 'non-human art' asks whether authorship can belong to a machine's own decision rules.",
+   "idea_zh": "Moura 的“非人艺术”追问：作者身份能否属于机器自身的决策规则。",
+   "method": "Small wheeled robot with colour sensors and pens, following simple emergent rules derived from swarm behaviour.",
+   "method_zh": "带颜色传感器与画笔的小型轮式机器人，遵循源自群体行为的简单涌现规则。",
+   "keywords": [
+    "painting robot",
+    "autonomy",
+    "swarm art",
+    "non-human art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7HNkgJ4TV7k"
+   },
+   "images": [
+    "https://www.leonelmoura.com/wp-content/uploads/2019/01/RAP-199x300.jpg"
+   ],
+   "source_url": "https://www.leonelmoura.com/rap/",
+   "collections": [
+    "artistes-robots-2018"
+   ],
+   "exhibited": [
+    "American Museum of Natural History, New York (2006)"
+   ]
+  },
+  {
+   "id": "aidan-meller--ai-da",
+   "creator_ids": [
+    "aidan-meller"
+   ],
+   "title": "Ai-Da",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "humanoid",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A humanoid robot named after Ada Lovelace, with camera eyes and a robotic arm, presented as a 'robot artist' that draws, paints and gives talks, including at the UK House of Lords in 2022.",
+   "description_zh": "一台以 Ada Lovelace 命名的类人机器人，配有摄像眼和机械臂，被包装成会画素描、油画并发表演讲的“机器人艺术家”，2022 年还曾出席英国上议院。",
+   "idea_en": "Included as a case study: much of Ai-Da's 'authorship' is produced by its team and its publicity, which shows how the machine-artist story is performed.",
+   "idea_zh": "作为案例收录：Ai-Da 的“作者身份”很大程度上由团队与宣传制造，这恰好显示“机器艺术家”的故事是如何被表演出来的。",
+   "method": "Engineered Arts humanoid with cameras in the eyes, computer-vision and drawing algorithms driving a robotic arm; paintings are completed with human assistance.",
+   "method_zh": "Engineered Arts 制造的类人机器人，眼中装有摄像头，计算机视觉与绘画算法驱动机械臂；画作需在人的协助下完成。",
+   "keywords": [
+    "robot artist",
+    "authorship",
+    "Engineered Arts",
+    "hype"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VHZctjpvpZo"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ai-Da.jpg"
+   ],
+   "source_url": "https://www.ai-darobot.com/"
+  },
+  {
+   "id": "agnieszka-pilat--heterobota",
+   "creator_ids": [
+    "agnieszka-pilat"
+   ],
+   "title": "HETEROBOTA",
+   "year": 2023,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "For the NGV Triennial in Melbourne, three Boston Dynamics Spot robots painted autonomously in the gallery for four months, covering the canvas with symbols Pilat devised as a visual language for machines.",
+   "description_zh": "在墨尔本 NGV 三年展上，三台 Boston Dynamics 的 Spot 机器人在展厅里自主作画四个月，在画布上画满 Pilat 为机器设计的视觉符号语言。",
+   "idea_en": "A gallery can host robots as painters and species at work, and invites the public to judge how they feel about living with them.",
+   "idea_zh": "美术馆可以把机器人当作正在工作的画家与物种来展示，并邀请公众表态：自己对与它们共处有何感受。",
+   "method": "Spot robots with custom pen arms executing a programmed symbol language on canvas over months, with a public-opinion study by RMIT.",
+   "method_zh": "Spot 机器人装上定制画笔臂，数月间在画布上执行预编程的符号语言；RMIT 同时开展公众意见研究。",
+   "keywords": [
+    "Spot",
+    "Boston Dynamics",
+    "NGV Triennial",
+    "robot painting"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wIfmcA9d_tY"
+   },
+   "source_url": "https://www.agnieszkapilat.com/",
+   "exhibited": [
+    "NGV Triennial, National Gallery of Victoria, Melbourne (2023–24)"
+   ]
+  },
+  {
+   "id": "rebecca-horn--pencil-mask",
+   "creator_ids": [
+    "rebecca-horn"
+   ],
+   "title": "Pencil Mask",
+   "year": 1972,
+   "field": "coperformance",
+   "sub": "drawing",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A mask of fabric straps with pencils sticking out of the face; Horn moves her head rhythmically against a wall and the pencils record her movements as marks, turning the body into a drawing machine.",
+   "description_zh": "一副由布带编成、脸部伸出铅笔的面具；Horn 有节奏地对着墙移动头部，铅笔把动作记录成线条，身体变成了一台绘画机器。",
+   "idea_en": "A simple body extension shows how an instrument changes both what the body can do and how it feels itself.",
+   "idea_zh": "一个简单的身体延伸装置显示：工具既改变身体能做什么，也改变身体如何感知自己。",
+   "method": "Wearable structure of straps with pencils fixed at points of the face, used in a filmed performance.",
+   "method_zh": "以布带构成、铅笔固定在面部各点的穿戴结构，用于一次被拍摄的表演。",
+   "keywords": [
+    "body extension",
+    "prosthesis",
+    "drawing",
+    "performance film"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6uEkq3IBIf0"
+   },
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_lfxgvMS.jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847",
+   "exhibited": [
+    "Tate collection"
+   ]
+  },
+  {
+   "id": "robotlab--bios-bible",
+   "creator_ids": [
+    "robotlab"
+   ],
+   "title": "bios [bible]",
+   "year": 2007,
+   "field": "coperformance",
+   "sub": "drawing",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "An industrial robot writes out the entire Bible in calligraphic script on long paper rolls, line by line over months, like a monk in a scriptorium.",
+   "description_zh": "一台工业机器人用书法字体把整部《圣经》逐行抄写在长长的纸卷上，历时数月，如同缮写室里的僧侣。",
+   "idea_en": "When a machine performs devotional labour, the question is whether the act keeps any meaning without belief.",
+   "idea_zh": "当机器从事虔敬的劳作，问题在于：没有信仰，这一行为是否仍有意义。",
+   "method": "KUKA industrial robot with a pen, following calligraphic paths computed from the text; the writing takes about seven months.",
+   "method_zh": "持笔的 KUKA 工业机器人，按依据文本计算出的书法轨迹书写；全部抄写约需七个月。",
+   "keywords": [
+    "industrial robot",
+    "calligraphy",
+    "scripture",
+    "machine labour"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EaSLm51kmbg"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bios_robotlab_writing_robot.jpg"
+   ],
+   "source_url": "http://www.robotlab.de/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Huang Yi (黄翊) — Huang Yi & KUKA (2012)",
+   "why": "Taiwanese choreographer's duet with a KUKA arm he programmed; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://huangyistudio.com/archives/project/huang-yi-and-kuka",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Sougwen Chung (钟愫君) — D.O.U.G. 1–4, Assembly Lines, Omnia per Omnia",
+   "why": "Chinese-Canadian co-drawing with robot arms; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://sougwen.com/project/drawing-operations",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Oriza Hirata (平田オリザ) & Hiroshi Ishiguro — I, Worker (2008), Sayonara (2010)",
+   "why": "Android theatre; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Oriza_Hirata",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Keiichiro Shibuya (渋谷慶一郎) — THE END (2012), Scary Beauty (2018), Super Angels (2021)",
+   "why": "Vocaloid and android operas; east-asia batch owns. Already in the east-asia batch.",
+   "link": "http://atak.jp/",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Rhizomatiks & ELEVENPLAY — 24 drones (2016)",
+   "why": "Dancers with a drone swarm; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://research.rhizomatiks.com/s/works/24drones/en/",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Daito Manabe (真鍋大度) — Electric Stimulus to Face (2008)",
+   "why": "Faces driven by muscle stimulation; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Daito_Manabe",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Lee Bul (이불) — Cyborg series (1997–2011)",
+   "why": "Female cyborg sculptures; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://www.guggenheim.org/artwork/artist/lee-bul",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Nam June Paik & Shuya Abe — Robot K-456 (1964); Paik & Charlotte Moorman — TV Cello (1971)",
+   "why": "Robot and body-instrument performances; east-asia batch owns.",
+   "link": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Crypton Future Media — Hatsune Miku (初音ミク, 2007)",
+   "why": "Synthetic voice as pop performer; east-asia batch owns.",
+   "link": "https://en.wikipedia.org/wiki/Hatsune_Miku",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Ory Laboratory — Avatar Robot Café DAWN (OriHime, 2018–)",
+   "why": "Disabled workers as telepresent waiters; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://dawn2021.orylab.com/en/",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Yamaha — Dear Glenn (2019)",
+   "why": "AI Glenn Gould plays with musicians; east-asia batch owns.",
+   "link": "https://www.yamaha.com/en/stories/new-values/dear-glenn",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Atau Tanaka — BioMuse / Sensorband performances",
+   "why": "EMG instrument performance; Japanese-American, check with east-asia.",
+   "link": "https://en.wikipedia.org/wiki/Atau_Tanaka",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Lisa Park — Eunoia (2013)",
+   "why": "EEG-driven water sound performance; Korean-American, check with east-asia.",
+   "link": "https://www.thelisapark.com/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Maywa Denki (明和電機)",
+   "why": "Nonsense machines/instrument performances; east-asia batch owns.",
+   "link": "https://www.maywadenki.com/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Victor Wong (黄宏达) — A.I. Gemini (2017–)",
+   "why": "Robot ink painter; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://www.cnn.com/style/victor-wong-ai-ink-painting-hong-kong-hnk-spc-intl",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "So Kanno (菅野創) & Takahiro Yamaguchi — Senseless Drawing Bot (2011)",
+   "why": "Drawing robot; east-asia batch owns.",
+   "link": "https://kanno.so/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Zhang Yimou (张艺谋) & Unitree (宇树) — Yang BOT (秧BOT), CCTV Gala (2025)",
+   "why": "Humanoid Yangge dance; east-asia batch owns. Already in the east-asia batch.",
+   "link": "https://technode.com/2025/01/29/unitree-robotics-humanoid-robots-steal-the-show-at-2025-cctv-spring-festival-gala-with-ai-powered-yangge-dance/",
+   "found_via": "coperformance",
+   "status": "duplicate"
+  },
+  {
+   "name": "Shu Lea Cheang (鄭淑麗)",
+   "why": "Networked body and telepresence works; east-asia batch owns.",
+   "link": "https://en.wikipedia.org/wiki/Shu_Lea_Cheang",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Masahiko Inami lab — MetaLimbs (2017)",
+   "why": "Extra robotic arms controlled by feet; Japanese, east-asia batch owns.",
+   "link": "https://en.wikipedia.org/wiki/Masahiko_Inami",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Eric Minh Cuong Castaing / Shonen — School of Moon (2016)",
+   "why": "Dancers, children and robots; facts not verified in this pass (no stable source page).",
+   "link": "https://www.youtube.com/watch?v=JezC358d4kY",
+   "found_via": "coperformance",
+   "status": "no_media"
+  },
+  {
+   "name": "Logos Foundation / Godfried-Willem Raes — M&M robot orchestra",
+   "why": "Robot orchestra under gesture control (Ghent); founding year not verified.",
+   "link": "https://en.wikipedia.org/wiki/Logos_Foundation",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Pablo Ventura & Louis-Philippe Demers — Kubic's Cube (2007)",
+   "why": "A robot as sole dancer, operated live; add if Ventura gets a second work.",
+   "link": "https://www.youtube.com/watch?v=OzKh3TB1IHo",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Louis-Philippe Demers — The Tiller Girls (2010), The Blind Robot (2012)",
+   "why": "Machine performers; bodies batch likely owns.",
+   "link": "https://en.wikipedia.org/wiki/Louis-Philippe_Demers",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Madeline Gannon — Mimus (2016), Manus (2018)",
+   "why": "Industrial robots as curious creatures; bodies batch likely owns.",
+   "link": "https://atonaton.com/mimus",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Nicolas Schöffer — CYSP 1 with Maurice Béjart dancers (1956)",
+   "why": "First cybernetic sculpture to dance with dancers; bodies batch likely owns.",
+   "link": "https://en.wikipedia.org/wiki/Nicolas_Sch%C3%B6ffer",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Blast Theory — Cat Royale (2023)",
+   "why": "Robot arm caring for cats; intimacy batch.",
+   "link": "https://www.blasttheory.co.uk/projects/cat-royale/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Stelarc — StickMan / Reclining StickMan (2017, 2020)",
+   "why": "Exoskeleton that choreographs the artist; could replace Exoskeleton.",
+   "link": "https://www.youtube.com/watch?v=Dd0ZpOMeuW0",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Lynn Hershman Leeson — CyberRoberta (1996)",
+   "why": "Second telerobotic doll; pair with Tillie.",
+   "link": "https://www.lynnhershman.com/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Chris Salter — Haptic Field (2014), Totem (2019)",
+   "why": "Sensory performance environments; check fit.",
+   "link": "https://chrissalter.com/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Chunky Move — Mortal Engine (2008)",
+   "why": "Follow-up to Glow with laser and body tracking.",
+   "link": "https://www.youtube.com/watch?v=CHKLr_pvj2I",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Paul Sermon — Think About the People Now (1991)",
+   "why": "Earlier telematic work; check Prix Ars award.",
+   "link": "https://www.youtube.com/watch?v=pEccBezmtHA",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Troika Ranch / Mark Coniglio — Isadora and sensor dance",
+   "why": "Software and body-sensor dance theatre.",
+   "link": "https://troikaranch.org/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Amy LaViers — Robotics, Automation and Dance Lab",
+   "why": "Laban-based robot movement research.",
+   "link": "https://radlab.mechse.illinois.edu/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Petra Gemeinboeck — Machine Movement Lab",
+   "why": "Dancers shaping robot movement; bodies/theory overlap.",
+   "link": "https://www.petragemeinboeck.com/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Compressorhead — robot rock band (2012–)",
+   "why": "Robot band; lower salience than Z-Machines.",
+   "link": "https://en.wikipedia.org/wiki/Compressorhead",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Trimpin — robotic instruments",
+   "why": "Sound sculptor of mechanised instruments.",
+   "link": "https://en.wikipedia.org/wiki/Trimpin",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Dadabots — Relentless Doppelganger (2019)",
+   "why": "Endless AI death-metal stream; generative, likely OUT unless framed as critique.",
+   "link": "https://dadabots.com/",
+   "found_via": "coperformance",
+   "status": "off_topic"
+  },
+  {
+   "name": "David Cope — Experiments in Musical Intelligence (Emmy)",
+   "why": "Style-imitation composition; authorship debate (Hofstadter); generative edge case.",
+   "link": "https://en.wikipedia.org/wiki/David_Cope",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Lejaren Hiller & Leonard Isaacson — Illiac Suite (1957)",
+   "why": "First computer-composed score; theory batch may prefer.",
+   "link": "https://en.wikipedia.org/wiki/Illiac_Suite",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "IRCAM — OMax co-improvisation system",
+   "why": "Machine co-improviser research line after the Continuator.",
+   "link": "https://www.ircam.fr/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Liliane Lijn — Woman of War (1986)",
+   "why": "Mechanised performance figure; verify machine role.",
+   "link": "https://www.youtube.com/watch?v=rZkfOJyqy_k",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Angela Bulloch — drawing machines (1990s)",
+   "why": "Visitor-triggered drawing machines; verify titles.",
+   "link": "https://en.wikipedia.org/wiki/Angela_Bulloch",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Roman Verostko — algorist pen-plotter drawings",
+   "why": "Algorithmic art; weak machine reflection, low priority.",
+   "link": "https://en.wikipedia.org/wiki/Roman_Verostko",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Pindar Van Arman — cloudPainter",
+   "why": "AI painting robot; generative edge case.",
+   "link": "https://www.cloudpainter.com/",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Obvious — Portrait of Edmond de Belamy (2018)",
+   "why": "AI-generated art without machine reflection: counter-example, OUT.",
+   "link": "https://en.wikipedia.org/wiki/Edmond_de_Belamy",
+   "found_via": "coperformance",
+   "status": "off_topic"
+  },
+  {
+   "name": "KASPAR robot (University of Hertfordshire)",
+   "why": "Robot for autism therapy; intimacy/care batch.",
+   "link": "https://www.herts.ac.uk/kaspar",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Viktoria Modesta — Prototype (2014)",
+   "why": "Bionic pop performer; check reflection vs spectacle.",
+   "link": "https://en.wikipedia.org/wiki/Viktoria_Modesta",
+   "found_via": "coperformance",
+   "status": "open"
+  },
+  {
+   "name": "Onyx Ashanti — Beatjazz",
+   "why": "Self-built cyborg instrument performance.",
+   "link": "https://en.wikipedia.org/wiki/Onyx_Ashanti",
+   "found_via": "coperformance",
+   "status": "open"
+  }
+ ]
+}

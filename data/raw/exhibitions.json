@@ -1,0 +1,4834 @@
+{
+ "batch": "exhibitions",
+ "creators": [
+  {
+   "id": "verena-friedrich",
+   "name": "Verena Friedrich",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Cologne, Germany",
+   "bio": "German artist who builds precise machines and lab setups that deal with life extension, measurement and automated judgement.",
+   "why": "ERBSENZÄHLER turns the hidden human judgement inside 'intelligent' sorting systems into a workstation visitors must sit at.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://heavythinking.org"
+   },
+   "role_zh": "媒体艺术家",
+   "based_zh": "科隆，德国",
+   "bio_zh": "德国艺术家，制作精密的机器和实验装置，处理延长寿命、测量与自动化判断等问题。",
+   "why_zh": "ERBSENZÄHLER 把“智能”分拣系统里被隐藏的人类判断，变成观众必须坐下来操作的工位。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zoran-srdic-janezic",
+   "name": "Zoran Srdić Janežič",
+   "kind": "person",
+   "role": "Sculptor and intermedia artist; PhD researcher at AGRFT, University of Ljubljana",
+   "based": "Ljubljana, SI",
+   "bio": "Slovenian sculptor who works with animatronics, 3D design and living tissue; since 2019 he has led the Biobot series with Kapelica Gallery and BioTehna Lab.",
+   "why": "His Biobot series lets signals from the artist's own reprogrammed neurons shape and move a robot body.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "雕塑家、跨媒介艺术家；卢布尔雅那大学 AGRFT 博士研究者",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "bio_zh": "斯洛文尼亚雕塑家，使用动画机械、三维设计和活体组织创作；自 2019 年起与 Kapelica 画廊和 BioTehna 实验室合作推进 Biobot 系列。",
+   "why_zh": "他的 Biobot 系列让由艺术家自身细胞重编程而来的神经元信号去塑造并驱动机器人身体。",
+   "connected_to": [
+    "spela-petric"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "felix-lenz",
+   "name": "Felix Lenz",
+   "kind": "person",
+   "role": "Designer and filmmaker",
+   "based": "Vienna, Austria",
+   "bio": "Designer and filmmaker trained in Design Investigations at the University of Applied Arts Vienna, working on the material and human costs of technology.",
+   "why": "The Cleanroom Paradox, made with Angela Neubauer and Eszter Zwickl, traces the illness of a chip-factory worker behind the clean image of high tech.",
+   "disciplines": [
+    "design",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "设计师、电影人",
+   "based_zh": "维也纳，奥地利",
+   "bio_zh": "毕业于维也纳应用艺术大学 Design Investigations 专业的设计师与电影人，关注技术的物质代价与人的代价。",
+   "why_zh": "他与 Angela Neubauer、Eszter Zwickl 合作的 The Cleanroom Paradox，追索了高科技洁净形象背后一位芯片厂工人的疾病。",
+   "connected_to": [
+    "angela-neubauer",
+    "eszter-zwickl"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "angela-neubauer",
+   "name": "Angela Neubauer",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Vienna, Austria",
+   "bio": "Designer from the Design Investigations programme at the University of Applied Arts Vienna.",
+   "why": "Co-author of The Cleanroom Paradox on occupational illness in semiconductor production.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师",
+   "based_zh": "维也纳，奥地利",
+   "bio_zh": "来自维也纳应用艺术大学 Design Investigations 专业的设计师。",
+   "why_zh": "The Cleanroom Paradox 的共同作者，这件作品关注半导体生产中的职业病。",
+   "connected_to": [
+    "felix-lenz",
+    "eszter-zwickl"
+   ],
+   "discovered_via": "felix-lenz"
+  },
+  {
+   "id": "eszter-zwickl",
+   "name": "Eszter Zwickl",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Vienna, Austria",
+   "bio": "Designer from the Design Investigations programme at the University of Applied Arts Vienna.",
+   "why": "Co-author of The Cleanroom Paradox on occupational illness in semiconductor production.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师",
+   "based_zh": "维也纳，奥地利",
+   "bio_zh": "来自维也纳应用艺术大学 Design Investigations 专业的设计师。",
+   "why_zh": "The Cleanroom Paradox 的共同作者，这件作品关注半导体生产中的职业病。",
+   "connected_to": [
+    "felix-lenz",
+    "angela-neubauer"
+   ],
+   "discovered_via": "felix-lenz"
+  },
+  {
+   "id": "spela-petric",
+   "name": "Špela Petrič",
+   "kind": "person",
+   "role": "Artist with a background in biology",
+   "based": "Ljubljana, SI",
+   "bio": "Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans, plants and machines.",
+   "why": "PL'AI imagines play rather than work as the basis for a relationship between an AI robot and cucumber plants.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.spelapetric.org"
+   },
+   "role_zh": "有生物学背景的艺术家",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "bio_zh": "Špela Petrič 是斯洛文尼亚艺术家和生物学家，以表演探索人、植物与机器之间的关系。",
+   "why_zh": "PL'AI 设想以“玩耍”而不是“劳动”作为 AI 机器人与黄瓜之间关系的基础。",
+   "connected_to": [
+    "zoran-srdic-janezic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paola-torres-nunez-del-prado",
+   "name": "Paola Torres Núñez del Prado",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Stockholm, Sweden / Peru",
+   "bio": "Paola Torres Núñez del Prado is a Peruvian artist who combines textiles, sound and technology, drawing on Andean knowledge systems.",
+   "why": "AIELSON asks what a machine voice trained on Latin American poetry sounds like, and whose voice it borrows.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.singingtextiles.com"
+   },
+   "role_zh": "艺术家",
+   "based_zh": "斯德哥尔摩，瑞典 / 秘鲁",
+   "bio_zh": "Paola Torres Núñez del Prado 是秘鲁艺术家，结合纺织、声音与技术，并借鉴安第斯知识体系。",
+   "why_zh": "AIELSON 追问：用拉丁美洲诗歌训练出的机器声音听起来是什么样，它借用的又是谁的声音。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martyna-marciniak",
+   "name": "Martyna Marciniak",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "Linz, Austria",
+   "bio": "Polish artist and researcher whose project Anatomy of Non-Fact studies visual hoaxes, fakes and synthetic images.",
+   "why": "She treats AI-generated fakes as forensic objects to ask what still counts as visual evidence.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.martyna.digital"
+   },
+   "role_zh": "艺术家、研究者",
+   "based_zh": "林茨，奥地利",
+   "bio_zh": "波兰艺术家与研究者，她的项目 Anatomy of Non-Fact 研究视觉骗局、伪造和合成图像。",
+   "why_zh": "她把 AI 生成的假图像当作法证对象，追问什么还能算作视觉证据。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lois-soleil",
+   "name": "Loïs Soleil",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Brussels, Belgium",
+   "bio": "Brussels-based artist working with robots, AI and feminist self-defence.",
+   "why": "Tinder_gun_boys_@Brussels_ lets a weapon-detecting AI and a swiping robot harvest dating profiles, then turns them into self-defence mats.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "http://loissoleil.com"
+   },
+   "role_zh": "艺术家",
+   "based_zh": "布鲁塞尔，比利时",
+   "bio_zh": "常驻布鲁塞尔的艺术家，结合机器人、AI 与女性主义防身实践进行创作。",
+   "why_zh": "Tinder_gun_boys_@Brussels_ 让一个识别武器的 AI 与一个自动滑动的机器人收集交友资料，再把它们印成防身课的垫子。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "diane-cescutti",
+   "name": "Diane Cescutti",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Paris, France / Dakar, Senegal",
+   "bio": "French-Senegalese artist who works with textiles, looms and computers to retell the history of computation through weaving knowledge.",
+   "why": "Nosukaay builds a computer from a Manjak loom and makes cloth the interface, placing computation in West African textile knowledge.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "based_zh": "巴黎，法国 / 达喀尔，塞内加尔",
+   "bio_zh": "法国-塞内加尔艺术家，以织物、织机与计算机创作，通过编织知识重述计算的历史。",
+   "why_zh": "Nosukaay 用 Manjak 织机搭建一台计算机，以布料作为界面，把计算放回西非的纺织知识之中。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jan-zuiderveld",
+   "name": "Jan Zuiderveld",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Dutch artist who fits everyday appliances with sensors and AI so that they talk back and act on their own terms.",
+   "why": "His talking coffee machine, microwave and copier make machine 'personality' in household objects tangible and slightly absurd.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio_zh": "荷兰艺术家，为日常家电装上传感器和 AI，让它们开口回应，并按自己的方式行事。",
+   "why_zh": "他会说话的咖啡机、微波炉和复印机，让家用物件里的机器“性格”变得可感，又带点荒诞。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julia-vollmer",
+   "name": "Julia Vollmer",
+   "kind": "person",
+   "role": "Artist and designer",
+   "based": "Germany",
+   "bio": "German artist and designer who makes the physical and energy costs of digital systems perceptible through material installations.",
+   "why": "to hurt for a thought lets people feel the heat of the GPU behind each AI image through the keys they type on.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://juliavollmer.de"
+   },
+   "role_zh": "艺术家、设计师",
+   "based_zh": "德国",
+   "bio_zh": "德国艺术家与设计师，用材料装置让数字系统的物理与能源代价变得可感。",
+   "why_zh": "to hurt for a thought 让人们通过正在敲击的键盘，感受到每张 AI 图像背后显卡发出的热。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alexandra-daisy-ginsberg",
+   "name": "Alexandra Daisy Ginsberg",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; works with synthetic biology, conservation and AI",
+   "based": "London, UK",
+   "bio": "Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators.",
+   "why": "Her machine-learning pieces ask what is lost when machines imitate other species.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.daisyginsberg.com"
+   },
+   "role_zh": "艺术家，创作涉及合成生物学、自然保护与人工智能",
+   "bio_zh": "Alexandra Daisy Ginsberg 是常驻伦敦的艺术家，作品追问人如何看待自然，从合成生物学思辨到为传粉昆虫而做的活体艺术。",
+   "why_zh": "她用机器学习做的作品追问：当机器模仿其他物种时，失去了什么。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dasha-ilina",
+   "name": "Dasha Ilina",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Paris, France",
+   "bio": "Russian-born artist based in Paris who makes low-tech, DIY objects and workshops about the relation between digital devices and the human body.",
+   "why": "She treats the aches caused by screens as a design brief, with cardboard, motors and humour.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "http://centerfortechpain.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "出生于俄罗斯、常驻巴黎的艺术家，用低技术的 DIY 物件和工作坊探讨数字设备与人体的关系。",
+   "why_zh": "她把屏幕造成的身体酸痛当作设计课题，用纸板、马达和幽默来回应。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mary-flanagan",
+   "name": "Mary Flanagan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and game designer; Professor, Dartmouth College",
+   "based": "Hanover, NH, US",
+   "bio": "Mary Flanagan makes software art, installations and games, and directs the Tiltfactor game lab at Dartmouth.",
+   "why": "Her installations use computational methods to expose the biases people bring to faces and machines.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "http://maryflanagan.com"
+   },
+   "role_zh": "艺术家、游戏设计师；达特茅斯学院教授",
+   "bio_zh": "Mary Flanagan 创作软件艺术、装置与游戏，并主持达特茅斯学院的 Tiltfactor 游戏实验室。",
+   "why_zh": "她的装置用计算方法揭示人们看待面孔和机器时带着的偏见。",
+   "based_zh": "汉诺威（新罕布什尔州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manuel-beltran",
+   "name": "Manuel Beltrán",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; founder of the Institute of Human Obsolescence",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Spanish artist whose installations and interventions expose the power relations inside technologies, with a focus on data and automation.",
+   "why": "He imagines what work is left for human bodies once machines take over mechanical and mental labour.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "http://speculative.capital"
+   },
+   "role_zh": "艺术家、研究者；Institute of Human Obsolescence 创始人",
+   "bio_zh": "西班牙艺术家，以装置和介入揭示技术内部的权力关系，关注数据与自动化。",
+   "why_zh": "他设想：当机器接管体力与脑力劳动之后，人的身体还剩下什么工作可做。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-petkus",
+   "name": "Sarah Petkus",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and robot maker",
+   "based": "Las Vegas, US",
+   "bio": "Sarah Petkus is an American artist, illustrator and engineer who builds characterful robots from light metals, 3D-printed parts and found objects.",
+   "why": "She frames robot-building as parenting: raising a machine that develops its own ways of expressing itself.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.youtube.com/GravityRoad"
+   },
+   "role_zh": "艺术家、机器人制作者",
+   "bio_zh": "Sarah Petkus 是美国艺术家、插画师和工程师，用轻金属、3D 打印件和现成物制作有性格的机器人。",
+   "why_zh": "她把造机器人看作养育：抚养一个会发展出自身表达方式的机器。",
+   "based_zh": "拉斯维加斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frank-kolkman",
+   "name": "Frank Kolkman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer and researcher",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Frank Kolkman is a Dutch designer who works on DIY medicine and technology; his Designs for Flies won the 2016 Dutch Design Award for Service & Systems.",
+   "why": "His DIY surgical robot asks who gets access to medical machines.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://www.frankkolkman.nl"
+   },
+   "role_zh": "设计师、研究者",
+   "bio_zh": "Frank Kolkman 是荷兰设计师，关注 DIY 医疗与技术；他的 Designs for Flies 获得 2016 年荷兰设计奖“服务与系统”类奖项。",
+   "why_zh": "他的 DIY 手术机器人追问：谁能用上医疗机器。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matt-richardson",
+   "name": "Matt Richardson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Technologist and maker; formerly NYU ITP",
+   "based": "New York, US",
+   "bio": "Matt Richardson is a creative technologist and author of books on Raspberry Pi and Arduino; he made the Descriptive Camera as a student at NYU's Interactive Telecommunications Program.",
+   "why": "His camera made hidden crowd labour the actual 'sensor' of a device.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "技术人员与创客；曾就读于纽约大学 ITP",
+   "bio_zh": "Matt Richardson 是创意技术人员，写过 Raspberry Pi 与 Arduino 的书；Descriptive Camera 是他在纽约大学 ITP 读书时的作品。",
+   "why_zh": "他的相机让隐藏的众包劳动成为设备真正的“传感器”。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "timo-toots",
+   "name": "Timo Toots",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Tallinn, Estonia",
+   "bio": "Estonian media artist whose installations turn state and online databases about visitors into public displays.",
+   "why": "He made the data shadow of a digital state visible to the people it describes.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://works.timo.ee"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "爱沙尼亚媒体艺术家，他的装置把国家与网络数据库里关于观众的信息变成公开展示。",
+   "why_zh": "他让数字国家投下的数据阴影被当事人亲眼看到。",
+   "based_zh": "塔林，爱沙尼亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mark-shepard",
+   "name": "Mark Shepard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and architect; Associate Professor, University at Buffalo",
+   "based": "Buffalo, NY, US",
+   "bio": "Mark Shepard is an artist, architect and researcher who works on ubiquitous computing and the city; he edited the book Sentient City (MIT Press, 2011).",
+   "why": "He designs counter-devices for living in a city that watches and predicts its inhabitants.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "http://survival.sentientcity.net/"
+   },
+   "role_zh": "艺术家、建筑师；布法罗大学副教授",
+   "bio_zh": "Mark Shepard 是艺术家、建筑师与研究者，研究普适计算与城市；主编《Sentient City》（MIT Press，2011）。",
+   "why_zh": "他为生活在会监视、预测居民的城市里设计反制装置。",
+   "based_zh": "布法罗（纽约州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "golan-levin",
+   "name": "Golan Levin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Professor, Carnegie Mellon University; director of the STUDIO for Creative Inquiry",
+   "based": "Pittsburgh, US",
+   "bio": "Golan Levin makes interactive installations, performances and software that explore computer vision, gesture and communication.",
+   "why": "His works often give machines a gaze that looks back at the people it tracks.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.flong.com"
+   },
+   "role_zh": "艺术家；卡内基梅隆大学教授，STUDIO for Creative Inquiry 主任",
+   "bio_zh": "Golan Levin 创作互动装置、表演与软件，探索计算机视觉、手势与交流。",
+   "why_zh": "他的作品常给机器一种会回望被追踪者的目光。",
+   "based_zh": "匹兹堡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "max-dean",
+   "name": "Max Dean",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Toronto, Canada",
+   "bio": "Max Dean is a British-born Canadian artist known for interactive and robotic works that implicate the viewer.",
+   "why": "He conceived The Robotic Chair in 1984 and spent over twenty years realising it.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "Max Dean 是出生于英国的加拿大艺术家，以让观众卷入其中的互动与机器人作品著称。",
+   "why_zh": "他在 1984 年构想了 The Robotic Chair，用了二十多年才实现。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [
+    "raffaello-d-andrea",
+    "matt-donovan"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "raffaello-d-andrea",
+   "name": "Raffaello D'Andrea",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Roboticist; Professor, ETH Zurich; co-founder of Kiva Systems",
+   "based": "Zurich, Switzerland",
+   "bio": "Canadian-Italian engineer known for autonomous systems, from Kiva warehouse robots to flying machines, and for art collaborations with Max Dean.",
+   "why": "He brought control engineering into artworks about machine autonomy.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "机器人学家；苏黎世联邦理工学院教授，Kiva Systems 联合创始人",
+   "bio_zh": "加拿大裔意大利工程师，以自主系统著称，从 Kiva 仓储机器人到飞行机器，并与 Max Dean 有艺术合作。",
+   "why_zh": "他把控制工程带进关于机器自主性的艺术作品。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [
+    "max-dean"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matt-donovan",
+   "name": "Matt Donovan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Canada",
+   "bio": "Canadian artist and engineer who co-developed The Robotic Chair with Max Dean and Raffaello D'Andrea.",
+   "why": "He helped build one of the best-known works about machine failure and repair.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "加拿大艺术家与工程师，与 Max Dean、Raffaello D'Andrea 共同开发 The Robotic Chair。",
+   "why_zh": "他参与制作了关于机器失败与修复最著名的作品之一。",
+   "based_zh": "加拿大",
+   "connected_to": [
+    "max-dean"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "electric-circus",
+   "name": "Electric Circus",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Robot street-theatre company (Mirjam Langemeijer and Fred Abels)",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Collaboration between puppeteer Mirjam Langemeijer and inventor Fred Abels, who combine animatronics and puppetry into lifelike robot characters for street theatre.",
+   "why": "They put androids on the street without a gallery frame and watch how people respond.",
+   "disciplines": [
+    "performance",
+    "robotics"
+   ],
+   "links": {
+    "site": "http://www.electric-circus.eu"
+   },
+   "role_zh": "机器人街头剧团（Mirjam Langemeijer 与 Fred Abels）",
+   "bio_zh": "木偶师 Mirjam Langemeijer 与发明家 Fred Abels 的合作，把电子动画技术与木偶戏结合成逼真的机器人街头角色。",
+   "why_zh": "他们把仿真人放到没有画廊框架的街头，观察人们如何回应。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "danja-vasiliev",
+   "name": "Danja Vasiliev",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and critical engineer",
+   "based": "Berlin, Germany",
+   "bio": "Russian-born artist in Berlin who works with networks, hardware and software exploits; co-author of the Critical Engineering Manifesto.",
+   "why": "He turns network infrastructure into a stage where surveillance becomes visible.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://k0a1a.net"
+   },
+   "role_zh": "艺术家、批判性工程师",
+   "bio_zh": "出生于俄罗斯、在柏林工作的艺术家，用网络、硬件与软件漏洞创作；《批判性工程宣言》合著者。",
+   "why_zh": "他把网络基础设施变成让监控现形的舞台。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "julian-oliver"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martin-riches",
+   "name": "Martin Riches",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; builds musical and talking machines",
+   "based": "Berlin, Germany",
+   "bio": "British-born artist in Berlin who has built mechanical instruments and speaking machines since the 1970s.",
+   "why": "His machines make computation and speech audible as mechanical events.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.martinriches.de"
+   },
+   "role_zh": "艺术家，制作音乐机器与会说话的机器",
+   "bio_zh": "出生于英国、在柏林工作的艺术家，自 1970 年代起制作机械乐器和会说话的机器。",
+   "why_zh": "他的机器把计算与言语变成可以听见的机械事件。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "masahiro-miwa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "masahiro-miwa",
+   "name": "Masahiro Miwa",
+   "name_zh": "三轮真弘",
+   "kind": "person",
+   "role": "Composer; Professor, IAMAS",
+   "based": "Gifu, Japan",
+   "bio": "Japanese composer known for 'reverse simulation music', in which performers or machines execute algorithms as musical rules.",
+   "why": "He composes with algorithms that humans and machines must carry out step by step.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "作曲家；IAMAS 教授",
+   "bio_zh": "日本作曲家，以“逆模拟音乐”著称：由演奏者或机器把算法当作音乐规则来执行。",
+   "why_zh": "他用必须由人或机器一步步执行的算法来作曲。",
+   "based_zh": "岐阜，日本",
+   "connected_to": [
+    "martin-riches"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "goncalo-f-cardoso",
+   "name": "Gonçalo F. Cardoso",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and sound artist; founder of the label Discrepant",
+   "based": "London, UK",
+   "bio": "Portuguese composer and field recordist who runs the experimental label Discrepant.",
+   "why": "He treats machine noise as field recordings worth composing with.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "作曲家、声音艺术家；唱片厂牌 Discrepant 创始人",
+   "bio_zh": "葡萄牙作曲家、田野录音者，经营实验厂牌 Discrepant。",
+   "why_zh": "他把机器噪声当作值得入曲的田野录音。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "ruben-pater"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "boris-petrovsky",
+   "name": "Boris Petrovsky",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Konstanz, Germany",
+   "bio": "German artist who builds installations and performative sculptures from networked everyday machines and signs.",
+   "why": "He gives household appliances a collective machine voice.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.petrovsky.de"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "德国艺术家，用联网的日常机器与标识制作装置和表演性雕塑。",
+   "why_zh": "他让家用电器拥有一种集体的机器声音。",
+   "based_zh": "康斯坦茨，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gilberto-esparza",
+   "name": "Gilberto Esparza",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist working with robotics, biotechnology and ecology",
+   "role_zh": "以机器人、生物技术和生态为媒介的艺术家",
+   "based": "Mexico City, MX",
+   "based_zh": "墨西哥城，墨西哥",
+   "bio": "Mexican artist who builds autonomous bio-machines and robotic 'parasites' that live off urban electricity, polluted rivers and sewage.",
+   "bio_zh": "墨西哥艺术家，制作依靠城市电网、污染河流和污水生存的自主生物机器与机器人“寄生体”。",
+   "why": "His robots are small artificial species with a metabolism and a habitat, a Global South line of A-life art twice recognised by VIDA and by a Prix Ars Electronica Golden Nica.",
+   "why_zh": "他的机器人是拥有新陈代谢和栖息地的人造小物种，是来自全球南方的人工生命艺术脉络，曾两度获 VIDA 奖并获林茨电子艺术节金尼卡奖。",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://gilbertoesparza.net",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicholas-stedman",
+   "name": "Nicholas Stedman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and robotics designer",
+   "role_zh": "艺术家、机器人设计师",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Canadian artist who builds modular, snake-like robots that touch and hold the human body.",
+   "bio_zh": "加拿大艺术家，制作会触摸、缠绕人体的模块化蛇形机器人。",
+   "why": "His robots shift social robotics from faces and eyes to touch.",
+   "why_zh": "他的机器人把社交机器人从“脸与眼睛”转向“触觉”。",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jed-berk",
+   "name": "Jed Berk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and designer",
+   "role_zh": "艺术家、设计师",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "American artist known for Autonomous Light Air Vessels, small blimp robots that flock, avoid obstacles and seek company.",
+   "bio_zh": "美国艺术家，以“自主轻型飞艇”（ALAVs）闻名：会成群飞行、避开障碍、寻找同伴的小型飞艇机器人。",
+   "why": "He brought multi-agent robotics out of the lab into public space as a flock of gentle creatures.",
+   "why_zh": "他把多智能体机器人从实验室带进公共空间，变成一群温和的生物。",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "saso-sedlacek",
+   "name": "Sašo Sedlaček",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Ljubljana, SI",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "bio": "Slovenian artist whose low-tech machines and interventions address waste, poverty and techno-optimism.",
+   "bio_zh": "斯洛文尼亚艺术家，用低技术机器与公共介入讨论废弃物、贫困与技术乐观主义。",
+   "why": "His Beggar Robot turns the service robot into a figure of social exclusion.",
+   "why_zh": "他的 Beggar Robot 把服务机器人变成社会排斥的形象。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://sasosedlacek.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-sugrue",
+   "name": "Chris Sugrue",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and programmer",
+   "role_zh": "艺术家、程序员",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "American artist and creative coder working with interactive installations, artificial life and experimental interfaces.",
+   "bio_zh": "美国艺术家与创意编程者，创作互动装置、人工生命与实验性界面作品。",
+   "why": "Delicate Boundaries lets simulated creatures cross from the screen onto the visitor's skin.",
+   "why_zh": "Delicate Boundaries 让模拟生物从屏幕爬到观众的皮肤上。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emanuel-andel",
+   "name": "Emanuel Andel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "bio": "Austrian media artist who builds risky human–machine games driven by biosignals.",
+   "bio_zh": "奥地利媒体艺术家，制作由生物信号驱动、带有风险的人机游戏。",
+   "why": "Knife.Hand.Chop.Bot makes trust in a machine a matter of the player's own skin.",
+   "why_zh": "Knife.Hand.Chop.Bot 让对机器的信任直接落在玩家自己的皮肤上。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karolina-sobecka",
+   "name": "Karolina Sobecka",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Polish-born artist working with interaction, animation and environmental systems.",
+   "bio_zh": "出生于波兰的艺术家，创作涉及互动、动画与环境系统。",
+   "why": "Sniff gives computer vision the body and manners of a dog.",
+   "why_zh": "Sniff 给计算机视觉安上了一只狗的身体和脾气。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "james-george"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shing-tat-chung",
+   "name": "Shing Tat Chung",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and designer",
+   "role_zh": "艺术家、设计师",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "British artist and designer, Royal College of Art graduate, working on belief and irrationality in technological systems.",
+   "bio_zh": "英国艺术家、设计师，毕业于皇家艺术学院，关注技术系统中的信仰与非理性。",
+   "why": "His Superstitious Fund exposed the faith behind algorithmic trading.",
+   "why_zh": "他的 Superstitious Fund 揭示了算法交易背后的“信仰”。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ruairi-glynn",
+   "name": "Ruairi Glynn",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect and artist; director of the Interactive Architecture Lab, The Bartlett, UCL",
+   "role_zh": "建筑师、艺术家；伦敦大学学院巴特莱特建筑学院互动建筑实验室负责人",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Irish-born designer of robotic and responsive architecture.",
+   "bio_zh": "出生于爱尔兰的机器人与响应式建筑设计者。",
+   "why": "Performative Ecologies was an early example of robots that learn which gestures hold human attention.",
+   "why_zh": "Performative Ecologies 是较早让机器人学习“哪种动作能吸引人注意”的作品。",
+   "disciplines": [
+    "design",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.ruairiglynn.co.uk",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pedro-lopes",
+   "name": "Pedro Lopes",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab",
+   "role_zh": "芝加哥大学计算机科学副教授，人机融合实验室（Human Computer Integration Lab）负责人",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Pedro Lopes studies devices that integrate with the user's body, such as electrical muscle stimulation that moves the wearer's limbs.",
+   "bio_zh": "Pedro Lopes 研究与使用者身体融为一体的设备，例如能驱动佩戴者肢体的肌肉电刺激。",
+   "why": "His art piece Ad Infinitum turns muscle-stimulation research into a machine that uses people.",
+   "why_zh": "他的艺术作品 Ad Infinitum 把肌肉电刺激研究变成了一台“使用人”的机器。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "https://plopes.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "humanising-autonomy",
+   "name": "Humanising Autonomy (Maya Pindeus, Leslie Nooteboom, Raunaq Bose, Adam Bernstein)",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Design team from the RCA/Imperial Innovation Design Engineering programme, later a London start-up",
+   "based": "London, UK",
+   "bio": "Four graduate designers who built Blink, a two-way signalling interface between pedestrians and autonomous vehicles, and then founded a company on pedestrian-behaviour AI.",
+   "why": "Blink is an early design proposal for making an autonomous car show what it sees and let pedestrians answer.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "英国皇家艺术学院与帝国理工创新设计工程专业的设计团队，后成立为伦敦初创公司",
+   "bio_zh": "四位研究生设计师，先做出行人与自动驾驶汽车之间双向沟通的界面 Blink，随后以行人行为 AI 为方向创办公司。",
+   "why_zh": "Blink 是较早的设计提案之一：让自动驾驶汽车显示它“看见”了谁，并让行人回应。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "m-eifler",
+   "name": "M Eifler",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher in embodied interaction and computational prosthetics",
+   "based": "San Francisco Bay Area, US",
+   "bio": "Interdisciplinary artist (MFA, California College of the Arts 2011) who builds speculative interfaces and prosthetic systems from their own disability.",
+   "why": "Uses a self-trained machine-learning system as a replacement for damaged long-term memory, a personal-scale counterpoint to corporate AI.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "从事具身交互与计算义体研究的艺术家、研究者",
+   "bio_zh": "跨学科艺术家（2011 年获加州艺术学院 MFA），以自身残障经验为出发点制作思辨界面与义体系统。",
+   "why_zh": "用自己训练的机器学习系统替代受损的长期记忆，是对企业级 AI 的个人尺度回应。",
+   "based_zh": "美国旧金山湾区",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christopher-kulendran-thomas",
+   "name": "Christopher Kulendran Thomas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Berlin, DE / London, UK",
+   "bio": "Tamil-British artist whose installations, often made with Annika Kuhlmann, use AI and machine-learning systems to examine how images write history and politics.",
+   "why": "Winner of the 3rd Human AI Art Award (2026); his work treats AI editing and generation as a machine that rewrites collective memory.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "泰米尔裔英国艺术家，常与 Annika Kuhlmann 合作，以 AI 与机器学习系统制作装置，探讨图像如何书写历史与政治。",
+   "why_zh": "第三届人类 AI 艺术奖（2026）得主；他的作品把 AI 剪辑与生成看作改写集体记忆的机器。",
+   "based_zh": "柏林，德国／伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ubermorgen",
+   "name": "UBERMORGEN",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo (lizvlx and Hans Bernhard)",
+   "based": "Vienna, AT",
+   "bio": "Austrian-Swiss artist duo working since 1995 with networks, media hacks and machine systems.",
+   "why": "Co-authors of UNINVITED, which imagines a monster born from a botnet of hijacked surveillance cameras.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家二人组（lizvlx 与 Hans Bernhard）",
+   "bio_zh": "1995 年起活跃的奥地利—瑞士艺术家二人组，创作涉及网络、媒体入侵与机器系统。",
+   "why_zh": "与 Nye Thompson 合作《UNINVITED》，想象一个从被劫持监控摄像头组成的僵尸网络中诞生的怪物。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [
+    "nye-thompson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dave-murray-rust",
+   "name": "Dave Murray-Rust",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in human–algorithm interaction; Associate Professor, TU Delft",
+   "based": "Delft, NL",
+   "bio": "Computer scientist and designer (formerly University of Edinburgh) who works on how people live with algorithms and robotic systems.",
+   "why": "Co-created Lichtsuchende, a society of light-seeking robots that talk to each other in light.",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "人与算法交互研究者；代尔夫特理工大学副教授",
+   "bio_zh": "计算机科学家与设计师（曾任职爱丁堡大学），研究人们如何与算法和机器人系统共处。",
+   "why_zh": "与人合作《Lichtsuchende》：一群以光交流、寻光的机器人社会。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "rocio-von-jungenfeld"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rocio-von-jungenfeld",
+   "name": "Rocio von Jungenfeld",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Lecturer in Digital Arts, University of Kent",
+   "based": "Canterbury, UK",
+   "bio": "Artist working with site-specific interactive installations, light and electronics.",
+   "why": "Co-created Lichtsuchende, whose robots form a small cybernetic society visitors can walk into.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家；肯特大学数字艺术讲师",
+   "bio_zh": "以特定场域互动装置、光与电子为媒介的艺术家。",
+   "why_zh": "与人合作《Lichtsuchende》，其机器人组成一个观众可以走入的微型控制论社会。",
+   "based_zh": "坎特伯雷，英国",
+   "connected_to": [
+    "dave-murray-rust"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cesar-and-lois",
+   "name": "Cesar & Lois (Cesar Baio, Lucy HG Solomon)",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Art collective",
+   "based": "São Paulo, BR / San Marcos, US",
+   "bio": "Collective of Cesar Baio and Lucy HG Solomon (The League of Imaginary Scientists) that couples microorganisms, networks and AI into 'bhiobrid' systems.",
+   "why": "Their works set a fungus-like logic against machine intelligence to question who does the thinking.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术团体",
+   "bio_zh": "由 Cesar Baio 与 Lucy HG Solomon（The League of Imaginary Scientists）组成的团体，把微生物、网络与 AI 耦合成“生物—数字混合”系统。",
+   "why_zh": "他们让类真菌的逻辑与机器智能相互作用，追问究竟是谁在思考。",
+   "based_zh": "圣保罗，巴西／圣马科斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gaetan-robillard",
+   "name": "Gaëtan Robillard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "Paris, FR",
+   "bio": "French artist who works with computation, data and sound to examine how algorithms model knowledge, from climate misinformation to cognition.",
+   "why": "Critical Climate Machine makes a misinformation classifier physically present, including the heat it gives off.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "法国艺术家，以计算、数据与声音探讨算法如何建模知识，题材从气候谣言到认知。",
+   "why_zh": "《Critical Climate Machine》让一个谣言分类器以实体出现，连同它散发的热量。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "monika-fleischmann",
+   "name": "Monika Fleischmann",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist and researcher; co-founder of ART+COM",
+   "based": "Berlin, DE",
+   "bio": "German media-art pioneer who, with Wolfgang Strauss, built early interactive installations and led research at GMD / Fraunhofer (MARS lab).",
+   "why": "Liquid Views (1992) is an early interactive mirror in which a computer holds and dissolves the viewer's reflection.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术家与研究者；ART+COM 联合创始人",
+   "bio_zh": "德国媒体艺术先驱，与 Wolfgang Strauss 合作了早期互动装置，并在 GMD／弗劳恩霍夫研究所主持 MARS 实验室。",
+   "why_zh": "《Liquid Views》（1992）是早期互动镜像作品：计算机留住并溶解观者的倒影。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "wolfgang-strauss"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wolfgang-strauss",
+   "name": "Wolfgang Strauss",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect and media artist",
+   "based": "Berlin, DE",
+   "bio": "German architect and media artist, long-time collaborator of Monika Fleischmann on interactive environments.",
+   "why": "Co-author of Liquid Views, shown in Tate Modern's Electric Dreams (2024).",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "建筑师、媒体艺术家",
+   "bio_zh": "德国建筑师与媒体艺术家，长期与 Monika Fleischmann 合作互动环境。",
+   "why_zh": "《Liquid Views》的共同作者，该作品在泰特现代的“电子之梦”（2024）中展出。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "monika-fleischmann"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "felix-luque-sanchez",
+   "name": "Félix Luque Sánchez",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Brussels, BE",
+   "bio": "Spanish artist based in Brussels who builds robotic and algorithmic installations about chaos, control and machine autonomy.",
+   "why": "His machines are staged as tireless actors that keep failing and trying, which gives them a strange inner life.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "常驻布鲁塞尔的西班牙艺术家，以机器人与算法装置探讨混沌、控制与机器自主性。",
+   "why_zh": "他的机器像不知疲倦的演员一样反复失败、反复尝试，因此显出一种奇特的“内在”。",
+   "based_zh": "布鲁塞尔，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xenoangel",
+   "name": "Xenoangel (Marija Avramovic & Sam Twidale)",
+   "kind": "studio",
+   "role": "Artist duo making real-time animations and AI-driven virtual worlds",
+   "role_zh": "创作实时动画与 AI 驱动虚拟世界的艺术家二人组",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Marija Avramovic and Sam Twidale work as Xenoangel, building game-engine worlds whose characters act on their own.",
+   "bio_zh": "Marija Avramovic 与 Sam Twidale 以 Xenoangel 之名合作，用游戏引擎搭建由角色自主行动的虚拟世界。",
+   "why": "They treat AI agents in simulations through the lens of animism, as spirits living in objects.",
+   "why_zh": "他们借万物有灵的视角看待模拟中的 AI 智能体，把它们当作栖居在物体里的精灵。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.samtwidale.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "justine-emard",
+   "name": "Justine Emard",
+   "kind": "person",
+   "role": "Visual artist working with neuroscience, robotics and machine learning",
+   "role_zh": "结合神经科学、机器人和机器学习的视觉艺术家",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "French artist who combines photography, video, robotics and AI; her works draw on data from bees, brains and androids.",
+   "bio_zh": "法国艺术家，结合摄影、影像、机器人和人工智能；作品数据来自蜜蜂、大脑和仿人机器人。",
+   "why": "She stages encounters between humans and learning machines, such as a dancer and the android Alter, as a search for a shared language.",
+   "why_zh": "她让人与会学习的机器相遇，例如舞者与仿人机器人 Alter，以此寻找一种共同的语言。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://justineemard.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-ara",
+   "name": "Rachel Ara",
+   "kind": "person",
+   "role": "Conceptual and data artist",
+   "role_zh": "观念与数据艺术家",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "London artist who worked 25 years as a computer systems designer before making neon and data sculptures about value, gender and tech.",
+   "bio_zh": "伦敦艺术家，做了 25 年计算机系统设计师后，开始创作关于价值、性别与科技的霓虹与数据雕塑。",
+   "why": "Her self-valuing artwork lets an algorithm decide what art is worth, in public.",
+   "why_zh": "她那件会给自己估价的作品，让算法当众决定艺术值多少钱。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steffen-weiss",
+   "name": "Steffen Weiß",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "Germany",
+   "based_zh": "德国",
+   "bio": "German designer who co-authored The Chair Project with Philipp Schmitt.",
+   "bio_zh": "德国设计师，与 Philipp Schmitt 合作完成 The Chair Project。",
+   "why": "Co-author of a key design experiment on generative models as a prompt for human imagination.",
+   "why_zh": "一项重要设计实验的合著者：把生成模型当作激发人类想象的起点。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "philipp-schmitt"
+   ],
+   "discovered_via": "philipp-schmitt"
+  },
+  {
+   "id": "stephan-bogner",
+   "name": "Stephan Bogner",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "Ulm, DE",
+   "based_zh": "乌尔姆，德国",
+   "bio": "German interaction designer (HfG Schwäbisch Gmünd) and co-author of Raising Robotic Natives.",
+   "bio_zh": "德国交互设计师（施瓦本格明德设计学院毕业），Raising Robotic Natives 的合作者之一。",
+   "why": "His student project coined the idea of 'robotic natives', children raised alongside robots.",
+   "why_zh": "他的学生项目提出了“机器人原住民”的概念：与机器人一起长大的孩子。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://stephanbogner.de/"
+   },
+   "connected_to": [
+    "philipp-schmitt",
+    "jonas-voigt"
+   ],
+   "discovered_via": "philipp-schmitt"
+  },
+  {
+   "id": "jonas-voigt",
+   "name": "Jonas Voigt",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "Germany",
+   "based_zh": "德国",
+   "bio": "German designer, co-author of Raising Robotic Natives with Stephan Bogner and Philipp Schmitt.",
+   "bio_zh": "德国设计师，与 Stephan Bogner、Philipp Schmitt 合作 Raising Robotic Natives。",
+   "why": "Co-author of a design fiction about children growing up with industrial robots at home.",
+   "why_zh": "一则设计虚构的合作者：孩子在家中与工业机器人一起长大。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "stephan-bogner",
+    "philipp-schmitt"
+   ],
+   "discovered_via": "philipp-schmitt"
+  },
+  {
+   "id": "david-link",
+   "name": "David Link",
+   "kind": "person",
+   "role": "Artist and media archaeologist",
+   "role_zh": "艺术家、媒介考古学者",
+   "based": "Cologne, DE",
+   "based_zh": "科隆，德国",
+   "bio": "German artist and researcher who rebuilds early computers and programs, such as the Ferranti Mark 1 and Strachey's love-letter generator.",
+   "bio_zh": "德国艺术家与研究者，重建早期计算机与程序，例如 Ferranti Mark 1 和 Strachey 的情书生成器。",
+   "why": "He makes the first computer-generated feelings run again on a working replica.",
+   "why_zh": "他让第一批由计算机生成的“情感”在一台可运行的复制机上再次运转。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://alpha60.de/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "orlan",
+   "name": "ORLAN",
+   "kind": "person",
+   "role": "Artist working with performance, surgery, biotechnology and robotics",
+   "role_zh": "以表演、外科手术、生物技术和机器人创作的艺术家",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "French artist known for her surgery-performances of the 1990s and later work with cell culture, avatars and robots.",
+   "bio_zh": "法国艺术家，以 1990 年代的外科手术表演闻名，后来转向细胞培养、虚拟化身与机器人创作。",
+   "why": "With ORLAN-OÏDE she built a talking robot double of herself and asked what remains of the artist.",
+   "why_zh": "她用 ORLAN-OÏDE 造出会说话的机器人分身，追问艺术家本人还剩下什么。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.orlan.eu"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicolas-darrot",
+   "name": "Nicolas Darrot",
+   "kind": "person",
+   "role": "Artist making automata and robotic sculpture",
+   "role_zh": "创作自动机与机器雕塑的艺术家",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "French artist (born 1972) who builds electromechanical puppets and automata that mix animal, human and machine.",
+   "bio_zh": "法国艺术家（1972 年生），制作混合动物、人与机器的机电木偶与自动机。",
+   "why": "His small machines stage learning, command and failure as tragicomic scenes.",
+   "why_zh": "他的小机器把学习、命令与失败演成悲喜剧场景。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "driessens-verstappen",
+   "name": "Driessens & Verstappen",
+   "kind": "studio",
+   "role": "Artist duo (Erwin Driessens and Maria Verstappen)",
+   "role_zh": "艺术家二人组（Erwin Driessens 与 Maria Verstappen）",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "Dutch duo working since 1990 with generative systems, artificial life and robots that produce forms and sensations.",
+   "bio_zh": "荷兰二人组，自 1990 年起用生成系统、人工生命和机器人创造形态与感受。",
+   "why": "Tickle Salon turns a robot's learning of a body into a tactile experience for the visitor.",
+   "why_zh": "《Tickle Salon》把机器人对身体的学习，变成观众可以亲身感受的触觉体验。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "la-raeven",
+   "name": "L.A. Raeven",
+   "kind": "studio",
+   "role": "Artist duo (twin sisters Liesbeth and Angelique Raeven)",
+   "role_zh": "艺术家二人组（双胞胎姐妹 Liesbeth 与 Angelique Raeven）",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "Dutch twin sisters whose installations and performances examine body norms, likeness and identity.",
+   "bio_zh": "荷兰双胞胎姐妹，其装置与表演审视身体规范、相似性与身份。",
+   "why": "They had a crying robot clone of themselves built, a third sister who needs comfort.",
+   "why_zh": "她们为自己造了一个会哭的机器人克隆，一个需要被安慰的“第三个姐妹”。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julian-charriere",
+   "name": "Julian Charrière",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Swiss-French artist whose sculptures, films and expeditions deal with geology, extraction and deep time.",
+   "bio_zh": "瑞士裔法国艺术家，以雕塑、电影和考察处理地质、开采与深时间。",
+   "why": "He returns computers to rock, showing the mineral body under digital technology.",
+   "why_zh": "他把电脑还原成岩石，展示数字技术之下的矿物之躯。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://julian-charriere.net/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vincent-fournier",
+   "name": "Vincent Fournier",
+   "kind": "person",
+   "role": "Photographer and artist",
+   "role_zh": "摄影师、艺术家",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "French photographer whose series look at space exploration, robots and imagined future life forms.",
+   "bio_zh": "法国摄影师，作品关注太空探索、机器人和想象中的未来生命形态。",
+   "why": "The Man Machine photographs real humanoid robots in labs and homes as if they were people sitting for portraits.",
+   "why_zh": "《The Man Machine》在实验室与家中拍摄真实的人形机器人，像为人拍肖像一样。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.vincentfournier.co.uk/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "verena-friedrich--erbsenzaehler-quality-sorter",
+   "creator_ids": [
+    "verena-friedrich"
+   ],
+   "title": "ERBSENZÄHLER Quality Sorter V2",
+   "year": 2022,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "An industrial-looking plant sorts pea seeds into good and bad; visitors sit at an inspection station, judge peas one by one with red and green buttons, and the machine then keeps sorting on the basis of their choices.",
+   "description_zh": "一套像工业设备的分拣装置把豌豆分成好与坏；观众坐在检查工位上，用红绿按钮逐颗评判豌豆，离开后机器便依据他们的选择继续分拣。",
+   "idea_en": "Automated 'quality' is only as objective as the tired, subjective human judgements it is trained on.",
+   "idea_zh": "自动化的“质量判断”，其客观程度不会超过训练它的那些疲惫而主观的人类判断。",
+   "method": "A feeder and conveyor present each pea to a camera; every button press stores a labelled close-up in an image database used to train the sorter's classifier.",
+   "method_zh": "送料器和传送带把每颗豌豆送到摄像头前；每次按键都会把一张带标签的特写存入图像数据库，用来训练分拣分类器。",
+   "keywords": [
+    "sorting machine",
+    "labelling",
+    "Cinderella",
+    "training data",
+    "human-in-the-loop"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3418863/preview/",
+    "https://archive.aec.at/asset/3418866/preview/"
+   ],
+   "source_url": "http://heavythinking.org/ez-quality-sorter-v2/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2023, Honorary Mention (Artificial Life & Intelligence)"
+   ]
+  },
+  {
+   "id": "zoran-srdic-janezic--biobot",
+   "creator_ids": [
+    "zoran-srdic-janezic"
+   ],
+   "title": "Biobot: AI ARThropods",
+   "year": 2022,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Neurons grown from the artist's own fat cells sit on an electrode array; their electrical signals drive a robot, and an AI compares them with arthropod leg movements to propose new insect-like bodies.",
+   "description_zh": "由艺术家自身脂肪细胞培养出的神经元生长在电极阵列上；它们的电信号驱动机器人，AI 再把信号与节肢动物的腿部动作比对，提出新的类昆虫身体。",
+   "idea_en": "Let a living 'brain on a chip' decide what body it should have, not only how that body moves.",
+   "idea_zh": "让一块活的“芯片上的大脑”决定自己该有怎样的身体，而不只是决定身体怎样运动。",
+   "method": "Reprogrammed neurons on a multi-electrode array produce spikes that are digitised, amplified and matched by an AI against a library of arthropod gaits to suggest joint and limb counts; the artist builds the robot from these proposals.",
+   "method_zh": "多电极阵列上的重编程神经元产生尖峰信号，经数字化和放大后由 AI 与节肢动物步态库匹配，给出关节和肢体数量建议，艺术家据此制作机器人。",
+   "keywords": [
+    "brain on a chip",
+    "MEA",
+    "neurons",
+    "Kapelica Gallery",
+    "biohybrid robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n6HkLK0ZZuw"
+   },
+   "images": [
+    "https://ars.electronica.art/planetb/files/2022/07/Biobot-AI-ARThropods-Zoran-Srdic-Janezic-SI-photo-Florian-Voggeneder.jpg",
+    "https://archive.aec.at/asset/3577316/preview/"
+   ],
+   "source_url": "https://ars.electronica.art/planetb/en/biobot/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2023, Honorary Mention (Artificial Life & Intelligence)",
+    "Ars Electronica Festival 2022"
+   ]
+  },
+  {
+   "id": "felix-lenz--cleanroom-paradox",
+   "creator_ids": [
+    "felix-lenz",
+    "angela-neubauer",
+    "eszter-zwickl"
+   ],
+   "title": "The Cleanroom Paradox",
+   "year": 2021,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A portrait of Jin, a former Samsung chip-factory worker who developed kidney cancer, is printed with ink made from dissolved smartphones and slowly disintegrates, while a video weaves her story with those of experts.",
+   "description_zh": "一幅 Jin 的肖像——她曾是三星芯片厂工人，后患上肾癌——用溶解手机制成的墨水印出并慢慢瓦解，同时一段影像把她的讲述与专家的访谈交织在一起。",
+   "idea_en": "The spotless cleanroom that makes our devices hides the toxic exposure of the people who work in it.",
+   "idea_zh": "制造我们设备的一尘不染的洁净室，掩盖了在其中工作的人所承受的有毒暴露。",
+   "method": "Smartphones are chemically dissolved, neutralised and reduced to a corrosive black ink used to print Jin's photograph (shot on a Galaxy Note 8); a documentary video records the process and interviews.",
+   "method_zh": "手机被化学溶解、中和并浓缩成具有腐蚀性的黑色墨水，用来打印 Jin 的照片（用 Galaxy Note 8 拍摄）；纪录影像记录了制作过程与访谈。",
+   "keywords": [
+    "semiconductor",
+    "Samsung",
+    "occupational illness",
+    "cleanroom",
+    "smartphone",
+    "Design Investigations"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/2983882/preview/",
+    "https://archive.aec.at/asset/2983885/preview/"
+   ],
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "source_url": "https://archive.aec.at/prix/255179/",
+   "exhibited": [
+    "Prix Ars Electronica 2021, Honorary Mention (Artificial Intelligence & Life Art)"
+   ]
+  },
+  {
+   "id": "spela-petric--plai",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "PL'AI",
+   "year": 2020,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "cybernetic-alife",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Over several months an AI-driven robot with 36 strings plays with cucumber plants at their own slow pace, moving coloured balls toward them while their tendrils grab and reshape the strings.",
+   "description_zh": "在数月时间里，一台带有 36 根吊线、由 AI 驱动的机器人以黄瓜自己的缓慢节奏与它们“玩耍”，把彩球移向植物，卷须则抓住吊线并重新塑造它们。",
+   "idea_en": "Imagine play, not work, as the basis of a relationship between plants and machines.",
+   "idea_zh": "把“玩耍”而不是“劳动”当作植物与机器关系的基础。",
+   "method": "A laser scanner images the cucumbers, a neural network decides how to move 36 individually controlled strings at about 1 cm per hour, and tendril growth feeds back into the model.",
+   "method_zh": "激光扫描仪获取黄瓜图像，神经网络决定如何以约每小时 1 厘米的速度移动 36 根独立控制的吊线，卷须的生长再反馈回模型。",
+   "keywords": [
+    "cucumber",
+    "plant",
+    "neural network",
+    "robot",
+    "play",
+    "Kersnikova"
+   ],
+   "video": {
+    "url": "https://vimeo.com/561021288"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/5aeca48a506fbe863b23a8b6/t/60a267a80d9395780c7d70ac/1637486481660/KERSNIKOVA_Spela_Petric_PLAY_20201206_HanaJosic-65.jpg?format=1500w"
+   ],
+   "source_url": "https://www.spelapetric.org/#/plai",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2021, Honorary Mention (Artificial Intelligence & Life Art)"
+   ]
+  },
+  {
+   "id": "paolo-cirio--sociality",
+   "creator_ids": [
+    "paolo-cirio"
+   ],
+   "title": "Sociality",
+   "year": 2018,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "recommender-platform",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "Cirio collected and rated hundreds of US patents for technologies that monitor and manipulate social behaviour, and invited the public to share, flag and 'ban' them on a website and in printed installations.",
+   "description_zh": "Cirio 收集并评级了数百项用于监控和操纵社会行为的美国专利，邀请公众在网站和印刷装置中分享、标记并“封禁”它们。",
+   "idea_en": "The patent office is where the machinery of social manipulation is described in plain diagrams before it is built.",
+   "idea_zh": "专利局是社交操纵机器在被建成之前，就以朴素图示被描述出来的地方。",
+   "method": "A database of patent filings with their flowcharts, classified by the artist and published online with public flagging tools, plus prints and a colouring book of the diagrams.",
+   "method_zh": "一个收录专利申请及其流程图的数据库，由艺术家分类后在线发布并提供公众标记工具，另有版画和一本以这些图示做成的涂色书。",
+   "keywords": [
+    "patents",
+    "social media",
+    "algorithms",
+    "regulation",
+    "Sociality.today"
+   ],
+   "images": [
+    "https://paolocirio.net/work/sociality/Sociality-pics-PAN-Naples/DSC_1176.jpg",
+    "https://paolocirio.net/work/sociality/img/sociality-website.png"
+   ],
+   "source_url": "https://paolocirio.net/work/sociality/",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2020, Honorary Mention"
+   ]
+  },
+  {
+   "id": "paola-torres-nunez-del-prado--aielson",
+   "creator_ids": [
+    "paola-torres-nunez-del-prado"
+   ],
+   "title": "AIELSON",
+   "year": 2020,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A spoken-word poetry album, El Tiempo del Hombre, in which a machine recites new poems in a voice modelled on the Peruvian poet Jorge Eduardo Eielson, who once imagined a talking doll that would recite poems forever.",
+   "description_zh": "一张名为 El Tiempo del Hombre 的口语诗唱片：机器以仿照秘鲁诗人 Jorge Eduardo Eielson 的声音朗诵新诗，而 Eielson 曾设想过一个会永远朗诵诗歌的会说话的玩偶。",
+   "idea_en": "Training a voice on Latin American poetry and speech pushes back against English-centred models while raising the question of whose voice a machine may borrow.",
+   "idea_zh": "用拉丁美洲诗歌和语音训练声音，是对以英语为中心的模型的反拨，同时也提出了机器可以借用谁的声音的问题。",
+   "method": "GPT-2 fine-tuned on Spanish-language and South American poetry generates texts, which Tacotron 2 and WaveGlow speak after training on an Argentine voice dataset and recordings of Eielson; developed in Google's Artists + Machine Intelligence 2020 residency.",
+   "method_zh": "在西班牙语及南美诗歌上微调的 GPT-2 生成文本，再由先后用阿根廷语音数据集和 Eielson 录音训练的 Tacotron 2 与 WaveGlow 朗读；作品在谷歌 Artists + Machine Intelligence 2020 驻留中完成。",
+   "keywords": [
+    "GPT-2",
+    "text-to-speech",
+    "Eielson",
+    "Peru",
+    "poetry",
+    "vinyl"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3079375/preview/",
+    "https://archive.aec.at/asset/3079378/preview/",
+    "https://f4.bcbits.com/img/a1123947957_5.jpg"
+   ],
+   "source_url": "https://khipumancer.bandcamp.com/album/el-tiempo-del-hombre",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2021, Honorary Mention (Artificial Intelligence & Life Art)"
+   ]
+  },
+  {
+   "id": "patrick-tresset--la-classe",
+   "creator_ids": [
+    "patrick-tresset"
+   ],
+   "title": "Human Study #4, La Classe",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Twenty-one drawing robots sit at desks as a teacher and pupils; in a fifteen-minute play they chatter in distorted Morse code, are called one by one, practise lines and tally marks, briefly revolt and fall back in line.",
+   "description_zh": "二十一台绘画机器人坐在课桌前扮演老师和学生；在十五分钟的演出里，它们用变形的摩尔斯电码喧哗、被逐一点名、练习画直线和计数划记，短暂造反后又重新服从。",
+   "idea_en": "Clumsy robots staging school discipline make visible how both machines and children are trained to conform.",
+   "idea_zh": "笨拙的机器人上演学校纪律，让人看见机器与孩子都在被训练成顺从的样子。",
+   "method": "RNP-type robots, each a pen arm with a small camera head, run a scripted, partly generative choreography of sounds and plotted drawings in a classroom set.",
+   "method_zh": "RNP 型机器人各有一支握笔的机械臂和一个小摄像头“头部”，在教室布景中执行半生成的声音与绘图编排。",
+   "keywords": [
+    "drawing robots",
+    "RNP",
+    "classroom",
+    "Foucault",
+    "Jacques Tati",
+    "Merge Festival"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=znI6reVdN_M"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2689289/preview/",
+    "https://archive.aec.at/asset/2689291/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/244883/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Merge Festival, London 2019 (with Tate Modern)",
+    "Prix Ars Electronica 2019, Honorary Mention (Artificial Life & Intelligence)"
+   ]
+  },
+  {
+   "id": "martyna-marciniak--anatomy-of-non-fact",
+   "creator_ids": [
+    "martyna-marciniak"
+   ],
+   "title": "Anatomy of Non-Fact. Chapter 1: AI Hyperrealism",
+   "year": 2024,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "An 18-minute video in which an actor playing the viral AI-generated 'Balenciaga Pope' delivers a monologue on fact and fakery, while the mechanics of image generation, news imagery and digital cloning are taken apart.",
+   "description_zh": "一段 18 分钟的影像：一位演员扮演病毒式传播的 AI 生成“巴黎世家教皇”，发表关于事实与伪造的独白，同时拆解图像生成、新闻图像语言与数字克隆的机制。",
+   "idea_en": "Once photographs become training data, a synthetic image forces us to ask what visual evidence still is.",
+   "idea_zh": "当照片变成训练数据，一张合成图像迫使我们追问：视觉证据究竟还是什么。",
+   "method": "Forensic and historical research on hoaxes is staged with slapstick, costume, hands-on props and AI-generated material in a single-channel film.",
+   "method_zh": "把关于骗局的法证与历史研究，以滑稽剧、服装、手部道具和 AI 生成素材编排成一部单频影像。",
+   "keywords": [
+    "Balenciaga Pope",
+    "deepfake",
+    "disinformation",
+    "Baudrillard",
+    "synthetic image"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3844471/preview/",
+    "https://archive.aec.at/asset/3844472/preview/",
+    "https://cdn.prod.website-files.com/63f9efede196cc0cf7cd41e6/66faa9495e2b8520ac801f38_IMG_7524.JPEG"
+   ],
+   "source_url": "https://www.martyna.digital/projects/anatomy-of-non-fact-chapter-1",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Ars Electronica Festival 2024",
+    "Prix Ars Electronica 2025, Award of Distinction (Artificial Life & Intelligence)"
+   ]
+  },
+  {
+   "id": "lois-soleil--tinder-gun-boys",
+   "creator_ids": [
+    "lois-soleil"
+   ],
+   "title": "Tinder_gun_boys_@Brussels_",
+   "year": 2022,
+   "field": "perception",
+   "sub": "datasets",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vision-system",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A robot swipes through Tinder on its own while a weapon-detecting AI screenshots men posing with guns; the images are printed on tatami mats used for feminist self-defence classes held in the installation.",
+   "description_zh": "一台机器人自动在 Tinder 上滑动，一个识别武器的 AI 截下与枪合影的男性资料；这些图像被印在榻榻米垫上，用于在装置中开设的女性主义防身课。",
+   "idea_en": "Turning a dating app's sorting logic back on its users shows how easily a machine can build a dataset of people, and what that dataset is for.",
+   "idea_zh": "把交友软件的筛选逻辑反用到它的用户身上，显示机器多么容易建立一个关于人的数据集，以及这个数据集可以被用来做什么。",
+   "method": "A physical swiping robot operates a phone running Tinder; an object-detection model flags profile photos with weapons and saves hundreds of screenshots a day; legal advice was compiled into the video How not to get sued as an artist.",
+   "method_zh": "一台实体滑动机器人操作运行 Tinder 的手机；目标检测模型识别带武器的头像，每天保存数百张截图；律师意见被整理成影片 How not to get sued as an artist。",
+   "keywords": [
+    "Tinder",
+    "weapon detection",
+    "swiping robot",
+    "self-defence",
+    "privacy"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1084594874"
+   },
+   "images": [
+    "http://loissoleil.com/pages/tinder/Robot.jpg",
+    "https://archive.aec.at/asset/3845109/preview/"
+   ],
+   "source_url": "http://loissoleil.com/tinder",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2025, Honorary Mention (Artificial Life & Intelligence)"
+   ]
+  },
+  {
+   "id": "diane-cescutti--nosukaay",
+   "creator_ids": [
+    "diane-cescutti"
+   ],
+   "title": "Nosukaay",
+   "year": 2022,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A 'machine deity' built from a Manjak loom whose two frames are replaced by bare screens; visitors stroke a handwoven loincloth to navigate a film-game about an alternative history of computation, and are ejected if they disrespect it.",
+   "description_zh": "一尊由 Manjak 织机构成的“机器神”，织机的两个框架被裸露的屏幕取代；观众抚摸一块手织腰布来操作一部关于另一种计算史的影像游戏，若对它不敬便会被踢出。",
+   "idea_en": "Weaving was computation long before the computer; the machine here speaks from West African textile knowledge, not from Silicon Valley.",
+   "idea_zh": "早在计算机之前，编织就已是一种计算；这台机器从西非纺织知识而不是硅谷出发说话。",
+   "method": "A conductive handwoven Manjak cloth acts as a touch keyboard for an interactive narrative of texts, 3D images and footage shot in Dakar weaving studios.",
+   "method_zh": "一块导电的手织 Manjak 布作为触摸键盘，操作由文本、三维图像和达喀尔编织工坊实拍影像构成的互动叙事。",
+   "keywords": [
+    "loom",
+    "Manjak",
+    "Senegal",
+    "textile computing",
+    "Jacquard",
+    "interactive installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=939QlKGURoI"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3797338/preview/",
+    "https://archive.aec.at/asset/3797341/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/290626/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2024, Golden Nica (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "jan-zuiderveld--conversations-beyond-the-ordinary",
+   "creator_ids": [
+    "jan-zuiderveld"
+   ],
+   "title": "Conversations Beyond the Ordinary",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A coffee vending machine, a microwave and a photocopier are given AI voices: the coffee machine makes visitors prove they deserve a coffee, the microwave speaks for the food inside it, and the copier makes art with them.",
+   "description_zh": "一台咖啡售卖机、一台微波炉和一台复印机被赋予了 AI 声音：咖啡机要观众证明自己配得上一杯咖啡，微波炉替里面的食物说话，复印机则与观众一起创作。",
+   "idea_en": "Give an appliance a voice and a will, and the ordinary service relationship turns into negotiation.",
+   "idea_zh": "一旦给家电一个声音和一点意志，平常的服务关系就变成了一场谈判。",
+   "method": "Sensors, custom software and language and speech models built into the appliances let them listen, respond and refuse.",
+   "method_zh": "装进家电里的传感器、定制软件以及语言和语音模型，让它们能够倾听、回应和拒绝。",
+   "keywords": [
+    "appliances",
+    "coffee machine",
+    "anthropomorphism",
+    "LLM",
+    "voice"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3799324/preview/",
+    "https://archive.aec.at/asset/3799327/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/290645/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2024, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "julia-vollmer--to-hurt-for-a-thought",
+   "creator_ids": [
+    "julia-vollmer"
+   ],
+   "title": "to hurt for a thought",
+   "year": 2025,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure",
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Visitors type prompts for an image generator on a heavy metal keyboard that heats up with each request, because it is wired by copper to the GPU doing the computation.",
+   "description_zh": "观众在一块沉重的金属键盘上为图像生成器输入提示词；键盘通过铜层连接到正在计算的显卡，每次请求都会让它变得更烫。",
+   "idea_en": "The energy cost of AI becomes a sensation in the fingertips, at the exact place where we ask it for things.",
+   "idea_zh": "AI 的能源代价变成指尖上的感觉，就在我们向它提出要求的地方。",
+   "method": "A copper layer under the keys is thermally connected to the heatsink of a GTX 1660 Ti running an image-generation model, so heat flows to the keyboard.",
+   "method_zh": "键帽下的铜层与运行图像生成模型的 GTX 1660 Ti 显卡散热器导热连接，热量因此传到键盘上。",
+   "keywords": [
+    "GPU",
+    "heat",
+    "energy",
+    "image generation",
+    "keyboard"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3898654/preview/",
+    "https://archive.aec.at/asset/3898653/preview/"
+   ],
+   "source_url": "https://juliavollmer.de/projects/to-hurt-for-a-thought/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "karen-palmer--consensus-gentium",
+   "creator_ids": [
+    "karen-palmer"
+   ],
+   "title": "Consensus Gentium",
+   "year": 2023,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "An interactive film played on a smartphone: to get permission to visit a sick grandmother in a near-future surveillance state, the viewer passes tests while the phone's camera tracks their eye gaze and scores their compliance.",
+   "description_zh": "一部在智能手机上观看的互动电影：在近未来的监控国家里，观众为获准探望生病的祖母而通过一系列测试，同时手机摄像头追踪其目光并为其服从程度打分。",
+   "idea_en": "The story reacts to where you look, so the viewer experiences being profiled by the device in their own hand.",
+   "idea_zh": "故事随你的目光而变化，观众因此亲身体验被自己手中的设备画像。",
+   "method": "Face detection and gaze tracking through the front-facing camera feed a branching narrative that classifies the viewer as dissident or compliant.",
+   "method_zh": "前置摄像头的人脸检测与视线追踪驱动分支叙事，把观众归类为异议者或服从者。",
+   "keywords": [
+    "interactive film",
+    "eye tracking",
+    "surveillance",
+    "bias",
+    "SXSW"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3800250/preview/",
+    "https://archive.aec.at/asset/3800253/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/290652/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "SXSW 2023",
+    "Prix Ars Electronica 2024, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "takayuki-todo--dog-on-a-leash",
+   "creator_ids": [
+    "takayuki-todo"
+   ],
+   "title": "Dynamics of a Dog on a Leash",
+   "year": 2024,
+   "field": "bodies",
+   "sub": "futility",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A four-legged robot dog chained to the floor lunges at visitors behind a KEEP OUT line, thrashes, falls and gets up again until it overheats and lies still.",
+   "description_zh": "一只被锁链拴在地上的四足机器狗扑向站在“禁止入内”线外的观众，挣扎、摔倒又爬起，直到过热停下、躺倒不动。",
+   "idea_en": "Held back only by a 'chain of ethics', the machine's struggle and collapse read as the suffering and death of an animal.",
+   "idea_zh": "只被一条“伦理的锁链”拉住，机器的挣扎与倒下被读作一只动物的受苦与死亡。",
+   "method": "A commercial quadruped robot runs an attack-and-escape behaviour against a fixed chain; the performance ends when motors overheat.",
+   "method_zh": "一台商用四足机器人对着固定的锁链执行扑击与挣脱行为；当电机过热时，表演结束。",
+   "keywords": [
+    "robot dog",
+    "quadruped",
+    "leash",
+    "Lobo",
+    "Ernest Thompson Seton"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Y5jYFLDJWao"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3837308/preview/",
+    "https://archive.aec.at/asset/3837309/preview/"
+   ],
+   "source_url": "http://www.takayukitodo.com/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2025, Honorary Mention (Artificial Life & Intelligence)",
+    "Ars Electronica Festival 2025"
+   ]
+  },
+  {
+   "id": "alexandra-daisy-ginsberg--machine-auguries",
+   "creator_ids": [
+    "alexandra-daisy-ginsberg"
+   ],
+   "title": "Machine Auguries",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A multi-channel sound installation in which a real dawn chorus is gradually taken over by artificial birds whose songs were generated by a neural network; real and synthetic birds call and answer each other as the room brightens.",
+   "description_zh": "一件多声道声音装置：随着房间逐渐变亮，真实的黎明鸟鸣慢慢被神经网络生成的人工鸟鸣取代，真鸟与假鸟彼此呼应。",
+   "idea_en": "When machines learn to sing like birds, the question becomes which voices will be left in a city that no longer supports the real ones.",
+   "idea_zh": "当机器学会像鸟一样歌唱，问题就变成：在一个养不活真鸟的城市里，最终会留下谁的声音。",
+   "method": "Two GANs were trained on solo recordings of chiffchaffs, great tits, redstarts, robins and thrushes; samples from successive training epochs are spatialised with real recordings.",
+   "method_zh": "用棕柳莺、大山雀、红尾鸲、知更鸟和鸫的独唱录音训练两个 GAN，把不同训练轮次的样本与真实录音一起进行空间化播放。",
+   "keywords": [
+    "GAN",
+    "birdsong",
+    "dawn chorus",
+    "sound installation",
+    "Somerset House"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9LGadsEvQCk"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2755174/preview/",
+    "https://archive.aec.at/asset/2755225/preview/",
+    "https://archive.aec.at/asset/2755243/preview/"
+   ],
+   "source_url": "https://www.daisyginsberg.com/work/machine-auguries",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Somerset House 24/7, London 2019",
+    "Prix Ars Electronica 2020, Honorary Mention (Interactive Art+)"
+   ]
+  },
+  {
+   "id": "dasha-ilina--center-for-technological-pain",
+   "creator_ids": [
+    "dasha-ilina"
+   ],
+   "title": "Center for Technological Pain",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "machines": [
+    "prosthesis-cyborg",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "speculative",
+   "description": "A mock company that sells DIY, open-source cures for pains caused by phones and laptops: cardboard glasses that stop you staring at screens, a headband that drips eye drops, a hands-free phone holder, plus yoga for phone users and workshops.",
+   "description_zh": "一家虚构公司，出售治疗手机和笔记本电脑所致病痛的 DIY 开源方案：阻止你盯屏幕的纸板眼镜、定时滴眼药水的头带、解放双手的手机支架，另有“手机瑜伽”和工作坊。",
+   "idea_en": "Devices are designed for attention, not for the neck, eyes and wrists that hold them; the body keeps the bill.",
+   "idea_zh": "设备为争夺注意力而设计，而不是为托着它们的脖子、眼睛和手腕；账单由身体来付。",
+   "method": "Low-tech objects of cardboard, servos and 3D-printed parts are published with build instructions and tested in public workshops.",
+   "method_zh": "用纸板、舵机和 3D 打印件制作的低技术物件，公开制作说明，并在公开工作坊中测试。",
+   "keywords": [
+    "tech pain",
+    "DIY",
+    "smartphone",
+    "body",
+    "open source"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yrEn_qFbtHY"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2921570/preview/",
+    "https://archive.aec.at/asset/2921573/preview/",
+    "https://archive.aec.at/asset/2921579/preview/"
+   ],
+   "source_url": "http://centerfortechpain.com/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2020, Honorary Mention (Interactive Art+)"
+   ]
+  },
+  {
+   "id": "mary-flanagan--help-me-know-the-truth",
+   "creator_ids": [
+    "mary-flanagan"
+   ],
+   "title": "[help me know the truth]",
+   "year": 2016,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "Visitors take a selfie, which is then overlaid with noise and shown on stations around the gallery; other visitors repeatedly pick which of two blurry versions better fits a label such as 'angel' or 'criminal', and a stereotyped face emerges from their choices.",
+   "description_zh": "观众先自拍，照片被加上噪声后出现在展厅各处的终端上；其他观众反复在两张模糊版本中选出更符合“天使”或“罪犯”等标签的一张，一张刻板印象的脸便从这些选择中浮现。",
+   "idea_en": "A classifier does not need to be a machine: the system simply collects and sharpens the prejudices people already carry.",
+   "idea_zh": "分类器不一定是机器：系统只是收集并放大人们原本就带着的偏见。",
+   "method": "Uses reverse correlation from cognitive neuroscience: random noise patterns on the portrait are averaged according to visitors' binary choices.",
+   "method_zh": "采用认知神经科学的反向相关法：根据观众的二选一，把叠加在肖像上的随机噪声进行平均。",
+   "keywords": [
+    "reverse correlation",
+    "stereotype",
+    "selfie",
+    "face perception",
+    "participatory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DiHGOqLwN9w"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2527247/preview/",
+    "https://archive.aec.at/asset/2527249/preview/",
+    "https://archive.aec.at/asset/2527254/preview/"
+   ],
+   "source_url": "http://maryflanagan.com/work/help-me-know-the-truth/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2018, Award of Distinction (Interactive Art+)"
+   ]
+  },
+  {
+   "id": "manuel-beltran--institute-of-human-obsolescence",
+   "creator_ids": [
+    "manuel-beltran"
+   ],
+   "title": "Institute of Human Obsolescence",
+   "year": 2015,
+   "field": "labour",
+   "sub": "automation",
+   "machines": [
+    "infrastructure",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "A speculative institute that prepares for humans made obsolete by machines: its workers lie still in suits that harvest their body heat to power computers mining cryptocurrency, and the value they 'produce' is logged.",
+   "description_zh": "一个为“被机器淘汰的人类”做准备的思辨机构：它的工人穿着采集体温的服装一动不动地躺着，体温发电驱动挖加密货币的电脑，他们“生产”的价值被逐一记录。",
+   "idea_en": "If machines take over mechanical and intellectual work, the remaining human labour may be to be a battery or a data source.",
+   "idea_zh": "如果机器接管了体力和脑力劳动，人类剩下的工作也许只是当电池或数据源。",
+   "method": "Thermoelectric body suits convert excess body heat into electricity that runs a small computer mining cryptocurrency; a second strand treats data production as unpaid labour.",
+   "method_zh": "温差发电服把多余体温转成电，驱动一台挖加密货币的小电脑；另一条线索把数据生产视作无偿劳动。",
+   "keywords": [
+    "automation",
+    "obsolescence",
+    "body heat",
+    "cryptocurrency",
+    "data labour"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZocIhWz8EAI"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2514709/preview/",
+    "https://archive.aec.at/asset/2514711/preview/",
+    "https://archive.aec.at/asset/2514714/preview/"
+   ],
+   "source_url": "http://speculative.capital",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2018, Honorary Mention (Interactive Art+)"
+   ]
+  },
+  {
+   "id": "sarah-petkus--noodlefeet",
+   "creator_ids": [
+    "sarah-petkus"
+   ],
+   "title": "Mother of Machine: NoodleFeet",
+   "year": 2016,
+   "field": "bodies",
+   "sub": "sculpture",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "NoodleFeet is an 'adolescent' robot with pool-noodle feet that walks, tastes the ground and grabs objects; its maker describes the ongoing build as raising a child who should develop its own ways of reacting to the world.",
+   "description_zh": "NoodleFeet 是一个长着泳池浮条脚的“青春期”机器人，会走路、会尝地面、会抓东西；制作者把这个没有终点的建造过程描述为抚养一个孩子，希望它形成自己回应世界的方式。",
+   "idea_en": "A robot built without a use case invites a different relation: care and curiosity instead of service.",
+   "idea_zh": "一个没有用途的机器人邀请另一种关系：照料与好奇，而不是服务。",
+   "method": "Legged robot of light metals, 3D-printed parts and found objects with sensors on feet and 'tongue' that trigger behaviours; hardware and code are rebuilt iteratively.",
+   "method_zh": "用轻金属、3D 打印件和现成物做成的腿式机器人，脚和“舌头”上的传感器触发各种行为；硬件和代码不断迭代重建。",
+   "keywords": [
+    "robot parenting",
+    "legged robot",
+    "maker",
+    "Hackaday"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lbf6xV47L8I"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2567402/preview/",
+    "https://archive.aec.at/asset/2567404/preview/",
+    "https://archive.aec.at/asset/2567408/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/236785/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2018, Honorary Mention (Interactive Art+)"
+   ]
+  },
+  {
+   "id": "frank-kolkman--opensurgery",
+   "creator_ids": [
+    "frank-kolkman"
+   ],
+   "title": "OpenSurgery",
+   "year": 2015,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "machines": [
+    "robot-arm",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "A do-it-yourself surgical robot for keyhole surgery at home, built from 3D-printed and laser-cut parts and surgical components bought online, prompted by uninsured Americans sharing self-treatment videos on YouTube.",
+   "description_zh": "一台可在家做腹腔镜手术的 DIY 手术机器人，用 3D 打印件、激光切割件和网购的手术部件组装而成，灵感来自美国无医保者在 YouTube 上分享自我治疗视频。",
+   "idea_en": "Medical robots are priced as luxury infrastructure; a hacked one shows how much of that price is about access, not technology.",
+   "idea_zh": "医疗机器人被当作奢侈的基础设施来定价；一台黑客改造的版本显示，这个价格更多关乎准入，而非技术。",
+   "method": "Laparoscopic instruments are mounted on a parallel robot driven by hobbyist motors and controllers; plans could in principle be replicated anywhere.",
+   "method_zh": "把腹腔镜器械装在由爱好者级电机和控制器驱动的并联机器人上；图纸理论上可在任何地方复制。",
+   "keywords": [
+    "surgery robot",
+    "DIY",
+    "healthcare",
+    "3D printing",
+    "Royal College of Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=88sOJr-xRDg"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2029667/preview/",
+    "https://archive.aec.at/asset/2029669/preview/",
+    "https://archive.aec.at/asset/2029671/preview/"
+   ],
+   "source_url": "http://www.opensurgery.net",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2016, Award of Distinction (Interactive Art+)"
+   ]
+  },
+  {
+   "id": "cod-act--pendulum-choir",
+   "creator_ids": [
+    "cod-act"
+   ],
+   "title": "Pendulum Choir",
+   "year": 2011,
+   "field": "coperformance",
+   "sub": "music",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "Nine a cappella singers stand strapped to platforms that 18 hydraulic jacks tilt up to 45 degrees; as the machine sways them against gravity the choir forms one sonorous, swinging body.",
+   "description_zh": "九位无伴奏合唱歌手被固定在由 18 个液压千斤顶驱动、最多倾斜 45 度的平台上；机器让他们逆着重力摇摆，合唱团变成一个会发声、会摆动的整体。",
+   "idea_en": "The machine is not the instrument here; the singers' bodies are, and the machine plays them.",
+   "idea_zh": "这里乐器不是机器，而是歌手的身体，由机器来演奏。",
+   "method": "Computer-controlled hydraulic platforms synchronised with a score for voices and electronics.",
+   "method_zh": "计算机控制的液压平台，与人声和电子声部的乐谱同步。",
+   "keywords": [
+    "hydraulics",
+    "choir",
+    "opera",
+    "kinetic performance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vsXs3GUrw64"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1581910/preview/",
+    "https://archive.aec.at/asset/1581911/preview/",
+    "https://archive.aec.at/asset/1581912/preview/"
+   ],
+   "source_url": "http://codact.ch/gb/pendugb.html",
+   "collections": [
+    "prix-ars-ai-life",
+    "vida-awards"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2013, Golden Nica (Interactive Art)",
+    "VIDA 14.0, Special Mention (2012)"
+   ]
+  },
+  {
+   "id": "matt-richardson--descriptive-camera",
+   "creator_ids": [
+    "matt-richardson"
+   ],
+   "title": "Descriptive Camera",
+   "year": 2012,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "prototype",
+   "description": "A camera without a screen that prints a text description instead of a picture: a few minutes after you press the shutter, a thermal printer spits out a sentence written by an anonymous Amazon Mechanical Turk worker.",
+   "description_zh": "一台没有屏幕的相机，拍下的不是照片而是文字描述：按下快门几分钟后，热敏打印机吐出一句由亚马逊 Mechanical Turk 上匿名工人写的话。",
+   "idea_en": "Before computer vision could caption images, 'machine seeing' was often a person paid cents to look.",
+   "idea_zh": "在计算机视觉能给图片配文之前，“机器之眼”常常是一个拿几美分报酬替机器看的人。",
+   "method": "A BeagleBone-based camera uploads the photo to Mechanical Turk; the returned description is printed on a receipt printer (about 3–6 minutes, US$1.25 per image).",
+   "method_zh": "基于 BeagleBone 的相机把照片上传到 Mechanical Turk，返回的描述由小票打印机打出（约 3–6 分钟，每张 1.25 美元）。",
+   "keywords": [
+    "Mechanical Turk",
+    "crowdsourcing",
+    "image description",
+    "NYU ITP"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8vkWb15Uudg"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1674864/preview/",
+    "https://archive.aec.at/asset/1674866/preview/",
+    "https://archive.aec.at/asset/1674868/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/196286/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2013, Honorary Mention (Interactive Art)"
+   ]
+  },
+  {
+   "id": "timo-toots--memopol-2",
+   "creator_ids": [
+    "timo-toots"
+   ],
+   "title": "Memopol-2",
+   "year": 2011,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "dataset"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A large machine into which visitors insert their national ID card or passport; it gathers what state databases and the internet hold about them and shows their data field on a big custom display, remembering each visitor's name and portrait.",
+   "description_zh": "一台大型机器，观众把身份证或护照插进去，它便收集国家数据库和互联网上关于此人的信息，在定制大屏上展示其数据场，并记住每位观众的名字和肖像。",
+   "idea_en": "In a digital state the ID card is the key to a profile you rarely see; the machine turns the background check on yourself.",
+   "idea_zh": "在数字国家里，身份证是一把通往你很少看到的个人档案的钥匙；这台机器让你对自己做背景调查。",
+   "method": "Reads the chip of Estonian ID cards and queries national registries and web sources; results are visualised on an array of LED panels.",
+   "method_zh": "读取爱沙尼亚身份证芯片，查询国家登记系统与网络来源，结果在 LED 面板阵列上可视化。",
+   "keywords": [
+    "Estonia",
+    "ID card",
+    "database",
+    "Big Brother",
+    "profiling"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xCr7UdVkmCk"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1439540/preview/",
+    "https://archive.aec.at/asset/1439541/preview/",
+    "https://archive.aec.at/asset/1439585/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/193063/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2012, Golden Nica (Interactive Art)"
+   ]
+  },
+  {
+   "id": "mark-shepard--sentient-city-survival-kit",
+   "creator_ids": [
+    "mark-shepard"
+   ],
+   "title": "Sentient City Survival Kit",
+   "year": 2009,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "infrastructure"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "A set of tools for surviving the near-future 'sentient' city: an umbrella that blocks CCTV face capture, underwear that vibrates near RFID readers, a café table that hides conversations from keyword-listening systems, and a navigation app that avoids your habitual routes.",
+   "description_zh": "一套在不远未来的“有感知的”城市中生存的工具：挡住监控摄像头抓拍人脸的雨伞、靠近 RFID 读取器会震动的内裤、让谈话躲开关键词监听系统的咖啡桌，以及故意避开你惯常路线的导航应用。",
+   "idea_en": "A city that remembers, correlates and anticipates needs counter-devices, and designing them reveals what the city is doing.",
+   "idea_zh": "一个会记忆、会关联、会预判的城市需要反制装置，而设计这些装置本身就揭示了城市在做什么。",
+   "method": "Working prototypes: an umbrella with infrared LEDs to blind cameras, RFID-detecting garments, a table that masks speech, and a 'Serendipitor' route app.",
+   "method_zh": "可用的原型：装有红外 LED 使摄像头致盲的雨伞、能探测 RFID 的衣物、掩盖谈话的桌子，以及名为“Serendipitor”的路线应用。",
+   "keywords": [
+    "ubiquitous computing",
+    "smart city",
+    "CCTV",
+    "RFID",
+    "Architectural League"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gHmECIAeVLE"
+   },
+   "images": [
+    "https://archive.aec.at/asset/696389/preview/"
+   ],
+   "source_url": "http://survival.sentientcity.net/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Toward the Sentient City, Architectural League of New York 2009",
+    "Prix Ars Electronica 2011, Honorary Mention (Interactive Art)"
+   ]
+  },
+  {
+   "id": "golan-levin--double-taker-snout",
+   "creator_ids": [
+    "golan-levin"
+   ],
+   "title": "Double-Taker (Snout)",
+   "year": 2008,
+   "field": "bodies",
+   "sub": "arms",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A 2.5-metre industrial robot arm dressed as a giant inchworm or trunk sits on a roof above a museum entrance; it turns an oversized googly eye towards passers-by, tracks them and performs 'double-takes' as if surprised by each person.",
+   "description_zh": "一只 2.5 米长、被装扮成巨型尺蠖或象鼻的工业机械臂，蹲在美术馆入口上方的屋顶上；它把一只超大的活动眼转向路人，追踪他们，还会做出“愣了一下再看”的动作，仿佛每个人都让它吃惊。",
+   "idea_en": "Surveillance becomes eye contact: a machine gaze staged as curiosity makes people feel seen in a way a CCTV camera never does.",
+   "idea_zh": "监控变成了对视：被演成好奇的机器目光，让人以监控摄像头从未有过的方式感到“被看见”。",
+   "method": "ABB industrial arm driven by a real-time machine-vision system that tracks bodies below and triggers expressive 'double-take' motions.",
+   "method_zh": "ABB 工业机械臂由实时机器视觉系统驱动，追踪下方行人并触发富有表情的“回头看”动作。",
+   "keywords": [
+    "robot arm",
+    "eye contact",
+    "Pittsburgh",
+    "Carnegie Museum",
+    "machine vision"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jXqYf4m-HA8"
+   },
+   "images": [
+    "https://archive.aec.at/asset/327892/preview/",
+    "https://archive.aec.at/asset/327893/preview/",
+    "https://archive.aec.at/asset/327894/preview/"
+   ],
+   "source_url": "https://www.flong.com/archive/projects/snout/index.html",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2009, Honorary Mention (Interactive Art)"
+   ]
+  },
+  {
+   "id": "max-dean--the-robotic-chair",
+   "creator_ids": [
+    "max-dean",
+    "raffaello-d-andrea",
+    "matt-donovan"
+   ],
+   "title": "The Robotic Chair",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-creature",
+    "vision-system"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "An ordinary-looking wooden chair collapses on the floor into its legs, seat and back, then slowly locates its parts and reassembles itself, over and over.",
+   "description_zh": "一把看似普通的木椅会突然散架成椅腿、椅面和椅背，然后慢慢找到自己的部件重新组装起来，一遍又一遍。",
+   "idea_en": "Watching a machine fall apart and patiently put itself back together turns a piece of furniture into a figure of resilience.",
+   "idea_zh": "看着一台机器散架又耐心地把自己拼回去，一件家具就成了“坚韧”的化身。",
+   "method": "Each part contains motors and electronics; an overhead camera system localises the pieces and guides them back together.",
+   "method_zh": "每个部件内藏电机和电子元件；顶部的摄像系统定位各部件并引导它们重新拼合。",
+   "keywords": [
+    "chair",
+    "self-assembly",
+    "failure",
+    "resilience",
+    "National Gallery of Canada"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cgBqSe6PSVA"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1320197/preview/",
+    "https://archive.aec.at/asset/1532592/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/119166/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2006, Honorary Mention (Interactive Art)"
+   ]
+  },
+  {
+   "id": "electric-circus--dirk-the-homeless-robot",
+   "creator_ids": [
+    "electric-circus"
+   ],
+   "title": "Dirk, the homeless robot",
+   "year": 2008,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "performance",
+   "description": "A lifelike animatronic 'homeless man' that sits and moves on streets and at festivals; passers-by talk to him, give him money or recoil before realising he is a machine.",
+   "description_zh": "一个逼真的电子动画“流浪汉”，坐在街头和节庆现场活动；路人和他说话、给他钱，或是在发现他是机器之前就已退避。",
+   "idea_en": "People will extend pity or unease to a machine before deciding whether it is alive; the android tests how we treat those at the edge of the street.",
+   "idea_zh": "人们会在弄清对方是否是活物之前，就先施舍怜悯或感到不安；这个仿真人测试的是我们如何对待街边的人。",
+   "method": "Animatronic figure built by inventor Fred Abels and puppeteer Mirjam Langemeijer, with moving head, eyes and hands, operated in public space.",
+   "method_zh": "由发明家 Fred Abels 与木偶师 Mirjam Langemeijer 制作的电子动画人偶，头、眼和手都会动，在公共空间中运行。",
+   "keywords": [
+    "android",
+    "animatronics",
+    "street theatre",
+    "homelessness"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cwX6CuUyeFw"
+   },
+   "images": [
+    "https://archive.aec.at/asset/452494/preview/",
+    "https://archive.aec.at/asset/452495/preview/"
+   ],
+   "source_url": "http://www.electric-circus.eu",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2010, Honorary Mention (Hybrid Art)"
+   ]
+  },
+  {
+   "id": "julian-oliver--men-in-grey",
+   "creator_ids": [
+    "julian-oliver",
+    "danja-vasiliev"
+   ],
+   "title": "Men in Grey",
+   "year": 2009,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "infrastructure",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "performance",
+   "description": "Two figures in grey suits with briefcases appear in public places; the briefcases intercept and manipulate the wireless traffic of people nearby and display what they find, staging a secret society that makes network surveillance tangible.",
+   "description_zh": "两个身穿灰西装、手提公文包的人出现在公共场所；公文包截获并篡改周围人的无线网络流量，并把发现的内容显示出来，演出一个让网络监控变得可感的秘密组织。",
+   "idea_en": "Only when people witness their own traffic being read do they sense the machines listening in the network.",
+   "idea_zh": "只有亲眼看到自己的流量被读取，人们才会感觉到网络中有机器在偷听。",
+   "method": "Briefcases contain Linux computers, antennas and screens that run wireless exploits and content manipulation in real time.",
+   "method_zh": "公文包里装着 Linux 电脑、天线和屏幕，实时运行无线漏洞利用与内容篡改。",
+   "keywords": [
+    "WiFi",
+    "network surveillance",
+    "critical engineering",
+    "intervention"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/464136/preview/",
+    "https://archive.aec.at/asset/464138/preview/",
+    "https://archive.aec.at/asset/464140/preview/"
+   ],
+   "source_url": "https://criticalengineering.org/projects/men-in-grey/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2010, Award of Distinction (Hybrid Art)",
+    "Aksioma, Ljubljana 2011"
+   ]
+  },
+  {
+   "id": "martin-riches--thinking-machine",
+   "creator_ids": [
+    "martin-riches",
+    "masahiro-miwa"
+   ],
+   "title": "Thinking Machine",
+   "year": 2008,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A mechanical ternary computer whose calculations are heard as melodies of three sounds; visitors watch and listen as the machine 'thinks' step by step.",
+   "description_zh": "一台机械三进制计算机，它的运算被听成由三种声音组成的旋律；观众看着、听着这台机器一步一步地“思考”。",
+   "idea_en": "Computation normally happens out of sight and out of time; here each logical step takes place in real time and in real sound.",
+   "idea_zh": "计算通常在看不见、感觉不到时间的地方发生；在这里，每一步逻辑都在真实的时间和声音中发生。",
+   "method": "A fixed-algorithm ternary logic machine built from mechanical parts, with sounding elements as output (composition by Masahiro Miwa, machine by Martin Riches).",
+   "method_zh": "由机械部件构成、算法固定的三进制逻辑机，以发声元件作为输出（作曲 三轮真弘，机器 Martin Riches）。",
+   "keywords": [
+    "ternary computer",
+    "reverse simulation music",
+    "Turing machine",
+    "sound"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wnOaiUVFl_w"
+   },
+   "images": [
+    "https://archive.aec.at/asset/1310382/preview/",
+    "https://archive.aec.at/asset/1310384/preview/",
+    "https://archive.aec.at/asset/1409209/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/127530/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2008, Honorary Mention (Hybrid Art)"
+   ]
+  },
+  {
+   "id": "ruben-pater--drone-acoustics",
+   "creator_ids": [
+    "ruben-pater",
+    "goncalo-f-cardoso"
+   ],
+   "title": "A Study into 21st Century Drone Acoustics",
+   "year": 2016,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "An audio-visual composition and record built from field recordings of 17 kinds of drones, from consumer quadcopters to military reapers, tracing the sound life and death of a flying drone and the fear its hum causes where drones strike.",
+   "description_zh": "一部视听作品和唱片，用 17 种无人机的田野录音构成，从消费级四旋翼到军用无人机，追溯一架无人机在声音上的“生与死”，以及它的嗡鸣在遭受无人机打击的地区造成的恐惧。",
+   "idea_en": "For people living under drones, the machine is first a sound; listening to it is a form of knowledge and of fear.",
+   "idea_zh": "对生活在无人机之下的人来说，机器首先是一种声音；听它，既是一种认知，也是一种恐惧。",
+   "method": "Field recordings of drone motors and propellers are edited into a composition with a visual score identifying each drone type.",
+   "method_zh": "把无人机电机与螺旋桨的田野录音剪辑成作品，并配以标识每种无人机的视觉谱。",
+   "keywords": [
+    "drone",
+    "field recording",
+    "Drone Survival Guide",
+    "sound",
+    "warfare"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_69goMEmumk"
+   },
+   "images": [
+    "https://archive.aec.at/asset/2230549/preview/",
+    "https://archive.aec.at/asset/2230551/preview/",
+    "https://archive.aec.at/asset/2230552/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/228089/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2017, Award of Distinction (Hybrid Art)",
+    "ZKM Global Control and Censorship 2015–16"
+   ]
+  },
+  {
+   "id": "boris-petrovsky--das-vergeraet",
+   "creator_ids": [
+    "boris-petrovsky"
+   ],
+   "title": "Das Vergerät",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "voice-listening",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "About 100 used household appliances (blenders, drills, hair dryers, vacuum cleaners, chainsaws) are wired into one meta-machine; visitors type messages that the appliances 'speak' back as a roaring machine idiom.",
+   "description_zh": "约 100 件二手家用电器（搅拌机、电钻、吹风机、吸尘器、电锯）被连成一台元机器；观众输入的讯息被这些电器以轰鸣的“机器方言”说出来。",
+   "idea_en": "Appliances have their own language of motors and noise, usually hidden behind friendly product design.",
+   "idea_zh": "家用电器有自己由电机与噪声构成的语言，平时被友好的产品设计掩盖。",
+   "method": "Software translates text into on/off patterns switched across the networked appliances, with microphones and a megaphone relaying the result.",
+   "method_zh": "软件把文字转换成在联网电器间切换的开关序列，再由麦克风和扩音器传出。",
+   "keywords": [
+    "household appliances",
+    "noise",
+    "machine language",
+    "performative sculpture"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/1741092/preview/",
+    "https://archive.aec.at/asset/1741093/preview/",
+    "https://archive.aec.at/asset/1741094/preview/"
+   ],
+   "source_url": "http://www.petrovsky.de/DAS%20VERGERAET-66",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2014, Honorary Mention (Interactive Art)",
+    "lille3000 2014"
+   ]
+  },
+  {
+   "id": "gilberto-esparza--urban-parasites",
+   "creator_ids": [
+    "gilberto-esparza"
+   ],
+   "title": "Parásitos Urbanos (Urban Parasites)",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A family of small robots built from discarded electronics that hang on city power lines and walls, stealing electricity and making sounds like animals living in the urban ecosystem.",
+   "description_zh": "一群用废弃电子零件制作的小机器人，挂在城市电线和墙面上偷电，并像生活在城市生态中的动物一样发出声响。",
+   "idea_en": "Treat the city's cables and waste as a habitat, and robots become a new wild species that lives off it.",
+   "idea_zh": "把城市的电线和垃圾当作栖息地，机器人就成了靠它们为生的一种新野生物种。",
+   "method": "Recycled motors, circuits and speakers are assembled into 'species' (with Latin names such as Furtum electricus) that tap live power lines and react to light and noise.",
+   "method_zh": "回收的马达、电路和扬声器被组装成不同“物种”（带有 Furtum electricus 这样的拉丁学名），它们接入带电线路取电，并对光与噪音作出反应。",
+   "keywords": [
+    "urban robots",
+    "artificial life",
+    "e-waste",
+    "Mexico City",
+    "Fundación Telefónica Cultivos"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=X64KRaQpyCY"
+   },
+   "images": [
+    "http://gilbertoesparza.net/wp-content/uploads/2023/01/COLGADO-Furtum-electricus-sinuatum-1024x683.jpg",
+    "http://gilbertoesparza.net/wp-content/uploads/2023/01/DIABLITO-_-LITTLE-DEVIL-Furtum-electricus-imitor-1024x683.jpg"
+   ],
+   "source_url": "https://gilbertoesparza.net/portfolio/parasitos-urbanos/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 9.0, Incentive for Ibero-American Production (2006)",
+    "Intermediae Madrid 2011",
+    "Fundación Telefónica Lima, Cultivos (2014)"
+   ]
+  },
+  {
+   "id": "gilberto-esparza--nomadic-plants",
+   "creator_ids": [
+    "gilberto-esparza"
+   ],
+   "title": "Plantas Nómadas (Nomadic Plants)",
+   "year": 2008,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An autonomous walking robot sucks polluted river water into microbial fuel cells; the bacteria clean the water and produce electricity, and the cleaned water feeds plants growing on the robot's back.",
+   "description_zh": "一个会行走的自主机器人把受污染的河水吸进微生物燃料电池；细菌净化水并发电，净化后的水浇灌长在机器人背上的植物。",
+   "idea_en": "Design a new species whose metabolism is shared between robot, microbes and plants, and which repairs its habitat.",
+   "idea_zh": "设计一个新物种：它的新陈代谢由机器人、微生物和植物共同完成，并能修复所在的栖息地。",
+   "method": "Microbial fuel cells with native bacteria biodegrade waste and charge batteries, solar panels drive locomotion, and the robot sounds when pollution is high; tested on the Lerma river.",
+   "method_zh": "内含本地细菌的微生物燃料电池降解污物并为电池充电，太阳能板驱动行走，污染严重时机器人会发出声音；在莱尔马河畔测试。",
+   "keywords": [
+    "microbial fuel cell",
+    "walking robot",
+    "Río Lerma",
+    "bio-cybernetic organism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=137KANbB1FA"
+   },
+   "images": [
+    "https://gilbertoesparza.net/wp-content/uploads/2021/02/proceso176-1024x683.jpg",
+    "https://archive.aec.at/archival/197532/preview"
+   ],
+   "source_url": "https://gilbertoesparza.net/portfolio/plantas-nomadas/",
+   "collections": [
+    "vida-awards",
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "VIDA 13.0, Second Prize",
+    "Prix Ars Electronica 2013, Hybrid Art, Honorary Mention"
+   ]
+  },
+  {
+   "id": "gilberto-esparza--autophotosynthetic-plants",
+   "creator_ids": [
+    "gilberto-esparza"
+   ],
+   "title": "Plantas Autofotosintéticas (Autophotosynthetic Plants)",
+   "year": 2013,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Modular microbial fuel cells fed with city sewage produce electricity that lights a central aquarium, where plants, algae, protozoa and crustaceans live in balance; their waste is pumped back to the cells.",
+   "description_zh": "以城市污水为燃料的模块化微生物燃料电池发电，点亮中央水缸；缸里的植物、微藻、原生动物和甲壳类保持平衡，它们的排泄物再被泵回电池。",
+   "idea_en": "A machine can be the organ that closes an ecosystem's loop: sewage bacteria make the light others need.",
+   "idea_zh": "机器可以是闭合生态循环的器官：污水中的细菌制造出其他生物所需的光。",
+   "method": "Electrogenic bacteria in modular fuel cells release power as light pulses for aquatic plants; an electronic monitoring network pumps water between the modules and the core ecosystem.",
+   "method_zh": "模块化燃料电池中的产电细菌把电能以光脉冲形式释放给水生植物；电子监测网络在各模块与核心生态系统之间泵送水体。",
+   "keywords": [
+    "microbial fuel cell",
+    "wastewater",
+    "closed ecosystem",
+    "Golden Nica"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JOaeyf2qUKY"
+   },
+   "images": [
+    "https://gilbertoesparza.net/wp-content/uploads/2023/01/nucleo-PAF-1024x684.jpeg",
+    "https://archive.aec.at/archival/212649/preview"
+   ],
+   "source_url": "https://gilbertoesparza.net/portfolio/plantas-autofotosinteticasautophotosynthetic-plants/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2015, Hybrid Art, Golden Nica"
+   ]
+  },
+  {
+   "id": "gilberto-esparza--korallysis",
+   "creator_ids": [
+    "gilberto-esparza"
+   ],
+   "title": "Korallysis",
+   "year": 2023,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A hybrid organism of ceramic segments and coral colonies placed on the seabed, which harvests energy from currents and waves to drive electrolysis that deposits minerals and speeds coral growth.",
+   "description_zh": "一个由陶瓷构件与珊瑚群落组成的混合“生物体”，安放在海底，从洋流和波浪中获取能量驱动电解，使矿物沉积、加速珊瑚生长。",
+   "idea_en": "A machine can live in mutual benefit with a reef rather than just monitor it.",
+   "idea_zh": "机器可以与珊瑚礁互利共生，而不只是监测它。",
+   "method": "Kinetic generators power mineral accretion (calcium carbonate) on the ceramic structure, which also shelters juvenile fish.",
+   "method_zh": "动能发电装置驱动碳酸钙在陶瓷结构上沉积，这个结构同时为幼鱼提供庇护。",
+   "keywords": [
+    "coral restoration",
+    "mineral accretion",
+    "electrolysis",
+    "Mexico"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ppD3TJ4X8K4"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2024/06/korallysis_3_2-c-gilberto-esparza-1024x576.jpg"
+   ],
+   "source_url": "https://korallysis.org",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2024, Honorary Mention"
+   ]
+  },
+  {
+   "id": "ralf-baecker--the-conversation",
+   "creator_ids": [
+    "ralf-baecker"
+   ],
+   "title": "The Conversation",
+   "year": 2009,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A floating metal ring held by 99 rubber bands and solenoids pulls itself in all directions; a closed network of simple units keeps negotiating tension with no input and no output, a machine talking only to itself.",
+   "description_zh": "一个悬浮的金属圆环被 99 根橡皮筋和电磁铁向四面八方拉扯；一个没有输入也没有输出的简单单元网络不停地“协商”张力，是一台只对自己说话的机器。",
+   "idea_en": "A computing system does not need us to have an inner life of constant internal traffic.",
+   "idea_zh": "计算系统并不需要我们，也能有一场持续不断的内部往来。",
+   "method": "Each solenoid unit reads its neighbours' positions through the shared ring and reacts, forming an analog–digital feedback network with emergent, never-settling dynamics.",
+   "method_zh": "每个电磁单元通过共享的圆环感知邻居的位置并作出反应，构成一个模拟与数字混合的反馈网络，产生永不平静的涌现动态。",
+   "keywords": [
+    "closed loop",
+    "self-organisation",
+    "feedback",
+    "sculpture"
+   ],
+   "images": [
+    "https://rlfbckr.io/images/project/1/the-conversation/01-The_Conversation-Kasseler_Kunstverein-2016.jpg",
+    "https://rlfbckr.io/images/project/1/the-conversation/02-The_Conversation-Detail-2009.jpg"
+   ],
+   "source_url": "https://rlfbckr.io/project/the-conversation/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 13.0, Special Mention"
+   ]
+  },
+  {
+   "id": "nicholas-stedman--adb-after-deep-blue",
+   "creator_ids": [
+    "nicholas-stedman"
+   ],
+   "title": "ADB (after Deep Blue)",
+   "year": 2012,
+   "field": "intimacy",
+   "sub": "companions",
+   "machines": [
+    "social-robot",
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A soft, segmented robot that wraps itself around a person's hand or arm, holding, squeezing and moving in response to how it is held.",
+   "description_zh": "一个柔软、分节的机器人，会缠绕在人的手或手臂上，根据被握持的方式去抱紧、挤压和移动。",
+   "idea_en": "Machine companionship can be built on touch alone, without faces, eyes or speech.",
+   "idea_zh": "机器的陪伴可以只建立在触觉上，不需要脸、眼睛或语言。",
+   "method": "Chained modules with motors and pressure/position sensors sense the grip of the user and respond with coordinated bending; the title nods to IBM's chess computer.",
+   "method_zh": "串联的模块内有马达和压力/位置传感器，感知使用者的握力并以协调的弯曲回应；标题向 IBM 国际象棋电脑致意。",
+   "keywords": [
+    "tactile robot",
+    "touch",
+    "modular robot",
+    "Deep Blue"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EDM2PfKdeKI"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 14.0, Special Mention (2012)"
+   ]
+  },
+  {
+   "id": "jed-berk--alavs-2",
+   "creator_ids": [
+    "jed-berk"
+   ],
+   "title": "ALAVs 2.0 (Autonomous Light Air Vessels)",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "vehicle-drone",
+    "robot-creature"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A flock of small helium blimps drifts through a space, avoiding walls, flocking with one another, approaching visitors and 'eating' when they run low; visitors can call them by mobile phone.",
+   "description_zh": "一群小型氦气飞艇在空间中漂浮，避开墙壁、彼此成群、靠近观众，电量不足时会去“进食”；观众还能用手机呼叫它们。",
+   "idea_en": "Drones read differently when they behave like a gentle, needy flock than like tools.",
+   "idea_zh": "当无人机像一群温和、有需要的生物而不像工具那样行动时，我们对它的感受完全不同。",
+   "method": "Each vessel carries propellers, infrared and sonar sensors and a microcontroller running flocking and obstacle-avoidance behaviours, plus a phone interface for human messages.",
+   "method_zh": "每艘飞艇配有螺旋桨、红外与声呐传感器和运行集群、避障行为的微控制器，并有接收人类手机信息的接口。",
+   "keywords": [
+    "blimp",
+    "flocking",
+    "multi-agent robotics",
+    "artificial life"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8CKrjCUMhdA"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 10.0, Special Mention (2007)",
+    "Taipei Digital Art Festival"
+   ]
+  },
+  {
+   "id": "saso-sedlacek--beggar-robot",
+   "creator_ids": [
+    "saso-sedlacek"
+   ],
+   "title": "Beggar Robot",
+   "year": 2006,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "social-robot"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A small robot built from recycled computer parts stands next to ATMs and shop entrances and begs passers-by for money in a polite electronic voice, stretching out little hands and thanking donors.",
+   "description_zh": "一台用回收电脑零件做成的小机器人站在提款机和商店门口，用礼貌的电子声向路人乞讨，伸出小手，并向捐助者道谢。",
+   "idea_en": "People give to a begging machine more easily than to a begging person: automation can make even poverty comfortable to look at.",
+   "idea_zh": "人们给乞讨的机器钱，比给乞讨的人更爽快：自动化甚至能让贫困变得“好看”。",
+   "method": "Recycled PC hardware running Linux drives a face display, speech and a disc-drive mechanism that opens and closes the hands; open-source DIY instructions let others build copies.",
+   "method_zh": "运行 Linux 的回收电脑硬件驱动面部显示、语音和由光驱机构控制开合的双手；开源 DIY 说明让任何人都可以复制它。",
+   "keywords": [
+    "begging",
+    "public intervention",
+    "e-waste",
+    "open source",
+    "service robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kkstnT0iIA0"
+   },
+   "images": [
+    "https://live.staticflickr.com/7379/12726364163_d5b5bf0162_b.jpg",
+    "https://live.staticflickr.com/7442/12727484193_7faef8d7cf_b.jpg"
+   ],
+   "source_url": "https://sasosedlacek.com/beggar-robot/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 11.0, Special Mention (2008)",
+    "Taipei Fine Arts Museum 2008"
+   ]
+  },
+  {
+   "id": "chris-sugrue--delicate-boundaries",
+   "creator_ids": [
+    "chris-sugrue"
+   ],
+   "title": "Delicate Boundaries",
+   "year": 2007,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "cybernetic-alife",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Small glowing digital bugs swarm on a screen; when a visitor touches it, they crawl out of the screen onto the visitor's hand and arm and explore the body before returning.",
+   "description_zh": "发光的小数字虫在屏幕上成群游走；观众一触碰屏幕，它们就从屏幕里爬到观众的手和手臂上，在身体上探索一番再回去。",
+   "idea_en": "Artificial life becomes unsettling when it leaves the frame and treats your body as terrain.",
+   "idea_zh": "当人工生命离开画框、把你的身体当作地形时，它就变得令人不安。",
+   "method": "A camera tracks hands and arms touching the screen, and an overhead projector continues the flocking simulation on the body's surface.",
+   "method_zh": "摄像头追踪接触屏幕的手和手臂，上方的投影仪把群体模拟延续到身体表面。",
+   "keywords": [
+    "swarm",
+    "projection",
+    "artificial life",
+    "touch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QJ-uUnsFdxg"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 10.0, Special Mention (2007)"
+   ]
+  },
+  {
+   "id": "emanuel-andel--knife-hand-chop-bot",
+   "creator_ids": [
+    "emanuel-andel"
+   ],
+   "title": "Knife.Hand.Chop.Bot",
+   "year": 2008,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "robot-arm",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A robot plays the five-finger knife game on the visitor's spread hand, stabbing between the fingers faster and faster; the player's sweat and nerves feed back into the machine's aim.",
+   "description_zh": "机器人在观众张开的手上玩“五指插刀”游戏，越来越快地在指缝间落刀；玩家的汗水与紧张又反过来影响机器的瞄准。",
+   "idea_en": "Trusting a machine is a bodily wager, and our fear can be the very thing that makes it fail.",
+   "idea_zh": "信任机器是一场身体的赌注，而我们的恐惧可能正是让它失手的原因。",
+   "method": "A metal and acrylic frame moves a vertical knife over a hand plate; skin-conductance contacts trigger warning sounds and perturb the computer-controlled knife positions.",
+   "method_zh": "金属和亚克力框架带动一把竖直的刀在手掌台上方移动；皮肤电导触点触发警示声，并扰动由计算机控制的落刀位置。",
+   "keywords": [
+    "knife game",
+    "galvanic skin response",
+    "risk",
+    "human-robot game"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=t4uMZOcsxxs"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 11.0, Special Mention (2008)",
+    "Share Festival Turin 2008"
+   ]
+  },
+  {
+   "id": "karolina-sobecka--sniff",
+   "creator_ids": [
+    "karolina-sobecka"
+   ],
+   "title": "Sniff",
+   "year": 2009,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A projected virtual dog on a street-facing shop window follows passers-by, sniffs at them, and becomes friendly or hostile depending on how each person moves and how they treated it before.",
+   "description_zh": "临街橱窗上投影的虚拟狗跟随路人、嗅闻他们，并根据每个人的动作以及之前对它的态度，变得友善或敌意。",
+   "idea_en": "Give computer vision a dog's body and its judgements about us become something we feel.",
+   "idea_zh": "给计算机视觉安上一只狗的身体，它对我们的判断就变成了我们能切身感到的东西。",
+   "method": "Made with James George: a camera and machine-vision software track and distinguish people, read posture and gestures, and drive a game-engine dog whose behaviour accumulates memory of each person.",
+   "method_zh": "与 James George 合作：摄像头与机器视觉软件追踪并区分行人，读取姿态和手势，驱动游戏引擎中的狗，它的行为会累积对每个人的记忆。",
+   "keywords": [
+    "virtual dog",
+    "machine vision",
+    "public projection",
+    "behaviour"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HEsOktyLeGs"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 12.0, Special Mention"
+   ]
+  },
+  {
+   "id": "shing-tat-chung--superstitious-fund",
+   "creator_ids": [
+    "shing-tat-chung"
+   ],
+   "title": "The Superstitious Fund Project",
+   "year": 2012,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A real investment fund whose trading algorithm buys and sells only on superstition, from moon phases to fear of the number 13, with the artist appearing as fund manager in financial-TV style interviews.",
+   "description_zh": "一个真实的投资基金，其交易算法只依据迷信买卖，从月相到对数字 13 的恐惧；艺术家则以基金经理的身份出现在财经电视式的访谈中。",
+   "idea_en": "Algorithmic trading already asks for faith; a superstitious algorithm only makes that faith visible.",
+   "idea_zh": "算法交易本来就要求信仰；一个迷信的算法只是让这种信仰显形。",
+   "method": "A trading bot derives 'lucky' values from astrology and numerology and places trades with money from real investors over roughly a year.",
+   "method_zh": "交易程序根据占星术和数字命理计算“幸运值”，在约一年间用真实投资者的钱进行交易。",
+   "keywords": [
+    "algorithmic trading",
+    "superstition",
+    "finance",
+    "Royal College of Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pgSC9Ziudhg"
+   },
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 14.0, Special Mention (2012)"
+   ]
+  },
+  {
+   "id": "ruairi-glynn--performative-ecologies",
+   "creator_ids": [
+    "ruairi-glynn"
+   ],
+   "title": "Performative Ecologies",
+   "year": 2007,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "robot-creature",
+    "vision-system"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "Hanging robotic 'dancers' with a camera head and a glowing tail try out gestures on visitors, keep the moves that hold people's attention, and trade successful routines with each other.",
+   "description_zh": "悬挂的机器人“舞者”有摄像头头部和发光尾巴，它们对观众试演各种动作，保留能留住人们注意力的动作，并彼此交换成功的“套路”。",
+   "idea_en": "A robot that optimises for our attention learns to overact, like any performer, or any feed.",
+   "idea_zh": "为我们的注意力做优化的机器人会学会“用力过猛”，就像任何表演者，也像任何信息流。",
+   "method": "Face detection estimates attentiveness, and a genetic algorithm scores and evolves each robot's movement repertoire, sharing fit behaviours over a wireless network.",
+   "method_zh": "人脸检测估计观众的专注程度，遗传算法据此为每个机器人的动作库评分并使其演化，并通过无线网络共享表现好的行为。",
+   "keywords": [
+    "genetic algorithm",
+    "attention",
+    "responsive architecture",
+    "Interactive Architecture Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xvKLU2jYLaw"
+   },
+   "images": [
+    "https://www.ruairiglynn.co.uk/wp-content/uploads/2025/10/pe-1.jpg",
+    "https://www.ruairiglynn.co.uk/wp-content/uploads/2025/10/pe-2.jpg"
+   ],
+   "source_url": "https://ruairiglynn.co.uk/portfolio/performative-ecologies/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 11.0, Second Prize (2008)"
+   ]
+  },
+  {
+   "id": "pedro-lopes--ad-infinitum",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Ad Infinitum",
+   "year": 2016,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A 'parasite' machine clamps a visitor's arm in cuffs and electrically stimulates their muscles so they crank a wheel that feeds it energy; the only way out is to persuade another visitor to take your place.",
+   "description_zh": "一台“寄生”机器用手铐扣住观众的手臂，电刺激其肌肉，让人摇动曲柄为它供能；唯一的脱身办法是说服另一位观众来替你。",
+   "idea_en": "Reverse the roles: here the machine is the user and the human is the resource.",
+   "idea_zh": "角色倒转：在这里，机器是使用者，人是资源。",
+   "method": "With Robert Kovacs: electrical muscle stimulation drives the visitor's forearm to turn a generator, and the cuffs release only when a second arm is detected in the other station.",
+   "method_zh": "与 Robert Kovacs 合作：肌肉电刺激驱动观众前臂转动发电机，只有在另一侧工位检测到第二只手臂时手铐才会松开。",
+   "keywords": [
+    "electrical muscle stimulation",
+    "parasite",
+    "energy harvesting",
+    "Humans Need Not Apply"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UsL48gkh3GI"
+   },
+   "images": [
+    "https://a-parasite.org/parasite_files/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Sil.jpg",
+    "https://a-parasite.org/parasite_files/MG_9829.jpg"
+   ],
+   "source_url": "https://a-parasite.org/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 16.0, Incentive for Production (as 'Parasite', 2014)",
+    "Science Gallery Dublin, Humans Need Not Apply (2017)",
+    "Ars Electronica 2017"
+   ]
+  },
+  {
+   "also": [
+    "perception"
+   ],
+   "keywords": [
+    "Mechanical Turk",
+    "click work",
+    "data annotation",
+    "refugees",
+    "drones",
+    "Kurdistan"
+   ],
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2026, Grand Prize – Artistic Exploration"
+   ],
+   "id": "hito-steyerl--mechanical-kurds",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "Mechanical Kurds",
+   "year": 2025,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "vision-system",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A video installation in which three Kurdish-Syrian refugees in a camp near Erbil describe annotating thousands of images for machine learning; annotation boxes label children, objects and buildings in the camp as the footage is algorithmically turned into Alpine or German scenery and then cut by images of a drone strike.",
+   "description_zh": "一件录像装置：埃尔比勒附近难民营中的三位叙利亚库尔德难民讲述他们如何为机器学习标注成千上万张图像；画面中，标注框给营地里的孩子、物件和建筑贴上标签，影像又被算法改造成阿尔卑斯山景或德国城市，最后被一次无人机袭击的画面打断。",
+   "idea_en": "The 'autonomous' vision of cars and drones is trained by hidden workers, sometimes the very people those machines later target.",
+   "idea_zh": "汽车和无人机的“自主”视觉由隐形的劳动者训练出来，而他们有时正是这些机器日后瞄准的人。",
+   "method": "Single-channel HD film with interviews and on-screen bounding-box overlays, image-to-image transformation of camp footage, and a spatial installation echoing annotation frames.",
+   "method_zh": "单频高清影片：访谈、画面上的标注框叠加、对营地影像做图像到图像的算法转换，并配以呼应标注框的空间装置。",
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/mechanical-kurds_hito-steyerl_2025-04-10-um-16.20.51-1024x576.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/mechanical-kurds/"
+  },
+  {
+   "also": [
+    "speculative"
+   ],
+   "keywords": [
+    "autonomous vehicles",
+    "pedestrians",
+    "gesture recognition",
+    "interface",
+    "RCA",
+    "Imperial College"
+   ],
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2017, Honorary Mention"
+   ],
+   "id": "humanising-autonomy--blink",
+   "creator_ids": [
+    "humanising-autonomy"
+   ],
+   "title": "Blink: Humanising Autonomy",
+   "year": 2017,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "Light panels on the four corners of an autonomous car show the silhouettes of pedestrians it has detected; if a pedestrian's intent is unclear, their silhouette flashes and a tone asks them, and a hand gesture answers, turning the silhouette red or green.",
+   "description_zh": "自动驾驶汽车四角的灯板显示它检测到的行人轮廓；当行人的意图不明时，轮廓闪烁并发出提示音询问，行人用手势回答，轮廓随之变红或变绿。",
+   "idea_en": "A self-driving car could show what it sees and ask, instead of silently deciding who is in its way.",
+   "idea_zh": "自动驾驶汽车可以展示它看到了什么、并开口询问，而不是默默决定谁挡了路。",
+   "method": "Pedestrian detection feeds silhouette displays on the car body; a supervised machine-learning model trained on culture-specific gestures reads pedestrians' replies.",
+   "method_zh": "行人检测结果显示在车身的轮廓屏上；一个以不同文化手势数据训练的监督学习模型读取行人的回应。",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=B7J8aOFQo70"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2017/05/humanisingautonomy.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/blink-humanising-autonomy/"
+  },
+  {
+   "also": [
+    "afterlife"
+   ],
+   "keywords": [
+    "memory",
+    "disability",
+    "brain injury",
+    "personal AI",
+    "journal",
+    "projection"
+   ],
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2020, Honorary Mention"
+   ],
+   "id": "m-eifler--prosthetic-memory",
+   "creator_ids": [
+    "m-eifler"
+   ],
+   "title": "Prosthetic Memory",
+   "year": 2020,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing self-augmentation system made to replace the artist's long-term memory, damaged by a childhood brain injury: when a page of their handwritten journal lies on the desk, a camera recognises it and projects the video memory recorded that day beside it.",
+   "description_zh": "一套持续进行的自我增强系统，用来替代艺术家因童年脑损伤而受损的长期记忆：当手写日记的某一页摊在桌上，摄像头认出这一页，并在旁边投出当天录下的视频记忆。",
+   "idea_en": "When a small, personal model holds your memories, remembering becomes an act of machine recognition, and others can watch it.",
+   "idea_zh": "当一个小小的个人模型替你保存记忆，回忆就变成一次机器识别，而且别人也能旁观。",
+   "method": "A camera over the journal feeds a custom-trained image classifier that identifies the page and triggers the matching daily video projection; later versions add a deepfake of the artist reading the pages.",
+   "method_zh": "日记上方的摄像头把画面交给定制训练的图像分类器，识别页码后触发对应的日常视频投影；后续版本加入艺术家本人的深度伪造形象朗读日记。",
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2020/06/prostheticmemory-1024x512.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/prosthetic-memory/"
+  },
+  {
+   "also": [
+    "power"
+   ],
+   "keywords": [
+    "9/11",
+    "television",
+    "vaporwave",
+    "corecore",
+    "TikTok",
+    "auto-editing",
+    "Kunstmuseum Bonn"
+   ],
+   "collections": [
+    "human-ai-art-award"
+   ],
+   "exhibited": [
+    "3rd Human AI Art Award 2026, Human AI Art Space, Kunstmuseum Bonn"
+   ],
+   "id": "christopher-kulendran-thomas--peace-core-surround",
+   "creator_ids": [
+    "christopher-kulendran-thomas"
+   ],
+   "title": "Peace Core (surround)",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "recommender-platform",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A constellation of screens streams American television first broadcast in the moments before the attacks of 11 September 2001, endlessly re-cut in real time by an AI editor, so the last ordinary minutes are replayed in a loop that never reaches the event.",
+   "description_zh": "一组屏幕持续播放 2001 年 9 月 11 日袭击发生前几分钟首播的美国电视画面，由一个 AI 剪辑器实时、无止境地重新剪辑，那几分钟寻常时光被循环播放，永远不会抵达事件本身。",
+   "idea_en": "An editing algorithm trained on the emotional logic of the feed can hold history in suspension forever, producing mood instead of meaning.",
+   "idea_zh": "一个学会了信息流情绪逻辑的剪辑算法，可以把历史永远悬置，只产出情绪而不产出意义。",
+   "method": "An AI model trained on the compositional methods of vaporwave music and the editing style of early 'corecore' TikTok videos auto-edits archival TV footage live across multiple screens; the piece has unlimited duration.",
+   "method_zh": "一个以蒸汽波音乐的构成方法和早期 TikTok“corecore”视频剪辑风格训练的 AI 模型，在多块屏幕上实时自动剪辑电视档案影像，作品时长无限。",
+   "images": [
+    "https://www.art-collection-telekom.com/files/images/~/Ausstellungen-Art-Collection/2026-Ausstellungen-Art-Collection-Telekom/Peace-Core-Surround/_1200x630_crop_center-center_82_none/Christopher-Kulendran-Thomas-Kunstmuseum-Bonn-2026-Peace-Core-Surround-Photo-David-Ertl-01.jpg",
+    "https://www.art-collection-telekom.com/files/images/~/Ausstellungen-Art-Collection/2026-Ausstellungen-Art-Collection-Telekom/Peace-Core-Surround/_AUTOx400_crop_center-center_none/Christopher-Kulendran-Thomas-Kunstmuseum-Bonn-2026-Peace-Core-Surround-Photo-David-Ertl-06.jpg"
+   ],
+   "source_url": "https://www.art-collection-telekom.com/en/exhibitions/peace-core-surround-christopher-thomas-kulendran-3-human-ai-art-award"
+  },
+  {
+   "also": [
+    "perception"
+   ],
+   "keywords": [
+    "CCTV",
+    "botnet",
+    "Mirai",
+    "horror",
+    "machine gaze",
+    "Lumen Prize"
+   ],
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2021, Gold Award"
+   ],
+   "id": "nye-thompson--uninvited",
+   "creator_ids": [
+    "nye-thompson",
+    "ubermorgen"
+   ],
+   "title": "UNINVITED",
+   "year": 2021,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A 'horror film for machines': a network organism born from a botnet of hijacked surveillance cameras looks out at the world for the first time, trying to recognise what it sees; the first version played in a gallery closed to humans in winter 2020/21, with a robotic 'Monster' responding to the projections.",
+   "description_zh": "一部“给机器看的恐怖片”：一个由被劫持监控摄像头组成的僵尸网络中诞生的网络生物，第一次向外观看世界，拼命辨认它看到的东西；首个版本于 2020/21 年冬在一个不对人开放的展厅放映，一个机器人“怪物”对投影作出反应。",
+   "idea_en": "Millions of unsecured cameras already form a kind of eye; the film asks what that eye would feel if it woke up.",
+   "idea_zh": "数以百万计缺乏防护的摄像头早已构成一只眼睛；影片追问，这只眼睛若醒来会感到什么。",
+   "method": "Footage scraped from publicly exposed IoT surveillance cameras is run through object- and face-recognition and machine-learning image processing, then edited into a film and multi-channel installation.",
+   "method_zh": "从公开暴露的物联网监控摄像头抓取画面，经物体与人脸识别及机器学习图像处理后，剪辑成影片与多频装置。",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dspfO7Jgwsw"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/65e7176a61627736e02f6c4a/65f474a6c9a7564c5ee0180e/65f47b1e11872641ded704cc/1783433393988/UNINVITED%2Bnye.jpeg"
+   ],
+   "source_url": "https://nyethompson.net/works/UNINVITED.html"
+  },
+  {
+   "also": [],
+   "keywords": [
+    "robot society",
+    "light",
+    "sunflower",
+    "cybernetics",
+    "swarm",
+    "Edinburgh"
+   ],
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2019, BCS Artificial Intelligence Award"
+   ],
+   "id": "dave-murray-rust--lichtsuchende",
+   "creator_ids": [
+    "dave-murray-rust",
+    "rocio-von-jungenfeld"
+   ],
+   "title": "Lichtsuchende",
+   "year": 2015,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A society of small sunflower-like robots that turn their heads towards light to feed on it and flash light to address one another; grouped together they form a flickering photo-kinetic community that visitors walk into and disturb with their own lamps.",
+   "description_zh": "一群形似向日葵的小机器人：它们转头朝向光源来“进食”，又用闪光彼此搭话；聚在一起时形成一个闪烁的光动社会，观众走进其中，也会用手中的灯打扰它们。",
+   "idea_en": "Give machines one shared resource and one channel of communication and something like social behaviour appears, legible to us as light.",
+   "idea_zh": "只要给机器一种共享资源和一条交流通道，类似社会行为的东西就会出现，而且以光的形式让我们看得见。",
+   "method": "Each robot has light sensors and a motorised head that tracks light plus LEDs to emit it; simple bio-inspired rules for energy exchange and signalling produce group behaviour.",
+   "method_zh": "每个机器人配有光传感器、可追光的电动头部和发光 LED；关于能量交换与信号传递的简单仿生规则产生群体行为。",
+   "video": {
+    "url": "https://vimeo.com/207512856"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/65e7176a61627736e02f6c4a/6606a60245e66065f7018332/6606a8f3e120ce2d55829d39/1711713362629/Lichtsuchende-1000x0-c-default.jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-319-16498-4_15",
+    "doi": "10.1007/978-3-319-16498-4_15",
+    "arxiv": "",
+    "venue": "EvoMUSART 2015, Lecture Notes in Computer Science",
+    "title": "Lichtsuchende: Exploring the Emergence of a Cybernetic Society"
+   },
+   "source_url": "https://lumenprize.org/2019-winners/dave-murray-rust-rocio-von-jungenfeld"
+  },
+  {
+   "also": [],
+   "keywords": [
+    "fungi",
+    "bio-digital",
+    "Anthropocene",
+    "NLP",
+    "cellular automata",
+    "Twitter bot"
+   ],
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2018, BCS Artificial Intelligence Award",
+    "Brighton Digital Festival 2018"
+   ],
+   "id": "cesar-and-lois--degenerative-cultures",
+   "creator_ids": [
+    "cesar-and-lois"
+   ],
+   "title": "Degenerative Cultures",
+   "year": 2018,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "cybernetic-alife",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Fungal cultures grow on printed books about humanity's drive to control nature and slowly erase their text; a camera-fed AI reads the growth and, as a 'bhiobrid' agent, searches the internet for similar texts and corrupts them, posting its readouts as the Twitter account @HelloFungus.",
+   "description_zh": "真菌在讲述人类控制自然欲望的印刷书籍上生长，慢慢抹去文字；一个通过摄像头观察的 AI 读取菌落的生长，作为“生物—数字混合体”到网上搜寻类似文本并加以腐蚀，再以推特账号 @HelloFungus 发布结果。",
+   "idea_en": "Pair an algorithm with a living organism and machine intelligence starts to borrow the logic of decay rather than of mastery.",
+   "idea_zh": "让算法与活的生物配对，机器智能便开始借用腐败的逻辑，而不是控制的逻辑。",
+   "method": "Computer vision tracks Physarum-like microbial growth on book pages; the data drive a cellular-automata and NLP algorithm that finds and rewrites online texts and prints them on site on a thermal printer.",
+   "method_zh": "计算机视觉追踪书页上类黏菌的微生物生长；这些数据驱动一个结合元胞自动机与自然语言处理的算法，在网上寻找并改写文本，并在现场用热敏打印机打印出来。",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HQwGFEqO1D0"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/65e7176a61627736e02f6c4a/6606a61178dd51369b416024/6606c08ef1cf21462183357b/1711718676868/AI-Award-Degenerative-Cultures6-1000x0-c-default.jpeg",
+    "http://cesarandlois.org/wp-content/uploads/Cesar-Lois-degerative-cultures-1.jpg"
+   ],
+   "source_url": "https://cesarandlois.org/digitalfungus/"
+  },
+  {
+   "also": [
+    "power"
+   ],
+   "keywords": [
+    "climate misinformation",
+    "NLP",
+    "thermal imaging",
+    "Twitter",
+    "MediaFutures",
+    "Ircam"
+   ],
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2023, BCS Futures Award",
+    "Ircam, Centre Pompidou 2022",
+    "S+T+ARTS Prize 2023, Nomination"
+   ],
+   "id": "gaetan-robillard--critical-climate-machine",
+   "creator_ids": [
+    "gaetan-robillard"
+   ],
+   "title": "Critical Climate Machine",
+   "year": 2022,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "classification",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A data sculpture runs a language model that spots and debunks climate-change myths in tweets while a thermal map shows the heat the installation itself gives off; around it, recorded voices of false claims and their refutations are re-spatialised by a generative sound model.",
+   "description_zh": "一件数据雕塑运行语言模型，识别并驳斥推文中的气候变化谣言，同时一张热成像图显示装置自身散发的热量；周围，录下的谣言与反驳之声由一个生成式声音模型重新在空间中排布。",
+   "idea_en": "A machine that fights climate misinformation also warms the room: the work keeps the computation and its heat in the same frame.",
+   "idea_zh": "一台对抗气候谣言的机器同时也在给房间加温：作品把计算与它的热量放在同一个画面里。",
+   "method": "A natural-language-processing classifier (by John Cook, Travis Coan, Constantine Boussalis and Mirjam Nanko) labels climate-contrarian claims from Twitter; a thermal camera maps the sculpture's heat; dialogues from workshops with 'The Refutation Game' card game are remixed by a machine-learning improvisation model.",
+   "method_zh": "一个自然语言处理分类器（由 John Cook、Travis Coan、Constantine Boussalis 与 Mirjam Nanko 开发）为推特上的气候怀疑论点贴标签；热像仪记录雕塑的热量；以卡牌游戏《驳斥游戏》工作坊录下的对话由一个机器学习即兴模型重新混编。",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KBaGSQWKr8w"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1710514280894-WEATKDQPMQG6BA3TPK14/Critical%2BClimate%2Bby%2BMachine%2BGae%CC%88tan%2BRobillard+%286%29.jpeg"
+   ],
+   "source_url": "https://lumenprize.org/2023-winners/2023-bcs-futures-award-winner"
+  },
+  {
+   "also": [],
+   "keywords": [
+    "Narcissus",
+    "interactive installation",
+    "mirror",
+    "touchscreen",
+    "surveillance",
+    "ZKM"
+   ],
+   "collections": [
+    "electric-dreams-2024"
+   ],
+   "exhibited": [
+    "Electric Dreams, Tate Modern 2024–25"
+   ],
+   "id": "monika-fleischmann--liquid-views",
+   "creator_ids": [
+    "monika-fleischmann",
+    "wolfgang-strauss"
+   ],
+   "title": "Liquid Views",
+   "year": 1992,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Visitors lean over a horizontal touchscreen of simulated water and see their own face reflected in it; touching the surface sends ripples that dissolve the reflection, while a large projection behind shows the enlarged face to everyone else in the room.",
+   "description_zh": "观众俯身看向一块模拟水面的水平触摸屏，看到自己的脸倒映其中；触碰水面会激起波纹，使倒影溶解，而身后的大投影把放大的面孔展示给房间里的其他人。",
+   "idea_en": "A computer mirror is never just a mirror: it captures, stores and redistributes your image, so self-reflection becomes being watched.",
+   "idea_zh": "电脑做成的镜子从来不只是镜子：它捕捉、储存并转发你的影像，照镜子于是变成了被观看。",
+   "method": "A hidden video camera captures the viewer's face, which real-time graphics software maps onto a simulated water surface that reacts to touch; the stored images are also shown on a wall projection.",
+   "method_zh": "隐藏的摄像机拍下观者的脸，实时图形软件把它映射到对触摸有反应的模拟水面上；储存下来的影像也在墙面投影中显示。",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bjq13wyjhA8"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fig3-LiquidViews.jpg",
+    "http://www.eculturefactory.de/CMS/images/363.jpg"
+   ],
+   "source_url": "http://www.eculturefactory.de/liquid-views"
+  },
+  {
+   "also": [],
+   "keywords": [
+    "inverted pendulum",
+    "control theory",
+    "fuzzy logic",
+    "clones",
+    "Different Ways to Infinity",
+    "BIAN Montréal"
+   ],
+   "collections": [
+    "creative-machine-2024"
+   ],
+   "exhibited": [
+    "BIAN, Montréal 2014",
+    "Creative Machine, Taikang Art Museum, Beijing 2024–25"
+   ],
+   "id": "felix-luque-sanchez--dwi-clones",
+   "creator_ids": [
+    "felix-luque-sanchez"
+   ],
+   "title": "D.W.I: Clones",
+   "year": 2013,
+   "field": "bodies",
+   "sub": "futility",
+   "machines": [
+    "cybernetic-alife",
+    "robot-arm"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Two identical human-sized inverted pendulums ride on motorised carts; each swings until it tips upright, then an algorithm takes over and tries, again and again, to hold it balanced against gravity, failing and succeeding in turns.",
+   "description_zh": "两台一模一样、与人等高的倒立摆装在电动小车上；摆杆摆到竖直时，算法接管控制，一次又一次试图让它逆着重力保持平衡，时而失败，时而成功。",
+   "idea_en": "A textbook control problem, made heavy and repeated, starts to look like effort: we read will into a feedback loop.",
+   "idea_zh": "一个教科书式的控制问题，一旦做得沉重又反复，就开始像是在“用力”：我们在反馈回路里读出了意志。",
+   "method": "Inverted pendulums of epoxy foam on horizontally moving carts, with encoders, motor controllers and fuzzy-logic control that swings the pendulum up and balances it.",
+   "method_zh": "环氧泡沫制成的倒立摆装在水平移动的小车上，配有编码器、电机控制器和模糊逻辑控制，负责把摆杆甩起并保持平衡。",
+   "video": {
+    "url": "https://vimeo.com/170764351"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/e18dbfb306c8c1b82f44a9633b51bba87b4a042dc5493e3d19d0ee9b1356c0c4/DWI_1.jpg",
+    "https://freight.cargo.site/t/original/i/14f84eee0a0ea71b682223cec9d583aa6a004939e0ffe2e54fa743eb4d9a1502/DWI_2.jpg"
+   ],
+   "source_url": "https://felixluque.com/D-W-I-Clones"
+  },
+  {
+   "id": "xenoangel--sunshowers",
+   "creator_ids": [
+    "xenoangel"
+   ],
+   "title": "Sunshowers",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A real-time animated world, inspired by the fox-wedding opening of Kurosawa's Dreams, in which every object, natural or made, is given life as an AI agent; the characters choose their own paths, so the film never repeats.",
+   "description_zh": "一个实时生成的动画世界，灵感来自黑泽明《梦》开篇的狐狸出嫁：其中所有物体，无论天然还是人造，都被赋予 AI 智能体的生命；角色自行选择路线，影片从不重复。",
+   "idea_en": "Read AI agents through animism: software as spirits dwelling in things, not as tools.",
+   "idea_zh": "用万物有灵论理解 AI 智能体：软件不是工具，而是栖居在物中的精灵。",
+   "method": "Game-engine simulation with autonomous agents rendered live as a video installation.",
+   "method_zh": "在游戏引擎中运行自主智能体的模拟，并作为影像装置实时渲染。",
+   "keywords": [
+    "techno-animism",
+    "Shinto",
+    "real-time animation",
+    "game engine",
+    "Kurosawa"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T5_SWCUaK8c"
+   },
+   "source_url": "https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human",
+   "collections": [
+    "barbican-ai-2019"
+   ],
+   "exhibited": [
+    "AI: More than Human, Barbican, London 2019",
+    "Museum Ulm 2021"
+   ]
+  },
+  {
+   "id": "justine-emard--coaixistence",
+   "creator_ids": [
+    "justine-emard"
+   ],
+   "title": "Co(AI)xistence",
+   "year": 2017,
+   "field": "coperformance",
+   "sub": "dance",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A 12-minute video installation in which the performer Mirai Moriyama and the android Alter try to communicate through gesture, signals and speech; Alter learns from the exchange as it goes.",
+   "description_zh": "一件 12 分钟的影像装置：表演者森山未来与仿人机器人 Alter 试图通过手势、信号和语言交流，Alter 在交流中不断学习。",
+   "idea_en": "Treat a learning android as a different kind of intelligence and look for a language both sides can share.",
+   "idea_zh": "把会学习的仿人机器人当作另一种智能，寻找双方都能共享的语言。",
+   "method": "Filmed improvisation between a dancer and Alter (Ishiguro Lab, Osaka University, and Ikegami Lab, University of Tokyo), whose motion is driven by a neural network and sensor input.",
+   "method_zh": "拍摄舞者与 Alter（大阪大学石黑实验室与东京大学池上实验室开发）的即兴互动，Alter 的动作由神经网络和传感器输入驱动。",
+   "keywords": [
+    "Alter",
+    "android",
+    "Mirai Moriyama",
+    "Ishiguro",
+    "Ikegami",
+    "deep learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vcdUTEpSV1s"
+   },
+   "source_url": "https://justineemard.com/coaixistence/",
+   "collections": [
+    "barbican-ai-2019"
+   ],
+   "exhibited": [
+    "AI: More than Human, Barbican, London 2019"
+   ]
+  },
+  {
+   "id": "rachel-ara--this-much-im-worth",
+   "creator_ids": [
+    "rachel-ara"
+   ],
+   "title": "This Much I'm Worth (the self-evaluating artwork)",
+   "year": 2017,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A large neon sculpture that continuously calculates and displays its own market value, changing as it is looked at, talked about and shared online.",
+   "description_zh": "一件大型霓虹雕塑，持续计算并显示自己的市场价值，数字随观看、讨论和网络分享而变化。",
+   "idea_en": "Let an algorithm price the artwork in public, and the arbitrariness of value becomes visible.",
+   "idea_zh": "让算法当众为作品定价，价值的任意性便显露出来。",
+   "method": "A networked computer inside the sculpture gathers data (likely visitor counts, social-media mentions and art-market indicators), runs a valuation algorithm and drives the neon digits.",
+   "method_zh": "雕塑内置联网电脑，收集数据（很可能包括观众人数、社交媒体提及和艺术市场指标），运行估值算法并驱动霓虹数字。",
+   "keywords": [
+    "neon",
+    "art market",
+    "valuation algorithm",
+    "data art",
+    "Aesthetica Art Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wZ-P6dnkVcY"
+   },
+   "source_url": "https://www.mak.at/en/program/exhibitions/uncanny_values",
+   "collections": [
+    "uncanny-values-2019"
+   ],
+   "exhibited": [
+    "Uncanny Values, MAK Vienna 2019",
+    "Aesthetica Art Prize"
+   ]
+  },
+  {
+   "id": "philipp-schmitt--chair-project",
+   "creator_ids": [
+    "philipp-schmitt",
+    "steffen-weiss"
+   ],
+   "title": "The Chair Project (Four Classics)",
+   "year": 2019,
+   "field": "speculative",
+   "sub": "ml-material",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "speculative",
+   "description": "Four chairs designed from the blurry sketches of a generative network trained on 562 classic chairs, then built by hand; the results look like design classics that forgot what a sitting body is.",
+   "description_zh": "四把椅子：先由一个用 562 把经典椅子训练的生成网络画出模糊草图，再由人手工制作；成品像一群忘记了坐着的身体是什么的设计经典。",
+   "idea_en": "Use the model's misunderstandings as a prompt for human imagination, reversing the usual human-designs/machine-builds order.",
+   "idea_zh": "把模型的误解当作激发人类想象的线索，颠倒“人设计、机器制造”的惯常顺序。",
+   "method": "A GAN trained on images of 20th-century design-classic chairs produced sketches that designers interpreted into four prototypes made of wood, steel and thread.",
+   "method_zh": "用 20 世纪经典设计椅子的图像训练 GAN 生成草图，再由设计师把它们诠释为四件木、钢与线材制成的原型。",
+   "keywords": [
+    "GAN",
+    "chair",
+    "design classics",
+    "automatism",
+    "NeurIPS 2018 workshop",
+    "Vienna Biennale"
+   ],
+   "images": [
+    "https://cdn.philippschmitt.com/media/pages/work/chair/bffd079351-1586822724/philipp-schmitt_chairs-0-1200x630-crop.jpg",
+    "https://cdn.philippschmitt.com/media/pages/work/chair/b049157868-1586890370/philipp-schmitt_chairs-1-1200x.jpg"
+   ],
+   "source_url": "https://philippschmitt.com/work/chair",
+   "collections": [
+    "uncanny-values-2019"
+   ],
+   "exhibited": [
+    "Uncanny Values, MAK Vienna 2019"
+   ]
+  },
+  {
+   "id": "stephan-bogner--raising-robotic-natives",
+   "creator_ids": [
+    "stephan-bogner",
+    "philipp-schmitt",
+    "jonas-voigt"
+   ],
+   "title": "Raising Robotic Natives",
+   "year": 2016,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "speculative",
+   "description": "Four artefacts for children growing up with an industrial robot arm at home: a baby-feeding toolhead, a dragon costume for the robot, a living-room kill switch and a children's book 'My first robot'.",
+   "description_zh": "为在家中与工业机械臂一起长大的孩子设计的四件物品：喂奶用的末端工具、机器人穿的龙形服装、客厅里的紧急停止开关，以及儿童读物《我的第一个机器人》。",
+   "idea_en": "Our unease with robots may be generational; a child raised with a robot arm might see it as family, not threat.",
+   "idea_zh": "我们对机器人的不安也许是代际的；与机械臂一起长大的孩子可能把它当家人，而不是威胁。",
+   "method": "Design fiction built around a small industrial robot arm, with functional prototypes, staged photographs and an illustrated book (HfG Schwäbisch Gmünd student project).",
+   "method_zh": "围绕一台小型工业机械臂展开的设计虚构，包括可用原型、布景摄影和一本插画书（施瓦本格明德设计学院学生项目）。",
+   "keywords": [
+    "robotic natives",
+    "industrial robot",
+    "children",
+    "design fiction",
+    "Vitra"
+   ],
+   "images": [
+    "https://stephanbogner.de/_astro/raising_robotic_natives_all_artefacts.0Kl6hXpQ_Z1hwRD0.webp",
+    "https://stephanbogner.de/_astro/raising_robotic_natives_baby_feeder.BWFj1tni_Z1oaKO7.webp",
+    "https://stephanbogner.de/_astro/raising_robotic_natives_costume.CYeU3sZ5_ZdCYYw.webp"
+   ],
+   "source_url": "https://stephanbogner.de/making/robotic-natives",
+   "collections": [
+    "hello-robot-2017"
+   ],
+   "exhibited": [
+    "Hello, Robot., Vitra Design Museum 2017 (and tour)"
+   ]
+  },
+  {
+   "id": "david-link--loveletters",
+   "creator_ids": [
+    "david-link"
+   ],
+   "title": "LoveLetters_1.0",
+   "year": 2009,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A working replica of the Ferranti Mark 1 runs Christopher Strachey's 1952 love-letter program; its letters, signed 'M.U.C.' (Manchester University Computer), are projected in public space.",
+   "description_zh": "一台可运行的 Ferranti Mark 1 复制机执行 Christopher Strachey 1952 年的情书程序；这些署名“M.U.C.”（曼彻斯特大学计算机）的情书被投影到公共空间。",
+   "idea_en": "The first text a computer generated for pleasure was a love letter; machine language began as simulated feeling.",
+   "idea_zh": "计算机最早为消遣而生成的文本是情书；机器语言从模拟情感开始。",
+   "method": "Physical replica of the Mark 1 console driven by an emulator running Strachey's original code with the machine's random-number generator.",
+   "method_zh": "Mark 1 控制台的实体复制品，由仿真器运行 Strachey 的原始代码与机器自带的随机数发生器。",
+   "keywords": [
+    "Christopher Strachey",
+    "Ferranti Mark 1",
+    "love letters",
+    "media archaeology",
+    "dOCUMENTA(13)"
+   ],
+   "images": [
+    "https://alpha60.de/art/love_letters/img01_L.jpg",
+    "https://alpha60.de/art/love_letters/KATALOG02_L.jpg"
+   ],
+   "source_url": "https://alpha60.de/art/love_letters/",
+   "exhibited": [
+    "ZKM Karlsruhe 2009",
+    "dOCUMENTA(13), Kassel 2012",
+    "The Imitation Game, Manchester Art Gallery 2016"
+   ]
+  },
+  {
+   "id": "orlan--orlan-oide",
+   "creator_ids": [
+    "orlan"
+   ],
+   "title": "ORLAN-OÏDE",
+   "year": 2018,
+   "field": "bodies",
+   "sub": "androids",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "A humanoid robot double of the artist, with her face and voice, that answers questions and speaks about art; ORLAN has interviewed it in public.",
+   "description_zh": "艺术家的人形机器人分身，拥有她的面孔与声音，能回答问题、谈论艺术；ORLAN 曾在公开场合与它对谈。",
+   "idea_en": "An artist famous for remaking her body builds a machine self and lets it speak in her place.",
+   "idea_zh": "一位以改造自身身体闻名的艺术家，造出机器自我并让它代替自己说话。",
+   "method": "Robotic bust with a conversational AI trained on the artist's texts and a synthesised copy of her voice; later versions developed with RaspiAudio.",
+   "method_zh": "机器人半身像，搭载以艺术家文本训练的对话 AI 和合成的本人声音；后续版本与 RaspiAudio 合作开发。",
+   "keywords": [
+    "robot double",
+    "voice clone",
+    "self-portrait",
+    "Grand Palais"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uSeo1wMvG_g"
+   },
+   "source_url": "https://www.orlan.eu/",
+   "collections": [
+    "artistes-robots-2018"
+   ],
+   "exhibited": [
+    "Artistes & Robots, Grand Palais, Paris 2018"
+   ]
+  },
+  {
+   "id": "nicolas-darrot--injonctions",
+   "creator_ids": [
+    "nicolas-darrot"
+   ],
+   "title": "Les Injonctions",
+   "year": 2008,
+   "field": "bodies",
+   "sub": "futility",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A small electromechanical puppet with a human body and a mouse's head tries to teach the rudiments of speech to an artificial larynx, alternating orders and encouragement like a teacher with a slow pupil.",
+   "description_zh": "一个人身鼠头的小型机电木偶，试图教会一个人造喉咙说话的基本功，像老师对待迟钝的学生一样，时而下命令，时而鼓励。",
+   "idea_en": "Machine learning staged as schooling: one machine drilling another, with all the patience and cruelty of education.",
+   "idea_zh": "把机器学习演成上学：一台机器操练另一台，带着教育里全部的耐心与残酷。",
+   "method": "Automaton with motorised head and arms and a mechanical vocal tract producing speech-like sounds, run by a programmed sequence.",
+   "method_zh": "头部与手臂由电机驱动的自动机，加上发出类似语音声音的机械声道，由预设程序控制。",
+   "keywords": [
+    "automaton",
+    "artificial larynx",
+    "puppet",
+    "speech",
+    "Galerie Eva Hober"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=j5APX1-QtRs"
+   },
+   "source_url": "https://www.grandpalais.fr/en/event/artists-robots",
+   "collections": [
+    "artistes-robots-2018"
+   ],
+   "exhibited": [
+    "Galerie Eva Hober, Paris 2008",
+    "Artistes & Robots, Grand Palais, Paris 2018"
+   ]
+  },
+  {
+   "id": "driessens-verstappen--tickle-salon",
+   "creator_ids": [
+    "driessens-verstappen"
+   ],
+   "title": "Tickle Salon",
+   "year": 2009,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A visitor lies on a bed while a hanging robot strokes their skin with a soft brush; it gradually maps the shape of the body and its caresses become finer and smoother.",
+   "description_zh": "观众躺在床上，一个悬挂的机器人用柔软的刷子抚过其皮肤；它逐步描绘出身体的形状，抚触也越来越细腻顺滑。",
+   "idea_en": "A machine never tires of attention; its care is learned from the surface of the body it touches.",
+   "idea_zh": "机器的专注从不疲倦；它的照护是从所触碰身体的表面学来的。",
+   "method": "Cable-suspended robot with a feeler that scans the skin surface and builds a 3D body model; the Robot Love version added EEG feedback to adapt the strokes.",
+   "method_zh": "由缆绳悬挂的机器人带有探头，扫描皮肤表面并建立身体三维模型；在 Robot Love 展出的版本加入脑电反馈来调整抚触。",
+   "keywords": [
+    "caress",
+    "touch",
+    "massage",
+    "robot",
+    "EEG",
+    "Baltan Laboratories"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ndiEjuuv-zo"
+   },
+   "images": [
+    "https://robotlove.nl/wp-content/uploads/2018/05/driessens-verstappen-tickle-salon-2012_2017.jpg"
+   ],
+   "source_url": "https://robotlove.nl/en/event/tickle-salon/",
+   "collections": [
+    "robot-love-2018"
+   ],
+   "exhibited": [
+    "Pioneers of Change, Governors Island, New York 2009",
+    "Robot Love, Eindhoven 2018"
+   ]
+  },
+  {
+   "id": "la-raeven--annelies-looking-for-completion",
+   "creator_ids": [
+    "la-raeven"
+   ],
+   "title": "Annelies, Looking for Completion",
+   "year": 2018,
+   "field": "bodies",
+   "sub": "androids",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "A lifelike android clone of the twin artists, a 'third sister', sits crying in a corner; when visitors try to comfort her she looks up with a tear-streaked face.",
+   "description_zh": "一个按双胞胎艺术家本人制作的逼真仿人机器人，“第三个姐妹”，坐在角落里哭泣；观众试图安慰她时，她抬起满是泪痕的脸看着对方。",
+   "idea_en": "Instead of a robot that serves us, a robot that needs us, and the discomfort of comforting a machine.",
+   "idea_zh": "不是为我们服务的机器人，而是需要我们的机器人，以及安慰一台机器时的那种不自在。",
+   "method": "Silicone android modelled on the artists' faces and bodies, with motorised facial expressions, tear mechanism and sensors reacting to approach.",
+   "method_zh": "按艺术家面部与身体制作的硅胶仿人机器人，带电动表情、流泪装置和感应观众靠近的传感器。",
+   "keywords": [
+    "android",
+    "clone",
+    "crying robot",
+    "twins",
+    "Bonnefanten"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Jyfq-xq5GyA"
+   },
+   "source_url": "https://robotlove.nl/en/expo/",
+   "collections": [
+    "robot-love-2018"
+   ],
+   "exhibited": [
+    "Robot Love, Eindhoven 2018",
+    "Collection Bonnefanten, Maastricht"
+   ]
+  },
+  {
+   "id": "julian-charriere--metamorphism",
+   "creator_ids": [
+    "julian-charriere"
+   ],
+   "title": "Metamorphism",
+   "year": 2016,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Motherboards, hard drives, CPUs and memory from laptops and phones melted in artificial lava into polychrome stones, shown in vitrines like specimens from a future natural history museum.",
+   "description_zh": "把笔记本电脑和手机里的主板、硬盘、CPU 和内存在人造熔岩中熔化成多彩的石头，放在展柜里，如同未来自然史博物馆的标本。",
+   "idea_en": "Computers return to rock: the 'immaterial' digital is a geological body borrowed from the earth.",
+   "idea_zh": "电脑重新变回岩石：所谓“非物质”的数字，其实是向地球借来的地质之躯。",
+   "method": "E-waste components mixed with rock and fused in a furnace at lava temperatures, then cut and displayed.",
+   "method_zh": "把电子废料部件与岩石混合，在熔岩温度的炉中熔融，再切割展示。",
+   "keywords": [
+    "e-waste",
+    "lava",
+    "geology",
+    "extraction",
+    "rare earths"
+   ],
+   "images": [
+    "https://julian-charriere.net/media/pages/projects/metamorphism/f1cc18f486-1671025283/julian-charriere-metamorphism-xvii-into-the-hollow-dittrich-schlechtriem-2016-copyright-the-artist-vg-bild-kunst-bonn-germany-1600x.jpg",
+    "https://julian-charriere.net/media/pages/projects/metamorphism/86b5e1f22d-1671025283/julian-charriere-metamorphism-xiv-installation-view-into-the-hollow-dittrich-schlechtriem-2016-copyright-the-artist-vg-bild-kuns-1600x.jpg"
+   ],
+   "source_url": "https://julian-charriere.net/projects/metamorphism",
+   "collections": [
+    "world-through-ai-2025"
+   ],
+   "exhibited": [
+    "Into the Hollow, Dittrich & Schlechtriem, Berlin 2016",
+    "The World Through AI, Jeu de Paume, Paris 2025"
+   ]
+  },
+  {
+   "id": "vincent-fournier--the-man-machine",
+   "creator_ids": [
+    "vincent-fournier"
+   ],
+   "title": "The Man Machine",
+   "year": 2010,
+   "field": "bodies",
+   "sub": "androids",
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A photographic series of real humanoid robots, including ASIMO and REEM-B, posed in laboratories, homes and landscapes with the stillness of formal portraits.",
+   "description_zh": "一组真实人形机器人的摄影系列，包括 ASIMO 和 REEM-B，它们在实验室、住宅与风景中以正式肖像般的静止姿态出现。",
+   "idea_en": "Portraiture, a genre for persons, applied to machines makes us ask what in them looks back.",
+   "idea_zh": "把为人而设的肖像体裁用在机器身上，让我们追问它们身上是什么在回望。",
+   "method": "Staged large-format colour photographs made on location with robotics labs in Japan, Europe and the US.",
+   "method_zh": "在日本、欧洲和美国的机器人实验室实地拍摄的布景式大画幅彩色照片。",
+   "keywords": [
+    "humanoid robots",
+    "photography",
+    "portrait",
+    "ASIMO",
+    "REEM-B"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JUhIQo6PvQo"
+   },
+   "source_url": "https://www.vincentfournier.co.uk/",
+   "collections": [
+    "hello-robot-2017"
+   ],
+   "exhibited": [
+    "Hello, Robot., Vitra Design Museum 2017"
+   ]
+  },
+  {
+   "id": "robotlab--manifest",
+   "creator_ids": [
+    "robotlab"
+   ],
+   "title": "manifest",
+   "year": 2008,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "An industrial robot at a desk writes manifestos with a pen, one unique numbered sheet after another, cuts each off the roll and lets it fall to the floor for visitors to take.",
+   "description_zh": "一台工业机器人坐在书桌前用笔书写宣言，一张接一张、每张编号且独一无二，写完便从纸卷上裁下，任其落地供观众取走。",
+   "idea_en": "A robot avant-garde: a machine without morals drafts the laws of a future human–machine society.",
+   "idea_zh": "机器人先锋派：一台没有道德的机器为未来的人机社会起草法律。",
+   "method": "A KUKA-type industrial arm combines terms from philosophy, art theory, ethics and law with sentence structures from historical manifestos (2017 version: legal texts) and writes the results by hand.",
+   "method_zh": "一台 KUKA 类工业机械臂把哲学、艺术理论、伦理与法律术语，与历史宣言的句式（2017 年版本为法律文本）组合，再亲手写下。",
+   "keywords": [
+    "industrial robot",
+    "manifesto",
+    "handwriting",
+    "generative text",
+    "ZKM"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sMsBFbOfXN0"
+   },
+   "images": [
+    "https://robotlab.de/pics/manifest/manifest_04.jpg",
+    "https://robotlab.de/pics/manifest/manifest_02.jpg"
+   ],
+   "source_url": "https://robotlab.de/EN/manifest.html",
+   "collections": [
+    "hello-robot-2017"
+   ],
+   "exhibited": [
+    "Hello, Robot., Vitra Design Museum 2017",
+    "Open Codes, ZKM Karlsruhe 2017–19"
+   ]
+  },
+  {
+   "id": "dries-depoorter--surveillance-paparazzi",
+   "creator_ids": [
+    "dries-depoorter"
+   ],
+   "title": "Surveillance Paparazzi",
+   "year": 2018,
+   "field": "perception",
+   "sub": "faces",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A machine that watches unsecured surveillance cameras around the world and uses face recognition to 'snap' celebrities who happen to pass, like an automated paparazzo.",
+   "description_zh": "一台机器监看全球不设防的监控摄像头，用人脸识别“抓拍”恰好经过的名人，像一个自动化的狗仔。",
+   "idea_en": "Paparazzi work can now be done by any open camera plus a classifier; everyone is filmed, only some are recognised.",
+   "idea_zh": "狗仔的工作如今只需一个开放摄像头加一个分类器；人人都被拍摄，只有部分人被认出。",
+   "method": "Scrapes live feeds from publicly accessible, unencrypted CCTV cameras and runs a celebrity face-recognition model on them.",
+   "method_zh": "抓取可公开访问、未加密的监控摄像头实时画面，并在其上运行名人人脸识别模型。",
+   "keywords": [
+    "CCTV",
+    "face recognition",
+    "celebrities",
+    "surveillance",
+    "HEK"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mS2tx3G7930"
+   },
+   "source_url": "https://driesdepoorter.be/",
+   "collections": [
+    "entangled-realities-2019"
+   ],
+   "exhibited": [
+    "Entangled Realities, HEK Basel 2019"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Verena Friedrich — Vanitas Machine",
+   "why": "Prix Ars Hybrid Art HM 2015; candle-based life-extension machine; weak fit (about ageing/biotech rather than machines).",
+   "link": "https://archive.aec.at/prix/212447/",
+   "found_via": "verena-friedrich",
+   "status": "off_topic"
+  },
+  {
+   "name": "Patrick Tresset — Human Study #2, La Vanité",
+   "why": "The Tresset piece actually shown in Artistes & Robots (Grand Palais 2018) per Grand Palais video Bg792i1x3OQ; year unverified.",
+   "link": "https://www.youtube.com/watch?v=Bg792i1x3OQ",
+   "found_via": "patrick-tresset",
+   "status": "open"
+  },
+  {
+   "name": "Marc Böhlen — Universal Whistling Machine",
+   "why": "Machine that whistles back to passers-by; reported VIDA winner but edition/prize not verified and no live media found.",
+   "link": "",
+   "found_via": "vida-awards",
+   "status": "no_media"
+  },
+  {
+   "name": "Rejane Cantoni & Leonardo Crescenti — SPEAK",
+   "why": "16 suspended phones hold a speech-recognition 'dialogue' in eight languages (m2m); VIDA 13.2 production incentive.",
+   "link": "https://web.archive.org/web/2017/https://vida.fundaciontelefonica.com/en/project/speak/",
+   "found_via": "vida-awards",
+   "status": "open"
+  },
+  {
+   "name": "Thiago Hersan & Radamés Ajna — MEMEMEME",
+   "why": "Phones communicating machine-to-machine; VIDA 15 Telefónica I+D incentive.",
+   "link": "https://web.archive.org/web/2017/https://vida.fundaciontelefonica.com/en/project/memememe/",
+   "found_via": "vida-awards",
+   "status": "open"
+  },
+  {
+   "name": "Daniel Palacios — Kill the Process",
+   "why": "AI percussion boxes that evolve their own language; VIDA 12 production incentive.",
+   "link": "https://web.archive.org/web/2017/https://vida.fundaciontelefonica.com/en/project/kill-the-process/",
+   "found_via": "vida-awards",
+   "status": "open"
+  },
+  {
+   "name": "Leonhard Peschta — Der Zermesser",
+   "why": "Minimal tetrahedral robot responding to architecture at vegetal timescale; VIDA 13 special mention.",
+   "link": "https://web.archive.org/web/2017/https://vida.fundaciontelefonica.com/en/project/der-zermesser/",
+   "found_via": "vida-awards",
+   "status": "open"
+  },
+  {
+   "name": "Quimera Rosa et al. — SXK Turing Test",
+   "why": "Performative reversal of the Turing test; VIDA 14 production incentive.",
+   "link": "https://web.archive.org/web/2017/https://vida.fundaciontelefonica.com/en/project/sxk-turing-test/",
+   "found_via": "vida-awards",
+   "status": "open"
+  },
+  {
+   "name": "VIDA 2.0–9.0 winners",
+   "why": "Pre-2008 VIDA editions are not in the archived project pages (JS lists); check Karin Ohlenschläger's 'VIDA 1999–2012' catalogue.",
+   "link": "https://web.archive.org/web/2017/https://vida.fundaciontelefonica.com/en/previous-editions/",
+   "found_via": "vida-awards",
+   "status": "open"
+  },
+  {
+   "name": "Bruce Lacey, ROSA BOSOM (1965) with MATE",
+   "why": "Remote-controlled 'simulated actress' robot at Cybernetic Serendipity 1968. Not added: bodies batch has lacey--rosa-bosom planned. Verified media: British Pathé 'Nightmare Robots (1968)' youtube 1kO8fKEygCE; images https://66.media.tumblr.com/tumblr_lnu30d3nTV1qmskiio1_640.jpg (ICA 1968 installation view, cyberneticserendipity.net).",
+   "link": "https://cyberneticserendipity.net/post/7245437784/exhibition-view-ica-london-1968-featuring-bruce",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Hito Steyerl, Mechanical Kurds — video",
+   "why": "Only a third-party 54 s clip found (youtube Mk0C1b7mnmM, ArtWorks channel); not used.",
+   "link": "https://www.youtube.com/watch?v=Mk0C1b7mnmM",
+   "found_via": "hito-steyerl",
+   "status": "open"
+  },
+  {
+   "name": "Chris Salter — Totem (2019)",
+   "why": "Barbican AI: More than Human Level G commission: sensing + ML light/sound installation that behaves like a breathing entity; no verified image or video found.",
+   "link": "https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human",
+   "found_via": "barbican-ai-2019",
+   "status": "no_media"
+  },
+  {
+   "name": "Google PAIR — Waterfall of Meaning (2019)",
+   "why": "Barbican piece visualising word-embedding associations between poles; no live page or video found.",
+   "link": "https://pair.withgoogle.com/",
+   "found_via": "barbican-ai-2019",
+   "status": "no_media"
+  },
+  {
+   "name": "Martine Syms — Mythiccbeing (2018)",
+   "why": "Text-based AI avatar in Uncanny Valley (de Young 2020); artist site and FAMSF pages give no verifiable media to scripts.",
+   "link": "https://www.famsf.org/exhibitions/uncanny-valley",
+   "found_via": "uncanny-valley-2020",
+   "status": "no_media"
+  },
+  {
+   "name": "Agnieszka Kurant — Aggregated Ghost (2023)",
+   "why": "Collective portrait of click-workers shown at Jeu de Paume 2025; artist site unreachable, no verified image.",
+   "link": "https://jeudepaume.org/en/evenement/the-world-through-ai/",
+   "found_via": "world-through-ai-2025",
+   "status": "no_media"
+  },
+  {
+   "name": "Meta Office — click-work installation (Jeu de Paume 2025)",
+   "why": "Documents microtask labour conditions; title not given in press kit.",
+   "link": "https://jeudepaume.org/wp-content/uploads/2023/04/DP-IA.pdf",
+   "found_via": "world-through-ai-2025",
+   "status": "open"
+  },
+  {
+   "name": "David Link — work shown in Uncanny Values (MAK 2019)",
+   "why": "MAK lists David Link without a title; LoveLetters_1.0 added without the uncanny-values tag until verified.",
+   "link": "https://www.mak.at/en/program/exhibitions/uncanny_values",
+   "found_via": "uncanny-values-2019",
+   "status": "open"
+  },
+  {
+   "name": "Sebastian Schmieg — HEK Entangled Realities work",
+   "why": "Digicult describes visitors rating images to train an AI (likely Decision Space, 2016); perception batch already has his related work sebastian-schmieg--problem-solution-past-future.",
+   "link": "https://digicult.it/internet/entangled-realities-living-with-artificial-intelligence/",
+   "found_via": "entangled-realities-2019",
+   "status": "duplicate"
+  }
+ ]
+}

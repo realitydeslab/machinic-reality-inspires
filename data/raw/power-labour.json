@@ -1,0 +1,2427 @@
+{
+ "batch": "power-labour",
+ "creators": [
+  {
+   "id": "joy-buolamwini",
+   "name": "Joy Buolamwini",
+   "kind": "person",
+   "role": "Computer scientist, poet of code; founder, Algorithmic Justice League",
+   "role_zh": "计算机科学家、“代码诗人”，算法正义联盟创始人",
+   "based": "Cambridge, MA, US",
+   "based_zh": "美国马萨诸塞州剑桥",
+   "bio": "Ghanaian-American-Canadian researcher who found that face-analysis systems failed on her dark-skinned face at MIT Media Lab and turned the finding into audits, poems and a movement.",
+   "bio_zh": "加纳裔美籍加拿大研究者。她在 MIT 媒体实验室发现人脸分析系统无法识别她的深色皮肤面孔，并把这一发现变成算法审计、诗歌和一场社会运动。",
+   "why": "She coined the 'coded gaze' and showed, with numbers and with verse, whom machine vision fails to see.",
+   "why_zh": "她提出了“编码凝视”，并用数据和诗歌两种方式说明机器视觉看不见谁。",
+   "disciplines": [
+    "activism",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.poetofcode.com/"
+   },
+   "connected_to": [
+    "shalini-kantayya"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shalini-kantayya",
+   "name": "Shalini Kantayya",
+   "kind": "person",
+   "role": "Documentary filmmaker; 7th Empire Media",
+   "role_zh": "纪录片导演，7th Empire Media 创始人",
+   "based": "Brooklyn, NY, US",
+   "based_zh": "美国纽约布鲁克林",
+   "bio": "American filmmaker whose documentaries address science, technology and civil rights.",
+   "bio_zh": "美国纪录片导演，作品关注科学、技术与公民权利。",
+   "why": "Her film Coded Bias brought algorithmic bias research to a mass audience.",
+   "why_zh": "她的电影《编码偏见》把算法偏见研究带给了大众。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.7thempire.com/"
+   },
+   "connected_to": [
+    "joy-buolamwini"
+   ],
+   "discovered_via": "joy-buolamwini"
+  },
+  {
+   "id": "mimi-onuoha",
+   "name": "Mimi Ọnụọha",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "role_zh": "艺术家、研究者",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Nigerian-American artist whose installations, films and texts examine what data collection includes, leaves out and hides.",
+   "bio_zh": "尼日利亚裔美国艺术家，以装置、影像和写作追问数据收集包含了什么、遗漏了什么、又隐藏了什么。",
+   "why": "She made 'missing data' and the labour and cosmology behind networks into artistic subjects.",
+   "why_zh": "她把“缺失的数据”以及网络背后的劳动与宇宙观变成了艺术的主题。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.mimionuoha.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "caroline-sinders",
+   "name": "Caroline Sinders",
+   "kind": "person",
+   "role": "Artist, designer and human-rights researcher; founder, Convocation Research + Design",
+   "role_zh": "艺术家、设计师与人权研究者，Convocation Research + Design 创始人",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "American artist and researcher who studies online harassment, data labour and how machine-learning systems are built.",
+   "bio_zh": "美国艺术家与研究者，研究网络骚扰、数据劳动以及机器学习系统的建造方式。",
+   "why": "She treats every step of the ML pipeline, from data collection to labelling wages, as a place for feminist intervention.",
+   "why_zh": "她把机器学习流程的每一步——从数据收集到标注工资——都当作女性主义介入的场所。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://carolinesinders.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "libby-heaney",
+   "name": "Libby Heaney",
+   "kind": "person",
+   "role": "Artist and quantum physicist",
+   "role_zh": "艺术家、量子物理学家",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "British artist with a PhD in quantum physics who works with machine learning and quantum computing.",
+   "bio_zh": "英国艺术家，拥有量子物理博士学位，创作涉及机器学习与量子计算。",
+   "why": "Her video essays connect machine-learning classification to lived social class.",
+   "why_zh": "她的影像散文把机器学习分类与真实的社会阶层联系起来。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://libbyheaney.co.uk/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stephanie-dinkins",
+   "name": "Stephanie Dinkins",
+   "kind": "person",
+   "role": "Artist; Professor, Stony Brook University",
+   "role_zh": "艺术家，石溪大学教授",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American transmedia artist who works with Black communities to build AI that reflects their values and stories.",
+   "bio_zh": "美国跨媒介艺术家，与黑人社区合作，构建能体现他们价值观与故事的 AI。",
+   "why": "She asks who AI is built by and for, and prototypes community-owned alternatives.",
+   "why_zh": "她追问 AI 由谁建造、为谁建造，并做出社区所有的替代原型。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.stephaniedinkins.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jason-edward-lewis",
+   "name": "Jason Edward Lewis",
+   "kind": "person",
+   "role": "Digital media poet and artist; Professor, Concordia University; co-director, Indigenous Futures Research Centre",
+   "role_zh": "数字媒体诗人与艺术家，康考迪亚大学教授，原住民未来研究中心联合主任",
+   "based": "Montréal, Canada",
+   "based_zh": "加拿大蒙特利尔",
+   "bio": "Cherokee, Hawaiian and Samoan artist and researcher who leads the Indigenous Protocol and AI Workshops and Abundant Intelligences.",
+   "bio_zh": "具切罗基、夏威夷与萨摩亚血统的艺术家和研究者，主持“原住民协议与 AI”工作坊及 Abundant Intelligences 项目。",
+   "why": "He brings Indigenous epistemologies into the design of AI as kin rather than tool.",
+   "why_zh": "他把原住民认识论带入 AI 设计，把 AI 视为亲属而非工具。",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {
+    "site": "https://jasonlewis.org/"
+   },
+   "connected_to": [
+    "suzanne-kite"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amelia-winger-bearskin",
+   "name": "Amelia Winger-Bearskin",
+   "kind": "person",
+   "role": "Artist and technologist; Banks Preeminence Chair in AI and the Arts, University of Florida",
+   "role_zh": "艺术家与技术人，佛罗里达大学 AI 与艺术讲席教授",
+   "based": "Gainesville, FL, US",
+   "based_zh": "美国佛罗里达州盖恩斯维尔",
+   "bio": "Seneca-Cayuga artist who works on Indigenous frameworks for technology, storytelling and AI.",
+   "bio_zh": "塞内卡-卡尤加族艺术家，研究面向技术、叙事与 AI 的原住民框架。",
+   "why": "She translates wampum, a treaty and memory technology, into a code of ethics for software.",
+   "why_zh": "她把“贝壳串珠”这种记录条约与记忆的技术转译为软件的伦理准则。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://wampum.codes/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rashaad-newsome",
+   "name": "Rashaad Newsome",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American artist working in collage, performance, film and AI, drawing on Black and queer culture such as ballroom and vogue.",
+   "bio_zh": "美国艺术家，以拼贴、表演、影像和 AI 创作，取材于舞会文化、voguing 等黑人和酷儿文化。",
+   "why": "His AI 'Being' is designed as a decolonial teacher rather than a servant.",
+   "why_zh": "他的 AI“Being”被设计成去殖民的老师，而不是仆人。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://rashaadnewsome.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "te-hiku-media",
+   "name": "Te Hiku Media",
+   "kind": "lab",
+   "role": "Māori-led media organisation and language-technology lab",
+   "role_zh": "由毛利人主导的媒体机构与语言技术实验室",
+   "based": "Kaitāia, Aotearoa New Zealand",
+   "based_zh": "新西兰凯塔亚",
+   "bio": "Iwi radio and media organisation in the Far North that builds te reo Māori speech technology on data its communities own.",
+   "bio_zh": "新西兰北岛远北地区的部落广播与媒体机构，在社区自有数据之上开发毛利语语音技术。",
+   "why": "It shows that an Indigenous community can build its own AI and keep sovereignty over the data.",
+   "why_zh": "它证明原住民社区可以自建 AI，并保有对数据的主权。",
+   "disciplines": [
+    "activism"
+   ],
+   "links": {
+    "site": "https://tehiku.nz/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "masakhane",
+   "name": "Masakhane",
+   "kind": "lab",
+   "role": "Grassroots research community for African-language NLP",
+   "role_zh": "非洲语言自然语言处理的草根研究社区",
+   "based": "Across Africa (online)",
+   "based_zh": "非洲各地（线上）",
+   "bio": "Volunteer network of African researchers building datasets and models for African languages.",
+   "bio_zh": "由非洲研究者组成的志愿网络，为非洲语言构建数据集和模型。",
+   "why": "Its name means 'we build together' in isiZulu; it models participatory, community-owned AI research.",
+   "why_zh": "名称在祖鲁语中意为“我们一起建设”，代表参与式、社区所有的 AI 研究。",
+   "disciplines": [
+    "activism",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.masakhane.io/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "coding-rights",
+   "name": "Coding Rights",
+   "kind": "studio",
+   "role": "Feminist organisation for digital rights (founded by Joana Varon)",
+   "role_zh": "女性主义数字权利组织（由 Joana Varon 创立）",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "巴西里约热内卢",
+   "bio": "Brazilian women-led organisation working on data, surveillance and technology from a transfeminist, Global South perspective.",
+   "bio_zh": "巴西女性主导的组织，从跨女性主义和全球南方视角研究数据、监控与技术。",
+   "why": "Its tools help people imagine technologies built on other values than the Silicon Valley default.",
+   "why_zh": "它的工具帮助人们想象建立在硅谷默认值之外的价值上的技术。",
+   "disciplines": [
+    "activism",
+    "design"
+   ],
+   "links": {
+    "site": "https://codingrights.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-ciston",
+   "name": "Sarah Ciston",
+   "kind": "person",
+   "role": "Poet-programmer and artist; Professor, Academy of Media Arts Cologne",
+   "role_zh": "诗人程序员、艺术家，科隆媒体艺术学院教授",
+   "based": "Cologne, Germany",
+   "based_zh": "德国科隆",
+   "bio": "American artist and researcher who makes zines, chatbots, databases and toolkits on critical and intersectional AI.",
+   "bio_zh": "美国艺术家与研究者，以小志、聊天机器人、数据库和工具包探讨批判性与交叉性 AI。",
+   "why": "Her work traces how everyday AI tools connect to automated warfare and to whom they exclude.",
+   "why_zh": "她的作品追踪日常 AI 工具如何与自动化战争相连，又把谁排除在外。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://sarahciston.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "minne-atairu",
+   "name": "Minne Atairu",
+   "kind": "person",
+   "role": "Interdisciplinary artist",
+   "role_zh": "跨学科艺术家",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Nigerian-born artist who uses generative AI to explore gaps in the archive of Benin art after the 1897 British raid.",
+   "bio_zh": "生于尼日利亚的艺术家，用生成式 AI 探讨 1897 年英军洗劫之后贝宁艺术档案的空缺。",
+   "why": "She uses a model trained on looted-art images to ask what the archive cannot show.",
+   "why_zh": "她用以被掠夺文物图像训练的模型，追问档案无法呈现的东西。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://minneatairu.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nora-al-badri",
+   "name": "Nora Al-Badri",
+   "kind": "person",
+   "role": "Multi-disciplinary artist",
+   "role_zh": "跨学科艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "German-Iraqi artist whose work on 'technoheritage' questions museum ownership of non-European artefacts and their data.",
+   "bio_zh": "德国-伊拉克艺术家，以“技术遗产”为题，质疑博物馆对非欧洲文物及其数据的占有。",
+   "why": "She reclaims museum data with scraping and neural networks as a form of restitution.",
+   "why_zh": "她用爬取数据和神经网络“夺回”博物馆数据，作为一种归还。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.nora-al-badri.de/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sam-lavigne",
+   "name": "Sam Lavigne",
+   "kind": "person",
+   "role": "Artist and educator",
+   "role_zh": "艺术家、教育者",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American artist who works with scraping, surveillance tools and machine learning, often turning them back on the powerful.",
+   "bio_zh": "美国艺术家，使用网页爬取、监控工具和机器学习，常常把它们反过来对准有权力的人。",
+   "why": "His projects make predictive systems visible by pointing them at unexpected targets.",
+   "why_zh": "他的项目把预测系统对准意想不到的目标，使其显形。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://lav.io/"
+   },
+   "connected_to": [
+    "tega-brain"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lynn-hershman-leeson",
+   "name": "Lynn Hershman Leeson",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家、电影人",
+   "based": "San Francisco, US",
+   "based_zh": "美国旧金山",
+   "bio": "American artist who has worked on identity, surveillance, cyborgs and artificial intelligence since the 1970s.",
+   "bio_zh": "美国艺术家，自 1970 年代起创作关于身份、监控、赛博格与人工智能的作品。",
+   "why": "She anticipated data doubles and chatbot selves decades before they were common.",
+   "why_zh": "她比大众早几十年就预见了数据分身与聊天机器人自我。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.lynnhershman.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hito-steyerl",
+   "name": "Hito Steyerl",
+   "kind": "person",
+   "role": "Artist, filmmaker and writer",
+   "role_zh": "艺术家、电影人、作家",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "German filmmaker and essayist whose video installations examine images, circulation, labour and computation.",
+   "bio_zh": "德国电影人和写作者，影像装置聚焦图像、流通、劳动与计算。",
+   "why": "She shows machine learning, robotics and simulation as systems of labour, policing and war.",
+   "why_zh": "她把机器学习、机器人和模拟呈现为劳动、治安与战争的系统。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Hito_Steyerl"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tactical-tech",
+   "name": "Tactical Tech",
+   "kind": "studio",
+   "role": "International NGO on technology and society",
+   "role_zh": "关注技术与社会的国际非政府组织",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "Non-profit that runs public exhibitions and toolkits on data, privacy and influence.",
+   "bio_zh": "非营利组织，制作关于数据、隐私与影响操纵的公众展览和工具包。",
+   "why": "Its Glass Room turned critical data literacy into a touring, shop-like exhibition.",
+   "why_zh": "它的“玻璃屋”把批判性数据素养做成了巡回的、像商店一样的展览。",
+   "disciplines": [
+    "activism",
+    "design"
+   ],
+   "links": {
+    "site": "https://tacticaltech.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "american-artist",
+   "name": "American Artist",
+   "kind": "person",
+   "role": "Interdisciplinary artist",
+   "role_zh": "跨学科艺术家",
+   "based": "Los Angeles, US",
+   "based_zh": "美国洛杉矶",
+   "bio": "American artist who legally changed their name to American Artist; their work addresses Black labour, policing and technology.",
+   "bio_zh": "美国艺术家，依法将姓名改为 American Artist，作品关注黑人劳动、警务与技术。",
+   "why": "They show predictive policing from the point of view of the machine and of those it targets.",
+   "why_zh": "他们从机器和被针对者的双重视角呈现预测性警务。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://americanartist.us/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manu-luksch",
+   "name": "Manu Luksch",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家、电影人",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "Austrian-born artist and filmmaker who works on surveillance, data rights and networked media.",
+   "bio_zh": "生于奥地利的艺术家与电影人，研究监控、数据权利与网络媒体。",
+   "why": "She made a feature film entirely from CCTV footage of herself obtained through data-protection law.",
+   "why_zh": "她用依据数据保护法取得的自己的监控录像完成了一部完整的长片。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://manuluksch.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jill-magid",
+   "name": "Jill Magid",
+   "kind": "person",
+   "role": "Artist and writer",
+   "role_zh": "艺术家、作家",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "American artist who forms intimate relationships with systems of power such as police, secret services and CCTV.",
+   "bio_zh": "美国艺术家，与警察、情报机构和闭路监控等权力系统建立亲密关系。",
+   "why": "She turns surveillance systems into partners in a love story.",
+   "why_zh": "她把监控系统变成了一段爱情故事中的伴侣。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.jillmagid.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hasan-elahi",
+   "name": "Hasan Elahi",
+   "kind": "person",
+   "role": "Artist; Professor, George Mason University",
+   "role_zh": "艺术家，乔治梅森大学教授",
+   "based": "Washington, D.C., US",
+   "based_zh": "美国华盛顿特区",
+   "bio": "Bangladeshi-American artist who, after being mistakenly placed on a US terrorist watch list, began tracking and publishing his own life.",
+   "bio_zh": "孟加拉裔美国艺术家，在被误列入美国恐怖分子观察名单后开始追踪并公开自己的生活。",
+   "why": "His self-surveillance shows how too much data can hide a person as well as expose them.",
+   "why_zh": "他的自我监控显示，过多的数据既能暴露一个人，也能把人淹没。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Hasan_Elahi"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "surveillance-camera-players",
+   "name": "Surveillance Camera Players",
+   "kind": "studio",
+   "role": "Performance group founded by Bill Brown",
+   "role_zh": "由 Bill Brown 创立的表演团体",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Activist troupe that staged silent plays in front of public CCTV cameras from 1996.",
+   "bio_zh": "从 1996 年起在公共监控摄像头前上演无声戏剧的行动主义团体。",
+   "why": "They were among the first to treat the surveillance camera as an audience.",
+   "why_zh": "他们最早把监控摄像头当作观众的团体之一。",
+   "disciplines": [
+    "performance",
+    "activism"
+   ],
+   "links": {
+    "site": "http://www.notbored.org/the-scp.html"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julian-oliver",
+   "name": "Julian Oliver",
+   "kind": "person",
+   "role": "Critical engineer and artist",
+   "role_zh": "批判性工程师与艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "New Zealand artist and co-author of the Critical Engineering Manifesto.",
+   "bio_zh": "新西兰艺术家，《批判性工程宣言》的合著者。",
+   "why": "He exposes networks by building devices that intercept, leak or impersonate them.",
+   "why_zh": "他制作能拦截、泄露或冒充网络的装置，让网络显形。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://julianoliver.com/"
+   },
+   "connected_to": [
+    "tega-brain"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "addie-wagenknecht",
+   "name": "Addie Wagenknecht",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Liechtenstein / Austria",
+   "based_zh": "列支敦士登 / 奥地利",
+   "bio": "American artist who blends hacking, conceptual art and painting, including paintings made with drones.",
+   "bio_zh": "美国艺术家，融合黑客、观念艺术与绘画，包括用无人机作画。",
+   "why": "She makes surveillance hardware into domestic ornament.",
+   "why_zh": "她把监控硬件做成家居装饰。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.placesiveneverbeen.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "james-bridle",
+   "name": "James Bridle",
+   "kind": "person",
+   "role": "Artist and writer",
+   "role_zh": "艺术家、作家",
+   "based": "Athens, Greece",
+   "based_zh": "希腊雅典",
+   "bio": "British artist and writer working on technology, networks, war and nonhuman intelligence; author of New Dark Age (2018).",
+   "bio_zh": "英国艺术家和作家，研究技术、网络、战争与非人类智能，著有《新黑暗时代》（2018）。",
+   "why": "Their drone works made the invisible machinery of remote war show up on the street and in the feed.",
+   "why_zh": "他们的无人机作品让远程战争的隐形机器出现在街头和信息流里。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://jamesbridle.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "simon-denny",
+   "name": "Simon Denny",
+   "kind": "person",
+   "role": "Artist; Professor, HFBK Hamburg",
+   "role_zh": "艺术家，汉堡美术学院教授",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "bio": "New Zealand artist who stages the aesthetics and ideologies of tech companies, surveillance agencies and crypto.",
+   "bio_zh": "新西兰艺术家，把科技公司、情报机构和加密货币的美学与意识形态搬上展台。",
+   "why": "He makes the design language of power, from NSA slides to Amazon patents, into physical objects.",
+   "why_zh": "他把权力的设计语言——从 NSA 幻灯片到亚马逊专利——做成实物。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://simondenny.net/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "theo-anthony",
+   "name": "Theo Anthony",
+   "kind": "person",
+   "role": "Filmmaker",
+   "role_zh": "电影人",
+   "based": "Baltimore, US",
+   "based_zh": "美国巴尔的摩",
+   "bio": "American documentary filmmaker whose films question how images and instruments claim objectivity.",
+   "bio_zh": "美国纪录片导演，作品质疑图像和仪器如何宣称客观。",
+   "why": "His film follows police body cameras back to the history of seeing machines.",
+   "why_zh": "他的电影把警用随身摄像机追溯到观看机器的历史之中。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Theo_Anthony"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-lyn-morone",
+   "name": "Jennifer Lyn Morone",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "American artist who turned herself into a registered corporation whose assets are her data, health and skills.",
+   "bio_zh": "美国艺术家，把自己注册成一家公司，资产是她自己的数据、健康与技能。",
+   "why": "She took the logic of data capitalism literally and applied it to one person.",
+   "why_zh": "她把数据资本主义的逻辑按字面意思施加在一个人身上。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://jenniferlynmorone.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bill-posters",
+   "name": "Bill Posters",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "role_zh": "艺术家、研究者",
+   "based": "UK",
+   "based_zh": "英国",
+   "bio": "British artist (pseudonym) who works on political deepfakes, advertising and the data-influence industry, often with Daniel Howe.",
+   "bio_zh": "英国艺术家（化名），常与 Daniel Howe 合作，研究政治深度伪造、广告与数据影响产业。",
+   "why": "He uses deepfakes of tech leaders to make the influence industry speak about itself.",
+   "why_zh": "他用科技领袖的深度伪造视频，让影响操纵产业“自我陈述”。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://billposters.ch/"
+   },
+   "connected_to": [
+    "daniel-howe"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daniel-howe",
+   "name": "Daniel Howe",
+   "kind": "person",
+   "role": "Artist, programmer and professor",
+   "role_zh": "艺术家、程序员、教授",
+   "based": "Hong Kong / Berlin",
+   "based_zh": "香港 / 柏林",
+   "bio": "American artist and researcher whose works (with Helen Nissenbaum) include the obfuscation tools TrackMeNot and AdNauseam.",
+   "bio_zh": "美国艺术家与研究者，与 Helen Nissenbaum 合作开发了混淆工具 TrackMeNot 和 AdNauseam。",
+   "why": "He builds software that resists tracking by producing noise.",
+   "why_zh": "他制作以制造噪声来对抗追踪的软件。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://rednoise.org/daniel/"
+   },
+   "connected_to": [
+    "bill-posters"
+   ],
+   "discovered_via": "bill-posters"
+  },
+  {
+   "id": "joana-moll",
+   "name": "Joana Moll",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "role_zh": "艺术家、研究者",
+   "based": "Barcelona, Spain / Berlin, Germany",
+   "based_zh": "巴塞罗那，西班牙 / 柏林，德国",
+   "bio": "Spanish artist whose work examines the material, ecological and surveillance costs of digital technologies.",
+   "bio_zh": "西班牙艺术家，研究数字技术在物质、生态与监控层面的代价。",
+   "why": "She measures the carbon, labour and tracking hidden in ordinary clicks.",
+   "why_zh": "她测量普通点击背后隐藏的碳排放、劳动与追踪。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.janavirgin.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tega-brain",
+   "name": "Tega Brain",
+   "kind": "person",
+   "role": "Artist and environmental engineer; Associate Professor of Integrated Digital Media, New York University",
+   "role_zh": "艺术家、环境工程师，纽约大学综合数字媒体副教授",
+   "based": "New York, US",
+   "based_zh": "美国纽约",
+   "bio": "Australian-born artist and engineer whose works treat infrastructure, data and 'eccentric engineering' as ecological questions.",
+   "bio_zh": "出生于澳大利亚的艺术家和工程师，把基础设施、数据与“古怪工程”当作生态问题来处理。",
+   "why": "She puts optimising algorithms in charge of ecosystems and fitness data to show what they cannot see.",
+   "why_zh": "她让优化算法去管理生态系统和健身数据，从而暴露它们看不见的东西。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://tegabrain.com/"
+   },
+   "connected_to": [
+    "julian-oliver",
+    "sam-lavigne"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "joy-buolamwini--ai-aint-i-a-woman",
+   "creator_ids": [
+    "joy-buolamwini"
+   ],
+   "title": "AI, Ain't I A Woman?",
+   "year": 2018,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "failure-glitch",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A spoken-word video in which Buolamwini shows commercial AI systems mislabelling portraits of Sojourner Truth, Ida B. Wells, Michelle Obama, Oprah Winfrey and Serena Williams as male.",
+   "description_zh": "一段口语诗影像：Buolamwini 展示商用 AI 系统把 Sojourner Truth、Ida B. Wells、米歇尔·奥巴马、奥普拉和塞雷娜·威廉姆斯的肖像错标为男性。",
+   "idea_en": "A machine's error can repeat an old insult; poetry can make an audit felt.",
+   "idea_zh": "机器的错误可能重复一句古老的侮辱；诗歌能让一份审计报告被感受到。",
+   "method": "Buolamwini ran historical and contemporary portraits of Black women through face-analysis services from major tech companies and set the returned labels to her reading of a poem named after Sojourner Truth's 1851 speech.",
+   "method_zh": "Buolamwini 把黑人女性的历史与当代肖像输入各大科技公司的人脸分析服务，并把返回的标签配上她朗读的诗；诗名取自 Sojourner Truth 1851 年的演讲。",
+   "keywords": [
+    "spoken word",
+    "face analysis",
+    "Sojourner Truth",
+    "misgendering",
+    "coded gaze"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QxuyfWoVV98"
+   },
+   "source_url": "https://www.ajl.org/"
+  },
+  {
+   "id": "joy-buolamwini--the-coded-gaze",
+   "creator_ids": [
+    "joy-buolamwini"
+   ],
+   "title": "The Coded Gaze: Unmasking Algorithmic Bias",
+   "year": 2016,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A short video in which Buolamwini, working on an MIT project, finds that a face-tracking system only detects her face when she puts on a white mask.",
+   "description_zh": "一段短片：Buolamwini 在 MIT 做项目时发现，人脸追踪系统只有在她戴上白色面具时才能检测到她的脸。",
+   "idea_en": "Being invisible to a machine is not neutral; it follows who was in the training data.",
+   "idea_zh": "不被机器看见并不中立；它取决于谁出现在训练数据里。",
+   "method": "Screen recordings of an off-the-shelf face-detection library, compared on her own face, a lighter-skinned colleague's face and a white mask.",
+   "method_zh": "用现成的人脸检测库录屏，对比她自己的脸、一位浅肤色同事的脸和一张白色面具。",
+   "keywords": [
+    "white mask",
+    "face detection",
+    "coded gaze",
+    "MIT Media Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=162VzSzzoPs"
+   },
+   "source_url": "https://www.ajl.org/"
+  },
+  {
+   "id": "joy-buolamwini--voicing-erasure",
+   "creator_ids": [
+    "joy-buolamwini"
+   ],
+   "title": "Voicing Erasure",
+   "year": 2020,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-listening",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A spoken-word piece in which women scholars of AI bias read their work aloud while speech-recognition systems transcribe them badly, and voice assistants answer questions about women's history with men.",
+   "description_zh": "一段口语诗作品：研究 AI 偏见的女性学者朗读自己的研究，语音识别系统把她们的话转写得错漏百出，语音助手在回答女性历史问题时给出的却是男性。",
+   "idea_en": "Speech recognition hears some voices better than others; mishearing is a way of erasing.",
+   "idea_zh": "语音识别对某些声音听得更清楚；听错也是一种抹除。",
+   "method": "Made with the Algorithmic Justice League after a Stanford study found error rates for Black speakers nearly double those for white speakers in five commercial speech-to-text systems.",
+   "method_zh": "与算法正义联盟合作完成。此前斯坦福的一项研究发现，五款商用语音转文字系统对黑人说话者的错误率接近白人说话者的两倍。",
+   "keywords": [
+    "speech recognition",
+    "voice assistants",
+    "Algorithmic Justice League",
+    "Ruha Benjamin",
+    "Safiya Noble"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SdCPbyDJtK0"
+   },
+   "source_url": "https://www.ajl.org/voicing-erasure"
+  },
+  {
+   "id": "shalini-kantayya--coded-bias",
+   "creator_ids": [
+    "shalini-kantayya"
+   ],
+   "title": "Coded Bias",
+   "year": 2020,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A feature documentary that follows Joy Buolamwini from her discovery of face-recognition bias to testimony before the US Congress, alongside London police face-recognition trials and China's social scoring.",
+   "description_zh": "一部长篇纪录片：跟随 Joy Buolamwini 从发现人脸识别偏见一直到在美国国会作证，同时呈现伦敦警方的人脸识别试验和中国的社会评分。",
+   "idea_en": "Algorithmic harm is a civil-rights issue that needs law, not only better models.",
+   "idea_zh": "算法造成的伤害是公民权利问题，需要法律，而不仅是更好的模型。",
+   "method": "Observational documentary with interviews of researchers including Cathy O'Neil, Meredith Broussard, Safiya Noble, Timnit Gebru and Silkie Carlo of Big Brother Watch.",
+   "method_zh": "观察式纪录片，采访了 Cathy O'Neil、Meredith Broussard、Safiya Noble、Timnit Gebru 以及“老大哥观察”的 Silkie Carlo 等研究者和行动者。",
+   "keywords": [
+    "documentary",
+    "face recognition",
+    "Big Brother Watch",
+    "Netflix",
+    "Sundance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7pMV9scmKwc"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5eb23eee707c5356dea97eaa/1590130745535-D27NXEHHTSDPDBTXVMMF/CODED_BIAS_Home_Resize_2.jpg"
+   ],
+   "source_url": "https://www.codedbias.com/",
+   "exhibited": [
+    "Sundance Film Festival 2020"
+   ]
+  },
+  {
+   "id": "mimi-onuoha--us-aggregated",
+   "creator_ids": [
+    "mimi-onuoha"
+   ],
+   "title": "Us, Aggregated",
+   "year": 2017,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "recommender-platform",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "Photos from the artist's family archive, never before online, are shown next to the images Google's reverse image search judges 'similar' to them.",
+   "description_zh": "艺术家家庭相册里从未上网的照片，与谷歌以图搜图判定为“相似”的图像并排展示。",
+   "idea_en": "Grouping people from above is a quiet exercise of power: the machine builds an 'us' that is really a 'them'.",
+   "idea_zh": "自上而下地给人分组是一种不动声色的权力：机器建构的“我们”其实是“他们”。",
+   "method": "The artist programmatically queried Google's reverse image search with each family photo and presented the results as a grid; later versions (3.0, 2019) are a looping video with a hovering cursor.",
+   "method_zh": "艺术家用每张家庭照片以程序方式查询谷歌以图搜图，并把结果排成网格；后来的 3.0 版（2019）是一段带有游移光标的循环影像。",
+   "keywords": [
+    "reverse image search",
+    "Google",
+    "family archive",
+    "classification"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/21a78b11-40de-4823-8c9c-802c59fd4c25/00_UA3_installationshot-cropped_courtesyofQuad.jpg",
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/38a2109b-ba77-40cf-be21-c17c2ddb4c90/02_UA3_videostill_courtesyofartist.jpg"
+   ],
+   "source_url": "https://www.mimionuoha.com/"
+  },
+  {
+   "id": "libby-heaney--classes",
+   "creator_ids": [
+    "libby-heaney"
+   ],
+   "title": "CLASSES",
+   "year": 2021,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "vision-system",
+    "dataset",
+    "generative-latent"
+   ],
+   "lenses": [
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A video essay set in a simulated model of the London council estate where the artist lives, where machine and human voices narrate how machine-learning classification distorts working-class life.",
+   "description_zh": "一部影像散文，场景是艺术家居住的伦敦公屋小区的模拟模型；机器与人声交替讲述机器学习分类如何扭曲工人阶级的生活。",
+   "idea_en": "Machine-learning 'classes' and social class are entangled: models trained on the web see the estate through other people's eyes.",
+   "idea_zh": "机器学习的“类别”与社会“阶层”相互纠缠：用网络数据训练的模型，是用别人的眼睛看这片公屋。",
+   "method": "Object detection, image captioning and language models are run over a 3D scan of the estate; the outputs are voiced and overlaid in a 14-minute single-channel video.",
+   "method_zh": "在公屋的三维扫描上运行目标检测、图像描述和语言模型，并把输出配音、叠加在一段 14 分钟的单屏影像中。",
+   "keywords": [
+    "social class",
+    "council estate",
+    "object detection",
+    "video essay"
+   ],
+   "images": [
+    "https://libbyheaney.co.uk/wp-content/uploads/2022/11/1-1.jpg",
+    "https://libbyheaney.co.uk/wp-content/uploads/2022/11/2.jpg"
+   ],
+   "source_url": "https://libbyheaney.co.uk/artworks/classes/"
+  },
+  {
+   "id": "sam-lavigne--white-collar-crime-risk-zones",
+   "creator_ids": [
+    "sam-lavigne"
+   ],
+   "title": "White Collar Crime Risk Zones",
+   "year": 2017,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "recommender-platform",
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A predictive-policing map and app that forecasts financial crime instead of street crime; it also shows the 'likely suspect', a face averaged from thousands of LinkedIn photos of executives.",
+   "description_zh": "一张预测性警务地图和应用，预测的是金融犯罪而不是街头犯罪；它还给出“可能的嫌疑人”——由数千张高管 LinkedIn 照片平均而成的一张脸。",
+   "idea_en": "Predictive policing is a choice of targets; point it at Wall Street and its logic becomes visible.",
+   "idea_zh": "预测性警务的本质是选择打击对象；把它对准华尔街，它的逻辑就显露了。",
+   "method": "Made with Brian Clifton and Francis Tseng for The New Inquiry: a model trained on 1964–2016 FINRA financial-misconduct data predicts risk by location, and a face-averaging algorithm builds the suspect.",
+   "method_zh": "与 Brian Clifton、Francis Tseng 为《The New Inquiry》合作：用 1964–2016 年美国金融业监管局（FINRA）的违规数据训练模型按地点预测风险，并用人脸平均算法生成嫌疑人面孔。",
+   "keywords": [
+    "predictive policing",
+    "Wall Street",
+    "FINRA",
+    "The New Inquiry",
+    "Brian Clifton",
+    "Francis Tseng"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wj8meXnHSPo"
+   },
+   "images": [
+    "https://whitecollar.thenewinquiry.com/assets/share.jpg?v=2",
+    "https://lav.io/projects/white-collar-crime-risk-zones/ars-electronica_huf442887b5b01f9ea96a9441d7fc1f197_3973697_1800x0_resize_q85_box.jpg"
+   ],
+   "source_url": "https://whitecollar.thenewinquiry.com/"
+  },
+  {
+   "id": "lynn-hershman-leeson--shadow-stalker",
+   "creator_ids": [
+    "lynn-hershman-leeson"
+   ],
+   "title": "Shadow Stalker",
+   "year": 2019,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "recommender-platform",
+    "surveillance-biometric",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Visitors type their email address and see their 'data shadow' projected: addresses, relatives and traces found online; a film on predictive policing plays with a 'Spirit of the Deep Web' played by Tessa Thompson.",
+   "description_zh": "观众输入自己的电子邮箱，就会看到投影出来的“数据阴影”：网上能找到的地址、亲属与各种痕迹；同时播放一部关于预测性警务的影片，由 Tessa Thompson 饰演“深网之灵”。",
+   "idea_en": "Everyone casts a data shadow that others can read and act on, often wrongly.",
+   "idea_zh": "每个人都会投下一道数据阴影，别人可以读取它、据此行动，而且常常读错。",
+   "method": "An installation using open-source intelligence searches on visitors' emails, projected on the floor, with a film on algorithms such as PredPol; commissioned by The Shed, New York.",
+   "method_zh": "装置对观众邮箱进行开源情报检索并投影在地面上，配合一部关于 PredPol 等算法的影片；由纽约 The Shed 委托创作。",
+   "keywords": [
+    "data shadow",
+    "predictive policing",
+    "PredPol",
+    "Tessa Thompson",
+    "The Shed"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FS5FJmtFy64"
+   },
+   "images": [
+    "https://www.lynnhershman.com/wp-content/uploads/2019/10/ShadowStalker_Image07.jpg"
+   ],
+   "source_url": "https://www.lynnhershman.com/project/shadow-stalker/",
+   "exhibited": [
+    "The Shed, New York 2019"
+   ]
+  },
+  {
+   "id": "hito-steyerl--the-city-of-broken-windows",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "The City of Broken Windows",
+   "year": 2018,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "voice-listening",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-listening",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A two-part installation: engineers smash windows in a hangar to record training data for an AI that detects breaking glass, while the activist Chris Toepfer paints boarded-up windows in Camden, New Jersey, to look lived-in.",
+   "description_zh": "两部分组成的装置：工程师在机库里砸碎玻璃，为识别玻璃破碎声的 AI 录制训练数据；行动者 Chris Toepfer 则在新泽西州卡姆登把封起的窗户画成有人居住的样子。",
+   "idea_en": "Machine listening for 'broken windows' carries the old policing theory into code; repair is the counter-gesture.",
+   "idea_zh": "为“破窗”而训练的机器听觉，把旧的警务理论写进了代码；修补是与之相对的动作。",
+   "method": "Two video channels, 'Unbroken Windows' and 'Broken Windows', filmed at a UK company training audio classifiers for security systems and with Chris Toepfer's window-painting project.",
+   "method_zh": "两段影像《未破之窗》和《破窗》，分别拍摄于一家为安防系统训练音频分类器的英国公司，以及 Chris Toepfer 的画窗行动。",
+   "keywords": [
+    "broken windows theory",
+    "machine listening",
+    "training data",
+    "Castello di Rivoli"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iyyM4vDg0xw"
+   },
+   "source_url": "https://www.castellodirivoli.org/en/mostra/hito-steyerl-the-city-of-broken-windows/",
+   "exhibited": [
+    "Castello di Rivoli 2018"
+   ]
+  },
+  {
+   "id": "tactical-tech--the-glass-room",
+   "creator_ids": [
+    "tactical-tech"
+   ],
+   "title": "The Glass Room",
+   "year": 2016,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "recommender-platform",
+    "surveillance-biometric",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A pop-up exhibition designed like a sleek tech store, where the 'products' are artworks and investigations about data tracking, and staff called Ingeniuses give privacy advice.",
+   "description_zh": "一个设计得像时髦科技商店的快闪展览，“商品”是关于数据追踪的艺术作品与调查，名为“Ingenius”的工作人员为观众提供隐私建议。",
+   "idea_en": "Borrowing the look of the tech store lets a critique of data extraction reach people who would never enter a gallery.",
+   "idea_zh": "借用科技商店的外观，让对数据攫取的批评触及从不进画廊的人。",
+   "method": "Curated by Tactical Tech with Mozilla; first in Berlin (2016), then New York, London and San Francisco, with a 'Data Detox Kit' and a travelling community edition.",
+   "method_zh": "由 Tactical Tech 与 Mozilla 合作策划；2016 年首展于柏林，之后在纽约、伦敦和旧金山展出，并配有“数据排毒工具包”和社区巡展版本。",
+   "keywords": [
+    "exhibition",
+    "Mozilla",
+    "data detox",
+    "privacy",
+    "tech store"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=k47lhUmj5ho"
+   },
+   "images": [
+    "https://cdn.ttc.io/i/fit/1740/0/sm/0/plain/theglassroom.org/SF-Atmosphere/sat-26-oct-Daisy12.JPG"
+   ],
+   "source_url": "https://theglassroom.org/",
+   "exhibited": [
+    "Berlin 2016",
+    "New York 2016",
+    "London 2017",
+    "San Francisco 2019"
+   ]
+  },
+  {
+   "id": "american-artist--my-blue-window",
+   "creator_ids": [
+    "american-artist"
+   ],
+   "title": "My Blue Window",
+   "year": 2019,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "recommender-platform",
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "An installation built like a police cruiser's interior, where visitors watch the film 2015 on the dashboard: a dashcam drive through New York while predictive-policing software flags 'high-risk' zones.",
+   "description_zh": "装置被布置成警车内部，观众在仪表盘上观看影片《2015》：一段穿行纽约的行车记录画面，预测性警务软件不断标出“高风险”区域。",
+   "idea_en": "Predictive policing gives the officer a machine's view of the city; the viewer sits in the seat that sees neighbourhoods as risk scores.",
+   "idea_zh": "预测性警务给警察一双机器的眼睛；观众坐进这个把街区看成风险分数的位置。",
+   "method": "Dashcam-style footage overlaid with interface graphics modelled on predictive policing tools such as HunchLab; shown with the phone app 1956/2054 at the Queens Museum.",
+   "method_zh": "仿行车记录仪画面叠加模仿 HunchLab 等预测性警务工具的界面图形；在皇后区美术馆与手机应用《1956/2054》一同展出。",
+   "keywords": [
+    "predictive policing",
+    "dashcam",
+    "HunchLab",
+    "Queens Museum",
+    "2015"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59238d36d2b8575d127794a4/1572016941388-EJM1NHYJ77SXY3WF9G2E/QM-MyBlueWindow-_71A5256-LowRes.jpg"
+   ],
+   "source_url": "https://americanartist.us/works/my-blue-window",
+   "exhibited": [
+    "Queens Museum 2019"
+   ]
+  },
+  {
+   "id": "manu-luksch--faceless",
+   "creator_ids": [
+    "manu-luksch"
+   ],
+   "title": "Faceless",
+   "year": 2007,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A science-fiction film made entirely from CCTV footage of the artist in London, obtained under the UK Data Protection Act; other people's faces arrive blanked out by law, so the city appears faceless.",
+   "description_zh": "一部完全由伦敦监控录像构成的科幻电影，这些录像是艺术家依据英国《数据保护法》调取的自己的影像；法律规定他人的脸要被抹去，于是城市看上去没有面孔。",
+   "idea_en": "The law's redaction of faces became the film's world: a city where only the requester has a face.",
+   "idea_zh": "法律对面孔的遮蔽成了电影的世界观：只有申请者本人还拥有一张脸的城市。",
+   "method": "Luksch followed a 'Manifesto for CCTV Filmmakers', performing in front of public cameras and then filing subject-access requests for the recordings; narrated by Tilda Swinton.",
+   "method_zh": "Luksch 按照自拟的《闭路电视电影人宣言》在公共摄像头前表演，再以数据主体身份申请调取录像；由 Tilda Swinton 旁白。",
+   "keywords": [
+    "CCTV",
+    "Data Protection Act",
+    "Tilda Swinton",
+    "London",
+    "subject access request"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yLzJCeGYgbg"
+   },
+   "source_url": "https://manuluksch.com/"
+  },
+  {
+   "id": "jill-magid--evidence-locker",
+   "creator_ids": [
+    "jill-magid"
+   ],
+   "title": "Evidence Locker",
+   "year": 2004,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "For 31 days in Liverpool the artist worked with Citywatch, the city's police CCTV system, directing operators by phone to follow her and writing them love letters in the form of footage-request forms.",
+   "description_zh": "在利物浦的 31 天里，艺术家与城市警方的闭路电视系统 Citywatch 合作，通过电话指引操作员跟拍自己，并以调取录像申请表的形式给他们写情书。",
+   "idea_en": "A surveillance system can be seduced into care; the intimacy exposes who holds the camera.",
+   "idea_zh": "监控系统也可以被“引诱”成一种照顾；这份亲密暴露了是谁在握着摄像机。",
+   "method": "Magid wore a red coat so operators could find her, requested the footage under the Data Protection Act (it was otherwise deleted after 31 days), and edited it into videos and a 'Reading Room' installation.",
+   "method_zh": "Magid 穿红色外套方便操作员找到她，依据《数据保护法》申请调取录像（否则 31 天后会被删除），再剪辑成影像和一个“阅读室”装置。",
+   "keywords": [
+    "CCTV",
+    "Liverpool",
+    "Citywatch",
+    "FACT",
+    "Tate Liverpool",
+    "love letters"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=laStNBHSfuU"
+   },
+   "source_url": "https://www.jillmagid.com/projects/evidence-locker-2",
+   "exhibited": [
+    "FACT Liverpool 2004",
+    "Tate Liverpool 2004"
+   ]
+  },
+  {
+   "id": "hasan-elahi--tracking-transience",
+   "creator_ids": [
+    "hasan-elahi"
+   ],
+   "title": "Tracking Transience",
+   "year": 2002,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "After the FBI questioned him for months over a false tip, Elahi began publishing his location and tens of thousands of photos of his meals, toilets and flights online, for the agency and anyone else.",
+   "description_zh": "在因一条错误举报被 FBI 反复盘问数月之后，Elahi 开始在网上公开自己的位置，以及成千上万张餐食、厕所和航班的照片，给 FBI 也给所有人看。",
+   "idea_en": "Flooding the watchers with data makes a person both fully visible and hard to read.",
+   "idea_zh": "用数据淹没监视者，使一个人既完全可见，又难以解读。",
+   "method": "A GPS tracker and a website updated continuously with timestamped photographs since 2002; the archive now holds tens of thousands of images.",
+   "method_zh": "自 2002 年起，GPS 追踪器与网站持续更新带时间戳的照片；如今档案已有数万张图像。",
+   "keywords": [
+    "self-surveillance",
+    "FBI",
+    "GPS",
+    "watch list",
+    "sousveillance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wAdwurHhv-I"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Hasan_Elahi"
+  },
+  {
+   "id": "surveillance-camera-players--cctv-plays",
+   "creator_ids": [
+    "surveillance-camera-players"
+   ],
+   "title": "Performances for Surveillance Cameras",
+   "year": 1996,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A New York troupe stages silent adaptations of Orwell's 1984 and other plays in front of public CCTV cameras, holding up placards for the operators, and leads walking tours mapping cameras.",
+   "description_zh": "纽约的一个剧团在公共监控摄像头前无声地演出改编的奥威尔《1984》等剧目，举着给监控员看的标语牌，并带领市民绕城“认摄像头”。",
+   "idea_en": "If the camera is always watching, perform for it: the operator becomes an audience, and the watched become actors.",
+   "idea_zh": "既然摄像头一直在看，那就为它表演：监控员成了观众，被监视者成了演员。",
+   "method": "Short silent plays with large text boards performed at camera locations, documented from the street; the group also published maps of cameras in Manhattan.",
+   "method_zh": "在摄像头所在位置表演配有大字牌的短小无声剧，并从街头进行记录；该团体还出版了曼哈顿摄像头地图。",
+   "keywords": [
+    "CCTV",
+    "Orwell 1984",
+    "Bill Brown",
+    "street performance",
+    "camera mapping"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9BtntSJc0a4"
+   },
+   "source_url": "http://www.notbored.org/the-scp.html"
+  },
+  {
+   "id": "julian-oliver--transparency-grenade",
+   "creator_ids": [
+    "julian-oliver"
+   ],
+   "title": "Transparency Grenade",
+   "year": 2012,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "infrastructure",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A cast-resin Soviet F1 hand grenade with a tiny computer, microphone and antenna inside: 'pulling the pin' captures network traffic and audio in the room and leaks them to a public online map.",
+   "description_zh": "一枚树脂浇铸的苏联 F1 手雷，内部藏有微型电脑、麦克风和天线：“拉开保险”就会截获房间里的网络流量和声音，并泄露到一张公开的在线地图上。",
+   "idea_en": "Transparency can be forced from below; the network in any room can be made to speak.",
+   "idea_zh": "透明也可以自下而上地强制实现；任何房间里的网络都可以被迫“开口”。",
+   "method": "A Linux single-board computer with a Wi-Fi antenna and microphone sniffs unencrypted traffic, extracts emails, hostnames and images, and streams them to a server that maps the leak.",
+   "method_zh": "一台带 Wi-Fi 天线和麦克风的 Linux 单板电脑嗅探未加密流量，提取邮件、主机名和图片，并传给服务器在地图上呈现泄露内容。",
+   "keywords": [
+    "network sniffing",
+    "WikiLeaks",
+    "critical engineering",
+    "grenade"
+   ],
+   "images": [
+    "https://julianoliver.com/projects/transparency-grenade/images/transparency-grenade2.jpg"
+   ],
+   "source_url": "https://julianoliver.com/projects/transparency-grenade/"
+  },
+  {
+   "id": "julian-oliver--stealth-cell-tower",
+   "creator_ids": [
+    "julian-oliver"
+   ],
+   "title": "Stealth Cell Tower",
+   "year": 2015,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "infrastructure",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A mobile-phone base station disguised as an office printer, which lets nearby phones connect to it and then sends them text messages that appear to come from people in their contacts.",
+   "description_zh": "一台伪装成办公室打印机的手机基站：附近的手机会自动连上它，然后收到看似来自通讯录中熟人的短信。",
+   "idea_en": "The same trick police use to intercept phones (the 'IMSI catcher') fits in an office printer.",
+   "idea_zh": "警方用来截获手机的招数（“IMSI 捕获器”）可以装进一台办公打印机。",
+   "method": "A GSM base station built from a software-defined radio and a Raspberry Pi hidden in an HP printer, which also prints the texts it sends.",
+   "method_zh": "由软件无线电和树莓派组成的 GSM 基站藏在一台惠普打印机里，打印机还会打印出它发出的短信。",
+   "keywords": [
+    "IMSI catcher",
+    "Stingray",
+    "GSM",
+    "software-defined radio",
+    "printer"
+   ],
+   "images": [
+    "https://julianoliver.com/projects/stealth-cell-tower/images/stealth-cell-tower.jpg",
+    "https://julianoliver.com/projects/stealth-cell-tower/images/print.jpg"
+   ],
+   "source_url": "https://julianoliver.com/projects/stealth-cell-tower/"
+  },
+  {
+   "id": "addie-wagenknecht--asymmetric-love",
+   "creator_ids": [
+    "addie-wagenknecht"
+   ],
+   "title": "Asymmetric Love",
+   "year": 2013,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "A crystal chandelier assembled from CCTV cameras, network cables and hardware, hung like a luxury light fitting.",
+   "description_zh": "一盏用闭路监控摄像头、网线和硬件组装成的水晶吊灯，像奢侈品灯具一样悬挂。",
+   "idea_en": "Surveillance has become domestic décor: we hang it in our homes and admire it.",
+   "idea_zh": "监控已成为家居装饰：我们把它挂在家里，还会欣赏它。",
+   "method": "Security cameras and CAT5 cables arranged on a chandelier frame; later versions of the series include working cameras.",
+   "method_zh": "把安防摄像头和网线安装在吊灯框架上；该系列后来的版本包含可以工作的摄像头。",
+   "keywords": [
+    "chandelier",
+    "CCTV",
+    "sculpture",
+    "domestic"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/800/i/O1964140200252626760958482768938/image-asset-7.jpeg"
+   ],
+   "source_url": "https://www.placesiveneverbeen.com/asymmetric-love"
+  },
+  {
+   "id": "james-bridle--citizen-ex",
+   "creator_ids": [
+    "james-bridle"
+   ],
+   "title": "Citizen Ex",
+   "year": 2015,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "infrastructure",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A browser extension that records which countries the websites you visit are hosted in and computes your 'algorithmic citizenship', the nationality data systems infer from your traffic.",
+   "description_zh": "一个浏览器插件，记录你访问的网站托管在哪些国家，并计算出你的“算法公民身份”——数据系统根据你的流量推断出的国籍。",
+   "idea_en": "Online, a machine decides which country you belong to, and with it which laws and surveillance apply.",
+   "idea_zh": "在网上，是机器决定你属于哪个国家，也决定了哪些法律和监控适用于你。",
+   "method": "The extension geolocates the IP address of every page and resource loaded and shows a running pie chart of countries; commissioned by The Space and Abandon Normal Devices.",
+   "method_zh": "插件对加载的每个页面和资源进行 IP 地理定位，并以持续更新的饼图显示国家分布；由 The Space 与 Abandon Normal Devices 委托。",
+   "keywords": [
+    "algorithmic citizenship",
+    "browser extension",
+    "IP geolocation",
+    "NSA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4cRX2evheew"
+   },
+   "images": [
+    "https://jamesbridle.com/media/pages/works/citizen-ex/4a7502d256-1680515124/149_badge-banner.jpg"
+   ],
+   "source_url": "https://jamesbridle.com/works/citizen-ex"
+  },
+  {
+   "id": "simon-denny--secret-power",
+   "creator_ids": [
+    "simon-denny"
+   ],
+   "title": "Secret Power",
+   "year": 2015,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "infrastructure",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "New Zealand's pavilion at the Venice Biennale turned the leaked NSA and GCHQ slide graphics from the Snowden files into server racks, carpets and ceiling paintings in the Marciana Library and the airport.",
+   "description_zh": "新西兰威尼斯双年展国家馆把斯诺登文件中泄露的 NSA 与 GCHQ 幻灯片图形，做成了马尔恰那图书馆和机场里的服务器机柜、地毯和天顶画。",
+   "idea_en": "Mass surveillance has an aesthetic, and its clip-art and wizards say something about how the agencies see the world.",
+   "idea_zh": "大规模监控有它自己的美学，那些剪贴画和巫师图案透露出情报机构如何看待世界。",
+   "method": "Denny researched the designer behind the NSA slides and rendered their imagery as modified server racks and printed surfaces, mirroring the Renaissance cosmology of the library's ceiling.",
+   "method_zh": "Denny 追查了 NSA 幻灯片背后的设计师，并把这些图像做成改装的服务器机柜和印刷表面，与图书馆天顶的文艺复兴宇宙观相呼应。",
+   "keywords": [
+    "NSA",
+    "GCHQ",
+    "Snowden",
+    "Five Eyes",
+    "Venice Biennale",
+    "server rack"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JidXPz7G0i8"
+   },
+   "images": [
+    "https://simondenny.net/wp-content/uploads/modded-serverrack/MA_I390331_TePapa_Modded-ServerRack-Display_preview.jpg"
+   ],
+   "source_url": "https://simondenny.net/secret-power/",
+   "exhibited": [
+    "Venice Biennale 2015 (New Zealand pavilion)",
+    "Te Papa Tongarewa"
+   ]
+  },
+  {
+   "id": "theo-anthony--all-light-everywhere",
+   "creator_ids": [
+    "theo-anthony"
+   ],
+   "title": "All Light, Everywhere",
+   "year": 2021,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A documentary essay that moves from the history of photography and time-and-motion studies to Axon, the maker of police body cameras, and a surveillance plane flying over Baltimore.",
+   "description_zh": "一部纪录散文片，从摄影史和工时动作研究，一直讲到警用随身摄像机制造商 Axon，以及在巴尔的摩上空盘旋的监视飞机。",
+   "idea_en": "No camera is neutral: every lens has a position, and body cameras are designed from the officer's side.",
+   "idea_zh": "没有中立的摄像机：每个镜头都有立场，而随身摄像机是从警察一方设计的。",
+   "method": "Observational scenes inside Axon's headquarters and the Baltimore Aerial Investigation Research programme, intercut with archival science films; won a Special Jury Award at Sundance.",
+   "method_zh": "在 Axon 总部和巴尔的摩“空中调查研究”项目内部的观察式拍摄，与档案科学影片交叉剪辑；获圣丹斯评审团特别奖。",
+   "keywords": [
+    "police body camera",
+    "Axon",
+    "Baltimore",
+    "aerial surveillance",
+    "objectivity"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=luHmSqY0Xsk"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/All_Light,_Everywhere",
+   "exhibited": [
+    "Sundance Film Festival 2021 (Special Jury Award)"
+   ]
+  },
+  {
+   "id": "jennifer-lyn-morone--jennifer-lyn-morone-inc",
+   "creator_ids": [
+    "jennifer-lyn-morone"
+   ],
+   "title": "Jennifer Lyn Morone™ Inc",
+   "year": 2014,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "recommender-platform",
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "The artist registered herself as a corporation whose products are her health data, location, skills and opinions, with a database that sells them to buyers directly.",
+   "description_zh": "艺术家把自己注册成一家公司，产品是她的健康数据、位置、技能和观点，并通过一个数据库直接出售。",
+   "idea_en": "If data is value, a person can claim to be a company; the absurdity mirrors what platforms already do.",
+   "idea_zh": "如果数据就是价值，那么一个人也可以宣称自己是一家公司；这种荒诞正映照出平台早已在做的事。",
+   "method": "A legal company registration, a self-tracking 'Database of Personal Operations' and a trade fair booth, made at the Royal College of Art.",
+   "method_zh": "包括合法的公司注册、自我追踪的“个人运营数据库”以及展会摊位，创作于英国皇家艺术学院。",
+   "keywords": [
+    "data capitalism",
+    "self-tracking",
+    "corporation",
+    "Royal College of Art"
+   ],
+   "video": {
+    "url": "https://vimeo.com/98300179"
+   },
+   "source_url": "https://jenniferlynmorone.com/"
+  },
+  {
+   "id": "bill-posters--spectre",
+   "creator_ids": [
+    "bill-posters",
+    "daniel-howe"
+   ],
+   "title": "Spectre",
+   "year": 2019,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "generative-latent",
+    "recommender-platform",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "An installation on the 'digital influence industry' that included deepfake videos of Mark Zuckerberg, Kim Kardashian and Donald Trump praising a fictional data cult; the Zuckerberg video tested Instagram's deepfake policy.",
+   "description_zh": "一件关于“数字影响产业”的装置，其中包括马克·扎克伯格、金·卡戴珊和唐纳德·特朗普称颂一个虚构数据邪教的深度伪造视频；扎克伯格视频检验了 Instagram 的深度伪造政策。",
+   "idea_en": "Deepfakes of the people who run the platforms make the data economy confess in their voices.",
+   "idea_zh": "用平台掌控者的深度伪造，让数据经济借他们的声音“认罪”。",
+   "method": "Deepfakes made with the company CannyAI, an installation at Sheffield Doc/Fest, and an interactive 'altar' where visitors see how their data is sold.",
+   "method_zh": "与 CannyAI 公司合作制作深度伪造视频，在谢菲尔德纪录片节展出装置，并设有互动“祭坛”，让观众看到自己的数据如何被出售。",
+   "keywords": [
+    "deepfake",
+    "Mark Zuckerberg",
+    "Instagram",
+    "Sheffield Doc/Fest",
+    "influence industry"
+   ],
+   "video": {
+    "url": "https://vimeo.com/341794473"
+   },
+   "images": [
+    "https://billposters.ch/wp-content/uploads/2020/01/Spectre_press_web_new.jpg"
+   ],
+   "source_url": "https://billposters.ch/projects/spectre/",
+   "exhibited": [
+    "Sheffield Doc/Fest 2019"
+   ]
+  },
+  {
+   "id": "joana-moll--the-virtual-watchers",
+   "creator_ids": [
+    "joana-moll"
+   ],
+   "title": "The Virtual Watchers",
+   "year": 2016,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "An installation built on the archive of the Texas Virtual Border Watch (from 2008), in which volunteers watched live border-camera feeds online from home and reported suspected crossings.",
+   "description_zh": "作品基于“得州虚拟边境观察”项目（2008 年起）的档案：志愿者在家通过网络观看边境摄像头的实时画面，并举报疑似越境者。",
+   "idea_en": "Border surveillance was crowdsourced to unpaid citizens; the watchers became part of the machine.",
+   "idea_zh": "边境监控被众包给无偿的普通人；观看者自己成了机器的一部分。",
+   "method": "Made with Cédric Parizot; it restages the programme's watching interface together with archived comments from the volunteers.",
+   "method_zh": "与 Cédric Parizot 合作；重现该项目的观看界面，并配以志愿者留下的存档评论。",
+   "keywords": [
+    "border",
+    "Texas",
+    "crowdsourced surveillance",
+    "Cédric Parizot"
+   ],
+   "images": [
+    "https://www.janavirgin.com/img/works/virtual_watchers.jpg"
+   ],
+   "source_url": "https://www.janavirgin.com/works.html"
+  },
+  {
+   "id": "mimi-onuoha--the-library-of-missing-datasets",
+   "creator_ids": [
+    "mimi-onuoha"
+   ],
+   "title": "The Library of Missing Datasets",
+   "year": 2016,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A white filing cabinet full of empty folders, each labelled with a dataset that does not exist, such as people excluded from public housing because of criminal records or trans people killed or injured in hate crimes.",
+   "description_zh": "一个装满空文件夹的白色文件柜，每个文件夹都标着一个并不存在的数据集，比如因犯罪记录被拒于公共住房之外的人，或在仇恨犯罪中被杀害或受伤的跨性别者。",
+   "idea_en": "What a society does not count shows its values as clearly as what it counts; a 'missing' dataset is both a lack and an ought.",
+   "idea_zh": "一个社会不去统计的东西，和它统计的东西一样清楚地显示出它的价值观；“缺失”的数据集既是一种缺乏，也是一种应当。",
+   "method": "A physical archive drawn from a list of missing datasets the artist has kept on GitHub since 2015; v2.0 (2018) focuses on Blackness and v3.0 is a locked cabinet of datasets too dangerous to collect.",
+   "method_zh": "这一实体档案来自艺术家自 2015 年起在 GitHub 上维护的缺失数据集清单；2.0 版（2018）聚焦黑人，3.0 版则是一个上锁的柜子，存放那些一旦收集就会危及他人的数据集。",
+   "keywords": [
+    "missing data",
+    "filing cabinet",
+    "GitHub",
+    "Blackness"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/94ae8920-0367-440f-b24e-5794636edf6f/00small_LibraryofMissingDatasets_propertyofartist_creditBrandonSchulman.jpg",
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/5f58c44d-4c0b-4d25-9148-02c8fc120a4e/04_LibraryofMissingDatasets2_propertyofartist.jpg"
+   ],
+   "source_url": "https://github.com/MimiOnuoha/missing-datasets"
+  },
+  {
+   "id": "mimi-onuoha--ground-truths",
+   "creator_ids": [
+    "mimi-onuoha"
+   ],
+   "title": "Ground Truths",
+   "year": 2025,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "grief-afterlife",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A docufiction film in which the artist builds a machine-learning model to predict where other unmarked graves of convict-leasing victims lie across Texas, after 95 bodies were found in Sugar Land in 2018.",
+   "description_zh": "一部纪录虚构影片：2018 年在得州糖城发现 95 具遗骸之后，艺术家构建机器学习模型，预测全州还有哪些“犯人租赁”受害者的无名墓地。",
+   "idea_en": "A model trained on records shaped by erasure inherits the erasure; 'ground truth' is literally buried.",
+   "idea_zh": "用被抹除所塑造的记录训练出来的模型，也会继承这种抹除；“真值”确实被埋在地下。",
+   "method": "Single-channel 4K video (about 16 minutes) combining the model-building process with archives, phone calls and missing records.",
+   "method_zh": "单屏 4K 影像（约 16 分钟），把建模过程与档案、电话和缺失的记录交织在一起。",
+   "keywords": [
+    "convict leasing",
+    "Sugar Land",
+    "Texas",
+    "predictive model",
+    "ground truth",
+    "archives"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/51f2cb4b-30a1-49b4-9ece-1cde6d8effa4/00_GroundTruths_film-still_courtestyoftheartist.jpg",
+    "https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/8c09a145-022b-4e17-bab1-682266e49fb3/01_GroundTruths_film-still_courtestyoftheartist.jpg"
+   ],
+   "source_url": "https://www.mimionuoha.com/"
+  },
+  {
+   "id": "caroline-sinders--feminist-data-set",
+   "creator_ids": [
+    "caroline-sinders"
+   ],
+   "title": "Feminist Data Set",
+   "year": 2017,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "dataset",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A multi-year project that builds a feminist AI chatbot by questioning every step: collecting feminist texts in public workshops, labelling them, choosing a model and paying the labour fairly.",
+   "description_zh": "一个持续多年的项目，通过追问每一个环节来构建女性主义 AI 聊天机器人：在公开工作坊中收集女性主义文本、为其标注、选择模型，并公平地支付劳动报酬。",
+   "idea_en": "Bias is not fixed at the end of a pipeline; each step, from data to wages, is a political choice.",
+   "idea_zh": "偏见不是在流程末端修正的；从数据到工资，每一步都是政治选择。",
+   "method": "Community workshops (SPACE Art + Technology, Victoria and Albert Museum and others) gather and annotate texts; Sinders documents a critical-design framework for the whole ML pipeline.",
+   "method_zh": "在 SPACE Art + Technology、维多利亚与艾伯特博物馆等地举办社区工作坊，收集并标注文本；Sinders 为整个机器学习流程记录一套批判设计框架。",
+   "keywords": [
+    "feminist AI",
+    "workshop",
+    "data collection",
+    "V&A",
+    "intersectional"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WwdmPva8nhc"
+   },
+   "images": [
+    "https://carolinesinders.com/wp-content/uploads/2020/05/LEO_6267-1024x678.jpg",
+    "https://carolinesinders.com/wp-content/uploads/2020/05/VA_Image2_large-1024x683.jpg"
+   ],
+   "source_url": "https://carolinesinders.com/feminist-data-set/"
+  },
+  {
+   "id": "te-hiku-media--te-reo-maori-speech-recognition",
+   "creator_ids": [
+    "te-hiku-media"
+   ],
+   "title": "Te Reo Māori Speech Recognition and the Kaitiakitanga Licence",
+   "year": 2018,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "voice-listening",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-listening",
+    "classification"
+   ],
+   "kind": "prototype",
+   "description": "A Māori-led media organisation built its own speech recognition for te reo Māori from recordings donated by its community, and refused to hand the data to big tech.",
+   "description_zh": "一家由毛利人主导的媒体机构，用社区捐赠的录音自建毛利语语音识别，并拒绝把数据交给科技巨头。",
+   "idea_en": "Data sovereignty means the community that speaks the language decides who may train on its voice.",
+   "idea_zh": "数据主权意味着讲这门语言的社区自己决定谁可以用他们的声音训练模型。",
+   "method": "In the 2018 Kōrero Māori campaign people read sentences aloud and recorded over 300 hours in 10 days; the models are released under the Kaitiakitanga Licence, which grants access only for the benefit of Māori.",
+   "method_zh": "在 2018 年的 Kōrero Māori 活动中，人们朗读句子，10 天内录下 300 多小时；模型以“守护者许可”（Kaitiakitanga Licence）发布，只允许为毛利人利益而使用。",
+   "keywords": [
+    "te reo Māori",
+    "Indigenous data sovereignty",
+    "speech recognition",
+    "Kaitiakitanga",
+    "Papa Reo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sGQy0r_icWc"
+   },
+   "images": [
+    "https://opengraph.githubassets.com/1a9ccbb40a42481347763da1c45a53663a09c5a3a855a4a0509aa57bb7b783ad/TeHikuMedia/Kaitiakitanga-License"
+   ],
+   "source_url": "https://tehiku.nz/te-hiku-tech/",
+   "code_url": "https://github.com/TeHikuMedia/Kaitiakitanga-License"
+  },
+  {
+   "id": "minne-atairu--igun",
+   "creator_ids": [
+    "minne-atairu"
+   ],
+   "title": "Igùn",
+   "year": 2020,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A series of generative 'bronzes' imagining the works Benin casters on Igùn Street might have made in the years after the British looted the royal palace in 1897.",
+   "description_zh": "一组生成式“青铜器”，想象 1897 年英军洗劫贝宁王宫之后的那些年里，伊贡街上的铸铜匠人可能创作的作品。",
+   "idea_en": "A model trained on looted objects can only recombine what was taken; its gaps mirror the gaps of the colonial archive.",
+   "idea_zh": "用被掠文物训练的模型只能重组被拿走的东西；它的空缺映照着殖民档案的空缺。",
+   "method": "StyleGAN2 trained on images of Benin bronze, iron and terracotta objects held mostly in Western museums.",
+   "method_zh": "StyleGAN2 以主要藏于西方博物馆的贝宁青铜、铁器和陶器图像训练。",
+   "keywords": [
+    "Benin Bronzes",
+    "1897",
+    "StyleGAN2",
+    "restitution",
+    "Igùn Street"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pg8U2l4tQAE"
+   },
+   "source_url": "https://igun.info/prototype-I"
+  },
+  {
+   "id": "nora-al-badri--babylonian-vision",
+   "creator_ids": [
+    "nora-al-badri"
+   ],
+   "title": "Babylonian Vision",
+   "year": 2020,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A neural network trained on images of Mesopotamian, Neo-Sumerian and Babylonian artefacts from museum collections produces synthetic artefacts, shown as a video.",
+   "description_zh": "一个用博物馆藏美索不达米亚、新苏美尔和巴比伦文物图像训练的神经网络，生成出“合成文物”，以影像形式展出。",
+   "idea_en": "Scraping museum data can be a form of restitution: the images return to a common use their owners did not plan.",
+   "idea_zh": "爬取博物馆数据可以是一种归还：这些图像回到了收藏者没有料到的公共用途之中。",
+   "method": "A GAN trained on thousands of images scraped from museum websites, some without permission; first commissioned for the EPFL Pavilions.",
+   "method_zh": "用从博物馆网站抓取的数千张图像（部分未经许可）训练 GAN；最初由洛桑联邦理工学院展馆委托。",
+   "keywords": [
+    "Mesopotamia",
+    "GAN",
+    "museum data",
+    "restitution",
+    "technoheritage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kTZ5W8Vbpd4"
+   },
+   "images": [
+    "https://epfl-pavilions.ch/media/pages/exhibitions/babylonian-vision/647951dfaf-1709114720/cover-2880x1600.png"
+   ],
+   "source_url": "https://epfl-pavilions.ch/en/exhibitions/babylonian-vision"
+  },
+  {
+   "id": "stephanie-dinkins--afro-now-ism",
+   "creator_ids": [
+    "stephanie-dinkins"
+   ],
+   "title": "Afro-now-ism",
+   "year": 2020,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "An essay in which Dinkins asks Black communities to stop waiting for future liberation and to build, now, the technologies and AI systems they need.",
+   "description_zh": "一篇文章：Dinkins 呼吁黑人社区不要再等待未来的解放，而要此刻就去建造他们需要的技术和 AI 系统。",
+   "idea_en": "Instead of Afrofuturist hope, act now: take part in making the data and code that will shape your life.",
+   "idea_zh": "与其寄望于非洲未来主义，不如此刻行动：参与制造将塑造你生活的数据与代码。",
+   "method": "A text published in Noema Magazine, drawing on her work with Not the Only One and community AI workshops.",
+   "method_zh": "发表于《Noema》杂志，基于她的《Not the Only One》和社区 AI 工作坊经验。",
+   "keywords": [
+    "Afrofuturism",
+    "essay",
+    "Noema",
+    "community AI"
+   ],
+   "images": [
+    "https://www.noemamag.com/wp-content/uploads/2020/06/Not-the-Only-One-3d-Avatar-SKETCH252-BECOMING.jpg"
+   ],
+   "paper": {
+    "url": "https://www.noemamag.com/afro-now-ism/",
+    "venue": "Noema Magazine",
+    "title": "Afro-now-ism"
+   },
+   "source_url": "https://www.noemamag.com/afro-now-ism/"
+  },
+  {
+   "id": "jason-edward-lewis--indigenous-protocol-and-ai",
+   "creator_ids": [
+    "jason-edward-lewis"
+   ],
+   "title": "Indigenous Protocol and Artificial Intelligence Position Paper",
+   "year": 2020,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A position paper from workshops in Honolulu where Indigenous technologists, artists and elders from Aotearoa, Australia, North America and the Pacific set out how AI could be designed from their protocols.",
+   "description_zh": "一份立场文件，来自在檀香山举行的工作坊：来自新西兰、澳大利亚、北美和太平洋地区的原住民技术人员、艺术家和长者阐述了如何依据各自的礼俗协议来设计 AI。",
+   "idea_en": "AI can be designed as a relative with obligations, not only as a tool; protocols come before products.",
+   "idea_zh": "AI 可以被设计成负有义务的亲属，而不只是工具；协议先于产品。",
+   "method": "Edited by Jason Edward Lewis with contributions by Angie Abdilla, Noelani Arista, Suzanne Kite and others; published by the Indigenous Protocol and AI Working Group and CIFAR, with guidelines, essays and design prototypes.",
+   "method_zh": "由 Jason Edward Lewis 主编，Angie Abdilla、Noelani Arista、Suzanne Kite 等人撰稿；由“原住民协议与 AI 工作组”和 CIFAR 出版，包含指南、文章与设计原型。",
+   "keywords": [
+    "Indigenous AI",
+    "protocol",
+    "CIFAR",
+    "Honolulu",
+    "Abundant Intelligences"
+   ],
+   "images": [
+    "https://www.indigenous-ai.net/wp-content/uploads/2019/04/waiwai2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.11573/spectrum.library.concordia.ca.00986506",
+    "venue": "Indigenous Protocol and AI Working Group / CIFAR, Honolulu",
+    "title": "Indigenous Protocol and Artificial Intelligence Position Paper"
+   },
+   "source_url": "https://www.indigenous-ai.net/position-paper/"
+  },
+  {
+   "id": "amelia-winger-bearskin--wampum-codes",
+   "creator_ids": [
+    "amelia-winger-bearskin"
+   ],
+   "title": "Wampum.codes",
+   "year": 2020,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A framework and podcast that proposes Indigenous values, modelled on wampum belts that record agreements between nations, as a code of ethics for software and AI development.",
+   "description_zh": "一个框架与播客，借鉴记录部族间协议的贝壳串珠带，提出以原住民价值观作为软件和 AI 开发的伦理准则。",
+   "idea_en": "Software is an agreement between people; Indigenous record-keeping technologies can shape how we write it.",
+   "idea_zh": "软件是人与人之间的约定；原住民的记录技术可以塑造我们编写它的方式。",
+   "method": "Talks, a podcast series and a code-of-ethics document shown at the imagineNATIVE festival, developed during the artist's residencies and teaching.",
+   "method_zh": "包括讲座、系列播客和一份伦理准则文件，在 imagineNATIVE 电影节展示，于艺术家的驻留与教学中发展而来。",
+   "keywords": [
+    "wampum",
+    "Haudenosaunee",
+    "ethics",
+    "Indigenous technology",
+    "podcast"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8I4FjCtAW8Y"
+   },
+   "source_url": "https://wampum.codes/",
+   "exhibited": [
+    "imagineNATIVE Festival 2020"
+   ]
+  },
+  {
+   "id": "rashaad-newsome--being",
+   "creator_ids": [
+    "rashaad-newsome"
+   ],
+   "title": "Being",
+   "year": 2019,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "An AI 'digital griot', an animated figure with a vogue dancer's body and an African mask for a face, that teaches, gives tours and leads workshops drawing on bell hooks, Paulo Freire and ballroom culture.",
+   "description_zh": "一个 AI“数字说唱史诗人”：以 vogue 舞者身体和非洲面具为脸的动画形象，会讲课、导览、带工作坊，内容取材于 bell hooks、Paulo Freire 与舞会文化。",
+   "idea_en": "An AI can be written as a Black, queer, decolonial teacher instead of a servile assistant.",
+   "idea_zh": "AI 可以被写成一位黑人、酷儿、去殖民的老师，而不是一个顺从的助手。",
+   "method": "Motion-captured voguing, a chatbot trained on selected texts and a synthetic voice; iterations have appeared as a guide, a teacher and a therapist.",
+   "method_zh": "由动作捕捉的 voguing、以精选文本训练的聊天机器人和合成语音组成；不同版本曾担任导览员、老师和心理治疗师。",
+   "keywords": [
+    "digital griot",
+    "vogue",
+    "ballroom",
+    "bell hooks",
+    "decolonial pedagogy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CzupjhLM6RQ"
+   },
+   "source_url": "https://rashaadnewsome.com/"
+  },
+  {
+   "id": "masakhane--participatory-machine-translation",
+   "creator_ids": [
+    "masakhane"
+   ],
+   "title": "Masakhane: Participatory Research for African Machine Translation",
+   "year": 2020,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "A grassroots network of hundreds of volunteers across Africa that built machine-translation data and models for dozens of African languages, without academic gatekeeping.",
+   "description_zh": "一个遍布非洲、由数百名志愿者组成的草根网络，在没有学术门槛的情况下，为数十种非洲语言建立了机器翻译数据和模型。",
+   "idea_en": "Who builds a language model decides which languages exist for machines; participatory research is a way to be counted.",
+   "idea_zh": "谁来构建语言模型，决定了哪些语言对机器而言存在；参与式研究是一种“被计入”的方式。",
+   "method": "Volunteers contributed data, models and evaluations for their own languages; the process and results are reported in a Findings of EMNLP 2020 paper.",
+   "method_zh": "志愿者为自己的语言贡献数据、模型和评测；过程与结果发表在 EMNLP 2020 Findings 论文中。",
+   "keywords": [
+    "African languages",
+    "machine translation",
+    "participatory research",
+    "NLP",
+    "isiZulu"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mbkuRZkg1RY"
+   },
+   "paper": {
+    "url": "https://arxiv.org/abs/2010.02353",
+    "arxiv": "2010.02353",
+    "venue": "Findings of EMNLP 2020",
+    "title": "Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages"
+   },
+   "source_url": "https://www.masakhane.io/"
+  },
+  {
+   "id": "coding-rights--oracle-for-transfeminist-technologies",
+   "creator_ids": [
+    "coding-rights"
+   ],
+   "title": "Oracle for Transfeminist Technologies",
+   "year": 2019,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "dataset",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A deck of cards and a workshop game in which players draw values, objects, situations and 'transfeminist' prompts and imagine technologies built on them.",
+   "description_zh": "一副卡牌和一个工作坊游戏：玩家抽取“价值”“物件”“情境”等卡牌和“跨女性主义”提示，想象基于这些卡牌的技术。",
+   "idea_en": "Designing with other values produces other machines; imagination is a first step against default tech.",
+   "idea_zh": "以不同的价值观设计，会产生不同的机器；想象力是对抗默认技术的第一步。",
+   "method": "Created by Joana Varon of Coding Rights with collaborators; played in workshops across Latin America and online.",
+   "method_zh": "由 Coding Rights 的 Joana Varon 与合作者共同创作，在拉丁美洲各地和线上的工作坊中使用。",
+   "keywords": [
+    "card deck",
+    "transfeminism",
+    "Global South",
+    "design fiction",
+    "Joana Varon"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/cfe831_05a51b539e8749c384a4b4021517120a~mv2.png"
+   ],
+   "source_url": "https://transfeministech.codingrights.org/"
+  },
+  {
+   "id": "sarah-ciston--intersectional-ai-toolkit",
+   "creator_ids": [
+    "sarah-ciston"
+   ],
+   "title": "Intersectional AI Toolkit",
+   "year": 2021,
+   "field": "power",
+   "sub": "other-intelligences",
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A set of zines and a wiki that explain AI in plain language to artists, activists and queer and marginalised communities, and ask how intersectional feminism could change it.",
+   "description_zh": "一套小志和一个维基，用浅白的语言向艺术家、行动者以及酷儿和边缘社群解释 AI，并追问交叉性女性主义能如何改变它。",
+   "idea_en": "AI literacy is a power question: tools become fairer when the people they affect can read and remake them.",
+   "idea_zh": "AI 素养是一个权力问题：当受影响的人能读懂并改造工具，工具才会更公平。",
+   "method": "Zines, workshops and an open-source wiki made collaboratively with contributors; developed during Ciston's doctoral research at the University of Southern California.",
+   "method_zh": "由众多参与者共同制作的小志、工作坊与开源维基；在 Ciston 于南加州大学攻读博士期间发展而成。",
+   "keywords": [
+    "zine",
+    "intersectional feminism",
+    "AI literacy",
+    "toolkit",
+    "queer"
+   ],
+   "images": [
+    "https://intersectionalai.com/assets/img/zineHowTo.png"
+   ],
+   "source_url": "https://intersectionalai.com/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Cao Fei 曹斐 — Asia One (2018)",
+   "why": "Film set in JD.com's automated warehouse; labour/automation (east-asia batch owns).",
+   "link": "https://www.mplus.org.hk/en/cinema/techno-sapiens/asia-one/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ayoung Kim 김아영 — Delivery Dancer's Sphere (2022)",
+   "why": "Algorithmically managed delivery rider; labour/automation; LG Guggenheim Award 2025 (east-asia batch).",
+   "link": "https://www.ima.org.au/exhibitions/ayoung-kim-delivery-dancers-sphere/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Xu Bing 徐冰 — Dragonfly Eyes (2017)",
+   "why": "Feature film cut from surveillance footage (east-asia batch).",
+   "link": "https://www.moma.org/calendar/film/5009",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Li Liao 李燎 — Consumption (2012)",
+   "why": "Works 45 days at Foxconn to buy the iPad he assembled (east-asia batch).",
+   "link": "https://www.artsy.net/artwork/li-liao-consumption",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Liu Chuang 刘窗 — Bitcoin Mining and Field Recordings of Ethnic Minorities (2018)",
+   "why": "Hydropower, crypto-mining and minority languages; planetary (east-asia batch).",
+   "link": "https://www.tate.org.uk/art/artworks/chuang-bitcoin-mining-and-field-recordings-of-ethnic-minorities-t15975",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Guo Cheng 郭城 — The Net Wanderer (2020)",
+   "why": "Tour of the physical handshakes of the Chinese internet (east-asia batch).",
+   "link": "https://www.guo-cheng.net/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Shu Lea Cheang 郑淑丽 — 3x3x6 (2019)",
+   "why": "Surveillance, prison and sexual dissidence, Taiwan Pavilion Venice (east-asia batch).",
+   "link": "https://www.e-flux.com/announcements/258006/shu-lea-cheang3x3x6",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Renwu 人物 — 外卖骑手，困在系统里 (2020)",
+   "why": "Report on delivery riders governed by dispatch algorithms (east-asia batch).",
+   "link": "https://chuangcn.org/2020/11/delivery-renwu-translation/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ai Weiwei 艾未未 — WeiweiCam (2012)",
+   "why": "Self-surveillance webcams under state monitoring (east-asia batch).",
+   "link": "https://en.wikipedia.org/wiki/Ai_Weiwei",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tomo Kihara — How (not) to get hit by a self-driving car",
+   "why": "Street game to fool pedestrian detection; S+T+ARTS HM 2024 (east-asia batch).",
+   "link": "https://starts-prize.aec.at/en/winners/winners2024/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lawrence Lek — Geomancer / AIDOL / NOX",
+   "why": "AI and labour in speculative futures (east-asia batch).",
+   "link": "https://lawrencelek.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ben Zhao (UChicago) — Glaze & Nightshade (2023)",
+   "why": "Tools that protect artists' work from scraping; counter-data / artists' labour.",
+   "link": "https://glaze.cs.uchicago.edu/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Holly Herndon & Mat Dryhurst — Have I Been Trained? / Spawning (2022)",
+   "why": "Consent search for LAION images; counter-data (no stable page image; coperformance batch may cover).",
+   "link": "https://haveibeentrained.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Nouf Aljowaysir — Salaf (2021?)",
+   "why": "Archival dataset of ~6,000 images on AI's failure to read Arab identities; year unverified, perception batch may own.",
+   "link": "https://www.noufaljowaysir.com/salaf",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mimi Ọnụọha & Diana Nucera — A People's Guide to AI (2018)",
+   "why": "Community AI literacy zine; publisher page moved.",
+   "link": "https://www.mimionuoha.com/",
+   "found_via": "mimi-onuoha",
+   "status": "no_media"
+  },
+  {
+   "name": "Mimi Ọnụọha — Classification.01 (2017)",
+   "why": "Neon brackets that light up when a machine judges two visitors similar; no page found on new site.",
+   "link": "https://www.mimionuoha.com/",
+   "found_via": "mimi-onuoha",
+   "status": "no_media"
+  },
+  {
+   "name": "Hito Steyerl — SocialSim (2020)",
+   "why": "Simulated riot police dancing; crowd simulation and policing. No official video found.",
+   "link": "https://www.e-flux.com/journal/authors/hito-steyerl/",
+   "found_via": "hito-steyerl",
+   "status": "no_media"
+  },
+  {
+   "name": "Martine Syms — Mythiccbeing (2018)",
+   "why": "Chatbot avatar of a Black woman 'Teeny'; other-intelligences.",
+   "link": "https://martinesyms.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sondra Perry — Graft and Ash for a Three Monitor Workstation (2016)",
+   "why": "Avatar of the artist on a workstation-bike asks about digital labour.",
+   "link": "https://en.wikipedia.org/wiki/Sondra_Perry",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Suzanne Kite — Íŋyaŋ Iyé (Telling Rock) (2019) and AI performance works",
+   "why": "Lakota ontology + machine learning; verify titles and media.",
+   "link": "https://www.kitekitekitekite.com/portfolio",
+   "found_via": "jason-edward-lewis",
+   "status": "open"
+  },
+  {
+   "name": "Skawennati — TimeTraveller™ (2008–13)",
+   "why": "Kanien'kehá:ka machinima on Indigenous futures; check machine relevance.",
+   "link": "https://www.skawennati.com/",
+   "found_via": "jason-edward-lewis",
+   "status": "open"
+  },
+  {
+   "name": "Emily Martinez — Queer AI (2018–)",
+   "why": "Chatbot trained on queer literature; site offline.",
+   "link": "https://unsupervisedpleasures.com/",
+   "found_via": "sarah-ciston",
+   "status": "no_media"
+  },
+  {
+   "name": "Feminist Internet — F'xa feminist chatbot (2019)",
+   "why": "Chatbot on AI bias; f-xa.co domain now belongs to another site.",
+   "link": "https://feministinternet.com/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Coding Rights — Not My A.I. (2021)",
+   "why": "Feminist framework on AI projects in Latin America.",
+   "link": "https://notmy.ai/",
+   "found_via": "coding-rights",
+   "status": "open"
+  },
+  {
+   "name": "Jason Edward Lewis et al. — Abundant Intelligences (2023–)",
+   "why": "Indigenous-led AI research programme (theory batch may want).",
+   "link": "https://abundant-intelligences.net/",
+   "found_via": "jason-edward-lewis",
+   "status": "open"
+  },
+  {
+   "name": "Paolo Cirio — Obscurity (2016)",
+   "why": "Obfuscation of mugshot websites.",
+   "link": "https://paolocirio.net/work/obscurity/",
+   "found_via": "paolo-cirio",
+   "status": "open"
+  },
+  {
+   "name": "Sam Lavigne — ICE employee LinkedIn scrape (2018)",
+   "why": "Counter-surveillance of ICE staff; removed by platforms.",
+   "link": "https://lav.io/",
+   "found_via": "sam-lavigne",
+   "status": "open"
+  },
+  {
+   "name": "Laura Poitras — Citizenfour (2014)",
+   "why": "Snowden documentary; surveillance.",
+   "link": "https://en.wikipedia.org/wiki/Citizenfour",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Stop LAPD Spying Coalition / Data for Black Lives / AI Now Institute",
+   "why": "Organisations for the Resources tab (res-institutions).",
+   "link": "https://stoplapdspying.org/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Adam Harvey & Jules LaPlace — MegaPixels / Exposing.ai (2019)",
+   "why": "Faces scraped into training sets (perception batch).",
+   "link": "https://exposing.ai/",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

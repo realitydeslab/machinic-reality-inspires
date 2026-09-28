@@ -1,0 +1,2532 @@
+{
+ "batch": "theory",
+ "creators": [
+  {
+   "id": "alan-turing",
+   "name": "Alan Turing",
+   "kind": "person",
+   "role": "Mathematician and computer scientist (1912–1954)",
+   "based": "Manchester, UK",
+   "bio": "British mathematician who defined the universal computing machine (1936) and proposed the imitation game as a test of machine intelligence (1950).",
+   "why": "His 1950 question \"Can machines think?\" set the terms in which people still judge machine minds by their performance.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.turing.org.uk"
+   },
+   "role_zh": "数学家、计算机科学家（1912–1954）",
+   "bio_zh": "英国数学家，1936 年提出通用计算机的模型，1950 年提出以“模仿游戏”检验机器智能。",
+   "why_zh": "他在 1950 年提出的“机器能思考吗？”至今仍决定着人们如何通过表现来判断机器是否有心智。",
+   "based_zh": "曼彻斯特，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "norbert-wiener",
+   "name": "Norbert Wiener",
+   "kind": "person",
+   "role": "Mathematician; founder of cybernetics (1894–1964)",
+   "based": "Cambridge, US",
+   "bio": "MIT mathematician who named the science of control and communication in animals and machines in 1948, and later warned about automation's social effects.",
+   "why": "Cybernetics made feedback the shared logic of organisms and machines, the root of robot and cybernetic art.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "数学家，控制论创始人（1894–1964）",
+   "bio_zh": "麻省理工学院数学家，1948 年为动物与机器中的控制与通信科学命名，之后持续警示自动化的社会后果。",
+   "why_zh": "控制论把反馈变成生物与机器共有的逻辑，是机器人艺术与控制论艺术的源头。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "j-c-r-licklider",
+   "name": "J. C. R. Licklider",
+   "kind": "person",
+   "role": "Psychologist and computer scientist (1915–1990)",
+   "based": "Cambridge, US",
+   "bio": "Psychoacoustician at MIT and BBN who, as head of ARPA's Information Processing Techniques Office, funded interactive computing and the networks that led to the internet.",
+   "why": "He framed computing as a partnership between person and machine rather than a replacement of the person.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "心理学家、计算机科学家（1915–1990）",
+   "bio_zh": "麻省理工学院与 BBN 的心理声学家，任美国高级研究计划署信息处理技术办公室主任时资助了交互式计算，以及后来通向互联网的网络研究。",
+   "why_zh": "他把计算设想为人与机器的伙伴关系，而不是机器取代人。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "john-mccarthy",
+   "name": "John McCarthy",
+   "kind": "person",
+   "role": "Computer scientist (1927–2011)",
+   "based": "Stanford, US",
+   "bio": "Computer scientist who coined the term \"artificial intelligence\" in the 1955 Dartmouth proposal, created the Lisp language and founded the Stanford AI Lab.",
+   "why": "He gave the field its name and its founding promise that every feature of intelligence can be described precisely enough to simulate.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "计算机科学家（1927–2011）",
+   "bio_zh": "计算机科学家，在 1955 年达特茅斯提案中首创“人工智能”一词，发明 Lisp 语言，创立斯坦福人工智能实验室。",
+   "why_zh": "他为这个领域命名，也立下了它的奠基承诺：智能的每个特征都可以被精确描述并由机器模拟。",
+   "based_zh": "斯坦福，美国",
+   "connected_to": [
+    "marvin-minsky",
+    "claude-shannon",
+    "nathaniel-rochester"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marvin-minsky",
+   "name": "Marvin Minsky",
+   "kind": "person",
+   "role": "Computer scientist; co-founder of the MIT AI Lab (1927–2016)",
+   "based": "Cambridge, US",
+   "bio": "AI pioneer who co-organised the 1956 Dartmouth workshop, co-founded the MIT AI Lab and wrote The Society of Mind (1986).",
+   "why": "His view of mind as a society of simple agents shaped both AI research and how artists imagined machine minds.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "计算机科学家，麻省理工学院人工智能实验室联合创始人（1927–2016）",
+   "bio_zh": "人工智能先驱，1956 年达特茅斯研讨会的共同组织者，麻省理工学院人工智能实验室联合创始人，著有《心智社会》（1986）。",
+   "why_zh": "他把心智看作许多简单智能体组成的社会，这影响了 AI 研究，也影响了艺术家如何想象机器心智。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [
+    "john-mccarthy"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nathaniel-rochester",
+   "name": "Nathaniel Rochester",
+   "kind": "person",
+   "role": "Computer engineer, IBM (1919–2001)",
+   "based": "Poughkeepsie, US",
+   "bio": "Chief architect of the IBM 701, IBM's first commercial scientific computer, and an early simulator of neural networks.",
+   "why": "He brought industrial computing to the founding meeting of AI.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "计算机工程师，IBM（1919–2001）",
+   "bio_zh": "IBM 701（IBM 第一台商用科学计算机）的总设计师，也是最早在计算机上模拟神经网络的人之一。",
+   "why_zh": "他把工业计算带进了人工智能的奠基会议。",
+   "based_zh": "波基普西，美国",
+   "connected_to": [
+    "john-mccarthy"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valentino-braitenberg",
+   "name": "Valentino Braitenberg",
+   "kind": "person",
+   "role": "Neuroscientist and cyberneticist (1926–2011)",
+   "based": "Tübingen, DE",
+   "bio": "Italian neuroscientist and director at the Max Planck Institute for Biological Cybernetics, author of Vehicles: Experiments in Synthetic Psychology (1984).",
+   "why": "His thought-experiment vehicles show how fear, love or curiosity can be read into a few wires between sensors and wheels.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "神经科学家、控制论学者（1926–2011）",
+   "bio_zh": "意大利神经科学家，曾任马克斯·普朗克生物控制论研究所所长，著有《Vehicles：合成心理学实验》（1984）。",
+   "why_zh": "他的思想实验小车说明：传感器和轮子之间的几根导线，就足以让人读出恐惧、爱或好奇。",
+   "based_zh": "图宾根，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "don-ihde",
+   "name": "Don Ihde",
+   "kind": "person",
+   "role": "Philosopher of technology; Distinguished Professor Emeritus, Stony Brook University",
+   "based": "Stony Brook, US",
+   "bio": "American philosopher who founded postphenomenology, the study of how technologies shape human perception and action.",
+   "why": "His four human–technology relations (embodiment, hermeneutic, alterity, background) are the most usable map for how an artwork stages a machine.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "技术哲学家，纽约州立大学石溪分校荣休杰出教授",
+   "bio_zh": "美国哲学家，后现象学的创立者，研究技术如何塑造人的感知与行动。",
+   "why_zh": "他提出的四种人—技术关系（具身、诠释、他异、背景）是分析作品如何呈现机器最好用的框架。",
+   "based_zh": "石溪，美国",
+   "connected_to": [
+    "peter-paul-verbeek"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-paul-verbeek",
+   "name": "Peter-Paul Verbeek",
+   "kind": "person",
+   "role": "Philosopher of technology; Rector Magnificus, University of Amsterdam",
+   "based": "Amsterdam, NL",
+   "bio": "Dutch philosopher who developed the theory of technological mediation in What Things Do (2005) and Moralizing Technology (2011).",
+   "why": "His idea of composite intentionality opens postphenomenology to the machine's own way of perceiving.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "技术哲学家，阿姆斯特丹大学校长",
+   "bio_zh": "荷兰哲学家，在《What Things Do》（2005）和《Moralizing Technology》（2011）中发展了技术中介理论。",
+   "why_zh": "他的“复合意向性”概念让后现象学得以讨论机器自己的感知方式。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [
+    "don-ihde"
+   ],
+   "discovered_via": "don-ihde"
+  },
+  {
+   "id": "mark-coeckelbergh",
+   "name": "Mark Coeckelbergh",
+   "kind": "person",
+   "role": "Professor of Philosophy of Media and Technology, University of Vienna",
+   "based": "Vienna, AT",
+   "bio": "Belgian philosopher who writes on robot ethics, the relational moral status of machines and the politics of AI.",
+   "why": "He argues that how a robot appears to us matters more than what it is inside.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "维也纳大学媒介与技术哲学教授",
+   "bio_zh": "比利时哲学家，研究机器人伦理、机器的关系性道德地位以及 AI 政治。",
+   "why_zh": "他主张：机器人在我们面前如何显现，比它内部“是什么”更重要。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [
+    "david-j-gunkel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-j-gunkel",
+   "name": "David J. Gunkel",
+   "kind": "person",
+   "role": "Professor of Media Studies, Northern Illinois University",
+   "based": "DeKalb, US",
+   "bio": "American media philosopher, author of The Machine Question (2012), Robot Rights (2018) and Person, Thing, Robot (2023).",
+   "why": "He made \"can and should robots have rights?\" a serious philosophical question.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "北伊利诺伊大学媒介研究教授",
+   "bio_zh": "美国媒介哲学家，著有《The Machine Question》（2012）、《Robot Rights》（2018）和《Person, Thing, Robot》（2023）。",
+   "why_zh": "他让“机器人能否、是否应当拥有权利”成为严肃的哲学问题。",
+   "based_zh": "迪卡尔布，美国",
+   "connected_to": [
+    "mark-coeckelbergh"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gilbert-simondon",
+   "name": "Gilbert Simondon",
+   "kind": "person",
+   "role": "Philosopher (1924–1989)",
+   "based": "Paris, FR",
+   "bio": "French philosopher of individuation and technology whose 1958 thesis described how technical objects evolve and form milieus with humans.",
+   "why": "He treats machines as beings with their own genesis, not tools or threats, and blames our alienation on ignorance of them.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家（1924–1989）",
+   "bio_zh": "法国哲学家，研究个体化与技术；1958 年的博士论文描述了技术物如何演化，并与人共同构成环境。",
+   "why_zh": "他把机器看作有自身生成史的存在，而非工具或威胁，并认为人的异化源于对机器的无知。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hubert-dreyfus",
+   "name": "Hubert Dreyfus",
+   "kind": "person",
+   "role": "Philosopher; Professor, UC Berkeley (1929–2017)",
+   "based": "Berkeley, US",
+   "bio": "American philosopher who used Heidegger and Merleau-Ponty to argue that symbolic AI could not capture embodied, situated know-how.",
+   "why": "His critique made embodiment the central problem of AI and fed directly into embodied robotics.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家，加州大学伯克利分校教授（1929–2017）",
+   "bio_zh": "美国哲学家，借用海德格尔与梅洛-庞蒂论证：符号主义 AI 无法捕捉具身的、情境中的实践知识。",
+   "why_zh": "他的批判让“具身”成为 AI 的核心问题，并直接影响了具身机器人学。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vilem-flusser",
+   "name": "Vilém Flusser",
+   "kind": "person",
+   "role": "Philosopher of media (1920–1991)",
+   "based": "São Paulo, BR / Robion, FR",
+   "bio": "Czech-born Brazilian philosopher who wrote on apparatuses, technical images and the programs that run through cameras and their users.",
+   "why": "His camera-as-black-box anticipates today's critique of machine vision and generative models.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "媒介哲学家（1920–1991）",
+   "bio_zh": "捷克出生的巴西哲学家，研究装置、技术图像，以及贯穿相机与使用者的“程序”。",
+   "why_zh": "他把相机视为黑箱，预见了今天对机器视觉和生成模型的批判。",
+   "based_zh": "圣保罗，巴西 / 罗比永，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ian-bogost",
+   "name": "Ian Bogost",
+   "kind": "person",
+   "role": "Game designer and philosopher; Professor, Washington University in St. Louis",
+   "based": "St. Louis, US",
+   "bio": "American game designer and object-oriented philosopher, author of Persuasive Games (2007) and Alien Phenomenology (2012).",
+   "why": "He licenses speculating on what it is like to be a thing, including a computer, and making artefacts that do that philosophy.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "游戏设计师、哲学家，圣路易斯华盛顿大学教授",
+   "bio_zh": "美国游戏设计师与物导向哲学家，著有《Persuasive Games》（2007）和《Alien Phenomenology》（2012）。",
+   "why_zh": "他为推想“成为一个物（包括计算机）是什么感觉”并制作承载这种哲学的作品提供了依据。",
+   "based_zh": "圣路易斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "n-katherine-hayles",
+   "name": "N. Katherine Hayles",
+   "kind": "person",
+   "role": "Distinguished Research Professor, UCLA; James B. Duke Professor Emerita, Duke University",
+   "based": "Los Angeles, US",
+   "bio": "American literary and media theorist of cybernetics, posthumanism and nonconscious cognition in humans, animals and machines.",
+   "why": "She shows how information lost its body in cybernetics and how cognition is now distributed across human–machine assemblages.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "加州大学洛杉矶分校杰出研究教授，杜克大学荣休教授",
+   "bio_zh": "美国文学与媒介理论家，研究控制论、后人类主义，以及人、动物与机器共有的非意识认知。",
+   "why_zh": "她揭示了信息如何在控制论中失去身体，以及认知如何分布在人机组合之中。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "m-beatrice-fazi",
+   "name": "M. Beatrice Fazi",
+   "kind": "person",
+   "role": "Philosopher of computation, University of Sussex",
+   "based": "Brighton, UK",
+   "bio": "Philosopher of computation who studies aesthetics, abstraction and indeterminacy in computational and AI systems.",
+   "why": "She argues computation has its own mode of experience and contingency rather than being a pale copy of human thought.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "萨塞克斯大学计算哲学学者",
+   "bio_zh": "计算哲学家，研究计算与 AI 系统中的美学、抽象与不确定性。",
+   "why_zh": "她主张计算有自己的经验方式与偶然性，而非人类思维的苍白复制。",
+   "based_zh": "布莱顿，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "luciana-parisi",
+   "name": "Luciana Parisi",
+   "kind": "person",
+   "role": "Professor, Program in Literature and Computational Media, Arts and Cultures, Duke University",
+   "based": "Durham, US",
+   "bio": "Italian philosopher of computation, formerly at Goldsmiths' Centre for Cultural Studies, author of Contagious Architecture (2013).",
+   "why": "She reads AI as an alien form of reasoning that exposes the limits of the humanist subject.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "杜克大学文学与计算媒介、艺术和文化项目教授",
+   "bio_zh": "意大利计算哲学家，曾任教于伦敦大学金史密斯学院文化研究中心，著有《Contagious Architecture》（2013）。",
+   "why_zh": "她把 AI 读作一种异质的推理形式，它暴露出人文主义主体的局限。",
+   "based_zh": "达勒姆，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "benjamin-bratton",
+   "name": "Benjamin Bratton",
+   "kind": "person",
+   "role": "Professor of Philosophy of Technology and Speculative Design, UC San Diego; Director, Antikythera",
+   "based": "San Diego, US",
+   "bio": "American theorist of planetary-scale computation, author of The Stack (2016) and The Revenge of the Real (2021).",
+   "why": "He describes computation as a planetary infrastructure that has become a new layer of geopolitics.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "加州大学圣地亚哥分校技术哲学与思辨设计教授，Antikythera 项目主任",
+   "bio_zh": "美国理论家，研究星球尺度的计算，著有《The Stack》（2016）和《The Revenge of the Real》（2021）。",
+   "why_zh": "他把计算描述为星球尺度的基础设施，并视之为新的地缘政治层。",
+   "based_zh": "圣地亚哥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "claus-emmeche",
+   "name": "Claus Emmeche",
+   "kind": "person",
+   "role": "Biosemiotician, University of Copenhagen",
+   "based": "Copenhagen, DK",
+   "bio": "Danish theoretical biologist working on biosemiotics, artificial life and emergence.",
+   "why": "He asked, via Jakob von Uexküll, whether a robot can have a world of its own.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "生物符号学家，哥本哈根大学",
+   "bio_zh": "丹麦理论生物学家，研究生物符号学、人工生命与涌现。",
+   "why_zh": "他借 Jakob von Uexküll 的理论追问：机器人能否拥有自己的世界。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tobias-rees",
+   "name": "Tobias Rees",
+   "kind": "person",
+   "role": "Philosopher and anthropologist of AI",
+   "based": "US",
+   "bio": "Philosopher and anthropologist who directed the Transformations of the Human program at the Berggruen Institute, working with AI labs on the philosophical stakes of their research.",
+   "why": "He treats AI labs as philosophical laboratories where the modern split between human and machine is being undone.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "AI 哲学家、人类学家",
+   "bio_zh": "哲学家、人类学家，曾主持博古睿研究院“人的转变”项目，与 AI 实验室合作探讨其研究的哲学意涵。",
+   "why_zh": "他把 AI 实验室看作哲学实验室：现代的人/机二分正在那里瓦解。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "john-searle",
+   "name": "John Searle",
+   "kind": "person",
+   "role": "Philosopher of mind, formerly UC Berkeley",
+   "based": "Berkeley, US",
+   "bio": "American philosopher of language and mind known for speech-act theory and the Chinese Room argument (1980).",
+   "why": "The Chinese Room is still the standard argument that fluent symbol manipulation is not understanding.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "心灵哲学家，曾任教于加州大学伯克利分校",
+   "bio_zh": "美国语言与心灵哲学家，以言语行为理论和“中文屋”论证（1980）著称。",
+   "why_zh": "“中文屋”至今仍是“流畅的符号操作不等于理解”这一观点的标准论证。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andy-clark",
+   "name": "Andy Clark",
+   "kind": "person",
+   "role": "Professor of Cognitive Philosophy, University of Sussex",
+   "based": "Brighton, UK",
+   "bio": "British philosopher of embodied and extended cognition, author of Natural-Born Cyborgs (2003) and The Experience Machine (2023).",
+   "why": "He argues that tools and devices can be literal parts of a mind, which makes every human a natural-born cyborg.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "萨塞克斯大学认知哲学教授",
+   "bio_zh": "英国哲学家，研究具身认知与延展认知，著有《Natural-Born Cyborgs》（2003）和《The Experience Machine》（2023）。",
+   "why_zh": "他主张工具和设备可以真正成为心智的一部分，因此人人都是天生的赛博格。",
+   "based_zh": "布莱顿，英国",
+   "connected_to": [
+    "david-chalmers"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-chalmers",
+   "name": "David Chalmers",
+   "kind": "person",
+   "role": "Professor of Philosophy and Neural Science, New York University",
+   "based": "New York, US",
+   "bio": "Australian philosopher who named the \"hard problem\" of consciousness and writes on virtual worlds and machine consciousness.",
+   "why": "He keeps the question of whether machines could be conscious philosophically precise.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "纽约大学哲学与神经科学教授",
+   "bio_zh": "澳大利亚哲学家，提出意识的“困难问题”，也研究虚拟世界与机器意识。",
+   "why_zh": "他让“机器是否可能有意识”这个问题在哲学上保持精确。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "andy-clark"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "donna-haraway",
+   "name": "Donna Haraway",
+   "kind": "person",
+   "role": "Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz",
+   "based": "Santa Cruz, US",
+   "bio": "Feminist scholar of science and technology, author of the Cyborg Manifesto, When Species Meet and Staying with the Trouble.",
+   "why": "Her cyborg dissolved the boundaries between human, animal and machine and made them a feminist political question.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "加州大学圣克鲁兹分校意识史系杰出荣休教授",
+   "bio_zh": "女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。",
+   "why_zh": "她的赛博格消解了人、动物与机器之间的边界，并把这些边界变成女性主义的政治问题。",
+   "based_zh": "圣克鲁兹，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joel-krueger",
+   "name": "Joel Krueger",
+   "kind": "person",
+   "role": "Philosopher, University of Exeter",
+   "based": "Exeter, UK",
+   "bio": "Philosopher of mind working on phenomenology, emotion, music and the extended and social mind.",
+   "why": "He brings phenomenology of emotion to how people grieve with chatbots.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家，埃克塞特大学",
+   "bio_zh": "心灵哲学家，研究现象学、情绪、音乐以及延展与社会心智。",
+   "why_zh": "他把情绪现象学带入人们如何借助聊天机器人哀悼的研究。",
+   "based_zh": "埃克塞特，英国",
+   "connected_to": [
+    "lucy-osler"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lucy-osler",
+   "name": "Lucy Osler",
+   "kind": "person",
+   "role": "Philosopher, University of Exeter",
+   "based": "Exeter, UK",
+   "bio": "Philosopher working on phenomenology, empathy and how we experience others online.",
+   "why": "Her work on online intersubjectivity grounds research on intimacy with bots.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家，埃克塞特大学",
+   "bio_zh": "哲学家，研究现象学、共情以及我们如何在网络中经验他人。",
+   "why_zh": "她对网络交互主体性的研究为“与机器人的亲密关系”研究提供了基础。",
+   "based_zh": "埃克塞特，英国",
+   "connected_to": [
+    "joel-krueger"
+   ],
+   "discovered_via": "joel-krueger"
+  },
+  {
+   "id": "matteo-pasquinelli",
+   "name": "Matteo Pasquinelli",
+   "kind": "person",
+   "role": "Associate Professor of Philosophy of Science, Ca' Foscari University of Venice",
+   "based": "Venice, IT",
+   "bio": "Italian philosopher who leads the ERC project AIMODELS on the history of AI; his The Eye of the Master won the 2024 Deutscher Memorial Prize.",
+   "why": "He reads AI as the automation of the division of labour, not an imitation of the brain.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "威尼斯大学（Ca' Foscari）科学哲学副教授",
+   "bio_zh": "意大利哲学家，主持欧洲研究理事会 AIMODELS 项目研究 AI 的历史；《The Eye of the Master》获 2024 年 Deutscher 纪念奖。",
+   "why_zh": "他把 AI 解读为劳动分工的自动化，而不是对大脑的模仿。",
+   "based_zh": "威尼斯，意大利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ruha-benjamin",
+   "name": "Ruha Benjamin",
+   "kind": "person",
+   "role": "Professor of African American Studies, Princeton University",
+   "based": "Princeton, US",
+   "bio": "Sociologist who founded the Ida B. Wells Just Data Lab and wrote Race After Technology (2019) and Viral Justice (2022).",
+   "why": "Her \"New Jim Code\" names how apparently neutral systems encode racial hierarchy.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "普林斯顿大学非裔美国人研究教授",
+   "bio_zh": "社会学家，创立 Ida B. Wells Just Data Lab，著有《Race After Technology》（2019）和《Viral Justice》（2022）。",
+   "why_zh": "她提出的“新吉姆代码”指出看似中立的系统如何编码种族等级。",
+   "based_zh": "普林斯顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "safiya-umoja-noble",
+   "name": "Safiya Umoja Noble",
+   "kind": "person",
+   "role": "Professor of Gender Studies, African American Studies and Information Studies, UCLA",
+   "based": "Los Angeles, US",
+   "bio": "Internet studies scholar, 2021 MacArthur Fellow and founder of the UCLA Center on Race and Digital Justice.",
+   "why": "She showed that search ranking is a site of racism and sexism, not a neutral mirror of the world.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "加州大学洛杉矶分校性别研究、非裔美国人研究与信息研究教授",
+   "bio_zh": "互联网研究学者，2021 年麦克阿瑟学者，创立加州大学洛杉矶分校种族与数字正义中心。",
+   "why_zh": "她证明搜索排序是种族主义与性别歧视发生的地方，而不是世界的中立镜像。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mary-l-gray",
+   "name": "Mary L. Gray",
+   "kind": "person",
+   "role": "Senior Principal Researcher, Microsoft Research; Faculty, Indiana University",
+   "based": "Cambridge, US",
+   "bio": "Anthropologist of media and labour and 2020 MacArthur Fellow who studies on-demand platform work.",
+   "why": "She made the hidden human workforce inside \"automated\" services visible.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "微软研究院资深首席研究员，印第安纳大学教员",
+   "bio_zh": "媒介与劳动人类学家，2020 年麦克阿瑟学者，研究按需平台劳动。",
+   "why_zh": "她让“自动化”服务内部隐藏的人类劳动者被看见。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [
+    "siddharth-suri"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "siddharth-suri",
+   "name": "Siddharth Suri",
+   "kind": "person",
+   "role": "Senior Principal Researcher, Microsoft Research",
+   "based": "US",
+   "bio": "Computational social scientist who studies crowdwork and online labour markets.",
+   "why": "He brought large-scale data on crowdworkers to the question of who does AI's work.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "微软研究院资深首席研究员",
+   "bio_zh": "计算社会科学家，研究众包劳动与在线劳动市场。",
+   "why_zh": "他用大规模众包劳动数据回答“谁在做 AI 的工作”。",
+   "based_zh": "美国",
+   "connected_to": [
+    "mary-l-gray"
+   ],
+   "discovered_via": "mary-l-gray"
+  },
+  {
+   "id": "timnit-gebru",
+   "name": "Timnit Gebru",
+   "kind": "person",
+   "role": "Founder and Executive Director, Distributed AI Research Institute (DAIR)",
+   "based": "San Francisco Bay Area, US",
+   "bio": "Ethiopian-born computer scientist, co-founder of Black in AI and former co-lead of Google's Ethical AI team.",
+   "why": "Her audits and critiques of large models tie AI's harms to who builds it and whose data it takes.",
+   "disciplines": [
+    "activism",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "分布式人工智能研究所（DAIR）创始人兼执行主任",
+   "bio_zh": "埃塞俄比亚出生的计算机科学家，Black in AI 联合创始人，曾任谷歌伦理 AI 团队联合负责人。",
+   "why_zh": "她对大模型的审计与批判，把 AI 的危害与“谁在建造、拿了谁的数据”联系起来。",
+   "based_zh": "旧金山湾区，美国",
+   "connected_to": [
+    "emily-m-bender"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emily-m-bender",
+   "name": "Emily M. Bender",
+   "kind": "person",
+   "role": "Professor of Linguistics, University of Washington",
+   "based": "Seattle, US",
+   "bio": "Computational linguist who directs the University of Washington's Computational Linguistics Laboratory and co-wrote The AI Con (2025).",
+   "why": "She insists that language models produce form without meaning and that this matters for how we treat them.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "华盛顿大学语言学教授",
+   "bio_zh": "计算语言学家，主持华盛顿大学计算语言学实验室，合著《The AI Con》（2025）。",
+   "why_zh": "她坚持认为语言模型只生成形式而没有意义，这决定了我们应如何对待它们。",
+   "based_zh": "西雅图，美国",
+   "connected_to": [
+    "timnit-gebru"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lucy-suchman",
+   "name": "Lucy Suchman",
+   "kind": "person",
+   "role": "Professor Emerita of Anthropology of Science and Technology, Lancaster University",
+   "based": "Lancaster, UK",
+   "bio": "Anthropologist who worked for twenty years at Xerox PARC and wrote Plans and Situated Actions (1987).",
+   "why": "She showed that machine agency is produced in situated relations, not located inside the device.",
+   "disciplines": [
+    "theory",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "兰卡斯特大学科学技术人类学荣休教授",
+   "bio_zh": "人类学家，曾在施乐帕洛阿尔托研究中心工作二十年，著有《Plans and Situated Actions》（1987）。",
+   "why_zh": "她揭示机器的能动性是在具体情境关系中产生的，而不是存在于设备内部。",
+   "based_zh": "兰卡斯特，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "catherine-dignazio",
+   "name": "Catherine D'Ignazio",
+   "kind": "person",
+   "role": "Associate Professor of Urban Science and Planning, MIT; Director, Data + Feminism Lab",
+   "based": "Cambridge, US",
+   "bio": "Scholar, artist and software developer working on feminist data practice and counter-data.",
+   "why": "She turns data science's claims to neutrality into questions of power and care.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "麻省理工学院城市科学与规划副教授，Data + Feminism Lab 主任",
+   "bio_zh": "学者、艺术家与软件开发者，研究女性主义数据实践与反数据。",
+   "why_zh": "她把数据科学的“中立”主张转化为关于权力与关怀的问题。",
+   "based_zh": "剑桥（马萨诸塞），美国",
+   "connected_to": [
+    "lauren-f-klein"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lauren-f-klein",
+   "name": "Lauren F. Klein",
+   "kind": "person",
+   "role": "Professor of English and Quantitative Theory & Methods, Emory University",
+   "based": "Atlanta, US",
+   "bio": "Digital humanities scholar of data visualisation, early American literature and feminist data science.",
+   "why": "She shows how data and its visualisations carry histories of labour and exclusion.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "埃默里大学英语与定量理论方法教授",
+   "bio_zh": "数字人文学者，研究数据可视化、早期美国文学与女性主义数据科学。",
+   "why_zh": "她揭示数据及其可视化如何承载劳动与排斥的历史。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "catherine-dignazio"
+   ],
+   "discovered_via": "catherine-dignazio"
+  }
+ ],
+ "works": [
+  {
+   "id": "alan-turing--computing-machinery-and-intelligence",
+   "creator_ids": [
+    "alan-turing"
+   ],
+   "title": "Computing Machinery and Intelligence",
+   "year": 1950,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Turing replaces the question \"Can machines think?\" with the imitation game, in which a judge converses by teletype with a hidden human and a hidden machine, and then answers nine objections to machine thought.",
+   "description_zh": "图灵把“机器能思考吗？”换成“模仿游戏”：裁判通过电传打字机与隐藏的人和隐藏的机器对话；随后他逐一回应了反对机器思维的九种意见。",
+   "idea_en": "Machine intelligence was defined from the start as a performance judged by humans, not as an inner state.",
+   "idea_zh": "机器智能从一开始就被定义为由人评判的表演，而不是内在状态。",
+   "method": "Thought experiment and philosophical argument; it also sketches a \"child machine\" that would learn rather than be fully programmed.",
+   "method_zh": "思想实验加哲学论证；文中还设想了一台通过学习而非完全编程成长的“儿童机器”。",
+   "keywords": [
+    "Turing test",
+    "imitation game",
+    "Mind",
+    "machine thinking",
+    "Lady Lovelace's objection"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1093/mind/LIX.236.433",
+    "doi": "10.1093/mind/LIX.236.433",
+    "arxiv": "",
+    "venue": "Mind 59(236), 1950",
+    "title": "Computing Machinery and Intelligence"
+   },
+   "source_url": "https://www.turing.org.uk"
+  },
+  {
+   "id": "norbert-wiener--cybernetics",
+   "creator_ids": [
+    "norbert-wiener"
+   ],
+   "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+   "year": 1948,
+   "field": "theory",
+   "sub": "cybernetics",
+   "machines": [
+    "cybernetic-alife",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "publication",
+   "description": "The book that named cybernetics: Wiener describes feedback, information and control as principles shared by nervous systems, servomechanisms and computing machines.",
+   "description_zh": "为“控制论”命名的著作：维纳把反馈、信息与控制描述为神经系统、伺服机构与计算机器共有的原理。",
+   "idea_en": "Once organisms and machines share one logic of feedback, a machine can behave as if it had purpose.",
+   "idea_zh": "一旦生物与机器共享同一套反馈逻辑，机器就可以表现得像是有目的。",
+   "method": "Mathematical theory drawn from wartime anti-aircraft prediction, neurophysiology and statistical mechanics.",
+   "method_zh": "由战时防空火控预测、神经生理学与统计力学发展出的数学理论。",
+   "keywords": [
+    "cybernetics",
+    "feedback",
+    "homeostasis",
+    "information",
+    "MIT Press",
+    "ISBN 9780262537841"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QJWDJvbea0M"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/152654-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/11810.001.0001",
+    "doi": "10.7551/mitpress/11810.001.0001",
+    "arxiv": "",
+    "venue": "Technology Press / John Wiley, 1948; MIT Press reissue 2019",
+    "title": "Cybernetics or Control and Communication in the Animal and the Machine"
+   },
+   "source_url": "https://mitpress.mit.edu/9780262537841/"
+  },
+  {
+   "id": "w-grey-walter--an-imitation-of-life",
+   "creator_ids": [
+    "w-grey-walter"
+   ],
+   "title": "An Imitation of Life",
+   "year": 1950,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Grey Walter's Scientific American report on his robot tortoises Elmer and Elsie, which wander, seek moderate light, avoid obstacles, return to their hutch to recharge and \"dance\" in front of a mirror.",
+   "description_zh": "Grey Walter 在《科学美国人》上介绍他的机器龟 Elmer 与 Elsie：它们四处游走、寻找适度的光、避开障碍、回窝充电，还会在镜子前“跳舞”。",
+   "idea_en": "Lifelike behaviour can come from a few connections interacting with an environment, not from complexity inside.",
+   "idea_zh": "类似生命的行为可以来自少数连接与环境的互动，而不是内部的复杂性。",
+   "method": "Two vacuum-tube \"neurons\", a light sensor and a bump contact drive steering and wheel motors in a feedback loop.",
+   "method_zh": "两个电子管“神经元”、一个光传感器和一个碰撞触点，在反馈回路中驱动转向与车轮电机。",
+   "keywords": [
+    "Machina speculatrix",
+    "tortoise",
+    "Elmer and Elsie",
+    "Scientific American",
+    "Burden Neurological Institute"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg/1280px-Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/scientificamerican0550-42",
+    "doi": "10.1038/scientificamerican0550-42",
+    "arxiv": "",
+    "venue": "Scientific American 182(5), 1950",
+    "title": "An Imitation of Life"
+   }
+  },
+  {
+   "id": "j-c-r-licklider--man-computer-symbiosis",
+   "creator_ids": [
+    "j-c-r-licklider"
+   ],
+   "title": "Man-Computer Symbiosis",
+   "year": 1960,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "paper",
+   "description": "Licklider proposes that people and computers be coupled in real time so that the machine handles routine work while the human sets goals and judges, like a fig tree and its pollinating wasp.",
+   "description_zh": "Licklider 提议让人与计算机实时耦合：机器处理例行工作，人设定目标并作判断，就像无花果树与为它授粉的黄蜂。",
+   "idea_en": "The machine is imagined as a partner in thinking rather than a replacement for the thinker.",
+   "idea_zh": "机器被设想为思考的伙伴，而不是思考者的替代品。",
+   "method": "Position paper based on a time-and-motion study of his own working day, with requirements for time-sharing, memory and interfaces.",
+   "method_zh": "一篇立场论文，基于他对自己工作日的时间动作研究，并提出对分时、存储与界面的要求。",
+   "keywords": [
+    "symbiosis",
+    "interactive computing",
+    "time-sharing",
+    "human–computer interaction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ncCPTgWX6a8"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_of_J._C._R._Licklider.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/THFE2.1960.4503259",
+    "doi": "10.1109/THFE2.1960.4503259",
+    "arxiv": "",
+    "venue": "IRE Transactions on Human Factors in Electronics HFE-1, 1960",
+    "title": "Man-Computer Symbiosis"
+   }
+  },
+  {
+   "id": "john-mccarthy--dartmouth-proposal",
+   "creator_ids": [
+    "john-mccarthy",
+    "marvin-minsky",
+    "nathaniel-rochester",
+    "claude-shannon"
+   ],
+   "title": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence",
+   "year": 1955,
+   "field": "theory",
+   "sub": "cybernetics",
+   "machines": [
+    "cybernetic-alife",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "The funding proposal for a two-month 1956 workshop at Dartmouth College, where the term \"artificial intelligence\" first appears, listing language use, neuron nets, abstraction, self-improvement and creativity as problems to solve.",
+   "description_zh": "为 1956 年达特茅斯学院两个月研讨会撰写的资助申请书，“人工智能”一词首次出现于此；它把语言、神经网络、抽象、自我改进与创造力列为待解决的问题。",
+   "idea_en": "AI began as a bet that \"every aspect of learning or any other feature of intelligence\" could be described precisely enough for a machine to simulate.",
+   "idea_zh": "AI 始于一个赌注：“学习的每个方面或智能的任何其他特征”都可以被精确描述，从而由机器模拟。",
+   "method": "A short research proposal to the Rockefeller Foundation, reprinted in AI Magazine in 2006.",
+   "method_zh": "一份提交洛克菲勒基金会的简短研究提案，2006 年在《AI Magazine》重刊。",
+   "keywords": [
+    "Dartmouth workshop",
+    "history of AI",
+    "Rockefeller Foundation",
+    "AI Magazine"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/John_McCarthy_%28computer_scientist%29_Stanford_2006_%28272020300%29.jpg/1280px-John_McCarthy_%28computer_scientist%29_Stanford_2006_%28272020300%29.jpg"
+   ],
+   "paper": {
+    "url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Dartmouth College, 1955; reprinted in AI Magazine 27(4), 2006",
+    "title": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence"
+   },
+   "source_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904"
+  },
+  {
+   "id": "joseph-weizenbaum--computer-power-and-human-reason",
+   "creator_ids": [
+    "joseph-weizenbaum"
+   ],
+   "title": "Computer Power and Human Reason: From Judgment to Calculation",
+   "year": 1976,
+   "field": "theory",
+   "sub": "cybernetics",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Shaken by how people and psychiatrists embraced ELIZA, Weizenbaum argues that some tasks, such as therapy, judging and caring, should never be delegated to computers even if they could perform them.",
+   "description_zh": "ELIZA 被普通人和精神科医生热情接受，这让 Weizenbaum 深感不安。他在书中主张：治疗、审判、照护等工作即便计算机能做，也不应交给它。",
+   "idea_en": "The question is not what machines can do but what we ought not to let them do.",
+   "idea_zh": "问题不在于机器能做什么，而在于我们不应让它们做什么。",
+   "method": "Book-length ethical argument drawing on his own programming experience and the history of instrumental reason.",
+   "method_zh": "一部专著篇幅的伦理论证，依据他自己的编程经验以及工具理性的历史。",
+   "keywords": [
+    "ELIZA effect",
+    "judgment vs calculation",
+    "ethics of AI",
+    "W. H. Freeman",
+    "ISBN 9780716704638"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/15228817-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Weizenbaum_1982.jpg"
+   ],
+   "paper": {
+    "url": "https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason",
+    "doi": "",
+    "arxiv": "",
+    "venue": "W. H. Freeman, 1976",
+    "title": "Computer Power and Human Reason: From Judgment to Calculation"
+   }
+  },
+  {
+   "id": "valentino-braitenberg--vehicles",
+   "creator_ids": [
+    "valentino-braitenberg"
+   ],
+   "title": "Vehicles: Experiments in Synthetic Psychology",
+   "year": 1984,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "A series of fourteen imaginary vehicles, each a little more complex, whose sensors wired straight or crossed to their motors make them look afraid, aggressive, in love or curious.",
+   "description_zh": "十四辆逐步复杂的想象小车：传感器与电机平行或交叉连接，就让它们看起来害怕、好斗、恋爱或好奇。",
+   "idea_en": "Behaviour that is easy to build is hard to analyse from outside, so observers read minds into simple machines.",
+   "idea_zh": "容易造出来的行为，从外部却很难分析，于是观察者会把心智读进简单的机器里。",
+   "method": "Thought experiments in \"synthetic psychology\": build first, then interpret; widely rebuilt as robots and simulations.",
+   "method_zh": "“合成心理学”思想实验：先造，再解释；后来被大量做成机器人和模拟程序。",
+   "keywords": [
+    "Braitenberg vehicles",
+    "synthetic psychology",
+    "law of uphill analysis and downhill invention",
+    "MIT Press",
+    "ISBN 9780262521123"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=A-fxij3zM7g"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780262521123-L.jpg"
+   ],
+   "paper": {
+    "url": "https://mitpress.mit.edu/9780262521123/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "MIT Press, 1984",
+    "title": "Vehicles: Experiments in Synthetic Psychology"
+   }
+  },
+  {
+   "id": "don-ihde--technology-and-the-lifeworld",
+   "creator_ids": [
+    "don-ihde"
+   ],
+   "title": "Technology and the Lifeworld: From Garden to Earth",
+   "year": 1990,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny",
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "Ihde sorts human–technology relations into four kinds: embodiment (seeing through glasses), hermeneutic (reading a thermometer), alterity (facing a device as a quasi-other) and background (an unnoticed milieu).",
+   "description_zh": "Ihde 把人与技术的关系分为四类：具身（透过眼镜看）、诠释（读温度计）、他异（把设备当作准他者面对）和背景（不被察觉的环境）。",
+   "idea_en": "Every machine artwork puts us in one of these relations, and the interesting ones switch between them.",
+   "idea_zh": "每件机器作品都把我们置于其中一种关系，而有意思的作品会在几种关系之间切换。",
+   "method": "Postphenomenological analysis of concrete instruments, extending Husserl and Heidegger through case studies.",
+   "method_zh": "对具体仪器的后现象学分析，通过案例研究延展胡塞尔与海德格尔。",
+   "keywords": [
+    "postphenomenology",
+    "embodiment relation",
+    "alterity relation",
+    "multistability",
+    "Indiana University Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UiRkzZEMDxU"
+   },
+   "images": [
+    "https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2979/3108.0",
+    "doi": "10.2979/3108.0",
+    "arxiv": "",
+    "venue": "Indiana University Press, 1990",
+    "title": "Technology and the Lifeworld: From Garden to Earth"
+   },
+   "source_url": "https://iupress.org/9780253205605/technology-and-the-lifeworld/"
+  },
+  {
+   "id": "peter-paul-verbeek--cyborg-intentionality",
+   "creator_ids": [
+    "peter-paul-verbeek"
+   ],
+   "title": "Cyborg Intentionality: Rethinking the Phenomenology of Human–Technology Relations",
+   "year": 2008,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "paper",
+   "description": "Verbeek adds two relations beyond Ihde: hybrid intentionality, where technology merges with the body, and composite intentionality, where a device's own way of sensing (an infrared camera, for example) is added to ours.",
+   "description_zh": "Verbeek 在 Ihde 之外补充两种关系：技术与身体融合的“混合意向性”，以及设备自身的感知方式（如红外相机）叠加到人的感知上的“复合意向性”。",
+   "idea_en": "Machines do not only extend our senses; they bring their own perception, and artworks can make us experience it.",
+   "idea_zh": "机器不只是延伸我们的感官，它们带来自己的感知，而艺术作品能让我们体验到这种感知。",
+   "method": "Philosophical article extending postphenomenology with examples from implants, imaging and art.",
+   "method_zh": "一篇哲学论文，以植入物、成像技术和艺术为例拓展后现象学。",
+   "keywords": [
+    "composite intentionality",
+    "hybrid intentionality",
+    "postphenomenology",
+    "cyborg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FVhrLwBNbvU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/s11097-008-9099-x",
+    "doi": "10.1007/s11097-008-9099-x",
+    "arxiv": "",
+    "venue": "Phenomenology and the Cognitive Sciences 7(3), 2008",
+    "title": "Cyborg Intentionality: Rethinking the Phenomenology of Human–Technology Relations"
+   }
+  },
+  {
+   "id": "mark-coeckelbergh--humans-animals-and-robots",
+   "creator_ids": [
+    "mark-coeckelbergh"
+   ],
+   "title": "Humans, Animals, and Robots: A Phenomenological Approach to Human-Robot Relations",
+   "year": 2011,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "Coeckelbergh argues that what counts in human–robot relations is how robots appear to us in experience, and compares our relations to robots with our relations to animals.",
+   "description_zh": "Coeckelbergh 主张，在人与机器人的关系中，关键是机器人在经验中如何向我们显现；他还把人与机器人的关系同人与动物的关系相比较。",
+   "idea_en": "A robot's moral standing grows out of the relations we have with it, not out of a checklist of inner properties.",
+   "idea_zh": "机器人的道德地位来自我们与它的关系，而不是一张内在属性的清单。",
+   "method": "Phenomenological and relational analysis; developed further in his book Growing Moral Relations (2012).",
+   "method_zh": "现象学与关系论分析；在其专著《Growing Moral Relations》（2012）中进一步展开。",
+   "keywords": [
+    "robot phenomenology",
+    "relational ethics",
+    "moral status",
+    "animal analogy",
+    "social robotics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s12369-010-0075-6",
+    "doi": "10.1007/s12369-010-0075-6",
+    "arxiv": "",
+    "venue": "International Journal of Social Robotics 3(2), 2011",
+    "title": "Humans, Animals, and Robots: A Phenomenological Approach to Human-Robot Relations"
+   }
+  },
+  {
+   "id": "david-j-gunkel--robot-rights",
+   "creator_ids": [
+    "david-j-gunkel"
+   ],
+   "title": "Robot Rights",
+   "year": 2018,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Gunkel works through the four logical answers to whether robots can and should have rights, and argues for a relational, Levinas-inspired approach that starts from how we encounter the other.",
+   "description_zh": "Gunkel 逐一检验“机器人能否、是否应当拥有权利”的四种逻辑回答，并提出受列维纳斯启发的关系性路径：从我们如何遭遇他者出发。",
+   "idea_en": "Moral consideration may be something we extend in encounter, which makes the robot a test of our own ethics.",
+   "idea_zh": "道德关怀可能是在相遇中给予的，这让机器人成为检验我们自身伦理的试金石。",
+   "method": "Philosophical analysis of the is/ought positions in the robot-rights debate.",
+   "method_zh": "对机器人权利争论中“是否能/是否应”各种立场的哲学分析。",
+   "keywords": [
+    "robot rights",
+    "machine question",
+    "Levinas",
+    "moral patiency",
+    "MIT Press",
+    "ISBN 9780262038621"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YKdBHMDlulw"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/8835491-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/11444.001.0001",
+    "doi": "10.7551/mitpress/11444.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2018",
+    "title": "Robot Rights"
+   }
+  },
+  {
+   "id": "gilbert-simondon--mode-of-existence-of-technical-objects",
+   "creator_ids": [
+    "gilbert-simondon"
+   ],
+   "title": "On the Mode of Existence of Technical Objects",
+   "year": 1958,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Simondon traces how technical objects become more concrete and self-consistent over time, how they form an \"associated milieu\" with their surroundings, and why a culture that ignores machines alienates itself.",
+   "description_zh": "Simondon 描述技术物如何随时间变得更“具体化”、更自洽，如何与周围环境构成“关联环境”，以及忽视机器的文化为何会自我异化。",
+   "idea_en": "Machines have their own genesis and milieu; understanding them is a form of culture, not a threat to it.",
+   "idea_zh": "机器有自己的生成与环境；理解机器本身就是一种文化，而不是对文化的威胁。",
+   "method": "Philosophical history of technical lineages such as engines and vacuum tubes; English translation by Cécile Malaspina and John Rogove (Univocal, 2017).",
+   "method_zh": "以发动机、电子管等技术谱系为例的哲学史研究；英译本由 Cécile Malaspina 与 John Rogove 翻译（Univocal，2017）。",
+   "keywords": [
+    "concretization",
+    "associated milieu",
+    "technical individual",
+    "technical culture",
+    "Du mode d'existence des objets techniques",
+    "ISBN 9781517904876"
+   ],
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9781517904876.jpg?w=400"
+   ],
+   "paper": {
+    "url": "https://www.upress.umn.edu/9781517904876/on-the-mode-of-existence-of-technical-objects/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Aubier, 1958; English: Univocal / University of Minnesota Press, 2017",
+    "title": "On the Mode of Existence of Technical Objects"
+   }
+  },
+  {
+   "id": "hubert-dreyfus--what-computers-cant-do",
+   "creator_ids": [
+    "hubert-dreyfus"
+   ],
+   "title": "What Computers Can't Do: A Critique of Artificial Reason",
+   "year": 1972,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "publication",
+   "description": "Drawing on Heidegger and Merleau-Ponty, Dreyfus argues that symbolic AI fails because human intelligence rests on an embodied, situated background of know-how that cannot be written down as rules.",
+   "description_zh": "Dreyfus 援引海德格尔和梅洛-庞蒂指出，符号主义 AI 注定失败，因为人的智能依赖具身的、情境化的实践背景，而这无法写成规则。",
+   "idea_en": "Intelligence needs a body and a world; a machine without them breaks down exactly where everyday skill begins.",
+   "idea_zh": "智能需要身体与世界；缺了它们的机器，恰恰在日常技能开始的地方崩溃。",
+   "method": "Phenomenological critique of the assumptions of 1960s AI research; revised as What Computers Still Can't Do (MIT Press, 1992).",
+   "method_zh": "对 1960 年代 AI 研究预设的现象学批判；修订版为《What Computers Still Can't Do》（MIT Press，1992）。",
+   "keywords": [
+    "Heidegger",
+    "Merleau-Ponty",
+    "symbolic AI",
+    "embodiment",
+    "frame problem",
+    "Harper & Row"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=474A0MAS-Dk"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/151382-L.jpg"
+   ],
+   "paper": {
+    "url": "https://mitpress.mit.edu/9780262540674/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Harper & Row, 1972; rev. MIT Press, 1992",
+    "title": "What Computers Can't Do: A Critique of Artificial Reason"
+   }
+  },
+  {
+   "id": "vilem-flusser--towards-a-philosophy-of-photography",
+   "creator_ids": [
+    "vilem-flusser"
+   ],
+   "title": "Towards a Philosophy of Photography",
+   "year": 1983,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "Flusser describes the camera as an apparatus, a black box whose program the photographer only plays inside, producing \"technical images\" that realise possibilities already written into the device.",
+   "description_zh": "Flusser 把相机描述为一种“装置”：一个黑箱，摄影师只是在它的程序内游戏，产出的“技术图像”不过实现了设备中早已写好的可能性。",
+   "idea_en": "Whoever uses an apparatus is also used by its program; this applies directly to generative models.",
+   "idea_zh": "使用装置的人也被其程序所使用；这一点可以直接套用到生成模型上。",
+   "method": "Short philosophical essay; German original Für eine Philosophie der Fotografie (European Photography, 1983).",
+   "method_zh": "一部简短的哲学论著；德文原版《Für eine Philosophie der Fotografie》（European Photography，1983）。",
+   "keywords": [
+    "apparatus",
+    "technical image",
+    "functionary",
+    "black box",
+    "Reaktion Books",
+    "ISBN 9781861890764"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/917481-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.reaktionbooks.co.uk/work/towards-a-philosophy-of-photography",
+    "doi": "",
+    "arxiv": "",
+    "venue": "European Photography, 1983; English: Reaktion Books, 2000",
+    "title": "Towards a Philosophy of Photography"
+   }
+  },
+  {
+   "id": "ian-bogost--alien-phenomenology",
+   "creator_ids": [
+    "ian-bogost"
+   ],
+   "title": "Alien Phenomenology, or What It's Like to Be a Thing",
+   "year": 2012,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Bogost applies object-oriented ontology to computers and other things, and proposes methods for speculating on their experience: ontography (lists of things), metaphorism and carpentry, making artefacts that do philosophy.",
+   "description_zh": "Bogost 把物导向本体论用于计算机和其他物，并提出推想物之经验的方法：本体图志（物的清单）、隐喻论，以及“木工”，即制作能承载哲学的物件。",
+   "idea_en": "We can only grasp a machine's experience by metaphor, and building things is a legitimate way to do that philosophy.",
+   "idea_zh": "我们只能通过隐喻把握机器的经验，而制作东西正是做这种哲学的正当方式。",
+   "method": "Philosophical essay using the Atari 2600 and his own small programs such as I Am TIA as cases.",
+   "method_zh": "以 Atari 2600 以及他自己的小程序（如 I Am TIA）为案例的哲学论著。",
+   "keywords": [
+    "object-oriented ontology",
+    "carpentry",
+    "ontography",
+    "University of Minnesota Press",
+    "ISBN 9780816678983"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z1V2z3wjtqo"
+   },
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9780816678983.jpg?w=400"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5749/9780816681426",
+    "doi": "10.5749/9780816681426",
+    "arxiv": "",
+    "venue": "University of Minnesota Press, 2012",
+    "title": "Alien Phenomenology, or What It's Like to Be a Thing"
+   }
+  },
+  {
+   "id": "n-katherine-hayles--how-we-became-posthuman",
+   "creator_ids": [
+    "n-katherine-hayles"
+   ],
+   "title": "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics",
+   "year": 1999,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "cybernetic-alife",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Hayles tells how information \"lost its body\" through the Macy cybernetics conferences and post-war science and fiction, and argues for an embodied posthuman that does not dream of uploading the mind.",
+   "description_zh": "Hayles 讲述信息如何经由梅西控制论会议以及战后的科学与科幻“失去身体”，并主张一种具身的后人类，而不是意识上传的幻想。",
+   "idea_en": "Treating mind as disembodied information is a historical choice, and embodiment is what it leaves out.",
+   "idea_zh": "把心智当作无身体的信息，是一种历史选择，被它遗漏的恰恰是身体。",
+   "method": "Intellectual history of cybernetics read alongside novels by Philip K. Dick, Bernard Wolfe and others.",
+   "method_zh": "控制论思想史研究，并与 Philip K. Dick、Bernard Wolfe 等人的小说对读。",
+   "keywords": [
+    "posthuman",
+    "Macy conferences",
+    "embodiment",
+    "information",
+    "University of Chicago Press",
+    "ISBN 9780226321462"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rryjPdKMxO4"
+   },
+   "images": [
+    "https://tmm.chicagodistributioncenter.com/IsbnImages/9780226321462.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7208/chicago/9780226321394.001.0001",
+    "doi": "10.7208/chicago/9780226321394.001.0001",
+    "arxiv": "",
+    "venue": "University of Chicago Press, 1999",
+    "title": "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
+   }
+  },
+  {
+   "id": "n-katherine-hayles--unthought",
+   "creator_ids": [
+    "n-katherine-hayles"
+   ],
+   "title": "Unthought: The Power of the Cognitive Nonconscious",
+   "year": 2017,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Hayles defines cognition broadly enough to include nonconscious processes in humans, animals and computers, and describes \"cognitive assemblages\" such as high-frequency trading and drone swarms in which humans and machines decide together.",
+   "description_zh": "Hayles 把认知定义得足够宽，以涵盖人、动物与计算机中的非意识过程，并描述了高频交易、无人机集群等人机共同决策的“认知组合”。",
+   "idea_en": "Machines already think, nonconsciously, alongside us; the question is how agency is shared in the assemblage.",
+   "idea_zh": "机器已经在以非意识的方式与我们一同思考；问题在于能动性如何在组合中被分配。",
+   "method": "Theory built from neuroscience, media studies and case studies; the assemblage argument first appeared in \"Cognitive Assemblages\" (Critical Inquiry, 2016).",
+   "method_zh": "综合神经科学、媒介研究与案例研究的理论；“认知组合”的论证首见于《Cognitive Assemblages》（Critical Inquiry，2016）。",
+   "keywords": [
+    "cognitive nonconscious",
+    "cognitive assemblages",
+    "technical agency",
+    "drones",
+    "Critical Inquiry",
+    "ISBN 9780226447889"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yUsTa01vJpA"
+   },
+   "images": [
+    "https://tmm.chicagodistributioncenter.com/IsbnImages/9780226447889.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7208/chicago/9780226447919.001.0001",
+    "doi": "10.7208/chicago/9780226447919.001.0001",
+    "arxiv": "",
+    "venue": "University of Chicago Press, 2017",
+    "title": "Unthought: The Power of the Cognitive Nonconscious"
+   }
+  },
+  {
+   "id": "m-beatrice-fazi--contingent-computation",
+   "creator_ids": [
+    "m-beatrice-fazi"
+   ],
+   "title": "Contingent Computation: Abstraction, Experience, and Indeterminacy in Computational Aesthetics",
+   "year": 2018,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Fazi argues that computation is not a closed, predictable procedure: through Turing's incomputability and Whitehead's philosophy she shows that formal systems have their own indeterminacy and mode of experience.",
+   "description_zh": "Fazi 主张计算并非封闭、可预测的程序：她借图灵的不可计算性和怀特海哲学说明，形式系统有其自身的不确定性与经验方式。",
+   "idea_en": "Computers are not failed copies of human thought; their aesthetics lie in their own contingency.",
+   "idea_zh": "计算机不是人类思维的失败复制品；它们的美学在于自身的偶然性。",
+   "method": "Philosophical argument combining Whitehead, Deleuze, Gödel and Turing.",
+   "method_zh": "结合怀特海、德勒兹、哥德尔与图灵的哲学论证。",
+   "keywords": [
+    "computational aesthetics",
+    "incomputability",
+    "Whitehead",
+    "indeterminacy",
+    "Rowman & Littlefield International",
+    "ISBN 9781786606082"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NIJnjAs7ysI"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/9200964-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5040/9798881812027",
+    "doi": "10.5040/9798881812027",
+    "arxiv": "",
+    "venue": "Rowman & Littlefield International, 2018",
+    "title": "Contingent Computation: Abstraction, Experience, and Indeterminacy in Computational Aesthetics"
+   }
+  },
+  {
+   "id": "luciana-parisi--alien-subject-of-ai",
+   "creator_ids": [
+    "luciana-parisi"
+   ],
+   "title": "The Alien Subject of AI",
+   "year": 2019,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "recommender-platform",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Parisi argues that automated decision systems do not simply copy human reasoning; they form an alien kind of subjectivity that unsettles the humanist image of the rational subject.",
+   "description_zh": "Parisi 主张，自动化决策系统并非简单复制人的推理，而是形成一种异质的主体性，动摇了人文主义的理性主体形象。",
+   "idea_en": "AI can be read as a different logic of thought rather than an imitation of ours.",
+   "idea_zh": "AI 可以被理解为另一种思维逻辑，而不是对我们的模仿。",
+   "method": "Theoretical essay drawing on philosophy of computation and critiques of instrumental reason.",
+   "method_zh": "一篇理论文章，借助计算哲学以及对工具理性的批判。",
+   "keywords": [
+    "alien subject",
+    "automated decision",
+    "instrumental reason",
+    "Subjectivity"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9oGx0ejmdgg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1057/s41286-018-00064-3",
+    "doi": "10.1057/s41286-018-00064-3",
+    "arxiv": "",
+    "venue": "Subjectivity 12(1), 2019",
+    "title": "The Alien Subject of AI"
+   }
+  },
+  {
+   "id": "benjamin-bratton--the-stack",
+   "creator_ids": [
+    "benjamin-bratton"
+   ],
+   "title": "The Stack: On Software and Sovereignty",
+   "year": 2016,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "infrastructure",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Bratton describes planetary computation as an accidental megastructure of six layers (Earth, Cloud, City, Address, Interface, User) that now competes with states as a form of sovereignty.",
+   "description_zh": "Bratton 把星球尺度的计算描述为一个意外形成的六层巨型结构（地球、云、城市、地址、界面、用户），它正与国家争夺主权。",
+   "idea_en": "Computation is no longer a tool inside the world; it is a layered world we live inside.",
+   "idea_zh": "计算不再是世界中的工具，而是我们栖身其中的分层世界。",
+   "method": "Design-theoretical model built from geopolitics, platform studies and architecture.",
+   "method_zh": "融合地缘政治、平台研究与建筑学的设计理论模型。",
+   "keywords": [
+    "planetary computation",
+    "the Stack",
+    "sovereignty",
+    "platforms",
+    "MIT Press",
+    "ISBN 9780262029575"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cUhhHw_xS4w"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14832820-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/9780262029575.001.0001",
+    "doi": "10.7551/mitpress/9780262029575.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2016",
+    "title": "The Stack: On Software and Sovereignty"
+   }
+  },
+  {
+   "id": "claus-emmeche--does-a-robot-have-an-umwelt",
+   "creator_ids": [
+    "claus-emmeche"
+   ],
+   "title": "Does a Robot Have an Umwelt? Reflections on the Qualitative Biosemiotics of Jakob von Uexküll",
+   "year": 2001,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt"
+   ],
+   "kind": "paper",
+   "description": "Emmeche asks whether a situated robot, coupled to its surroundings through sensors and motors, can have an Umwelt, the meaningful perceptual world that Uexküll attributed to animals.",
+   "description_zh": "Emmeche 追问：一个通过传感器与电机与环境耦合的情境机器人，能否拥有“环世界”，即 Uexküll 认为动物才有的、充满意义的感知世界。",
+   "idea_en": "Sensorimotor coupling may give a robot a world, but whether that world is lived is still open.",
+   "idea_zh": "感觉运动耦合也许能给机器人一个世界，但这个世界是否“被经历”仍悬而未决。",
+   "method": "Biosemiotic analysis of behaviour-based robotics, in the Semiotica special issue on Uexküll.",
+   "method_zh": "对行为主义机器人学的生物符号学分析，刊于《Semiotica》Uexküll 专号。",
+   "keywords": [
+    "Umwelt",
+    "Jakob von Uexküll",
+    "biosemiotics",
+    "situated robotics",
+    "Semiotica"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1515/semi.2001.048",
+    "doi": "10.1515/semi.2001.048",
+    "arxiv": "",
+    "venue": "Semiotica 134, 2001",
+    "title": "Does a Robot Have an Umwelt? Reflections on the Qualitative Biosemiotics of Jakob von Uexküll"
+   }
+  },
+  {
+   "id": "tobias-rees--non-human-words",
+   "creator_ids": [
+    "tobias-rees"
+   ],
+   "title": "Non-Human Words: On GPT-3 as a Philosophical Laboratory",
+   "year": 2022,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Rees argues that large language models break the modern idea that only humans have language, and treats GPT-3 as a laboratory in which a structural, non-human concept of language becomes visible.",
+   "description_zh": "Rees 认为大语言模型打破了“只有人拥有语言”的现代观念，并把 GPT-3 视为一个实验室，让一种结构性的、非人的语言概念显现出来。",
+   "idea_en": "If words can be made without a speaker, the human/machine divide needs rethinking, not defending.",
+   "idea_zh": "如果词语可以没有说话者而被生成，那么人/机之分需要重新思考，而不是一味捍卫。",
+   "method": "Philosophical essay in the Daedalus issue on AI and society.",
+   "method_zh": "刊于《Daedalus》“AI 与社会”专号的哲学文章。",
+   "keywords": [
+    "GPT-3",
+    "language",
+    "philosophical laboratory",
+    "Daedalus",
+    "open access"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DUCIdgCLlf0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1162/daed_a_01908",
+    "doi": "10.1162/daed_a_01908",
+    "arxiv": "",
+    "venue": "Daedalus 151(2), 2022",
+    "title": "Non-Human Words: On GPT-3 as a Philosophical Laboratory"
+   }
+  },
+  {
+   "id": "john-searle--minds-brains-and-programs",
+   "creator_ids": [
+    "john-searle"
+   ],
+   "title": "Minds, Brains, and Programs",
+   "year": 1980,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Searle's Chinese Room: a person who knows no Chinese follows a rulebook to return fluent Chinese answers, which shows, he argues, that running a program is not the same as understanding.",
+   "description_zh": "Searle 的“中文屋”：一个不懂中文的人照着规则手册给出流利的中文回答；他据此论证，运行程序并不等于理解。",
+   "idea_en": "Fluent output does not prove a mind behind it, which is exactly the question chatbots now raise.",
+   "idea_zh": "流畅的输出并不证明背后有心智，这正是今天的聊天机器人重新提出的问题。",
+   "method": "Thought experiment published with open peer commentaries and Searle's replies.",
+   "method_zh": "一个思想实验，与多篇同行公开评论及 Searle 的回应一同发表。",
+   "keywords": [
+    "Chinese Room",
+    "strong AI",
+    "intentionality",
+    "understanding",
+    "Behavioral and Brain Sciences"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6tzjcnPsZ_w"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1017/S0140525X00005756",
+    "doi": "10.1017/S0140525X00005756",
+    "arxiv": "",
+    "venue": "Behavioral and Brain Sciences 3(3), 1980",
+    "title": "Minds, Brains, and Programs"
+   }
+  },
+  {
+   "id": "andy-clark--the-extended-mind",
+   "creator_ids": [
+    "andy-clark",
+    "david-chalmers"
+   ],
+   "title": "The Extended Mind",
+   "year": 1998,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment"
+   ],
+   "kind": "paper",
+   "description": "Clark and Chalmers argue that when a device such as a notebook reliably plays the role of memory, it is part of the mind; Otto's notebook counts as much as Inga's biological memory.",
+   "description_zh": "Clark 与 Chalmers 主张，当笔记本这样的设备可靠地承担记忆功能时，它就是心智的一部分：Otto 的笔记本与 Inga 的生物记忆同样算数。",
+   "idea_en": "The boundary of the mind is set by function, not by skin, so our devices may already be part of us.",
+   "idea_zh": "心智的边界由功能而非皮肤决定，因此我们的设备可能早已是我们的一部分。",
+   "method": "Short philosophical argument built on the parity principle and thought experiments.",
+   "method_zh": "基于“对等原则”和思想实验的简短哲学论证。",
+   "keywords": [
+    "extended mind",
+    "parity principle",
+    "Otto's notebook",
+    "active externalism",
+    "Analysis"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kc-TdMjuJRU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1093/analys/58.1.7",
+    "doi": "10.1093/analys/58.1.7",
+    "arxiv": "",
+    "venue": "Analysis 58(1), 1998",
+    "title": "The Extended Mind"
+   }
+  },
+  {
+   "id": "donna-haraway--cyborg-manifesto",
+   "creator_ids": [
+    "donna-haraway"
+   ],
+   "title": "A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s",
+   "year": 1985,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "Haraway's essay takes the cyborg, a hybrid of machine and organism, as an ironic political myth for feminism, after the boundaries between human and animal, organism and machine, and physical and non-physical have broken down.",
+   "description_zh": "Haraway 的这篇文章把赛博格（机器与有机体的混合体）当作女性主义的反讽政治神话；它出现在人与动物、有机体与机器、物质与非物质的边界已经崩塌之后。",
+   "idea_en": "The cyborg refuses origins and purity, which makes human–machine hybridity a political opening rather than a loss.",
+   "idea_zh": "赛博格拒绝起源与纯粹，这让人机混杂成为政治上的出口，而不是损失。",
+   "method": "Political essay mixing socialist feminism, science studies and science fiction; reprinted in Simians, Cyborgs, and Women (1991).",
+   "method_zh": "融合社会主义女性主义、科学研究与科幻的政治文章；收入《Simians, Cyborgs, and Women》（1991）。",
+   "keywords": [
+    "cyborg",
+    "socialist feminism",
+    "Socialist Review",
+    "situated knowledges",
+    "Simians, Cyborgs, and Women"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/902702-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9780203873106",
+    "doi": "10.4324/9780203873106",
+    "arxiv": "",
+    "venue": "Socialist Review 80, 1985; in Simians, Cyborgs, and Women (Routledge, 1991)",
+    "title": "Simians, Cyborgs, and Women: The Reinvention of Nature"
+   }
+  },
+  {
+   "id": "joel-krueger--communing-with-the-dead-online",
+   "creator_ids": [
+    "joel-krueger",
+    "lucy-osler"
+   ],
+   "title": "Communing with the Dead Online: Chatbots, Grief, and Continuing Bonds",
+   "year": 2022,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "Krueger and Osler analyse chatbots trained on the texts of the dead, and argue that they can support \"continuing bonds\" by sustaining the habits of intimacy a mourner shared with the person who died.",
+   "description_zh": "Krueger 与 Osler 分析用逝者文本训练的聊天机器人，认为它们可以维系哀悼者与逝者之间的亲密习惯，从而支持“持续联结”。",
+   "idea_en": "A griefbot may matter less as a copy of the dead than as a way to keep practising a relationship.",
+   "idea_zh": "哀悼机器人的意义也许不在于复制逝者，而在于让一段关系得以继续被实践。",
+   "method": "Phenomenology of grief combined with continuing-bonds theory and cases of chatbots built from the texts of people who died.",
+   "method_zh": "结合哀伤现象学、持续联结理论，以及用逝者文本构建聊天机器人的案例。",
+   "keywords": [
+    "griefbots",
+    "continuing bonds",
+    "habits of intimacy",
+    "Journal of Consciousness Studies"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.53765/20512201.29.9.222",
+    "doi": "10.53765/20512201.29.9.222",
+    "arxiv": "",
+    "venue": "Journal of Consciousness Studies 29(9–10), 2022",
+    "title": "Communing with the Dead Online: Chatbots, Grief, and Continuing Bonds"
+   }
+  },
+  {
+   "id": "kate-crawford--atlas-of-ai",
+   "creator_ids": [
+    "kate-crawford"
+   ],
+   "title": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
+   "year": 2021,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "infrastructure",
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Crawford follows AI from lithium mines and Amazon warehouses through training data and classification to affect recognition and state power, arguing that AI is neither artificial nor intelligent but a material industry.",
+   "description_zh": "Crawford 从锂矿、亚马逊仓库出发，经由训练数据与分类，一直追踪到情绪识别与国家权力，论证 AI 既不“人工”也不“智能”，而是一个物质产业。",
+   "idea_en": "To see AI clearly, map what it extracts: earth, labour, data and people's categories.",
+   "idea_zh": "要看清 AI，就要绘出它攫取了什么：土地、劳动、数据和人的分类。",
+   "method": "Field research at mines, warehouses and archives, combined with the history of classification.",
+   "method_zh": "在矿山、仓库与档案馆的田野调查，结合分类史研究。",
+   "keywords": [
+    "extraction",
+    "lithium",
+    "classification",
+    "affect recognition",
+    "Yale University Press",
+    "ISBN 9780300209570"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0PqrZ2lqT70"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14420723-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.12987/9780300252392",
+    "doi": "10.12987/9780300252392",
+    "arxiv": "",
+    "venue": "Yale University Press, 2021",
+    "title": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence"
+   }
+  },
+  {
+   "id": "matteo-pasquinelli--the-eye-of-the-master",
+   "creator_ids": [
+    "matteo-pasquinelli"
+   ],
+   "title": "The Eye of the Master: A Social History of Artificial Intelligence",
+   "year": 2023,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "infrastructure",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Pasquinelli traces AI from Babbage's factory computation to the perceptron and neural networks, arguing that AI imitates the division of labour and the collective knowledge of workers, not the brain.",
+   "description_zh": "Pasquinelli 从巴贝奇的工厂计算一路追溯到感知机与神经网络，论证 AI 模仿的是劳动分工与工人的集体知识，而不是大脑。",
+   "idea_en": "AI automates the organisation of labour; its \"intelligence\" is collective human skill captured as data.",
+   "idea_zh": "AI 自动化的是劳动组织；它的“智能”是被捕获为数据的人类集体技能。",
+   "method": "Social history drawing on Marx, the history of statistics and the history of cybernetics; won the 2024 Deutscher Memorial Prize.",
+   "method_zh": "借助马克思、统计史与控制论史写成的社会史；获 2024 年 Deutscher 纪念奖。",
+   "keywords": [
+    "labour theory of automation",
+    "Babbage",
+    "perceptron",
+    "division of labour",
+    "Verso",
+    "ISBN 9781788730068",
+    "Deutscher Memorial Prize 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=U0wECTKNmlY"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14569589-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.versobooks.com/products/735-the-eye-of-the-master",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Verso, 2023",
+    "title": "The Eye of the Master: A Social History of Artificial Intelligence"
+   }
+  },
+  {
+   "id": "ruha-benjamin--race-after-technology",
+   "creator_ids": [
+    "ruha-benjamin"
+   ],
+   "title": "Race After Technology: Abolitionist Tools for the New Jim Code",
+   "year": 2019,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Benjamin shows how automated systems in hiring, health, policing and design reproduce racial hierarchy while appearing objective, and collects abolitionist tools to counter them.",
+   "description_zh": "Benjamin 揭示招聘、医疗、警务与设计中的自动化系统如何在看似客观的外表下复制种族等级，并汇集了对抗它们的废除主义工具。",
+   "idea_en": "Discrimination can be engineered into systems that look neutral: the \"New Jim Code\".",
+   "idea_zh": "歧视可以被工程化地写进看似中立的系统，这就是“新吉姆代码”。",
+   "method": "Sociological analysis of case studies from technology, law and design.",
+   "method_zh": "对技术、法律与设计领域案例的社会学分析。",
+   "keywords": [
+    "New Jim Code",
+    "discriminatory design",
+    "abolition",
+    "Polity",
+    "ISBN 9781509526406"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rY8RkET3KC0"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/10088781-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.politybooks.com/bookdetail?book_slug=race-after-technology-abolitionist-tools-for-the-new-jim-code--9781509526390",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Polity, 2019",
+    "title": "Race After Technology: Abolitionist Tools for the New Jim Code"
+   }
+  },
+  {
+   "id": "safiya-umoja-noble--algorithms-of-oppression",
+   "creator_ids": [
+    "safiya-umoja-noble"
+   ],
+   "title": "Algorithms of Oppression: How Search Engines Reinforce Racism",
+   "year": 2018,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Noble documents how commercial search results, such as Google's for \"black girls\", reproduced racist and sexist stereotypes, and argues that ranking is shaped by advertising and power.",
+   "description_zh": "Noble 记录了商业搜索结果（如谷歌对“black girls”的搜索）如何复制种族与性别刻板印象，并指出排序受广告与权力塑造。",
+   "idea_en": "A ranking algorithm is an editor with commercial interests, not a neutral window onto the world.",
+   "idea_zh": "排序算法是带有商业利益的编辑，而不是通向世界的中立窗口。",
+   "method": "Content analysis of search results combined with Black feminist and information-science theory.",
+   "method_zh": "对搜索结果的内容分析，结合黑人女性主义与信息科学理论。",
+   "keywords": [
+    "search engines",
+    "Google",
+    "Black feminism",
+    "algorithmic bias",
+    "NYU Press",
+    "ISBN 9781479837243"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6KLTpoTpkXo"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/12856940-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.18574/nyu/9781479833641.001.0001",
+    "doi": "10.18574/nyu/9781479833641.001.0001",
+    "arxiv": "",
+    "venue": "NYU Press, 2018",
+    "title": "Algorithms of Oppression: How Search Engines Reinforce Racism"
+   }
+  },
+  {
+   "id": "mary-l-gray--ghost-work",
+   "creator_ids": [
+    "mary-l-gray",
+    "siddharth-suri"
+   ],
+   "title": "Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass",
+   "year": 2019,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "dataset",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "publication",
+   "description": "Gray and Suri describe the on-demand workers who label data, moderate content and check outputs behind apps and \"AI\", on platforms such as Amazon Mechanical Turk and UHRS in the US and India.",
+   "description_zh": "Gray 与 Suri 描述了在应用和“AI”背后标注数据、审核内容、校验输出的按需劳动者，他们在美国与印度通过 Amazon Mechanical Turk、UHRS 等平台工作。",
+   "idea_en": "Behind the promise of automation there is always a \"last mile\" of hidden human work.",
+   "idea_zh": "自动化承诺的背后，总有一段由隐形人类劳动完成的“最后一公里”。",
+   "method": "Five years of ethnography, surveys and experiments with crowdworkers.",
+   "method_zh": "对众包劳动者进行的五年民族志、问卷与实验研究。",
+   "keywords": [
+    "ghost work",
+    "crowdwork",
+    "Mechanical Turk",
+    "last mile of automation",
+    "Houghton Mifflin Harcourt",
+    "ISBN 9781328566249"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=D5fkupjVEp8"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/10131831-L.jpg"
+   ],
+   "paper": {
+    "url": "https://ghostwork.info",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Houghton Mifflin Harcourt, 2019",
+    "title": "Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass"
+   },
+   "source_url": "https://ghostwork.info"
+  },
+  {
+   "id": "emily-m-bender--stochastic-parrots",
+   "creator_ids": [
+    "emily-m-bender",
+    "timnit-gebru"
+   ],
+   "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
+   "year": 2021,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification",
+    "labour-extraction"
+   ],
+   "kind": "paper",
+   "description": "Bender, Gebru, Angelina McMillan-Major and Margaret Mitchell set out the environmental costs, undocumented training data, encoded bias and illusion of meaning in ever larger language models; the paper's review led to Gebru's exit from Google.",
+   "description_zh": "Bender、Gebru、Angelina McMillan-Major 与 Margaret Mitchell 指出越来越大的语言模型带来的环境成本、无记录的训练数据、内嵌偏见以及“有意义”的假象；这篇论文的内部审查导致 Gebru 离开谷歌。",
+   "idea_en": "A language model stitches together forms without meaning; the coherence is in the reader's eye.",
+   "idea_zh": "语言模型拼接的是没有意义的形式；连贯性存在于读者眼中。",
+   "method": "Critical survey of the NLP literature on scale, energy, data documentation and bias.",
+   "method_zh": "对自然语言处理文献中关于规模、能耗、数据记录与偏见的批判性综述。",
+   "keywords": [
+    "stochastic parrots",
+    "large language models",
+    "FAccT 2021",
+    "data documentation",
+    "environmental cost"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=N5c2X8vhfBE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3442188.3445922",
+    "doi": "10.1145/3442188.3445922",
+    "arxiv": "",
+    "venue": "FAccT 2021",
+    "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"
+   }
+  },
+  {
+   "id": "lucy-suchman--human-machine-reconfigurations",
+   "creator_ids": [
+    "lucy-suchman"
+   ],
+   "title": "Human-Machine Reconfigurations: Plans and Situated Actions",
+   "year": 2007,
+   "field": "theory",
+   "sub": "critical-ai",
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Suchman revisits her 1987 study of people failing to use an \"intelligent\" photocopier and extends it to humanlike robots such as Kismet and Cog, arguing that machine agency is made in situated interaction.",
+   "description_zh": "Suchman 重访她 1987 年对人们用不好“智能”复印机的研究，并延伸到 Kismet、Cog 等类人机器人，论证机器的能动性是在情境互动中被制造出来的。",
+   "idea_en": "A machine seems intelligent because of the work people and settings do around it.",
+   "idea_zh": "机器之所以显得聪明，是因为人与环境在它周围做了大量工作。",
+   "method": "Ethnomethodology and feminist science studies applied to interaction analysis and robotics labs; 2nd expanded edition of Plans and Situated Actions.",
+   "method_zh": "把常人方法学和女性主义科学研究用于交互分析与机器人实验室；是《Plans and Situated Actions》的扩充第二版。",
+   "keywords": [
+    "situated action",
+    "Xerox PARC",
+    "humanlike machines",
+    "agency",
+    "Cambridge University Press",
+    "ISBN 9780521675888"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3_4-6gVbk4E"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/9840684-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/cbo9780511808418",
+    "doi": "10.1017/cbo9780511808418",
+    "arxiv": "",
+    "venue": "Cambridge University Press, 2007",
+    "title": "Human-Machine Reconfigurations: Plans and Situated Actions"
+   }
+  },
+  {
+   "id": "eryk-salvaggio--how-to-read-an-ai-image",
+   "creator_ids": [
+    "eryk-salvaggio"
+   ],
+   "title": "How to Read an AI Image",
+   "year": 2022,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "Salvaggio proposes reading each generated image as \"an infographic about the dataset\": its repetitions, clichés and absences show what the training data over- and under-represents.",
+   "description_zh": "Salvaggio 提议把每张生成图像当作“关于数据集的信息图”来读：其中的重复、俗套与缺席，显示了训练数据过度或不足呈现的内容。",
+   "idea_en": "A generated image is evidence about the archive behind it, which is how to include generative work critically.",
+   "idea_zh": "生成图像是其背后档案的证据，这正是以批判方式纳入生成式作品的途径。",
+   "method": "Media-studies close reading of batches of diffusion-model outputs, like a semiotic analysis of photographs.",
+   "method_zh": "用媒介研究的细读方法分析成批的扩散模型输出，类似对照片做符号学分析。",
+   "keywords": [
+    "reading AI images",
+    "diffusion models",
+    "dataset",
+    "Cybernetic Forests",
+    "media literacy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FZB3o5WTVm8"
+   },
+   "images": [
+    "https://substackcdn.com/image/fetch/$s_!tOVn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F941fd849-5808-4de6-97d5-b405ea6c4573_1024x1024.png"
+   ],
+   "paper": {
+    "url": "https://cyberneticforests.substack.com/p/how-to-read-an-ai-image",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Cybernetic Forests, 2022",
+    "title": "How to Read an AI Image"
+   }
+  },
+  {
+   "id": "catherine-dignazio--data-feminism",
+   "creator_ids": [
+    "catherine-dignazio",
+    "lauren-f-klein"
+   ],
+   "title": "Data Feminism",
+   "year": 2020,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "D'Ignazio and Klein set out seven principles, from examining power to making labour visible, for doing data science in a way that challenges rather than reinforces inequality.",
+   "description_zh": "D'Ignazio 与 Klein 提出七条原则（从审视权力到让劳动可见），用来以挑战而非强化不平等的方式从事数据科学。",
+   "idea_en": "Data is never raw; who collects it, counts whom and leaves whom out are feminist questions.",
+   "idea_zh": "数据从来不是“原始”的；谁收集、统计谁、遗漏谁，都是女性主义的问题。",
+   "method": "Intersectional feminist theory applied to case studies of data projects; open access online.",
+   "method_zh": "把交叉性女性主义理论用于数据项目的案例研究；在线开放获取。",
+   "keywords": [
+    "data feminism",
+    "counter-data",
+    "intersectionality",
+    "MIT Press",
+    "open access",
+    "ISBN 9780262044004"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pmNEe6FvduM"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780262044004-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/11805.001.0001",
+    "doi": "10.7551/mitpress/11805.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2020",
+    "title": "Data Feminism"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Yuk Hui — Recursivity and Contingency (2019), On the Existence of Digital Objects (2016), Art and Cosmotechnics (2021)",
+   "why": "Machine ontology and cosmotechnics; essential for EN/ZH framing. Owned by east-asia batch.",
+   "link": "https://doi.org/10.5771/9781786600547",
+   "found_via": "gilbert-simondon",
+   "status": "open"
+  },
+  {
+   "name": "Masahiro Mori — \"The Uncanny Valley\" (1970; authorised translation IEEE RAM 2012, doi:10.1109/MRA.2012.2192811) and The Buddha in the Robot (1981)",
+   "why": "Canonical alterity text. Owned by east-asia batch.",
+   "link": "https://doi.org/10.1109/MRA.2012.2192811",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lydia H. Liu — The Freudian Robot (Chicago, 2010)",
+   "why": "Chinese-diasporic theory of the cybernetic unconscious; check east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Lydia_H._Liu",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tom Ziemke & Noel Sharkey — A stroll through the worlds of robots and animals (Semiotica 134, 2001)",
+   "why": "Uexküll applied to adaptive robots and A-life; companion to Emmeche.",
+   "link": "https://doi.org/10.1515/semi.2001.050",
+   "found_via": "claus-emmeche",
+   "status": "open"
+  },
+  {
+   "name": "Laestadius et al. — Too human and not human enough (New Media & Society, 2022)",
+   "why": "Replika emotional dependence; intimacy-afterlife scope.",
+   "link": "https://doi.org/10.1177/14614448221142007",
+   "found_via": "joel-krueger",
+   "status": "open"
+  },
+  {
+   "name": "Buolamwini & Gebru — Gender Shades (FAT* 2018)",
+   "why": "Already added by another batch (power); paper card intentionally not duplicated.",
+   "link": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+   "found_via": "timnit-gebru",
+   "status": "duplicate"
+  },
+  {
+   "name": "Weizenbaum — ELIZA (1966) and Crawford & Paglen — Excavating AI (2019); Machine Listening, a Curriculum (2020)",
+   "why": "Already added by intimacy-afterlife / perception batches.",
+   "link": "https://doi.org/10.1145/365153.365168",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Hollanek & Nowaczyk-Basińska — Griefbots, Deadbots, Postmortem Avatars (2024)",
+   "why": "Already added by intimacy-afterlife.",
+   "link": "https://doi.org/10.1007/s13347-024-00744-w",
+   "found_via": "joel-krueger",
+   "status": "duplicate"
+  },
+  {
+   "name": "Benjamin, Berger, Merrill & Pierce — ML Uncertainty as a Design Material (CHI 2021)",
+   "why": "Postphenomenology + ML; already added by interiority-speculative.",
+   "link": "https://doi.org/10.1145/3411764.3445481",
+   "found_via": "don-ihde",
+   "status": "duplicate"
+  },
+  {
+   "name": "Dove, Halskov, Forlizzi & Zimmerman — UX Design Innovation: ML as a Design Material (CHI 2017)",
+   "why": "ML as design material; speculative/ml-material scope.",
+   "link": "https://doi.org/10.1145/3025453.3025739",
+   "found_via": "don-ihde",
+   "status": "open"
+  },
+  {
+   "name": "Pierce & Paulos — Counterfunctional Things (DIS 2014)",
+   "why": "Already added by interiority-speculative.",
+   "link": "https://doi.org/10.1145/2598510.2598522",
+   "found_via": "don-ihde",
+   "status": "duplicate"
+  },
+  {
+   "name": "Giaccardi et al. — Thing Ethnography (DIS 2016); Giaccardi & Redström — Technology and More-Than-Human Design (Design Issues 2020)",
+   "why": "The thing's perspective; machine umwelt in design research.",
+   "link": "https://doi.org/10.1145/2901790.2901905",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Nicenboim et al. — More-Than-Human Design and AI: In Conversation with Agents (DIS 2020 Companion)",
+   "why": "Conversational agents as more-than-human design.",
+   "link": "https://doi.org/10.1145/3393914.3395912",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Caramiaux & Fdili Alaoui — 'Explorers of Unknown Planets': Practices and Politics of AI in Visual Arts (CSCW 2022)",
+   "why": "How artists treat ML as material and resist AI research culture.",
+   "link": "https://inria.hal.science/hal-03762351",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Vickers & Allado-McDowell (eds.) — Atlas of Anomalous AI (Ignota, 2020); K Allado-McDowell — Pharmako-AI (Ignota, 2020)",
+   "why": "Co-writing with GPT-3; essays by Hui, Steyerl, Bratton.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Friedrich Kittler — Gramophone, Film, Typewriter (1986)",
+   "why": "Media-archaeological ground for machine listening.",
+   "link": "https://en.wikipedia.org/wiki/Friedrich_Kittler",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Virginia Eubanks — Automating Inequality (2018)",
+   "why": "Automated welfare decisions; critical-ai.",
+   "link": "https://en.wikipedia.org/wiki/Automating_Inequality",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Joy Buolamwini — Unmasking AI (Random House, 2023)",
+   "why": "Book-length account of the coded gaze.",
+   "link": "https://en.wikipedia.org/wiki/Joy_Buolamwini",
+   "found_via": "joy-buolamwini",
+   "status": "open"
+  },
+  {
+   "name": "Norbert Wiener — The Human Use of Human Beings (1950)",
+   "why": "Wiener's popular book on automation and society.",
+   "link": "https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings",
+   "found_via": "norbert-wiener",
+   "status": "open"
+  },
+  {
+   "name": "Jack Burnham — Systems Esthetics (Artforum, 1968); Software exhibition (Jewish Museum, 1970)",
+   "why": "Systems art theory; exhibition collection candidate.",
+   "link": "https://en.wikipedia.org/wiki/Jack_Burnham",
+   "found_via": "jack-burnham",
+   "status": "open"
+  },
+  {
+   "name": "Anna Munster — An Aesthesia of Networks (MIT, 2013)",
+   "why": "Networked perception.",
+   "link": "https://doi.org/10.7551/mitpress/8982.001.0001",
+   "found_via": "anna-munster",
+   "status": "open"
+  },
+  {
+   "name": "Mercedes Bunz — The Calculation of Meaning (Culture, Theory and Critique, 2019) and Serpentine Creative AI Lab",
+   "why": "Not verified yet.",
+   "link": "https://creative-ai.org",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Benjamin Bratton & Blaise Agüera y Arcas — The Model Is the Message (Noema, 2022)",
+   "why": "LLM sentience debate as a planetary-computation question.",
+   "link": "https://www.noemamag.com/the-model-is-the-message/",
+   "found_via": "benjamin-bratton",
+   "status": "open"
+  },
+  {
+   "name": "Nora N. Khan — Seeing, Naming, Knowing (2019)",
+   "why": "Critical essay on machine vision; art-theory candidate.",
+   "link": "",
+   "found_via": "jill-walker-rettberg",
+   "status": "open"
+  },
+  {
+   "name": "Deborah Lupton & Ash Watson — Towards More-than-Human Digital Data Studies (Qualitative Research, 2021)",
+   "why": "Research-creation with data; dataset lens.",
+   "link": "https://doi.org/10.1177/1468794120939235",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

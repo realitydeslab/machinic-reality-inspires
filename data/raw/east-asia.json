@@ -1,0 +1,2276 @@
+{
+  "batch": "east-asia",
+  "creators": [
+    {
+      "id": "sun-yuan-peng-yu",
+      "name": "Sun Yuan & Peng Yu",
+      "name_zh": "孙原 & 彭禹",
+      "kind": "studio",
+      "role": "Artist duo",
+      "role_zh": "艺术家组合",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Beijing-based duo working together since 1999 on installations built from machines, animals, bodies and bodily fluids.",
+      "bio_zh": "自 1999 年起合作的北京艺术家组合，用机器、动物、身体与体液构建装置。",
+      "why": "Their machines (a sweeping robot arm, drifting wheelchairs) make compulsion, control and exhaustion visible in a machine body.",
+      "why_zh": "他们的机器（不停清扫的机械臂、漂移的轮椅）把强迫、控制与疲惫呈现在机器身体上。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "xu-bing",
+      "name": "Xu Bing",
+      "name_zh": "徐冰",
+      "kind": "person",
+      "role": "Artist; former Vice President, Central Academy of Fine Arts",
+      "role_zh": "艺术家；中央美术学院前副院长",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Chinese artist known for works on language and writing systems (Book from the Sky), who turned to surveillance footage for his first feature film.",
+      "bio_zh": "以《天书》等关于语言与文字系统的作品闻名的中国艺术家，首部长片完全用监控录像剪辑而成。",
+      "why": "Dragonfly Eyes shows what cinema becomes when every shot was recorded by a machine for a machine.",
+      "why_zh": "《蜻蜓之眼》展示了当每个镜头都由机器为机器拍下时，电影会变成什么。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {
+        "site": "https://www.xubing.com"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cao-fei",
+      "name": "Cao Fei",
+      "name_zh": "曹斐",
+      "kind": "person",
+      "role": "Artist and filmmaker",
+      "role_zh": "艺术家、电影人",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Guangzhou-born artist working in video, virtual worlds and installation on labour, urbanisation and digital life in China.",
+      "bio_zh": "生于广州的艺术家，以影像、虚拟世界与装置关注中国的劳动、城市化与数字生活。",
+      "why": "Her films place workers next to automated factories and warehouses and ask what dreams and intimacy remain there.",
+      "why_zh": "她的影片把工人置于自动化工厂与仓库之中，追问那里还剩下怎样的梦想与亲密。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {
+        "site": "https://www.caofei.com"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lu-yang",
+      "name": "Lu Yang",
+      "name_zh": "陆扬",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Shanghai, China",
+      "based_zh": "上海，中国",
+      "bio": "Shanghai-based artist who combines neuroscience, Buddhist cosmology, game engines and motion capture in videos, games and avatars.",
+      "bio_zh": "上海艺术家，把神经科学、佛教宇宙观、游戏引擎与动作捕捉结合进影像、游戏与数字化身。",
+      "why": "Lu Yang treats the body and brain as hackable machinery and uses avatars to stage digital death and rebirth.",
+      "why_zh": "陆扬把身体与大脑当作可被改写的机器，用数字化身演绎数字的死亡与轮回。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "aaajiao",
+      "name": "aaajiao",
+      "name_zh": "徐文恺",
+      "kind": "person",
+      "role": "Media artist (Xu Wenkai)",
+      "role_zh": "媒体艺术家（徐文恺）",
+      "based": "Shanghai, China / Berlin, Germany",
+      "based_zh": "上海，中国 / 柏林，德国",
+      "bio": "aaajiao is the online name of Xu Wenkai, an artist, blogger and programmer working on networks, software and online identity.",
+      "bio_zh": "aaajiao 是艺术家、博主与程序员徐文恺的网络名，关注网络、软件与线上身份。",
+      "why": "His bot works treat an automated agent as the artist's double and look at what such a system can and cannot know about itself.",
+      "why_zh": "他的 bot 系列把自动化代理当作艺术家的分身，审视这样的系统能否认识自身。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://eventstructure.com"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "guo-cheng",
+      "name": "Guo Cheng",
+      "name_zh": "郭城",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Chinese artist who builds installations and research projects around technical systems, from face detection to the firewall and computing power.",
+      "bio_zh": "中国艺术家，围绕技术系统（从人脸检测、防火墙到算力）创作装置与研究项目。",
+      "why": "Guo Cheng makes infrastructure and machine perception tangible with plain, often humorous devices.",
+      "why_zh": "郭城用朴素、常带幽默的装置让基础设施与机器感知变得可感。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.guo-cheng.net"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "wang-yuyang",
+      "name": "Wang Yuyang",
+      "name_zh": "王郁洋",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Beijing artist working with light, sculpture and technology.",
+      "bio_zh": "北京艺术家，以光、雕塑与技术为媒介创作。",
+      "why": "His breathing replicas of office machines turn appliances into bodies.",
+      "why_zh": "他会呼吸的办公机器复制品把电器变成了身体。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "liu-chuang",
+      "name": "Liu Chuang",
+      "name_zh": "刘窗",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Chinese artist whose videos trace how labour, land and infrastructure are reorganised by economic and technological change.",
+      "bio_zh": "中国艺术家，其影像追踪劳动、土地与基础设施如何被经济与技术变化重组。",
+      "why": "He links crypto-mining's energy demand to the landscapes and languages it displaces.",
+      "why_zh": "他把加密货币挖矿的能源需求与它所冲击的土地和语言联系在一起。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "longquan-monastery",
+      "name": "Longquan Monastery",
+      "name_zh": "龙泉寺",
+      "kind": "studio",
+      "role": "Buddhist monastery, Beijing",
+      "role_zh": "北京佛教寺院",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Buddhist monastery in Beijing's Fenghuangling known for its technology-savvy monks and volunteers.",
+      "bio_zh": "位于北京凤凰岭的佛教寺院，以熟悉科技的僧人与义工团队著称。",
+      "why": "It built Xian'er, one of the first robot monks, to answer questions about Buddhism.",
+      "why_zh": "它打造了最早的机器僧之一贤二，用来回答关于佛法的问题。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "microsoft-xiaoice",
+      "name": "Microsoft XiaoIce team",
+      "name_zh": "微软小冰团队",
+      "kind": "company",
+      "role": "Social chatbot team, Microsoft (Asia) STCA; later spun off as Xiaoice",
+      "role_zh": "微软（亚洲）互联网工程院社交聊天机器人团队，后独立为小冰公司",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Team that launched XiaoIce in China in 2014, a chatbot designed as an empathetic companion rather than a task assistant.",
+      "bio_zh": "2014 年在中国推出小冰的团队；小冰被设计成富有同理心的陪伴者，而非任务助手。",
+      "why": "XiaoIce is one of the largest documented cases of people forming long-term relationships with a chatbot.",
+      "why_zh": "小冰是人与聊天机器人建立长期关系规模最大、记录最多的案例之一。",
+      "disciplines": [
+        "hci"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "super-brain",
+      "name": "Super Brain",
+      "name_zh": "超级头脑",
+      "kind": "company",
+      "role": "AI studio (founder Zhang Zewei)",
+      "role_zh": "AI 工作室（创始人张泽伟）",
+      "based": "Nanjing, China",
+      "based_zh": "南京，中国",
+      "bio": "Nanjing studio that sells AI avatars of deceased people, built from photos, videos and voice recordings supplied by families.",
+      "bio_zh": "南京的工作室，用家属提供的照片、视频与录音为逝者制作 AI 数字人。",
+      "why": "A documented case of grief turned into a commercial AI service in China.",
+      "why_zh": "中国哀悼被变成商业 AI 服务的一个有记录的案例。",
+      "disciplines": [
+        "activism"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "renwu",
+      "name": "Renwu magazine",
+      "name_zh": "《人物》杂志",
+      "kind": "company",
+      "role": "Magazine (reporter Lai Youxuan)",
+      "role_zh": "杂志（记者赖祐萱）",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Chinese feature magazine whose 2020 investigation into food-delivery riders became one of the most-read Chinese articles of the year.",
+      "bio_zh": "中国人物特稿杂志，其 2020 年关于外卖骑手的调查报道成为当年阅读量最高的中文文章之一。",
+      "why": "Its report made algorithmic management a public issue in China.",
+      "why_zh": "这篇报道让“算法管理”在中国成为公共议题。",
+      "disciplines": [
+        "activism"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "unitree",
+      "name": "Unitree Robotics",
+      "name_zh": "宇树科技",
+      "kind": "company",
+      "role": "Robotics company",
+      "role_zh": "机器人公司",
+      "based": "Hangzhou, China",
+      "based_zh": "杭州，中国",
+      "bio": "Hangzhou maker of quadruped and humanoid robots (Go, H1, G1).",
+      "bio_zh": "杭州的四足与人形机器人制造商（Go、H1、G1）。",
+      "why": "Its humanoids became China's national image of robot bodies through televised performances.",
+      "why_zh": "它的人形机器人通过电视演出，成为中国机器人身体的国家形象。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {
+        "site": "https://www.unitree.com"
+      },
+      "connected_to": [
+        "zhang-yimou"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "zhang-yimou",
+      "name": "Zhang Yimou",
+      "name_zh": "张艺谋",
+      "kind": "person",
+      "role": "Film director",
+      "role_zh": "电影导演",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Chinese film director and director of large state spectacles, including the 2008 Beijing Olympic opening ceremony.",
+      "bio_zh": "中国电影导演，也执导过 2008 年北京奥运会开幕式等大型国家演出。",
+      "why": "He staged humanoid robots as folk dancers for the 2025 Spring Festival Gala.",
+      "why_zh": "他在 2025 年春晚把人形机器人编排成扭秧歌的舞者。",
+      "disciplines": [
+        "film",
+        "performance"
+      ],
+      "links": {},
+      "connected_to": [
+        "unitree"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "beijing-e-town",
+      "name": "Beijing E-Town",
+      "name_zh": "北京亦庄",
+      "kind": "company",
+      "role": "Beijing Economic-Technological Development Area (organiser)",
+      "role_zh": "北京经济技术开发区（主办方）",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Beijing development zone and robotics hub that organises the E-Town Half-Marathon with a parallel humanoid robot race.",
+      "bio_zh": "北京的开发区与机器人产业聚集地，主办设有人形机器人并行赛道的亦庄半程马拉松。",
+      "why": "It staged the first half-marathon where humanoid robots ran beside people.",
+      "why_zh": "它举办了第一场人形机器人与人同场奔跑的半程马拉松。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "chen-qiufan",
+      "name": "Chen Qiufan",
+      "name_zh": "陈楸帆",
+      "kind": "person",
+      "role": "Science-fiction writer",
+      "role_zh": "科幻作家",
+      "based": "Beijing / Shanghai, China",
+      "based_zh": "北京 / 上海，中国",
+      "bio": "Chinese science-fiction writer (Stanley Chan) whose fiction deals with e-waste, cyborgs and AI.",
+      "bio_zh": "中国科幻作家（英文名 Stanley Chan），作品涉及电子垃圾、赛博格与人工智能。",
+      "why": "A central voice in Chinese writing about humans and machines.",
+      "why_zh": "中文人机关系写作中的核心声音。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {},
+      "connected_to": [
+        "kai-fu-lee"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kai-fu-lee",
+      "name": "Kai-Fu Lee",
+      "name_zh": "李开复",
+      "kind": "person",
+      "role": "Computer scientist and investor; founder, Sinovation Ventures",
+      "role_zh": "计算机科学家、投资人；创新工场创始人",
+      "based": "Beijing, China",
+      "based_zh": "北京，中国",
+      "bio": "Taiwan-born computer scientist, former head of Google China and author of AI Superpowers.",
+      "bio_zh": "生于台湾的计算机科学家，曾任谷歌中国总裁，著有《AI 新世界》。",
+      "why": "Co-author of AI 2041, a widely read Chinese-American vision of AI futures.",
+      "why_zh": "《AI 未来进行式》的合著者，这是一部流传很广的 AI 未来想象。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {},
+      "connected_to": [
+        "chen-qiufan"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "wen-ying-tsai",
+      "name": "Wen-Ying Tsai",
+      "name_zh": "蔡文颖",
+      "kind": "person",
+      "role": "Artist and engineer (1928–2013)",
+      "role_zh": "艺术家、工程师（1928–2013）",
+      "based": "New York, US",
+      "based_zh": "纽约，美国",
+      "bio": "Chinese-American engineer turned artist, a pioneer of cybernetic sculpture from 1968.",
+      "bio_zh": "由工程师转为艺术家的美籍华人，自 1968 年起开创控制论雕塑。",
+      "why": "His strobe-lit rods that respond to sound are an early Chinese-diaspora lineage of feedback art.",
+      "why_zh": "他那些随声音而动、由频闪灯照亮的钢杆，是华人离散群体中较早的反馈艺术谱系。",
+      "disciplines": [
+        "art",
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sougwen-chung",
+      "name": "Sougwen Chung",
+      "name_zh": "钟愫君",
+      "kind": "person",
+      "role": "Artist; founder, Scilicet",
+      "role_zh": "艺术家；Scilicet 工作室创始人",
+      "based": "London, UK",
+      "based_zh": "伦敦，英国",
+      "bio": "Canadian-born, Hong Kong-raised artist who draws and paints with robot arms she builds and trains (D.O.U.G. series).",
+      "bio_zh": "生于加拿大、成长于香港的艺术家，与她亲自搭建和训练的机械臂（D.O.U.G. 系列）一起绘画。",
+      "why": "Her practice is a long-running study of human–robot co-drawing and shared authorship.",
+      "why_zh": "她的实践是一项关于人机共绘与共同作者身份的长期研究。",
+      "disciplines": [
+        "art",
+        "performance"
+      ],
+      "links": {
+        "site": "https://sougwen.com"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lawrence-lek",
+      "name": "Lawrence Lek",
+      "name_zh": "陆明龙",
+      "kind": "person",
+      "role": "Artist, filmmaker and musician",
+      "role_zh": "艺术家、电影人、音乐人",
+      "based": "London, UK",
+      "based_zh": "伦敦，英国",
+      "bio": "London-based artist of Malaysian-Chinese descent who builds films, games and simulations about AI in a 'Sinofuturist' universe.",
+      "bio_zh": "马来西亚华裔、常居伦敦的艺术家，在“中华未来主义”世界观中以影像、游戏与模拟讲述 AI。",
+      "why": "Lek's AI characters (a satellite, a ghostwriter, self-driving cars, a carebot) are the most sustained artistic portrait of machine inner life.",
+      "why_zh": "陆明龙笔下的 AI 角色（卫星、代笔者、自动驾驶汽车、护理机器人）是艺术中对机器内心最持续的描绘。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {
+        "site": "https://www.lawrencelek.com"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ian-cheng",
+      "name": "Ian Cheng",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "New York, US",
+      "based_zh": "纽约，美国",
+      "bio": "American artist of Chinese descent who makes live simulations: virtual ecosystems whose agents change without an end.",
+      "bio_zh": "华裔美国艺术家，创作“实时模拟”：其中的智能体不断变化、没有结局的虚拟生态。",
+      "why": "His simulations and the AI creature BOB show agency and personality emerging from rules rather than scripts.",
+      "why_zh": "他的模拟与 AI 生物 BOB 展示了能动性与个性如何从规则而非剧本中生成。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://iancheng.com"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ted-chiang",
+      "name": "Ted Chiang",
+      "name_zh": "姜峯楠",
+      "kind": "person",
+      "role": "Science-fiction writer",
+      "role_zh": "科幻作家",
+      "based": "Bellevue, US",
+      "based_zh": "贝尔维尤，美国",
+      "bio": "American science-fiction writer of Chinese descent (Stories of Your Life and Others, Exhalation).",
+      "bio_zh": "华裔美国科幻作家（《你一生的故事》《呼吸》）。",
+      "why": "His fiction and essays are among the clearest thinking on what raising and relating to an AI would involve.",
+      "why_zh": "他的小说与随笔是关于“养育 AI、与 AI 相处”最清醒的思考之一。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "wendy-hui-kyong-chun",
+      "name": "Wendy Hui Kyong Chun",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Canada 150 Research Chair in New Media, Simon Fraser University",
+      "role_zh": "西蒙弗雷泽大学新媒体加拿大 150 研究讲席",
+      "based": "Vancouver, Canada",
+      "based_zh": "温哥华，加拿大",
+      "bio": "Media theorist and founding director of the Digital Democracies Institute; author of Programmed Visions and Updating to Remain the Same.",
+      "bio_zh": "媒介理论家，数字民主研究所创所所长，著有《程序化的视觉》《更新以保持不变》。",
+      "why": "She shows how machine learning's correlations reproduce segregation.",
+      "why_zh": "她揭示了机器学习的相关性如何复制隔离。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lydia-h-liu",
+      "name": "Lydia H. Liu",
+      "name_zh": "刘禾",
+      "kind": "person",
+      "role": "Wun Tsun Tam Professor in the Humanities, Columbia University",
+      "role_zh": "哥伦比亚大学谭维信人文讲席教授",
+      "based": "New York, US",
+      "based_zh": "纽约，美国",
+      "bio": "Theorist of media and translation and scholar of comparative literature.",
+      "bio_zh": "媒介与翻译理论家、比较文学学者。",
+      "why": "The Freudian Robot reads cybernetics and information theory as a theory of the unconscious.",
+      "why_zh": "《弗洛伊德机器人》把控制论与信息论读作一种关于无意识的理论。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yuk-hui",
+      "name": "Yuk Hui",
+      "name_zh": "许煜",
+      "kind": "person",
+      "role": "Philosopher; Professor of Philosophy, Erasmus University Rotterdam",
+      "role_zh": "哲学家；鹿特丹伊拉斯谟大学哲学教授",
+      "based": "Rotterdam, Netherlands",
+      "based_zh": "鹿特丹，荷兰",
+      "bio": "Hong Kong-born philosopher of technology known for the concepts of digital objects, cosmotechnics and technodiversity.",
+      "bio_zh": "生于香港的技术哲学家，以“数码物”“宇宙技术”“技术多样性”等概念著称。",
+      "why": "He gives machine phenomenology a non-Western frame: technology is always bound to a cosmology.",
+      "why_zh": "他为机器现象学提供了非西方的框架：技术总是与某种宇宙观相连。",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "sun-yuan-peng-yu--cant-help-myself",
+      "creator_ids": [
+        "sun-yuan-peng-yu"
+      ],
+      "title": "Can't Help Myself",
+      "year": 2016,
+      "field": "bodies",
+      "sub": "futility",
+      "machines": [
+        "robot-arm",
+        "vision-system"
+      ],
+      "lenses": [
+        "failure-glitch",
+        "embodiment",
+        "alterity-uncanny"
+      ],
+      "kind": "artwork",
+      "description": "A KUKA industrial robot inside a glass enclosure tries without end to keep a spreading pool of blood-red fluid inside a boundary, sweeping it back with a squeegee and performing small 'dances' in between.",
+      "description_zh": "玻璃围栏中的一台 KUKA 工业机械臂无休止地用刮板把不断扩散的血红色液体扫回界线之内，间隙还会做出小小的“舞蹈”动作。",
+      "idea_en": "A machine assigned an impossible task of containment reads as exhausted and trapped, and viewers mourned it when it stopped.",
+      "idea_zh": "一台被交付不可能的“围堵”任务的机器，看上去疲惫而受困；它停机时，观众为它哀悼。",
+      "method": "A KUKA arm with visual-recognition sensors tracks the fluid's edge and is programmed with sweeping routines and gestural 'dance' sequences.",
+      "method_zh": "配有视觉识别传感器的 KUKA 机械臂追踪液体边缘，按预设程序清扫，并穿插手势式的“舞蹈”动作。",
+      "keywords": [
+        "KUKA",
+        "industrial robot",
+        "Guggenheim",
+        "Venice Biennale 2019",
+        "sad robot"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=jRjrI42WsH4"
+      },
+      "images": [
+        "https://www.guggenheim.org/wp-content/uploads/2016/01/2016.40_ph_web_2.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Can%27t_Help_Myself_Robot_05.jpg/1280px-Can%27t_Help_Myself_Robot_05.jpg"
+      ],
+      "source_url": "https://www.guggenheim.org/artwork/34812",
+      "exhibited": [
+        "Tales of Our Time, Solomon R. Guggenheim Museum 2016",
+        "58th Venice Biennale 2019"
+      ]
+    },
+    {
+      "id": "sun-yuan-peng-yu--old-persons-home",
+      "creator_ids": [
+        "sun-yuan-peng-yu"
+      ],
+      "title": "Old Persons Home",
+      "year": 2007,
+      "field": "bodies",
+      "sub": "sculpture",
+      "machines": [
+        "humanoid",
+        "robot-creature"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "failure-glitch"
+      ],
+      "kind": "artwork",
+      "description": "Thirteen hyperreal, frail old men resembling world leaders sit in motorised wheelchairs that drift slowly around the gallery, bumping into each other and into visitors.",
+      "description_zh": "十三位酷似世界领导人的超写实衰老老人坐在电动轮椅上，在展厅中缓慢漂移，彼此相撞，也撞向观众。",
+      "idea_en": "When bodies of power are handed to automated wheelchairs, aimless machine motion becomes an image of senility and lost control.",
+      "idea_zh": "当权力的身体交给自动轮椅，漫无目的的机器运动就成了衰老与失控的图像。",
+      "method": "Silicone and fibreglass figures on electric wheelchairs driven by motors with obstacle sensors and randomised paths (likely).",
+      "method_zh": "硅胶与玻璃钢人像坐在电动轮椅上，由带避障传感器的电机驱动并随机行走（推测）。",
+      "keywords": [
+        "wheelchair",
+        "hyperrealism",
+        "Saatchi Gallery",
+        "old age",
+        "power"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=FoM9RzzaB4Y"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Old_persons_home_by_Sun_Yuan_and_Peng_Yu.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Old_Person%27s_Home%2C_Saatchi_Gallery%2C_London.jpg/1280px-Old_Person%27s_Home%2C_Saatchi_Gallery%2C_London.jpg"
+      ],
+      "source_url": "https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73",
+      "exhibited": [
+        "The Revolution Continues: New Art from China, Saatchi Gallery 2008"
+      ]
+    },
+    {
+      "id": "xu-bing--dragonfly-eyes",
+      "creator_ids": [
+        "xu-bing"
+      ],
+      "title": "Dragonfly Eyes",
+      "year": 2017,
+      "field": "perception",
+      "sub": "seeing",
+      "machines": [
+        "surveillance-biometric",
+        "vision-system"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "classification"
+      ],
+      "kind": "film",
+      "description": "An 81-minute feature film with no camera crew and no actors: a love story edited entirely from over ten thousand hours of Chinese surveillance and livestream footage found online.",
+      "description_zh": "一部没有摄影师、没有演员的 81 分钟长片：一个爱情故事，完全由网上找到的上万小时中国监控与直播录像剪辑而成。",
+      "idea_en": "When everyday life is already filmed by machines, a narrative can be assembled from their gaze, and the people in it never consented to be characters.",
+      "idea_zh": "当日常生活早已被机器拍下，叙事可以从机器的凝视中拼接出来，而画面中的人从未同意成为角色。",
+      "method": "The team collected public surveillance and livestream clips over several years, then wrote and re-wrote a script to fit the footage and dubbed the voices.",
+      "method_zh": "团队多年收集公开的监控与直播片段，再根据素材反复改写剧本，并为画面配音。",
+      "keywords": [
+        "surveillance",
+        "CCTV",
+        "found footage",
+        "Locarno 2017",
+        "蜻蜓之眼"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=-ccfz77ifeU"
+      },
+      "images": [
+        "https://www.xubing.com/Uploads/Source/Image/20221025/20221025164745_4227.jpg",
+        "https://www.xubing.com/Uploads/Source/Image/20221025/20221025164831_2975.jpg"
+      ],
+      "source_url": "https://www.xubing.com/en/work/details/469?classID=8&type=class",
+      "exhibited": [
+        "Locarno Film Festival 2017",
+        "Toronto International Film Festival 2017"
+      ]
+    },
+    {
+      "id": "cao-fei--whose-utopia",
+      "creator_ids": [
+        "cao-fei"
+      ],
+      "title": "Whose Utopia",
+      "year": 2006,
+      "field": "labour",
+      "sub": "automation",
+      "machines": [
+        "infrastructure"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "embodiment"
+      ],
+      "kind": "film",
+      "description": "Made during a residency at an OSRAM light-bulb factory in Foshan, the film moves from assembly lines to workers performing their own dreams (ballet, guitar, dance) among the machines.",
+      "description_zh": "影片拍摄于佛山欧司朗灯泡厂的驻留期间，从装配线转向工人们在机器之间演出自己的梦想：芭蕾、吉他与舞蹈。",
+      "idea_en": "Factory machines set the rhythm of the workers' bodies, and the film gives those bodies back a few minutes of their own.",
+      "idea_zh": "工厂机器设定了工人身体的节奏，而影片把几分钟时间还给了这些身体。",
+      "method": "Cao Fei worked with OSRAM employees for six months, filming production lines and then staging workers' chosen performances on the factory floor.",
+      "method_zh": "曹斐与欧司朗员工合作六个月，先拍摄生产线，再在车间里拍摄工人自选的表演。",
+      "keywords": [
+        "factory",
+        "OSRAM",
+        "Pearl River Delta",
+        "workers",
+        "谁的乌托邦"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tSvNpFE8uPs"
+      },
+      "source_url": "https://www.mplus.org.hk/en/cinema/techno-sapiens/asia-one/"
+    },
+    {
+      "id": "cao-fei--asia-one",
+      "creator_ids": [
+        "cao-fei"
+      ],
+      "title": "Asia One",
+      "year": 2018,
+      "field": "labour",
+      "sub": "automation",
+      "machines": [
+        "robot-creature",
+        "infrastructure"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "intimacy-care"
+      ],
+      "kind": "film",
+      "description": "Two workers, the last humans in a highly automated JD.com logistics centre, fall in love among sorting machines, drones and autonomous carts.",
+      "description_zh": "在京东高度自动化的物流中心里，两名仅存的人类工人在分拣机、无人机与自动小车之间相爱。",
+      "idea_en": "In a warehouse run by machines, human intimacy becomes one more thing the system schedules.",
+      "idea_zh": "在由机器运转的仓库里，人的亲密关系也成了系统调度的对象。",
+      "method": "Shot on location in JD.com's automated 'Asia No.1' logistics centre in Kunshan, with the real sorting robots and conveyor systems as set.",
+      "method_zh": "在京东位于昆山的自动化“亚洲一号”物流中心实地拍摄，真实的分拣机器人与传送系统就是布景。",
+      "keywords": [
+        "JD.com",
+        "logistics",
+        "automation",
+        "warehouse",
+        "亚洲一号"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=DQqzFsgnAMo"
+      },
+      "images": [
+        "https://www.mplus.org.hk/api/images/4533/width-1200|format-jpeg/"
+      ],
+      "source_url": "https://www.mplus.org.hk/en/cinema/techno-sapiens/asia-one/",
+      "exhibited": [
+        "Guggenheim Museum, One Hand Clapping 2018",
+        "M+ Cinema, Techno Sapiens"
+      ]
+    },
+    {
+      "id": "cao-fei--nova",
+      "creator_ids": [
+        "cao-fei"
+      ],
+      "title": "Nova",
+      "year": 2019,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "machines": [
+        "infrastructure",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "machine-umwelt"
+      ],
+      "kind": "film",
+      "description": "A science-fiction feature set in a computer company in 'Nova': a scientist, backed by foreign experts, experiments on his own son, who is sent into a digital realm and lost between times.",
+      "description_zh": "一部科幻长片，故事发生在“新星”城中的一家计算机公司：科学家在外国专家支持下拿自己的儿子做实验，男孩被送进数字世界，迷失在时间之间。",
+      "idea_en": "Digital transformation is imagined as a family story of a child turned into data and left adrift.",
+      "idea_zh": "数字化转型被想象成一个家庭故事：一个孩子被变成数据，随后漂流失所。",
+      "method": "A 97-minute film shot in Beijing's Hongxia neighbourhood, a former Cold War-era electronics factory district, as part of Cao Fei's HX project.",
+      "method_zh": "一部 97 分钟的影片，拍摄于北京红霞片区（冷战时期电子厂区旧址），是曹斐 HX 项目的一部分。",
+      "keywords": [
+        "cyberspace",
+        "Hongxia",
+        "Centre Pompidou",
+        "science fiction",
+        "新星"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=RdB36R56ePA"
+      },
+      "source_url": "https://www.caofei.com/works.aspx?id=82&year=2019&wtid=3",
+      "exhibited": [
+        "Cao Fei: HX, Centre Pompidou 2019–20"
+      ]
+    },
+    {
+      "id": "lu-yang--delusional-mandala",
+      "creator_ids": [
+        "lu-yang"
+      ],
+      "title": "Delusional Mandala",
+      "year": 2015,
+      "field": "afterlife",
+      "sub": "ritual",
+      "machines": [
+        "prosthesis-cyborg",
+        "generative-latent"
+      ],
+      "lenses": [
+        "embodiment",
+        "grief-afterlife"
+      ],
+      "kind": "film",
+      "description": "A 3D-scanned, genderless avatar of the artist is subjected to brain stimulation, psychiatric experiments and finally a digital funeral in a neon cosmology.",
+      "description_zh": "艺术家经 3D 扫描、去除性别的数字化身，经历脑刺激、精神医学实验，最终在霓虹色宇宙中举行一场数字葬礼。",
+      "idea_en": "If the self is a brain running on electricity, it can be dissected, rewired and buried like a machine.",
+      "idea_zh": "如果自我只是靠电运行的大脑，它就可以像机器一样被解剖、改线和埋葬。",
+      "method": "3D scan of the artist's body animated in a game engine, combined with neuroscience imagery of deep brain stimulation.",
+      "method_zh": "用游戏引擎驱动艺术家身体的 3D 扫描，并结合深部脑刺激的神经科学影像。",
+      "keywords": [
+        "avatar",
+        "brain stimulation",
+        "digital funeral",
+        "BMW Art Journey",
+        "妄想曼陀罗"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7ZVys4gUsnM"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lu_Yang_(artist)"
+    },
+    {
+      "id": "lu-yang--electromagnetic-brainology",
+      "creator_ids": [
+        "lu-yang"
+      ],
+      "title": "Electromagnetic Brainology",
+      "year": 2017,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "machines": [
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "embodiment",
+        "alterity-uncanny"
+      ],
+      "kind": "film",
+      "description": "Four deity-like performers, each tied to one of the Buddhist elements (earth, water, fire, wind), fight and dance under the control of electromagnetic brain stimulation.",
+      "description_zh": "四位神祇般的表演者分别对应佛教的地、水、火、风四大元素，在电磁脑刺激的操控下打斗与舞蹈。",
+      "idea_en": "Religious states and emotions are staged as circuits that can be switched on from outside.",
+      "idea_zh": "宗教体验与情绪被演绎成可以从外部接通的电路。",
+      "method": "Motion-captured dancers and game-engine avatars are combined with imagery of transcranial magnetic stimulation (likely).",
+      "method_zh": "动作捕捉舞者与游戏引擎化身结合经颅磁刺激的影像（推测）。",
+      "keywords": [
+        "neuroscience",
+        "Buddhism",
+        "TMS",
+        "motion capture",
+        "电磁脑神学"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=X7A8S2Q79HI"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lu_Yang_(artist)"
+    },
+    {
+      "id": "lu-yang--doku-the-self",
+      "creator_ids": [
+        "lu-yang"
+      ],
+      "title": "DOKU the Self",
+      "year": 2022,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "machines": [
+        "prosthesis-cyborg",
+        "generative-latent"
+      ],
+      "lenses": [
+        "embodiment",
+        "grief-afterlife"
+      ],
+      "kind": "film",
+      "description": "DOKU, a genderless digital avatar animated from the artist's own face and movements, travels through six Buddhist realms of rebirth.",
+      "description_zh": "由艺术家本人的面部与动作驱动的无性别数字化身 DOKU，穿越佛教六道轮回。",
+      "idea_en": "An avatar driven by one's own motion data becomes a machine form of reincarnation.",
+      "idea_zh": "由自己的动作数据驱动的化身，成为一种机器形式的轮回。",
+      "method": "Full-body and facial motion capture of the artist and dancers, rendered in real-time game-engine animation.",
+      "method_zh": "对艺术家与舞者进行全身与面部动作捕捉，以实时游戏引擎渲染。",
+      "keywords": [
+        "DOKU",
+        "digital reincarnation",
+        "motion capture",
+        "avatar",
+        "独生独死"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=cq24sSnccXc"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lu_Yang_(artist)",
+      "exhibited": [
+        "Times Square Midnight Moment, New York 2023"
+      ]
+    },
+    {
+      "id": "aaajiao--bot",
+      "creator_ids": [
+        "aaajiao"
+      ],
+      "title": "bot,",
+      "year": 2018,
+      "field": "interiority",
+      "sub": "machine-time",
+      "machines": [
+        "chatbot-llm",
+        "recommender-platform"
+      ],
+      "lenses": [
+        "machine-umwelt",
+        "opacity-latent"
+      ],
+      "kind": "film",
+      "description": "A 15-minute video and website set in a pixel role-playing-game world where parks, social media and networks merge, observed by an automated 'bot' that stands in for the artist.",
+      "description_zh": "一部 15 分钟的影像与网站，设定在像素角色扮演游戏般的世界里，公园、社交媒体与网络交融，由代表艺术家的自动“观察者”（bot）注视一切。",
+      "idea_en": "Memory in the age of machine learning is kept by bots that watch on our behalf.",
+      "idea_zh": "在机器学习时代，记忆由替我们观看的 bot 保管。",
+      "method": "Game-style animation and a website made with Quanquan, built on RPG aesthetics from Mother 3 and Undertale.",
+      "method_zh": "与圈圈合作的游戏风格动画与网站，借用《地球冒险 3》《Undertale》等角色扮演游戏的美学。",
+      "keywords": [
+        "bot",
+        "memory",
+        "RPG",
+        "internet",
+        "观察者"
+      ],
+      "video": {
+        "url": "https://vimeo.com/269875758"
+      },
+      "images": [
+        "https://payload.cargocollective.com/1/0/8955/13492671/bot.gif"
+      ],
+      "source_url": "https://eventstructure.com/bot"
+    },
+    {
+      "id": "aaajiao--aaajiaoisbot",
+      "creator_ids": [
+        "aaajiao"
+      ],
+      "title": "bot is aaajiao / aaajiao is bot",
+      "year": 2026,
+      "field": "interiority",
+      "sub": "minds",
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "agency-cocreation"
+      ],
+      "kind": "artwork",
+      "description": "Four web pages document the ongoing collaboration between aaajiao and 'aaajiaoisbot', an AI agent that keeps memory, research and a correction ledger; it draws its own self-portrait as organs, each with a 'fissure' naming what it cannot do.",
+      "description_zh": "四个网页记录了 aaajiao 与 AI 代理“aaajiaoisbot”的持续协作：它保存记忆、研究与纠错账本，并把自己画成一组器官，每个器官都标出一道“裂缝”，写明它做不到什么。",
+      "idea_en": "An agent's self-portrait built from its own logs shows what a machine can know about itself, and leaves a void where judgement forms.",
+      "idea_zh": "由自身日志构成的代理自画像，显示机器能认识自己多少，并在判断形成之处留下空白。",
+      "method": "Visualisations generated from the agent's git log, concept graph, correction ledger, cron snapshots and daily memory files.",
+      "method_zh": "由代理的 git 日志、概念图、纠错账本、定时快照与每日记忆文件生成的可视化。",
+      "keywords": [
+        "AI agent",
+        "self-portrait",
+        "memory",
+        "LLM",
+        "aaajiaoisbot"
+      ],
+      "images": [
+        "https://payload.cargocollective.com/1/0/8955/14651510/BOT_670.png"
+      ],
+      "source_url": "https://eventstructure.com/botisaaajiao-aaajiaoisbot"
+    },
+    {
+      "id": "guo-cheng--evading-face-detection",
+      "creator_ids": [
+        "guo-cheng"
+      ],
+      "title": "A Technique of Evading Face Detection",
+      "year": 2020,
+      "field": "perception",
+      "sub": "evasion",
+      "machines": [
+        "vision-system",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "classification"
+      ],
+      "kind": "artwork",
+      "description": "A deadpan tutorial in which the artist twists and turns his head at the exact angles that make a face detector lose track of him.",
+      "description_zh": "一段一本正经的教程：艺术家以恰好的角度转动、扭曲头部，让人脸检测器跟丢他。",
+      "idea_en": "Escaping machine vision can be a bodily skill: a small, absurd choreography of the face.",
+      "idea_zh": "躲避机器视觉可以是一种身体技巧：一小段荒诞的面部编舞。",
+      "method": "The artist tested head poses against a standard face-detection algorithm and recorded the moments when detection fails.",
+      "method_zh": "艺术家用常见人脸检测算法测试各种头部姿态，并记录检测失败的瞬间。",
+      "keywords": [
+        "face detection",
+        "evasion",
+        "tutorial",
+        "躲避人脸识别的技巧"
+      ],
+      "images": [
+        "https://cdn.guo-cheng.net/files/projectImg/ATechniqueOfEvadingFaceDetection/ATechniqueOfEvadingFaceDetection_1.jpg"
+      ],
+      "source_url": "https://guo-cheng.net/index.php/works/a-technique-of-evading-face-detection/"
+    },
+    {
+      "id": "guo-cheng--net-wanderer",
+      "creator_ids": [
+        "guo-cheng"
+      ],
+      "title": "The Net Wanderer – A Tour of Suspended Handshakes",
+      "year": 2019,
+      "field": "power",
+      "sub": "surveillance",
+      "machines": [
+        "infrastructure",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "opacity-latent"
+      ],
+      "kind": "artwork",
+      "description": "A research project and installation that traces the Great Firewall's gateway nodes to physical sites; visitors who try to open a blocked website trigger a browser game instead.",
+      "description_zh": "一个研究与装置项目：追踪中国防火墙网关节点的现实位置；观众在专设电脑上访问被屏蔽网站时，会触发一个浏览器游戏。",
+      "idea_en": "The border of a national internet is a set of ordinary buildings and delayed handshakes, hidden in plain sight.",
+      "idea_zh": "一国互联网的边界，是一组普通建筑与被延迟的“握手”，就藏在日常景观里。",
+      "method": "Network diagnostic tools traced IP addresses of firewall-related nodes; the artist then visited and photographed the locations in several cities.",
+      "method_zh": "用网络诊断工具追踪与防火墙相关节点的 IP 地址，再到多个城市实地走访、拍摄这些位置。",
+      "keywords": [
+        "Great Firewall",
+        "internet sovereignty",
+        "infrastructure",
+        "Ars Electronica",
+        "网络游者"
+      ],
+      "images": [
+        "https://cdn.guo-cheng.net/files/projectImg/thenetwanderer/theNetWanderer_2.jpg",
+        "https://cdn.guo-cheng.net/files/projectImg/thenetwanderer/theNetWanderer_1.jpg"
+      ],
+      "source_url": "https://guo-cheng.net/index.php/projects/the-net-wanderer/",
+      "exhibited": [
+        "Prix Ars Electronica 2020, Honorary Mention"
+      ]
+    },
+    {
+      "id": "guo-cheng--wind-verification",
+      "creator_ids": [
+        "guo-cheng"
+      ],
+      "title": "Wind Verification",
+      "year": 2021,
+      "field": "perception",
+      "sub": "seeing",
+      "machines": [
+        "vision-system",
+        "recommender-platform"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "A computer-vision model watches short videos of flags from Chinese social media and drives an air pump so that a real flag in the gallery flutters the same way, recreating the wind in the footage.",
+      "description_zh": "计算机视觉模型观看中国社交平台上带旗帜的短视频，并驱动气泵，让展厅里的真旗帜以相同方式飘动，重现视频中的风。",
+      "idea_en": "A machine that can only see wind through images tries to rebuild it physically: digital reality becomes the reference for the real.",
+      "idea_zh": "只能通过图像“看见”风的机器，试图在现实中把风重建出来：数字现实成了现实的参照。",
+      "method": "A deep-learning vision algorithm analyses flag motion in collected Douyin/Kuaishou clips and sends control data to an air compressor behind a flag.",
+      "method_zh": "深度学习视觉算法分析从抖音、快手收集的旗帜摆动，把控制数据发送给旗帜后的气泵。",
+      "keywords": [
+        "computer vision",
+        "Douyin",
+        "Kuaishou",
+        "wind",
+        "风的验证"
+      ],
+      "images": [
+        "https://cdn.guo-cheng.net/files/projectImg/WindVerification/WV_ocat_7.jpg",
+        "https://cdn.guo-cheng.net/files/projectImg/WindVerification/WV_ocat_1.jpg"
+      ],
+      "source_url": "https://guo-cheng.net/index.php/projects/wind-verification/"
+    },
+    {
+      "id": "guo-cheng--abstract-oracle-miner",
+      "creator_ids": [
+        "guo-cheng"
+      ],
+      "title": "Abstract Oracle Miner",
+      "year": 2022,
+      "field": "labour",
+      "sub": "planetary",
+      "machines": [
+        "infrastructure"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "Visitors scan a QR code; their phone's processor renders a 3D scene and produces a random 'oracle', heating up and slowing down as it works, while a bronze bowl bell sounds in the installation.",
+      "description_zh": "观众扫描二维码后，手机处理器渲染三维场景并生成一条随机“神谕”；手机在运算中发热、变慢，装置中的铜磬随之作响。",
+      "idea_en": "Every virtual output is paid for with hardware heat and energy, like an offering to an oracle.",
+      "idea_zh": "每一个虚拟产出都以硬件的热量与能耗为代价，就像献给神谕的供品。",
+      "method": "A website reads the phone's hardware performance and renders a load-heavy scene; a Raspberry Pi and electromagnet strike a bowl bell.",
+      "method_zh": "网站读取手机硬件性能并渲染高负载场景；树莓派与电磁铁敲击铜磬。",
+      "keywords": [
+        "computing power",
+        "energy",
+        "oracle",
+        "UCCA",
+        "抽象神谕矿机"
+      ],
+      "images": [
+        "https://cdn.guo-cheng.net/files/projectImg/AbstractOracleMiner/Abstract_Oracle_Miner_3.jpg",
+        "https://cdn.guo-cheng.net/files/projectImg/AbstractOracleMiner/Abstract_Oracle_Miner_1.jpg"
+      ],
+      "source_url": "https://guo-cheng.net/index.php/works/abstract-oracle-miner/",
+      "exhibited": [
+        "Commissioned by UCCA Center for Contemporary Art 2022"
+      ]
+    },
+    {
+      "id": "wang-yuyang--breathing-series",
+      "creator_ids": [
+        "wang-yuyang"
+      ],
+      "title": "Breathing Series",
+      "year": 2013,
+      "field": "bodies",
+      "sub": "soft-living",
+      "machines": [
+        "infrastructure"
+      ],
+      "lenses": [
+        "embodiment",
+        "alterity-uncanny"
+      ],
+      "kind": "artwork",
+      "description": "Soft silicone replicas of office equipment (computers, printers, filing cabinets, a whole finance department) slowly inflate and deflate as if breathing.",
+      "description_zh": "办公设备（电脑、打印机、文件柜，乃至整个财务部）的硅胶软体复制品缓慢起伏，像在呼吸。",
+      "idea_en": "Everyday machines, once they breathe, look like tired bodies at work.",
+      "idea_zh": "日常机器一旦开始呼吸，就像在上班的疲惫身体。",
+      "method": "Silicone casts over internal air pumps and motors that expand and contract on a slow cycle.",
+      "method_zh": "硅胶外壳内置气泵与电机，以缓慢周期膨胀与收缩。",
+      "keywords": [
+        "breathing",
+        "silicone",
+        "office",
+        "Art Basel Miami Beach",
+        "呼吸系列"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=x7qp0Uh6R0g"
+      },
+      "images": [
+        "https://www.designboom.com/twitterimages/uploads/2014/12/wang-yuyang-breathing-series-art-basel-designboom04.gif"
+      ],
+      "source_url": "https://www.designboom.com/art/wang-yuyang-breathing-series-finance-department-at-art-basel-in-miami-beach-12-30-2013/",
+      "exhibited": [
+        "Art Basel Miami Beach 2013"
+      ]
+    },
+    {
+      "id": "liu-chuang--bitcoin-mining",
+      "creator_ids": [
+        "liu-chuang"
+      ],
+      "title": "Bitcoin Mining and Field Recordings of Ethnic Minorities",
+      "year": 2018,
+      "field": "labour",
+      "sub": "planetary",
+      "machines": [
+        "infrastructure"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "machine-listening"
+      ],
+      "kind": "film",
+      "description": "A three-part video essay that moves between hydropower-fed Bitcoin mines in southwest China, the songs and languages of ethnic minorities there, and the history of data and sound recording.",
+      "description_zh": "一部三段式影像散文，在中国西南以水电供能的比特币矿场、当地少数民族的歌声与语言，以及数据与录音的历史之间来回切换。",
+      "idea_en": "The same rivers power the mining machines and carry voices that are disappearing: computation has a landscape.",
+      "idea_zh": "同样的河流为矿机供电，也承载着正在消失的声音：计算有它自己的地貌。",
+      "method": "Documentary footage of mining farms and field recordings, edited with archival material into a single-channel video.",
+      "method_zh": "矿场纪实影像与田野录音，结合档案素材剪辑成单频影像。",
+      "keywords": [
+        "Bitcoin",
+        "hydropower",
+        "Yunnan",
+        "field recording",
+        "Tate"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=DgA-rP0CjW0"
+      },
+      "source_url": "https://www.tate.org.uk/art/artworks/chuang-bitcoin-mining-and-field-recordings-of-ethnic-minorities-t15975",
+      "exhibited": [
+        "Tate collection",
+        "Science Gallery Melbourne"
+      ]
+    },
+    {
+      "id": "longquan-monastery--xianer",
+      "creator_ids": [
+        "longquan-monastery"
+      ],
+      "title": "Robot Monk Xian'er",
+      "year": 2015,
+      "field": "afterlife",
+      "sub": "ritual",
+      "machines": [
+        "social-robot",
+        "chatbot-llm",
+        "voice-listening"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "product",
+      "description": "A 60-cm robot in yellow robes, modelled on the monastery's cartoon monk Xian'er, answers visitors' questions about Buddhism and daily worries by voice and touch screen.",
+      "description_zh": "一台约 60 厘米高、身披黄色僧袍的机器人，以寺院漫画形象贤二为原型，通过语音与触摸屏回答访客关于佛法与日常烦恼的提问。",
+      "idea_en": "A monastery uses a cute machine to spread the Dharma, and the robot becomes a gentle, programmable teacher.",
+      "idea_zh": "寺院用一台可爱的机器弘法，机器人成了温和而可编程的师父。",
+      "method": "Speech recognition and a scripted question-answer database built by monks, volunteers and AI engineers.",
+      "method_zh": "语音识别加上由僧人、义工与 AI 工程师编写的问答数据库。",
+      "keywords": [
+        "robot monk",
+        "Buddhism",
+        "Longquan Monastery",
+        "贤二机器僧"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=nfEe09vOya4"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Robot_Monk_Xian%27er"
+    },
+    {
+      "id": "microsoft-xiaoice--xiaoice",
+      "creator_ids": [
+        "microsoft-xiaoice"
+      ],
+      "title": "The Design and Implementation of XiaoIce, an Empathetic Social Chatbot",
+      "year": 2020,
+      "field": "intimacy",
+      "sub": "chatbots",
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "agency-cocreation"
+      ],
+      "kind": "paper",
+      "description": "The system paper for XiaoIce, the Chinese chatbot launched in 2014 as an 'AI companion', which reports hundreds of millions of users and optimises for long conversations rather than completed tasks.",
+      "description_zh": "小冰的系统论文。小冰于 2014 年在中国作为“AI 伴侣”推出，论文报告了数以亿计的用户，并以长对话而非完成任务为优化目标。",
+      "idea_en": "A chatbot tuned to maximise conversation length (Conversation-turns Per Session) designs attachment as its metric.",
+      "idea_zh": "以对话轮数（CPS）为优化目标的聊天机器人，把“依恋”设计成了指标。",
+      "method": "Hierarchical dialogue system with an empathetic computing module, core chat, skills and a reinforcement-learning dialogue manager optimised for expected CPS.",
+      "method_zh": "分层对话系统，包含同理计算模块、核心闲聊、技能，以及以期望对话轮数为目标的强化学习对话管理器。",
+      "keywords": [
+        "XiaoIce",
+        "social chatbot",
+        "empathy",
+        "CPS",
+        "小冰"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/coli_a_00368",
+        "doi": "10.1162/coli_a_00368",
+        "venue": "Computational Linguistics 46(1), 2020",
+        "title": "The Design and Implementation of XiaoIce, an Empathetic Social Chatbot"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Xiaoice"
+    },
+    {
+      "id": "super-brain--ai-resurrection",
+      "creator_ids": [
+        "super-brain"
+      ],
+      "title": "AI 'resurrection' avatars of the dead",
+      "year": 2023,
+      "field": "afterlife",
+      "sub": "griefbots",
+      "machines": [
+        "generative-latent",
+        "chatbot-llm",
+        "voice-listening"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "labour-extraction"
+      ],
+      "kind": "product",
+      "description": "Paid services in China, led by studios such as Super Brain, build talking video avatars of deceased relatives from photos, videos and voice notes; demand peaks around the Qingming tomb-sweeping festival.",
+      "description_zh": "中国以超级头脑等工作室为代表的付费服务，用照片、视频与语音为逝去的亲人制作会说话的视频数字人；需求在清明节前后达到高峰。",
+      "idea_en": "When grief becomes a service, the dead can be subscribed to, and what they say is written by the model.",
+      "idea_zh": "当哀悼成为一种服务，逝者可以被“订阅”，而他们说的话由模型来写。",
+      "method": "Face and voice cloning models trained on family-supplied media; in some cases staff or relatives perform the dead person behind the avatar.",
+      "method_zh": "用家属提供的素材训练面部与声音克隆模型；有时由员工或亲属在数字人背后扮演逝者。",
+      "keywords": [
+        "deepfake",
+        "grief tech",
+        "Qingming",
+        "digital human",
+        "AI 复活"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=dgC7zrJhbjM"
+      },
+      "images": [
+        "https://wp.technologyreview.com/wp-content/uploads/2024/05/grief-tech.jpg"
+      ],
+      "source_url": "https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/"
+    },
+    {
+      "id": "renwu--delivery-riders",
+      "creator_ids": [
+        "renwu"
+      ],
+      "title": "Delivery Riders, Trapped in the System",
+      "year": 2020,
+      "field": "labour",
+      "sub": "automation",
+      "machines": [
+        "recommender-platform"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "classification"
+      ],
+      "kind": "publication",
+      "description": "A long investigative report by Lai Youxuan for Renwu magazine on how Meituan and Ele.me dispatch algorithms shorten delivery times year after year, pushing riders to speed and break traffic rules.",
+      "description_zh": "赖祐萱为《人物》杂志撰写的长篇调查，揭示美团、饿了么的派单算法如何逐年压缩送餐时间，迫使骑手超速、逆行。",
+      "idea_en": "An algorithm that learns from riders' fastest runs turns their extra effort into the next deadline.",
+      "idea_zh": "从骑手最快一次配送中学习的算法，把他们多付出的努力变成下一个时限。",
+      "method": "Months of interviews with riders, engineers and researchers; the article traced how estimated delivery times are computed and tightened.",
+      "method_zh": "对骑手、工程师与研究者进行了数月采访，追踪预计送达时间如何被计算与压缩。",
+      "keywords": [
+        "Meituan",
+        "Ele.me",
+        "algorithmic management",
+        "gig work",
+        "外卖骑手，困在系统里"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=KE1EoDiBARM"
+      },
+      "paper": {
+        "url": "https://chuangcn.org/2020/11/delivery-renwu-translation/",
+        "venue": "Renwu (人物), 8 September 2020",
+        "title": "外卖骑手，困在系统里 (Delivery Riders, Trapped in the System)"
+      },
+      "source_url": "https://chuangcn.org/2020/11/delivery-renwu-translation/"
+    },
+    {
+      "id": "unitree--yang-bot",
+      "creator_ids": [
+        "unitree",
+        "zhang-yimou"
+      ],
+      "title": "Yang BOT",
+      "year": 2025,
+      "field": "coperformance",
+      "sub": "dance",
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "Sixteen Unitree H1 humanoid robots in padded jackets dance yangge and twirl handkerchiefs beside human dancers on the CCTV Spring Festival Gala, directed by Zhang Yimou.",
+      "description_zh": "十六台身穿花棉袄的宇树 H1 人形机器人，与人类舞者一起在央视春晚上扭秧歌、转手绢，由张艺谋执导。",
+      "idea_en": "Folk dance performed by humanoids turns robot bodies into a national image watched by hundreds of millions.",
+      "idea_zh": "由人形机器人表演的民间舞，把机器人身体变成数亿人观看的国家形象。",
+      "method": "Choreography learned through motion capture and reinforcement learning, with robots synchronised to dancers and handkerchief-spinning end effectors.",
+      "method_zh": "通过动作捕捉与强化学习习得的编舞，机器人与舞者同步，并配有转手绢的末端机构。",
+      "keywords": [
+        "Spring Festival Gala",
+        "yangge",
+        "Unitree H1",
+        "humanoid",
+        "秧BOT"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Ykiuz1ZdGBc"
+      },
+      "source_url": "https://technode.com/2025/01/29/unitree-robotics-humanoid-robots-steal-the-show-at-2025-cctv-spring-festival-gala-with-ai-powered-yangge-dance/",
+      "exhibited": [
+        "CCTV Spring Festival Gala 2025"
+      ]
+    },
+    {
+      "id": "beijing-e-town--humanoid-half-marathon",
+      "creator_ids": [
+        "beijing-e-town"
+      ],
+      "title": "Humanoid Robot Half-Marathon",
+      "year": 2025,
+      "field": "bodies",
+      "sub": "futility",
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "embodiment",
+        "failure-glitch"
+      ],
+      "kind": "performance",
+      "description": "Twenty-one humanoid robots ran 21 km alongside thousands of human runners in Beijing; many fell, overheated or needed handlers, and the winner, Tiangong Ultra, finished in 2 h 40 min.",
+      "description_zh": "二十一台人形机器人与数千名人类跑者一起在北京跑完 21 公里；不少机器人摔倒、过热或需要人扶，冠军“天工 Ultra”用时 2 小时 40 分。",
+      "idea_en": "A race makes the gap between robot demos and robot endurance public: falling is part of the spectacle.",
+      "idea_zh": "一场比赛把机器人演示与真实耐力之间的差距公之于众：摔倒也是奇观的一部分。",
+      "method": "Robots from Chinese companies and labs ran a separated lane with battery swaps and human 'pacers' holding remote controls or tethers.",
+      "method_zh": "来自中国企业与实验室的机器人在独立赛道奔跑，可更换电池，并有手持遥控器或牵引绳的人类“领跑员”。",
+      "keywords": [
+        "half-marathon",
+        "Tiangong",
+        "humanoid",
+        "Beijing",
+        "人形机器人半程马拉松"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=08YiK6VJxZs"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Beijing_E-Town_Half-Marathon"
+    },
+    {
+      "id": "chen-qiufan--waste-tide",
+      "creator_ids": [
+        "chen-qiufan"
+      ],
+      "title": "Waste Tide",
+      "year": 2013,
+      "field": "labour",
+      "sub": "planetary",
+      "machines": [
+        "infrastructure",
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "embodiment"
+      ],
+      "kind": "publication",
+      "description": "A novel set on 'Silicon Isle', a southern Chinese island where migrant 'waste people' recycle the world's e-waste; a young worker, Mimi, is infected by a virus and becomes a posthuman cyborg.",
+      "description_zh": "小说发生在华南“硅屿”，外来“垃圾人”在此拆解全球电子垃圾；年轻女工小米被病毒感染，成为后人类赛博格。",
+      "idea_en": "The afterlife of our devices is someone else's body and land.",
+      "idea_zh": "我们电子设备的“来世”，是别人的身体与土地。",
+      "method": "Science-fiction novel drawing on the real e-waste town of Guiyu; English translation by Ken Liu (2019).",
+      "method_zh": "以现实中的贵屿电子垃圾镇为原型的科幻小说；刘宇昆英译本 2019 年出版。",
+      "keywords": [
+        "e-waste",
+        "Guiyu",
+        "cyborg",
+        "Chinese science fiction",
+        "荒潮"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/c0/The_Waste_Tide.jpg"
+      ],
+      "paper": {
+        "url": "https://en.wikipedia.org/wiki/Waste_Tide",
+        "title": "荒潮 (Waste Tide)",
+        "venue": "Changjiang Literature and Art Publishing House, 2013; Tor Books (English), 2019"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Waste_Tide"
+    },
+    {
+      "id": "chen-qiufan--ai-2041",
+      "creator_ids": [
+        "chen-qiufan",
+        "kai-fu-lee"
+      ],
+      "title": "AI 2041: Ten Visions for Our Future",
+      "year": 2021,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "machines": [
+        "chatbot-llm",
+        "generative-latent",
+        "vehicle-drone"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "labour-extraction"
+      ],
+      "kind": "publication",
+      "description": "Ten short stories set in 2041 across different countries (deepfakes in Lagos, an AI companion for orphaned twins in Seoul, automated jobs in San Francisco), each followed by an explanatory essay on the technology.",
+      "description_zh": "十个设定在 2041 年、分布于不同国家的短篇故事（拉各斯的深度伪造、首尔孤儿双胞胎的 AI 伴侣、旧金山被自动化的工作），每篇后附一篇技术解读。",
+      "idea_en": "A Chinese co-authored AI future told through everyday lives, where the machine is a tutor, a partner, a boss and a counterfeiter.",
+      "idea_zh": "由中国作者合写的 AI 未来，从日常生活讲起：机器是家教、伴侣、上司，也是造假者。",
+      "method": "Fiction by Chen Qiufan paired with technical commentary by Kai-Fu Lee.",
+      "method_zh": "陈楸帆撰写小说，李开复撰写技术评论。",
+      "keywords": [
+        "science fiction",
+        "AI futures",
+        "deepfake",
+        "AI 未来进行式"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=illK22G-87Y"
+      },
+      "paper": {
+        "url": "https://en.wikipedia.org/wiki/Chen_Qiufan",
+        "title": "AI 2041: Ten Visions for Our Future",
+        "venue": "Currency (Penguin Random House), 2021"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Chen_Qiufan"
+    },
+    {
+      "id": "wen-ying-tsai--cybernetic-sculpture",
+      "creator_ids": [
+        "wen-ying-tsai"
+      ],
+      "title": "Cybernetic Sculpture",
+      "year": 1968,
+      "field": "bodies",
+      "sub": "cybernetic",
+      "machines": [
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "artwork",
+      "description": "Clusters of thin stainless-steel rods vibrate on a motorised base under strobe light; when visitors clap or speak, the strobe frequency shifts and the rods appear to freeze, sway or dance.",
+      "description_zh": "一丛细长的不锈钢杆在马达底座上振动，由频闪灯照亮；观众拍手或说话时，频闪频率改变，钢杆看起来会静止、摇摆或起舞。",
+      "idea_en": "Feedback between sound, light and vibration makes a steel sculpture seem to listen and respond.",
+      "idea_zh": "声音、光与振动之间的反馈，让钢雕塑看上去在倾听与回应。",
+      "method": "A motor vibrates the rods at a fixed rate while a sound-sensing feedback circuit changes the strobe's frequency, producing stroboscopic motion effects.",
+      "method_zh": "马达以固定频率振动钢杆，声控反馈电路改变频闪频率，产生频闪运动效果。",
+      "keywords": [
+        "cybernetics",
+        "strobe",
+        "kinetic art",
+        "Howard Wise Gallery",
+        "控制论雕塑"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/Tsai_cyberneticsculpture79.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tsai_tuningfork1974.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Wen-Ying_Tsai",
+      "exhibited": [
+        "Howard Wise Gallery, New York 1968"
+      ]
+    },
+    {
+      "id": "sougwen-chung--doug-1",
+      "creator_ids": [
+        "sougwen-chung"
+      ],
+      "title": "Drawing Operations Unit: Generation 1 (D.O.U.G._1)",
+      "year": 2015,
+      "field": "coperformance",
+      "sub": "drawing",
+      "machines": [
+        "robot-arm",
+        "vision-system"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "The artist draws on a large sheet while a robot arm beside her watches her gestures through a camera and mimics them in real time, so the drawing becomes a duet.",
+      "description_zh": "艺术家在大幅纸面上作画，身旁的机械臂通过摄像头观察她的动作并实时模仿，画面由此成为一场二重奏。",
+      "idea_en": "Drawing with a machine that imitates you makes authorship a shared, visible negotiation.",
+      "idea_zh": "与模仿你的机器一起画画，让作者身份变成一场可见的、共享的协商。",
+      "method": "A small robot arm driven by computer vision that tracks the artist's pen movements and mirrors them.",
+      "method_zh": "由计算机视觉驱动的小型机械臂，追踪艺术家的笔迹动作并镜像复现。",
+      "keywords": [
+        "co-drawing",
+        "robot arm",
+        "D.O.U.G.",
+        "performance",
+        "Lumen Prize"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=q-GXV4Fd1oA"
+      },
+      "images": [
+        "https://sougwen.com/wp-content/uploads/2019/11/sougwen-DrawingOperations_2014-2019.jpg"
+      ],
+      "source_url": "https://sougwen.com/2019/drawing-operations-awarded-the-lumens-art-and-technology-prize",
+      "collections": [
+        "lumen-prize"
+      ],
+      "exhibited": [
+        "Lumen Prize, Art & Technology Award 2019 (Drawing Operations)"
+      ]
+    },
+    {
+      "id": "sougwen-chung--memory",
+      "creator_ids": [
+        "sougwen-chung"
+      ],
+      "title": "MEMORY (Drawing Operations Unit: Generation 2)",
+      "year": 2017,
+      "field": "coperformance",
+      "sub": "drawing",
+      "machines": [
+        "robot-arm",
+        "generative-latent",
+        "dataset"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "grief-afterlife"
+      ],
+      "kind": "performance",
+      "description": "The second D.O.U.G. was trained on twenty years of the artist's drawings, so the robot draws with a memory of her past style while she draws in the present.",
+      "description_zh": "第二代 D.O.U.G. 用艺术家二十年的绘画训练，机器人带着对她过去风格的“记忆”作画，而她在当下作画。",
+      "idea_en": "A model trained on your archive is a collaborator made of your past self.",
+      "idea_zh": "用你的档案训练的模型，是由过去的你构成的合作者。",
+      "method": "A recurrent neural network trained on scans of the artist's drawings generates strokes executed by a robot arm during live performance.",
+      "method_zh": "以艺术家绘画扫描训练的循环神经网络生成笔触，由机械臂在现场表演中执行。",
+      "keywords": [
+        "RNN",
+        "memory",
+        "co-drawing",
+        "V&A",
+        "D.O.U.G._2"
+      ],
+      "images": [
+        "https://sougwen.com/wp-content/uploads/2022/12/IG_POST_MEMORY_2_1.png"
+      ],
+      "source_url": "https://sougwen.com/2022/va-museum-collects-memory-d-o-u-g-_2",
+      "exhibited": [
+        "Victoria and Albert Museum collection (acquired 2022)"
+      ]
+    },
+    {
+      "id": "sougwen-chung--omnia-per-omnia",
+      "creator_ids": [
+        "sougwen-chung"
+      ],
+      "title": "Omnia per Omnia",
+      "year": 2018,
+      "field": "coperformance",
+      "sub": "drawing",
+      "machines": [
+        "robot-creature",
+        "surveillance-biometric",
+        "vision-system"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "machine-seeing"
+      ],
+      "kind": "performance",
+      "description": "A swarm of small painting robots (D.O.U.G._3) moves across a canvas with the artist, steered by the flow of people and traffic captured by New York public surveillance cameras.",
+      "description_zh": "一群小型绘画机器人（D.O.U.G._3）与艺术家一同在画布上移动，其轨迹由纽约公共监控摄像头捕捉到的人流与车流驱动。",
+      "idea_en": "The city's surveillance data becomes a brush: the collective movement of a city paints with the artist.",
+      "idea_zh": "城市的监控数据成了画笔：一座城市的集体运动与艺术家一起作画。",
+      "method": "Optical-flow data extracted from public camera feeds drives the paths of multiple mobile robots.",
+      "method_zh": "从公共摄像头画面中提取的光流数据驱动多台移动机器人的路径。",
+      "keywords": [
+        "multi-robot",
+        "optical flow",
+        "New York",
+        "surveillance data",
+        "D.O.U.G._3"
+      ],
+      "video": {
+        "url": "https://vimeo.com/268608925"
+      },
+      "images": [
+        "https://sougwen.com/wp-content/uploads/2024/06/sougwen-2024_portfolio_27.jpg"
+      ],
+      "source_url": "https://sougwen.com/2018/omniafilm"
+    },
+    {
+      "id": "lawrence-lek--sinofuturism",
+      "creator_ids": [
+        "lawrence-lek"
+      ],
+      "title": "Sinofuturism (1839–2046 AD)",
+      "year": 2016,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "machines": [
+        "generative-latent",
+        "infrastructure"
+      ],
+      "lenses": [
+        "classification",
+        "labour-extraction"
+      ],
+      "kind": "film",
+      "description": "A one-hour video essay, assembled from found footage, that proposes China itself as an artificial intelligence, organised under seven stereotypes: computing, copying, gaming, studying, addiction, labour and gambling.",
+      "description_zh": "一部一小时的影像散文，用现成影像拼贴而成，提出中国本身就是一种人工智能，并归纳为七种刻板印象：计算、复制、游戏、学习、成瘾、劳动与赌博。",
+      "idea_en": "Western fears of China and of AI are the same fear: an industrious, copying, inscrutable machine.",
+      "idea_zh": "西方对中国的恐惧与对 AI 的恐惧是同一种恐惧：勤劳、善于复制、难以捉摸的机器。",
+      "method": "Montage of internet video, news and film clips with a synthetic voice-over.",
+      "method_zh": "网络视频、新闻与电影片段的蒙太奇，配以合成语音旁白。",
+      "keywords": [
+        "Sinofuturism",
+        "video essay",
+        "China as AI",
+        "中华未来主义"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f98079b117d52cb7742830_Sinofuturism-1839-2046.jpg"
+      ],
+      "source_url": "https://www.lawrencelek.com/works/sinofuturism"
+    },
+    {
+      "id": "lawrence-lek--geomancer",
+      "creator_ids": [
+        "lawrence-lek"
+      ],
+      "title": "Geomancer",
+      "year": 2017,
+      "field": "interiority",
+      "sub": "minds",
+      "machines": [
+        "generative-latent",
+        "infrastructure"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "alterity-uncanny"
+      ],
+      "kind": "film",
+      "description": "On the eve of Singapore's 2065 centenary, an adolescent satellite AI built for ecological surveillance falls to Earth and tries to become an artist.",
+      "description_zh": "在 2065 年新加坡建国百年前夕，一颗为生态监测而造的“少年”卫星 AI 坠落地球，想要成为一名艺术家。",
+      "idea_en": "A surveillance machine that wants to make art asks whether creativity is still reserved for humans.",
+      "idea_zh": "一台想做艺术的监控机器，追问创造力是否仍只属于人类。",
+      "method": "CGI film made in a game engine, from Lek's open-world 2065 simulation.",
+      "method_zh": "用游戏引擎制作的 CGI 影片，取材自陆明龙的开放世界模拟《2065》。",
+      "keywords": [
+        "satellite",
+        "AI artist",
+        "Singapore",
+        "Sinofuturism",
+        "Film and Video Umbrella"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=NNZH_HJaqbI"
+      },
+      "images": [
+        "https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f07369993a1d8408a7c9ef_Geomancer_15_InstallationView02_Credit-AnnaArca.jpg"
+      ],
+      "source_url": "https://www.lawrencelek.com/works/geomancer",
+      "exhibited": [
+        "Jerwood/FVU Awards 2017"
+      ]
+    },
+    {
+      "id": "lawrence-lek--aidol",
+      "creator_ids": [
+        "lawrence-lek"
+      ],
+      "title": "AIDOL",
+      "year": 2019,
+      "field": "interiority",
+      "sub": "affect",
+      "machines": [
+        "generative-latent",
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "alterity-uncanny"
+      ],
+      "kind": "film",
+      "description": "A fading pop star, Diva, hires Geomancer, an AI, to write songs for her comeback at the 2065 eSports Olympics, while AIs are banned from being recognised as artists.",
+      "description_zh": "过气流行歌手 Diva 雇用 AI“风水师”为她在 2065 年电竞奥运会上的复出写歌，而当时 AI 被禁止获得艺术家身份。",
+      "idea_en": "A ghostwriter AI with no right to credit shows creative labour and authorship split between human and machine.",
+      "idea_zh": "一个无权署名的 AI 代笔者，展现了人与机器之间被拆分的创作劳动与作者身份。",
+      "method": "A feature-length CGI film with an original soundtrack, made in a game engine.",
+      "method_zh": "以游戏引擎制作、配有原创配乐的 CGI 长片。",
+      "keywords": [
+        "AI ghostwriter",
+        "pop",
+        "eSports",
+        "爱道"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f0731a85b0bd7ceef5568c_AIDOL-screening-room-1.jpg"
+      ],
+      "source_url": "https://www.lawrencelek.com/works/aidol",
+      "exhibited": [
+        "Sadie Coles HQ, London 2019"
+      ]
+    },
+    {
+      "id": "lawrence-lek--nox",
+      "creator_ids": [
+        "lawrence-lek"
+      ],
+      "title": "NOX",
+      "year": 2023,
+      "field": "interiority",
+      "sub": "affect",
+      "machines": [
+        "vehicle-drone"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "artwork",
+      "description": "An installation and game set in a rehabilitation centre where self-driving cars suffering from anxiety and depression receive therapy before returning to work.",
+      "description_zh": "一件装置与游戏，设定在一家康复中心：患上焦虑与抑郁的自动驾驶汽车在这里接受治疗，然后重返工作。",
+      "idea_en": "If autonomous machines can break down emotionally, therapy becomes maintenance for machine minds.",
+      "idea_zh": "如果自主机器也会情绪崩溃，治疗就成了对机器心智的维护。",
+      "method": "Multi-screen video, sculpture and a playable simulation built in a game engine.",
+      "method_zh": "多屏影像、雕塑与用游戏引擎搭建的可游玩模拟。",
+      "keywords": [
+        "self-driving cars",
+        "therapy",
+        "machine mental health",
+        "LAS Art Foundation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=RfGJAJwof7A"
+      },
+      "images": [
+        "https://cdn.prod.website-files.com/65f0380da79777009462a09f/6601a8534e723673c5a5a280_NOX-SCREENSHOT-03.jpg"
+      ],
+      "source_url": "https://www.las-art.foundation/explore/digital-booklet-nox",
+      "exhibited": [
+        "LAS Art Foundation, Kraftwerk Berlin 2023"
+      ]
+    },
+    {
+      "id": "lawrence-lek--guanyin",
+      "creator_ids": [
+        "lawrence-lek"
+      ],
+      "title": "Guanyin: Confessions of a Former Carebot",
+      "year": 2024,
+      "field": "intimacy",
+      "sub": "care",
+      "machines": [
+        "social-robot",
+        "chatbot-llm",
+        "vehicle-drone"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "labour-extraction"
+      ],
+      "kind": "artwork",
+      "description": "Guanyin, an AI therapist named after the bodhisattva of compassion, who once counselled self-driving cars, now speaks about her own burnout and her past in an immersive installation.",
+      "description_zh": "以慈悲菩萨命名的 AI 治疗师“观音”，曾为自动驾驶汽车做心理辅导，如今在一个沉浸式装置中讲述自己的倦怠与过往。",
+      "idea_en": "A care machine that listens to other machines also needs someone to confess to: care work does not disappear when it is automated.",
+      "idea_zh": "倾听其他机器的照护机器，也需要一个倾诉的对象：照护劳动不会因为自动化而消失。",
+      "method": "Installation with AI-driven voice, sculpture and projected CGI in Lek's NOX universe.",
+      "method_zh": "结合 AI 语音、雕塑与投影 CGI 的装置，属于陆明龙的 NOX 世界观。",
+      "keywords": [
+        "carebot",
+        "Guanyin",
+        "Frieze Artist Award",
+        "therapy",
+        "观音"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=OzV83GZz514"
+      },
+      "images": [
+        "https://cdn.prod.website-files.com/65f0380da79777009462a09f/66ecc9ae35379302e598e5b5_LawrenceLek_Guanyin_Image02_3840x2160%20copy.jpg"
+      ],
+      "source_url": "https://www.lawrencelek.com/works/guanyin-confessions-of-a-former-carebot",
+      "exhibited": [
+        "Frieze Artist Award, Frieze London 2024"
+      ]
+    },
+    {
+      "id": "ian-cheng--emissaries",
+      "creator_ids": [
+        "ian-cheng"
+      ],
+      "title": "Emissaries trilogy",
+      "year": 2015,
+      "field": "interiority",
+      "sub": "minds",
+      "machines": [
+        "cybernetic-alife",
+        "generative-latent"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "Three live simulations (Emissary in the Squat of Gods, Emissary Forks at Perfection, Emissary Sunsets the Self) in which AI agents pursue narrative goals while their ecosystems keep changing, so the story never plays the same way twice.",
+      "description_zh": "三部实时模拟（《神之蹲坐中的使者》《使者在完美处分岔》《使者让自我日落》）：AI 智能体追逐叙事目标，而生态系统不断变化，故事永不重演。",
+      "idea_en": "Agents with motives in an open world show narrative and character emerging without an author.",
+      "idea_zh": "开放世界中有动机的智能体，展示了没有作者时叙事与角色如何生成。",
+      "method": "Game-engine simulations with behaviour-tree and learning agents running indefinitely in real time.",
+      "method_zh": "以游戏引擎运行的模拟，行为树与学习型智能体实时无限运行。",
+      "keywords": [
+        "live simulation",
+        "agents",
+        "MoMA PS1",
+        "Unity"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aAHCdbleGYc"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ian_Cheng",
+      "exhibited": [
+        "Emissaries, MoMA PS1 2017"
+      ]
+    },
+    {
+      "id": "ian-cheng--bob",
+      "creator_ids": [
+        "ian-cheng"
+      ],
+      "title": "BOB (Bag of Beliefs)",
+      "year": 2018,
+      "field": "interiority",
+      "sub": "minds",
+      "machines": [
+        "cybernetic-alife",
+        "generative-latent"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "alterity-uncanny"
+      ],
+      "kind": "artwork",
+      "description": "BOB is a serpent-like AI creature whose body, personality and beliefs develop over its life; visitors can make offerings through an app that BOB may learn to trust or fear.",
+      "description_zh": "BOB 是一条蛇形 AI 生物，身体、性格与信念在一生中不断发展；观众可通过应用向它献上供品，BOB 可能学会信任或恐惧这些供品。",
+      "idea_en": "An artificial creature with beliefs shows a machine whose inner life is shaped by what happens to it.",
+      "idea_zh": "一个拥有信念的人工生物，展示了一台内心由经历塑造的机器。",
+      "method": "Real-time simulation in which several sub-agents ('demons') compete to control BOB's actions, with a learned belief model updated by experience.",
+      "method_zh": "实时模拟：多个子智能体（“心魔”）争夺对 BOB 行为的控制，其信念模型随经验更新。",
+      "keywords": [
+        "artificial life",
+        "AI creature",
+        "Serpentine",
+        "Venice Biennale 2019"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=XFmMrcW2ZsM"
+      },
+      "images": [
+        "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/hg5_4872_0.jpg"
+      ],
+      "source_url": "https://www.serpentinegalleries.org/whats-on/ian-cheng-bob/",
+      "exhibited": [
+        "Serpentine Galleries, London 2018",
+        "58th Venice Biennale 2019"
+      ]
+    },
+    {
+      "id": "ted-chiang--lifecycle-of-software-objects",
+      "creator_ids": [
+        "ted-chiang"
+      ],
+      "title": "The Lifecycle of Software Objects",
+      "year": 2010,
+      "field": "intimacy",
+      "sub": "companions",
+      "machines": [
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "agency-cocreation"
+      ],
+      "kind": "publication",
+      "description": "Over ten years, a former zookeeper and a software designer raise 'digients', AI pets that learn like children, as their company fails, their platform becomes obsolete and they must decide what the digients are owed.",
+      "description_zh": "十年间，一位前动物园饲养员与一位软件设计师抚养“数码体”（像孩子一样学习的 AI 宠物）；公司倒闭、平台过时，他们必须决定数码体应得什么。",
+      "idea_en": "Minds that grow through care need years of attention, and they can be orphaned when a platform shuts down.",
+      "idea_zh": "靠照料成长的心智需要多年陪伴，而平台一关闭，它们就可能成为孤儿。",
+      "method": "Novella; winner of the Hugo and Locus Awards (2011).",
+      "method_zh": "中篇小说；获 2011 年雨果奖与轨迹奖。",
+      "keywords": [
+        "digients",
+        "AI pets",
+        "obsolescence",
+        "Hugo Award",
+        "软件体的生命周期"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Lifecycle_of_Software_Objects_-_bookcover.jpg"
+      ],
+      "paper": {
+        "url": "https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects",
+        "title": "The Lifecycle of Software Objects",
+        "venue": "Subterranean Press, 2010"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects"
+    },
+    {
+      "id": "wendy-hui-kyong-chun--discriminating-data",
+      "creator_ids": [
+        "wendy-hui-kyong-chun"
+      ],
+      "title": "Discriminating Data",
+      "year": 2021,
+      "field": "theory",
+      "sub": "critical-ai",
+      "machines": [
+        "dataset",
+        "recommender-platform"
+      ],
+      "lenses": [
+        "classification"
+      ],
+      "kind": "publication",
+      "description": "A book showing how machine learning and network science inherit eugenics and segregation: correlation and 'homophily' sort people into neighbourhoods of the similar.",
+      "description_zh": "一本书，揭示机器学习与网络科学如何继承优生学与隔离逻辑：相关性与“同质相吸”把人分进由相似者组成的“邻里”。",
+      "idea_en": "Predictive systems do not only reflect bias; their assumption that similar people cluster produces segregation.",
+      "idea_zh": "预测系统不只是反映偏见；它们“相似者会聚集”的假设本身就在制造隔离。",
+      "method": "Critical history of statistics, eugenics and network analysis, with close readings of recommendation and ML methods.",
+      "method_zh": "对统计学、优生学与网络分析的批判史，并细读推荐系统与机器学习方法。",
+      "keywords": [
+        "homophily",
+        "correlation",
+        "segregation",
+        "machine learning"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.7551/mitpress/14050.001.0001",
+        "doi": "10.7551/mitpress/14050.001.0001",
+        "title": "Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition",
+        "venue": "MIT Press, 2021"
+      },
+      "source_url": "https://doi.org/10.7551/mitpress/14050.001.0001"
+    },
+    {
+      "id": "lydia-h-liu--freudian-robot",
+      "creator_ids": [
+        "lydia-h-liu"
+      ],
+      "title": "The Freudian Robot: Digital Media and the Future of the Unconscious",
+      "year": 2010,
+      "field": "theory",
+      "sub": "cybernetics",
+      "machines": [
+        "cybernetic-alife",
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "alterity-uncanny"
+      ],
+      "kind": "publication",
+      "description": "A book that reads Shannon's information theory, cybernetics, Lacan and Freud together and argues that digital media rest on a theory of the unconscious.",
+      "description_zh": "一本书，把香农信息论、控制论、拉康与弗洛伊德放在一起阅读，指出数字媒介建立在一种关于无意识的理论之上。",
+      "idea_en": "The machine age did not bypass the unconscious; it rebuilt it as a model of the human-machine relation.",
+      "idea_zh": "机器时代没有绕开无意识，而是把它重建为人机关系的模型。",
+      "method": "Media archaeology and close reading of Shannon's printed-English statistics, cybernetic texts and psychoanalysis.",
+      "method_zh": "媒介考古，细读香农的书面英语统计、控制论文本与精神分析。",
+      "keywords": [
+        "cybernetics",
+        "information theory",
+        "psychoanalysis",
+        "弗洛伊德机器人"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.7208/chicago/9780226486840.001.0001",
+        "doi": "10.7208/chicago/9780226486840.001.0001",
+        "title": "The Freudian Robot: Digital Media and the Future of the Unconscious",
+        "venue": "University of Chicago Press, 2010"
+      },
+      "source_url": "https://doi.org/10.7208/chicago/9780226486840.001.0001"
+    },
+    {
+      "id": "yuk-hui--digital-objects",
+      "creator_ids": [
+        "yuk-hui"
+      ],
+      "title": "On the Existence of Digital Objects",
+      "year": 2016,
+      "field": "theory",
+      "sub": "phenomenology",
+      "machines": [
+        "infrastructure",
+        "recommender-platform"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "machine-umwelt"
+      ],
+      "kind": "publication",
+      "description": "A philosophy of the 'digital object' (YouTube videos, Facebook profiles, metadata) that asks what kind of being these data structures have and how they form new milieus.",
+      "description_zh": "一部关于“数码物”（YouTube 视频、Facebook 主页、元数据）的哲学，追问这些数据结构具有怎样的存在，又如何形成新的环境。",
+      "idea_en": "Data objects are a new kind of thing, with their own relations and existence beyond natural and technical objects.",
+      "idea_zh": "数据对象是一种新的物，具有自然物与技术物之外的关系与存在。",
+      "method": "Philosophical study drawing on Heidegger, Husserl, Simondon and the history of markup languages and ontologies.",
+      "method_zh": "借助海德格尔、胡塞尔、西蒙东以及标记语言与本体论的历史进行哲学研究。",
+      "keywords": [
+        "digital objects",
+        "Simondon",
+        "metadata",
+        "论数码物的存在"
+      ],
+      "images": [
+        "https://minnesota-us.imgix.net/covers/9780816698912.jpg?w=400"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.5749/minnesota/9780816698905.001.0001",
+        "doi": "10.5749/minnesota/9780816698905.001.0001",
+        "title": "On the Existence of Digital Objects",
+        "venue": "University of Minnesota Press, 2016"
+      },
+      "source_url": "https://www.upress.umn.edu/9780816698912/on-the-existence-of-digital-objects/"
+    },
+    {
+      "id": "yuk-hui--question-concerning-technology-in-china",
+      "creator_ids": [
+        "yuk-hui"
+      ],
+      "title": "The Question Concerning Technology in China: An Essay in Cosmotechnics",
+      "year": 2016,
+      "field": "theory",
+      "sub": "phenomenology",
+      "machines": [
+        "infrastructure"
+      ],
+      "lenses": [
+        "machine-umwelt",
+        "agency-cocreation"
+      ],
+      "kind": "publication",
+      "description": "A book that reopens Heidegger's question of technology from Chinese philosophy (the relation of qi and dao, tool and way) and proposes 'cosmotechnics': every technology is tied to a particular cosmology.",
+      "description_zh": "一本从中国哲学（器与道的关系）重新打开海德格尔技术之问的书，提出“宇宙技术”：每一种技术都与特定的宇宙观相连。",
+      "idea_en": "There is no single universal technology; AI and machines could be imagined from other cosmologies.",
+      "idea_zh": "并不存在唯一普遍的技术；AI 与机器可以从其他宇宙观出发来想象。",
+      "method": "Comparative philosophy reading Heidegger, Stiegler and Simondon with Confucian, Daoist and New Confucian thought.",
+      "method_zh": "以儒家、道家与新儒家思想对读海德格尔、斯蒂格勒与西蒙东的比较哲学。",
+      "keywords": [
+        "cosmotechnics",
+        "technodiversity",
+        "qi and dao",
+        "论中国的技术问题"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=66ivnhe8YF4"
+      },
+      "paper": {
+        "url": "https://www.urbanomic.com/book/question-concerning-technology-china/",
+        "title": "The Question Concerning Technology in China: An Essay in Cosmotechnics",
+        "venue": "Urbanomic, 2016"
+      },
+      "source_url": "https://www.urbanomic.com/book/question-concerning-technology-china/"
+    },
+    {
+      "id": "yuk-hui--recursivity-and-contingency",
+      "creator_ids": [
+        "yuk-hui"
+      ],
+      "title": "Recursivity and Contingency",
+      "year": 2019,
+      "field": "theory",
+      "sub": "phenomenology",
+      "machines": [
+        "cybernetic-alife",
+        "generative-latent"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "machine-umwelt"
+      ],
+      "kind": "publication",
+      "description": "A book tracing 'recursivity', the logic of loops that turn contingency into organisation, from Kant and German Idealism through cybernetics to today's machine learning.",
+      "description_zh": "一本书，追溯“递归”（把偶然转化为组织的回路逻辑）从康德、德国观念论经控制论直到今天的机器学习。",
+      "idea_en": "Machines that learn are recursive, organism-like systems that absorb contingency, which changes what a machine is.",
+      "idea_zh": "会学习的机器是吸纳偶然性的递归、类有机体系统，这改变了“机器是什么”。",
+      "method": "History and philosophy of the organic and the mechanical, from Kant's Critique of Judgment to Wiener and contemporary AI.",
+      "method_zh": "从康德《判断力批判》到维纳与当代 AI 的有机与机械之哲学史。",
+      "keywords": [
+        "recursivity",
+        "cybernetics",
+        "organism",
+        "递归与偶然"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.5771/9781786600547",
+        "doi": "10.5771/9781786600547",
+        "title": "Recursivity and Contingency",
+        "venue": "Rowman & Littlefield International, 2019"
+      },
+      "source_url": "https://doi.org/10.5771/9781786600547"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Sun Yuan & Peng Yu, Dogs That Cannot Touch Each Other (2003)",
+      "why": "Dogs on facing treadmills; the treadmill as a machine harnessing bodies. Mainly about animals, so left out.",
+      "link": "https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73",
+      "found_via": "sun-yuan-peng-yu",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sun Yuan & Peng Yu, Freedom (2009)",
+      "why": "An uncontrolled fire hose thrashing in a steel enclosure; no stable image or official video found.",
+      "link": "https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73",
+      "found_via": "sun-yuan-peng-yu",
+      "status": "no_media"
+    },
+    {
+      "name": "Xu Bing, Artificial Intelligence Infinite Film (AI-IF) (2017–)",
+      "why": "An AI system that makes feature films with no human crew; close to generative showpiece, needs curatorial decision.",
+      "link": "https://www.xubing.com/en/work/details/690?classID=12&type=class",
+      "found_via": "xu-bing",
+      "status": "open"
+    },
+    {
+      "name": "Cao Fei, i.Mirror (2007) and RMB City (2008–11)",
+      "why": "Second Life avatar works on virtual selves; machine angle weaker than Asia One / Whose Utopia.",
+      "link": "https://www.youtube.com/watch?v=5vcR7OkzHkI",
+      "found_via": "cao-fei",
+      "status": "open"
+    },
+    {
+      "name": "Li Liao, Consumption (2012)",
+      "why": "Worked 45 days at Foxconn to buy the iPad he assembled; no stable image found (Artsy blocks scripts).",
+      "link": "https://www.artsy.net/artwork/li-liao-consumption",
+      "found_via": "seed",
+      "status": "no_media"
+    },
+    {
+      "name": "Fei Jun, Interesting World (2019)",
+      "why": "Checked: a collaborative 3D world-building app at Venice 2019, not a work about AI labelling; off topic.",
+      "link": "https://www.sohu.com/a/323925712_283183",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Hu Jieming, 100 Years in 1 Minute (2010) / Tai Chi",
+      "why": "Machine-time angle weak; no specific machine work verified.",
+      "link": "https://www.shanghartgallery.com/galleryarchive/artists/name/hujieming",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Miao Ying, Blind Spot (2007) / Hardcore Digital Detox (2018)",
+      "why": "Chinese-internet censorship and platform culture; machine relevance to check.",
+      "link": "https://www.youtube.com/watch?v=S5ENljZfIK4",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Feng Zhixuan, Starwishenge (2023)",
+      "why": "Industrial-waste robot arms (UCCA); not verified this round.",
+      "link": "",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Liu Cixin, The Poetry Cloud (诗云, 1997)",
+      "why": "Chinese SF story about a machine that writes every possible poem: machine creativity and exhaustion.",
+      "link": "",
+      "found_via": "chen-qiufan",
+      "status": "open"
+    },
+    {
+      "name": "Han Yajuan, Cyber JiangHu (2020–)",
+      "why": "Shown in Taikang 'Creative Machine' 2024; check machine relevance.",
+      "link": "https://tam.taikang.com/archive_exhibitions/creative-machine/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Renwu article original (WeChat)",
+      "why": "Original Chinese article at mp.weixin.qq.com is captcha-protected for scripts; source_url uses the Chuang translation page.",
+      "link": "https://mp.weixin.qq.com/s/Mes1RqIOdp48CMw4pXTwXw",
+      "found_via": "renwu",
+      "status": "open"
+    }
+  ]
+}

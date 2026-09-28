@@ -1,0 +1,3922 @@
+{
+ "batch": "res-people-3",
+ "orgs": [
+  {
+   "id": "person--legacy-russell",
+   "name": "Legacy Russell",
+   "type": "curator",
+   "themes": [
+    "failure-glitch"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American curator and writer whose Glitch Feminism treats the glitch, the machine error, as a site of refusal for queer and Black bodies online; executive director of The Kitchen.",
+   "description_zh": "美国策展人与作家，《故障女性主义》把机器故障视为网络中酷儿与黑人身体的拒绝场域；现任 The Kitchen 执行总监。",
+   "known_for": [
+    "Glitch Feminism: A Manifesto (2020)",
+    "Black Meme (2024)"
+   ],
+   "url": "https://www.legacyrussell.com",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Legacy_Russell"
+    }
+   ],
+   "image": "https://media.cargocollective.com/1/15/487979/headerimg/558232_675457670445_1531575366_n_o.png",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1986
+  },
+  {
+   "id": "person--nora-n-khan",
+   "name": "Nora N. Khan",
+   "type": "curator",
+   "themes": [
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American writer and curator whose Seeing, Naming, Knowing examines how machine vision names and judges, and whose criticism shaped how the art world writes about AI.",
+   "description_zh": "美国作家与策展人，《看见、命名、认知》审视机器视觉如何命名与判断，她的评论塑造了艺术界书写 AI 的方式。",
+   "known_for": [
+    "Seeing, Naming, Knowing (2019)",
+    "Refiguring the Future (2019, co-curator with Lola Kramer)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Nora_Khan",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1983
+  },
+  {
+   "id": "person--jasia-reichardt",
+   "name": "Jasia Reichardt",
+   "type": "curator",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Polish-British curator and writer whose Cybernetic Serendipity at the ICA (1968) was the first major exhibition of computer and cybernetic art, with robots, drawing machines and Pask's Colloquy of Mobiles.",
+   "description_zh": "波兰裔英国策展人与作家，她在 ICA 策划的“控制论的意外发现”（1968）是第一场大型计算机与控制论艺术展，展出机器人、绘画机器与 Pask 的 Colloquy of Mobiles。",
+   "known_for": [
+    "Cybernetic Serendipity (ICA London, 1968)",
+    "Robots: Fact, Fiction and Prediction (1978)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Jasia_Reichardt",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Jasia_Reichardt%2C_London%2C_February_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1933,
+   "creator_id": "jasia-reichardt"
+  },
+  {
+   "id": "person--pontus-hulten",
+   "name": "Pontus Hultén",
+   "type": "curator",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Swedish curator and founding director of the Centre Pompidou's museum whose MoMA exhibition The Machine as Seen at the End of the Mechanical Age surveyed art's relation to machines at the dawn of computing.",
+   "description_zh": "瑞典策展人、蓬皮杜中心美术馆首任馆长，他在 MoMA 策划的“机械时代末期所见的机器”梳理了计算时代开端时艺术与机器的关系。",
+   "known_for": [
+    "The Machine as Seen at the End of the Mechanical Age (MoMA, 1968)",
+    "Bewogen Beweging (Stedelijk, 1961)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Pontus_Hult%C3%A9n",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Pontus_Hult%C3%A9n.jpg/960px-Pontus_Hult%C3%A9n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Stockholm, SE / Paris, FR",
+   "based_zh": "斯德哥尔摩，瑞典 / 巴黎，法国",
+   "born": 1924,
+   "died": 2006
+  },
+  {
+   "id": "person--peter-weibel",
+   "name": "Peter Weibel",
+   "name_zh": "彼得·魏贝尔",
+   "type": "curator",
+   "themes": [
+    "history",
+    "art-science",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Austrian artist, theorist and long-time director of ZKM Karlsruhe, whose exhibitions such as Open Codes placed algorithms, AI and machine agency at the centre of art.",
+   "description_zh": "奥地利艺术家、理论家，长期担任卡尔斯鲁厄 ZKM 艺术与媒体中心馆长，其“开放代码”等展览把算法、AI 与机器能动性置于艺术中心。",
+   "known_for": [
+    "Open Codes (ZKM, 2017–19)",
+    "Artistic director of ZKM Karlsruhe (1999–2023)",
+    "Net_Condition (ZKM, 1999)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Peter_Weibel",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weibel.jpg?width=800",
+   "based": "Karlsruhe, DE",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "born": 1944,
+   "died": 2023
+  },
+  {
+   "id": "person--christiane-paul",
+   "name": "Christiane Paul",
+   "type": "curator",
+   "themes": [
+    "history",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "German-American curator of digital art at the Whitney Museum and author of the standard survey Digital Art; she curated the 2024 Whitney show of Harold Cohen's AARON.",
+   "description_zh": "德裔美国策展人，惠特尼美术馆数字艺术策展人，著有经典综述《数字艺术》，并策划了 2024 年惠特尼的 Harold Cohen: AARON 展。",
+   "known_for": [
+    "Digital Art (1st ed. 2003)",
+    "Programmed: Rules, Codes, and Choreographies in Art (Whitney, 2018)",
+    "Harold Cohen: AARON (Whitney, 2024)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Christiane_Paul_(curator)",
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "person--claudia-schmuckli",
+   "name": "Claudia Schmuckli",
+   "type": "curator",
+   "themes": [
+    "critical-ai",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Curator of contemporary art at the Fine Arts Museums of San Francisco whose Uncanny Valley: Being Human in the Age of AI brought critical AI art to a major US museum.",
+   "description_zh": "旧金山美术博物馆当代艺术策展人，其“恐怖谷：AI 时代的为人之道”把批判性 AI 艺术带进了美国大型美术馆。",
+   "known_for": [
+    "Uncanny Valley: Being Human in the Age of AI (de Young, 2020)"
+   ],
+   "url": "https://www.famsf.org/exhibitions/uncanny-valley",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国"
+  },
+  {
+   "id": "person--suzanne-livingston",
+   "name": "Suzanne Livingston",
+   "type": "curator",
+   "themes": [
+    "history",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "British curator and writer who co-curated AI: More than Human at the Barbican (2019), a large survey that toured internationally and mixed art, science and the history of AI.",
+   "description_zh": "英国策展人与作家，与内田真帆罗共同策划巴比肯中心“AI：超越人类”（2019），这场融合艺术、科学与 AI 历史的大型展览在全球巡展。",
+   "known_for": [
+    "AI: More than Human (Barbican, 2019, with Maholo Uchida)"
+   ],
+   "url": "https://www.drsuzannelivingston.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5d87e749e07a443ba8618d18/1582148669937-0ZCE5EPA843UXS54OJIX/drsuzannelivingston_23.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "person--maholo-uchida",
+   "name": "Maholo Uchida",
+   "name_zh": "内田真帆罗",
+   "type": "curator",
+   "themes": [
+    "east-asia",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Japanese curator at Miraikan (National Museum of Emerging Science and Innovation, Tokyo), where she worked on android exhibitions with Hiroshi Ishiguro, and co-curator of AI: More than Human.",
+   "description_zh": "日本国立科学未来馆（东京）策展人，曾与石黑浩合作仿人机器人展项，也是“AI：超越人类”的联合策展人。",
+   "known_for": [
+    "AI: More than Human (Barbican, 2019, with Suzanne Livingston)",
+    "Android exhibits at Miraikan (2014–)"
+   ],
+   "url": "https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human",
+   "image": "https://www.barbican.org.uk/sites/default/files/styles/large/public/images/2019-06/Main_What%20a%20Loving%2C%20and%20Beautiful%20World%20%281%29.jpg.avif?itok=A4N7KA2o",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本"
+  },
+  {
+   "id": "person--sabine-himmelsbach",
+   "name": "Sabine Himmelsbach",
+   "type": "curator",
+   "themes": [
+    "critical-ai",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "German curator and director of HEK (House of Electronic Arts) in Basel, whose exhibitions such as Entangled Realities look at how we live with AI and machines.",
+   "description_zh": "德国策展人，巴塞尔电子艺术之家（HEK）馆长，其“纠缠的现实：与人工智能共处”等展览关注我们如何与 AI 和机器共同生活。",
+   "known_for": [
+    "Entangled Realities: Living with Artificial Intelligence (HEK, 2019)",
+    "Director of HEK Basel (2012–)"
+   ],
+   "url": "https://de.wikipedia.org/wiki/Sabine_Himmelsbach",
+   "based": "Basel, CH",
+   "based_zh": "巴塞尔，瑞士",
+   "born": 1966
+  },
+  {
+   "id": "person--irini-papadimitriou",
+   "name": "Irini Papadimitriou",
+   "type": "curator",
+   "themes": [
+    "critical-ai",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Greek-British curator and creative director of FutureEverything, previously head of digital programmes at the V&A, whose programmes examine AI, data and the ethics of technology.",
+   "description_zh": "希腊裔英国策展人，FutureEverything 创意总监，曾任 V&A 数字项目负责人，她的项目审视 AI、数据与技术伦理。",
+   "known_for": [
+    "FutureEverything (creative director)",
+    "V&A Digital Design Weekend (2010s)"
+   ],
+   "url": "https://futureeverything.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/69babd7b0fade85ec6f88fe9/1773927037079-JN15H5PXSJ8SFXUL0MQO/3.+FutureEverything_Co-commission_AtmosphericMemory_Rafael+Lozano-Hemmer_image+copyright+Mariana+Ya%CC%81n%CC%83ez.jpg",
+   "based": "Manchester, UK",
+   "based_zh": "曼彻斯特，英国"
+  },
+  {
+   "id": "person--zhang-ga",
+   "name": "Zhang Ga",
+   "name_zh": "张尕",
+   "type": "curator",
+   "themes": [
+    "east-asia",
+    "art-science",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Chinese curator and artistic director of Chronus Art Center in Shanghai whose triennials of media art at the National Art Museum of China brought robot, AI and bio art to Chinese audiences.",
+   "description_zh": "中国策展人，上海新时线媒体艺术中心艺术总监，他在中国美术馆策划的媒体艺术三年展把机器人、AI 与生物艺术带给中国观众。",
+   "known_for": [
+    "Synthetic Times (NAMOC, 2008)",
+    "Translife (NAMOC, 2011)",
+    "Thingworld (NAMOC, 2014)",
+    "Artistic director of Chronus Art Center"
+   ],
+   "url": "https://chronusartcenter.org/",
+   "image": "https://chronusartcenter.org/wp-content/uploads/2025/01/IMG_7616.jpg",
+   "based": "Shanghai / Beijing, CN",
+   "based_zh": "上海 / 北京，中国"
+  },
+  {
+   "id": "person--gerfried-stocker",
+   "name": "Gerfried Stocker",
+   "type": "curator",
+   "themes": [
+    "art-science",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Austrian media artist and artistic director of Ars Electronica since 1995, where the festival and Prix have been a main stage for robot and AI art.",
+   "description_zh": "奥地利媒体艺术家，1995 年起担任林茨电子艺术节艺术总监，该艺术节与大奖是机器人与 AI 艺术的主要舞台。",
+   "known_for": [
+    "Artistic director of Ars Electronica (1995–)",
+    "Ars Electronica Futurelab (founded 1996)"
+   ],
+   "url": "https://de.wikipedia.org/wiki/Gerfried_Stocker",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Prix_ars_electronica_2012_06_Christine_Sch%C3%B6pf%2C_Gerfried_Stocker.jpg/960px-Prix_ars_electronica_2012_06_Christine_Sch%C3%B6pf%2C_Gerfried_Stocker.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "born": 1964
+  },
+  {
+   "id": "person--antonio-somaini",
+   "name": "Antonio Somaini",
+   "type": "curator",
+   "themes": [
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "Italian film and media theorist at Sorbonne Nouvelle who curated The World Through AI at the Jeu de Paume (2025), an exhibition on how AI sees, classifies and generates images.",
+   "description_zh": "新索邦大学意大利电影与媒介理论家，策划了网球场美术馆“AI 眼中的世界”（2025），探讨 AI 如何看、分类与生成图像。",
+   "known_for": [
+    "The World Through AI (Le monde selon l'IA) (Jeu de Paume, 2025)",
+    "Algorithmic Images: Artificial Intelligence and Visual Culture (2023)"
+   ],
+   "url": "https://jeudepaume.org/en/evenement/the-world-through-ai/",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1968
+  },
+  {
+   "id": "person--kathy-rae-huffman",
+   "name": "Kathy Rae Huffman",
+   "type": "curator",
+   "themes": [
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American curator and pioneer of video and net art, and of early cyberfeminist networks, whose work since the 1970s has tracked the arrival of new media machines in art.",
+   "description_zh": "美国策展人、录像与网络艺术先驱，也是早期赛博女性主义网络的推动者，自 1970 年代起追踪新媒介机器进入艺术。",
+   "known_for": [
+    "Video art curator, Long Beach Museum of Art (1978–84)",
+    "Face Settings (1997–2000, with Eva Wohlgemuth)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Kathy_Rae_Huffman",
+   "based": "US / UK",
+   "based_zh": "美国 / 英国",
+   "born": 1943
+  },
+  {
+   "id": "person--joasia-krysa",
+   "name": "Joasia Krysa",
+   "type": "curator",
+   "themes": [
+    "agency-cocreation",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Polish-British curator and scholar of 'exhibitionary AI' whose project The Next Biennial Should Be Curated by a Machine tests what happens when AI curates.",
+   "description_zh": "波兰裔英国策展人与学者，研究“展览性 AI”，其项目“下一届双年展应由机器策划”检验 AI 担任策展人会发生什么。",
+   "known_for": [
+    "The Next Biennial Should Be Curated by a Machine (2021, with Leonardo Impett)",
+    "Liverpool Biennial (co-curator, 2016)"
+   ],
+   "url": "https://www.ljmu.ac.uk/Research/Centres%20and%20institutes/Institute-of-Art-and-Technology/Expertise/Exhibition-Research-Lab",
+   "based": "Liverpool, UK",
+   "based_zh": "利物浦，英国"
+  },
+  {
+   "id": "person--ine-gevers",
+   "name": "Ine Gevers",
+   "type": "curator",
+   "themes": [
+    "intimacy-care",
+    "robot-art"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "Dutch curator whose large exhibition Robot Love (2018) asked whether robots can love and whether people can learn love from robots.",
+   "description_zh": "荷兰策展人，其大型展览“机器人之爱”（2018）追问机器人能否去爱、人能否向机器人学习爱。",
+   "known_for": [
+    "Robot Love (Eindhoven, 2018)",
+    "Niet Normaal: Difference on Display (2009)"
+   ],
+   "url": "https://robotlove.nl/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ine_Gevers"
+    },
+    {
+     "label": "Wikipedia (nl)",
+     "url": "https://nl.wikipedia.org/wiki/Ine_Gevers"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ine_Gevers.jpg/960px-Ine_Gevers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "born": 1960
+  },
+  {
+   "id": "person--amelie-klein",
+   "name": "Amelie Klein",
+   "type": "curator",
+   "themes": [
+    "robot-art",
+    "ethics-policy"
+   ],
+   "fields": [
+    "speculative",
+    "theory"
+   ],
+   "description": "Curator at the Vitra Design Museum whose touring exhibition Hello, Robot. Design between Human and Machine surveyed robots from science fiction to smart homes.",
+   "description_zh": "维特拉设计博物馆策展人，其巡回展“你好，机器人：人与机器之间的设计”梳理了从科幻到智能家居的机器人。",
+   "known_for": [
+    "Hello, Robot. Design between Human and Machine (Vitra Design Museum, 2017)"
+   ],
+   "url": "https://www.design-museum.de/en/exhibitions/detailpages/hello-robot.html",
+   "based": "Weil am Rhein, DE",
+   "based_zh": "莱茵河畔魏尔，德国"
+  },
+  {
+   "id": "person--laurence-bertrand-dorleac",
+   "name": "Laurence Bertrand Dorléac",
+   "type": "curator",
+   "themes": [
+    "robot-art",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "French art historian who co-curated Artists & Robots at the Grand Palais (2018), a survey of robot and algorithmic art from Schöffer to today.",
+   "description_zh": "法国艺术史学者，与 Jérôme Neutres 共同策划巴黎大皇宫“艺术家与机器人”（2018），梳理从 Schöffer 至今的机器人与算法艺术。",
+   "known_for": [
+    "Artists & Robots (Grand Palais, 2018, with Jérôme Neutres)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Laurence_Bertrand_Dorl%C3%A9ac",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Laurence_Bertrand_Dorl%C3%A9ac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1957
+  },
+  {
+   "id": "person--franziska-nori",
+   "name": "Franziska Nori",
+   "type": "curator",
+   "themes": [
+    "machine-seeing",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Director of the Frankfurter Kunstverein who co-curated I Am Here to Learn (2018), one of the first exhibitions devoted to how machines interpret the world.",
+   "description_zh": "法兰克福艺术协会总监，共同策划“我在这里学习：机器对世界的诠释”（2018），这是最早专门讨论机器如何诠释世界的展览之一。",
+   "known_for": [
+    "I Am Here to Learn: On Machinic Interpretations of the World (Frankfurter Kunstverein, 2018, with Mattis Kuhn)"
+   ],
+   "url": "https://de.wikipedia.org/wiki/Franziska_Nori",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Franziska_Nori_2.jpg/960px-Franziska_Nori_2.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Frankfurt, DE",
+   "based_zh": "法兰克福，德国",
+   "born": 1968
+  },
+  {
+   "id": "person--eva-jager",
+   "name": "Eva Jäger",
+   "type": "curator",
+   "themes": [
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Curator at Serpentine Arts Technologies and co-founder of the Creative AI Lab with King's College London, which studies how artists work with AI as a medium and an institution.",
+   "description_zh": "蛇形画廊艺术科技部门策展人，与伦敦国王学院共同创立创意 AI 实验室，研究艺术家如何把 AI 作为媒介与制度来工作。",
+   "known_for": [
+    "Creative AI Lab (co-founded with Mercedes Bunz, 2019)",
+    "Future Art Ecosystems (Serpentine, 2020–)"
+   ],
+   "url": "https://creative-ai.org/",
+   "image": "https://creative-ai.org/img/4-CreativeAI-Landscape.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "person--karel-capek",
+   "name": "Karel Čapek",
+   "name_zh": "卡雷尔·恰佩克",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "alterity-uncanny",
+    "labour-extraction"
+   ],
+   "fields": [
+    "theory",
+    "labour"
+   ],
+   "description": "Czech writer whose play R.U.R. introduced the word 'robot' (from robota, forced labour), framing the machine from the start as a worker who may revolt.",
+   "description_zh": "捷克作家，剧作《罗素姆万能机器人》引入“robot”一词（源自意为强迫劳动的 robota），从一开始就把机器设想为可能反抗的劳动者。",
+   "known_for": [
+    "R.U.R. (Rossum's Universal Robots) (1920)",
+    "War with the Newts (1936)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Karel-capek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Prague, CZ",
+   "based_zh": "布拉格，捷克",
+   "born": 1890,
+   "died": 1938,
+   "creator_id": "karel-capek"
+  },
+  {
+   "id": "person--isaac-asimov",
+   "name": "Isaac Asimov",
+   "name_zh": "艾萨克·阿西莫夫",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American writer whose Three Laws of Robotics became the popular template for machine ethics, and whose robot stories explore machines that reason their way into paradox and personhood.",
+   "description_zh": "美国作家，“机器人三定律”成为大众想象中机器伦理的模板，他的机器人故事探讨机器如何推理出悖论并走向人格。",
+   "known_for": [
+    "Runaround (1942, Three Laws of Robotics)",
+    "I, Robot (1950)",
+    "The Bicentennial Man (1976)"
+   ],
+   "url": "http://www.asimovonline.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Isaac.Asimov01.jpg/960px-Isaac.Asimov01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1920,
+   "died": 1992
+  },
+  {
+   "id": "person--alan-turing",
+   "name": "Alan Turing",
+   "name_zh": "艾伦·图灵",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "British mathematician whose 1950 'imitation game' reframed the question 'can machines think?' as a performance judged by humans, the founding scene of AI.",
+   "description_zh": "英国数学家，1950 年提出“模仿游戏”，把“机器能思考吗”变成由人类评判的一场表演，这是人工智能的奠基场景。",
+   "known_for": [
+    "On Computable Numbers (1936)",
+    "Computing Machinery and Intelligence (1950)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alan_turing_header.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Manchester, UK",
+   "based_zh": "曼彻斯特，英国",
+   "born": 1912,
+   "died": 1954,
+   "creator_id": "alan-turing"
+  },
+  {
+   "id": "person--norbert-wiener",
+   "name": "Norbert Wiener",
+   "name_zh": "诺伯特·维纳",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American mathematician who founded cybernetics, the science of control and communication in animals and machines, and warned early about automation and labour.",
+   "description_zh": "美国数学家，创立控制论：关于动物与机器中控制与通信的科学，并很早就警示自动化对劳动的冲击。",
+   "known_for": [
+    "Cybernetics (1948)",
+    "The Human Use of Human Beings (1950)",
+    "God & Golem, Inc. (1964)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Norbert_Wiener",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Norbert_Wiener.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1894,
+   "died": 1964,
+   "creator_id": "norbert-wiener"
+  },
+  {
+   "id": "person--joseph-weizenbaum",
+   "name": "Joseph Weizenbaum",
+   "name_zh": "约瑟夫·维森鲍姆",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "ethics-policy",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "intimacy"
+   ],
+   "description": "German-American computer scientist who built ELIZA, the first chatbot, then became a critic of AI after seeing people confide in it; the 'ELIZA effect' is named after it.",
+   "description_zh": "德裔美国计算机科学家，编写了第一个聊天机器人 ELIZA，看到人们向它倾诉后转而批判 AI；“ELIZA 效应”即由此得名。",
+   "known_for": [
+    "ELIZA (1966)",
+    "Computer Power and Human Reason (1976)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Joseph_Weizenbaum",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Weizenbaum.jpg?width=800",
+   "based": "Cambridge, US / Berlin, DE",
+   "based_zh": "剑桥，美国 / 柏林，德国",
+   "born": 1923,
+   "died": 2008,
+   "creator_id": "joseph-weizenbaum"
+  },
+  {
+   "id": "person--hubert-dreyfus",
+   "name": "Hubert Dreyfus",
+   "name_zh": "休伯特·德雷福斯",
+   "type": "thinker",
+   "themes": [
+    "embodiment",
+    "failure-glitch"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American philosopher who used Heidegger and Merleau-Ponty to argue that symbolic AI fails because intelligence depends on an embodied, situated way of being in the world.",
+   "description_zh": "美国哲学家，借海德格尔与梅洛-庞蒂论证符号 AI 注定失败，因为智能依赖具身、处境化的在世方式。",
+   "known_for": [
+    "Alchemy and Artificial Intelligence (1965)",
+    "What Computers Can't Do (1972)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Hubert_Dreyfus",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Hubert_Dreyfus_%28cropped%29.jpg/960px-Hubert_Dreyfus_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1929,
+   "died": 2017,
+   "creator_id": "hubert-dreyfus"
+  },
+  {
+   "id": "person--don-ihde",
+   "name": "Don Ihde",
+   "name_zh": "唐·伊德",
+   "type": "thinker",
+   "themes": [
+    "embodiment"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American philosopher of postphenomenology whose four human–technology relations (embodiment, hermeneutic, alterity, background) are a basic map for how we live with machines.",
+   "description_zh": "美国后现象学哲学家，提出人与技术的四种关系（具身、诠释、他异、背景），是理解人与机器共处的基本地图。",
+   "known_for": [
+    "Technology and the Lifeworld (1990)",
+    "Bodies in Technology (2002)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Don_Ihde",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Ihde.jpg?width=800",
+   "based": "Stony Brook, US",
+   "based_zh": "石溪，美国",
+   "born": 1934,
+   "died": 2024,
+   "creator_id": "don-ihde"
+  },
+  {
+   "id": "person--peter-paul-verbeek",
+   "name": "Peter-Paul Verbeek",
+   "type": "thinker",
+   "themes": [
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Dutch philosopher of technology who extends postphenomenology to show how artefacts mediate perception and moral action; his 'composite intentionality' opens space for machine perception.",
+   "description_zh": "荷兰技术哲学家，发展后现象学，揭示人工物如何中介知觉与道德行动；他的“复合意向性”为机器知觉留出空间。",
+   "known_for": [
+    "What Things Do (2005)",
+    "Moralizing Technology (2011)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Peter-Paul_Verbeek",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PeterPaulVerbeek2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "born": 1970,
+   "creator_id": "peter-paul-verbeek"
+  },
+  {
+   "id": "person--mark-coeckelbergh",
+   "name": "Mark Coeckelbergh",
+   "type": "thinker",
+   "themes": [
+    "ethics-policy",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Belgian philosopher of technology who argues that the moral status of robots emerges from relations and appearances rather than from inner properties.",
+   "description_zh": "比利时技术哲学家，主张机器人的道德地位来自关系与显现，而非其内在属性。",
+   "known_for": [
+    "Growing Moral Relations (2012)",
+    "AI Ethics (2020)",
+    "The Political Philosophy of AI (2022)"
+   ],
+   "url": "https://coeckelbergh.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mark_Coeckelbergh"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mark_Coeckelbergh_2024.jpg/960px-Mark_Coeckelbergh_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "born": 1975,
+   "creator_id": "mark-coeckelbergh"
+  },
+  {
+   "id": "person--david-gunkel",
+   "name": "David J. Gunkel",
+   "type": "thinker",
+   "themes": [
+    "ethics-policy",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American media philosopher whose The Machine Question and Robot Rights take seriously whether machines can be moral patients, drawing on Levinas and Derrida.",
+   "description_zh": "美国媒介哲学家，《机器问题》与《机器人权利》借列维纳斯与德里达，认真追问机器能否成为道德受体。",
+   "known_for": [
+    "The Machine Question (2012)",
+    "Robot Rights (2018)"
+   ],
+   "url": "https://gunkelweb.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/David_J._Gunkel"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/David_Gunkel.jpg/960px-David_Gunkel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "DeKalb, US",
+   "based_zh": "迪卡尔布，美国",
+   "born": 1962,
+   "creator_id": "david-j-gunkel"
+  },
+  {
+   "id": "person--gilbert-simondon",
+   "name": "Gilbert Simondon",
+   "name_zh": "吉尔伯特·西蒙东",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "French philosopher who argued that technical objects have their own mode of existence and evolution, and that alienation comes from failing to understand machines, not from machines themselves.",
+   "description_zh": "法国哲学家，主张技术物有自身的存在方式与演化，异化源于人们不理解机器，而非机器本身。",
+   "known_for": [
+    "On the Mode of Existence of Technical Objects (1958)",
+    "Individuation in Light of Notions of Form and Information (1958)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Gilbert_Simondon",
+   "image": "https://minnesota-us.imgix.net/covers/9781517904876.jpg?w=400",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1924,
+   "died": 1989,
+   "creator_id": "gilbert-simondon"
+  },
+  {
+   "id": "person--vilem-flusser",
+   "name": "Vilém Flusser",
+   "name_zh": "威廉·弗卢塞尔",
+   "type": "thinker",
+   "themes": [
+    "machine-seeing",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "Czech-Brazilian philosopher who described the camera as an 'apparatus' whose program the photographer plays within, a theory that anticipates image-making machines.",
+   "description_zh": "捷克裔巴西哲学家，把相机视为“装置”，摄影者只在其程序内部游戏，这一理论预见了今日的图像生成机器。",
+   "known_for": [
+    "Towards a Philosophy of Photography (1983)",
+    "Into the Universe of Technical Images (1985)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Vil%C3%A9m_Flusser",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Vilem_Flusser_1940.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "São Paulo, BR / Robion, FR",
+   "based_zh": "圣保罗，巴西 / 罗比昂，法国",
+   "born": 1920,
+   "died": 1991,
+   "creator_id": "vilem-flusser"
+  },
+  {
+   "id": "person--yuk-hui",
+   "name": "Yuk Hui",
+   "name_zh": "许煜",
+   "type": "thinker",
+   "themes": [
+    "east-asia",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Hong Kong philosopher whose idea of 'cosmotechnics' argues that there is no single universal technology, opening non-Western ways to think about machines and AI.",
+   "description_zh": "香港哲学家，提出“宇宙技术”，主张不存在单一普遍的技术，为以非西方方式思考机器与 AI 打开空间。",
+   "known_for": [
+    "On the Existence of Digital Objects (2016)",
+    "The Question Concerning Technology in China (2016)",
+    "Recursivity and Contingency (2019)",
+    "Machine and Sovereignty (2024)"
+   ],
+   "url": "https://digitalmilieu.net/yuk/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yuk_Hui"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Yuk_Hui.jpg/960px-Yuk_Hui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Rotterdam, NL / Hong Kong",
+   "based_zh": "鹿特丹，荷兰 / 香港",
+   "born": 1985,
+   "creator_id": "yuk-hui"
+  },
+  {
+   "id": "person--n-katherine-hayles",
+   "name": "N. Katherine Hayles",
+   "name_zh": "凯瑟琳·海勒",
+   "type": "thinker",
+   "themes": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American literary theorist of the posthuman who insists on embodiment against disembodied information, and describes machines as 'nonconscious cognizers'.",
+   "description_zh": "美国后人类文学理论家，反对“去身体化的信息”观念而强调具身，并把机器描述为“非意识认知者”。",
+   "known_for": [
+    "How We Became Posthuman (1999)",
+    "Unthought: The Power of the Cognitive Nonconscious (2017)",
+    "Bacteria to AI (2025)"
+   ],
+   "url": "http://nkhayles.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/N._Katherine_Hayles"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/N-Katherine-Hayles-Diploma_%28cropped%29.jpg/960px-N-Katherine-Hayles-Diploma_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1943,
+   "creator_id": "n-katherine-hayles"
+  },
+  {
+   "id": "person--donna-haraway",
+   "name": "Donna Haraway",
+   "name_zh": "唐娜·哈拉维",
+   "type": "thinker",
+   "themes": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "theory",
+    "bodies"
+   ],
+   "description": "American feminist scholar whose Cyborg Manifesto made the human–machine hybrid a figure for dismantling the boundaries between organism and machine, nature and culture.",
+   "description_zh": "美国女性主义学者，《赛博格宣言》把人机混合体变成拆解有机体与机器、自然与文化边界的形象。",
+   "known_for": [
+    "A Cyborg Manifesto (1985)",
+    "Simians, Cyborgs, and Women (1991)",
+    "Staying with the Trouble (2016)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Donna_Haraway",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Donna_Haraway_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "born": 1944,
+   "creator_id": "donna-haraway"
+  },
+  {
+   "id": "person--lucy-suchman",
+   "name": "Lucy Suchman",
+   "name_zh": "露西·萨奇曼",
+   "type": "thinker",
+   "themes": [
+    "agency-cocreation",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American anthropologist of technology who showed at Xerox PARC that action is situated rather than planned, and later critiqued humanlike robots and autonomous weapons.",
+   "description_zh": "美国技术人类学家，在施乐帕克研究中心揭示人的行动是情境性的而非按计划执行，之后批判类人机器人与自主武器。",
+   "known_for": [
+    "Plans and Situated Actions (1987)",
+    "Human–Machine Reconfigurations (2007)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Lucy_Suchman",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lucy_Suchman.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Lancaster, UK",
+   "based_zh": "兰卡斯特，英国",
+   "creator_id": "lucy-suchman"
+  },
+  {
+   "id": "person--sherry-turkle",
+   "name": "Sherry Turkle",
+   "name_zh": "雪莉·特克尔",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "American psychologist at MIT whose studies of children and elders with Furby, AIBO and PARO describe 'the robotic moment', when we accept machine companionship as enough.",
+   "description_zh": "麻省理工学院的美国心理学家，研究儿童与老人如何对待 Furby、AIBO 和 PARO，提出“机器人时刻”：我们开始把机器陪伴视为足够。",
+   "known_for": [
+    "The Second Self (1984)",
+    "Alone Together (2011)",
+    "Reclaiming Conversation (2015)"
+   ],
+   "url": "https://sherryturkle.mit.edu/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sherry_Turkle"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sherry_Turkle.jpg/960px-Sherry_Turkle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1948,
+   "creator_id": "sherry-turkle"
+  },
+  {
+   "id": "person--kate-darling",
+   "name": "Kate Darling",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "ethics-policy"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "American researcher at MIT Media Lab who studies why people empathise with robots, and proposes animals rather than humans as the model for our relationships with machines.",
+   "description_zh": "麻省理工学院媒体实验室研究者，研究人为何会对机器人产生同理心，主张以动物而非人类作为我们与机器关系的模型。",
+   "known_for": [
+    "Extending Legal Protection to Social Robots (2012)",
+    "The New Breed (2021)"
+   ],
+   "url": "https://www.katedarling.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kate_Darling"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kate_Darling_2017.jpg/960px-Kate_Darling_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1982,
+   "creator_id": "kate-darling"
+  },
+  {
+   "id": "person--kate-crawford",
+   "name": "Kate Crawford",
+   "name_zh": "凯特·克劳福德",
+   "type": "thinker",
+   "themes": [
+    "labour-extraction",
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour",
+    "power",
+    "theory"
+   ],
+   "description": "Australian scholar whose Atlas of AI describes AI as an extractive industry of minerals, labour and data, and whose collaborations with Joler and Paglen became artworks.",
+   "description_zh": "澳大利亚学者，《AI 地图集》把 AI 描述为攫取矿产、劳动与数据的产业，她与 Joler 和 Paglen 的合作本身也成为艺术作品。",
+   "known_for": [
+    "Anatomy of an AI System (2018, with Vladan Joler)",
+    "Excavating AI (2019, with Trevor Paglen)",
+    "Atlas of AI (2021)",
+    "Calculating Empires (2023, with Vladan Joler)"
+   ],
+   "url": "https://katecrawford.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kate_Crawford"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kate_Crawford_in_2025_05.jpg/960px-Kate_Crawford_in_2025_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US / Sydney, AU",
+   "based_zh": "纽约，美国 / 悉尼，澳大利亚",
+   "born": 1974,
+   "creator_id": "kate-crawford"
+  },
+  {
+   "id": "person--matteo-pasquinelli",
+   "name": "Matteo Pasquinelli",
+   "name_zh": "马泰奥·帕斯奎内利",
+   "type": "thinker",
+   "themes": [
+    "labour-extraction",
+    "critical-ai",
+    "history"
+   ],
+   "fields": [
+    "labour",
+    "theory"
+   ],
+   "description": "Italian philosopher whose The Eye of the Master argues that AI grew from the division and automation of labour, and that algorithms encode the pattern of work itself.",
+   "description_zh": "意大利哲学家，《主人之眼》主张 AI 源于劳动分工与自动化，算法编码的正是劳动本身的模式。",
+   "known_for": [
+    "The Nooscope Manifested (2020, with Vladan Joler)",
+    "The Eye of the Master: A Social History of Artificial Intelligence (2023)"
+   ],
+   "url": "http://matteopasquinelli.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Matteo_Pasquinelli"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skopje_Matteo_Pasquinelli_%284696335068%29_%28cropped%29.jpg?width=800",
+   "based": "Venice, IT",
+   "based_zh": "威尼斯，意大利",
+   "born": 1974,
+   "creator_id": "matteo-pasquinelli"
+  },
+  {
+   "id": "person--ruha-benjamin",
+   "name": "Ruha Benjamin",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "American sociologist whose Race After Technology names the 'New Jim Code', the way seemingly neutral systems reproduce racial hierarchies.",
+   "description_zh": "美国社会学家，《技术之后的种族》提出“新吉姆代码”，指出看似中立的系统如何再生产种族等级。",
+   "known_for": [
+    "Race After Technology (2019)",
+    "Viral Justice (2022)",
+    "Imagination: A Manifesto (2024)"
+   ],
+   "url": "https://www.ruhabenjamin.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ruha_Benjamin"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ruha_Benjamin%2C_Databite_124%2C_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Princeton, US",
+   "based_zh": "普林斯顿，美国",
+   "born": 1978,
+   "creator_id": "ruha-benjamin"
+  },
+  {
+   "id": "person--safiya-umoja-noble",
+   "name": "Safiya Umoja Noble",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "American scholar whose Algorithms of Oppression showed how search engines represent Black women through racist and sexist results.",
+   "description_zh": "美国学者，《压迫的算法》揭示搜索引擎如何以种族主义与性别歧视的结果呈现黑人女性。",
+   "known_for": [
+    "Algorithms of Oppression (2018)"
+   ],
+   "url": "https://safiyaunoble.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Safiya_Noble"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Safiyah_Noble_at_Essence_Festival_Global_Black_Economic_Forum_2025_5_%28cropped%29.jpg/960px-Safiyah_Noble_at_Essence_Festival_Global_Black_Economic_Forum_2025_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1970,
+   "creator_id": "safiya-umoja-noble"
+  },
+  {
+   "id": "person--timnit-gebru",
+   "name": "Timnit Gebru",
+   "name_zh": "蒂姆尼特·格布鲁",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy",
+    "critical-ai"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "Ethiopian-born Eritrean-American computer scientist whose work on face-analysis bias and large language models, and her dismissal from Google in 2020, reshaped debates on AI ethics; founder of DAIR.",
+   "description_zh": "埃塞俄比亚出生的厄立特里亚裔美国计算机科学家，她关于人脸分析偏见与大语言模型的研究，以及 2020 年被谷歌解雇事件，重塑了 AI 伦理讨论；DAIR 研究所创始人。",
+   "known_for": [
+    "Gender Shades (2018, with Joy Buolamwini)",
+    "Datasheets for Datasets (2018)",
+    "On the Dangers of Stochastic Parrots (2021)",
+    "DAIR Institute (founded 2021)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Timnit_Gebru",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Timnit_Gebru_crop.jpg/960px-Timnit_Gebru_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "born": 1983,
+   "creator_id": "timnit-gebru"
+  },
+  {
+   "id": "person--emily-m-bender",
+   "name": "Emily M. Bender",
+   "type": "thinker",
+   "themes": [
+    "machine-listening",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "American linguist who coined 'stochastic parrots' for language models that produce form without meaning, a key term for thinking about machine speech.",
+   "description_zh": "美国语言学家，用“随机鹦鹉”形容只产生形式而不理解意义的语言模型，是思考机器言语的关键概念。",
+   "known_for": [
+    "Climbing towards NLU (2020, with Alexander Koller)",
+    "On the Dangers of Stochastic Parrots (2021)",
+    "The AI Con (2025, with Alex Hanna)"
+   ],
+   "url": "https://faculty.washington.edu/ebender/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Emily_M._Bender"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Emily_M_Bender_CHM_Mountain_View_March_2025.jpg/960px-Emily_M_Bender_CHM_Mountain_View_March_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "born": 1973,
+   "creator_id": "emily-m-bender"
+  },
+  {
+   "id": "person--joanna-zylinska",
+   "name": "Joanna Zylinska",
+   "type": "thinker",
+   "themes": [
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "Polish-British media philosopher and artist whose AI Art separates machine-reflexive art from 'AI art' spectacle, and whose The Perception Machine rethinks vision after AI.",
+   "description_zh": "波兰裔英国媒介哲学家与艺术家，《AI 艺术》区分反思机器的艺术与“AI 艺术”奇观，《知觉机器》重新思考 AI 之后的视觉。",
+   "known_for": [
+    "Nonhuman Photography (2017)",
+    "AI Art: Machine Visions and Warped Dreams (2020)",
+    "The Perception Machine (2023)"
+   ],
+   "url": "http://www.joannazylinska.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Joanna_Zylinska"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Re_publica_19_-_Day_1_%2840824171133%29_%28cropped%29.jpg/960px-Re_publica_19_-_Day_1_%2840824171133%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1971,
+   "creator_id": "joanna-zylinska"
+  },
+  {
+   "id": "person--jill-walker-rettberg",
+   "name": "Jill Walker Rettberg",
+   "type": "thinker",
+   "themes": [
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "Norwegian scholar of digital culture who led the ERC Machine Vision project, including a database of art, games and narratives about machine vision.",
+   "description_zh": "挪威数字文化学者，主持 ERC“机器视觉”项目，建立了关于机器视觉的艺术、游戏与叙事数据库。",
+   "known_for": [
+    "Seeing Ourselves Through Technology (2014)",
+    "Machine Vision: How Algorithms Are Changing the Way We See the World (2023)"
+   ],
+   "url": "https://jilltxt.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jill_Walker_Rettberg"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/NMD_Spesial_-_med_Clay_Shirky_-_NMD_Special_2011_%286286387748%29.jpg/960px-NMD_Spesial_-_med_Clay_Shirky_-_NMD_Special_2011_%286286387748%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Bergen, NO",
+   "based_zh": "卑尔根，挪威",
+   "born": 1971,
+   "creator_id": "jill-walker-rettberg"
+  },
+  {
+   "id": "person--luciana-parisi",
+   "name": "Luciana Parisi",
+   "type": "thinker",
+   "themes": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Italian-British philosopher of computation who argues that algorithms think in their own, alien way, through incomputable and indeterminate processes.",
+   "description_zh": "意大利裔英国计算哲学家，主张算法以其自身陌异的方式思考，依靠不可计算与不确定的过程。",
+   "known_for": [
+    "Contagious Architecture (2013)",
+    "The Alien Subject of AI (2019)"
+   ],
+   "url": "https://scholars.duke.edu/person/luciana.parisi",
+   "image": "https://scholars.duke.edu/profile-images/thumbnail500/0989579.jpg?nocache=1790593181768",
+   "based": "Durham, US",
+   "based_zh": "达勒姆，美国",
+   "born": 1971,
+   "creator_id": "luciana-parisi"
+  },
+  {
+   "id": "person--benjamin-bratton",
+   "name": "Benjamin Bratton",
+   "type": "thinker",
+   "themes": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "speculative"
+   ],
+   "description": "American theorist whose The Stack describes planetary computation as an accidental megastructure, and who argues AI should be understood as a new planetary intelligence.",
+   "description_zh": "美国理论家，《堆栈》把全球计算描述为意外形成的巨型结构，并主张把 AI 理解为一种新的行星尺度智能。",
+   "known_for": [
+    "The Stack (2015)",
+    "The Terraforming (2019)",
+    "Antikythera (2022–)"
+   ],
+   "url": "https://bratton.info/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_H._Bratton"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/BENJAMIN_BRATTON_IN_2025_by_Christopher_michel_02.jpg/960px-BENJAMIN_BRATTON_IN_2025_by_Christopher_michel_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "San Diego, US",
+   "based_zh": "圣迭戈，美国",
+   "born": 1968,
+   "creator_id": "benjamin-bratton"
+  },
+  {
+   "id": "person--m-beatrice-fazi",
+   "name": "M. Beatrice Fazi",
+   "type": "thinker",
+   "themes": [
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "Italian philosopher at Sussex whose work on computational aesthetics and explainability asks what it means that deep learning represents the world in ways humans cannot follow.",
+   "description_zh": "萨塞克斯大学的意大利哲学家，研究计算美学与可解释性，追问深度学习以人类无法追随的方式表征世界意味着什么。",
+   "known_for": [
+    "Contingent Computation (2018)",
+    "Beyond Human: Deep Learning, Explainability and Representation (2021)"
+   ],
+   "url": "https://profiles.sussex.ac.uk/p176291-beatrice-fazi",
+   "image": "https://covers.openlibrary.org/b/id/9200964-L.jpg",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国",
+   "creator_id": "m-beatrice-fazi"
+  },
+  {
+   "id": "person--eryk-salvaggio",
+   "name": "Eryk Salvaggio",
+   "type": "thinker",
+   "themes": [
+    "opacity-latent",
+    "critical-ai",
+    "failure-glitch"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "American artist-researcher behind the newsletter Cybernetic Forests, who reads AI images as 'infographics about the dataset' and works with noise and glitch to expose how diffusion models see.",
+   "description_zh": "美国艺术家与研究者，Cybernetic Forests 通讯作者，把 AI 图像读作“关于数据集的信息图”，并用噪声与故障揭示扩散模型如何“看”。",
+   "known_for": [
+    "How to Read an AI Image (2022)",
+    "Cybernetic Forests (newsletter)"
+   ],
+   "url": "https://www.cyberneticforests.com/",
+   "image": "http://static1.squarespace.com/static/5dd366b5ac1101724ff2fac7/t/6a8b54c1fedd4817854f2a82/1787516097689/SWIM-Salvaggio_Still_3.jpg?format=1500w",
+   "based": "Rochester, US",
+   "based_zh": "罗切斯特，美国",
+   "creator_id": "eryk-salvaggio"
+  },
+  {
+   "id": "person--jennifer-rhee",
+   "name": "Jennifer Rhee",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "fields": [
+    "theory",
+    "labour"
+   ],
+   "description": "American scholar whose The Robotic Imaginary shows how robots and AI are imagined through care and domestic labour, and whose humanity is measured against those it dehumanises.",
+   "description_zh": "美国学者，《机器人想象》揭示机器人与 AI 如何通过照护与家务劳动被想象，而其“人性”又以被非人化的人群为参照。",
+   "known_for": [
+    "The Robotic Imaginary: The Human and the Price of Dehumanized Labor (2018)"
+   ],
+   "url": "https://english.vcu.edu/people/faculty/rhee.html",
+   "image": "https://minnesota-us.imgix.net/covers/9781517902988.jpg?w=400",
+   "based": "Richmond, US",
+   "based_zh": "里士满，美国",
+   "creator_id": "jennifer-rhee"
+  },
+  {
+   "id": "person--anna-munster",
+   "name": "Anna Munster",
+   "type": "thinker",
+   "themes": [
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "Australian theorist and artist who, with Adrian MacKenzie, developed 'platform seeing', a way to describe how machine vision operates at the scale of datasets and platforms.",
+   "description_zh": "澳大利亚理论家与艺术家，与 Adrian MacKenzie 提出“平台之看”，描述机器视觉如何在数据集与平台尺度上运作。",
+   "known_for": [
+    "An Aesthesia of Networks (2013)",
+    "Platform Seeing (2019, with Adrian MacKenzie)"
+   ],
+   "url": "https://www.unsw.edu.au/staff/anna-munster",
+   "image": "https://api.research.unsw.edu.au/sites/default/files/images/profile/cropannamunster.jpg",
+   "based": "Sydney, AU",
+   "based_zh": "悉尼，澳大利亚",
+   "creator_id": "anna-munster"
+  },
+  {
+   "id": "person--adrian-mackenzie",
+   "name": "Adrian Mackenzie",
+   "type": "thinker",
+   "themes": [
+    "opacity-latent",
+    "classification"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Australian sociologist of technology whose Machine Learners reads machine-learning code and textbooks as a cultural practice, tracing how learning machines order the world.",
+   "description_zh": "澳大利亚技术社会学家，《机器学习者》把机器学习代码与教材当作文化实践来阅读，追踪学习机器如何整理世界。",
+   "known_for": [
+    "Cutting Code (2006)",
+    "Machine Learners: Archaeology of a Data Practice (2017)"
+   ],
+   "url": "https://researchportalplus.anu.edu.au/en/persons/adrian-mackenzie/",
+   "image": "https://researchportalplus.anu.edu.au/files-asset/146937976/image.png/",
+   "based": "Canberra, AU",
+   "based_zh": "堪培拉，澳大利亚",
+   "born": 1962,
+   "creator_id": "adrian-mackenzie"
+  },
+  {
+   "id": "person--mercedes-bunz",
+   "name": "Mercedes Bunz",
+   "type": "thinker",
+   "themes": [
+    "critical-ai"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "German-British scholar at King's College London who co-founded the Creative AI Lab with the Serpentine and writes about how machines now calculate meaning.",
+   "description_zh": "伦敦国王学院的德裔英国学者，与蛇形画廊共同创立创意 AI 实验室，研究机器如何“计算意义”。",
+   "known_for": [
+    "The Silent Revolution (2014)",
+    "The Calculation of Meaning (2019)",
+    "Creative AI Lab (with Eva Jäger, Serpentine × King's College London)"
+   ],
+   "url": "https://mercedesbunz.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mercedes_Bunz"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Congreso_Futuro_-_2019-01-14_-_28.jpg/960px-Congreso_Futuro_-_2019-01-14_-_28.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1971
+  },
+  {
+   "id": "person--k-allado-mcdowell",
+   "name": "K Allado-McDowell",
+   "type": "thinker",
+   "themes": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "theory",
+    "coperformance"
+   ],
+   "description": "American writer and founder of Google's Artists + Machine Intelligence programme; Pharmako-AI, co-written with GPT-3, is one of the first books written with a language model.",
+   "description_zh": "美国作家，谷歌“艺术家 + 机器智能”项目创始人；与 GPT-3 合写的《Pharmako-AI》是最早与语言模型共同写成的书之一。",
+   "known_for": [
+    "Artists + Machine Intelligence (Google, 2016–)",
+    "Pharmako-AI (2020)",
+    "Air Age Blueprint (2022)"
+   ],
+   "url": "https://kalladomcdowell.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/64e3aae6d8a9e61a4e6489be/1692642029530-TNNJH4ZPH3QQBIEP0X48/318276-002.jpg",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "creator_id": "k-allado-mcdowell"
+  },
+  {
+   "id": "person--friedrich-kittler",
+   "name": "Friedrich Kittler",
+   "name_zh": "弗里德里希·基特勒",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "machine-listening"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "German media theorist who argued that media determine our situation, tracing how gramophone, film and typewriter turned human senses and writing into machine operations.",
+   "description_zh": "德国媒介理论家，主张“媒介决定我们的处境”，追溯留声机、电影与打字机如何把人的感官与书写变成机器操作。",
+   "known_for": [
+    "Discourse Networks 1800/1900 (1985)",
+    "Gramophone, Film, Typewriter (1986)",
+    "There Is No Software (1992)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Friedrich_Kittler",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Friedrich_Kittler_%282009%29.png/960px-Friedrich_Kittler_%282009%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1943,
+   "died": 2011
+  },
+  {
+   "id": "person--paul-virilio",
+   "name": "Paul Virilio",
+   "name_zh": "保罗·维利里奥",
+   "type": "thinker",
+   "themes": [
+    "machine-seeing",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "French theorist whose The Vision Machine imagined 'sightless vision', cameras and computers that see and interpret without any human looking.",
+   "description_zh": "法国理论家，《视觉机器》设想了“无目之视”：无需人类观看、由摄像机与计算机自行看见并解读的视觉。",
+   "known_for": [
+    "War and Cinema (1984)",
+    "The Vision Machine (1988)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Paul_Virilio",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virilio_Groningen.JPG?width=800",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1932,
+   "died": 2018,
+   "creator_id": "paul-virilio"
+  },
+  {
+   "id": "person--felix-guattari",
+   "name": "Félix Guattari",
+   "name_zh": "费利克斯·加塔利",
+   "type": "thinker",
+   "themes": [
+    "agency-cocreation",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "French psychoanalyst and philosopher who gave the word 'machinic' its theoretical sense: processes that assemble humans, technologies and signs beyond the mechanical.",
+   "description_zh": "法国精神分析学家与哲学家，赋予“机器的”（machinic）一词理论意义：超越机械、把人、技术与符号组装在一起的过程。",
+   "known_for": [
+    "Anti-Oedipus (1972, with Gilles Deleuze)",
+    "Machinic Heterogenesis (1992)",
+    "Chaosmosis (1992)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Guattari",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/%E3%83%95%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%AC%E3%82%BF%E3%83%AA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1930,
+   "died": 1992
+  },
+  {
+   "id": "person--bernard-stiegler",
+   "name": "Bernard Stiegler",
+   "name_zh": "贝尔纳·斯蒂格勒",
+   "type": "thinker",
+   "themes": [
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "French philosopher who described technics as the 'exteriorised memory' that constitutes the human, and warned of an 'automatic society' of algorithmic governance.",
+   "description_zh": "法国哲学家，把技术描述为构成人类的“外在化记忆”，并警示算法治理下的“自动社会”。",
+   "known_for": [
+    "Technics and Time, 1: The Fault of Epimetheus (1994)",
+    "Automatic Society (2015)"
+   ],
+   "url": "https://arsindustrialis.org/les-pages-de-bernard-stiegler",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bernard_Stiegler"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2016_HTNM_Bernard_Stiegler_%2830301265471%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1952,
+   "died": 2020
+  },
+  {
+   "id": "person--jakob-von-uexkull",
+   "name": "Jakob von Uexküll",
+   "name_zh": "雅各布·冯·于克斯屈尔",
+   "type": "thinker",
+   "themes": [
+    "machine-umwelt",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "perception"
+   ],
+   "description": "Baltic-German biologist whose concept of the umwelt, the perceptual world each organism lives in, has become a key tool for imagining what the world is like for a machine.",
+   "description_zh": "波罗的海德裔生物学家，提出“环世界”：每个生物所栖居的知觉世界；这一概念已成为想象机器眼中世界的重要工具。",
+   "known_for": [
+    "Umwelt und Innenwelt der Tiere (1909)",
+    "A Foray into the Worlds of Animals and Humans (1934)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Jakob_Johann_von_Uexk%C3%BCll",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Uexk%C3%BClls_schema_original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Hamburg, DE",
+   "based_zh": "汉堡，德国",
+   "born": 1864,
+   "died": 1944
+  },
+  {
+   "id": "person--ian-bogost",
+   "name": "Ian Bogost",
+   "name_zh": "伊恩·博格斯特",
+   "type": "thinker",
+   "themes": [
+    "machine-umwelt"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American philosopher and game designer whose Alien Phenomenology asks what it is like to be a thing, including a computer chip, a method close to machine phenomenology.",
+   "description_zh": "美国哲学家与游戏设计师，《异形现象学》追问作为一个物（包括一块计算机芯片）是什么感觉，这一方法接近机器现象学。",
+   "known_for": [
+    "Unit Operations (2006)",
+    "Alien Phenomenology, or What It's Like to Be a Thing (2012)"
+   ],
+   "url": "https://bogost.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ian_Bogost"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ibogost_joystick_color_2.jpg/960px-Ibogost_joystick_color_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "St. Louis, US",
+   "based_zh": "圣路易斯，美国",
+   "born": 1976,
+   "creator_id": "ian-bogost"
+  },
+  {
+   "id": "person--valentino-braitenberg",
+   "name": "Valentino Braitenberg",
+   "type": "thinker",
+   "themes": [
+    "agency-cocreation",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "bodies"
+   ],
+   "description": "Italian-Austrian neuroscientist whose thought experiment Vehicles shows how tiny wired machines appear to feel fear, love or curiosity, a founding text of synthetic psychology.",
+   "description_zh": "意大利–奥地利神经科学家，思想实验《车辆》展示简单连线的小机器如何看似感到恐惧、爱或好奇，是“合成心理学”的奠基文本。",
+   "known_for": [
+    "Vehicles: Experiments in Synthetic Psychology (1984)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Valentino_Braitenberg",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Valentin_Braitenberg_Portrait.jpg/960px-Valentin_Braitenberg_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Tübingen, DE",
+   "based_zh": "图宾根，德国",
+   "born": 1926,
+   "died": 2011,
+   "creator_id": "valentino-braitenberg"
+  },
+  {
+   "id": "person--marvin-minsky",
+   "name": "Marvin Minsky",
+   "name_zh": "马文·明斯基",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "American AI pioneer and co-founder of the MIT AI Lab whose The Society of Mind and The Emotion Machine model minds as societies of simple agents.",
+   "description_zh": "美国人工智能先驱、MIT 人工智能实验室联合创始人，《心智社会》与《情感机器》把心智描述为由简单智能体组成的社会。",
+   "known_for": [
+    "Perceptrons (1969, with Seymour Papert)",
+    "The Society of Mind (1986)",
+    "The Emotion Machine (2006)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Marvin_Minsky",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Marvin_Minsky_at_OLPCb_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1927,
+   "died": 2016,
+   "creator_id": "marvin-minsky"
+  },
+  {
+   "id": "person--francisco-varela",
+   "name": "Francisco Varela",
+   "name_zh": "弗朗西斯科·瓦雷拉",
+   "type": "thinker",
+   "themes": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Chilean biologist and philosopher who co-developed autopoiesis and enactivism, the view that cognition is embodied action, a basis for embodied AI and robot art.",
+   "description_zh": "智利生物学家与哲学家，共同提出自创生与生成主义：认知即具身行动，这为具身 AI 与机器人艺术提供了基础。",
+   "known_for": [
+    "Autopoiesis and Cognition (1980, with Humberto Maturana)",
+    "The Embodied Mind (1991, with Evan Thompson and Eleanor Rosch)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Francisco_Varela",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Francisco_Varela.jpg/960px-Francisco_Varela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Paris, FR / Santiago, CL",
+   "based_zh": "巴黎，法国 / 圣地亚哥，智利",
+   "born": 1946,
+   "died": 2001
+  },
+  {
+   "id": "person--andy-clark",
+   "name": "Andy Clark",
+   "name_zh": "安迪·克拉克",
+   "type": "thinker",
+   "themes": [
+    "embodiment"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "British philosopher of the extended mind who argues that humans are 'natural-born cyborgs' whose thinking already runs through tools and machines.",
+   "description_zh": "英国哲学家，提出“延展心智”，主张人类是“天生的赛博格”，思维本就经由工具与机器运行。",
+   "known_for": [
+    "The Extended Mind (1998, with David Chalmers)",
+    "Natural-Born Cyborgs (2003)",
+    "The Experience Machine (2023)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Andy_Clark",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Clark.jpg?width=800",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国",
+   "born": 1957,
+   "creator_id": "andy-clark"
+  },
+  {
+   "id": "person--mary-l-gray",
+   "name": "Mary L. Gray",
+   "type": "thinker",
+   "themes": [
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "American anthropologist whose Ghost Work, with Siddharth Suri, documents the hidden on-demand workers who label, moderate and correct the output of 'automated' systems.",
+   "description_zh": "美国人类学家，与 Siddharth Suri 合著《幽灵工作》，记录为“自动化”系统做标注、审核与纠错的隐形按需工人。",
+   "known_for": [
+    "Ghost Work (2019, with Siddharth Suri)"
+   ],
+   "url": "https://marylgray.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mary_L._Gray"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mary_Gray%2C_Microsoft_Research%2C_December_2015_%28cropped%29.jpg/960px-Mary_Gray%2C_Microsoft_Research%2C_December_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1969,
+   "creator_id": "mary-l-gray"
+  },
+  {
+   "id": "person--lilly-irani",
+   "name": "Lilly Irani",
+   "type": "thinker",
+   "themes": [
+    "labour-extraction"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "American scholar and co-creator of Turkopticon, a tool that let Amazon Mechanical Turk workers rate employers, making the labour behind AI visible and organised.",
+   "description_zh": "美国学者，Turkopticon 共同创建者：让亚马逊 Mechanical Turk 工人为雇主评分，使 AI 背后的劳动变得可见并组织起来。",
+   "known_for": [
+    "Turkopticon (2008, with Six Silberman)",
+    "Chasing Innovation (2019)"
+   ],
+   "url": "https://quote.ucsd.edu/lirani/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lilly_Irani"
+    }
+   ],
+   "image": "https://quote.ucsd.edu/lirani/files/2013/08/photo-e1429738176362-768x1024.jpg",
+   "based": "San Diego, US",
+   "based_zh": "圣迭戈，美国",
+   "creator_id": "lilly-irani"
+  },
+  {
+   "id": "person--shoshana-zuboff",
+   "name": "Shoshana Zuboff",
+   "name_zh": "肖莎娜·祖博夫",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "American scholar who described 'surveillance capitalism', the extraction of human experience as behavioural data for prediction products.",
+   "description_zh": "美国学者，提出“监控资本主义”：把人类经验作为行为数据攫取，用于制造预测产品。",
+   "known_for": [
+    "In the Age of the Smart Machine (1988)",
+    "The Age of Surveillance Capitalism (2019)"
+   ],
+   "url": "https://shoshanazuboff.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shoshana_Zuboff"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg/960px-Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Maine, US",
+   "based_zh": "缅因，美国",
+   "born": 1951
+  },
+  {
+   "id": "person--wendy-hui-kyong-chun",
+   "name": "Wendy Hui Kyong Chun",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "opacity-latent"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "American-Canadian media theorist whose Discriminating Data shows how machine learning's logic of homophily ('like likes like') builds segregation into networks.",
+   "description_zh": "美国–加拿大媒介理论家，《歧视性数据》揭示机器学习的“同质相吸”逻辑如何把隔离写进网络。",
+   "known_for": [
+    "Programmed Visions (2011)",
+    "Updating to Remain the Same (2016)",
+    "Discriminating Data (2021)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Wendy_Hui_Kyong_Chun",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Wendy_Hui_Kyong_Chun_-_Brown_University_-_2017_%2826215767117%29_%28cropped_2%29.jpg/960px-Wendy_Hui_Kyong_Chun_-_Brown_University_-_2017_%2826215767117%29_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "born": 1969,
+   "creator_id": "wendy-hui-kyong-chun"
+  },
+  {
+   "id": "person--simone-browne",
+   "name": "Simone Browne",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "machine-seeing"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "American scholar whose Dark Matters traces surveillance technologies, including biometrics, back to the policing of Black life under slavery.",
+   "description_zh": "美国学者，《暗物质》把包括生物识别在内的监控技术追溯到奴隶制下对黑人生活的管控。",
+   "known_for": [
+    "Dark Matters: On the Surveillance of Blackness (2015)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Simone_Browne",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/MoMA_Art_Feminism_2019_76.jpg/960px-MoMA_Art_Feminism_2019_76.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Austin, US",
+   "based_zh": "奥斯汀，美国",
+   "born": 1973
+  },
+  {
+   "id": "person--virginia-eubanks",
+   "name": "Virginia Eubanks",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "American political scientist whose Automating Inequality shows how algorithmic systems profile, police and punish the poor.",
+   "description_zh": "美国政治学者，《自动化不平等》揭示算法系统如何对穷人进行画像、监管与惩罚。",
+   "known_for": [
+    "Automating Inequality (2018)"
+   ],
+   "url": "https://virginia-eubanks.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Virginia_Eubanks"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Gesprek_tweede_kamer_met_Virginia_Eubanks_%2833140421058%29.jpg/960px-Gesprek_tweede_kamer_met_Virginia_Eubanks_%2833140421058%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Troy, US",
+   "based_zh": "特洛伊，美国",
+   "born": 1972
+  },
+  {
+   "id": "person--louise-amoore",
+   "name": "Louise Amoore",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "opacity-latent"
+   ],
+   "fields": [
+    "power",
+    "theory"
+   ],
+   "description": "British political geographer whose Cloud Ethics argues that algorithms make ethical and political decisions through their attributes and thresholds, and must be held accountable as such.",
+   "description_zh": "英国政治地理学者，《云伦理》主张算法通过其属性与阈值做出伦理与政治决定，因此必须为此负责。",
+   "known_for": [
+    "The Politics of Possibility (2013)",
+    "Cloud Ethics: Algorithms and the Attributes of Ourselves and Others (2020)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Louise_Amoore",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Prof_Louise_Amoore_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Durham, UK",
+   "based_zh": "达勒姆，英国",
+   "born": 1972
+  },
+  {
+   "id": "person--orit-halpern",
+   "name": "Orit Halpern",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Historian of cybernetics and design whose Beautiful Data traces how postwar cybernetics reshaped vision and reason into data, and whose The Smartness Mandate critiques 'smart' everything.",
+   "description_zh": "控制论与设计史学者，《美丽的数据》追溯战后控制论如何把视觉与理性重塑为数据，《智慧命令》批判无处不在的“智能”。",
+   "known_for": [
+    "Beautiful Data (2014)",
+    "The Smartness Mandate (2022, with Robert Mitchell)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Orit_Halpern",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Re_publica_18_-_Day_1_%2826984262157%29_%28cropped%29.jpg/960px-Re_publica_18_-_Day_1_%2826984262157%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Dresden, DE",
+   "based_zh": "德累斯顿，德国",
+   "born": 1972
+  },
+  {
+   "id": "person--phil-agre",
+   "name": "Phil Agre",
+   "type": "thinker",
+   "themes": [
+    "agency-cocreation",
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American AI researcher who proposed 'critical technical practice', building AI while reflecting on its assumptions, an approach later adopted by artists and designers.",
+   "description_zh": "美国 AI 研究者，提出“批判技术实践”：在构建 AI 的同时反思其假设，这一方法后来被艺术家与设计师采用。",
+   "known_for": [
+    "Pengi (1987, with David Chapman)",
+    "Computation and Human Experience (1997)",
+    "Surveillance and Capture (1994)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Philip_Agre",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国"
+  },
+  {
+   "id": "person--phoebe-sengers",
+   "name": "Phoebe Sengers",
+   "type": "thinker",
+   "themes": [
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American HCI researcher who built 'schizophrenic' agents to expose how AI design splits behaviour, and founded reflective design as critical technical practice.",
+   "description_zh": "美国人机交互研究者，构建“精神分裂”的智能体以揭示 AI 设计如何割裂行为，并提出作为批判技术实践的“反思性设计”。",
+   "known_for": [
+    "Anti-Boxology: Agent Design in Cultural Context (1998)",
+    "Reflective Design (2005)"
+   ],
+   "url": "http://www.cs.cornell.edu/people/sengers/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Phoebe_Sengers"
+    }
+   ],
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国"
+  },
+  {
+   "id": "person--genevieve-bell",
+   "name": "Genevieve Bell",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "ethics-policy"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Australian anthropologist, long at Intel, who founded the School of Cybernetics at ANU to build a new applied cybernetics for AI-era systems.",
+   "description_zh": "澳大利亚人类学家，长期任职英特尔，创立澳大利亚国立大学控制论学院，为 AI 时代的系统发展新的应用控制论。",
+   "known_for": [
+    "Divining a Digital Future (2011, with Paul Dourish)",
+    "3A Institute / ANU School of Cybernetics (founded 2017)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Genevieve_Bell",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Genevieve_Bell_by_Tegan_Osborne_%28ABC_RN%29.jpg/960px-Genevieve_Bell_by_Tegan_Osborne_%28ABC_RN%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Canberra, AU",
+   "based_zh": "堪培拉，澳大利亚",
+   "born": 1968
+  },
+  {
+   "id": "person--kate-devlin",
+   "name": "Kate Devlin",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "British scholar at King's College London whose Turned On examines sex robots and intimacy with machines beyond moral panic.",
+   "description_zh": "伦敦国王学院英国学者，《开机》超越道德恐慌，审视性爱机器人与人机亲密关系。",
+   "known_for": [
+    "Turned On: Science, Sex and Robots (2018)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Kate_Devlin",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Congreso_Futuro_2020_-_Kate_Devlin_02.jpg/960px-Congreso_Futuro_2020_-_Kate_Devlin_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "person--kathleen-richardson",
+   "name": "Kathleen Richardson",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "ethics-policy"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "British anthropologist of robotics who studied roboticists at MIT and launched the Campaign Against Sex Robots, arguing that robots mirror human attachment and its failures.",
+   "description_zh": "英国机器人人类学家，曾在 MIT 研究机器人学家，并发起“反对性爱机器人运动”，主张机器人映照着人类依恋及其失败。",
+   "known_for": [
+    "An Anthropology of Robots and AI (2015)",
+    "Campaign Against Sex Robots (2015)",
+    "Challenging Sociality (2018)"
+   ],
+   "url": "https://politicsoflove.org/",
+   "based": "Leicester, UK",
+   "based_zh": "莱斯特，英国",
+   "creator_id": "kathleen-richardson"
+  },
+  {
+   "id": "person--selma-sabanovic",
+   "name": "Selma Šabanović",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "east-asia"
+   ],
+   "fields": [
+    "intimacy",
+    "theory"
+   ],
+   "description": "Bosnian-American researcher of social robotics who studies how robots such as PARO are designed and lived with across cultures, especially in Japan and the US.",
+   "description_zh": "波斯尼亚裔美国社交机器人研究者，研究 PARO 等机器人如何在不同文化（尤其日本与美国）中被设计与共处。",
+   "known_for": [
+    "Robots in Society, Society in Robots (2010)"
+   ],
+   "url": "https://r-house.luddy.indiana.edu/",
+   "based": "Bloomington, US",
+   "based_zh": "布卢明顿，美国"
+  },
+  {
+   "id": "person--erkki-huhtamo",
+   "name": "Erkki Huhtamo",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Finnish media archaeologist whose essays on the history of robots, automata and interactive art trace the long cultural life of machines as performers.",
+   "description_zh": "芬兰媒介考古学者，他关于机器人、自动机与互动艺术史的研究，追溯机器作为表演者的漫长文化生命。",
+   "known_for": [
+    "From Cybernation to Interaction (1999)",
+    "Illusions in Motion (2013)",
+    "Media Archaeology (2011, ed. with Jussi Parikka)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Erkki_Huhtamo",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1958
+  },
+  {
+   "id": "person--oliver-grau",
+   "name": "Oliver Grau",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "German art historian who founded the Archive of Digital Art (formerly Database of Virtual Art), a key record of media and machine art.",
+   "description_zh": "德国艺术史学者，创立“数字艺术档案”（前身为虚拟艺术数据库），是记录媒体与机器艺术的重要档案。",
+   "known_for": [
+    "Virtual Art: From Illusion to Immersion (2003)",
+    "Archive of Digital Art (ADA, founded 1999)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Oliver_Grau",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Transmediale-2010-Opening-Oliver_Grau.jpg/960px-Transmediale-2010-Opening-Oliver_Grau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Krems, AT",
+   "based_zh": "克雷姆斯，奥地利",
+   "born": 1965
+  },
+  {
+   "id": "person--jack-burnham",
+   "name": "Jack Burnham",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American theorist and curator who predicted that sculpture would become intelligent, responsive systems, and curated Software (1970), a landmark exhibition of information technology.",
+   "description_zh": "美国理论家与策展人，预言雕塑将变成智能、响应式的系统，并策划了信息技术的里程碑展览“Software”（1970）。",
+   "known_for": [
+    "Beyond Modern Sculpture (1968)",
+    "Systems Esthetics (1968)",
+    "Software (Jewish Museum, 1970, curator)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Jack_Burnham",
+   "image": "https://covers.openlibrary.org/b/id/14444956-L.jpg",
+   "based": "US",
+   "based_zh": "美国",
+   "born": 1931,
+   "died": 2019,
+   "creator_id": "jack-burnham"
+  },
+  {
+   "id": "person--roy-ascott",
+   "name": "Roy Ascott",
+   "name_zh": "罗伊·阿斯科特",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "British artist and theorist of cybernetic and telematic art whose teaching and writings made feedback, interaction and networks central to art, including later in China.",
+   "description_zh": "英国控制论与远程通讯艺术理论家与艺术家，他的教学与写作使反馈、互动与网络成为艺术核心，晚年也在中国任教。",
+   "known_for": [
+    "Behaviourist Art and the Cybernetic Vision (1966–67)",
+    "La Plissure du Texte (1983)",
+    "Telematic Embrace (2003)"
+   ],
+   "url": "https://www.plymouth.ac.uk/staff/rascott",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Roy_Ascott"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roy_Ascott_2012.jpg?width=800",
+   "based": "London, UK / Shanghai, CN",
+   "based_zh": "伦敦，英国 / 上海，中国",
+   "born": 1934
+  },
+  {
+   "id": "person--janelle-shane",
+   "name": "Janelle Shane",
+   "type": "thinker",
+   "themes": [
+    "failure-glitch",
+    "opacity-latent"
+   ],
+   "fields": [
+    "interiority",
+    "theory"
+   ],
+   "description": "American optics researcher whose blog AI Weirdness catalogues the strange failures of neural networks, making machine errors a way to understand how they learn.",
+   "description_zh": "美国光学研究者，博客 AI Weirdness 收集神经网络的各种怪异失误，把机器的错误变成理解其学习方式的途径。",
+   "known_for": [
+    "AI Weirdness (blog, 2016–)",
+    "You Look Like a Thing and I Love You (2019)"
+   ],
+   "url": "https://www.aiweirdness.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Janelle_Shane"
+    }
+   ],
+   "image": "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/size/w1200/2021/03/neural_net_box_default_square-01-2.png",
+   "based": "Boulder, US",
+   "based_zh": "博尔德，美国",
+   "creator_id": "janelle-shane"
+  },
+  {
+   "id": "person--meredith-whittaker",
+   "name": "Meredith Whittaker",
+   "type": "thinker",
+   "themes": [
+    "ethics-policy",
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "American researcher who co-founded the AI Now Institute and helped organise the 2018 Google walkout; now president of Signal and a critic of AI's concentration of power.",
+   "description_zh": "美国研究者，AI Now 研究所联合创始人，参与组织 2018 年谷歌员工罢工；现任 Signal 总裁，批判 AI 的权力集中。",
+   "known_for": [
+    "AI Now Institute (co-founded 2017)",
+    "The Steep Cost of Capture (2021)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Meredith_Whittaker",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/MKr30771_Meredith_Whittaker_%28Republica_23%29.jpg/960px-MKr30771_Meredith_Whittaker_%28Republica_23%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "person--lydia-h-liu",
+   "name": "Lydia H. Liu",
+   "name_zh": "刘禾",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "east-asia"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Chinese-American theorist of media and translation whose The Freudian Robot reads cybernetics, information theory and the uncanny as a shared history of the human–machine unconscious.",
+   "description_zh": "华裔美国媒介与翻译理论家，《弗洛伊德机器人》把控制论、信息论与“怪怖”读作人机无意识的共同历史。",
+   "known_for": [
+    "The Freudian Robot: Digital Media and the Future of the Unconscious (2010)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Lydia_H._Liu",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1957,
+   "creator_id": "lydia-h-liu"
+  },
+  {
+   "id": "person--john-searle",
+   "name": "John Searle",
+   "name_zh": "约翰·塞尔",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "American philosopher whose Chinese Room argument claims that manipulating symbols is not understanding, a thought experiment revived by every generation of chatbots.",
+   "description_zh": "美国哲学家，“中文屋”论证主张操作符号并不等于理解，这一思想实验随每一代聊天机器人被重新提起。",
+   "known_for": [
+    "Minds, Brains, and Programs ('Chinese Room', 1980)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/John_Searle",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/John_Searle_speaking_at_Google_4_%28cropped%29.jpg/960px-John_Searle_speaking_at_Google_4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1932,
+   "died": 2025,
+   "creator_id": "john-searle"
+  },
+  {
+   "id": "person--j-c-r-licklider",
+   "name": "J. C. R. Licklider",
+   "type": "thinker",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American psychologist and computer scientist whose Man-Computer Symbiosis imagined humans and computers thinking together, a founding vision of interactive computing.",
+   "description_zh": "美国心理学家与计算机科学家，《人机共生》设想人与计算机共同思考，是交互式计算的奠基性构想。",
+   "known_for": [
+    "Man-Computer Symbiosis (1960)",
+    "The Computer as a Communication Device (1968, with Robert Taylor)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/J._C._R._Licklider",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_of_J._C._R._Licklider.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1915,
+   "died": 1990,
+   "creator_id": "j-c-r-licklider"
+  },
+  {
+   "id": "person--john-mccarthy",
+   "name": "John McCarthy",
+   "name_zh": "约翰·麦卡锡",
+   "type": "thinker",
+   "themes": [
+    "history"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "American computer scientist who coined the term 'artificial intelligence' in the 1955 Dartmouth proposal, naming the field whose promises art keeps testing.",
+   "description_zh": "美国计算机科学家，在 1955 年达特茅斯会议提案中创造了“人工智能”一词，为这个艺术不断检验其承诺的领域命名。",
+   "known_for": [
+    "Dartmouth proposal coining 'artificial intelligence' (1955)",
+    "LISP (1958)"
+   ],
+   "url": "http://www-formal.stanford.edu/jmc//",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/John_McCarthy_Stanford.jpg/960px-John_McCarthy_Stanford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "born": 1927,
+   "died": 2011,
+   "creator_id": "john-mccarthy"
+  },
+  {
+   "id": "person--stanislaw-lem",
+   "name": "Stanisław Lem",
+   "name_zh": "斯坦尼斯瓦夫·莱姆",
+   "type": "thinker",
+   "themes": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "Polish writer and philosopher whose Golem XIV, a superintelligent computer lecturing humans on their limits, remains one of the sharpest imaginings of truly alien machine minds.",
+   "description_zh": "波兰作家与哲学家，其《Golem XIV》中向人类讲授其局限的超级智能计算机，至今仍是对真正陌异的机器心智最锐利的想象之一。",
+   "known_for": [
+    "Summa Technologiae (1964)",
+    "The Cyberiad (1965)",
+    "Golem XIV (1981)"
+   ],
+   "url": "https://lem.pl",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Stanislaw_Lem_2_manually_dusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Kraków, PL",
+   "based_zh": "克拉科夫，波兰",
+   "born": 1921,
+   "died": 2006,
+   "creator_id": "stanislaw-lem"
+  },
+  {
+   "id": "person--ted-chiang",
+   "name": "Ted Chiang",
+   "name_zh": "姜峯楠",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "interiority",
+    "intimacy"
+   ],
+   "description": "American science-fiction writer whose The Lifecycle of Software Objects follows digital pets raised for years like children, and whose essays sharply describe what language models are.",
+   "description_zh": "美国科幻作家，《软件体的生命周期》讲述像孩子一样被养育多年的数字宠物，他的评论文章也精准描述了语言模型的本质。",
+   "known_for": [
+    "The Lifecycle of Software Objects (2010)",
+    "ChatGPT Is a Blurry JPEG of the Web (2023)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Ted_Chiang",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Chiang%2C_Ted_%28Villarrubia%29_%28cropped%29.jpg/960px-Chiang%2C_Ted_%28Villarrubia%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "born": 1967,
+   "creator_id": "ted-chiang"
+  },
+  {
+   "id": "person--chen-qiufan",
+   "name": "Chen Qiufan",
+   "name_zh": "陈楸帆",
+   "type": "thinker",
+   "themes": [
+    "labour-extraction",
+    "east-asia"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "Chinese science-fiction writer whose The Waste Tide imagines e-waste workers and cyborgs in southern China, and who has written fiction together with language models.",
+   "description_zh": "中国科幻作家，《荒潮》想象华南电子垃圾工人与赛博格的命运，他也曾与语言模型合作写作小说。",
+   "known_for": [
+    "The Waste Tide (2013)",
+    "AI 2041: Ten Visions for Our Future (2021, with Kai-Fu Lee)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Chen_Qiufan",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chenqiufan02.jpg/960px-Chenqiufan02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Beijing / Shanghai, CN",
+   "based_zh": "北京 / 上海，中国",
+   "born": 1981,
+   "creator_id": "chen-qiufan"
+  },
+  {
+   "id": "person--abeba-birhane",
+   "name": "Abeba Birhane",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy",
+    "critical-ai"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "Ethiopian-born cognitive scientist who audits large training datasets, showing the misogynist and racist content inside them, and argues for a relational ethics of AI.",
+   "description_zh": "埃塞俄比亚出生的认知科学家，审计大型训练数据集并揭示其中的厌女与种族主义内容，倡导关系性的 AI 伦理。",
+   "known_for": [
+    "Large Image Datasets: A Pyrrhic Win for Computer Vision? (2021, with Vinay Prabhu)",
+    "Algorithmic Injustice: A Relational Ethics Approach (2021)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Abeba_Birhane",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/UN_AI_for_Good_Summit_2025_-_Abeba_Birhane_02_%28cropped%29.jpg/960px-UN_AI_for_Good_Summit_2025_-_Abeba_Birhane_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Dublin, IE",
+   "based_zh": "都柏林，爱尔兰",
+   "creator_id": "abeba-birhane"
+  },
+  {
+   "id": "person--milagros-miceli",
+   "name": "Milagros Miceli",
+   "type": "thinker",
+   "themes": [
+    "labour-extraction",
+    "classification"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "Argentine sociologist at the Weizenbaum Institute who studies the data annotators and content moderators of the Global South, and co-leads the Data Workers' Inquiry written by the workers themselves.",
+   "description_zh": "魏岑鲍姆研究所的阿根廷社会学家，研究全球南方的数据标注员与内容审核员，并共同主持由工人亲自书写的 Data Workers' Inquiry。",
+   "known_for": [
+    "Studying Up Machine Learning Data (2022)",
+    "Data Workers' Inquiry (2024)"
+   ],
+   "url": "https://www.weizenbaum-institut.de/en/portrait/p/milagros-miceli/",
+   "links": [
+    {
+     "label": "Data Workers' Inquiry",
+     "url": "https://data-workers.org/"
+    }
+   ],
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "creator_id": "milagros-miceli"
+  },
+  {
+   "id": "person--catherine-dignazio",
+   "name": "Catherine D'Ignazio",
+   "type": "thinker",
+   "themes": [
+    "classification",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "American scholar and artist whose Data Feminism, written with Lauren F. Klein, sets out how power shapes who is counted, classified and seen by data systems.",
+   "description_zh": "美国学者与艺术家，与 Lauren F. Klein 合著《数据女性主义》，阐述权力如何决定谁被数据系统计数、分类与看见。",
+   "known_for": [
+    "Data Feminism (2020, with Lauren F. Klein)",
+    "Counting Feminicide (2024)"
+   ],
+   "url": "http://www.kanarinka.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Catherine_D%27Ignazio"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Catherine_D%27Ignazio.jpg/960px-Catherine_D%27Ignazio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1975,
+   "creator_id": "catherine-dignazio"
+  },
+  {
+   "id": "person--david-chalmers",
+   "name": "David Chalmers",
+   "name_zh": "大卫·查默斯",
+   "type": "thinker",
+   "themes": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "Australian philosopher who named the 'hard problem' of consciousness and now asks, carefully, whether language models or their successors could be conscious.",
+   "description_zh": "澳大利亚哲学家，提出意识的“困难问题”，如今审慎地追问语言模型或其后继者是否可能具有意识。",
+   "known_for": [
+    "The Conscious Mind (1996)",
+    "The Extended Mind (1998, with Andy Clark)",
+    "Could a Large Language Model Be Conscious? (2023)"
+   ],
+   "url": "https://consc.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/David_Chalmers"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/David_chalmers.jpg/960px-David_chalmers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1966,
+   "creator_id": "david-chalmers"
+  },
+  {
+   "id": "person--elisa-giaccardi",
+   "name": "Elisa Giaccardi",
+   "type": "thinker",
+   "themes": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "speculative",
+    "theory"
+   ],
+   "description": "Italian design researcher who develops 'more-than-human' design, studying everyday life from the perspective of connected things, such as by fitting cameras to kettles and cups.",
+   "description_zh": "意大利设计研究者，发展“超越人类”的设计，从联网物品的视角研究日常生活，例如给水壶与杯子装上摄像头。",
+   "known_for": [
+    "Thing Ethnography (DIS 2016)"
+   ],
+   "url": "https://www.tudelft.nl/en/ide/about-ide/people/former-professors/giaccardi-e",
+   "image": "https://t.e7096c671.entry.domains/bevjucwMl4dxsqpgNhUkkX_qF90=/fit-in/640x222/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FIO%2FHome%2FHomepage_banner_faculty_wide.jpg%3Fhash%3D50a2510b93",
+   "based": "Milan, IT / Delft, NL",
+   "based_zh": "米兰，意大利 / 代尔夫特，荷兰",
+   "creator_id": "elisa-giaccardi"
+  },
+  {
+   "id": "person--ron-wakkary",
+   "name": "Ron Wakkary",
+   "type": "thinker",
+   "themes": [
+    "machine-umwelt"
+   ],
+   "fields": [
+    "speculative",
+    "theory"
+   ],
+   "description": "Canadian design researcher whose Morse Things, ceramic bowls that talk to each other in Morse code over the network, were lived with in homes to study a world of things with their own lives.",
+   "description_zh": "加拿大设计研究者，Morse Things 是通过网络以摩尔斯电码彼此“交谈”的陶瓷碗，被放进家庭中共同生活，以研究物有自身生命的世界。",
+   "known_for": [
+    "Morse Things (DIS 2017)",
+    "Things We Could Design: For More Than Human-Centered Worlds (2021)"
+   ],
+   "url": "http://eds.siat.sfu.ca/",
+   "image": "https://covers.openlibrary.org/b/id/14137399-L.jpg",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "creator_id": "ron-wakkary"
+  },
+  {
+   "id": "person--julie-carpenter",
+   "name": "Julie Carpenter",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy"
+   ],
+   "description": "American researcher whose study of bomb-disposal soldiers showed them naming, mourning and holding funerals for their robots, a key case of attachment to machines.",
+   "description_zh": "美国研究者，她对排爆士兵的研究显示，士兵们会为机器人取名、哀悼甚至举行葬礼，是人对机器产生依恋的关键案例。",
+   "known_for": [
+    "Culture and Human-Robot Interaction in Militarized Spaces (2016)"
+   ],
+   "url": "https://jgcarpenter.com/",
+   "image": "https://cdn.uw.edu/wp-content/uploads/sites/6/2013/09/04192210/iRobot-IED-280x300.jpg",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "creator_id": "julie-carpenter"
+  },
+  {
+   "id": "person--clifford-nass",
+   "name": "Clifford Nass",
+   "type": "thinker",
+   "themes": [
+    "intimacy-care",
+    "machine-listening"
+   ],
+   "fields": [
+    "theory",
+    "intimacy"
+   ],
+   "description": "American social scientist whose experiments showed that people are polite to computers and apply gender stereotypes to synthetic voices, treating media 'like real people'.",
+   "description_zh": "美国社会科学家，他的实验显示人们会对电脑讲礼貌，也会把性别刻板印象套用到合成语音上，把媒介当作“真人”对待。",
+   "known_for": [
+    "Computers Are Social Actors (1994)",
+    "The Media Equation (1996, with Byron Reeves)",
+    "Wired for Speech (2005)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Clifford_Nass",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Clifford_Nass_at_Stanford.jpg/960px-Clifford_Nass_at_Stanford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "born": 1958,
+   "died": 2013,
+   "creator_id": "clifford-nass"
+  },
+  {
+   "id": "person--fritz-heider",
+   "name": "Fritz Heider",
+   "type": "thinker",
+   "themes": [
+    "alterity-uncanny",
+    "history"
+   ],
+   "fields": [
+    "theory",
+    "interiority"
+   ],
+   "description": "Austrian psychologist whose 1944 animation with Marianne Simmel showed that people read intentions and emotions into moving triangles, the root of why we see life in machines.",
+   "description_zh": "奥地利心理学家，1944 年他与 Marianne Simmel 的动画实验显示，人会把意图与情绪读进移动的三角形，这正是我们在机器中看见生命的根源。",
+   "known_for": [
+    "An Experimental Study of Apparent Behavior (1944, with Marianne Simmel)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Fritz_Heider",
+   "based": "Lawrence, US",
+   "based_zh": "劳伦斯，美国",
+   "born": 1896,
+   "died": 1988,
+   "creator_id": "fritz-heider"
+  },
+  {
+   "id": "person--robert-sparrow",
+   "name": "Robert Sparrow",
+   "type": "thinker",
+   "themes": [
+    "ethics-policy",
+    "intimacy-care"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Australian philosopher who argued early that robot pets for older people depend on deception, and that autonomous weapons create a gap in responsibility.",
+   "description_zh": "澳大利亚哲学家，很早就指出为老人提供的机器人宠物依赖欺骗，而自主武器会造成责任的空缺。",
+   "known_for": [
+    "The March of the Robot Dogs (2002)",
+    "Killer Robots (2007)",
+    "In the Hands of Machines? The Future of Aged Care (2006, with Linda Sparrow)"
+   ],
+   "url": "https://research.monash.edu/en/persons/robert-sparrow",
+   "image": "https://research.monash.edu/files-asset/761449/profile+photo/",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "creator_id": "robert-sparrow"
+  },
+  {
+   "id": "person--tomasz-hollanek",
+   "name": "Tomasz Hollanek",
+   "type": "thinker",
+   "themes": [
+    "grief-afterlife",
+    "ethics-policy"
+   ],
+   "fields": [
+    "afterlife"
+   ],
+   "description": "Researcher at the Leverhulme Centre for the Future of Intelligence whose speculative scenarios of 'deadbots' propose design rules for the AI afterlife industry.",
+   "description_zh": "剑桥大学利弗休姆未来智能中心研究者，以关于“亡者机器人”的思辨情景为 AI 来世产业提出设计原则。",
+   "known_for": [
+    "Griefbots, Deadbots, Postmortem Avatars (2024, with Katarzyna Nowaczyk-Basińska)"
+   ],
+   "url": "https://www.lcfi.ac.uk/people/tomasz-hollanek",
+   "image": "https://www.cam.ac.uk/sites/default/files/styles/content-885x432/public/news/research/news/manana-web.jpg.webp?h=8cd1ce1a&itok=7115uvaO",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "creator_id": "tomasz-hollanek"
+  },
+  {
+   "id": "person--katarzyna-nowaczyk-basinska",
+   "name": "Katarzyna Nowaczyk-Basińska",
+   "type": "thinker",
+   "themes": [
+    "grief-afterlife"
+   ],
+   "fields": [
+    "afterlife"
+   ],
+   "description": "Polish researcher of digital immortality at the Leverhulme Centre for the Future of Intelligence, studying how cultures imagine and regulate life after death through AI.",
+   "description_zh": "波兰数字永生研究者，任职于剑桥利弗休姆未来智能中心，研究不同文化如何借 AI 想象并规范死后的生命。",
+   "known_for": [
+    "Griefbots, Deadbots, Postmortem Avatars (2024, with Tomasz Hollanek)"
+   ],
+   "url": "https://www.lcfi.ac.uk/people/katarzyna-nowaczyk-basinska",
+   "image": "https://www.cam.ac.uk/sites/default/files/styles/content-885x432/public/news/research/news/manana-web.jpg.webp?h=8cd1ce1a&itok=7115uvaO",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "creator_id": "katarzyna-nowaczyk-basinska"
+  },
+  {
+   "id": "person--jason-edward-lewis",
+   "name": "Jason Edward Lewis",
+   "type": "thinker",
+   "themes": [
+    "ethics-policy",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory"
+   ],
+   "description": "Cherokee, Hawaiian and Samoan digital media scholar who leads the Indigenous Protocol and AI working group, asking how AI could be a relative within Indigenous knowledge systems.",
+   "description_zh": "拥有切罗基、夏威夷与萨摩亚血统的数字媒体学者，主持“原住民协议与 AI”工作组，探讨 AI 如何在原住民知识体系中成为“亲属”。",
+   "known_for": [
+    "Making Kin with the Machines (2018, with Noelani Arista, Archer Pechawis and Suzanne Kite)",
+    "Indigenous Protocol and Artificial Intelligence Position Paper (2020)"
+   ],
+   "url": "https://www.indigenous-ai.net/",
+   "image": "https://www.indigenous-ai.net/wp-content/uploads/2019/04/waiwai2.jpg",
+   "based": "Montreal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "creator_id": "jason-edward-lewis"
+  },
+  {
+   "id": "person--w-grey-walter",
+   "name": "W. Grey Walter",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American-born British neurophysiologist whose light-seeking robot tortoises Elmer and Elsie showed lifelike, unpredictable behaviour from two 'neurons', the first autonomous robots.",
+   "description_zh": "美国出生的英国神经生理学家，他的趋光机器龟 Elmer 与 Elsie 仅凭两个“神经元”就表现出栩栩如生、难以预测的行为，是最早的自主机器人。",
+   "known_for": [
+    "Machina speculatrix tortoises Elmer and Elsie (1948–49)",
+    "The Living Brain (1953)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/William_Grey_Walter",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Grey_Walter_1949.jpg?width=800",
+   "based": "Bristol, UK",
+   "based_zh": "布里斯托，英国",
+   "born": 1910,
+   "died": 1977,
+   "creator_id": "w-grey-walter"
+  },
+  {
+   "id": "person--billy-kluver",
+   "name": "Billy Klüver",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Swedish Bell Labs engineer who built machines with Tinguely, Rauschenberg and Warhol and co-founded Experiments in Art and Technology, the model for artist–engineer collaboration.",
+   "description_zh": "瑞典裔贝尔实验室工程师，与 Tinguely、劳申伯格与沃霍尔合作制作机器，联合创立“艺术与技术实验”（E.A.T.），成为艺术家与工程师合作的典范。",
+   "known_for": [
+    "Homage to New York (1960, with Jean Tinguely)",
+    "9 Evenings: Theatre and Engineering (1966)",
+    "Experiments in Art and Technology (E.A.T., founded 1967)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Billy_Kl%C3%BCver",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1927,
+   "died": 2004
+  },
+  {
+   "id": "person--masahiro-mori",
+   "name": "Masahiro Mori",
+   "name_zh": "森政弘",
+   "type": "engineer",
+   "themes": [
+    "alterity-uncanny",
+    "east-asia",
+    "history"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Japanese roboticist whose 1970 essay on the 'uncanny valley' described the unease caused by almost-human machines, and whose The Buddha in the Robot finds Buddha-nature in machines.",
+   "description_zh": "日本机器人学家，1970 年提出“恐怖谷”，描述近乎人类的机器引发的不安；其《机器人中的佛陀》认为机器也具有佛性。",
+   "known_for": [
+    "The Uncanny Valley (Bukimi no Tani, 1970)",
+    "The Buddha in the Robot (1974)",
+    "Robocon (1988–)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Masahiro_Mori_(roboticist)",
+   "image": "https://spectrum.ieee.org/media-library/the-uncanny-valley-by-masahiro-mori-republished-in-robotics-automation-magazine.png?id=25569782&width=980",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "born": 1927,
+   "died": 2025,
+   "creator_id": "masahiro-mori"
+  },
+  {
+   "id": "person--ichiro-kato",
+   "name": "Ichiro Kato",
+   "name_zh": "加藤一郎",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "east-asia",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Japanese engineer at Waseda University who built WABOT-1, the first full-scale humanoid robot, and WABOT-2, which read sheet music and played the organ.",
+   "description_zh": "早稻田大学日本工程师，研制了第一台全尺寸人形机器人 WABOT-1，以及能读谱弹奏风琴的 WABOT-2。",
+   "known_for": [
+    "WABOT-1 (1973)",
+    "WABOT-2 (1984)"
+   ],
+   "url": "https://ja.wikipedia.org/wiki/加藤一郎_(ロボット研究者)",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "born": 1925,
+   "died": 1994
+  },
+  {
+   "id": "person--joseph-engelberger",
+   "name": "Joseph Engelberger",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "labour-extraction"
+   ],
+   "fields": [
+    "bodies",
+    "labour"
+   ],
+   "description": "American engineer called the 'father of robotics', whose Unimate arm began work at General Motors in 1961, the industrial robot that later became a material of art.",
+   "description_zh": "美国工程师，被称为“机器人之父”，他的 Unimate 机械臂于 1961 年进入通用汽车工作，这类工业机器人后来成为艺术的材料。",
+   "known_for": [
+    "Unimate (1961, General Motors)",
+    "Robotics in Practice (1980)",
+    "HelpMate (1980s)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Joseph_Engelberger",
+   "based": "Danbury, US",
+   "based_zh": "丹伯里，美国",
+   "born": 1925,
+   "died": 2015
+  },
+  {
+   "id": "person--hiroshi-ishiguro",
+   "name": "Hiroshi Ishiguro",
+   "name_zh": "石黑浩",
+   "type": "engineer",
+   "themes": [
+    "alterity-uncanny",
+    "east-asia",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "interiority",
+    "coperformance"
+   ],
+   "description": "Japanese roboticist who builds lifelike androids, including a copy of himself, to study what 'human presence' is; his androids act in theatre, museums and films.",
+   "description_zh": "日本机器人学家，制造高度逼真的仿人机器人（包括他自己的复制品），以研究何为“人的存在感”；他的仿人机器人出现在剧场、博物馆与电影中。",
+   "known_for": [
+    "Geminoid HI-1 (2006)",
+    "Telenoid (2010)",
+    "Erica (2015)",
+    "Alter (2016, with Takashi Ikegami)"
+   ],
+   "url": "https://eng.irl.sys.es.osaka-u.ac.jp/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hiroshi_Ishiguro"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Hiroshi_Ishiguro_at_Italian_Tech_Week_panel_%28cropped%29.jpg/960px-Hiroshi_Ishiguro_at_Italian_Tech_Week_panel_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Osaka, JP",
+   "based_zh": "大阪，日本",
+   "born": 1963,
+   "creator_id": "hiroshi-ishiguro"
+  },
+  {
+   "id": "person--takashi-ikegami",
+   "name": "Takashi Ikegami",
+   "name_zh": "池上高志",
+   "type": "engineer",
+   "themes": [
+    "agency-cocreation",
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "interiority",
+    "bodies"
+   ],
+   "description": "Japanese artificial-life scientist at the University of Tokyo who gives machines spontaneous, self-organising behaviour; his android Alter moves by a neural network and central pattern generators.",
+   "description_zh": "东京大学日本人工生命科学家，致力于让机器具有自发、自组织的行为；他的仿人机器人 Alter 由神经网络与中枢模式发生器驱动。",
+   "known_for": [
+    "Mind Time Machine (YCAM, 2010)",
+    "Alter (2016, with Hiroshi Ishiguro)",
+    "Alter 3 in Scary Beauty (2018)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Takashi_Ikegami",
+   "image": "https://realtokyo.co.jp/_sys2024/wp-content/uploads/2018/08/main.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "born": 1961,
+   "creator_id": "takashi-ikegami"
+  },
+  {
+   "id": "person--takanori-shibata",
+   "name": "Takanori Shibata",
+   "name_zh": "柴田崇德",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care",
+    "east-asia"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Japanese engineer at AIST who created PARO, a baby harp seal robot used in dementia care worldwide, and a central case in debates on machine care.",
+   "description_zh": "日本产业技术综合研究所工程师，研发了用于全球失智症照护的竖琴海豹宝宝机器人 PARO，是机器照护争论的核心案例。",
+   "known_for": [
+    "PARO therapeutic seal robot (research from 1993; released 2004)"
+   ],
+   "url": "https://ja.wikipedia.org/wiki/柴田崇徳",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Dr_Takanori_Shibata_and_PARO_2.jpg/960px-Dr_Takanori_Shibata_and_PARO_2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Tsukuba, JP",
+   "based_zh": "筑波，日本",
+   "born": 1967,
+   "creator_id": "takanori-shibata"
+  },
+  {
+   "id": "person--michio-okada",
+   "name": "Michio Okada",
+   "name_zh": "冈田美智男",
+   "type": "engineer",
+   "themes": [
+    "failure-glitch",
+    "intimacy-care",
+    "east-asia"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Japanese researcher of 'weak robots', machines that cannot finish their tasks alone, such as a trash-can robot that needs passers-by to pick up litter, making dependence the basis of care.",
+   "description_zh": "日本“弱机器人”研究者：这些机器无法独立完成任务，例如需要路人帮忙捡垃圾的垃圾桶机器人，把依赖变成照护的基础。",
+   "known_for": [
+    "Weak Robots (Yowai Robotto, 2012)",
+    "Muu (2000s)",
+    "Gomi-bako robot (2010s)",
+    "NICOBO (2021, with Panasonic)"
+   ],
+   "url": "https://ja.wikipedia.org/wiki/岡田美智男",
+   "based": "Toyohashi, JP",
+   "based_zh": "丰桥，日本",
+   "born": 1960,
+   "creator_id": "michio-okada"
+  },
+  {
+   "id": "person--kaname-hayashi",
+   "name": "Kaname Hayashi",
+   "name_zh": "林要",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care",
+    "east-asia"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Japanese engineer who led Pepper's development at SoftBank and then founded GROOVE X to make LOVOT, a warm, useless robot designed only to be loved.",
+   "description_zh": "日本工程师，曾主导软银 Pepper 的开发，之后创立 GROOVE X 推出 LOVOT：一台温暖、“无用”、只为被爱而设计的机器人。",
+   "known_for": [
+    "Pepper (development lead, 2014)",
+    "LOVOT (GROOVE X, 2019)"
+   ],
+   "url": "https://lovot.life/",
+   "image": "https://lovot.life/img/ogp/top_ogp.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本"
+  },
+  {
+   "id": "person--tomotaka-takahashi",
+   "name": "Tomotaka Takahashi",
+   "name_zh": "高桥智隆",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care",
+    "east-asia"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Japanese robot creator whose small humanoids include Kirobo, the first talking robot companion in space, and RoBoHoN, a robot that is also a phone.",
+   "description_zh": "日本机器人创作者，其小型人形机器人包括首个进入太空的会说话的陪伴机器人 Kirobo，以及同时是一部手机的机器人 RoBoHoN。",
+   "known_for": [
+    "Kirobo (2013, on the ISS)",
+    "Robi (2013)",
+    "RoBoHoN (2016)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Tomotaka_Takahashi",
+   "links": [
+    {
+     "label": "Wikipedia (ja)",
+     "url": "https://ja.wikipedia.org/wiki/高橋智隆"
+    }
+   ],
+   "based": "Kyoto, JP",
+   "based_zh": "京都，日本",
+   "born": 1975
+  },
+  {
+   "id": "person--wang-xingxing",
+   "name": "Wang Xingxing",
+   "name_zh": "王兴兴",
+   "type": "engineer",
+   "themes": [
+    "robot-art",
+    "east-asia"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Chinese engineer and founder of Unitree Robotics, whose quadruped and humanoid robots danced yangge with handkerchiefs on the 2025 Spring Festival Gala, a landmark for public images of robots in China.",
+   "description_zh": "中国工程师、宇树科技创始人，其四足与人形机器人在 2025 年央视春晚上手持手绢扭秧歌，成为中国公众机器人形象的标志性时刻。",
+   "known_for": [
+    "Unitree Robotics (founded 2016)",
+    "Unitree H1 humanoids at the CCTV Spring Festival Gala (2025)"
+   ],
+   "url": "https://www.unitree.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wang_Xingxing"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Wang_Xingxing_at_the_World_Economic_Forum%27s_16th_Annual_Meeting_of_the_New_Champions_in_Tianjin%2C_China.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Hangzhou, CN",
+   "based_zh": "杭州，中国",
+   "born": 1990
+  },
+  {
+   "id": "person--rodney-brooks",
+   "name": "Rodney Brooks",
+   "name_zh": "罗德尼·布鲁克斯",
+   "type": "engineer",
+   "themes": [
+    "embodiment",
+    "agency-cocreation",
+    "history"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Australian roboticist whose behaviour-based robotics replaced central planning with layered, embodied reflexes, from the six-legged Genghis to the Roomba vacuum cleaner.",
+   "description_zh": "澳大利亚机器人学家，他的基于行为的机器人学以分层的具身反射取代中央规划，从六足机器人 Genghis 到扫地机器人 Roomba。",
+   "known_for": [
+    "Elephants Don't Play Chess (1990)",
+    "Genghis (1989)",
+    "Cog (1993–)",
+    "Roomba (iRobot, 2002)"
+   ],
+   "url": "https://rodneybrooks.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rodney_Brooks"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Rodney_Brooks_in_2021.jpg/960px-Rodney_Brooks_in_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "born": 1954,
+   "creator_id": "rodney-brooks"
+  },
+  {
+   "id": "person--cynthia-breazeal",
+   "name": "Cynthia Breazeal",
+   "name_zh": "辛西娅·布雷齐尔",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "American roboticist who founded social robotics with Kismet, an expressive robot head that responded to people's emotions, and later Jibo, one of the first social robots for the home.",
+   "description_zh": "美国机器人学家，以能回应人类情绪的表情机器人头 Kismet 开创社交机器人学，之后又推出最早的家用社交机器人之一 Jibo。",
+   "known_for": [
+    "Kismet (1998–2000)",
+    "Designing Sociable Robots (2002)",
+    "Leonardo (2003, with Stan Winston Studio)",
+    "Jibo (2014–)"
+   ],
+   "url": "https://www.media.mit.edu/people/cynthiab/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cynthia_Breazeal"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2010_Cynthia_Breazeal_4641804653.png?width=800",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1967,
+   "creator_id": "cynthia-breazeal"
+  },
+  {
+   "id": "person--david-hanson",
+   "name": "David Hanson",
+   "type": "engineer",
+   "themes": [
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "American robot designer and founder of Hanson Robotics, maker of lifelike humanoid heads such as Bina48 and Sophia, a robot granted Saudi citizenship in 2017.",
+   "description_zh": "美国机器人设计师、汉森机器人公司创始人，制作 Bina48、Sophia 等逼真人形头部；Sophia 于 2017 年获得沙特公民身份。",
+   "known_for": [
+    "Philip K. Dick android (2005)",
+    "Bina48 (2010, for Terasem)",
+    "Sophia (2016)"
+   ],
+   "url": "https://www.hansonrobotics.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/David_Hanson_(robotics_designer)"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sophia_with_her_creator_David_Hanson_at_Digital_World_2017_conference%2C_Dhaka%2C_Bangladesh_in_December_2017.jpg/960px-Sophia_with_her_creator_David_Hanson_at_Digital_World_2017_conference%2C_Dhaka%2C_Bangladesh_in_December_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "born": 1969
+  },
+  {
+   "id": "person--heather-knight",
+   "name": "Heather Knight",
+   "type": "engineer",
+   "themes": [
+    "robot-art",
+    "intimacy-care"
+   ],
+   "fields": [
+    "coperformance",
+    "bodies"
+   ],
+   "description": "American roboticist who studies charisma and social intelligence through robot performance, including a NAO robot doing stand-up comedy that adapts to audience laughter.",
+   "description_zh": "美国机器人学家，通过机器人表演研究魅力与社会智能，例如一台根据观众笑声调整段子的脱口秀 NAO 机器人。",
+   "known_for": [
+    "Data, a stand-up comedy robot (2010)",
+    "Marilyn Monrobot (company, 2010s)",
+    "Robot Film Festival (2012–)"
+   ],
+   "url": "https://www.charismarobotics.com/",
+   "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f8bd657fb5e99e575ec030ddd925a8a782724e5_800x600.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82&w=1200",
+   "based": "Corvallis, US",
+   "based_zh": "科瓦利斯，美国",
+   "creator_id": "heather-knight"
+  },
+  {
+   "id": "person--guy-hoffman",
+   "name": "Guy Hoffman",
+   "type": "engineer",
+   "themes": [
+    "robot-art",
+    "intimacy-care"
+   ],
+   "fields": [
+    "coperformance",
+    "bodies"
+   ],
+   "description": "Israeli roboticist who draws on acting and animation to design non-humanoid social robots, from a robotic desk lamp to the soft, handcrafted Blossom.",
+   "description_zh": "以色列机器人学家，借鉴表演与动画设计非人形社交机器人，从机器人台灯到柔软手工的 Blossom。",
+   "known_for": [
+    "AUR robotic desk lamp (2007)",
+    "Shimon (2009, with Gil Weinberg)",
+    "Travis / Shimi (2010s)",
+    "Blossom (2017)"
+   ],
+   "url": "https://hrc2.io/",
+   "image": "https://hrc2.io/assets/images/projects/michael-blossom.jpg",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国"
+  },
+  {
+   "id": "person--gil-weinberg",
+   "name": "Gil Weinberg",
+   "type": "engineer",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "Israeli-American music technologist at Georgia Tech whose robotic musicians Haile and Shimon listen and improvise with human players.",
+   "description_zh": "以色列裔美国音乐科技学者，任教于佐治亚理工学院，他的机器人音乐家 Haile 与 Shimon 会聆听并与人类乐手即兴合奏。",
+   "known_for": [
+    "Haile (2006)",
+    "Shimon (2009–)",
+    "Robotic prosthetic drumming arm (2014)"
+   ],
+   "url": "https://www.gilweinberg.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gil_Weinberg"
+    }
+   ],
+   "image": "https://static.wixstatic.com/media/065509_93dcf3a664a44c0486f28df36044e4bd%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/065509_93dcf3a664a44c0486f28df36044e4bd%7Emv2.jpg",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "born": 1967,
+   "creator_id": "gil-weinberg"
+  },
+  {
+   "id": "person--raffaello-dandrea",
+   "name": "Raffaello D'Andrea",
+   "type": "engineer",
+   "themes": [
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Canadian-Italian-Swiss engineer who co-created The Table, a robot table that chooses a visitor to follow, co-founded Kiva Systems (now Amazon Robotics) and choreographed drones.",
+   "description_zh": "加拿大–意大利–瑞士工程师，共同创作会选择一位观众并跟随的机器人桌子 The Table，联合创立 Kiva Systems（今亚马逊机器人），并为无人机编舞。",
+   "known_for": [
+    "The Table (2001, with Max Dean)",
+    "Kiva Systems warehouse robots (2003)",
+    "Flying Machine Arena (2008)",
+    "Sparked (Cirque du Soleil, 2014)"
+   ],
+   "url": "http://raffaello.name/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Raffaello_D%27Andrea"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Raffaello_D%27Andrea_2023.jpg/960px-Raffaello_D%27Andrea_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "born": 1967,
+   "creator_id": "raffaello-d-andrea"
+  },
+  {
+   "id": "person--hans-moravec",
+   "name": "Hans Moravec",
+   "name_zh": "汉斯·莫拉维克",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "bodies"
+   ],
+   "description": "Austrian-Canadian roboticist behind Moravec's paradox, the observation that what is easy for humans, like walking and seeing, is hardest for machines.",
+   "description_zh": "奥地利裔加拿大机器人学家，提出“莫拉维克悖论”：对人类来说容易的事（如行走和观看），对机器来说却最难。",
+   "known_for": [
+    "Stanford Cart (1979)",
+    "Mind Children (1988)",
+    "Moravec's paradox (1988)"
+   ],
+   "url": "https://frc.ri.cmu.edu/~hpm/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hans_Moravec"
+    }
+   ],
+   "image": "https://frc.ri.cmu.edu/~hpm/project.archive/Image.Archive/hpm.portraits/hpm-1995/HPM1995-small.jpg",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "born": 1948
+  },
+  {
+   "id": "person--rolf-pfeifer",
+   "name": "Rolf Pfeifer",
+   "type": "engineer",
+   "themes": [
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Swiss AI researcher who championed embodied intelligence, showing that a robot's body and materials do part of its thinking ('morphological computation').",
+   "description_zh": "瑞士 AI 研究者，倡导具身智能，指出机器人的身体与材料本身承担了部分“思考”（形态计算）。",
+   "known_for": [
+    "Understanding Intelligence (1999, with Christian Scheier)",
+    "How the Body Shapes the Way We Think (2006, with Josh Bongard)",
+    "ECCE / Roboy (2010s)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Rolf_Pfeifer",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Rolf_Pfeifer.jpg/960px-Rolf_Pfeifer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "born": 1947,
+   "creator_id": "rolf-pfeifer"
+  },
+  {
+   "id": "person--kerstin-dautenhahn",
+   "name": "Kerstin Dautenhahn",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "German roboticist whose child-sized, minimally expressive robot KASPAR is used with autistic children, showing that simplified robot faces can support social interaction.",
+   "description_zh": "德国机器人学家，她的儿童大小、表情简化的机器人 KASPAR 被用于自闭症儿童，证明简化的机器人面孔能支持社交互动。",
+   "known_for": [
+    "KASPAR (2005–)",
+    "Socially Intelligent Agents (2002, ed.)"
+   ],
+   "url": "https://researchprofiles.herts.ac.uk/portal/en/persons/kerstin-dautenhahn(0d00e4af-1f2d-433e-8d0e-ac8690288e4c).html",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kerstin_Dautenhahn"
+    }
+   ],
+   "image": "https://researchprofiles.herts.ac.uk/files-asset/11145702/Dautenhahn_Portrait_2017_2.jpg/",
+   "based": "Waterloo, CA",
+   "based_zh": "滑铁卢，加拿大",
+   "born": 1964
+  },
+  {
+   "id": "person--maja-mataric",
+   "name": "Maja Matarić",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Serbian-American roboticist at USC who defined socially assistive robotics, robots that help people through social rather than physical interaction, in stroke rehabilitation, autism and elder care.",
+   "description_zh": "南加州大学塞尔维亚裔美国机器人学家，定义了“社会辅助机器人”：通过社交而非身体接触帮助中风康复、自闭症与老年照护中的人们。",
+   "known_for": [
+    "Socially assistive robotics (2005, with David Feil-Seifer)",
+    "The Robotics Primer (2007)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Maja_Matari%C4%87",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Maja_Matari%C4%87_at_UCLA_Library.jpg/960px-Maja_Matari%C4%87_at_UCLA_Library.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1965
+  },
+  {
+   "id": "person--hod-lipson",
+   "name": "Hod Lipson",
+   "type": "engineer",
+   "themes": [
+    "agency-cocreation"
+   ],
+   "fields": [
+    "interiority",
+    "bodies"
+   ],
+   "description": "Israeli-American roboticist at Columbia whose robots build models of their own bodies, an experimental approach to machine self-awareness.",
+   "description_zh": "哥伦比亚大学以色列裔美国机器人学家，他的机器人会为自己的身体建模，这是对机器自我意识的实验性探索。",
+   "known_for": [
+    "Resilient Machines Through Continuous Self-Modeling (2006, with Josh Bongard and Victor Zykov)",
+    "Self-replicating robots (2005)",
+    "Robot self-image from vision (2022)"
+   ],
+   "url": "https://www.hodlipson.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hod_Lipson"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Waiter-_The_New_World_of_3D_Printing_and_Computation_%289972110315%29.jpg/960px-Waiter-_The_New_World_of_3D_Printing_and_Computation_%289972110315%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1967,
+   "creator_id": "hod-lipson"
+  },
+  {
+   "id": "person--josh-bongard",
+   "name": "Josh Bongard",
+   "type": "engineer",
+   "themes": [
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Canadian roboticist at the University of Vermont who, with Michael Levin, designed xenobots, living machines assembled from frog cells by an evolutionary algorithm.",
+   "description_zh": "佛蒙特大学加拿大机器人学家，与 Michael Levin 以进化算法设计出由青蛙细胞组装而成的“活机器”——异种机器人（xenobots）。",
+   "known_for": [
+    "Resilient Machines Through Continuous Self-Modeling (2006)",
+    "Xenobots (2020, with Michael Levin)",
+    "How the Body Shapes the Way We Think (2006, with Rolf Pfeifer)"
+   ],
+   "url": "https://jbongard.github.io",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Josh_Bongard"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Bongard.jpg?width=800",
+   "based": "Burlington, US",
+   "based_zh": "伯灵顿，美国",
+   "born": 1974,
+   "creator_id": "josh-bongard"
+  },
+  {
+   "id": "person--wendy-ju",
+   "name": "Wendy Ju",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care",
+    "ethics-policy"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American interaction researcher at Cornell Tech whose Ghost Driver hid a driver inside a car seat costume to study how pedestrians react to 'driverless' cars.",
+   "description_zh": "康奈尔科技校区美国交互研究者，Ghost Driver 让司机藏在座椅造型的伪装中，研究行人如何对“无人驾驶”汽车作出反应。",
+   "known_for": [
+    "Ghost Driver (2015)",
+    "The Design of Implicit Interactions (2015)"
+   ],
+   "url": "http://www.wendyju.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wendy_Ju"
+    }
+   ],
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "person--christoph-bartneck",
+   "name": "Christoph Bartneck",
+   "type": "engineer",
+   "themes": [
+    "ethics-policy",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "German HRI researcher who studied whether people hesitate to switch off a pleading robot, robot abuse, and whether robots are racialised by their colour.",
+   "description_zh": "德国人机交互研究者，研究人们是否会迟疑关掉一台哀求的机器人、虐待机器人的行为，以及机器人是否会因颜色被种族化。",
+   "known_for": [
+    "Daisy, Daisy, Give Me Your Answer Do! (2007)",
+    "Godspeed questionnaires (2009)",
+    "Robots and Racism (2018)"
+   ],
+   "url": "https://www.bartneck.de/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Christoph_Bartneck"
+    }
+   ],
+   "image": "https://www.bartneck.de/wp-content/uploads/2024/06/aurora.jpg",
+   "based": "Christchurch, NZ",
+   "based_zh": "基督城，新西兰",
+   "born": 1973
+  },
+  {
+   "id": "person--marc-raibert",
+   "name": "Marc Raibert",
+   "type": "engineer",
+   "themes": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American roboticist who founded Boston Dynamics, whose legged robots and viral videos of them being kicked and dancing shaped public feelings about robot bodies.",
+   "description_zh": "美国机器人学家，创立波士顿动力；其腿足机器人以及它们被踢、跳舞的爆红视频，塑造了公众对机器人身体的感受。",
+   "known_for": [
+    "Boston Dynamics (founded 1992)",
+    "BigDog (2005)",
+    "Spot (2016–)",
+    "Atlas (2013–)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Marc_Raibert",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Marc_Raibert_-_Empowering_the_Future_%28cropped%29.jpg/960px-Marc_Raibert_-_Empowering_the_Future_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Waltham, US",
+   "based_zh": "沃尔瑟姆，美国",
+   "born": 1949
+  },
+  {
+   "id": "person--rebecca-fiebrink",
+   "name": "Rebecca Fiebrink",
+   "type": "engineer",
+   "themes": [
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance"
+   ],
+   "description": "American researcher at UAL Creative Computing Institute whose Wekinator lets artists train machine-learning models by demonstration, treating ML as a creative, embodied instrument.",
+   "description_zh": "英国艺术大学创意计算研究所美国研究者，Wekinator 让艺术家通过示范训练机器学习模型，把机器学习当作具身的创作乐器。",
+   "known_for": [
+    "Wekinator (2009)",
+    "Machine Learning for Musicians and Artists (Kadenze, 2016)"
+   ],
+   "url": "https://www.doc.gold.ac.uk/~mas01rf/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "creator_id": "rebecca-fiebrink"
+  },
+  {
+   "id": "person--jacques-de-vaucanson",
+   "name": "Jacques de Vaucanson",
+   "name_zh": "雅克·德·沃康松",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "French inventor (1709–1782) whose automata, a flute player that really blew into its flute and a duck that appeared to eat and digest, made the body itself a machine question.",
+   "description_zh": "法国发明家（1709–1782），他的自动机（真正吹奏长笛的吹笛人、看似会进食与消化的鸭子）把身体本身变成了机器问题。",
+   "known_for": [
+    "The Flute Player (1737)",
+    "The Digesting Duck (1739)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Jacques_de_Vaucanson",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jacques_de_Vaucanson_rectangular.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1709,
+   "died": 1782,
+   "creator_id": "jacques-de-vaucanson"
+  },
+  {
+   "id": "person--pierre-jaquet-droz",
+   "name": "Pierre Jaquet-Droz",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Swiss watchmaker (1721–1790) whose android automata, including The Writer, which can be programmed to write any text of 40 characters, are ancestors of programmable robots.",
+   "description_zh": "瑞士钟表匠（1721–1790），他的仿人自动机（包括可编程写出任意 40 字符文本的“书写者”）是可编程机器人的先祖。",
+   "known_for": [
+    "The Writer (1768–74)",
+    "The Draughtsman (1768–74)",
+    "The Musician (1768–74)"
+   ],
+   "url": "https://www.jaquet-droz.com/fr/the-extraordinary-history-jaquet-droz",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Pierre_Jaquet-Droz"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pierre_Jaquet-Droz%2C_1758.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "La Chaux-de-Fonds, CH",
+   "based_zh": "拉绍德封，瑞士",
+   "born": 1721,
+   "died": 1790,
+   "creator_id": "pierre-jaquet-droz"
+  },
+  {
+   "id": "person--claude-shannon",
+   "name": "Claude Shannon",
+   "name_zh": "克劳德·香农",
+   "type": "engineer",
+   "themes": [
+    "history",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "theory",
+    "bodies"
+   ],
+   "description": "American mathematician who founded information theory and built Theseus, a mechanical mouse that learned a maze, as well as the 'useless machine' that only switches itself off.",
+   "description_zh": "美国数学家，创立信息论，并制作了会学习走迷宫的机械老鼠 Theseus，以及只会把自己关掉的“无用机器”。",
+   "known_for": [
+    "A Mathematical Theory of Communication (1948)",
+    "Theseus maze-solving mouse (1950)",
+    "Ultimate Machine (1952, after Marvin Minsky)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Claude_Shannon",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg/960px-C.E._Shannon._Tekniska_museet_43069_%282x3_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1916,
+   "died": 2001,
+   "creator_id": "claude-shannon"
+  },
+  {
+   "id": "person--kenneth-colby",
+   "name": "Kenneth Colby",
+   "type": "engineer",
+   "themes": [
+    "machine-listening",
+    "history",
+    "intimacy-care"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "American psychiatrist who wrote PARRY, a chatbot simulating a paranoid patient, which in 1972 'met' ELIZA for a machine-to-machine therapy session.",
+   "description_zh": "美国精神科医生，编写了模拟偏执症患者的聊天机器人 PARRY，1972 年它与 ELIZA“见面”，进行了一场机器对机器的心理治疗。",
+   "known_for": [
+    "PARRY (1972)",
+    "Artificial Paranoia (1975)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Colby",
+   "image": "https://www.rfc-editor.org/api/v1/meta-thumbnail/rfc439.png",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "born": 1920,
+   "died": 2001,
+   "creator_id": "kenneth-colby"
+  },
+  {
+   "id": "person--susumu-tachi",
+   "name": "Susumu Tachi",
+   "name_zh": "馆暲",
+   "type": "engineer",
+   "themes": [
+    "embodiment",
+    "east-asia"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Japanese engineer who proposed 'telexistence' in 1980 and built the TELESAR robots that let a person see, hear and feel through a remote robot body.",
+   "description_zh": "日本工程师，1980 年提出“远程存在”，研制 TELESAR 系列机器人，让人通过远端机器人身体去看、听与感受。",
+   "known_for": [
+    "Telexistence (1980)",
+    "TELESAR series (1980s–)",
+    "Optical camouflage (2003)"
+   ],
+   "url": "https://tachilab.org/en/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Susumu_Tachi"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Tachi_in_2011.jpg/960px-Tachi_in_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "born": 1946,
+   "creator_id": "susumu-tachi"
+  },
+  {
+   "id": "person--hugh-herr",
+   "name": "Hugh Herr",
+   "type": "engineer",
+   "themes": [
+    "embodiment"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American engineer and climber, a double amputee, who leads MIT's Biomechatronics group and builds bionic limbs that the body feels as its own.",
+   "description_zh": "美国工程师与攀岩者，双腿截肢者，领导麻省理工学院生物机电一体化小组，研发能被身体感知为“自己的”仿生肢体。",
+   "known_for": [
+    "BiOM bionic ankle (2010s)",
+    "Agonist-antagonist myoneural interface (2018)"
+   ],
+   "url": "https://www.media.mit.edu/people/hherr/overview/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hugh_Herr"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Hugh_Herr%2C_2013-crop.jpg/960px-Hugh_Herr%2C_2013-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1964,
+   "creator_id": "hugh-herr"
+  },
+  {
+   "id": "person--steve-mann",
+   "name": "Steve Mann",
+   "type": "engineer",
+   "themes": [
+    "machine-seeing",
+    "embodiment",
+    "classification"
+   ],
+   "fields": [
+    "perception",
+    "bodies"
+   ],
+   "description": "Canadian engineer who has lived with wearable computers and head-mounted cameras since the late 1970s and coined 'sousveillance', watching the watchers from below.",
+   "description_zh": "加拿大工程师，自 1970 年代末起一直佩戴可穿戴计算机与头戴摄像机生活，并提出“逆向监视”：自下而上地监视监视者。",
+   "known_for": [
+    "WearComp / EyeTap (late 1970s–)",
+    "Sousveillance (2002)"
+   ],
+   "url": "http://wearcam.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Steve_Mann_(inventor)"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/SteveMann_with_Generation-4_Glass_1999.jpg/960px-SteveMann_with_Generation-4_Glass_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "born": 1962,
+   "creator_id": "steve-mann"
+  },
+  {
+   "id": "person--kevin-warwick",
+   "name": "Kevin Warwick",
+   "type": "engineer",
+   "themes": [
+    "embodiment"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "British engineer who implanted an RFID chip (1998) and then a 100-electrode array in his arm (2002), linking his nervous system to a robot hand and to his wife's implant.",
+   "description_zh": "英国工程师，1998 年在手臂植入 RFID 芯片，2002 年又植入 100 电极阵列，把自己的神经系统与机械手以及妻子的植入物相连。",
+   "known_for": [
+    "Project Cyborg 1.0 (1998)",
+    "Project Cyborg 2.0 (2002)",
+    "I, Cyborg (2002)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Kevin_Warwick",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Kevin_Warwick_2011.jpg/960px-Kevin_Warwick_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Coventry, UK",
+   "based_zh": "考文垂，英国",
+   "born": 1954,
+   "creator_id": "kevin-warwick"
+  },
+  {
+   "id": "person--radhika-nagpal",
+   "name": "Radhika Nagpal",
+   "type": "engineer",
+   "themes": [
+    "agency-cocreation",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Indian-American roboticist whose thousand-robot Kilobot swarm and termite-like builders show collective behaviour emerging from simple machines.",
+   "description_zh": "印度裔美国机器人学家，她的千台 Kilobot 群体与仿白蚁建造机器人显示，集体行为可以从简单机器中涌现。",
+   "known_for": [
+    "Kilobot swarm of 1,024 robots (2014)",
+    "TERMES termite-inspired builders (2014)",
+    "Blueswarm (2021)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Radhika_Nagpal",
+   "based": "Princeton, US",
+   "based_zh": "普林斯顿，美国",
+   "creator_id": "radhika-nagpal"
+  },
+  {
+   "id": "person--michael-levin",
+   "name": "Michael Levin",
+   "type": "engineer",
+   "themes": [
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "American developmental biologist whose xenobots and anthrobots blur the line between organism and machine and who proposes a framework for recognising minds in unconventional bodies.",
+   "description_zh": "美国发育生物学家，其异种机器人与人源机器人模糊了生物与机器的界限，并提出在非常规身体中识别心智的框架。",
+   "known_for": [
+    "Xenobots (2020, with Josh Bongard and Sam Kriegman)",
+    "Anthrobots (2023)",
+    "Technological Approach to Mind Everywhere (2022)"
+   ],
+   "url": "https://drmichaellevin.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Michael_Levin_(biologist)"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Michael_Levin_2024.jpg/960px-Michael_Levin_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Medford, US",
+   "based_zh": "梅德福，美国",
+   "born": 1969,
+   "creator_id": "michael-levin"
+  },
+  {
+   "id": "person--eugenia-kuyda",
+   "name": "Eugenia Kuyda",
+   "type": "engineer",
+   "themes": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "fields": [
+    "intimacy",
+    "afterlife"
+   ],
+   "description": "Russian-born founder of Replika, which began as a chatbot built from the messages of her late friend Roman Mazurenko and became a companion app used by millions.",
+   "description_zh": "俄罗斯出生的 Replika 创始人，Replika 起源于她用已故好友 Roman Mazurenko 的聊天记录制作的聊天机器人，后来成为数百万人使用的陪伴应用。",
+   "known_for": [
+    "Roman (memorial bot of Roman Mazurenko) (2016)",
+    "Replika (2017)"
+   ],
+   "url": "https://replika.com/",
+   "image": "https://1637693156.rsc.cdn77.org/web/main-page/manhattan-landing/open_graph_image_v1.jpg",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "creator_id": "eugenia-kuyda"
+  },
+  {
+   "id": "person--blake-lemoine",
+   "name": "Blake Lemoine",
+   "type": "engineer",
+   "themes": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "American engineer who was dismissed by Google in 2022 after publicly claiming that its LaMDA chatbot was sentient, a flashpoint for debates on machine interiority.",
+   "description_zh": "美国工程师，2022 年因公开声称谷歌聊天机器人 LaMDA 具有感知能力而被解雇，成为机器内在性争论的引爆点。",
+   "known_for": [
+    "Is LaMDA Sentient? – an Interview (2022)"
+   ],
+   "url": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917",
+   "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "creator_id": "blake-lemoine"
+  }
+ ]
+}

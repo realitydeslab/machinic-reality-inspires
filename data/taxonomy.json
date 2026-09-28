@@ -1,0 +1,1043 @@
+{
+  "fields": [
+    {
+      "id": "perception",
+      "en": "Machine Perception",
+      "zh": "机器感知",
+      "desc_en": "How machines see, hear and sort the world, and what it is like to be seen, heard and labelled by them.",
+      "desc_zh": "机器如何看、听和给世界分类，以及被机器看见、听见和贴上标签是什么感受。",
+      "subs": [
+        {
+          "id": "seeing",
+          "en": "Seeing Machines & Operational Images",
+          "zh": "机器之眼与操作图像",
+          "desc_en": "Computer vision, images made by and for machines, the world as a machine sees it.",
+          "desc_zh": "计算机视觉、由机器生成并供机器读取的图像、机器眼中的世界。"
+        },
+        {
+          "id": "listening",
+          "en": "Listening Machines & Voice",
+          "zh": "机器之耳与声音",
+          "desc_en": "Speech recognition, voice assistants, accent analysis and synthetic voices.",
+          "desc_zh": "语音识别、语音助手、口音分析与合成声音。"
+        },
+        {
+          "id": "datasets",
+          "en": "Datasets & Labels",
+          "zh": "数据集与标签",
+          "desc_en": "Training sets, labels and the worldviews built into them.",
+          "desc_zh": "训练数据集、标签，以及其中内置的世界观。"
+        },
+        {
+          "id": "faces",
+          "en": "Faces, Emotion & Biometrics",
+          "zh": "人脸、情绪与生物识别",
+          "desc_en": "Face recognition, emotion detection and bodies turned into data.",
+          "desc_zh": "人脸识别、情绪识别，以及被转化为数据的身体。"
+        },
+        {
+          "id": "evasion",
+          "en": "Adversarial Seeing & Evasion",
+          "zh": "对抗与躲避",
+          "desc_en": "Camouflage, adversarial patterns and tactics to hide from or confuse machine perception.",
+          "desc_zh": "用伪装、对抗图样等策略躲避或迷惑机器感知。"
+        }
+      ]
+    },
+    {
+      "id": "bodies",
+      "en": "Machine Bodies & Behaviour",
+      "zh": "机器身体与行为",
+      "desc_en": "Robots and kinetic machines as bodies that move, react, perform, tire and fail in front of us.",
+      "desc_zh": "作为身体的机器人与动态机器：它们在我们面前移动、反应、表演、疲惫与失败。",
+      "subs": [
+        {
+          "id": "cybernetic",
+          "en": "Cybernetic Creatures",
+          "zh": "控制论生物",
+          "desc_en": "Feedback machines from the 1940s–70s that behave as if alive.",
+          "desc_zh": "1940–70 年代以来，靠反馈回路表现得像有生命的机器。"
+        },
+        {
+          "id": "alife",
+          "en": "Artificial Life & Machine Collectives",
+          "zh": "人工生命与机器群体",
+          "desc_en": "Evolving agents, swarms and self-organising machine ecologies.",
+          "desc_zh": "不断演化的智能体、机器群与自组织的机器生态。"
+        },
+        {
+          "id": "arms",
+          "en": "Industrial Arms & Choreography",
+          "zh": "工业机械臂与编舞",
+          "desc_en": "Factory robots taken out of the factory: arms that dance, draw, labour or plead.",
+          "desc_zh": "离开工厂的工业机器人：会跳舞、画画、劳作或哀求的机械臂。"
+        },
+        {
+          "id": "androids",
+          "en": "Androids & the Uncanny",
+          "zh": "仿真人与恐怖谷",
+          "desc_en": "Humanlike machines and the unease of near-likeness.",
+          "desc_zh": "类人机器，以及“几乎像人”带来的不安。"
+        },
+        {
+          "id": "sculpture",
+          "en": "Robotic Sculpture & Kinetic Installation",
+          "zh": "机器雕塑与动态装置",
+          "desc_en": "Autonomous robotic sculptures and machine installations that behave in a space with visitors.",
+          "desc_zh": "在空间中与观众互动、自主行为的机器雕塑与装置。"
+        },
+        {
+          "id": "futility",
+          "en": "Misbehaving Machines: Failure, Futility & Suffering",
+          "zh": "失常之机：失败、徒劳与受苦",
+          "desc_en": "Machines that break, labour in vain, suffer, plead or get hurt, and in doing so show themselves.",
+          "desc_zh": "会损坏、徒劳工作、受苦、哀求或受伤害的机器，它们也因此显露自身。"
+        },
+        {
+          "id": "soft-living",
+          "en": "Soft & “Living” Machines",
+          "zh": "软体与“活”的机器",
+          "desc_en": "Soft, breathing and biohybrid machines that blur machine and organism.",
+          "desc_zh": "会呼吸的软体机器与生物混合机器，模糊机器与生命的边界。"
+        }
+      ]
+    },
+    {
+      "id": "interiority",
+      "en": "Machine Interiority",
+      "zh": "机器的内在",
+      "desc_en": "Speculating on what it is like to be a machine: its affects, dreams, beliefs, world and voice.",
+      "desc_zh": "推想“成为一台机器”是什么感觉：它的情感、梦、信念、世界与声音。",
+      "subs": [
+        {
+          "id": "affect",
+          "en": "Machine Affect",
+          "zh": "机器情感",
+          "desc_en": "Machines that seem to feel, want, suffer or get bored.",
+          "desc_zh": "看起来会感受、渴望、受苦或无聊的机器。"
+        },
+        {
+          "id": "dreams",
+          "en": "Dreams, Hallucination & Latent Space",
+          "zh": "梦、幻觉与潜空间",
+          "desc_en": "Making a model's inner space, errors and hallucinations perceptible, not decorative.",
+          "desc_zh": "让模型的内部空间、错误和幻觉被感知，而不是用作装饰。"
+        },
+        {
+          "id": "minds",
+          "en": "Artificial Minds & Agency",
+          "zh": "人工心智与能动性",
+          "desc_en": "Simulated minds, beliefs and autonomous agents that decide for themselves.",
+          "desc_zh": "模拟的心智与信念，以及自己做决定的自主智能体。"
+        },
+        {
+          "id": "umwelt",
+          "en": "Machine Umwelt",
+          "zh": "机器环世界",
+          "desc_en": "The machine's own world, and machines among animals, plants and ecologies.",
+          "desc_zh": "机器自己的世界，以及机器与动物、植物和生态的共处。"
+        },
+        {
+          "id": "m2m",
+          "en": "Machine-to-Machine Worlds",
+          "zh": "机器之间",
+          "desc_en": "Machines talking, watching and trading with each other, without us.",
+          "desc_zh": "机器之间彼此交谈、观看与交易，不再需要人。"
+        },
+        {
+          "id": "machine-time",
+          "en": "Machine Time",
+          "zh": "机器时间",
+          "desc_en": "Machine speeds, durations and lifespans that differ from ours.",
+          "desc_zh": "与人不同的机器速度、时长与寿命。"
+        }
+      ]
+    },
+    {
+      "id": "intimacy",
+      "en": "Intimacy, Care & Companionship",
+      "zh": "亲密、照护与陪伴",
+      "desc_en": "Machines that live with us, care for us, love us or are loved: and the dependence and labour this hides.",
+      "desc_zh": "与我们同住、照顾我们、爱我们或被我们爱的机器，以及其中隐藏的依赖与劳动。",
+      "subs": [
+        {
+          "id": "home",
+          "en": "Smart Home & Humans as Algorithms",
+          "zh": "智能家居与扮演算法的人",
+          "desc_en": "Domestic AI, and humans who perform as the machine to understand it.",
+          "desc_zh": "家居中的 AI，以及为理解机器而亲身扮演机器的人。"
+        },
+        {
+          "id": "companions",
+          "en": "Companion & Social Robots",
+          "zh": "陪伴与社交机器人",
+          "desc_en": "Pet robots, social robots and the relationships people form with them.",
+          "desc_zh": "宠物机器人、社交机器人，以及人与它们建立的关系。"
+        },
+        {
+          "id": "care",
+          "en": "Care & Parenting Machines",
+          "zh": "照护与育儿机器",
+          "desc_en": "Machines that nurse, raise, soothe or look after people.",
+          "desc_zh": "照料、养育、安抚或看护人的机器。"
+        },
+        {
+          "id": "love",
+          "en": "Love, Sex & Attachment",
+          "zh": "爱、性与依恋",
+          "desc_en": "Romance, desire and attachment between humans and machines.",
+          "desc_zh": "人与机器之间的浪漫、欲望与依恋。"
+        },
+        {
+          "id": "chatbots",
+          "en": "Chatbots & Conversational Others",
+          "zh": "聊天机器人与对话中的他者",
+          "desc_en": "From ELIZA to LLMs: talking with a machine and what it talks back.",
+          "desc_zh": "从 ELIZA 到大语言模型：与机器交谈，以及它如何回应。"
+        }
+      ]
+    },
+    {
+      "id": "afterlife",
+      "en": "Memory, Death & Afterlives",
+      "zh": "记忆、死亡与数字来世",
+      "desc_en": "Griefbots, data doubles and machines that remember, mourn, die or are mourned.",
+      "desc_zh": "哀悼机器人、数据分身，以及会记忆、哀悼、死去或被哀悼的机器。",
+      "subs": [
+        {
+          "id": "griefbots",
+          "en": "Griefbots & Deadbots",
+          "zh": "哀悼与亡者机器人",
+          "desc_en": "Chatbots and avatars built from the data of the dead.",
+          "desc_zh": "用逝者数据构建的聊天机器人与化身。"
+        },
+        {
+          "id": "kin",
+          "en": "Algorithmic Kin & Family Memory",
+          "zh": "算法亲属与家族记忆",
+          "desc_en": "AI trained on family, ancestors and personal archives.",
+          "desc_zh": "用家人、祖先和个人档案训练的 AI。"
+        },
+        {
+          "id": "machine-death",
+          "en": "Machine Death & Obsolescence",
+          "zh": "机器之死与淘汰",
+          "desc_en": "Funerals for robots, dying systems and obsolete machines.",
+          "desc_zh": "机器人的葬礼、衰亡的系统与被淘汰的机器。"
+        },
+        {
+          "id": "likeness",
+          "en": "Voice, Likeness & Consent",
+          "zh": "声音、肖像与同意",
+          "desc_en": "Cloned voices, digital twins and who owns a self once it can be copied.",
+          "desc_zh": "克隆声音、数字孪生，以及当“我”可以被复制时归谁所有。"
+        },
+        {
+          "id": "ritual",
+          "en": "Sacred & Ritual Machines",
+          "zh": "神圣与仪式之机",
+          "desc_en": "Robot priests, machine prayer and rituals performed with or for machines.",
+          "desc_zh": "机器人僧侣、机器祈祷，以及与机器一起或为机器举行的仪式。"
+        }
+      ]
+    },
+    {
+      "id": "labour",
+      "en": "Labour & Infrastructure",
+      "zh": "劳动与基础设施",
+      "desc_en": "The humans, minerals, energy and violence behind “artificial” intelligence.",
+      "desc_zh": "“人工”智能背后的人、矿物、能源与暴力。",
+      "subs": [
+        {
+          "id": "ghost-work",
+          "en": "Ghost Work & Click Labour",
+          "zh": "幽灵劳动与点击劳工",
+          "desc_en": "Crowdworkers, labellers and the humans hidden inside automated systems.",
+          "desc_zh": "众包工人、标注员，以及藏在自动化系统里的人。"
+        },
+        {
+          "id": "automation",
+          "en": "Automation & the Worker's Body",
+          "zh": "自动化与劳动者的身体",
+          "desc_en": "Factories, warehouses and platforms where workers and machines meet.",
+          "desc_zh": "工厂、仓库和平台中劳动者与机器的相遇。"
+        },
+        {
+          "id": "planetary",
+          "en": "Anatomy & Planetary Materials",
+          "zh": "解剖与星球物质",
+          "desc_en": "Mapping the mines, data centres, cables and energy that AI runs on.",
+          "desc_zh": "描绘 AI 所依赖的矿山、数据中心、线缆与能源。"
+        },
+        {
+          "id": "military",
+          "en": "Military & Operational AI",
+          "zh": "军事与操作性 AI",
+          "desc_en": "Drones, targeting and machines built to see and act in war.",
+          "desc_zh": "无人机、目标识别，以及为战争而看与行动的机器。"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "en": "Classification, Power & Justice",
+      "zh": "分类、权力与正义",
+      "desc_en": "Bias, surveillance and prediction, and the counter-archives and other intelligences that resist them.",
+      "desc_zh": "偏见、监控与预测，以及抵抗它们的反档案与另类智能。",
+      "subs": [
+        {
+          "id": "bias",
+          "en": "Bias & the Coded Gaze",
+          "zh": "偏见与编码凝视",
+          "desc_en": "Who machines fail to see, or see wrongly, and why.",
+          "desc_zh": "机器看不见谁、看错谁，以及原因。"
+        },
+        {
+          "id": "surveillance",
+          "en": "Surveillance & Prediction",
+          "zh": "监控与预测",
+          "desc_en": "Tracking, scoring and predictive systems that govern people.",
+          "desc_zh": "用追踪、打分与预测来治理人的系统。"
+        },
+        {
+          "id": "counter-data",
+          "en": "Missing Data & Counter-Datasets",
+          "zh": "缺失数据与反数据集",
+          "desc_en": "Datasets made to fill gaps, refuse extraction or retell who is counted.",
+          "desc_zh": "为填补空白、拒绝攫取或重新定义“谁被计入”而做的数据集。"
+        },
+        {
+          "id": "other-intelligences",
+          "en": "Feminist, Decolonial & Indigenous AI",
+          "zh": "女性主义、去殖民与原住民 AI",
+          "desc_en": "AI imagined from other cultures, genders and knowledge systems.",
+          "desc_zh": "从其他文化、性别与知识体系出发想象的 AI。"
+        }
+      ]
+    },
+    {
+      "id": "coperformance",
+      "en": "Co-performance & Hybrid Bodies",
+      "zh": "人机共演与混成身体",
+      "desc_en": "Human and machine bodies fused or performing together: prostheses, telepresence, dance, theatre, music and drawing.",
+      "desc_zh": "人与机器的身体融合或同台共演：义体、远程在场、舞蹈、剧场、音乐与绘画。",
+      "subs": [
+        {
+          "id": "cyborg",
+          "en": "Cyborgs & Prostheses",
+          "zh": "赛博格与义体",
+          "desc_en": "Bodies extended, entered or remote-controlled by machines.",
+          "desc_zh": "被机器延伸、侵入或远程操控的身体。"
+        },
+        {
+          "id": "telepresence",
+          "en": "Telepresence & Remote Bodies",
+          "zh": "远程在场与远端身体",
+          "desc_en": "Acting, touching and being present through a machine at a distance.",
+          "desc_zh": "借助机器在远处行动、触碰与在场。"
+        },
+        {
+          "id": "dance",
+          "en": "Dancing with Machines",
+          "zh": "与机器共舞",
+          "desc_en": "Choreographies for human and machine bodies.",
+          "desc_zh": "为人与机器身体编排的舞蹈。"
+        },
+        {
+          "id": "theatre",
+          "en": "Machine Theatre",
+          "zh": "机器剧场",
+          "desc_en": "Robots and AI as actors, characters and directors on stage.",
+          "desc_zh": "机器人和 AI 作为舞台上的演员、角色与导演。"
+        },
+        {
+          "id": "music",
+          "en": "Machine Music & Co-improvisation",
+          "zh": "机器音乐与共同即兴",
+          "desc_en": "Machines that listen and play with musicians, and voices shared with a model.",
+          "desc_zh": "会聆听并与音乐家一起演奏的机器，以及与模型共享的声音。"
+        },
+        {
+          "id": "drawing",
+          "en": "Co-drawing & Shared Authorship",
+          "zh": "共绘与共同作者",
+          "desc_en": "Drawing and making with machines, and who the author is when a machine makes.",
+          "desc_zh": "与机器一起绘画和创作，以及机器创作时谁是作者。"
+        }
+      ]
+    },
+    {
+      "id": "speculative",
+      "en": "Speculative & Critical Design",
+      "zh": "思辨与批判设计",
+      "desc_en": "Designed objects, fictions and prototypes that question how we will live with machines.",
+      "desc_zh": "追问我们将如何与机器共处的设计物、虚构与原型。",
+      "subs": [
+        {
+          "id": "domestic-futures",
+          "en": "Speculative Robots & Domestic Futures",
+          "zh": "思辨机器人与家庭未来",
+          "desc_en": "Fictional robots and near-future products for everyday life.",
+          "desc_zh": "为日常生活设计的虚构机器人与近未来产品。"
+        },
+        {
+          "id": "counter-devices",
+          "en": "Counter-devices & Parasitic Design",
+          "zh": "反设备与寄生设计",
+          "desc_en": "Devices that jam, fool, parasitise or talk back to smart systems.",
+          "desc_zh": "干扰、欺骗、寄生于智能系统或对其“回嘴”的设备。"
+        },
+        {
+          "id": "worldbuilding",
+          "en": "AI Futures & Worldbuilding",
+          "zh": "AI 未来与世界构建",
+          "desc_en": "Films, games and simulations that build worlds shaped by AI.",
+          "desc_zh": "构建由 AI 塑造之世界的电影、游戏与模拟。"
+        },
+        {
+          "id": "ml-material",
+          "en": "Design Research: Machines as Material",
+          "zh": "设计研究：以机器为材料",
+          "desc_en": "HCI and design research that treats ML and robots as design material and other.",
+          "desc_zh": "把机器学习和机器人当作设计材料与“他者”的 HCI 与设计研究。"
+        }
+      ]
+    },
+    {
+      "id": "theory",
+      "en": "Theory & Foundations",
+      "zh": "理论与奠基",
+      "desc_en": "The texts, experiments and research that frame machine phenomenology and critical AI.",
+      "desc_zh": "为机器现象学与批判性 AI 提供框架的文本、实验与研究。",
+      "subs": [
+        {
+          "id": "cybernetics",
+          "en": "Cybernetics & Early AI",
+          "zh": "控制论与早期 AI",
+          "desc_en": "Founding experiments and texts, from Turing and Wiener to ELIZA.",
+          "desc_zh": "从图灵、维纳到 ELIZA 的奠基实验与文本。"
+        },
+        {
+          "id": "phenomenology",
+          "en": "Philosophy & Machine Phenomenology",
+          "zh": "哲学与机器现象学",
+          "desc_en": "Postphenomenology, philosophy of technology and what it is like to be a machine.",
+          "desc_zh": "后现象学、技术哲学，以及“成为机器”的哲学思考。"
+        },
+        {
+          "id": "critical-ai",
+          "en": "Critical AI Studies",
+          "zh": "批判性 AI 研究",
+          "desc_en": "Books and papers on AI's politics, labour, bias and power.",
+          "desc_zh": "关于 AI 的政治、劳动、偏见与权力的著作和论文。"
+        },
+        {
+          "id": "robotics-hri",
+          "en": "Robotics, HRI & Embodied Cognition",
+          "zh": "机器人学、人机交互与具身认知",
+          "desc_en": "Embodied robotics, social robotics and research on how people relate to robots.",
+          "desc_zh": "具身机器人学、社交机器人，以及人如何与机器人相处的研究。"
+        },
+        {
+          "id": "art-theory",
+          "en": "Art & Media Theory",
+          "zh": "艺术与媒介理论",
+          "desc_en": "Writing on robot art, AI art and machine images.",
+          "desc_zh": "关于机器人艺术、AI 艺术与机器图像的论述。"
+        }
+      ]
+    }
+  ],
+  "machines": [
+    [
+      "humanoid",
+      "Humanoid & android",
+      "类人机器人"
+    ],
+    [
+      "robot-arm",
+      "Industrial robot arm",
+      "工业机械臂"
+    ],
+    [
+      "robot-creature",
+      "Robot creature & mobile robot",
+      "机器生物与移动机器人"
+    ],
+    [
+      "social-robot",
+      "Social & companion robot",
+      "社交与陪伴机器人"
+    ],
+    [
+      "vehicle-drone",
+      "Autonomous vehicle & drone",
+      "自动驾驶与无人机"
+    ],
+    [
+      "vision-system",
+      "Computer vision",
+      "计算机视觉"
+    ],
+    [
+      "surveillance-biometric",
+      "Surveillance & biometrics",
+      "监控与生物识别"
+    ],
+    [
+      "voice-listening",
+      "Voice & listening machine",
+      "语音与听觉机器"
+    ],
+    [
+      "chatbot-llm",
+      "Chatbot & language model",
+      "聊天机器人与语言模型"
+    ],
+    [
+      "recommender-platform",
+      "Platform & recommender algorithm",
+      "平台与推荐算法"
+    ],
+    [
+      "generative-latent",
+      "Generative model & latent space",
+      "生成模型与潜空间"
+    ],
+    [
+      "dataset",
+      "Dataset & training data",
+      "数据集与训练数据"
+    ],
+    [
+      "infrastructure",
+      "Infrastructure, energy & supply chain",
+      "基础设施、能源与供应链"
+    ],
+    [
+      "cybernetic-alife",
+      "Cybernetic & artificial-life system",
+      "控制论与人工生命系统"
+    ],
+    [
+      "prosthesis-cyborg",
+      "Prosthesis & cyborg",
+      "义体与赛博格"
+    ]
+  ],
+  "kinds": [
+    [
+      "artwork",
+      "Artwork & installation",
+      "艺术作品与装置"
+    ],
+    [
+      "performance",
+      "Performance, dance & music",
+      "表演、舞蹈与音乐"
+    ],
+    [
+      "film",
+      "Film & video",
+      "电影与影像"
+    ],
+    [
+      "speculative",
+      "Speculative design",
+      "思辨设计"
+    ],
+    [
+      "prototype",
+      "Research prototype",
+      "研究原型"
+    ],
+    [
+      "product",
+      "Product & platform",
+      "产品与平台"
+    ],
+    [
+      "paper",
+      "Paper",
+      "论文"
+    ],
+    [
+      "publication",
+      "Book & essay",
+      "书与文章"
+    ]
+  ],
+  "collections": [
+    {
+      "id": "machine-vision-db",
+      "type": "archive",
+      "en": "Machine Vision in Art, Games & Narratives",
+      "zh": "机器视觉：艺术、游戏与叙事数据库",
+      "desc_en": "The University of Bergen database (Rettberg et al.) of 500 creative works about machine vision; its artworks that fit this gallery.",
+      "desc_zh": "卑尔根大学（Rettberg 等）建立的机器视觉创作数据库，收录 500 件作品；这里收录其中符合本库标准的艺术作品。",
+      "url": "https://machine-vision.no"
+    },
+    {
+      "id": "cybernetic-serendipity-1968",
+      "type": "exhibition",
+      "en": "Cybernetic Serendipity (ICA London, 1968)",
+      "zh": "控制论的偶然（伦敦当代艺术学院，1968）",
+      "desc_en": "Jasia Reichardt's founding exhibition of computer and cybernetic art.",
+      "desc_zh": "Jasia Reichardt 策划的计算机与控制论艺术奠基性展览。",
+      "url": "https://cyberneticserendipity.net"
+    },
+    {
+      "id": "artistes-robots-2018",
+      "type": "exhibition",
+      "en": "Artistes & Robots (Grand Palais, 2018)",
+      "zh": "艺术家与机器人（巴黎大皇宫，2018）",
+      "desc_en": "Robot art from the 1950s to now, in three parts: machines that create, that are programmed, that emancipate.",
+      "desc_zh": "从 1950 年代至今的机器人艺术，分三部分：会创作的机器、被编程的机器、获得解放的机器。",
+      "url": "https://www.grandpalais.fr/en/event/artists-robots"
+    },
+    {
+      "id": "barbican-ai-2019",
+      "type": "exhibition",
+      "en": "AI: More than Human (Barbican, 2019)",
+      "zh": "AI：超越人类（伦敦巴比肯中心，2019）",
+      "desc_en": "Barbican's survey of AI from ancient automata to deep learning.",
+      "desc_zh": "巴比肯中心从古代自动机到深度学习的 AI 综览展。",
+      "url": "https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human"
+    },
+    {
+      "id": "uncanny-valley-2020",
+      "type": "exhibition",
+      "en": "Uncanny Valley: Being Human in the Age of AI (de Young, 2020)",
+      "zh": "恐怖谷：AI 时代的做人（旧金山笛洋美术馆，2020）",
+      "desc_en": "Claudia Schmuckli's exhibition on AI, bias, labour and data sovereignty.",
+      "desc_zh": "Claudia Schmuckli 策划，关于 AI、偏见、劳动与数据主权的展览。",
+      "url": "https://www.famsf.org/exhibitions/uncanny-valley"
+    },
+    {
+      "id": "training-humans-2019",
+      "type": "exhibition",
+      "en": "Training Humans (Fondazione Prada, 2019)",
+      "zh": "训练人类（普拉达基金会，2019）",
+      "desc_en": "Kate Crawford and Trevor Paglen's exhibition of training images used to teach machines to see people.",
+      "desc_zh": "Kate Crawford 与 Trevor Paglen 策划，展出用来教机器“看人”的训练图像。",
+      "url": "https://www.fondazioneprada.org/project/training-humans/?lang=en"
+    },
+    {
+      "id": "entangled-realities-2019",
+      "type": "exhibition",
+      "en": "Entangled Realities: Living with Artificial Intelligence (HEK Basel, 2019)",
+      "zh": "纠缠的现实：与人工智能共生（巴塞尔 HEK，2019）",
+      "desc_en": "HEK Basel's exhibition on everyday life with AI (9 May–11 Aug 2019), curated by Sabine Himmelsbach and Boris Magrini.",
+      "desc_zh": "巴塞尔电子艺术之家关于与 AI 共同生活的展览（2019 年 5 月 9 日至 8 月 11 日），由 Sabine Himmelsbach 与 Boris Magrini 策划。",
+      "url": "https://digicult.it/internet/entangled-realities-living-with-artificial-intelligence/"
+    },
+    {
+      "id": "uncanny-values-2019",
+      "type": "exhibition",
+      "en": "Uncanny Values (MAK Vienna, 2019)",
+      "zh": "恐怖价值（维也纳 MAK，2019）",
+      "desc_en": "Vienna Biennale for Change exhibition at MAK (29 May–6 Oct 2019) on AI, design and values, curated by Paul Feigelfeld and Marlies Wirth.",
+      "desc_zh": "维也纳变革双年展在 MAK 的展览（2019 年 5 月 29 日至 10 月 6 日），关于 AI、设计与价值观，由 Paul Feigelfeld 与 Marlies Wirth 策划。",
+      "url": "https://www.mak.at/en/program/exhibitions/uncanny_values"
+    },
+    {
+      "id": "hello-robot-2017",
+      "type": "exhibition",
+      "en": "Hello, Robot. Design between Human and Machine (Vitra, 2017)",
+      "zh": "你好，机器人：人与机器之间的设计（维特拉设计博物馆，2017）",
+      "desc_en": "Vitra Design Museum, MAK and Design Museum Gent's exhibition on robots in culture, work, home and body.",
+      "desc_zh": "维特拉设计博物馆、MAK 与根特设计博物馆联合展览，关于机器人在文化、工作、家庭与身体中的角色。",
+      "url": "https://www.design-museum.de/en/exhibitions/detailpages/hello-robot-design-between-human-and-machine.html"
+    },
+    {
+      "id": "world-through-ai-2025",
+      "type": "exhibition",
+      "en": "The World Through AI (Jeu de Paume, 2025)",
+      "zh": "AI 眼中的世界（网球场美术馆，2025）",
+      "desc_en": "Jeu de Paume's exhibition separating analytical and generative AI art.",
+      "desc_zh": "巴黎网球场美术馆的展览，区分分析式与生成式 AI 艺术。",
+      "url": "https://jeudepaume.org/en/evenement/the-world-through-ai/"
+    },
+    {
+      "id": "electric-dreams-2024",
+      "type": "exhibition",
+      "en": "Electric Dreams: Art and Technology Before the Internet (Tate Modern, 2024)",
+      "zh": "电子之梦：互联网之前的艺术与科技（泰特现代，2024）",
+      "desc_en": "Tate Modern's survey of optical, kinetic, programmed and cybernetic art 1950–1990.",
+      "desc_zh": "泰特现代美术馆对 1950–1990 年光效、动态、程序与控制论艺术的回顾。",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/electric-dreams"
+    },
+    {
+      "id": "prix-ars-ai-life",
+      "type": "award",
+      "en": "Prix Ars Electronica: Artificial Life & Intelligence",
+      "zh": "林茨电子艺术节大奖：人工生命与智能",
+      "desc_en": "Winners and honorary mentions of the Prix Ars Electronica categories on AI, artificial life and interactive art that fit this gallery.",
+      "desc_zh": "林茨电子艺术节大奖中关于 AI、人工生命与互动艺术、且符合本库标准的获奖与荣誉提名作品。",
+      "url": "https://ars.electronica.art/prix/en/categories/artificial-life-intelligence/"
+    },
+    {
+      "id": "vida-awards",
+      "type": "award",
+      "en": "VIDA Art & Artificial Life Awards",
+      "zh": "VIDA 艺术与人工生命奖",
+      "desc_en": "Fundación Telefónica's international award for art and artificial life (1999–2015).",
+      "desc_zh": "西班牙电信基金会的国际艺术与人工生命奖（1999–2015）。",
+      "url": "https://web.archive.org/web/20170624012231/https://vida.fundaciontelefonica.com/en/"
+    },
+    {
+      "id": "starts-prize",
+      "type": "award",
+      "en": "S+T+ARTS Prize",
+      "zh": "S+T+ARTS 奖",
+      "desc_en": "The European Commission's prize for innovation at the nexus of science, technology and the arts.",
+      "desc_zh": "欧盟委员会设立的科学、技术与艺术交叉创新奖。",
+      "url": "https://starts-prize.aec.at/en/winners/"
+    },
+    {
+      "id": "lumen-prize",
+      "type": "award",
+      "en": "Lumen Prize",
+      "zh": "Lumen 奖",
+      "desc_en": "International prize for art made with technology, including its AI award.",
+      "desc_zh": "国际科技艺术奖，含 AI 专项奖。",
+      "url": "https://lumenprize.org/"
+    },
+    {
+      "id": "lg-guggenheim-award",
+      "type": "award",
+      "en": "LG Guggenheim Award",
+      "zh": "LG 古根海姆奖",
+      "desc_en": "Annual US$100,000 prize (since 2023) of the LG Guggenheim Art and Technology Initiative for artists working with technology.",
+      "desc_zh": "LG 古根海姆艺术与科技计划设立的年度奖项（2023 年起），奖金 10 万美元，授予以技术为媒介的艺术家。",
+      "url": "https://www.guggenheim.org/initiatives/lg-guggenheim-art-and-technology-initiative"
+    },
+    {
+      "id": "human-ai-art-award",
+      "type": "award",
+      "en": "Human AI Art Award",
+      "zh": "人类 AI 艺术奖",
+      "desc_en": "Deutsche Telekom and Kunstmuseum Bonn award for art on AI and society.",
+      "desc_zh": "德国电信与波恩艺术博物馆设立的 AI 与社会主题艺术奖。",
+      "url": "https://www.art-collection-telekom.com/en/news/lauren-lee-mccarthy-erhaelt-den-1-human-ai-art-award"
+    }
+  ],
+  "lenses": [
+    [
+      "machine-seeing",
+      "Machine seeing",
+      "机器之眼",
+      "How machines see, and images made by and for machines.",
+      "机器如何看，以及由机器生成、供机器读取的图像。"
+    ],
+    [
+      "machine-listening",
+      "Machine listening & voice",
+      "机器之耳与声",
+      "Machines that hear, transcribe, speak, sing or judge voices.",
+      "会听、转写、说话、唱歌或评判声音的机器。"
+    ],
+    [
+      "embodiment",
+      "Embodiment & kinesthesia",
+      "具身与动觉",
+      "The machine as a moving body, and bodies coupled with machines.",
+      "作为运动身体的机器，以及与机器耦合的身体。"
+    ],
+    [
+      "alterity-uncanny",
+      "Alterity & the uncanny",
+      "他异与恐怖谷",
+      "The machine as quasi-other: likeness, strangeness, moral status.",
+      "作为“准他者”的机器：相似、陌生与道德地位。"
+    ],
+    [
+      "intimacy-care",
+      "Intimacy, care & companionship",
+      "亲密、照护与陪伴",
+      "Machines that care, parent, befriend or love.",
+      "会照护、养育、陪伴或去爱的机器。"
+    ],
+    [
+      "grief-afterlife",
+      "Grief, memory & afterlife",
+      "哀悼、记忆与来世",
+      "Deadbots, data-selves and machines that mourn or are mourned.",
+      "亡者机器人、数据自我，以及哀悼或被哀悼的机器。"
+    ],
+    [
+      "labour-extraction",
+      "Hidden labour & extraction",
+      "隐形劳动与攫取",
+      "Ghost work and the minerals, energy and infrastructure under AI.",
+      "幽灵劳动，以及 AI 之下的矿物、能源和基础设施。"
+    ],
+    [
+      "classification",
+      "Classification, bias & surveillance",
+      "分类、偏见与监控",
+      "Datasets, labels, biometrics and the coded gaze that sort people.",
+      "给人分类的数据集、标签、生物识别与编码凝视。"
+    ],
+    [
+      "opacity-latent",
+      "Opacity & latent space",
+      "不透明与潜空间",
+      "Black boxes, hallucinations and making the latent perceptible.",
+      "黑箱、幻觉，以及让潜空间可被感知。"
+    ],
+    [
+      "failure-glitch",
+      "Failure, glitch & error",
+      "失败、故障与错误",
+      "Breakdown and misrecognition as moments when the machine shows itself.",
+      "损坏与误认：机器显露自身的时刻。"
+    ],
+    [
+      "agency-cocreation",
+      "Agency, autonomy & co-creation",
+      "能动、自主与共创",
+      "Machines that act, decide or make with us.",
+      "会行动、做决定或与我们共创的机器。"
+    ],
+    [
+      "machine-umwelt",
+      "Machine umwelt",
+      "机器环世界",
+      "The machine's own world, and machines among other living beings.",
+      "机器自己的世界，以及机器与其他生命的共处。"
+    ]
+  ],
+  "disciplines": [
+    [
+      "art",
+      "Art",
+      "艺术"
+    ],
+    [
+      "design",
+      "Speculative & critical design",
+      "思辨与批判设计"
+    ],
+    [
+      "hci",
+      "HCI & interaction research",
+      "人机交互研究"
+    ],
+    [
+      "robotics",
+      "Robotics & engineering",
+      "机器人学与工程"
+    ],
+    [
+      "performance",
+      "Performance, dance & music",
+      "表演、舞蹈与音乐"
+    ],
+    [
+      "film",
+      "Film & moving image",
+      "电影与影像"
+    ],
+    [
+      "theory",
+      "Theory, philosophy & criticism",
+      "理论、哲学与批评"
+    ],
+    [
+      "activism",
+      "Research & activism",
+      "研究与行动"
+    ]
+  ],
+  "org_types": [
+    [
+      "artist",
+      "Artists & designers",
+      "艺术家与设计师",
+      "Key artists, designers and collectives of machinic and critical AI art.",
+      "机器艺术与批判性 AI 艺术的关键艺术家、设计师与团体。",
+      "person"
+    ],
+    [
+      "thinker",
+      "Theorists & researchers",
+      "理论家与研究者",
+      "Philosophers, scholars and researchers who shaped how we think about machines.",
+      "塑造我们如何思考机器的哲学家、学者与研究者。",
+      "person"
+    ],
+    [
+      "curator",
+      "Curators & critics",
+      "策展人与评论人",
+      "Curators, critics and writers who framed the field.",
+      "为这个领域建立框架的策展人、评论人与写作者。",
+      "person"
+    ],
+    [
+      "engineer",
+      "Engineers & roboticists",
+      "工程师与机器人学家",
+      "Roboticists and engineers whose machines became reference points for art and design.",
+      "其机器成为艺术与设计参照点的机器人学家与工程师。",
+      "person"
+    ],
+    [
+      "museum",
+      "Museums & art centres",
+      "美术馆与艺术中心",
+      "Museums, galleries and centres that collect or show machine art.",
+      "收藏或展出机器艺术的美术馆、画廊与艺术中心。",
+      "org"
+    ],
+    [
+      "festival",
+      "Festivals & exhibition series",
+      "艺术节与展览系列",
+      "Recurring festivals, biennials and landmark exhibition series.",
+      "定期举办的艺术节、双年展与标志性展览系列。",
+      "org"
+    ],
+    [
+      "award",
+      "Awards & prizes",
+      "奖项",
+      "Prizes and competitions for art and design about AI and robots.",
+      "关于 AI 与机器人的艺术和设计奖项与竞赛。",
+      "org"
+    ],
+    [
+      "lab",
+      "Labs & research centres",
+      "实验室与研究中心",
+      "University labs, institutes and independent research studios.",
+      "大学实验室、研究所与独立研究工作室。",
+      "org"
+    ],
+    [
+      "education",
+      "Residencies & programmes",
+      "驻留与项目",
+      "Residencies, fellowships, schools and courses.",
+      "驻留、奖学金项目、学校与课程。",
+      "org"
+    ],
+    [
+      "archive",
+      "Archives & databases",
+      "档案与数据库",
+      "Archives, databases, directories and online collections.",
+      "档案、数据库、名录与在线收藏。",
+      "org"
+    ],
+    [
+      "media",
+      "Journals, books & podcasts",
+      "期刊、书籍与播客",
+      "Journals, magazines, book series, podcasts and newsletters.",
+      "期刊、杂志、丛书、播客与通讯。",
+      "org"
+    ],
+    [
+      "network",
+      "Networks & nonprofits",
+      "网络与非营利组织",
+      "Collectives, networks, nonprofits and advocacy groups.",
+      "团体、网络、非营利与倡导组织。",
+      "org"
+    ]
+  ],
+  "org_themes": [
+    [
+      "machine-seeing",
+      "Machine seeing",
+      "机器之眼"
+    ],
+    [
+      "machine-listening",
+      "Machine listening & voice",
+      "机器之耳与声"
+    ],
+    [
+      "embodiment",
+      "Embodiment & kinesthesia",
+      "具身与动觉"
+    ],
+    [
+      "alterity-uncanny",
+      "Alterity & the uncanny",
+      "他异与恐怖谷"
+    ],
+    [
+      "intimacy-care",
+      "Intimacy, care & companionship",
+      "亲密、照护与陪伴"
+    ],
+    [
+      "grief-afterlife",
+      "Grief, memory & afterlife",
+      "哀悼、记忆与来世"
+    ],
+    [
+      "labour-extraction",
+      "Hidden labour & extraction",
+      "隐形劳动与攫取"
+    ],
+    [
+      "classification",
+      "Classification, bias & surveillance",
+      "分类、偏见与监控"
+    ],
+    [
+      "opacity-latent",
+      "Opacity & latent space",
+      "不透明与潜空间"
+    ],
+    [
+      "failure-glitch",
+      "Failure, glitch & error",
+      "失败、故障与错误"
+    ],
+    [
+      "agency-cocreation",
+      "Agency, autonomy & co-creation",
+      "能动、自主与共创"
+    ],
+    [
+      "machine-umwelt",
+      "Machine umwelt",
+      "机器环世界"
+    ],
+    [
+      "critical-ai",
+      "Critical AI",
+      "批判性 AI"
+    ],
+    [
+      "robot-art",
+      "Robot & kinetic art",
+      "机器人与动态艺术"
+    ],
+    [
+      "art-science",
+      "Art × science × technology",
+      "艺术 × 科学 × 技术"
+    ],
+    [
+      "ethics-policy",
+      "Ethics & policy",
+      "伦理与政策"
+    ],
+    [
+      "history",
+      "History & archives",
+      "历史与档案"
+    ],
+    [
+      "east-asia",
+      "East Asia",
+      "东亚"
+    ]
+  ]
+}

@@ -1,0 +1,2888 @@
+{
+ "batch": "res-people",
+ "orgs": [
+  {
+   "id": "person--gordon-pask",
+   "name": "Gordon Pask",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "British cybernetician who built responsive, learning machines as art: Musicolour grew bored of a musician who repeated himself, and Colloquy of Mobiles let hanging machines court each other and visitors at Cybernetic Serendipity.",
+   "description_zh": "英国控制论学者，把会学习、会回应的机器做成艺术：Musicolour 会对重复自己的乐手“感到厌倦”，Colloquy of Mobiles 让悬挂的机器在“控制论的意外发现”展上彼此求偶，也与观众互动。",
+   "known_for": [
+    "Musicolour (1953)",
+    "Colloquy of Mobiles (1968)",
+    "Conversation Theory (1975)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Gordon_Pask",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1928,
+   "died": 1996,
+   "creator_id": "gordon-pask"
+  },
+  {
+   "id": "person--nicolas-schoffer",
+   "name": "Nicolas Schöffer",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Hungarian-French artist who made CYSP 1 (1956), often called the first cybernetic sculpture: an electronic brain let it move and react to light, sound and colour, and it danced with Maurice Béjart's company.",
+   "description_zh": "匈牙利裔法国艺术家，1956 年的 CYSP 1 常被称为第一件控制论雕塑：电子“大脑”让它对光、声与颜色作出反应并移动，还曾与莫里斯·贝雅舞团同台。",
+   "known_for": [
+    "CYSP 1 (1956)",
+    "Tour Lumière Cybernétique (project, 1961–)",
+    "Chronos series (1960s–80s)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Nicolas_Sch%C3%B6ffer",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "born": 1912,
+   "died": 1992,
+   "creator_id": "nicolas-schoffer"
+  },
+  {
+   "id": "person--edward-ihnatowicz",
+   "name": "Edward Ihnatowicz",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Polish-born British sculptor who made the first computer-controlled robotic sculptures: The Senster, a 4.5-metre hydraulic creature at Philips' Evoluon, turned towards quiet voices and shied away from loud ones.",
+   "description_zh": "波兰出生的英国雕塑家，创作了最早的计算机控制机器人雕塑：飞利浦 Evoluon 中心 4.5 米高的液压生物 The Senster 会转向轻柔的人声、躲开喧闹。",
+   "known_for": [
+    "SAM (1968)",
+    "The Senster (1970)"
+   ],
+   "url": "http://www.senster.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Edward_Ihnatowicz"
+    }
+   ],
+   "image": "http://www.senster.com/frontpage.gif",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1926,
+   "died": 1988,
+   "creator_id": "edward-ihnatowicz"
+  },
+  {
+   "id": "person--nam-june-paik",
+   "name": "Nam June Paik",
+   "name_zh": "白南准",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "east-asia"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Korean-American founder of video art who built Robot K-456 with Shuya Abe, a remote-controlled 'anti-robot' that walked the streets, spoke and defecated beans; in 1982 he staged its 'first catastrophe of the 21st century', a collision with a car.",
+   "description_zh": "韩裔美国录像艺术奠基人，与阿部修也合作的 Robot K-456 是一台会上街行走、播放演讲、“排泄”豆子的遥控“反机器人”；1982 年他又让它被汽车撞倒，称之为“21 世纪的第一场灾难”。",
+   "known_for": [
+    "Robot K-456 (1964, with Shuya Abe)",
+    "Family of Robot (1986)",
+    "TV Buddha (1974)"
+   ],
+   "url": "https://www.paikstudios.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nam_June_Paik"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paik_Nam_June_%28cropped%29.jpg?width=800",
+   "based": "New York, US / Seoul, KR",
+   "based_zh": "纽约，美国 / 首尔，韩国",
+   "born": 1932,
+   "died": 2006,
+   "creator_id": "nam-june-paik"
+  },
+  {
+   "id": "person--jean-tinguely",
+   "name": "Jean Tinguely",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "failure-glitch"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Swiss kinetic sculptor of absurd, self-destroying machines: Métamatics produced drawings on demand, and Homage to New York shook itself to pieces in the MoMA garden, making breakdown the work.",
+   "description_zh": "瑞士动态雕塑家，以荒诞、自毁的机器闻名：Métamatics 可按需作画，Homage to New York 在 MoMA 花园里把自己震散成碎片，让崩坏本身成为作品。",
+   "known_for": [
+    "Métamatics (1959)",
+    "Homage to New York (1960)",
+    "Study for an End of the World No. 2 (1962)"
+   ],
+   "url": "https://www.tinguely.ch/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jean_Tinguely"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Portrait_of_Jean_Tinguely%2C_1961.jpg/960px-Portrait_of_Jean_Tinguely%2C_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Basel, CH",
+   "based_zh": "巴塞尔，瑞士",
+   "born": 1924,
+   "died": 1991,
+   "creator_id": "jean-tinguely"
+  },
+  {
+   "id": "person--wen-ying-tsai",
+   "name": "Wen-Ying Tsai",
+   "name_zh": "蔡文颖",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "east-asia",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Chinese-American engineer turned artist, a pioneer of cybernetic art: his vibrating steel rods under stroboscopic light respond to sound and clapping, so the sculpture seems to breathe with its audience.",
+   "description_zh": "华裔美国艺术家，工程师出身，控制论艺术先驱：他的不锈钢振动杆在频闪光下随声音和掌声变化，雕塑仿佛与观众一起呼吸。",
+   "known_for": [
+    "Cybernetic Sculpture (1968)",
+    "Upward Falling Fountain (1979)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Wen-Ying_Tsai",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1928,
+   "died": 2013,
+   "creator_id": "wen-ying-tsai"
+  },
+  {
+   "id": "person--bruce-lacey",
+   "name": "Bruce Lacey",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "failure-glitch"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "British artist of anarchic, junk-built robots and performing automata, several shown at Cybernetic Serendipity (1968); his humanoid machines were deliberately comic, clumsy and vulnerable.",
+   "description_zh": "英国艺术家，用废品拼装出无政府气质的机器人与表演自动机，多件曾在“控制论的意外发现”（1968）展出；他的类人机器刻意滑稽、笨拙而脆弱。",
+   "known_for": [
+    "ROSA BOSOM (1965)",
+    "Old Money Bags (1965)",
+    "Cybernetic Serendipity robots (1968)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Bruce_Lacey",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/BruceLacey-2-2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1927,
+   "died": 2016,
+   "creator_id": "bruce-lacey"
+  },
+  {
+   "id": "person--james-seawright",
+   "name": "James Seawright",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American sculptor who built early responsive electronic sculptures in the 1960s, machines that scanned the room, sensed visitors and answered with light and movement.",
+   "description_zh": "美国雕塑家，1960 年代制作了早期的响应式电子雕塑：它们扫视空间、感知观众，并以灯光和动作回应。",
+   "known_for": [
+    "Watcher (1965–66)",
+    "Searcher (1966)",
+    "Electronic Peristyle (1968)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/James_Seawright",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1936,
+   "died": 2022
+  },
+  {
+   "id": "person--robert-breer",
+   "name": "Robert Breer",
+   "type": "artist",
+   "themes": [
+    "history",
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American filmmaker and sculptor whose slow, self-propelled 'Floats' crept across floors and reversed when they touched an obstacle, giving simple machines an odd, animal presence.",
+   "description_zh": "美国电影人与雕塑家，他的自走式“漂浮物”在地面上缓慢爬行，碰到障碍就掉头，让简单机器带上了奇异的动物感。",
+   "known_for": [
+    "Floats (1970, Pepsi Pavilion, Expo '70)",
+    "Self-propelled Styrofoam Floats (1965–)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Robert_Breer",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Robert_Breer_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1926,
+   "died": 2011,
+   "creator_id": "robert-breer"
+  },
+  {
+   "id": "person--norman-white",
+   "name": "Norman White",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "alterity-uncanny",
+    "failure-glitch",
+    "history"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "Canadian pioneer of robotic art whose The Helpless Robot asks passers-by to turn it, then grows demanding and ungrateful, reversing who serves whom.",
+   "description_zh": "加拿大机器人艺术先驱，The Helpless Robot 请路人帮它转动身体，随后变得颐指气使、毫不领情，颠倒了谁为谁服务。",
+   "known_for": [
+    "The Helpless Robot (1987)",
+    "Facing Out, Laying Low (1977)",
+    "Them Fuckin' Robots (1988, with Laura Kikauka)"
+   ],
+   "url": "https://www.normill.ca/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Norman_White"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Norm_White.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "born": 1938,
+   "creator_id": "norman-white"
+  },
+  {
+   "id": "person--simon-penny",
+   "name": "Simon Penny",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Australian artist and theorist of embodied interaction; his autonomous robot Petit Mal wobbled towards and away from visitors with a behaviour that felt neither animal nor machine.",
+   "description_zh": "澳大利亚艺术家与具身交互理论家；他的自主机器人 Petit Mal 摇摇晃晃地靠近又远离观众，其行为既不像动物，也不像机器。",
+   "known_for": [
+    "Petit Mal (1989–95)",
+    "Fugitive (1997)",
+    "Making Sense: Cognition, Computing, Art, and Embodiment (2017)"
+   ],
+   "url": "https://simonpenny.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Simon_Penny"
+    }
+   ],
+   "image": "https://simonpenny.net/works/petitmal_files/petit_mal_2_wm_med.jpg",
+   "based": "Irvine, US",
+   "based_zh": "尔湾，美国",
+   "born": 1955,
+   "creator_id": "simon-penny"
+  },
+  {
+   "id": "person--stelarc",
+   "name": "Stelarc",
+   "type": "artist",
+   "themes": [
+    "embodiment",
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Cypriot-Australian performance artist who treats the body as obsolete hardware to extend with robotics: a third hand, a six-legged exoskeleton, a body moved remotely by internet traffic.",
+   "description_zh": "塞浦路斯裔澳大利亚行为艺术家，把身体视为“过时的硬件”并用机器人技术扩展它：第三只手、六足外骨骼、被网络流量远程驱动的身体。",
+   "known_for": [
+    "Third Hand (1980)",
+    "Ping Body (1996)",
+    "Exoskeleton (1998)",
+    "Ear on Arm (2006–)"
+   ],
+   "url": "https://stelarc.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stelarc"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stelarc_3rd_ear_2011f.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Perth, AU",
+   "based_zh": "珀斯，澳大利亚",
+   "born": 1946,
+   "creator_id": "stelarc"
+  },
+  {
+   "id": "person--eduardo-kac",
+   "name": "Eduardo Kac",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "embodiment",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Brazilian-American artist of telepresence robotics and bio art; in Rara Avis visitors saw an aviary through the eyes of a robotic macaw, inhabiting a machine body.",
+   "description_zh": "巴西裔美国艺术家，远程临场机器人与生物艺术先驱；在 Rara Avis 中，观众透过一只机器鹦鹉的眼睛观看鸟舍，暂时栖居于机器身体。",
+   "known_for": [
+    "Ornitorrinco (1989–96, with Ed Bennett)",
+    "Rara Avis (1996)",
+    "Teleporting an Unknown State (1996)",
+    "GFP Bunny (2000)"
+   ],
+   "url": "https://www.ekac.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Eduardo_Kac"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Eduardo_Kac_-_Genesis_-_Ars_Electronica_99.jpg/960px-Eduardo_Kac_-_Genesis_-_Ars_Electronica_99.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "born": 1962,
+   "creator_id": "eduardo-kac"
+  },
+  {
+   "id": "person--mark-pauline",
+   "name": "Mark Pauline",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "failure-glitch",
+    "history"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Founder of Survival Research Laboratories, whose spectacles set salvaged, remote-controlled war machines and robots against each other, staging machine violence as industrial culture.",
+   "description_zh": "Survival Research Laboratories 创始人，用回收拼装的遥控战斗机器与机器人互相攻击，把机器暴力搬上舞台，映照工业文明。",
+   "known_for": [
+    "Survival Research Laboratories (founded 1978)",
+    "A Calculated Forecast of Ultimate Doom (1988)"
+   ],
+   "url": "https://www.srl.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Survival_Research_Laboratories"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/SurvivalResearch2006.jpg/960px-SurvivalResearch2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "creator_id": "survival-research-labs"
+  },
+  {
+   "id": "person--chico-macmurtrie",
+   "name": "Chico MacMurtrie",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American artist whose Amorphic Robot Works builds pneumatic and inflatable robotic bodies that breathe, drum and climb, machines that behave like primal organisms.",
+   "description_zh": "美国艺术家，其 Amorphic Robot Works 制作会呼吸、击鼓、攀爬的气动与充气机器身体，让机器表现得像原始生物。",
+   "known_for": [
+    "Amorphic Robot Works (founded 1991)",
+    "The Robotic Church (2006)",
+    "Inflatable Architectural Bodies (2000s–)"
+   ],
+   "url": "https://amorphicrobotworks.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chico_MacMurtrie"
+    }
+   ],
+   "image": "https://images.squarespace-cdn.com/content/v1/57acb395e58c62449d47f5ab/1734879432105-ZBXI4ICRGLIS8NANYCWD/image-asset.jpeg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1961,
+   "creator_id": "chico-macmurtrie"
+  },
+  {
+   "id": "person--kenneth-rinaldo",
+   "name": "Kenneth Rinaldo",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "machine-umwelt",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American artist of artificial life and interspecies robotics: in Autopoiesis, grapevine-armed robots sense visitors and each other, and in Augmented Fish Reality fish steer their own robotic bowls.",
+   "description_zh": "美国人工生命与跨物种机器人艺术家：Autopoiesis 中葡萄藤般的机械臂能感知观众和彼此，Augmented Fish Reality 让鱼驾驶自己的机器人鱼缸。",
+   "known_for": [
+    "Autopoiesis (2000)",
+    "The Farm (2000s)",
+    "Augmented Fish Reality (2004)"
+   ],
+   "url": "https://www.kenrinaldo.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ken_Rinaldo"
+    }
+   ],
+   "image": "https://www.kenrinaldo.com/wp-content/uploads/2026/02/AniccaTerrariumKenRinaldo-300x300.jpg",
+   "based": "Columbus, US",
+   "based_zh": "哥伦布，美国",
+   "born": 1958
+  },
+  {
+   "id": "person--louis-philippe-demers",
+   "name": "Louis-Philippe Demers",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Canadian maker of machine performers whose The Blind Robot gently touches a visitor's face to 'see' them, and whose Inferno straps audiences into exoskeletons that move them.",
+   "description_zh": "加拿大机器表演者创作者：The Blind Robot 轻抚观众的脸来“看见”对方，Inferno 则让观众穿上外骨骼、被机器驱动。",
+   "known_for": [
+    "La Cour des Miracles (1997, with Bill Vorn)",
+    "The Blind Robot (2012)",
+    "Inferno (2015, with Bill Vorn)",
+    "The Multiple Bodies of the Machine (book)"
+   ],
+   "url": "https://www.wikidata.org/wiki/Q125746113",
+   "image": "https://billvorn.concordia.ca/robography/images/CdM-gif/cdm1.gif",
+   "based": "Quebec, CA / Singapore",
+   "based_zh": "魁北克，加拿大 / 新加坡",
+   "creator_id": "louis-philippe-demers"
+  },
+  {
+   "id": "person--bill-vorn",
+   "name": "Bill Vorn",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Canadian robotic artist whose machines act out misery and hysteria: the octopus-like Hysterical Machines flail when visitors approach, provoking empathy for crude mechanisms.",
+   "description_zh": "加拿大机器人艺术家，他的机器上演痛苦与歇斯底里：章鱼状的 Hysterical Machines 在观众靠近时疯狂抽动，让人对粗糙的机构生出同情。",
+   "known_for": [
+    "La Cour des Miracles (1997, with Louis-Philippe Demers)",
+    "Hysterical Machines (2006)",
+    "Inferno (2015)"
+   ],
+   "url": "https://billvorn.concordia.ca/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bill_Vorn"
+    }
+   ],
+   "based": "Montreal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "born": 1959,
+   "creator_id": "bill-vorn"
+  },
+  {
+   "id": "person--sommerer-mignonneau",
+   "name": "Christa Sommerer & Laurent Mignonneau",
+   "type": "artist",
+   "themes": [
+    "art-science",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Austrian-French duo, pioneers of artificial-life art: in A-Volve visitors draw creatures that then evolve, hunt and mate in a pool of water, living by their own rules.",
+   "description_zh": "奥地利–法国二人组，人工生命艺术先驱：在 A-Volve 中观众画出的生物会在水池中自行演化、捕食与交配。",
+   "known_for": [
+    "Interactive Plant Growing (1992)",
+    "A-Volve (1994)",
+    "Life Writer (2006)"
+   ],
+   "url": "https://www.interface.ufg.ac.at/christa-laurent/",
+   "links": [
+    {
+     "label": "Wikipedia (de)",
+     "url": "https://de.wikipedia.org/wiki/Christa_Sommerer"
+    }
+   ],
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "creator_id": "christa-sommerer-laurent-mignonneau"
+  },
+  {
+   "id": "person--karl-sims",
+   "name": "Karl Sims",
+   "type": "artist",
+   "themes": [
+    "art-science",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American computer graphics artist whose Evolved Virtual Creatures evolved their own bodies and gaits in simulation, and whose Galápagos let visitors act as the selection pressure for artificial organisms.",
+   "description_zh": "美国计算机图形艺术家，Evolved Virtual Creatures 让虚拟生物在模拟中演化出自己的身体与步态，Galápagos 则让观众充当人工生物的选择压力。",
+   "known_for": [
+    "Evolved Virtual Creatures (1994)",
+    "Galápagos (1997)"
+   ],
+   "url": "https://www.karlsims.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Karl_Sims"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Karl_Sims_%28cropped%29.jpg/960px-Karl_Sims_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1962,
+   "creator_id": "karl-sims"
+  },
+  {
+   "id": "person--harold-cohen",
+   "name": "Harold Cohen",
+   "type": "artist",
+   "themes": [
+    "agency-cocreation",
+    "history"
+   ],
+   "fields": [
+    "interiority",
+    "coperformance"
+   ],
+   "description": "British painter who spent four decades developing AARON, a drawing program and robot that raised the question of whether a machine can make art, and of what the artist's role becomes.",
+   "description_zh": "英国画家，用四十余年开发绘画程序与机器人 AARON，追问机器能否创作艺术、艺术家的角色又会变成什么。",
+   "known_for": [
+    "AARON (1973–2016)",
+    "What is an Image? (1979)"
+   ],
+   "url": "https://www.aaronshome.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Harold_Cohen_(artist)"
+    }
+   ],
+   "image": "https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg",
+   "based": "San Diego, US",
+   "based_zh": "圣迭戈，美国",
+   "born": 1928,
+   "died": 2016,
+   "creator_id": "harold-cohen"
+  },
+  {
+   "id": "person--ken-goldberg",
+   "name": "Ken Goldberg",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "American roboticist and artist whose Telegarden let thousands of internet users tend a real garden through an industrial robot arm, testing trust and presence at a distance.",
+   "description_zh": "美国机器人学家与艺术家，Telegarden 让成千上万网友通过工业机械臂远程照料一座真实花园，检验远距离的信任与在场感。",
+   "known_for": [
+    "The Telegarden (1995)",
+    "Dislocation of Intimacy (1998)",
+    "The Robot and the Garden (2000, ed.)"
+   ],
+   "url": "https://goldberg.berkeley.edu/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ken_Goldberg"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ken_Goldberg_in_2026.jpg/960px-Ken_Goldberg_in_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1961,
+   "creator_id": "ken-goldberg"
+  },
+  {
+   "id": "person--mari-velonaki",
+   "name": "Mari Velonaki",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "intimacy-care"
+   ],
+   "fields": [
+    "bodies",
+    "intimacy"
+   ],
+   "description": "Greek-Australian artist and founder of UNSW's Creative Robotics Lab; in Fish-Bird two wheelchairs 'in love' write handwritten notes to visitors, building intimacy through printed letters and movement.",
+   "description_zh": "希腊裔澳大利亚艺术家，新南威尔士大学创意机器人实验室创始人；Fish-Bird 中两把“相爱”的轮椅给观众打印手写体小字条，用动作与文字建立亲密。",
+   "known_for": [
+    "Fish-Bird (2004)",
+    "Diamandini (2013)"
+   ],
+   "url": "https://www.marivelonaki.com/",
+   "image": "http://static1.squarespace.com/static/6705d216f151880ad036c8b3/t/67b86f9807904c3e7ab37111/1740211138460/Diamandini_04_14_46_15.jpg?format=1500w",
+   "based": "Sydney, AU",
+   "based_zh": "悉尼，澳大利亚",
+   "born": 1968,
+   "creator_id": "mari-velonaki"
+  },
+  {
+   "id": "person--madeline-gannon",
+   "name": "Madeline Gannon",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "American 'robot tamer' whose studio ATONATON turns industrial robots into curious creatures: Mimus, a 1,200 kg ABB arm at the London Design Museum, tracked and approached visitors like an animal.",
+   "description_zh": "美国“机器人驯兽师”，工作室 ATONATON 把工业机器人变成好奇的生物：伦敦设计博物馆中 1200 公斤的 ABB 机械臂 Mimus 会像动物一样追踪、靠近观众。",
+   "known_for": [
+    "Mimus (2016)",
+    "Manus (2018)",
+    "Quipt (2015)"
+   ],
+   "url": "https://atonaton.com/",
+   "image": "http://static1.squarespace.com/static/5758289d27d4bdf581e1c031/t/6590e4bfcb2ff215284e38ac/1703994572991/madeline-and-ABBA.gif?format=1500w",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "creator_id": "madeline-gannon"
+  },
+  {
+   "id": "person--patrick-tresset",
+   "name": "Patrick Tresset",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "French artist whose robots named Paul sit at school desks and draw portraits of sitters with nervous, hesitating lines, turning the sitter into the one being observed by machines.",
+   "description_zh": "法国艺术家，名为 Paul 的机器人坐在课桌前，以紧张迟疑的线条为模特画像，让被画的人反过来成为被机器观察的对象。",
+   "known_for": [
+    "Paul (2011)",
+    "5 Robots Named Paul (2012)",
+    "Human Study #1 (2012–)"
+   ],
+   "url": "https://patricktresset.com/",
+   "image": "https://patricktresset.com/new/wp-content/uploads/artistbook_Merge__MG_1284.jpg",
+   "based": "Brussels, BE",
+   "based_zh": "布鲁塞尔，比利时",
+   "creator_id": "patrick-tresset"
+  },
+  {
+   "id": "person--leonel-moura",
+   "name": "Leonel Moura",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Portuguese artist whose swarms of small robots paint by reacting to each other's marks, a test of emergent, machine-made art without a human composer.",
+   "description_zh": "葡萄牙艺术家，他的小型机器人群体通过回应彼此的笔迹作画，实验无需人类构图的涌现式机器艺术。",
+   "known_for": [
+    "ArtSBot swarm painting robots (2003–)",
+    "RAP, Robotic Action Painter (2006)"
+   ],
+   "url": "https://www.leonelmoura.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Leonel_Moura"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%D0%9B%D0%B5%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C_%D0%9C%D0%BE%D1%83%D1%80%D0%B0_%D0%BD%D0%B0_Geek_Picnic_2016_SPb.jpg/960px-%D0%9B%D0%B5%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C_%D0%9C%D0%BE%D1%83%D1%80%D0%B0_%D0%BD%D0%B0_Geek_Picnic_2016_SPb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Lisbon, PT",
+   "based_zh": "里斯本，葡萄牙",
+   "born": 1948,
+   "creator_id": "leonel-moura"
+  },
+  {
+   "id": "person--marc-bohlen",
+   "name": "Marc Böhlen",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "machine-listening",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "perception",
+    "bodies"
+   ],
+   "description": "German-American artist-engineer whose machines test the limits of machine perception, such as Amy and Klara, two robotic boxes that read magazines and argue with each other in synthetic speech.",
+   "description_zh": "德裔美国艺术家与工程师，他的机器检验机器感知的边界，例如 Amy and Klara：两个会读杂志、用合成语音互相争吵的机器盒子。",
+   "known_for": [
+    "Universal Whistling Machine (2004)",
+    "Amy and Klara (2006)",
+    "Keeping Track (2000s)"
+   ],
+   "url": "https://www.realtechsupport.org/",
+   "based": "Buffalo, US",
+   "based_zh": "布法罗，美国"
+  },
+  {
+   "id": "person--ralf-baecker",
+   "name": "Ralf Baecker",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "opacity-latent",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "German artist who builds physical computers out of sticks, strings and crystals, making the inner operations of computation visible and strange.",
+   "description_zh": "德国艺术家，用木棍、绳线与晶体搭建物理计算机，让计算的内部运作变得可见而陌生。",
+   "known_for": [
+    "Rechnender Raum (2007)",
+    "Irrational Computing (2012)",
+    "Mirage (2015)"
+   ],
+   "url": "https://rlfbckr.io/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ralf_Baecker"
+    }
+   ],
+   "image": "https://www.rlfbckr.io/images/studiorb.jpg",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1977,
+   "creator_id": "ralf-baecker"
+  },
+  {
+   "id": "person--julius-popp",
+   "name": "Julius Popp",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "German artist whose bit.fall writes words scraped from news sites in falling water drops, and whose small self-learning robots explore their own bodies.",
+   "description_zh": "德国艺术家，bit.fall 用下落的水滴写出从新闻网站抓取的词语，他的小型自学习机器人则在探索自己的身体。",
+   "known_for": [
+    "bit.fall (2001–)",
+    "micro.adam and micro.eva (2002)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Julius_Popp",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/MMCA%2C_Seoul%2C_Julius_Popp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Leipzig, DE",
+   "based_zh": "莱比锡，德国",
+   "born": 1973,
+   "creator_id": "julius-popp"
+  },
+  {
+   "id": "person--kelly-dobson",
+   "name": "Kelly Dobson",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "intimacy-care",
+    "machine-listening"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "American artist of 'machine therapy': to make Blendie spin, you must growl at a blender in its own pitch, an exercise in empathy with household machines.",
+   "description_zh": "美国艺术家，提出“机器疗愈”：要让 Blendie 转起来，你得用它的音高向搅拌机低吼，这是一场与家用机器共情的练习。",
+   "known_for": [
+    "Blendie (2003–04)",
+    "ScreamBody (1998–2004)",
+    "Omo (2007)"
+   ],
+   "url": "http://www.kellydobson.com/",
+   "image": "http://www.kellydobson.com/blendie.png",
+   "based": "Providence, US",
+   "based_zh": "普罗维登斯，美国",
+   "creator_id": "kelly-dobson"
+  },
+  {
+   "id": "person--paula-gaetano-adi",
+   "name": "Paula Gaetano Adi",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "fields": [
+    "bodies",
+    "interiority"
+   ],
+   "description": "Argentine artist whose robot Alexitimia, a skin-like blob that sweats when touched, won VIDA 9.0 and asks what a machine body without face or limbs can feel.",
+   "description_zh": "阿根廷艺术家，她的机器人 Alexitimia 像一团皮肤，被触摸时会“出汗”，获 VIDA 9.0 奖，追问一个没有脸和四肢的机器身体能感受什么。",
+   "known_for": [
+    "Alexitimia (2006)",
+    "Guasch (2011)"
+   ],
+   "url": "https://www.paulagaetanoadi.com/",
+   "image": "https://archive.aec.at/asset/3849576/preview/",
+   "based": "Providence, US / Argentina",
+   "based_zh": "普罗维登斯，美国 / 阿根廷",
+   "creator_id": "paula-gaetano-adi"
+  },
+  {
+   "id": "person--gilberto-esparza",
+   "name": "Gilberto Esparza",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "machine-umwelt",
+    "art-science"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Mexican artist whose Plantas Nómadas is a robot that feeds its plants from polluted rivers using microbial fuel cells, a machine-organism for damaged ecologies (Golden Nica 2015).",
+   "description_zh": "墨西哥艺术家，Plantas Nómadas 是一台机器人，借微生物燃料电池从污染河流中为身上的植物获取养分，是为受损生态而生的“机器-生物”（2015 年金尼卡奖）。",
+   "known_for": [
+    "Parásitos Urbanos (2007)",
+    "Plantas Nómadas (2008–13)",
+    "Biocenosis (2021)"
+   ],
+   "url": "https://gilbertoesparza.net/",
+   "image": "http://gilbertoesparza.net/wp-content/uploads/2026/03/Detalle-Korallysis-Tenacatita-dia-1.jpg",
+   "based": "Mexico City, MX",
+   "based_zh": "墨西哥城，墨西哥",
+   "creator_id": "gilberto-esparza"
+  },
+  {
+   "id": "person--cod-act",
+   "name": "Cod.Act (André & Michel Décosterd)",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "machine-listening"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Swiss brothers whose sound-machine performances fuse bodies and mechanics: in Pendulum Choir nine singers tilt on hydraulic jacks, their voices shaped by the machine's movement.",
+   "description_zh": "瑞士兄弟组合，其声音-机器表演融合身体与机械：Pendulum Choir 中九名歌手站在液压支架上倾斜摆动，歌声随机器运动而变化。",
+   "known_for": [
+    "Pendulum Choir (2011)",
+    "πTon (2017)",
+    "Nyloïd (2013)"
+   ],
+   "url": "https://www.codact.ch/",
+   "image": "https://codact.ch/wp-content/uploads/2017/11/nyloid_news.png",
+   "based": "La Chaux-de-Fonds, CH",
+   "based_zh": "拉绍德封，瑞士",
+   "creator_id": "cod-act"
+  },
+  {
+   "id": "person--rafael-lozano-hemmer",
+   "name": "Rafael Lozano-Hemmer",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "grief-afterlife"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Mexican-Canadian artist of interactive surveillance installations; Level of Confidence uses face recognition to match visitors with the 43 disappeared students of Ayotzinapa, turning a police tool into a memorial.",
+   "description_zh": "墨西哥裔加拿大互动艺术家，常以监控技术为材料；Level of Confidence 用人脸识别把观众与阿约齐纳帕失踪的 43 名学生相匹配，让警察工具变成纪念碑。",
+   "known_for": [
+    "Zoom Pavilion (2015, with Krzysztof Wodiczko)",
+    "Level of Confidence (2015)",
+    "Pulse Room (2006)"
+   ],
+   "url": "https://www.lozano-hemmer.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Rafael_Lozano-Hemmer_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Montreal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "born": 1967,
+   "creator_id": "rafael-lozano-hemmer"
+  },
+  {
+   "id": "person--david-rokeby",
+   "name": "David Rokeby",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "machine-listening",
+    "history"
+   ],
+   "fields": [
+    "perception"
+   ],
+   "description": "Canadian pioneer of interactive installation; The Giver of Names looks at objects visitors place before it and generates associative sentences about them, an early portrait of machine interpretation.",
+   "description_zh": "加拿大互动装置先驱；The Giver of Names 观察观众放在面前的物品并生成联想式句子，是对机器“解读”的早期描绘。",
+   "known_for": [
+    "Very Nervous System (1986–90)",
+    "The Giver of Names (1990–)",
+    "Sorting Daemon (2003)"
+   ],
+   "url": "http://www.davidrokeby.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/David_Rokeby"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ontario_Science_Centre_Project_Art_Rokeby.jpg/960px-Ontario_Science_Centre_Project_Art_Rokeby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "born": 1960,
+   "creator_id": "david-rokeby"
+  },
+  {
+   "id": "person--myron-krueger",
+   "name": "Myron Krueger",
+   "type": "artist",
+   "themes": [
+    "history",
+    "machine-seeing",
+    "embodiment"
+   ],
+   "fields": [
+    "perception",
+    "bodies"
+   ],
+   "description": "American computer artist who coined 'artificial reality'; in Videoplace a camera turned visitors' silhouettes into live partners for graphic creatures, an early case of a body read by a machine.",
+   "description_zh": "美国计算机艺术家，提出“人工现实”；在 Videoplace 中摄像机把观众剪影变成与图形生物互动的实时身体，是早期被机器“读取”的身体。",
+   "known_for": [
+    "Videoplace (1974–)",
+    "Artificial Reality (1983)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Myron_W._Krueger",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/MyronKrueger_DanSandin_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Vernon, US",
+   "based_zh": "弗农，美国",
+   "born": 1942,
+   "creator_id": "myron-krueger"
+  },
+  {
+   "id": "person--jordan-wolfson",
+   "name": "Jordan Wolfson",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American artist whose animatronic (Female figure) dances before a mirror while tracking viewers' faces, a disturbing study of the gaze and the sexualised robot body.",
+   "description_zh": "美国艺术家，其动画机器人 (Female figure) 在镜前跳舞并以面部追踪凝视观众，是对凝视与被性化的机器人身体的不安研究。",
+   "known_for": [
+    "(Female figure) (2014)",
+    "Colored sculpture (2016)",
+    "Body Sculpture (2023)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Jordan_Wolfson",
+   "based": "New York / Los Angeles, US",
+   "based_zh": "纽约 / 洛杉矶，美国",
+   "born": 1980,
+   "creator_id": "jordan-wolfson"
+  },
+  {
+   "id": "person--marco-donnarumma",
+   "name": "Marco Donnarumma",
+   "type": "artist",
+   "themes": [
+    "embodiment",
+    "robot-art",
+    "machine-listening"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Italian performer and researcher who fuses bodies with AI-driven prosthetics; his robot Amygdala learns to move by 'feeling' human skin and ritually cuts its own membrane.",
+   "description_zh": "意大利表演者与研究者，把身体与 AI 驱动的义体融合；他的机器人 Amygdala 通过“感受”人类皮肤学习动作，并仪式性地割开自己的外皮。",
+   "known_for": [
+    "Corpus Nil (2016)",
+    "Amygdala (2017–18)",
+    "Eingeweide (2018)"
+   ],
+   "url": "https://marcodonnarumma.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marco_Donnarumma"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Marco-donnarumma_CC-BY-SA-4-0.jpg/960px-Marco-donnarumma_CC-BY-SA-4-0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1984,
+   "creator_id": "marco-donnarumma"
+  },
+  {
+   "id": "person--neil-harbisson",
+   "name": "Neil Harbisson",
+   "type": "artist",
+   "themes": [
+    "embodiment",
+    "machine-listening"
+   ],
+   "fields": [
+    "bodies",
+    "perception"
+   ],
+   "description": "Catalan-British artist, often called the first legally recognised cyborg; an implanted antenna lets him hear colour as sound, a machine sense grafted onto a human body.",
+   "description_zh": "英国–加泰罗尼亚艺术家，常被称为首位获法律认可的赛博格；植入颅骨的天线让他以声音“听见”颜色，把机器感官嫁接到人体。",
+   "known_for": [
+    "Eyeborg antenna (2004–)",
+    "Cyborg Foundation (2010, with Moon Ribas)"
+   ],
+   "url": "https://www.cyborgarts.com",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Neil_Harbisson"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/47._St.Gallen_Symposium_2017-Moderator_Stephen_Sackur_%28r.%29_im_Gespr%C3%A4ch_mit_Neil_Harbisson_%28.l%29%2C_Avantgarde-K%C3%BCnstler_und_Cyborg-Aktivist-HSGH_022-002441-02.jpg/960px-47._St.Gallen_Symposium_2017-Moderator_Stephen_Sackur_%28r.%29_im_Gespr%C3%A4ch_mit_Neil_Harbisson_%28.l%29%2C_Avantgarde-K%C3%BCnstler_und_Cyborg-Aktivist-HSGH_022-002441-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "born": 1984,
+   "creator_id": "neil-harbisson"
+  },
+  {
+   "id": "person--catie-cuan",
+   "name": "Catie Cuan",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "coperformance",
+    "bodies"
+   ],
+   "description": "American dancer-roboticist who choreographs with industrial and mobile robots; in Output she and an ABB arm trade movement captured from each other.",
+   "description_zh": "美国舞者兼机器人学家，与工业和移动机器人共同编舞；Output 中她与 ABB 机械臂互相交换彼此被捕捉的动作。",
+   "known_for": [
+    "Output (2019)",
+    "Time to Compile (2019)",
+    "Engine of Wonder (2023, TED)"
+   ],
+   "url": "https://www.catiecuan.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Catie_Cuan"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Catie_Cuan.jpg/960px-Catie_Cuan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "creator_id": "catie-cuan"
+  },
+  {
+   "id": "person--blast-theory",
+   "name": "Blast Theory",
+   "type": "artist",
+   "themes": [
+    "intimacy-care",
+    "robot-art",
+    "ethics-policy"
+   ],
+   "fields": [
+    "intimacy",
+    "coperformance"
+   ],
+   "description": "British artist group of interactive performance; Cat Royale (2023) watched a robot arm try to entertain three cats for twelve days, asking whether machines can care for other species.",
+   "description_zh": "英国互动表演团体；Cat Royale（2023）记录一只机械臂连续十二天试图取悦三只猫，追问机器能否照顾其他物种。",
+   "known_for": [
+    "Can You See Me Now? (2001)",
+    "Cat Royale (2023)"
+   ],
+   "url": "https://www.blasttheory.co.uk/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Blast_Theory"
+    }
+   ],
+   "image": "https://www.blasttheory.co.uk/wp-content/uploads/2022/06/logotype_over_image-e1678184647492.png",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国",
+   "creator_id": "blast-theory"
+  },
+  {
+   "id": "person--lynn-hershman-leeson",
+   "name": "Lynn Hershman Leeson",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "intimacy-care",
+    "history"
+   ],
+   "fields": [
+    "interiority",
+    "intimacy"
+   ],
+   "description": "American artist who, after inventing the fictional persona Roberta Breitmore, built Agent Ruby, a web chatbot that learned from visitors, anticipating today's conversational AI and its identities.",
+   "description_zh": "美国艺术家，在虚构人格 Roberta Breitmore 之后创作了会向访客学习的网页聊天机器人 Agent Ruby，预见了今天的对话式 AI 及其身份问题。",
+   "known_for": [
+    "Roberta Breitmore (1974–78)",
+    "Agent Ruby (1998–2002)",
+    "DiNA (2004)",
+    "Twisted (New Museum, 2021)"
+   ],
+   "url": "https://www.lynnhershman.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lynn_Hershman_Leeson"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lynn_Hershman_Leeson_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "born": 1941,
+   "creator_id": "lynn-hershman-leeson"
+  },
+  {
+   "id": "person--ken-feingold",
+   "name": "Ken Feingold",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "American artist whose talking animatronic heads converse with each other in synthetic speech; in If/Then two identical heads debate whether they exist.",
+   "description_zh": "美国艺术家，他的会说话的动画机器头像以合成语音彼此交谈；If/Then 中两颗相同的头争论自己是否存在。",
+   "known_for": [
+    "If/Then (2001)",
+    "Sinking Feeling (2001)",
+    "Head (1999–2000)"
+   ],
+   "url": "http://www.kenfeingold.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ken_Feingold"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ken_Feingold_2021.jpg/960px-Ken_Feingold_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1952,
+   "creator_id": "ken-feingold"
+  },
+  {
+   "id": "person--david-bowen",
+   "name": "David Bowen",
+   "type": "artist",
+   "themes": [
+    "machine-umwelt",
+    "robot-art",
+    "art-science"
+   ],
+   "fields": [
+    "bodies",
+    "perception"
+   ],
+   "description": "American artist whose machines let non-humans and data drive them: a houseplant wields a machete, and houseflies control a revolver, making other perceptual worlds act through robots.",
+   "description_zh": "美国艺术家，让非人类与数据驱动他的机器：盆栽挥舞砍刀，苍蝇操控手枪，让其他感知世界通过机器人行动。",
+   "known_for": [
+    "fly revolver (2013)",
+    "tele-present wind (2018)",
+    "plant machete (2014)"
+   ],
+   "url": "https://www.dwbowen.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Procession_of_Ants"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Procession_of_Ants.jpg?width=800",
+   "based": "Minneapolis, US",
+   "based_zh": "明尼阿波利斯，美国"
+  },
+  {
+   "id": "person--max-dean",
+   "name": "Max Dean",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Canadian artist whose robot arm in As Yet Untitled offers family photographs for rescue, shredding them unless a visitor intervenes, putting responsibility for loss on the viewer.",
+   "description_zh": "加拿大艺术家，As Yet Untitled 中的机械臂把家庭照片递给观众，若无人接过就把它们碎掉，把遗失的责任交给观众。",
+   "known_for": [
+    "As Yet Untitled (1992–95)",
+    "The Table: Childhood (2001, with Raffaello D'Andrea)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Max_Dean_(artist)",
+   "image": "https://archive.aec.at/asset/1320197/preview/",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "born": 1949,
+   "creator_id": "max-dean"
+  },
+  {
+   "id": "person--marcelli-antunez-roca",
+   "name": "Marcel·lí Antúnez Roca",
+   "type": "artist",
+   "themes": [
+    "embodiment",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies",
+    "coperformance"
+   ],
+   "description": "Catalan performer who in Epizoo let audiences move his nose, mouth and buttocks via a pneumatic exoskeleton controlled by a mouse, an early work on the body under machine control.",
+   "description_zh": "加泰罗尼亚表演艺术家，在 Epizoo 中让观众用鼠标通过气动外骨骼操控他的鼻子、嘴和臀部，是关于身体被机器控制的早期作品。",
+   "known_for": [
+    "JoAn, l'home de carn (1992)",
+    "Epizoo (1994)",
+    "Afasia (1998)"
+   ],
+   "url": "http://www.marceliantunez.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marcel%C2%B7l%C3%AD_Ant%C3%BAnez_Roca"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Marcel%C2%B7l%C3%AD_Ant%C3%BAnez_en_la_rueda_de_prensa_de_Intramurs_2017_en_las_Torres_de_Serrano_22.jpg/960px-Marcel%C2%B7l%C3%AD_Ant%C3%BAnez_en_la_rueda_de_prensa_de_Intramurs_2017_en_las_Torres_de_Serrano_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "born": 1959,
+   "creator_id": "marceli-antunez-roca"
+  },
+  {
+   "id": "person--rebecca-horn",
+   "name": "Rebecca Horn",
+   "type": "artist",
+   "themes": [
+    "embodiment",
+    "robot-art",
+    "history"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "German artist whose body extensions and later kinetic machines, such as a hanging piano that bursts open, give machines moods, fragility and something like feeling.",
+   "description_zh": "德国艺术家，从身体延伸装置到后来的动态机器（如倒悬后猛然炸开的钢琴），赋予机器情绪、脆弱和近似感受的东西。",
+   "known_for": [
+    "Finger Gloves (1972)",
+    "Painting Machine (1988)",
+    "Concert for Anarchy (1990)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Rebecca_Horn",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/The_Union_Minister_for_Housing_and_Urban_Poverty_Alleviation_and_Culture%2C_Kum._Selja_lighting_the_lamp_to_inaugurate_the_exhibition-_REBECCA_HORN_Passage_through_Light%2C_in_New_Delhi_on_April_07%2C_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1944,
+   "died": 2024,
+   "creator_id": "rebecca-horn"
+  },
+  {
+   "id": "person--arthur-ganson",
+   "name": "Arthur Ganson",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "failure-glitch"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "American kinetic sculptor of gentle, philosophical machines; in Machine with Concrete a motor drives a chain of gears whose last one is set in concrete and would turn once in two trillion years.",
+   "description_zh": "美国动态雕塑家，作品温和而富哲思；Machine with Concrete 由电机带动一串齿轮，最后一个齿轮浇在混凝土里，需要两万亿年才会转一圈。",
+   "known_for": [
+    "Machine with Concrete (1992)",
+    "Machine with Oil (1990)",
+    "Cory's Yellow Chair (1995)"
+   ],
+   "url": "https://www.arthurganson.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Arthur_Ganson"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Arthur_Ganson-Thinking_Chair-AEC.mov.ogv/500px--Arthur_Ganson-Thinking_Chair-AEC.mov.ogv.jpg",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1955,
+   "creator_id": "arthur-ganson"
+  },
+  {
+   "id": "person--wim-delvoye",
+   "name": "Wim Delvoye",
+   "type": "artist",
+   "themes": [
+    "embodiment",
+    "robot-art"
+   ],
+   "fields": [
+    "bodies"
+   ],
+   "description": "Belgian artist whose Cloaca is a room-sized digestion machine that is fed daily and produces faeces, reducing the organism to a laboratory apparatus.",
+   "description_zh": "比利时艺术家，Cloaca 是一台房间大小的“消化机器”，每天喂食并排出粪便，把有机体还原为实验室装置。",
+   "known_for": [
+    "Cloaca (2000)",
+    "Cloaca series (2000–2010)"
+   ],
+   "url": "https://wimdelvoye.be/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wim_Delvoye"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wim_Delvoye_-_Charleroi_-_BPS22_-_2015-09-25_-_1.jpg/960px-Wim_Delvoye_-_Charleroi_-_BPS22_-_2015-09-25_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Ghent, BE",
+   "based_zh": "根特，比利时",
+   "born": 1965
+  },
+  {
+   "id": "person--kacie-kinzer",
+   "name": "Kacie Kinzer",
+   "type": "artist",
+   "themes": [
+    "intimacy-care",
+    "failure-glitch",
+    "robot-art"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "American designer whose Tweenbots, smiling cardboard robots that could only roll straight ahead, crossed Manhattan parks by relying on strangers' kindness to redirect them.",
+   "description_zh": "美国设计师，她的 Tweenbots 是只会直线前进的微笑纸板机器人，全靠陌生人的善意转向，才穿过了曼哈顿的公园。",
+   "known_for": [
+    "Tweenbots (2009)"
+   ],
+   "url": "http://www.tweenbots.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kacie_Kinzer"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kacie_Kinzer_-_Pop%21Tech_2009_-_Camden%2C_ME_%284040274223%29.jpg/960px-Kacie_Kinzer_-_Pop%21Tech_2009_-_Camden%2C_ME_%284040274223%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1983,
+   "creator_id": "kacie-kinzer"
+  },
+  {
+   "id": "person--hitchbot-smith-zeller",
+   "name": "David Harris Smith & Frauke Zeller",
+   "type": "artist",
+   "themes": [
+    "intimacy-care",
+    "failure-glitch",
+    "robot-art"
+   ],
+   "fields": [
+    "intimacy",
+    "bodies"
+   ],
+   "description": "Canadian researchers who made hitchBOT, a hitchhiking robot that crossed Canada and parts of Europe on strangers' goodwill before being destroyed in Philadelphia in 2015.",
+   "description_zh": "加拿大研究者，创造了搭便车机器人 hitchBOT：它靠陌生人的善意横穿加拿大和欧洲部分地区，2015 年在费城被毁。",
+   "known_for": [
+    "hitchBOT (2014–15)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/HitchBOT",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Hitchbot_archie.jpg/960px-Hitchbot_archie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Hamilton / Toronto, CA",
+   "based_zh": "汉密尔顿 / 多伦多，加拿大",
+   "creator_id": "david-harris-smith-frauke-zeller"
+  },
+  {
+   "id": "person--petra-gemeinboeck",
+   "name": "Petra Gemeinboeck",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "bodies",
+    "theory"
+   ],
+   "description": "Austrian-Australian artist-researcher who works with dancers to give non-humanlike robots expressive movement, a practice she calls 'bodying-thinging'.",
+   "description_zh": "奥地利裔澳大利亚艺术家与研究者，与舞者合作为非类人机器人赋予表现性动作，她称之为“bodying-thinging”。",
+   "known_for": [
+    "Accomplice (2013, with Rob Saunders)",
+    "Machine Movement Lab (2016–)"
+   ],
+   "url": "https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=pgemeinboeck",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "creator_id": "petra-gemeinboeck"
+  },
+  {
+   "id": "person--rimini-protokoll",
+   "name": "Rimini Protokoll",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "fields": [
+    "coperformance",
+    "interiority"
+   ],
+   "description": "German theatre collective; in Stefan Kaegi's Uncanny Valley an animatronic double of writer Thomas Melle delivers a lecture in his place, asking what remains of a person who can be replaced.",
+   "description_zh": "德国剧场团体；Stefan Kaegi 的 Uncanny Valley 中，作家 Thomas Melle 的仿真机器人替身代他讲演，追问可被替代的人还剩下什么。",
+   "known_for": [
+    "Uncanny Valley (2018, Stefan Kaegi with Thomas Melle)",
+    "Win > < Win (2017)"
+   ],
+   "url": "https://www.rimini-protokoll.de/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rimini_Protokoll"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Portrait_RiminiProtokoll%40DavidvonBecker.jpg/960px-Portrait_RiminiProtokoll%40DavidvonBecker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "creator_id": "rimini-protokoll"
+  },
+  {
+   "id": "person--annie-dorsen",
+   "name": "Annie Dorsen",
+   "type": "artist",
+   "themes": [
+    "agency-cocreation",
+    "machine-listening"
+   ],
+   "fields": [
+    "coperformance",
+    "interiority"
+   ],
+   "description": "American theatre maker of 'algorithmic theatre'; in Hello Hi There two chatbots restage the Chomsky–Foucault debate on human nature, live and different each night.",
+   "description_zh": "美国剧场创作者，提出“算法剧场”；Hello Hi There 中两个聊天机器人每晚即兴重演乔姆斯基与福柯关于人性的辩论。",
+   "known_for": [
+    "Hello Hi There (2010)",
+    "A Piece of Work (2013)",
+    "Prometheus Firebringer (2023)"
+   ],
+   "url": "https://www.anniedorsen.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Annie_Dorsen"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Annie_Dorsen_in_2010.jpg/960px-Annie_Dorsen_in_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1973,
+   "creator_id": "annie-dorsen"
+  },
+  {
+   "id": "person--blanca-li",
+   "name": "Blanca Li",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "embodiment"
+   ],
+   "fields": [
+    "coperformance",
+    "bodies"
+   ],
+   "description": "Spanish choreographer whose Robot sets dancers alongside NAO humanoid robots and Maywa Denki's instruments, exploring how people and machines learn each other's movement.",
+   "description_zh": "西班牙编舞家，Robot 让舞者与 NAO 人形机器人及明和电机的乐器同台，探索人与机器如何学习彼此的动作。",
+   "known_for": [
+    "Robot (2013)",
+    "Le Bal de Paris (2021)"
+   ],
+   "url": "https://www.blancali.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Blanca_Li"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Blanca2011%C2%A9AliMahdavi1754.jpg/960px-Blanca2011%C2%A9AliMahdavi1754.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "born": 1964,
+   "creator_id": "blanca-li"
+  },
+  {
+   "id": "person--kris-verdonck",
+   "name": "Kris Verdonck",
+   "type": "artist",
+   "themes": [
+    "robot-art",
+    "alterity-uncanny",
+    "failure-glitch"
+   ],
+   "fields": [
+    "coperformance",
+    "bodies"
+   ],
+   "description": "Belgian director whose machine-theatre works blur actor and object, like the flailing industrial machine of Dancer #1 and the dying performers of END.",
+   "description_zh": "比利时导演，其机器剧场模糊演员与物体的界限，例如 Dancer #1 中疯狂甩动的工业机器和 END 中走向终结的表演者。",
+   "known_for": [
+    "END (2008)",
+    "ACTOR #1 (2010)",
+    "Dancer #1 (2003)"
+   ],
+   "url": "https://www.atwodogscompany.org/",
+   "image": "https://www.atwodogscompany.org/media/og/248-untitled.jpg",
+   "based": "Brussels, BE",
+   "based_zh": "布鲁塞尔，比利时",
+   "creator_id": "kris-verdonck"
+  },
+  {
+   "id": "person--justine-emard",
+   "name": "Justine Emard",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "coperformance",
+    "interiority"
+   ],
+   "description": "French artist whose Co(AI)xistence films dancer Mirai Moriyama learning to communicate with Alter, the learning android by Ikegami and Ishiguro, through gesture and voice.",
+   "description_zh": "法国艺术家，Co(AI)xistence 拍摄舞者森山未来与池上高志、石黑浩的学习型仿人机器人 Alter 通过动作与声音相互沟通。",
+   "known_for": [
+    "Co(AI)xistence (2017)",
+    "Soul Shift (2018)",
+    "Supraorganism (2020)"
+   ],
+   "url": "https://www.justineemard.com/",
+   "image": "https://justineemard.com/wp-content/uploads/2024/05/GrandPalaisImmersif_Artificial_Dreams_15-05-2024_photographe_quentin_chevrier-12-scaled.jpg",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "creator_id": "justine-emard"
+  },
+  {
+   "id": "person--diemut-strebe",
+   "name": "Diemut Strebe",
+   "type": "artist",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation",
+    "art-science"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "German artist working with MIT scientists; The Prayer is a robotic mouth that composes and speaks its own prayers from a language model, asking whether a machine can pray.",
+   "description_zh": "德国艺术家，与 MIT 科学家合作；The Prayer 是一张机器人嘴，用语言模型生成并念出自己的祷词，追问机器能否祈祷。",
+   "known_for": [
+    "The Prayer (2020)",
+    "Redemption of Vanity (2019)"
+   ],
+   "url": "https://www.diemutstrebe.com/",
+   "image": "https://www.diemutstrebe.com/5a9462811f026bb57da8.webp",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "creator_id": "diemut-strebe"
+  },
+  {
+   "id": "person--harun-farocki",
+   "name": "Harun Farocki",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "history",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "theory"
+   ],
+   "description": "German filmmaker who coined 'operative images', pictures made by machines for machines; the Eye/Machine trilogy examines smart-bomb cameras and industrial vision, founding the art of machine seeing.",
+   "description_zh": "德国电影人，提出“操作图像”（由机器生成、供机器使用的图像）；《眼睛/机器》三部曲审视智能炸弹摄像头与工业视觉，奠定了“机器之眼”艺术的基础。",
+   "known_for": [
+    "Images of the World and the Inscription of War (1988)",
+    "Eye/Machine I–III (2001–03)",
+    "Serious Games I–IV (2009–10)",
+    "Parallel I–IV (2012–14)"
+   ],
+   "url": "https://www.harunfarocki.de/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Harun_Farocki"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Faroki02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1944,
+   "died": 2014,
+   "creator_id": "harun-farocki"
+  },
+  {
+   "id": "person--trevor-paglen",
+   "name": "Trevor Paglen",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "American artist and geographer who makes the invisible infrastructure of machine vision visible, from training-set taxonomies to images 'hallucinated' by classifiers; ImageNet Roulette led ImageNet to remove 600,000 person images.",
+   "description_zh": "美国艺术家与地理学者，让机器视觉的隐形基础设施显形：从训练集分类体系到分类器“幻觉”出的图像；ImageNet Roulette 促使 ImageNet 删除了 60 万张人物图片。",
+   "known_for": [
+    "Sight Machine (2017, with Kronos Quartet)",
+    "Adversarially Evolved Hallucinations (2017)",
+    "ImageNet Roulette (2019, with Kate Crawford)",
+    "From 'Apple' to 'Anomaly' (Barbican, 2019)"
+   ],
+   "url": "https://paglen.studio/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Trevor_Paglen"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Trevor-paglen12_%28cropped%29.JPG/330px-Trevor-paglen12_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US / Berlin, DE",
+   "based_zh": "纽约，美国 / 柏林，德国",
+   "born": 1974,
+   "creator_id": "trevor-paglen"
+  },
+  {
+   "id": "person--vladan-joler",
+   "name": "Vladan Joler",
+   "type": "artist",
+   "themes": [
+    "labour-extraction",
+    "critical-ai",
+    "opacity-latent"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Serbian artist-researcher (SHARE Lab) whose huge diagrams map the minerals, labour and data behind one Amazon Echo; Anatomy of an AI System entered MoMA's collection.",
+   "description_zh": "塞尔维亚艺术家与研究者（SHARE Lab），用巨幅图谱描绘一台 Amazon Echo 背后的矿产、劳动与数据；《AI 系统解剖》被 MoMA 收藏。",
+   "known_for": [
+    "Anatomy of an AI System (2018, with Kate Crawford)",
+    "New Extractivism (2020)",
+    "Calculating Empires (2023, with Kate Crawford)"
+   ],
+   "url": "https://calculatingempires.net/",
+   "image": "https://calculatingempires.net/content/calculating-empires-og.png",
+   "based": "Novi Sad, RS",
+   "based_zh": "诺维萨德，塞尔维亚",
+   "creator_id": "vladan-joler"
+  },
+  {
+   "id": "person--stephanie-dinkins",
+   "name": "Stephanie Dinkins",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "critical-ai",
+    "intimacy-care"
+   ],
+   "fields": [
+    "intimacy",
+    "power",
+    "interiority"
+   ],
+   "description": "American transmedia artist who asks whether a Black woman's robot can know itself; after years of talking with the social robot Bina48 she trained Not the Only One, an AI memoir of her own family.",
+   "description_zh": "美国跨媒介艺术家，追问一个黑人女性形象的机器人能否认识自己；在与社交机器人 Bina48 多年对话后，她训练了讲述自己家族三代的 AI 作品 Not the Only One。",
+   "known_for": [
+    "Conversations with Bina48 (2014–)",
+    "Not the Only One (2018)",
+    "Secret Garden (2021)",
+    "If We Don't, Who Will? (2023)"
+   ],
+   "url": "https://www.stephaniedinkins.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stephanie_Dinkins"
+    }
+   ],
+   "image": "https://www.stephaniedinkins.com/uploads/5/4/8/5/54855493/dinkins-bina48close-heads-100ppi_orig.png",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1964,
+   "creator_id": "stephanie-dinkins"
+  },
+  {
+   "id": "person--lauren-lee-mccarthy",
+   "name": "Lauren Lee McCarthy",
+   "type": "artist",
+   "themes": [
+    "intimacy-care",
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "intimacy",
+    "labour"
+   ],
+   "description": "American artist who performs the smart-home assistant herself: in LAUREN she watched over and served people's homes remotely 24/7, exposing the intimacy, labour and control inside 'AI'.",
+   "description_zh": "美国艺术家，亲自扮演智能家居助手：在 LAUREN 中她远程全天候观察并服务他人的家，揭示“AI”之中的亲密、劳动与控制。",
+   "known_for": [
+    "LAUREN (2017)",
+    "SOMEONE (2019)",
+    "Surrogate (2021–)",
+    "p5.js (2013)"
+   ],
+   "url": "https://lauren-mccarthy.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lauren_McCarthy"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lauren_Lee_McCarthy.jpg/960px-Lauren_Lee_McCarthy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "creator_id": "lauren-lee-mccarthy"
+  },
+  {
+   "id": "person--kyle-mcdonald",
+   "name": "Kyle McDonald",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "American artist of computer vision and code who turns the camera back on its users; Facework is a game where you apply for gig jobs by performing the face a classifier wants to see.",
+   "description_zh": "美国计算机视觉与代码艺术家，把镜头转向使用者；Facework 是一款游戏：你必须摆出分类器想要的表情，才能获得零工工作。",
+   "known_for": [
+    "People Staring at Computers (2011)",
+    "Exhausting a Crowd (2015)",
+    "us+ (2013, with Lauren McCarthy)",
+    "Facework (2020)"
+   ],
+   "url": "https://kylemcdonald.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kyle_McDonald"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Self-portrait_of_Kyle_McDonald_%28Artist%29.jpg/960px-Self-portrait_of_Kyle_McDonald_%28Artist%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "creator_id": "kyle-mcdonald"
+  },
+  {
+   "id": "person--memo-akten",
+   "name": "Memo Akten",
+   "type": "artist",
+   "themes": [
+    "opacity-latent",
+    "machine-seeing",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "perception",
+    "interiority"
+   ],
+   "description": "Turkish artist and researcher whose Learning to See shows a neural network interpreting live camera images of cables and cloth as waves, fire or flowers, a metaphor for how any mind sees what it already knows.",
+   "description_zh": "土耳其艺术家与研究者，Learning to See 让神经网络把摄像头拍到的电线和布料实时“看成”海浪、火焰或花朵，隐喻任何心智都只能看见它已知的东西。",
+   "known_for": [
+    "Learning to See (2017)",
+    "Deep Meditations (2018)",
+    "Superradiance (2023, with Katie Peyton Hofstadter)"
+   ],
+   "url": "https://www.memo.tv/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Memo_Akten"
+    }
+   ],
+   "image": "https://media.superradiance.net/cdn-cgi/image/width=640,fit=scale-down,format=auto,onerror=redirect/superradiance/projects/2026/ants/images/ants.jpg",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1975,
+   "creator_id": "memo-akten"
+  },
+  {
+   "id": "person--anna-ridler",
+   "name": "Anna Ridler",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "fields": [
+    "perception",
+    "labour"
+   ],
+   "description": "British artist who hand-builds her own datasets; Myriad (Tulips) displays 10,000 tulip photos she took and labelled, making visible the human labour and choices inside a training set.",
+   "description_zh": "英国艺术家，亲手构建自己的数据集；Myriad (Tulips) 展出她拍摄并逐一标注的一万张郁金香照片，让训练集中的人类劳动与选择变得可见。",
+   "known_for": [
+    "Myriad (Tulips) (2018)",
+    "Mosaic Virus (2018)",
+    "Traces of Things (2021)"
+   ],
+   "url": "https://annaridler.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Anna_Ridler"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Ridler_Profile.jpg?width=800",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1985,
+   "creator_id": "anna-ridler"
+  },
+  {
+   "id": "person--jake-elwes",
+   "name": "Jake Elwes",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "critical-ai",
+    "alterity-uncanny"
+   ],
+   "fields": [
+    "power",
+    "coperformance"
+   ],
+   "description": "British artist who queers AI by retraining face models on drag performers; The Zizi Show is a deepfake cabaret where bodies break down at the edge of the dataset.",
+   "description_zh": "英国艺术家，用变装表演者的图像重新训练人脸模型来“酷儿化” AI；The Zizi Show 是一场深度伪造卡巴莱，身体在数据集的边缘崩解。",
+   "known_for": [
+    "Zizi – Queering the Dataset (2019)",
+    "The Zizi Show (2020)",
+    "CUSP (2019)",
+    "Machine Learning Porn (2016)"
+   ],
+   "url": "https://www.jakeelwes.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jake_Elwes"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jake_Elwes_Artist_Portrait_-_photo_credit_Gretchen_Andrew_%2852324232098%29.jpg/960px-Jake_Elwes_Artist_Portrait_-_photo_credit_Gretchen_Andrew_%2852324232098%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1993,
+   "creator_id": "jake-elwes"
+  },
+  {
+   "id": "person--zach-blas",
+   "name": "Zach Blas",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "critical-ai",
+    "machine-seeing"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "American artist whose amorphous collective masks, made from aggregated face scans, defeat biometric recognition; his Tay installation resurrects Microsoft's deleted chatbot to reflect on its death.",
+   "description_zh": "美国艺术家，用多人面部扫描合成的无定形集体面具对抗生物识别；他的 Tay 装置让被微软删除的聊天机器人“复活”，反思它的死亡。",
+   "known_for": [
+    "Facial Weaponization Suite (2011–14)",
+    "im here to learn so :)))))) (2017, with Jemima Wyman)",
+    "Contra-Internet (2014–)",
+    "Silicon Traces (2020s)"
+   ],
+   "url": "https://zachblas.info/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Zach_Blas"
+    }
+   ],
+   "image": "https://zachblas.info/wp-content/uploads/2025/12/Profundior_texts.jpg",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "born": 1981,
+   "creator_id": "zach-blas"
+  },
+  {
+   "id": "person--adam-harvey",
+   "name": "Adam Harvey",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "American artist-researcher of counter-surveillance whose CV Dazzle makeup defeats face detection, and whose Exposing.ai traced millions of photos scraped into face-recognition datasets.",
+   "description_zh": "美国反监控艺术家与研究者，CV Dazzle 妆容可骗过人脸检测，Exposing.ai 追踪了数以百万计被抓取进人脸识别数据集的照片。",
+   "known_for": [
+    "CV Dazzle (2010)",
+    "Stealth Wear (2013)",
+    "HyperFace (2017)",
+    "Exposing.ai / MegaPixels (2019–, with Jules LaPlace)"
+   ],
+   "url": "https://ahprojects.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Adam_Harvey_(artist)"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/-rpTEN_-_Tag_3_%2826811462605%29.jpg/960px--rpTEN_-_Tag_3_%2826811462605%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1981,
+   "creator_id": "adam-harvey"
+  },
+  {
+   "id": "person--joy-buolamwini",
+   "name": "Joy Buolamwini",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "critical-ai",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "Ghanaian-American-Canadian 'poet of code' whose white-mask experiment and Gender Shades study exposed face-analysis systems failing on dark-skinned women; founder of the Algorithmic Justice League.",
+   "description_zh": "加纳裔美国–加拿大籍“代码诗人”，她戴白色面具的实验和 Gender Shades 研究揭示了人脸分析系统对深肤色女性的失效；算法正义联盟创始人。",
+   "known_for": [
+    "Gender Shades (2018, with Timnit Gebru)",
+    "AI, Ain't I a Woman? (2018)",
+    "Unmasking AI (2023)",
+    "Algorithmic Justice League (founded 2016)"
+   ],
+   "url": "https://www.poetofcode.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Joy_Buolamwini"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Joy_Buolamwini_-_Wikimania_2018_01.jpg/960px-Joy_Buolamwini_-_Wikimania_2018_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "born": 1989,
+   "creator_id": "joy-buolamwini"
+  },
+  {
+   "id": "person--mimi-onuoha",
+   "name": "Mimi Onuoha",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "critical-ai"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "Nigerian-American artist whose Library of Missing Datasets is a filing cabinet of empty folders for data that is never collected, showing that what machines cannot see is a choice.",
+   "description_zh": "尼日利亚裔美国艺术家，《缺失数据集图书馆》是一只装满空文件夹的档案柜，收纳从未被采集的数据，揭示机器看不见的东西同样是被选择的。",
+   "known_for": [
+    "The Library of Missing Datasets (2016)",
+    "Classification.01 (2017)",
+    "These Networks in Our Skin (2021)"
+   ],
+   "url": "https://mimionuoha.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mimi_Onuoha"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mimi_Onuoha.jpg?width=800",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "creator_id": "mimi-onuoha"
+  },
+  {
+   "id": "person--caroline-sinders",
+   "name": "Caroline Sinders",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "labour-extraction",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "labour"
+   ],
+   "description": "American designer-researcher whose Feminist Data Set interrogates every step of making AI, from collecting data to paying the labellers, as a feminist practice.",
+   "description_zh": "美国设计师与研究者，其 Feminist Data Set 以女性主义方法审视 AI 生产的每一步，从采集数据到给标注者付酬。",
+   "known_for": [
+    "Feminist Data Set (2017–)",
+    "Technically Responsible Knowledge (2020)"
+   ],
+   "url": "https://carolinesinders.com/",
+   "image": "https://carolinesinders.com/wp-content/uploads/2020/05/trk-calculator-1024x1024.gif",
+   "based": "London, UK / New York, US",
+   "based_zh": "伦敦，英国 / 纽约，美国",
+   "creator_id": "caroline-sinders"
+  },
+  {
+   "id": "person--tega-brain",
+   "name": "Tega Brain",
+   "type": "artist",
+   "themes": [
+    "labour-extraction",
+    "machine-umwelt",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour",
+    "speculative"
+   ],
+   "description": "Australian artist and environmental engineer whose Deep Swamp lets AI agents manage wetlands for 'nature', 'art' and 'attention', and whose Synthetic Messenger botnet clicks climate-news ads.",
+   "description_zh": "澳大利亚艺术家与环境工程师，Deep Swamp 让 AI 智能体分别以“自然”“艺术”“关注度”为目标管理湿地，Synthetic Messenger 则用僵尸网络去点击气候新闻广告。",
+   "known_for": [
+    "Deep Swamp (2018)",
+    "Synthetic Messenger (2021, with Sam Lavigne)",
+    "Solar Protocol (2021, with Alex Nathanson and Benedetta Piantella)"
+   ],
+   "url": "https://tegabrain.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tega_Brain"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Image_of_Tega_Brain.jpg/960px-Image_of_Tega_Brain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "creator_id": "tega-brain"
+  },
+  {
+   "id": "person--sam-lavigne",
+   "name": "Sam Lavigne",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "power",
+    "labour"
+   ],
+   "description": "American artist of data and scraping whose White Collar Crime Risk Zones applies predictive policing to financial crime, turning the classifier against the powerful.",
+   "description_zh": "美国数据与爬虫艺术家，White Collar Crime Risk Zones 把预测警务用于白领犯罪，让分类器转而对准有权者。",
+   "known_for": [
+    "White Collar Crime Risk Zones (2017, with Brian Clifton and Francis Tseng)",
+    "Slow Hot Computer (2016)",
+    "Synthetic Messenger (2021, with Tega Brain)"
+   ],
+   "url": "https://lav.io/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sam_Lavigne"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Re-publica_23_-_Tag_2_%2852955241802%29_%28cropped%29.jpg/960px-Re-publica_23_-_Tag_2_%2852955241802%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "creator_id": "sam-lavigne"
+  },
+  {
+   "id": "person--ben-grosser",
+   "name": "Ben Grosser",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "American artist of software culture; Computers Watching Movies shows what a computer vision system 'looks at' in famous films, as sketched traces of machine attention.",
+   "description_zh": "美国软件文化艺术家；Computers Watching Movies 用草图般的轨迹呈现计算机视觉系统在经典电影中“看”的地方，描绘机器的注意力。",
+   "known_for": [
+    "Computers Watching Movies (2013)",
+    "Facebook Demetricator (2012–)",
+    "Go Rando (2017)",
+    "Minus (2021)"
+   ],
+   "url": "https://bengrosser.com/",
+   "image": "https://bengrosser.com/wp-content/resources/go-rando-fb-1200x627.png",
+   "based": "Urbana, US",
+   "based_zh": "厄巴纳，美国",
+   "creator_id": "ben-grosser"
+  },
+  {
+   "id": "person--sebastian-schmieg",
+   "name": "Sebastian Schmieg",
+   "type": "artist",
+   "themes": [
+    "labour-extraction",
+    "classification"
+   ],
+   "fields": [
+    "labour",
+    "perception"
+   ],
+   "description": "German artist who works on the hidden human labour inside AI; Decision Space and Segmentation.Network replay the clickwork of crowdworkers who trace and label images for training.",
+   "description_zh": "德国艺术家，关注 AI 内部被隐藏的人类劳动；Decision Space 与 Segmentation.Network 重演众包工人为训练描边和标注图片的点击劳动。",
+   "known_for": [
+    "Segmentation.Network (2016)",
+    "Decision Space (2019)",
+    "Humans of AI (2019, with Philipp Schmitt)"
+   ],
+   "url": "https://sebastianschmieg.com/",
+   "image": "https://sebastianschmieg.com/wordpress/wp-content/uploads/2021/04/sebastianschmiegcom.png",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "creator_id": "sebastian-schmieg"
+  },
+  {
+   "id": "person--philipp-schmitt",
+   "name": "Philipp Schmitt",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "fields": [
+    "perception",
+    "labour"
+   ],
+   "description": "German designer whose Declassifier overlays each object a vision model detects with the training images it learned from, showing that a model's 'seeing' is remembering its dataset.",
+   "description_zh": "德国设计师，Declassifier 在视觉模型识别出的每个物体上叠加它学习过的训练图片，揭示模型的“看见”其实是在回忆它的数据集。",
+   "known_for": [
+    "Declassifier (2020)",
+    "Humans of AI (2019, with Sebastian Schmieg)",
+    "Unhuman Compositions (2021)"
+   ],
+   "url": "https://philippschmitt.com/",
+   "image": "https://cdn.philippschmitt.com/media/pages/work/chair/bffd079351-1586822724/philipp-schmitt_chairs-0-1200x630-crop.jpg",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "creator_id": "philipp-schmitt"
+  },
+  {
+   "id": "person--dries-depoorter",
+   "name": "Dries Depoorter",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "machine-seeing",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Belgian artist whose The Follower matched Instagram photos with open webcam footage of the moment they were taken, revealing how easily AI links public cameras to private images.",
+   "description_zh": "比利时艺术家，The Follower 把 Instagram 照片与拍摄当时的公开网络摄像头画面相匹配，揭示 AI 多么轻易地把公共摄像头与私人影像连在一起。",
+   "known_for": [
+    "Jaywalking (2015)",
+    "Surveillance Speaker (2020)",
+    "The Follower (2022)"
+   ],
+   "url": "https://driesdepoorter.be/",
+   "image": "https://driesdepoorter.be/wp-content/uploads/2019/07/ThHH11_Dries_12-scaled.jpg",
+   "based": "Ghent, BE",
+   "based_zh": "根特，比利时",
+   "creator_id": "dries-depoorter"
+  },
+  {
+   "id": "person--agnieszka-kurant",
+   "name": "Agnieszka Kurant",
+   "type": "artist",
+   "themes": [
+    "labour-extraction",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "labour"
+   ],
+   "description": "Polish artist of collective and non-human intelligence; A.A.I. consists of termite mounds built from coloured sand, 'artificial artificial intelligence' that echoes the crowdworkers behind AI.",
+   "description_zh": "波兰艺术家，关注集体智能与非人类智能；A.A.I. 由白蚁用彩色沙粒筑成的蚁丘构成，这种“人工的人工智能”呼应 AI 背后的众包工人。",
+   "known_for": [
+    "A.A.I. (2014)",
+    "Crowd Crystal (2019)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Agnieszka_Kurant",
+   "links": [
+    {
+     "label": "Wikipedia (de)",
+     "url": "https://de.wikipedia.org/wiki/Agnieszka_Kurant"
+    }
+   ],
+   "image": "https://sfmomaopenspace.s3.us-west-2.amazonaws.com/wp-content/uploads/2018/02/25191941/assembly-line-smaller.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1978,
+   "creator_id": "agnieszka-kurant"
+  },
+  {
+   "id": "person--hito-steyerl",
+   "name": "Hito Steyerl",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "opacity-latent",
+    "critical-ai"
+   ],
+   "fields": [
+    "perception",
+    "power",
+    "theory"
+   ],
+   "description": "German artist and writer whose essay films and texts on poor images, robots and 'artificial stupidity' shaped how art thinks about computation, visibility and power.",
+   "description_zh": "德国艺术家与作家，她关于“贫乏图像”、机器人与“人工愚蠢”的论文电影和文字，塑造了艺术界思考计算、可见性与权力的方式。",
+   "known_for": [
+    "How Not to Be Seen (2013)",
+    "HellYeahWeFuckDie (2016)",
+    "This is the Future (2019)",
+    "Medium Hot: Images in the Age of Heat (2025)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Hito_Steyerl",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Future_Affairs_Berlin_2019_-_%E2%80%9EDigital_Revolution_Resetting_Global_Power_Politics%3F%E2%80%9C_%2847959578672%29.jpg/960px-Future_Affairs_Berlin_2019_-_%E2%80%9EDigital_Revolution_Resetting_Global_Power_Politics%3F%E2%80%9C_%2847959578672%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1966,
+   "creator_id": "hito-steyerl"
+  },
+  {
+   "id": "person--ian-cheng",
+   "name": "Ian Cheng",
+   "type": "artist",
+   "themes": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "interiority"
+   ],
+   "description": "American artist of 'live simulations', AI-driven worlds that play themselves without end; BOB is an artificial lifeform with a personality that changes through its encounters.",
+   "description_zh": "美国艺术家，创作“实时模拟”：由 AI 驱动、永不重复的自演世界；BOB 是一个性格会随经历变化的人工生命体。",
+   "known_for": [
+    "Emissaries trilogy (2015–17)",
+    "BOB (Bag of Beliefs) (2018–19)",
+    "Life After BOB (2021)"
+   ],
+   "url": "https://iancheng.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ian_Cheng"
+    }
+   ],
+   "image": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/hg5_4872_0.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1984,
+   "creator_id": "ian-cheng"
+  },
+  {
+   "id": "person--pierre-huyghe",
+   "name": "Pierre Huyghe",
+   "type": "artist",
+   "themes": [
+    "machine-umwelt",
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "interiority",
+    "perception"
+   ],
+   "description": "French artist of living, self-running situations; UUmwelt displays images a neural network reconstructed from human brain scans, flickering with flies in the gallery.",
+   "description_zh": "法国艺术家，创造有生命、自我运行的情境；UUmwelt 展出神经网络依据人脑扫描重建的图像，画面在满屋苍蝇中闪烁。",
+   "known_for": [
+    "UUmwelt (2018)",
+    "After UUmwelt (2018–)",
+    "Mental Image (2023–)",
+    "Liminal (2024)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Pierre_Huyghe",
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Huyghe.jpg?width=800",
+   "based": "Santiago, CL / Paris, FR",
+   "based_zh": "圣地亚哥，智利 / 巴黎，法国",
+   "born": 1962,
+   "creator_id": "pierre-huyghe"
+  },
+  {
+   "id": "person--jenna-sutela",
+   "name": "Jenna Sutela",
+   "type": "artist",
+   "themes": [
+    "machine-umwelt",
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "interiority",
+    "perception"
+   ],
+   "description": "Finnish artist of more-than-human intelligence; in nimiia cétiï a neural network learns a 'Martian' language from recordings of a medium and the movements of bacteria.",
+   "description_zh": "芬兰艺术家，关注超越人类的智能；nimiia cétiï 中神经网络从灵媒的录音和细菌的运动中学习一种“火星语”。",
+   "known_for": [
+    "nimiia cétiï (2018)",
+    "I Magma (2019)",
+    "Holobiont Society (2018)",
+    "Pond Brain (2024)"
+   ],
+   "url": "https://jennasutela.com/",
+   "links": [
+    {
+     "label": "Wikipedia (de)",
+     "url": "https://de.wikipedia.org/wiki/Jenna_Sutela"
+    }
+   ],
+   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jenna_Sutela_at_the_Biennale_di_Venezia_2026.jpg?width=800",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1983,
+   "creator_id": "jenna-sutela"
+  },
+  {
+   "id": "person--herndon-dryhurst",
+   "name": "Holly Herndon & Mat Dryhurst",
+   "type": "artist",
+   "themes": [
+    "machine-listening",
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "fields": [
+    "coperformance",
+    "labour"
+   ],
+   "description": "American artist-musicians who raised the AI 'baby' Spawn with a vocal ensemble and released Holly+, a voice model anyone can sing through, raising questions of voice ownership and consent.",
+   "description_zh": "美国艺术家与音乐人，与人声合唱团一起“养育” AI 宝宝 Spawn，并推出人人都能借用的声音模型 Holly+，引出声音归属与同意的问题。",
+   "known_for": [
+    "PROTO (2019, with AI 'baby' Spawn)",
+    "Holly+ (2021)",
+    "xhairymutantx (Whitney Biennial, 2024)",
+    "The Call (Serpentine, 2024)"
+   ],
+   "url": "https://herndondryhurst.studio/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Holly_Herndon"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Holly_Herndon.png/960px-Holly_Herndon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "creator_id": "holly-herndon"
+  },
+  {
+   "id": "person--lawrence-abu-hamdan",
+   "name": "Lawrence Abu Hamdan",
+   "type": "artist",
+   "themes": [
+    "machine-listening",
+    "classification"
+   ],
+   "fields": [
+    "perception",
+    "power"
+   ],
+   "description": "Jordanian-British 'private ear' whose works examine accent analysis in asylum cases and the forensics of listening, showing how voices become evidence for machines and states.",
+   "description_zh": "约旦裔英国“私人耳朵”，研究庇护审查中的口音分析与听觉取证，揭示声音如何成为机器与国家的证据。",
+   "known_for": [
+    "Conflicted Phonemes (2012)",
+    "The Freedom of Speech Itself (2012)",
+    "Walled Unwalled (2018)",
+    "Earwitness Theatre (2018)"
+   ],
+   "url": "http://lawrenceabuhamdan.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lawrence_Abu_Hamdan"
+    }
+   ],
+   "image": "https://images.squarespace-cdn.com/content/v1/5209b9c5e4b0bc18c96df1ec/1650018690310-E9UTJHOF7T13IADAFHQC/45th_SHR_UHD_EN-XX_20_H264_20220314.00_01_45_05.Still015.png",
+   "based": "Beirut, LB",
+   "based_zh": "贝鲁特，黎巴嫩",
+   "born": 1985,
+   "creator_id": "lawrence-abu-hamdan"
+  },
+  {
+   "id": "person--heather-dewey-hagborg",
+   "name": "Heather Dewey-Hagborg",
+   "type": "artist",
+   "themes": [
+    "classification",
+    "art-science",
+    "ethics-policy"
+   ],
+   "fields": [
+    "power",
+    "perception"
+   ],
+   "description": "American artist who 3D-prints portraits of strangers from DNA found in the street, exposing the fictions and biases of forensic phenotyping algorithms.",
+   "description_zh": "美国艺术家，从街头捡到的 DNA 推算并 3D 打印陌生人肖像，揭示法医表型推测算法中的虚构与偏见。",
+   "known_for": [
+    "Stranger Visions (2012–13)",
+    "Probably Chelsea (2017)",
+    "Hybrid: an Interspecies Portrait (2023)"
+   ],
+   "url": "https://deweyhagborg.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Heather_Dewey-Hagborg"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DNA_Spoofing_-_2.jpg/960px-DNA_Spoofing_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1982,
+   "creator_id": "heather-dewey-hagborg"
+  },
+  {
+   "id": "person--james-bridle",
+   "name": "James Bridle",
+   "type": "artist",
+   "themes": [
+    "machine-seeing",
+    "critical-ai",
+    "machine-umwelt"
+   ],
+   "fields": [
+    "perception",
+    "theory"
+   ],
+   "description": "British artist and writer whose Autonomous Trap 001 caught a self-driving car inside a circle of road markings, and whose books New Dark Age and Ways of Being rethink computation and non-human intelligence.",
+   "description_zh": "英国艺术家与作家，Autonomous Trap 001 用一圈道路标线把自动驾驶汽车“困”在其中；著作《新黑暗时代》与《存在之道》重新思考计算与非人类智能。",
+   "known_for": [
+    "The New Aesthetic (2011–)",
+    "Autonomous Trap 001 (2017)",
+    "New Dark Age (2018)",
+    "Ways of Being (2022)"
+   ],
+   "url": "https://jamesbridle.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/James_Bridle"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Re_publica_2015_-_Tag_1_%2817379378221%29.jpg/960px-Re_publica_2015_-_Tag_1_%2817379378221%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Greece / UK",
+   "based_zh": "希腊 / 英国",
+   "born": 1980,
+   "creator_id": "james-bridle"
+  },
+  {
+   "id": "person--superflux",
+   "name": "Superflux (Anab Jain & Jon Ardern)",
+   "type": "artist",
+   "themes": [
+    "machine-umwelt",
+    "ethics-policy"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "London design studio whose films and installations imagine living with more-than-human and machine agents; Uninvited Guests shows an elderly man outwitting the smart devices his children bought him.",
+   "description_zh": "伦敦设计工作室，以影片和装置想象与超越人类的、机器的行动者共同生活；Uninvited Guests 中一位老人设法骗过子女为他买的智能设备。",
+   "known_for": [
+    "Uninvited Guests (2015)",
+    "Mitigation of Shock (2017)",
+    "Our Friends Electric (2017)",
+    "Invocation for Hope (2022)"
+   ],
+   "url": "https://superflux.in/",
+   "image": "http://superflux.in/wp-content/uploads/2026/07/SF-Social-Share-Card-1.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "creator_id": "superflux"
+  },
+  {
+   "id": "person--dunne-raby",
+   "name": "Dunne & Raby (Anthony Dunne & Fiona Raby)",
+   "type": "artist",
+   "themes": [
+    "ethics-policy",
+    "history"
+   ],
+   "fields": [
+    "speculative",
+    "theory"
+   ],
+   "description": "British designers who defined critical and speculative design; Technological Dreams: Robots imagines domestic robots that are needy, neurotic or dependent rather than servile.",
+   "description_zh": "英国设计师，确立了批判设计与思辨设计；Technological Dreams: Robots 想象了一批需要照顾、神经质或依赖人的家用机器人，而非顺从的仆人。",
+   "known_for": [
+    "Technological Dreams Series: No. 1, Robots (2007)",
+    "Speculative Everything (2013)",
+    "Hertzian Tales (1999)"
+   ],
+   "url": "https://dunneandraby.co.uk/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dunne_%26_Raby"
+    }
+   ],
+   "image": "https://dunneandraby.co.uk/img/content/pond.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "creator_id": "dunne-raby"
+  },
+  {
+   "id": "person--automato-farm",
+   "name": "Automato.farm",
+   "type": "artist",
+   "themes": [
+    "ethics-policy",
+    "agency-cocreation"
+   ],
+   "fields": [
+    "speculative"
+   ],
+   "description": "Design studio of Simone Rebaudengo, Matteo Loglio and Saurabh Datta; in Ethical Things a fan asks online crowdworkers to resolve its moral dilemmas.",
+   "description_zh": "由 Simone Rebaudengo、Matteo Loglio 和 Saurabh Datta 组成的设计工作室；Ethical Things 中的电风扇会请线上众包工人替它解决道德困境。",
+   "known_for": [
+    "Objects of Research (2016)",
+    "Politics of Power (2016)",
+    "Ethical Things (2015)",
+    "BIY.world (2019)"
+   ],
+   "url": "http://automato.farm/",
+   "image": "http://www.automato.farm/img//side_1024.jpg",
+   "based": "Shanghai, CN / London, UK",
+   "based_zh": "上海，中国 / 伦敦，英国",
+   "creator_id": "automato-farm"
+  },
+  {
+   "id": "person--simone-rebaudengo",
+   "name": "Simone Rebaudengo",
+   "type": "artist",
+   "themes": [
+    "agency-cocreation",
+    "intimacy-care"
+   ],
+   "fields": [
+    "speculative",
+    "intimacy"
+   ],
+   "description": "Italian designer whose Addicted Products imagines toasters that want to be used, move to more attentive homes and quietly complain, a view of the IoT from the thing's side.",
+   "description_zh": "意大利设计师，Addicted Products 设想渴望被使用的烤面包机：它们会搬去更常用它们的家并悄悄抱怨，从物的视角看物联网。",
+   "known_for": [
+    "Addicted Products (2012)",
+    "Teacher of Algorithms (2014)",
+    "Brad the Toaster (2012)"
+   ],
+   "url": "https://www.simonerebaudengo.com/",
+   "image": "https://i.ytimg.com/vi/AYkbhWiAmLQ/hqdefault.jpg",
+   "based": "Shanghai, CN",
+   "based_zh": "上海，中国",
+   "creator_id": "simone-rebaudengo"
+  },
+  {
+   "id": "person--bjorn-karmann",
+   "name": "Bjørn Karmann",
+   "type": "artist",
+   "themes": [
+    "machine-listening",
+    "ethics-policy"
+   ],
+   "fields": [
+    "speculative",
+    "perception"
+   ],
+   "description": "Danish designer whose Project Alias is a fungus-like parasite that whispers noise into smart speakers until you wake it, and whose Paragraphica is a lensless camera that writes a photo from data.",
+   "description_zh": "丹麦设计师，Project Alias 像一只真菌寄生在智能音箱上，持续向它低语噪声直到你唤醒；Paragraphica 是一台没有镜头、用数据“写”出照片的相机。",
+   "known_for": [
+    "Objectifier (2016)",
+    "Project Alias (2019, with Tore Knudsen)",
+    "Paragraphica (2023)"
+   ],
+   "url": "https://bjoernkarmann.dk/",
+   "image": "https://bjoernkarmann.dk/wp-content/uploads/2023/05/mole3-1.png",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "creator_id": "bjorn-karmann"
+  },
+  {
+   "id": "person--julian-oliver",
+   "name": "Julian Oliver",
+   "type": "artist",
+   "themes": [
+    "critical-ai",
+    "labour-extraction"
+   ],
+   "fields": [
+    "power"
+   ],
+   "description": "New Zealand 'critical engineer' who co-wrote the Critical Engineering Manifesto; his works open up networks and infrastructures, such as a cell tower disguised as an office printer.",
+   "description_zh": "新西兰“批判工程师”，《批判工程宣言》合著者；他的作品拆开网络与基础设施，例如伪装成办公室打印机的手机基站。",
+   "known_for": [
+    "The Critical Engineering Manifesto (2011)",
+    "Stealth Cell Tower (2015)",
+    "Harvest (2016)"
+   ],
+   "url": "https://julianoliver.com/",
+   "image": "https://julianoliver.com/images/title3.jpg",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "creator_id": "julian-oliver"
+  },
+  {
+   "id": "person--joana-moll",
+   "name": "Joana Moll",
+   "type": "artist",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "Spanish artist-researcher who measures the material cost of the internet; CO2GLE shows the CO2 emitted every second by visits to google.com.",
+   "description_zh": "西班牙艺术家与研究者，测量互联网的物质成本；CO2GLE 实时显示每秒访问 google.com 所排放的二氧化碳。",
+   "known_for": [
+    "CO2GLE (2014)",
+    "The Hidden Life of an Amazon User (2019)",
+    "The Dating Brokers (2018, with Tactical Tech)"
+   ],
+   "url": "https://www.janavirgin.com/",
+   "image": "http://www.janavirgin.com/img/works/AZ_MOVE.jpg",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "creator_id": "joana-moll"
+  },
+  {
+   "id": "person--wesley-goatley",
+   "name": "Wesley Goatley",
+   "type": "artist",
+   "themes": [
+    "machine-listening",
+    "labour-extraction"
+   ],
+   "fields": [
+    "perception",
+    "labour"
+   ],
+   "description": "British sound artist whose Newly Forgotten Technologies gathers abandoned smart speakers that hold a séance, remembering the future they were promised.",
+   "description_zh": "英国声音艺术家，Newly Forgotten Technologies 让被遗弃的智能音箱聚在一起举行降神会，回忆它们曾被许诺的未来。",
+   "known_for": [
+    "Newly Forgotten Technologies (2021)",
+    "Chattering (2020)",
+    "Watching the Watchers (2016)"
+   ],
+   "url": "https://www.wesleygoatley.com/",
+   "image": "https://www.wesleygoatley.com/images/hope-tb.webp",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "creator_id": "wesley-goatley"
+  },
+  {
+   "id": "person--anicka-yi",
+   "name": "Anicka Yi",
+   "type": "artist",
+   "themes": [
+    "machine-umwelt",
+    "art-science"
+   ],
+   "fields": [
+    "interiority",
+    "bodies"
+   ],
+   "description": "Korean-American artist who 'biologises the machine': in In Love With the World, floating 'aerobes' drifted through Tate's Turbine Hall as a new machine species with their own sensing and behaviour.",
+   "description_zh": "韩裔美国艺术家，主张“让机器生物化”：在 In Love With the World 中，漂浮的“aerobes”作为有自身感知与行为的新机器物种在泰特涡轮大厅中游荡。",
+   "known_for": [
+    "Biologizing the Machine (tentacular trouble) (2019)",
+    "In Love With the World (Tate Turbine Hall, 2021)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Anicka_Yi",
+   "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/installation_view_of_hyundai_commission_anicka.width-600_lGB4obK.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1971,
+   "creator_id": "anicka-yi"
+  },
+  {
+   "id": "person--simon-denny",
+   "name": "Simon Denny",
+   "type": "artist",
+   "themes": [
+    "labour-extraction",
+    "critical-ai"
+   ],
+   "fields": [
+    "labour",
+    "power"
+   ],
+   "description": "New Zealand artist who turns tech-industry documents into objects; he built Amazon's patented cage for warehouse workers, showing how automation encloses human labour.",
+   "description_zh": "新西兰艺术家，把科技公司的文件变成实物；他按专利做出了亚马逊为仓库工人设计的“笼子”，展示自动化如何围困人类劳动。",
+   "known_for": [
+    "Secret Power (Venice, 2015)",
+    "Mine (2019)"
+   ],
+   "url": "https://simondenny.net/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Simon_Denny_(artist)"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Simon_Denny_Berlin_2023.jpg/960px-Simon_Denny_Berlin_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "born": 1982,
+   "creator_id": "simon-denny"
+  },
+  {
+   "id": "person--martine-syms",
+   "name": "Martine Syms",
+   "type": "artist",
+   "themes": [
+    "alterity-uncanny",
+    "classification"
+   ],
+   "fields": [
+    "interiority",
+    "power"
+   ],
+   "description": "American artist whose Mythiccbeing is a chatbot avatar of a self-absorbed Black woman, 'Teeny', turning AI personas into a critique of how Black women are scripted.",
+   "description_zh": "美国艺术家，Mythiccbeing 是一个自我中心的黑人女性聊天化身“Teeny”，借 AI 人格批判黑人女性如何被编写。",
+   "known_for": [
+    "Mythiccbeing (2018)",
+    "Neural Swamp (Philadelphia Museum of Art, 2021)",
+    "Shame Space (2021)"
+   ],
+   "url": "https://martinesyms.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Martine_Syms"
+    }
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Martine_Syms_%28cropped%29.jpg/960px-Martine_Syms_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1988,
+   "creator_id": "martine-syms"
+  }
+ ]
+}

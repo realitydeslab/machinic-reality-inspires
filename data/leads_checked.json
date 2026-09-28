@@ -1,0 +1,634 @@
+[
+ {
+  "name": "Gordon Pask — Musicolour (1953)",
+  "why": "Learning light-show machine that 'gets bored' with a musician; no verified image or video found.",
+  "link": "https://en.wikipedia.org/wiki/Gordon_Pask",
+  "found_via": "gordon-pask",
+  "status": "no_media",
+  "batch": "bodies"
+ },
+ {
+  "name": "Ruairi Glynn — Fearful Symmetry (2012, Tate Tanks)",
+  "why": "Flying light tetrahedron that approaches visitors; project page 404, no stable media found.",
+  "link": "https://en.wikipedia.org/wiki/Ruairi_Glynn",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "bodies"
+ },
+ {
+  "name": "MSCHF — Spot's Rampage (2021)",
+  "why": "Paintball gun on a Boston Dynamics Spot driven by the public; no official media page found (mschf.com page 404).",
+  "link": "https://en.wikipedia.org/wiki/MSCHF",
+  "found_via": "boston-dynamics",
+  "status": "no_media",
+  "batch": "bodies"
+ },
+ {
+  "name": "Pinar Yoldas — An Ecosystem of Excess (2014)",
+  "why": "Speculative organisms for a plastic ocean; biology rather than machine, likely off-topic for bodies.",
+  "link": "https://www.pinaryoldas.info/Ecosystem-of-Excess-2014",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "bodies"
+ },
+ {
+  "name": "Guto Nóbrega — Breathing (2008)",
+  "why": "Brazilian plant–robot hybrid; no media found this round.",
+  "link": "",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "bodies"
+ },
+ {
+  "name": "Huang Yi (黄翊) — Huang Yi & KUKA (2012)",
+  "why": "Taiwanese choreographer's duet with a KUKA arm he programmed; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://huangyistudio.com/archives/project/huang-yi-and-kuka",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Sougwen Chung (钟愫君) — D.O.U.G. 1–4, Assembly Lines, Omnia per Omnia",
+  "why": "Chinese-Canadian co-drawing with robot arms; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://sougwen.com/project/drawing-operations",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Oriza Hirata (平田オリザ) & Hiroshi Ishiguro — I, Worker (2008), Sayonara (2010)",
+  "why": "Android theatre; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://en.wikipedia.org/wiki/Oriza_Hirata",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Keiichiro Shibuya (渋谷慶一郎) — THE END (2012), Scary Beauty (2018), Super Angels (2021)",
+  "why": "Vocaloid and android operas; east-asia batch owns. Already in the east-asia batch.",
+  "link": "http://atak.jp/",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Rhizomatiks & ELEVENPLAY — 24 drones (2016)",
+  "why": "Dancers with a drone swarm; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://research.rhizomatiks.com/s/works/24drones/en/",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Daito Manabe (真鍋大度) — Electric Stimulus to Face (2008)",
+  "why": "Faces driven by muscle stimulation; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://en.wikipedia.org/wiki/Daito_Manabe",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Lee Bul (이불) — Cyborg series (1997–2011)",
+  "why": "Female cyborg sculptures; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://www.guggenheim.org/artwork/artist/lee-bul",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Ory Laboratory — Avatar Robot Café DAWN (OriHime, 2018–)",
+  "why": "Disabled workers as telepresent waiters; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://dawn2021.orylab.com/en/",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Maywa Denki (明和電機)",
+  "why": "Nonsense machines/instrument performances; east-asia batch owns.",
+  "link": "https://www.maywadenki.com/",
+  "found_via": "coperformance",
+  "status": "covered",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Victor Wong (黄宏达) — A.I. Gemini (2017–)",
+  "why": "Robot ink painter; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://www.cnn.com/style/victor-wong-ai-ink-painting-hong-kong-hnk-spc-intl",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Zhang Yimou (张艺谋) & Unitree (宇树) — Yang BOT (秧BOT), CCTV Gala (2025)",
+  "why": "Humanoid Yangge dance; east-asia batch owns. Already in the east-asia batch.",
+  "link": "https://technode.com/2025/01/29/unitree-robotics-humanoid-robots-steal-the-show-at-2025-cctv-spring-festival-gala-with-ai-powered-yangge-dance/",
+  "found_via": "coperformance",
+  "status": "duplicate",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Shu Lea Cheang (鄭淑麗)",
+  "why": "Networked body and telepresence works; east-asia batch owns.",
+  "link": "https://en.wikipedia.org/wiki/Shu_Lea_Cheang",
+  "found_via": "coperformance",
+  "status": "covered",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Eric Minh Cuong Castaing / Shonen — School of Moon (2016)",
+  "why": "Dancers, children and robots; facts not verified in this pass (no stable source page).",
+  "link": "https://www.youtube.com/watch?v=JezC358d4kY",
+  "found_via": "coperformance",
+  "status": "no_media",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Dadabots — Relentless Doppelganger (2019)",
+  "why": "Endless AI death-metal stream; generative, likely OUT unless framed as critique.",
+  "link": "https://dadabots.com/",
+  "found_via": "coperformance",
+  "status": "off_topic",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Obvious — Portrait of Edmond de Belamy (2018)",
+  "why": "AI-generated art without machine reflection: counter-example, OUT.",
+  "link": "https://en.wikipedia.org/wiki/Edmond_de_Belamy",
+  "found_via": "coperformance",
+  "status": "off_topic",
+  "batch": "coperformance-2"
+ },
+ {
+  "name": "Tatsuo Miyajima — Counter Void (2003)",
+  "why": "LED counters and Buddhist cycles of time; dropped here because the machine reflection is weak.",
+  "link": "https://en.wikipedia.org/wiki/Tatsuo_Miyajima",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Hsu Che-Yu (许哲瑜) – Single Copy (2020)",
+  "why": "3D scanning and animation around memory and media; machine relevance unclear.",
+  "link": "https://www.hsucheyu.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Zheng Mahler (Hong Kong)",
+  "why": "No clearly machine-focused work confirmed; ecology and Lantau projects.",
+  "link": "https://www.youtube.com/watch?v=2v5axi-2BI0",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Yiyun Kang (강이연)",
+  "why": "Projection-mapping installations; no machine-reflective work confirmed.",
+  "link": "https://en.wikipedia.org/wiki/Yiyun_Kang",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Hsin-Chien Huang (黄心健)",
+  "why": "VR works (Chalkroom with Laurie Anderson); not machine-focused.",
+  "link": "https://en.wikipedia.org/wiki/Hsin-Chien_Huang",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Moon Kyungwon & Jeon Joonho – News from Nowhere (2012)",
+  "why": "Post-apocalyptic futures (dOCUMENTA 13); machine relevance weak.",
+  "link": "",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Sun Yuan & Peng Yu, Dogs That Cannot Touch Each Other (2003)",
+  "why": "Dogs on facing treadmills; the treadmill as a machine harnessing bodies. Mainly about animals, so left out.",
+  "link": "https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73",
+  "found_via": "sun-yuan-peng-yu",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Sun Yuan & Peng Yu, Freedom (2009)",
+  "why": "An uncontrolled fire hose thrashing in a steel enclosure; no stable image or official video found.",
+  "link": "https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73",
+  "found_via": "sun-yuan-peng-yu",
+  "status": "no_media",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Li Liao, Consumption (2012)",
+  "why": "Worked 45 days at Foxconn to buy the iPad he assembled; no stable image found (Artsy blocks scripts).",
+  "link": "https://www.artsy.net/artwork/li-liao-consumption",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Fei Jun, Interesting World (2019)",
+  "why": "Checked: a collaborative 3D world-building app at Venice 2019, not a work about AI labelling; off topic.",
+  "link": "https://www.sohu.com/a/323925712_283183",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Verena Friedrich — Vanitas Machine",
+  "why": "Prix Ars Hybrid Art HM 2015; candle-based life-extension machine; weak fit (about ageing/biotech rather than machines).",
+  "link": "https://archive.aec.at/prix/212447/",
+  "found_via": "verena-friedrich",
+  "status": "off_topic",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Marc Böhlen — Universal Whistling Machine",
+  "why": "Machine that whistles back to passers-by; reported VIDA winner but edition/prize not verified and no live media found.",
+  "link": "",
+  "found_via": "vida-awards",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Bruce Lacey, ROSA BOSOM (1965) with MATE",
+  "why": "Remote-controlled 'simulated actress' robot at Cybernetic Serendipity 1968. Not added: bodies batch has lacey--rosa-bosom planned. Verified media: British Pathé 'Nightmare Robots (1968)' youtube 1kO8fKEygCE; images https://66.media.tumblr.com/tumblr_lnu30d3nTV1qmskiio1_640.jpg (ICA 1968 installation view, cyberneticserendipity.net).",
+  "link": "https://cyberneticserendipity.net/post/7245437784/exhibition-view-ica-london-1968-featuring-bruce",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Chris Salter — Totem (2019)",
+  "why": "Barbican AI: More than Human Level G commission: sensing + ML light/sound installation that behaves like a breathing entity; no verified image or video found.",
+  "link": "https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human",
+  "found_via": "barbican-ai-2019",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Google PAIR — Waterfall of Meaning (2019)",
+  "why": "Barbican piece visualising word-embedding associations between poles; no live page or video found.",
+  "link": "https://pair.withgoogle.com/",
+  "found_via": "barbican-ai-2019",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Martine Syms — Mythiccbeing (2018)",
+  "why": "Text-based AI avatar in Uncanny Valley (de Young 2020); artist site and FAMSF pages give no verifiable media to scripts.",
+  "link": "https://www.famsf.org/exhibitions/uncanny-valley",
+  "found_via": "uncanny-valley-2020",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Agnieszka Kurant — Aggregated Ghost (2023)",
+  "why": "Collective portrait of click-workers shown at Jeu de Paume 2025; artist site unreachable, no verified image.",
+  "link": "https://jeudepaume.org/en/evenement/the-world-through-ai/",
+  "found_via": "world-through-ai-2025",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Sebastian Schmieg — HEK Entangled Realities work",
+  "why": "Digicult describes visitors rating images to train an AI (likely Decision Space, 2016); perception batch already has his related work sebastian-schmieg--problem-solution-past-future.",
+  "link": "https://digicult.it/internet/entangled-realities-living-with-artificial-intelligence/",
+  "found_via": "entangled-realities-2019",
+  "status": "duplicate",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Liam Young — Where the City Can't See (2016)",
+  "why": "First fiction film shot entirely with laser scanners (lidar); no verified video or image found.",
+  "link": "https://liamyoung.org/",
+  "found_via": "liam-young",
+  "status": "no_media",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Norman — MIT Media Lab (2018)",
+  "why": "'Psychopath' image captioner trained on a violent subreddit: dataset shapes a machine's 'mind'; project site offline, only third-party videos.",
+  "link": "https://en.wikipedia.org/wiki/Norman_(AI)",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Superflux — Mitigation of Shock (2017)",
+  "why": "Climate-adapted future apartment; not about machines.",
+  "link": "https://superflux.in/index.php/work/mitigation-of-shock/",
+  "found_via": "superflux",
+  "status": "off_topic",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Botto (2021-)",
+  "why": "Autonomous 'AI artist' selling via community vote; mainly generative output, OUT unless a reflective angle is found.",
+  "link": "https://botto.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Mario Klingemann — Memories of Passersby I (2018)",
+  "why": "Excluded by the brief (generative showpiece).",
+  "link": "https://en.wikipedia.org/wiki/Mario_Klingemann",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Sasha Stiles — Technelegy (2021)",
+  "why": "AI poetry; mostly generative use, OUT.",
+  "link": "https://www.sashastiles.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Agnieszka Kurant — A.A.I. (2014)",
+  "why": "Termite mounds as 'artificial artificial intelligence'; planned by power-labour.",
+  "link": "https://agnieszkakurant.com/a-a-i/",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Tega Brain — Deep Swamp (2018), Synthetic Messenger (2021), Unfit Bits (2015)",
+  "why": "Already in power-labour batch.",
+  "link": "https://tegabrain.com/",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "interiority-speculative"
+ },
+ {
+  "name": "Jiabao Li, Unfinished Farewell (2020)",
+  "why": "Online memorial for uncounted COVID-19 dead in China (OCAT Shenzhen); digital mourning but not about machines.",
+  "link": "https://www.jiabaoli.org/covid19",
+  "found_via": "jiabao-li",
+  "status": "off_topic",
+  "batch": "intimacy-afterlife"
+ },
+ {
+  "name": "Nicholas Stedman, ADB (after Deep Blue)",
+  "why": "Hand-held robot that communicates through touch.",
+  "link": "",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "intimacy-afterlife"
+ },
+ {
+  "name": "IOCOSE — Drone Selfies (2014)",
+  "why": "Photos of drones taking selfies in mirrors: machine vanity after the end of war; artist site down, no verified media.",
+  "link": "https://www.iocose.org/works/drone_selfies.html",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Simone C. Niquille — REALFACE Glamoflage (2013)",
+  "why": "T-shirts printed with celebrity faces to jam Facebook face tagging; no work-specific media found.",
+  "link": "http://www.technofle.sh/",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Marta Revuelta & Laurent Weingart — AI Facial Profiling, Levels of Paranoia (2018)",
+  "why": "Machine that sorts visitors by a face classifier's guess of whether they are dangerous; site returned no media.",
+  "link": "https://revuelta.ch/ai-facial-profiling",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Martin Le Chevallier — Vigilance 1.0 (2001)",
+  "why": "Surveillance game in which the player watches CCTV screens to report offences; no media found.",
+  "link": "http://www.martinlechevallier.net/english/A_vigilance.html",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Max Dovey — How to be More or Less Human (2015)",
+  "why": "Performance in which the artist is classified live by image recognition; no work-specific media.",
+  "link": "https://www.maxdovey.com",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Jip van Leeuwenstein — Surveillance Exclusion (2016)",
+  "why": "Transparent lens mask that blocks face recognition while keeping the face visible.",
+  "link": "http://www.jipvanleeuwenstein.nl/",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Sookyun Yang, Jinoon Choi, Hyun Parke — Volumetric Data Collector (2019)",
+  "why": "Robot that 3D-scans its surroundings, shown at Ars Electronica Center; page now 404 (Korean artists, lead for east-asia).",
+  "link": "https://ars.electronica.art/center/en/volumetricdatacollector/",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Nora Al-Badri & Jan Nikolai Nelles — The Other Nefertiti (2015)",
+  "why": "Covert 3D scan of the Nefertiti bust released online; about scanning and restitution rather than machine vision.",
+  "link": "https://www.nora-al-badri.de/works-index",
+  "found_via": "machine-vision-db",
+  "status": "off_topic",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Les Levine — Iris (1968)",
+  "why": "Early closed-circuit video sculpture: six monitors and three hidden cameras show viewers themselves at three distances; no verified media found.",
+  "link": "https://machine-vision.no",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Mimi Onuoha — Classification.01 (2017)",
+  "why": "Sculpture whose neon brackets light up only when two visitors are classified as similar by a face model; project page now 404.",
+  "link": "https://mimionuoha.com",
+  "found_via": "machine-vision-db",
+  "status": "no_media",
+  "batch": "machine-vision-db"
+ },
+ {
+  "name": "Trevor Paglen, Faces of ImageNet (2022)",
+  "why": "Installation version of ImageNet Roulette; folded into that entry (Kunsthal Charlottenborg 2024, Jeu de Paume 2025).",
+  "link": "https://www.youtube.com/watch?v=K_lN4JD1sBY",
+  "found_via": "trevor-paglen",
+  "status": "duplicate",
+  "batch": "perception"
+ },
+ {
+  "name": "R. Luke DuBois, Expression Portrait (2019)",
+  "why": "Emotion-recognition portrait installation in Cooper Hewitt's Face Values; no own-channel video found.",
+  "link": "https://www.cooperhewitt.org/channel/face-values/",
+  "found_via": "karen-palmer",
+  "status": "no_media",
+  "batch": "perception"
+ },
+ {
+  "name": "Nicolas Gourault, VO (2020)",
+  "why": "Sensory documentary on safety drivers training driverless cars (seeing / vehicles). Not added: power-labour batch is researching it (temp/power-labour/p3.json 'gourault-vo'). Verified media: vimeo.com/533987729 (VO teaser, embeddable), image http://nicolasgourault.fr/content/1-films/covers/cover_vo.jpg, page https://www.nicolasgourault.fr/films/vo.",
+  "link": "https://www.nicolasgourault.fr/films/vo",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "perception"
+ },
+ {
+  "name": "Nicolas Gourault, Unknown Label (2023)",
+  "why": "Click-workers labelling street images for self-driving cars; Human AI Art Award 2025; Prix Ars AI in ART HM 2024. Primary field labour, being added by power-labour (p3.json 'gourault-unknown'). Verified video: youtube uXoA9P6eyg8 (gnration Braga exhibition).",
+  "link": "https://www.youtube.com/watch?v=uXoA9P6eyg8",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "perception"
+ },
+ {
+  "name": "Ewa Nowak, Incognito (2019)",
+  "why": "Brass face jewellery against face recognition; site unreachable (SSL error), no verified media.",
+  "link": "https://en.wikipedia.org/wiki/Anti-facial_recognition_mask",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "perception"
+ },
+ {
+  "name": "Hito Steyerl — The City of Broken Windows (2018)",
+  "why": "AI trained to recognise breaking glass; primary listening, but the power-labour batch is researching it (temp id steyerl-cobw).",
+  "link": "https://www.castellodirivoli.org/en/mostra/hito-steyerl-the-city-of-broken-windows/",
+  "found_via": "hito-steyerl",
+  "status": "duplicate",
+  "batch": "perception"
+ },
+ {
+  "name": "Constant Dullaart — High Retention, Slow Delivery (2014)",
+  "why": "2.5 million bought Instagram followers for artists' accounts; click farms. No verified media found.",
+  "link": "https://constantdullaart.com/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Blake Fall-Conroy — Minimum Wage Machine (2008–10)",
+  "why": "Crank it to earn minimum wage, one cent at a time; no stable page found.",
+  "link": "https://www.blakefallconroy.com/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Omer Fast — 5,000 Feet Is the Best (2011)",
+  "why": "Drone pilot interview film; no official video/page found.",
+  "link": "https://en.wikipedia.org/wiki/Omer_Fast",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Mahwish Chishty — Drone paintings (2012–)",
+  "why": "Pakistani truck-art painted drones; artist site offline.",
+  "link": "https://www.youtube.com/watch?v=COmvBIfqj-w",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Ingrid Burrington — Networks of New York (2016)",
+  "why": "Field guide to urban internet infrastructure; publisher page moved.",
+  "link": "https://lifewinning.com/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Mimi Ọnụọha & Diana Nucera — A People's Guide to AI (2018)",
+  "why": "Community AI literacy zine; publisher page moved.",
+  "link": "https://www.mimionuoha.com/",
+  "found_via": "mimi-onuoha",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Mimi Ọnụọha — Classification.01 (2017)",
+  "why": "Neon brackets that light up when a machine judges two visitors similar; no page found on new site.",
+  "link": "https://www.mimionuoha.com/",
+  "found_via": "mimi-onuoha",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Hito Steyerl — SocialSim (2020)",
+  "why": "Simulated riot police dancing; crowd simulation and policing. No official video found.",
+  "link": "https://www.e-flux.com/journal/authors/hito-steyerl/",
+  "found_via": "hito-steyerl",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Emily Martinez — Queer AI (2018–)",
+  "why": "Chatbot trained on queer literature; site offline.",
+  "link": "https://unsupervisedpleasures.com/",
+  "found_via": "sarah-ciston",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Feminist Internet — F'xa feminist chatbot (2019)",
+  "why": "Chatbot on AI bias; f-xa.co domain now belongs to another site.",
+  "link": "https://feministinternet.com/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "power-labour"
+ },
+ {
+  "name": "Buolamwini & Gebru — Gender Shades (FAT* 2018)",
+  "why": "Already added by another batch (power); paper card intentionally not duplicated.",
+  "link": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+  "found_via": "timnit-gebru",
+  "status": "duplicate",
+  "batch": "theory"
+ },
+ {
+  "name": "Weizenbaum — ELIZA (1966) and Crawford & Paglen — Excavating AI (2019); Machine Listening, a Curriculum (2020)",
+  "why": "Already added by intimacy-afterlife / perception batches.",
+  "link": "https://doi.org/10.1145/365153.365168",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "theory"
+ },
+ {
+  "name": "Hollanek & Nowaczyk-Basińska — Griefbots, Deadbots, Postmortem Avatars (2024)",
+  "why": "Already added by intimacy-afterlife.",
+  "link": "https://doi.org/10.1007/s13347-024-00744-w",
+  "found_via": "joel-krueger",
+  "status": "duplicate",
+  "batch": "theory"
+ },
+ {
+  "name": "Benjamin, Berger, Merrill & Pierce — ML Uncertainty as a Design Material (CHI 2021)",
+  "why": "Postphenomenology + ML; already added by interiority-speculative.",
+  "link": "https://doi.org/10.1145/3411764.3445481",
+  "found_via": "don-ihde",
+  "status": "duplicate",
+  "batch": "theory"
+ },
+ {
+  "name": "Pierce & Paulos — Counterfunctional Things (DIS 2014)",
+  "why": "Already added by interiority-speculative.",
+  "link": "https://doi.org/10.1145/2598510.2598522",
+  "found_via": "don-ihde",
+  "status": "duplicate",
+  "batch": "theory"
+ }
+]

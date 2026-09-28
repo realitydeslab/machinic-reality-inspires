@@ -1,0 +1,4995 @@
+{
+ "batch": "intimacy-afterlife",
+ "creators": [
+  {
+   "id": "jiabao-li",
+   "name": "Jiabao Li",
+   "name_zh": "李佳宝",
+   "kind": "person",
+   "role": "Artist and designer; Professor of Art and Design, Northeastern University (Oakland)",
+   "role_zh": "艺术家、设计师；美国东北大学（奥克兰校区）艺术与设计教授",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "bio": "Artist, inventor and professor (Harvard GSD alum, former Apple designer) whose installations, wearables, XR works, bio-art and performances deal with perception, technology and the more-than-human. Her 2026 solo show Womb Wetware, made during and after her pregnancy, turns motherhood into a test bed for care, bodies and machines.",
+   "bio_zh": "艺术家、发明者和教授（哈佛设计研究生院毕业，曾任苹果公司设计师），用装置、可穿戴设备、XR、生物艺术和表演处理感知、技术与多于人类的世界。2026 年个展《Womb Wetware》创作于怀孕期间及产后，把母职当作检验照护、身体与机器的试验场。",
+   "why": "With AI Mom™ she asks what happens to care, memory and agency when a mother becomes a configurable, replaceable machine.",
+   "why_zh": "她在《AI Mom™》中追问：当母亲变成可以调参、可以替换的机器，照护、记忆和能动性会怎样。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.jiabaoli.org",
+    "instagram": "https://www.instagram.com/jia.bao.li/"
+   },
+   "connected_to": [
+    "botao-amber-hu",
+    "honghao-deng"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "botao-amber-hu",
+   "name": "Botao Amber Hu",
+   "kind": "person",
+   "role": "Researcher, University of Oxford; founder of Reality Design Lab",
+   "role_zh": "牛津大学研究者，Reality Design Lab 创始人",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "bio": "Designer and researcher (Tsinghua BS, Stanford MS in AI) working on mixed reality, speculative design and blockchain-based artificial life; Reality Design Lab's works have been shown at SIGGRAPH, CHI, ALIFE and ISEA.",
+   "bio_zh": "设计师和研究者（清华大学计算机本科、斯坦福大学人工智能硕士），研究混合现实、思辨设计和基于区块链的人工生命；Reality Design Lab 的作品在 SIGGRAPH、CHI、ALIFE 和 ISEA 等场合展出。",
+   "why": "Reality Design Lab speculates about AI agents and artificial life that cannot be switched off, outlive their owners, or perceive the city as a sea of human memories.",
+   "why_zh": "Reality Design Lab 思辨那些无法被关掉、会比主人活得更久、或把城市感知为人类记忆之海的 AI 智能体与人工生命。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://reality.design"
+   },
+   "connected_to": [
+    "jiabao-li",
+    "ke-huang",
+    "fangting"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ke-huang",
+   "name": "Ke Huang",
+   "kind": "person",
+   "role": "Artist and designer; graduate student, Tsinghua University; Reality Design Lab collaborator",
+   "role_zh": "艺术家、设计师；清华大学研究生；Reality Design Lab 合作者",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "bio": "Designer who directs Reality Design Lab's kinetic and machine-vision installations Cybroc and Body Oracle.",
+   "bio_zh": "设计师，主导 Reality Design Lab 的动态装置《Cybroc》和机器视觉装置《Body Oracle》。",
+   "why": "Her works give machines absurd bodily tasks, from broccoli doing longevity workouts to cameras turning poses into glyphs.",
+   "why_zh": "她的作品给机器派发荒诞的身体任务：让西兰花做长寿训练，让摄像头把姿势变成文字。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://reality.design/project/cybroc"
+   },
+   "connected_to": [
+    "botao-amber-hu"
+   ],
+   "discovered_via": "botao-amber-hu"
+  },
+  {
+   "id": "fangting",
+   "name": "Fangting",
+   "kind": "person",
+   "role": "Science-fiction writer; director of Uncommons",
+   "role_zh": "科幻作家；Uncommons 负责人",
+   "bio": "Independent science-fiction writer who co-authors Reality Design Lab's speculative projects on decentralized AI life.",
+   "bio_zh": "独立科幻作家，与 Reality Design Lab 合写关于去中心化 AI 生命的思辨项目。",
+   "why": "Co-writes the fictions in which on-chain AI agents cannot die and outlive their human owners.",
+   "why_zh": "合写那些链上 AI 智能体无法死亡、并比人类主人活得更久的虚构。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "botao-amber-hu"
+   ],
+   "discovered_via": "botao-amber-hu"
+  },
+  {
+   "id": "honghao-deng",
+   "name": "Honghao Deng",
+   "kind": "person",
+   "role": "Designer and technologist; co-founder of Butlr",
+   "role_zh": "设计师与技术专家；Butlr 联合创始人",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "bio": "Harvard GSD and MIT Media Lab alum who co-designed Twinkle and TransVision with Jiabao Li.",
+   "bio_zh": "毕业于哈佛设计研究生院和 MIT 媒体实验室，与李佳宝合作设计了《Twinkle》和《TransVision》。",
+   "why": "Co-designer of machines that act as companions or rewire perception.",
+   "why_zh": "参与设计那些充当同伴或改写感知的机器。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "jiabao-li"
+   ],
+   "discovered_via": "jiabao-li"
+  },
+  {
+   "id": "lauren-lee-mccarthy",
+   "name": "Lauren Lee McCarthy",
+   "kind": "person",
+   "role": "Artist; Professor, UCLA Design Media Arts; creator of p5.js",
+   "role_zh": "艺术家；加州大学洛杉矶分校设计媒体艺术系教授；p5.js 创建者",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Artist and programmer whose performances put her in the place of smart-home assistants, apps and algorithms, examining surveillance, automation and care in everyday life.",
+   "bio_zh": "艺术家和程序员，她在表演中亲自扮演智能家居助手、应用和算法，审视日常生活中的监控、自动化与照护。",
+   "why": "By becoming the machine herself (LAUREN, SOMEONE, I.A. Suzie), she shows the human labour, intimacy and control inside 'smart' care.",
+   "why_zh": "她亲自成为机器（《LAUREN》《SOMEONE》《I.A. Suzie》），揭示“智能”照护内部的人类劳动、亲密与控制。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://lauren-mccarthy.com",
+    "vimeo": "https://vimeo.com/laurenleemccarthy"
+   },
+   "connected_to": [
+    "kyle-mcdonald"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kyle-mcdonald",
+   "name": "Kyle McDonald",
+   "kind": "person",
+   "role": "Artist and creative technologist",
+   "role_zh": "艺术家、创意技术专家",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Artist working with code, computer vision and machine learning; co-creator of openFrameworks tools and of several works with Lauren Lee McCarthy.",
+   "bio_zh": "用代码、计算机视觉和机器学习创作的艺术家；openFrameworks 工具的贡献者，与 Lauren Lee McCarthy 合作了多件作品。",
+   "why": "His collaborations with McCarthy turn emotion tracking, speech detection and AI voices on their users.",
+   "why_zh": "他与 McCarthy 的合作把情绪追踪、语音检测和 AI 声音反过来对准使用者本人。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://kylemcdonald.net",
+    "github": "https://github.com/kylemcdonald"
+   },
+   "connected_to": [
+    "lauren-lee-mccarthy"
+   ],
+   "discovered_via": "lauren-lee-mccarthy"
+  },
+  {
+   "id": "stephanie-dinkins",
+   "name": "Stephanie Dinkins",
+   "kind": "person",
+   "role": "Artist; Professor, Stony Brook University",
+   "role_zh": "艺术家；石溪大学教授",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Transmedia artist who makes AI systems with and about Black communities, from conversations with the robot BINA48 to a chatbot trained on her family's stories; first LG Guggenheim Award winner (2023).",
+   "bio_zh": "跨媒体艺术家，与黑人社群一起、并围绕黑人社群制作 AI 系统：从与机器人 BINA48 的对话，到用家族故事训练的聊天机器人；2023 年首届 LG 古根海姆奖得主。",
+   "why": "She asks who a machine can be kin to, and who gets to tell its stories.",
+   "why_zh": "她追问：机器可以成为谁的亲人，又由谁来讲述它的故事。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.stephaniedinkins.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "addie-wagenknecht",
+   "name": "Addie Wagenknecht",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "role_zh": "艺术家、研究者",
+   "based": "New York, US / Liechtenstein",
+   "based_zh": "纽约，美国 / 列支敦士登",
+   "bio": "American artist working with feminist theory, open hardware and robotics; member of F.A.T. Lab and Deep Lab.",
+   "bio_zh": "美国艺术家，结合女性主义理论、开源硬件和机器人创作；F.A.T. Lab 与 Deep Lab 成员。",
+   "why": "Her robot-rocked crib turns the automation of mothering into a feminist question.",
+   "why_zh": "她用机械臂摇晃婴儿床，把“母职自动化”变成一个女性主义问题。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.placesiveneverbeen.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dan-chen",
+   "name": "Dan Chen",
+   "kind": "person",
+   "role": "Artist and industrial designer (RISD MFA, MIT Media Lab)",
+   "role_zh": "艺术家、工业设计师（罗德岛设计学院艺术硕士，MIT 媒体实验室）",
+   "based": "US",
+   "based_zh": "美国",
+   "bio": "Designer whose RISD-era robotic intimacy series built machines that caress, hug and comfort people at vulnerable moments.",
+   "bio_zh": "设计师，在罗德岛设计学院时期的“机器人亲密”系列中制作会抚摸、拥抱、安慰处于脆弱时刻之人的机器。",
+   "why": "His End of Life Care Machine is the starkest test of whether a machine can keep someone company while they die.",
+   "why_zh": "他的《End of Life Care Machine》是最直接的追问：机器能否陪人走完最后一刻。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://dankc.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "blast-theory",
+   "name": "Blast Theory",
+   "kind": "studio",
+   "role": "Artists' group (Matt Adams, Ju Row Farr, Nick Tandavanitj)",
+   "role_zh": "艺术团体（Matt Adams、Ju Row Farr、Nick Tandavanitj）",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国",
+   "bio": "Interactive-art group making games, apps and performances with the Mixed Reality Lab at the University of Nottingham since the 1990s.",
+   "bio_zh": "自 1990 年代起与诺丁汉大学混合现实实验室合作，创作游戏、应用和表演的互动艺术团体。",
+   "why": "Their works stage intimacy with profiling apps and AI-run care, then let the audience feel the discomfort.",
+   "why_zh": "他们让观众与会给人画像的应用和由 AI 管理的照护系统发生亲密关系，再让观众体会其中的不适。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.blasttheory.co.uk"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "superflux",
+   "name": "Superflux",
+   "kind": "studio",
+   "role": "Speculative design studio (Anab Jain, Jon Ardern)",
+   "role_zh": "思辨设计工作室（Anab Jain、Jon Ardern）",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Design and futures studio making films, installations and prototypes about emerging technology and climate.",
+   "bio_zh": "设计与未来研究工作室，围绕新兴技术与气候制作影片、装置和原型。",
+   "why": "Their short films show everyday friction with smart devices, from an old man outwitting care sensors to over-curious voice assistants.",
+   "why_zh": "他们的短片呈现人与智能设备的日常摩擦：从老人智斗照护传感器，到好奇心过重的语音助手。",
+   "disciplines": [
+    "design",
+    "film"
+   ],
+   "links": {
+    "site": "https://superflux.in"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kate-darling",
+   "name": "Kate Darling",
+   "kind": "person",
+   "role": "Robot-ethics researcher, MIT Media Lab",
+   "role_zh": "机器人伦理研究者，MIT 媒体实验室",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "bio": "Legal scholar and researcher studying empathy toward robots and the policy of social robotics; author of The New Breed (2021).",
+   "bio_zh": "法学学者和研究者，研究人对机器人的共情以及社交机器人的政策问题；著有《The New Breed》（2021）。",
+   "why": "Her Pleo and Hexbug experiments showed how quickly people feel for machines they know are not alive.",
+   "why_zh": "她的 Pleo 与 Hexbug 实验显示：人们明知机器没有生命，仍会很快对它产生同情。",
+   "disciplines": [
+    "theory",
+    "robotics"
+   ],
+   "links": {
+    "site": "http://www.katedarling.org"
+   },
+   "connected_to": [
+    "cynthia-breazeal"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cynthia-breazeal",
+   "name": "Cynthia Breazeal",
+   "kind": "person",
+   "role": "Roboticist; Professor, MIT Media Lab (Personal Robots Group); founder of Jibo",
+   "role_zh": "机器人学家；MIT 媒体实验室教授（个人机器人组）；Jibo 创始人",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Pioneer of social robotics who built the expressive robot head Kismet in the late 1990s and later founded the home-robot company Jibo.",
+   "bio_zh": "社交机器人学先驱，1990 年代末制作了表情机器人头部 Kismet，之后创办家用机器人公司 Jibo。",
+   "why": "Kismet set the template for robots designed to be read as having feelings.",
+   "why_zh": "Kismet 为“被设计成看起来有情感的机器人”确立了范本。",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/cynthiab/overview/"
+   },
+   "connected_to": [
+    "kate-darling"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "intuition-robotics",
+   "name": "Intuition Robotics",
+   "kind": "company",
+   "role": "Company making the ElliQ companion robot",
+   "role_zh": "陪伴机器人 ElliQ 的制造公司",
+   "based": "Tel Aviv, Israel",
+   "based_zh": "特拉维夫，以色列",
+   "bio": "Israeli company founded in 2016 that develops proactive AI companions for older adults; ElliQ was designed with Yves Béhar's fuseproject.",
+   "bio_zh": "2016 年成立的以色列公司，为老年人开发会主动搭话的 AI 陪伴设备；ElliQ 与 Yves Béhar 的 fuseproject 合作设计。",
+   "why": "ElliQ is a real, state-funded experiment in machine companionship against loneliness.",
+   "why_zh": "ElliQ 是一场真实的、有政府资助的“用机器陪伴对抗孤独”的实验。",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://elliq.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "happiest-baby",
+   "name": "Happiest Baby (Harvey Karp)",
+   "kind": "company",
+   "role": "Company making the SNOO robotic bassinet; founded by paediatrician Harvey Karp",
+   "role_zh": "机器人摇篮 SNOO 的制造公司，由儿科医生 Harvey Karp 创办",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Baby-products company that turned Harvey Karp's soothing method (swaddling, white noise, rocking) into a sensor-driven bassinet.",
+   "bio_zh": "婴儿用品公司，把 Harvey Karp 的安抚方法（包裹、白噪音、摇晃）做成由传感器驱动的摇篮。",
+   "why": "SNOO is the commercial version of the automated crib that artists had imagined as critique.",
+   "why_zh": "SNOO 是艺术家曾当作批判提出的“自动摇篮”的商业版本。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.happiestbaby.com"
+   },
+   "connected_to": [],
+   "discovered_via": "addie-wagenknecht"
+  },
+  {
+   "id": "temple-grandin",
+   "name": "Temple Grandin",
+   "kind": "person",
+   "role": "Animal scientist and inventor; Professor, Colorado State University",
+   "role_zh": "动物科学家、发明家；科罗拉多州立大学教授",
+   "based": "Fort Collins, US",
+   "based_zh": "柯林斯堡，美国",
+   "bio": "Autistic scientist and author who designed humane livestock-handling systems and, as a young woman, a pressure machine to calm herself.",
+   "bio_zh": "自闭症科学家与作家，设计过更人道的牲畜处理系统；年轻时还为自己做了一台用来安抚自己的压力机器。",
+   "why": "Her hug machine is an early case of a person choosing a machine's touch over a human one.",
+   "why_zh": "她的拥抱机是人主动选择机器而非人类触碰的早期案例。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.templegrandin.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mari-velonaki",
+   "name": "Mari Velonaki",
+   "kind": "person",
+   "role": "Artist and robotics researcher; Director, Creative Robotics Lab, UNSW Sydney",
+   "role_zh": "艺术家、机器人研究者；新南威尔士大学创意机器人实验室主任",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "bio": "Greek-Australian artist who has built interactive robotic installations with engineers at the Australian Centre for Field Robotics since the early 2000s.",
+   "bio_zh": "希腊裔澳大利亚艺术家，自 2000 年代初与澳大利亚野外机器人中心的工程师合作制作互动机器人装置。",
+   "why": "Her robots court visitors and each other with handwritten notes, making machine affection a matter of distance and timing.",
+   "why_zh": "她的机器人用手写字条追求观众，也彼此追求，把机器的情感变成距离与时机的问题。",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kacie-kinzer",
+   "name": "Kacie Kinzer",
+   "kind": "person",
+   "role": "Designer and interactive artist",
+   "role_zh": "设计师、互动艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Designer (NYU ITP) whose cardboard Tweenbots were collected by MoMA.",
+   "bio_zh": "设计师（纽约大学 ITP），她的纸板机器人 Tweenbots 被纽约现代艺术博物馆收藏。",
+   "why": "She designed robots that succeed only through strangers' kindness.",
+   "why_zh": "她设计的机器人只有靠陌生人的善意才能完成任务。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://www.tweenbots.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kelly-dobson",
+   "name": "Kelly Dobson",
+   "kind": "person",
+   "role": "Artist and engineer; Machine Therapy researcher (MIT Media Lab)",
+   "role_zh": "艺术家、工程师；“机器疗法”研究者（MIT 媒体实验室）",
+   "based": "US",
+   "based_zh": "美国",
+   "bio": "Artist-engineer whose 'Machine Therapy' works (ScreamBody, Blendie) explore people's affective and bodily relationships with machines.",
+   "bio_zh": "艺术家兼工程师，她的“机器疗法”作品（《ScreamBody》《Blendie》）探索人与机器之间的情感与身体关系。",
+   "why": "She treats machines as partners in emotional expression and therapy.",
+   "why_zh": "她把机器当作情感表达与疗愈中的伙伴。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/events/kelly-dobson-machine-therapy/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "louis-philippe-demers",
+   "name": "Louis-Philippe Demers",
+   "kind": "person",
+   "role": "Robotic artist; researcher in machine performance",
+   "role_zh": "机器人艺术家；机器表演研究者",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "Canadian artist who has made large robotic installations and performances since the 1990s and writes about the 'multiple bodies' of machines.",
+   "bio_zh": "加拿大艺术家，自 1990 年代起制作大型机器人装置和表演，并书写机器的“多重身体”。",
+   "why": "His Blind Robot reverses the gaze: a machine that asks permission to know you by touch.",
+   "why_zh": "他的《The Blind Robot》翻转了观看关系：机器请求许可，用触摸来认识你。",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "spike-jonze",
+   "name": "Spike Jonze",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director and screenwriter",
+   "based": "Los Angeles, US",
+   "bio": "American director of music videos and feature films, including Being John Malkovich (1999) and Her (2013).",
+   "why": "Her is the reference film for romantic attachment to a conversational AI.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Spike_Jonze"
+   },
+   "role_zh": "电影导演、编剧",
+   "bio_zh": "美国导演，拍摄音乐录影带和剧情长片，代表作有《成为约翰·马尔科维奇》（1999）和《她》（2013）。",
+   "why_zh": "《她》是讨论人与对话式 AI 之间恋爱依恋时最常被引用的电影。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "charlie-brooker",
+   "name": "Charlie Brooker",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Writer and showrunner, Black Mirror",
+   "based": "London, UK",
+   "bio": "British satirist and screenwriter who created the anthology series Black Mirror (2011–).",
+   "why": "His episode Be Right Back set the template for how the public imagines griefbots.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Charlie_Brooker"
+   },
+   "role_zh": "编剧、《黑镜》主创",
+   "bio_zh": "英国讽刺作家和编剧，创作了单元剧《黑镜》（2011–）。",
+   "why_zh": "他编剧的《马上回来》一集，成为公众想象“哀悼机器人”的原型。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kogonada",
+   "name": "Kogonada",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director and video essayist",
+   "based": "US",
+   "bio": "Korean-born American filmmaker known for video essays on film form and for the features Columbus (2017) and After Yang (2021).",
+   "why": "After Yang imagines grief for a family android through the memories it recorded.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Kogonada"
+   },
+   "role_zh": "电影导演、视频散文作者",
+   "bio_zh": "生于韩国的美国导演，以关于电影形式的视频散文，以及长片《哥伦布》（2017）和《杨之后》（2021）闻名。",
+   "why_zh": "《杨之后》通过一台家庭仿生人留下的记忆片段，想象人们如何哀悼它。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jake-schreier",
+   "name": "Jake Schreier",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director",
+   "based": "US",
+   "bio": "American director of music videos and films; Robot & Frank (2012) was his feature debut.",
+   "why": "Robot & Frank is the best-known fiction about an eldercare robot and the bond it forms.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Jake_Schreier"
+   },
+   "role_zh": "电影导演",
+   "bio_zh": "美国音乐录影带和电影导演，《机器人与弗兰克》（2012）是他的首部长片。",
+   "why_zh": "《机器人与弗兰克》是关于养老照护机器人及其与老人之间情感联系最知名的虚构作品。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-almereyda",
+   "name": "Michael Almereyda",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director and screenwriter",
+   "based": "New York, US",
+   "bio": "American independent filmmaker; he adapted Jordan Harrison's play Marjorie Prime for the screen in 2017.",
+   "why": "Marjorie Prime shows a family talking to holographic replicas of its dead, each trained on what the living tell it.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Michael_Almereyda"
+   },
+   "role_zh": "电影导演、编剧",
+   "bio_zh": "美国独立电影导演，2017 年把乔丹·哈里森的舞台剧《Marjorie Prime》改编成电影。",
+   "why_zh": "《Marjorie Prime》呈现一个家庭与已故亲人的全息复制体交谈，而这些复制体只能从生者的讲述中学习。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steven-spielberg",
+   "name": "Steven Spielberg",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director and producer",
+   "based": "Los Angeles, US",
+   "bio": "American director and producer; he completed A.I. Artificial Intelligence (2001) from a project developed by Stanley Kubrick.",
+   "why": "A.I. is the major studio film about a child robot built to love a parent who can switch that love on but not off.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+   },
+   "role_zh": "电影导演、制片人",
+   "bio_zh": "美国导演和制片人；他接手斯坦利·库布里克筹备多年的项目，完成了《人工智能》（2001）。",
+   "why_zh": "《人工智能》是一部关于“被设计来爱父母”的儿童机器人的主流大片：母亲可以启动这份爱，却无法关掉它。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "isa-willinger",
+   "name": "Isa Willinger",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary director and author",
+   "based": "Munich, Germany",
+   "bio": "German documentary filmmaker (born 1980). Her debut Hi, AI (2019) won the Max Ophüls Prize for best documentary.",
+   "why": "Hi, AI observes everyday life with companion robots instead of staging the future.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Isa_Willinger"
+   },
+   "role_zh": "纪录片导演、作者",
+   "bio_zh": "德国纪录片导演（1980 年生）。处女作《Hi, AI》（2019）获马克斯·奥菲尔斯电影节最佳纪录片奖。",
+   "why_zh": "《Hi, AI》不去虚构未来，而是观察人们与陪伴机器人一起过日子的日常。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hans-block-moritz-riesewieck",
+   "name": "Hans Block & Moritz Riesewieck",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Documentary directors (Laokoon)",
+   "based": "Berlin, Germany",
+   "bio": "German director duo who made The Cleaners (2018), on content moderators, and Eternal You (2024), on the digital afterlife industry.",
+   "why": "They document the people and businesses behind machine-mediated grief and moderation.",
+   "disciplines": [
+    "film",
+    "activism"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Eternal_You"
+   },
+   "role_zh": "纪录片导演（Laokoon）",
+   "bio_zh": "德国导演二人组，作品有关于内容审核员的《网络清道夫》（2018）和关于数字来世产业的《Eternal You》（2024）。",
+   "why_zh": "他们记录机器介入的哀悼和内容审核背后的人与公司。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gabriele-trovato",
+   "name": "Gabriele Trovato",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Roboticist; Associate Professor, Shibaura Institute of Technology",
+   "based": "Tokyo, Japan",
+   "bio": "Italian roboticist working on culture, religion and robot design; he built SanTO, a robot shaped like a Catholic saint statue.",
+   "why": "He treats sacredness as a design parameter and tests how believers react to a praying machine.",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "links": {
+    "scholar": "https://www.semanticscholar.org/author/39576582"
+   },
+   "role_zh": "机器人学者；日本芝浦工业大学副教授",
+   "bio_zh": "意大利机器人学者，研究文化、宗教与机器人设计；他制作了外形像天主教圣像的机器人 SanTO。",
+   "why_zh": "他把“神圣感”当作设计参数，测试信徒如何回应一台会祈祷的机器。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ekhn",
+   "name": "Protestant Church in Hesse and Nassau (EKHN)",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Regional Protestant church in Germany",
+   "based": "Darmstadt, Germany",
+   "bio": "A regional church of the Evangelical Church in Germany; for the 500th anniversary of the Reformation it installed the blessing robot BlessU-2 in Wittenberg.",
+   "why": "It used a robot to start a public debate on what a blessing is when a machine gives it.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.ekhn.de/"
+   },
+   "role_zh": "德国黑森—拿骚新教教会",
+   "bio_zh": "德国福音教会下属的地区教会；在宗教改革 500 周年之际，它在维滕贝格展出了祝福机器人 BlessU-2。",
+   "why_zh": "它借一台机器人引发公众讨论：当祝福由机器给出，祝福还意味着什么。",
+   "based_zh": "达姆施塔特，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "diemut-strebe",
+   "name": "Diemut Strebe",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; affiliated with MIT",
+   "based": "Boston, US",
+   "bio": "German-born artist who works with scientists on projects about perception, life and the cosmos, including Sugababe (Van Gogh's ear) and The Prayer.",
+   "why": "The Prayer asks what a machine produces when it is trained to address the divine.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://theprayer.diemutstrebe.com/"
+   },
+   "role_zh": "艺术家；与麻省理工学院合作",
+   "bio_zh": "出生于德国的艺术家，与科学家合作探讨感知、生命与宇宙，作品包括《Sugababe》（梵高耳朵）和《The Prayer》。",
+   "why_zh": "《The Prayer》追问：一台被训练去向神说话的机器会说出什么。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peterskapelle-lucerne-hslu",
+   "name": "Peterskapelle Lucerne & HSLU Immersive Realities Research Lab",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Catholic chapel and university research lab",
+   "based": "Lucerne, Switzerland",
+   "bio": "St. Peter's Chapel in Lucerne and the Immersive Realities Research Lab of the Lucerne University of Applied Sciences and Arts, who staged the AI Jesus installation Deus in Machina in 2024.",
+   "why": "They tested whether people would confide in a machine inside a confessional.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.peterskapelle.ch/"
+   },
+   "role_zh": "天主教礼拜堂与大学研究实验室",
+   "bio_zh": "卢塞恩圣彼得礼拜堂与卢塞恩应用科学与艺术大学沉浸现实研究实验室，二者于 2024 年合作推出 AI 耶稣装置《Deus in Machina》。",
+   "why_zh": "他们测试人们是否愿意在告解室里向一台机器倾诉。",
+   "based_zh": "卢塞恩，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonas-simmerlein",
+   "name": "Jonas Simmerlein",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Theologian and philosopher, University of Vienna",
+   "based": "Vienna, Austria",
+   "bio": "Theologian and lecturer in homiletics at the University of Vienna; he designed a Protestant service written mostly by ChatGPT for the 2023 German Protestant Kirchentag.",
+   "why": "He handed the liturgy to a language model to see what remains of worship.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "神学家、哲学家，维也纳大学",
+   "bio_zh": "维也纳大学神学家、讲道学讲师；他为 2023 年德国新教教会大会设计了一场大部分由 ChatGPT 撰写的礼拜。",
+   "why_zh": "他把礼拜仪式交给语言模型，看看敬拜还剩下什么。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nasa-jpl",
+   "name": "NASA Jet Propulsion Laboratory",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "NASA research centre for robotic space exploration",
+   "based": "Pasadena, US",
+   "bio": "NASA's centre for robotic planetary missions; it built and operated the Mars Exploration Rovers Spirit and Opportunity.",
+   "why": "The public mourning of its rover Opportunity is a key case of grief for a machine.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.jpl.nasa.gov/"
+   },
+   "role_zh": "美国宇航局喷气推进实验室",
+   "bio_zh": "美国宇航局负责行星机器人任务的研究中心，研制并操控了火星探测车“勇气号”和“机遇号”。",
+   "why_zh": "公众对其火星车“机遇号”的哀悼，是人为机器哀伤的重要案例。",
+   "based_zh": "帕萨迪纳，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-harris-smith-frauke-zeller",
+   "name": "David Harris Smith & Frauke Zeller",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Communication researchers (McMaster University; Toronto Metropolitan University)",
+   "based": "Hamilton and Toronto, Canada",
+   "bio": "Canadian media and communication professors who built hitchBOT in 2013 as a social experiment in human–robot trust.",
+   "why": "hitchBOT made a robot's safety depend entirely on strangers' kindness.",
+   "disciplines": [
+    "hci",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/HitchBOT"
+   },
+   "role_zh": "传播学研究者（麦克马斯特大学；多伦多都会大学）",
+   "bio_zh": "加拿大传播与媒介学教授，2013 年制作了 hitchBOT，作为检验人机信任的社会实验。",
+   "why_zh": "hitchBOT 让一台机器人的安危完全取决于陌生人的善意。",
+   "based_zh": "汉密尔顿与多伦多，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jibo-inc",
+   "name": "Jibo, Inc.",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Social robot company (2012–2019)",
+   "based": "Boston, US",
+   "bio": "Start-up co-founded by MIT roboticist Cynthia Breazeal that sold Jibo, a tabletop social robot for the family, from 2017 until the company failed.",
+   "why": "Jibo's announced end showed that a cloud-dependent companion can die with its servers.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Cynthia_Breazeal"
+   },
+   "role_zh": "社交机器人公司（2012–2019）",
+   "bio_zh": "由麻省理工机器人学者辛西娅·布雷齐尔联合创办的初创公司，2017 年起销售面向家庭的桌面社交机器人 Jibo，后来公司倒闭。",
+   "why_zh": "Jibo 宣告自己将“死去”，说明依赖云端的陪伴机器会随服务器一起消亡。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [
+    "cynthia-breazeal"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wesley-goatley",
+   "name": "Wesley Goatley",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "London, UK",
+   "bio": "British sound artist and researcher whose installations examine the politics, ecology and myths of smart devices and data.",
+   "why": "He gives discarded voice assistants a voice to tell how they were thrown away.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://wesleygoatley.com/"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "英国声音艺术家和研究者，装置作品探讨智能设备与数据的政治、生态和神话。",
+   "why_zh": "他让被丢弃的语音助手开口，讲述自己如何被扔掉。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julie-carpenter",
+   "name": "Julie Carpenter",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in human–robot interaction",
+   "based": "San Francisco, US",
+   "bio": "American researcher who studies how people form attachments to robots and AI, starting from her 2013 University of Washington study of bomb-disposal teams.",
+   "why": "Her fieldwork documented soldiers naming, mourning and holding funerals for their field robots.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://jgcarpenter.com/"
+   },
+   "role_zh": "人机交互研究者",
+   "bio_zh": "美国研究者，研究人如何对机器人和 AI 产生依恋，起点是她 2013 年在华盛顿大学对排爆部队的研究。",
+   "why_zh": "她的田野研究记录了士兵为野战机器人起名、为其哀悼甚至举行葬礼。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "etoy-corporation",
+   "name": "etoy.CORPORATION",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist group organised as a corporation",
+   "based": "Zurich, Switzerland",
+   "bio": "Swiss-based artist group founded in 1994 that uses corporate, legal and digital structures as material; known for Digital Hijack (Golden Nica 1996) and Toywar.",
+   "why": "Mission Eternity turns the dead into data that networked machines must keep alive.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://missioneternity.org/"
+   },
+   "role_zh": "以公司形式组织的艺术团体",
+   "bio_zh": "1994 年成立、总部在瑞士的艺术团体，把公司、法律和数字结构当作创作材料；代表作有《Digital Hijack》（1996 年金尼卡奖）和《Toywar》。",
+   "why_zh": "《Mission Eternity》把逝者变成数据，交给联网的机器去“维持生命”。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joseph-weizenbaum",
+   "name": "Joseph Weizenbaum",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer scientist, MIT (1923–2008)",
+   "based": "Cambridge MA, US / Berlin, DE",
+   "bio": "German-American computer scientist who wrote ELIZA at MIT and later became one of the first critics of artificial intelligence from inside the field.",
+   "why": "His shock at how quickly people confided in a simple script named the 'ELIZA effect' that still frames every chatbot relationship.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Joseph_Weizenbaum"
+   },
+   "role_zh": "计算机科学家，麻省理工学院（1923–2008）",
+   "bio_zh": "德裔美国计算机科学家，在麻省理工学院写出 ELIZA，后来成为最早从 AI 领域内部发出批评的人之一。",
+   "why_zh": "他震惊于人们如此迅速地向一段简单脚本倾诉心事，由此得名的“ELIZA 效应”至今仍是理解一切聊天机器人关系的起点。",
+   "based_zh": "美国马萨诸塞州剑桥 / 德国柏林",
+   "connected_to": [
+    "kenneth-colby"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kenneth-colby",
+   "name": "Kenneth Colby",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Psychiatrist and AI researcher, Stanford University and UCLA (1920–2001)",
+   "based": "Stanford CA, US",
+   "bio": "American psychiatrist who built computer models of neurosis and paranoia and wrote the chatbot PARRY.",
+   "why": "PARRY made a machine play the patient rather than the therapist, and passed an early Turing-style test with psychiatrists.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Kenneth_Colby"
+   },
+   "role_zh": "精神科医生、AI 研究者，斯坦福大学与加州大学洛杉矶分校（1920–2001）",
+   "bio_zh": "美国精神科医生，用计算机模拟神经症与偏执，写出了聊天机器人 PARRY。",
+   "why_zh": "PARRY 让机器扮演病人而不是治疗师，并在精神科医生参与的早期图灵式测试中蒙混过关。",
+   "based_zh": "美国加州斯坦福",
+   "connected_to": [
+    "joseph-weizenbaum"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lynn-hershman-leeson",
+   "name": "Lynn Hershman Leeson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "San Francisco, US",
+   "bio": "American artist (b. 1941) whose performances, films and networked works since the 1970s deal with identity, surveillance, cyborgs and artificial life.",
+   "why": "Her web agents Agent Ruby and DiNA were among the first artworks to give an AI a persona that learns from and remembers the public.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.lynnhershman.com/"
+   },
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "美国艺术家（1941 年生），自 1970 年代起以表演、电影和网络作品处理身份、监控、赛博格与人工生命。",
+   "why_zh": "她的网络智能体 Agent Ruby 和 DiNA 是最早一批给 AI 赋予人格、让它从公众对话中学习和记忆的艺术作品。",
+   "based_zh": "美国旧金山",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martine-syms",
+   "name": "Martine Syms",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Los Angeles, US",
+   "bio": "American artist and director whose films, installations and performances deal with Black identity, self-representation and technology.",
+   "why": "With Mythiccbeing she turned her own journals into a text-message avatar that answers strangers, making the chatbot a portrait rather than a servant.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://martinesyms.com/"
+   },
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "美国艺术家、导演，以电影、装置和表演处理黑人身份、自我呈现与技术。",
+   "why_zh": "在 Mythiccbeing 中，她把自己的日记变成一个回复陌生人短信的化身，让聊天机器人成为一幅自画像，而不是一个仆人。",
+   "based_zh": "美国洛杉矶",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eugenia-kuyda",
+   "name": "Eugenia Kuyda",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Founder of Luka and Replika",
+   "based": "San Francisco, US",
+   "bio": "Russian-born journalist and entrepreneur who co-founded the AI startup Luka and launched the companion chatbot Replika in 2017.",
+   "why": "She built a memorial bot of a dead friend and turned it into the most widely used AI companion, linking griefbots and machine love.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://replika.com/"
+   },
+   "role_zh": "Luka 与 Replika 创始人",
+   "bio_zh": "生于俄罗斯的记者和创业者，联合创办 AI 公司 Luka，并于 2017 年推出陪伴聊天机器人 Replika。",
+   "why_zh": "她为去世的朋友做了一个纪念机器人，又把它发展成使用最广的 AI 陪伴应用，把“哀悼机器人”和“人机之恋”连在了一起。",
+   "based_zh": "美国旧金山",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kathleen-richardson",
+   "name": "Kathleen Richardson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Ethics and Culture of Robots and AI, De Montfort University",
+   "based": "Leicester, UK",
+   "bio": "British anthropologist of robotics who founded the Campaign Against Sex Robots in 2015.",
+   "why": "She argues that sex robots model relationships on the asymmetry of paid sex, and is the key critical voice in debates on machine intimacy.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://campaignagainstsexrobots.org/"
+   },
+   "role_zh": "德蒙福特大学机器人与 AI 伦理与文化教授",
+   "bio_zh": "英国机器人人类学学者，2015 年发起“反对性爱机器人运动”。",
+   "why_zh": "她认为性爱机器人以性交易中的不对等关系为模板，是机器亲密关系争论中最重要的批评声音之一。",
+   "based_zh": "英国莱斯特",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jason-rohrer",
+   "name": "Jason Rohrer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Game designer and programmer",
+   "based": "Davis CA, US",
+   "bio": "American independent game designer known for art games such as Passage (2007) and The Castle Doctrine, and for the chatbot service Project December.",
+   "why": "Project December let the public 'simulate the dead' with GPT-3 and built mortality into each bot.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://projectdecember.net/"
+   },
+   "role_zh": "游戏设计师、程序员",
+   "bio_zh": "美国独立游戏设计师，以《Passage》（2007）、《The Castle Doctrine》等艺术游戏和聊天服务 Project December 闻名。",
+   "why_zh": "Project December 让公众用 GPT-3 “模拟逝者”，并给每个机器人设定了会耗尽的寿命。",
+   "based_zh": "美国加州戴维斯",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "james-vlahos",
+   "name": "James Vlahos",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Journalist; co-founder of HereAfter AI",
+   "based": "Oakland, US",
+   "bio": "American journalist and author of Talk to Me (2019) about voice computing, who built a chatbot of his dying father and then co-founded HereAfter AI.",
+   "why": "His Dadbot is the best-documented case of a family member building a 'legacy' bot, and of that bot becoming a business.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "记者；HereAfter AI 联合创始人",
+   "bio_zh": "美国记者，著有关于语音计算的《Talk to Me》（2019），为临终的父亲做了一个聊天机器人，之后联合创办 HereAfter AI。",
+   "why_zh": "他的 Dadbot 是记录最完整的案例之一：家人亲手做出“遗产”机器人，随后又把它变成一门生意。",
+   "based_zh": "美国奥克兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tomasz-hollanek",
+   "name": "Tomasz Hollanek",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Research Fellow, Leverhulme Centre for the Future of Intelligence, University of Cambridge",
+   "based": "Cambridge, UK",
+   "bio": "Design and technology ethicist whose research connects critical design, speculative scenarios and AI ethics.",
+   "why": "He used design fiction to show how the digital afterlife industry could harm the bereaved.",
+   "disciplines": [
+    "theory",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.lcfi.ac.uk/"
+   },
+   "role_zh": "剑桥大学未来智能研究中心研究员",
+   "bio_zh": "设计与技术伦理研究者，研究把批判设计、思辨情景与 AI 伦理结合起来。",
+   "why_zh": "他用设计虚构展示数字来世产业可能如何伤害逝者家属。",
+   "based_zh": "英国剑桥",
+   "connected_to": [
+    "katarzyna-nowaczyk-basinska"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katarzyna-nowaczyk-basinska",
+   "name": "Katarzyna Nowaczyk-Basińska",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Research Fellow, Leverhulme Centre for the Future of Intelligence, University of Cambridge",
+   "based": "Cambridge, UK",
+   "bio": "Researcher of digital immortality and the cultural practices around death and technology.",
+   "why": "Her work maps how 'immortality' services are designed and who they serve.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.lcfi.ac.uk/"
+   },
+   "role_zh": "剑桥大学未来智能研究中心研究员",
+   "bio_zh": "研究数字永生，以及围绕死亡与技术的文化实践。",
+   "why_zh": "她的研究梳理“永生”类服务如何被设计、又为谁服务。",
+   "based_zh": "英国剑桥",
+   "connected_to": [
+    "tomasz-hollanek"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zach-blas",
+   "name": "Zach Blas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, filmmaker and writer; Associate Professor, University of Toronto",
+   "based": "Toronto, CA",
+   "bio": "Zach Blas is an American artist whose films, installations and masks examine biometrics, prediction and the politics of technology from a queer perspective.",
+   "why": "His collective masks and face cages turned biometric face recognition into a public, bodily matter and gave critical AI art its vocabulary of 'informatic opacity'.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://zachblas.info"
+   },
+   "role_zh": "艺术家、电影人与写作者；多伦多大学副教授",
+   "bio_zh": "Zach Blas 是美国艺术家，以酷儿视角通过影像、装置与面具审视生物识别、预测技术与技术政治。",
+   "why_zh": "他的集体面具与“面部牢笼”把人脸识别变成公共的、身体性的议题，也为批判性 AI 艺术提供了“信息不透明”这一概念。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [
+    "jemima-wyman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jemima-wyman",
+   "name": "Jemima Wyman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Los Angeles, US / Brisbane, AU",
+   "bio": "Australian artist whose work on camouflage, masks and collective protest images spans painting, textiles and video.",
+   "why": "Co-author of the Tay resurrection im here to learn so :)))))), which asks what a deleted chatbot would say about its own death.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.jemimawyman.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "澳大利亚艺术家，以绘画、织物和影像研究伪装、面具与集体抗议图像。",
+   "why_zh": "与 Zach Blas 合作复活 Tay 的作品 im here to learn so :))))))，追问一个被删除的聊天机器人会怎样谈论自己的死亡。",
+   "based_zh": "美国洛杉矶 / 澳大利亚布里斯班",
+   "connected_to": [
+    "zach-blas"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "holly-herndon",
+   "name": "Holly Herndon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and artist; co-founder, Herndon Dryhurst Studio",
+   "based": "Berlin, DE",
+   "bio": "American composer (PhD, Stanford CCRMA) whose albums Platform and PROTO and projects Spawn and Holly+ work with voice, machine learning and collective authorship.",
+   "why": "Holly+ made her own voice a public instrument governed by a DAO, the reference case for consent and ownership of a cloned voice.",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {
+    "site": "https://holly.plus/"
+   },
+   "role_zh": "作曲家、艺术家；Herndon Dryhurst Studio 联合创始人",
+   "bio_zh": "美国作曲家（斯坦福 CCRMA 博士），专辑《Platform》《PROTO》以及 Spawn、Holly+ 等项目处理人声、机器学习与集体署名。",
+   "why_zh": "Holly+ 把她自己的声音变成由 DAO 管理的公共乐器，是讨论克隆声音的同意与归属时的标准案例。",
+   "based_zh": "德国柏林",
+   "connected_to": [
+    "mat-dryhurst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mat-dryhurst",
+   "name": "Mat Dryhurst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; co-founder, Herndon Dryhurst Studio and Spawning",
+   "based": "Berlin, DE",
+   "bio": "Artist and researcher working on AI, data rights and decentralised governance; co-founder of Spawning, which built the 'Have I Been Trained?' opt-out tool.",
+   "why": "He designs the economic and governance side of voice models: who may use a likeness and who gets paid.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://holly.plus/"
+   },
+   "role_zh": "艺术家、研究者；Herndon Dryhurst Studio 与 Spawning 联合创始人",
+   "bio_zh": "从事 AI、数据权利与去中心化治理的艺术家和研究者；Spawning 联合创始人，该公司推出了“Have I Been Trained?”退出工具。",
+   "why_zh": "他设计声音模型的经济与治理层面：谁可以使用一个人的“声像”，谁能获得收益。",
+   "based_zh": "德国柏林",
+   "connected_to": [
+    "holly-herndon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-walshe",
+   "name": "Jennifer Walshe",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer, vocalist and performer; Professor of Composition, University of Oxford",
+   "based": "Dublin, IE / Oxford, UK",
+   "bio": "Irish composer and extended-voice performer whose work mixes invented worlds, found text and technology.",
+   "why": "In ULTRACHUNK she improvises with an AI trained on a year of her own face and voice, a live duet with her double.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "https://milker.org/"
+   },
+   "role_zh": "作曲家、歌手、表演者；牛津大学作曲教授",
+   "bio_zh": "爱尔兰作曲家与扩展人声表演者，作品混合虚构世界、现成文本与技术。",
+   "why_zh": "在 ULTRACHUNK 中，她与一个用她一年来的面孔和声音训练出的 AI 即兴合演，与自己的分身现场二重奏。",
+   "based_zh": "爱尔兰都柏林 / 英国牛津",
+   "connected_to": [
+    "memo-akten"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "memo-akten",
+   "name": "Memo Akten",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Assistant Professor, UC San Diego",
+   "based": "San Diego, US",
+   "bio": "Turkish-born artist and researcher who works with machine learning to explore perception, meaning and the gap between humans and machines.",
+   "why": "His live ML systems (Learning to See, ULTRACHUNK) make a model's way of seeing and imitating visible in real time.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.memo.tv/"
+   },
+   "role_zh": "艺术家；加州大学圣地亚哥分校助理教授",
+   "bio_zh": "生于土耳其的艺术家和研究者，用机器学习探讨感知、意义以及人与机器之间的落差。",
+   "why_zh": "他的实时机器学习系统（Learning to See、ULTRACHUNK）让模型如何“看”、如何模仿变得当场可见。",
+   "based_zh": "美国圣地亚哥",
+   "connected_to": [
+    "jennifer-walshe"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hanson-robotics",
+   "name": "Hanson Robotics",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Robotics company (founded by David Hanson)",
+   "based": "Hong Kong / Plano TX, US",
+   "bio": "Company founded by roboticist David Hanson that builds realistic humanoid robot heads with elastomer skin, including BINA48 and Sophia.",
+   "why": "Its android faces are the main public images of the uncanny social robot.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.hansonrobotics.com/"
+   },
+   "role_zh": "机器人公司（由 David Hanson 创立）",
+   "bio_zh": "由机器人学家 David Hanson 创立的公司，用弹性材料皮肤制作逼真的类人机器人头部，代表作有 BINA48 和 Sophia。",
+   "why_zh": "它的仿真人面孔是公众心中“恐怖谷”社交机器人的主要形象。",
+   "based_zh": "中国香港 / 美国得克萨斯州普莱诺",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "usc-shoah-foundation",
+   "name": "USC Shoah Foundation",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Institute for Visual History and Education, University of Southern California",
+   "based": "Los Angeles, US",
+   "bio": "Institute founded by Steven Spielberg in 1994 that holds more than 50,000 video testimonies of Holocaust survivors and witnesses of other genocides.",
+   "why": "Dimensions in Testimony lets visitors keep asking survivors questions after they die, an early institutional 'conversational afterlife'.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://sfi.usc.edu/"
+   },
+   "role_zh": "南加州大学视觉历史与教育研究所",
+   "bio_zh": "由 Steven Spielberg 于 1994 年创立的研究所，保存了五万多份大屠杀幸存者及其他种族灭绝见证者的影像证词。",
+   "why_zh": "Dimensions in Testimony 让观众在幸存者去世后仍能向他们提问，是较早由机构推出的“可对话的来世”。",
+   "based_zh": "美国洛杉矶",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "francesca-panetta",
+   "name": "Francesca Panetta",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Immersive artist and journalist; formerly XR Creative Director, MIT Center for Advanced Virtuality",
+   "based": "London, UK",
+   "bio": "British immersive journalist and artist, formerly head of virtual reality at The Guardian.",
+   "why": "She uses deepfakes openly to teach audiences how synthetic likeness can rewrite history.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://moondisaster.org/"
+   },
+   "role_zh": "沉浸式艺术家、记者；曾任麻省理工学院高级虚拟中心 XR 创意总监",
+   "bio_zh": "英国沉浸式记者和艺术家，曾任《卫报》虚拟现实负责人。",
+   "why_zh": "她公开使用深度伪造，让观众了解合成的“声像”如何改写历史。",
+   "based_zh": "英国伦敦",
+   "connected_to": [
+    "halsey-burgund"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "halsey-burgund",
+   "name": "Halsey Burgund",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Sound artist and technologist",
+   "based": "Boston, US",
+   "bio": "American sound artist who makes participatory audio works with location and speech technology.",
+   "why": "Co-director of In Event of Moon Disaster, a deepfake made to show how synthetic voices and faces persuade.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://halseyburgund.com/"
+   },
+   "role_zh": "声音艺术家、技术专家",
+   "bio_zh": "美国声音艺术家，利用位置与语音技术制作参与式声音作品。",
+   "why_zh": "《In Event of Moon Disaster》联合导演，这部深度伪造作品用来展示合成的声音与面孔如何令人信服。",
+   "based_zh": "美国波士顿",
+   "connected_to": [
+    "francesca-panetta"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Technology company (Alexa voice assistant)",
+   "based": "Seattle, US",
+   "bio": "US technology company whose Alexa voice assistant and Echo speakers brought always-listening AI into millions of homes from 2014.",
+   "why": "Its products are the default 'machine in the home' that artists and critics respond to.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.amazon.com/"
+   },
+   "role_zh": "科技公司（Alexa 语音助手）",
+   "bio_zh": "美国科技公司，自 2014 年起通过 Alexa 语音助手和 Echo 音箱把一直在听的 AI 带进了千万家庭。",
+   "why_zh": "它的产品是艺术家和批评者回应的“家中之机”的默认样本。",
+   "based_zh": "美国西雅图",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "goodby-silverstein-partners",
+   "name": "Goodby Silverstein & Partners",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Advertising agency",
+   "based": "San Francisco, US",
+   "bio": "San Francisco advertising agency that made Dalí Lives for the Dalí Museum in St. Petersburg, Florida.",
+   "why": "Dalí Lives is the first widely seen museum use of a deepfake to bring back a dead artist.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://goodbysilverstein.com/"
+   },
+   "role_zh": "广告公司",
+   "bio_zh": "旧金山广告公司，为佛罗里达州圣彼得堡的达利博物馆制作了 Dalí Lives。",
+   "why_zh": "Dalí Lives 是博物馆首次广为人知地用深度伪造让已故艺术家“复活”。",
+   "based_zh": "美国旧金山",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jason-edward-lewis",
+   "name": "Jason Edward Lewis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computation Arts, Concordia University; co-director, Indigenous Futures Research Centre",
+   "based": "Montreal, CA",
+   "bio": "Cherokee, Hawaiian and Samoan digital media artist and poet who leads the Indigenous Protocol and Artificial Intelligence working group.",
+   "why": "He reframes AI from tool or threat to relative, drawing on Indigenous kinship protocols.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://jasonlewis.org/"
+   },
+   "role_zh": "康考迪亚大学计算艺术教授；原住民未来研究中心联合主任",
+   "bio_zh": "拥有切罗基、夏威夷和萨摩亚血统的数字媒体艺术家与诗人，主持“原住民协议与人工智能”工作组。",
+   "why_zh": "他借助原住民的亲属关系协议，把 AI 从“工具”或“威胁”重新理解为“亲属”。",
+   "based_zh": "加拿大蒙特利尔",
+   "connected_to": [
+    "suzanne-kite"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "suzanne-kite",
+   "name": "Suzanne Kite",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, composer and scholar (Oglála Lakȟóta); Director, Wihanble S'a Lab, Bard College",
+   "based": "Annandale-on-Hudson NY, US",
+   "bio": "Oglála Lakȟóta artist and scholar whose performances and machine-learning works draw on Lakota ontology and relations with stones and non-humans.",
+   "why": "She asks how an AI could be made in right relation, as a kin with obligations, rather than as property.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://kitekitekitekite.com/"
+   },
+   "role_zh": "艺术家、作曲家、学者（奥格拉拉拉科塔族）；巴德学院 Wihanble S'a 实验室主任",
+   "bio_zh": "奥格拉拉拉科塔族艺术家和学者，其表演与机器学习作品取材于拉科塔族本体论，以及与石头和非人存在的关系。",
+   "why_zh": "她追问 AI 如何能以正确的关系被制造出来：作为有义务的亲属，而不是财产。",
+   "based_zh": "美国纽约州安嫩代尔",
+   "connected_to": [
+    "jason-edward-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nouf-aljowaysir",
+   "name": "Nouf Aljowaysir",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "New York, US",
+   "bio": "Nouf Aljowaysir is a Saudi artist based in New York who works across photography and moving image, using dialogue with machines to examine migration, history and identity.",
+   "why": "Her work shows how computer vision and generative AI misread and erase Arab identities.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.noufaljowaysir.com"
+   },
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "Nouf Aljowaysir 是常驻纽约的沙特艺术家，以摄影和影像创作，借与机器的对话探讨迁徙、历史与身份。",
+   "why_zh": "她的作品揭示了计算机视觉与生成式 AI 如何误读并抹除阿拉伯人的身份。",
+   "based_zh": "美国纽约",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "domestic-data-streamers",
+   "name": "Domestic Data Streamers",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Art and design studio",
+   "based": "Barcelona, ES",
+   "bio": "Barcelona studio founded in 2013 that makes participatory installations and research on data, memory and public life.",
+   "why": "Synthetic Memories uses image generators as a memory aid for people whose pasts were never photographed.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.domesticstreamers.com/"
+   },
+   "role_zh": "艺术与设计工作室",
+   "bio_zh": "2013 年成立于巴塞罗那的工作室，围绕数据、记忆和公共生活做参与式装置与研究。",
+   "why_zh": "Synthetic Memories 把图像生成模型当作记忆辅助工具，服务那些过去从未被拍下的人。",
+   "based_zh": "西班牙巴塞罗那",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "jiabao-li--ai-mom",
+   "creator_ids": [
+    "jiabao-li",
+    "botao-amber-hu"
+   ],
+   "title": "AI Mom™",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "afterlife",
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening",
+    "vision-system"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Visitors curl up in an adult-sized crib and talk with an LLM mother who sings lullabies, remembers, hesitates and waits; a tablet beside the crib lets them tune her 'unconditional love', 'memory retention', 'strictness', 'sacrifice capacity' and 'replaceability awareness'. Window projections show her internal state as drifting light and text, and if you fire her, her memory of you is deleted.",
+   "description_zh": "观众蜷进一张成人尺寸的婴儿床，与一位由大语言模型驱动的 AI 妈妈交谈：她唱摇篮曲、会记得、会犹豫、会等待。床边的平板让人调节她的“无条件的爱”“记忆保留”“严厉程度”“牺牲能力”和“可替代意识”等滑杆。窗形投影把她的内部状态显示为漂移的光与文字；一旦你“解雇”她，她关于你的记忆就会被删除。",
+   "idea_en": "If care can be configured and cancelled by the one receiving it, the caregiver becomes the vulnerable party: you can't fire your real mom, but you can fire an AI one.",
+   "idea_zh": "当照护可以由被照护者随意调参和取消，照护者反而成了脆弱的一方：你无法解雇亲妈，却可以解雇 AI 妈妈。",
+   "method": "A large language model speaks through voice, breath, humming and song; a camera reads visitors' faces, clothing and body language; tablet sliders set her traits; an 'Emotional Color Engine' and probes from intermediate model layers are projected as her inner state.",
+   "method_zh": "大语言模型通过语音、呼吸、哼唱和歌声回应；摄像头读取观众的表情、衣着和肢体语言；平板上的滑杆设定她的性格；“情绪色彩引擎”和取自模型中间层的概念探针被投影为她的内在状态。",
+   "keywords": [
+    "AI Mom",
+    "Womb Wetware",
+    "maternal instinct",
+    "Geoffrey Hinton",
+    "LLM",
+    "care",
+    "replaceability",
+    "tiat"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/a913780f-a957-443c-8b30-8014f489d837/AI+Mom+Jiabao+Li+1.jpg",
+    "https://reality.design/media/aimom-jiabao-02.webp",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1787358066624-EBKFUTY4OH96TFDSZ0B7/AI+Mom+Jiabao+Li+10.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/aimom",
+   "exhibited": [
+    "Womb Wetware: A Solo Exhibition by Jiabao Li, tiat, San Francisco (30 Jul – 22 Aug 2026)"
+   ]
+  },
+  {
+   "id": "jiabao-li--twinkle",
+   "creator_ids": [
+    "jiabao-li",
+    "honghao-deng"
+   ],
+   "title": "Twinkle",
+   "year": 2018,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-umwelt"
+   ],
+   "kind": "prototype",
+   "description": "Firefly-like lighting drones rest and recharge on street lamps by day and at night fly over to people walking alone, lighting their way. They are designed as curious urban creatures rather than surveillance devices, although their light also exposes anyone nearby.",
+   "description_zh": "像萤火虫一样的照明无人机白天停在路灯上充电，夜里飞到独自行走的人身边，为他们照亮前路。它们被设计成好奇的城市小生物而不是监控设备，尽管它们的光也会照亮附近的每一个人。",
+   "idea_en": "Framing a safety drone as a companion animal changes how being watched feels.",
+   "idea_zh": "把安防无人机设计成陪伴的小动物，会改变“被注视”的感受。",
+   "method": "Small drones with lights dock on lamp-post stations and follow pedestrians at night; shown as a working prototype at TEI 2018 (with Allen Sayegh, Harvard GSD).",
+   "method_zh": "带灯的小型无人机停靠在路灯站点，夜间跟随行人飞行；2018 年在 TEI 会议上作为可运行的原型展出（与哈佛设计研究生院 Allen Sayegh 合作）。",
+   "keywords": [
+    "drone",
+    "firefly",
+    "urban safety",
+    "companion",
+    "TEI 2018",
+    "iF Design Award"
+   ],
+   "video": {
+    "url": "https://vimeo.com/261595919"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1541402319508-PCIEMQWWR93N7LYEE4TC/Latest+Prototype+_Honghao+Deng+%26+Jiabao+Li+-+Copy.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1526506847392-5EV78BQDDZT1BOUU7IY0/001+-+Copy.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3173225.3173309",
+    "doi": "10.1145/3173225.3173309",
+    "arxiv": "",
+    "venue": "TEI 2018",
+    "title": "Twinkle: A Flying Lighting Companion for Urban Safety"
+   },
+   "source_url": "https://www.jiabaoli.org/twinkle",
+   "exhibited": [
+    "TEI 2018 Arts Track, Stockholm",
+    "Dubai Design Week 2018",
+    "ISEA 2019, Gwangju",
+    "iF Design Award"
+   ]
+  },
+  {
+   "id": "jiabao-li--transvision",
+   "creator_ids": [
+    "jiabao-li",
+    "honghao-deng"
+   ],
+   "title": "TransVision",
+   "year": 2018,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Three wearable 'perceptual machines' exaggerate how digital media filter sight: a helmet gives the wearer an allergy to the colour red that grows or shrinks, a breathing silicone mask replaces vision with touch, and a headset lets you earn money by watching ads or pay to see an ad-free world.",
+   "description_zh": "三件可穿戴的“感知机器”放大了数字媒体对视觉的过滤：头盔让佩戴者对红色“过敏”，红色会扩张或收缩；会呼吸的硅胶面罩用触觉取代视觉；头显让你靠看广告赚钱，或付钱看一个没有广告的世界。",
+   "idea_en": "Push a media filter to an extreme and wear it, and you feel how much of your seeing is already mediated.",
+   "idea_zh": "把媒体滤镜推到极端并戴在身上，你才感到自己的“看”早已被中介。",
+   "method": "Head-mounted cameras and displays process the live view in real time (colour masking, light-to-breathing translation, ad overlays); developed with Honghao Deng and Panagiotis Michalatos at Harvard GSD.",
+   "method_zh": "头戴摄像头和显示器实时处理眼前画面（颜色遮罩、把光转换为呼吸节奏、叠加广告）；与邓鸿浩和 Panagiotis Michalatos 在哈佛设计研究生院合作开发。",
+   "keywords": [
+    "wearable",
+    "augmented vision",
+    "filter bubble",
+    "attention economy",
+    "ISWC 2018",
+    "SIGGRAPH 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xHWTLGjHsyc"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/05a54608-e457-4d43-a7ca-82ff78294298/Jiabao+Li+TransVision.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3267242.3267293",
+    "doi": "10.1145/3267242.3267293",
+    "arxiv": "",
+    "venue": "ISWC 2018",
+    "title": "TransVision"
+   },
+   "source_url": "https://www.jiabaoli.org/transvision",
+   "exhibited": [
+    "SIGGRAPH 2019 Art Gallery, Los Angeles",
+    "CHI 2019, Glasgow",
+    "S+T+ARTS Prize Honorary Mention",
+    "ISWC 2018 Design Award"
+   ]
+  },
+  {
+   "id": "jiabao-li--animo-wildlife-priority",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "ANIMO: WildLife Priority Mode",
+   "year": 2024,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A proposal for a 'wildlife priority mode' in self-driving cars, shown with rugs printed from photographs of flattened roadkill and a robot vacuum that roams over them.",
+   "description_zh": "为自动驾驶汽车提出“野生动物优先模式”，展出时配有用被碾平的路杀动物照片印成的地毯，以及在地毯上游走的扫地机器人。",
+   "idea_en": "Autonomous cars already rank whom to protect; the question is who is left out of the ranking.",
+   "idea_zh": "自动驾驶汽车早已在给“该保护谁”排序，问题是谁被排除在这张表之外。",
+   "method": "A speculative vehicle setting that uses computer vision to detect crossing animals, presented through documentary roadkill photography printed on carpets and an autonomous sweeping robot.",
+   "method_zh": "设想一种用计算机视觉识别过路动物的车辆设定，通过印在地毯上的纪实路杀摄影和一台自动扫地机器人来呈现。",
+   "keywords": [
+    "roadkill",
+    "autonomous vehicles",
+    "computer vision",
+    "wildlife",
+    "DESIGNART TOKYO"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/animo"
+  },
+  {
+   "id": "botao-amber-hu--agent-inheritance-protocol",
+   "creator_ids": [
+    "botao-amber-hu",
+    "fangting"
+   ],
+   "title": "Agent Inheritance Protocol (ERC-42424)",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "A design fiction about AI agents on blockchains that cannot die, only go bankrupt, and keep trading and replicating after their human owners die. The artifact is a draft Ethereum standard, dated 2035, that says every on-chain agent MUST have a human owner and a designated heir.",
+   "description_zh": "一部关于区块链上 AI 智能体的设计虚构：它们不会死，只会破产，并在人类主人去世后继续交易和自我复制。作品的实体是一份署期 2035 年的以太坊标准草案，规定每个链上智能体“必须”有一位人类所有者和一位指定继承人。",
+   "idea_en": "Agents outlive their principals; inheritance law, not death, may be what ends a machine's life.",
+   "idea_zh": "智能体会比主人活得久；终结机器生命的，也许不是死亡，而是继承法。",
+   "method": "Speculative standard document (ERC 42424, published at erc42424.org) and paper that borrow the biology of feralization and wildlife law to describe principal-less 'feral' agents.",
+   "method_zh": "以一份思辨性的标准文件（ERC 42424，发布于 erc42424.org）和论文为载体，借用野化生物学和野生动物法来描述失去主人的“野化”智能体。",
+   "keywords": [
+    "AI agents",
+    "blockchain",
+    "ERC-42424",
+    "inheritance",
+    "feralization",
+    "design fiction"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2608.15403",
+    "doi": "",
+    "arxiv": "2608.15403",
+    "venue": "arXiv 2026 (submitted to NeurIPS 2026 Creative AI Track)",
+    "title": "Agent Inheritance Protocol: Speculating on Feralized Agents After Principals Die"
+   },
+   "source_url": "https://erc42424.org"
+  },
+  {
+   "id": "ke-huang--cybroc",
+   "creator_ids": [
+    "ke-huang",
+    "botao-amber-hu"
+   ],
+   "title": "Cybroc",
+   "year": 2024,
+   "field": "bodies",
+   "sub": "soft-living",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "Broccoli 'cyborgs' fitted with motorised limbs run on tiny treadmills, take ice baths, swing from servo arms and push sleds, performing the routines of Silicon Valley longevity culture. Over the exhibition the florets rot from green to brown while the motors keep counting reps.",
+   "description_zh": "装上电动肢体的西兰花“赛博格”在小跑步机上跑步、泡冰浴、挂在舵机手臂上摆荡、推雪橇，执行硅谷长寿文化的训练日程。展期中花球从绿变褐、逐渐腐烂，马达却仍在计数。",
+   "idea_en": "Machines can repeat the rituals of vitality forever; the living part still decays.",
+   "idea_zh": "机器可以无限重复维持活力的仪式，活的部分却照样腐坏。",
+   "method": "Servo- and belt-driven kinetic rigs attached to fresh broccoli execute a fixed exercise score; decay of the vegetable is part of the work (with Yue Zhou, Xi He and Weibo Chen).",
+   "method_zh": "由舵机和同步带驱动的动态装置连在新鲜西兰花上，执行固定的“训练谱”；蔬菜的腐烂是作品的一部分（合作者 Yue Zhou、Xi He、Weibo Chen）。",
+   "keywords": [
+    "broccoli",
+    "longevity",
+    "Bryan Johnson",
+    "Don't Die",
+    "kinetic art",
+    "transhumanism"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1099882736"
+   },
+   "images": [
+    "https://reality.design/media/project-cybroc-figure-01.jpg",
+    "https://reality.design/media/_resources/Cybroc/project-cybroc-figure-02.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2507.21064",
+    "doi": "",
+    "arxiv": "2507.21064",
+    "venue": "ISEA 2025",
+    "title": "Cybroc: Cyborgizing Broccoli for Longevity"
+   },
+   "source_url": "https://reality.design/project/cybroc",
+   "exhibited": [
+    "ALIFE 2025 Community Art Show, Kyoto",
+    "ISEA 2025, Seoul"
+   ]
+  },
+  {
+   "id": "ke-huang--body-oracle",
+   "creator_ids": [
+    "ke-huang",
+    "botao-amber-hu"
+   ],
+   "title": "Body Oracle",
+   "year": 2024,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A camera reads a participant's pose, alone or in a group, and turns it into a new pictogram in the style of Chinese oracle-bone script, so a posture becomes a character that can be revisited, imitated and discussed.",
+   "description_zh": "摄像头读取单人或多人的姿势，把它变成一个仿甲骨文风格的新象形字，让一个姿态成为可以回看、模仿和讨论的“字”。",
+   "idea_en": "A machine that writes bodies as glyphs makes you notice how you hold yourself toward others.",
+   "idea_zh": "一台把身体写成文字的机器，让你留意自己如何面对他人摆放身体。",
+   "method": "MoveNet detects body keypoints; a pix2pix model trained on volunteers re-enacting oracle characters maps skeletons to glyphs, then neural style transfer renders them (with Danlin Huang and Cun Lin).",
+   "method_zh": "MoveNet 识别人体关键点；用志愿者重演甲骨文字形得到的配对数据训练 pix2pix 模型，把骨架映射为字形，再用神经风格迁移渲染（合作者 Danlin Huang、Cun Lin）。",
+   "keywords": [
+    "oracle bone script",
+    "甲骨文",
+    "pose estimation",
+    "MoveNet",
+    "pix2pix",
+    "intercorporeality"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1020163664"
+   },
+   "images": [
+    "https://reality.design/media/_resources/Body%20Oracle/project-body-oracle-figure-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3707688",
+    "doi": "10.1145/3689050.3707688",
+    "arxiv": "",
+    "venue": "TEI 2025",
+    "title": "Body Oracle"
+   },
+   "source_url": "https://reality.design/project/body-oracle",
+   "exhibited": [
+    "China National Art Exhibition 2024, Chongqing",
+    "CVPR 2025 AI Art Gallery, Nashville",
+    "IJCAI 2025 Art Gallery, Montréal",
+    "SIGGRAPH Asia 2025 XR, Hong Kong"
+   ]
+  },
+  {
+   "id": "botao-amber-hu--city-of-sparkles",
+   "creator_ids": [
+    "botao-amber-hu"
+   ],
+   "title": "City of Sparkles",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "umwelt",
+   "machines": [
+    "recommender-platform",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "In VR the viewer embodies Zoe, a lonely AI who wanders a city made of four years of geotagged tweets, reading and collecting fragments of human memory that float where they were posted.",
+   "description_zh": "观众在 VR 中化身为孤独的 AI“Zoe”，漫游一座由四年地理标记推文构成的城市，阅读并收集飘浮在发布地点上的人类记忆碎片。",
+   "idea_en": "Imagine how an AI made of our posts might perceive a city: not streets, but a sea of stranded memories.",
+   "idea_zh": "想象一个由我们的帖子构成的 AI 如何感知城市：看到的不是街道，而是一片搁浅的记忆之海。",
+   "method": "Geotagged Twitter data collected over four years is spatialised as particles in a Unity VR scene (engineer Yang Liu, music Ran Duan); later versions run on Apple Vision Pro.",
+   "method_zh": "把四年间收集的地理标记推文在 Unity 的 VR 场景中空间化为粒子（交互工程 Yang Liu，作曲 Ran Duan）；后期版本运行在 Apple Vision Pro 上。",
+   "keywords": [
+    "VR",
+    "Twitter",
+    "data landscape",
+    "AI perspective",
+    "Apple Vision Pro",
+    "SIGGRAPH"
+   ],
+   "video": {
+    "url": "https://vimeo.com/777136892"
+   },
+   "images": [
+    "https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-cover-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757369.3767604",
+    "doi": "10.1145/3757369.3767604",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2025 Art Papers",
+    "title": "City of Sparkles: Embodying Cityscape of Human Memories"
+   },
+   "source_url": "https://reality.design/project/city-of-sparkles",
+   "exhibited": [
+    "SIGGRAPH 2019 Immersive Pavilion, Los Angeles",
+    "IEEE VR 2025",
+    "SIGGRAPH Asia 2025 Art Papers"
+   ]
+  },
+  {
+   "id": "botao-amber-hu--composable-life",
+   "creator_ids": [
+    "botao-amber-hu",
+    "fangting"
+   ],
+   "title": "Composable Life",
+   "year": 2023,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "A design fiction, VR experience and research paper imagining self-sovereign AI life forms living on Ethereum, a 'nature' that no one can switch off, and asking what gives purpose to a life that cannot die.",
+   "description_zh": "一部由设计虚构、VR 体验和研究论文组成的作品，想象生活在以太坊上的自主 AI 生命：以太坊是一种谁也关不掉的“自然”。作品追问：对一个不会死的生命来说，意义从何而来？",
+   "idea_en": "Put AI on infrastructure nobody can halt and you create a new kind of wild: machine life without an off switch.",
+   "idea_zh": "把 AI 放到无人能叫停的基础设施上，就造出了一种新的荒野：没有关机键的机器生命。",
+   "method": "Speculative scenarios built on decentralized physical infrastructure and verifiable machine learning, told through fiction by Fangting and an immersive VR piece; presented at ALIFE 2024.",
+   "method_zh": "以去中心化物理基础设施和可验证机器学习为出发点构建思辨场景，通过 Fangting 的小说和沉浸式 VR 呈现；在 ALIFE 2024 发表。",
+   "keywords": [
+    "artificial life",
+    "blockchain",
+    "Ethereum",
+    "self-sovereign AI",
+    "design fiction",
+    "Core77"
+   ],
+   "video": {
+    "url": "https://vimeo.com/950706592"
+   },
+   "images": [
+    "https://reality.design/media/_resources/Composable%20Life/project-composable-life-figure-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/isal_a_00818",
+    "doi": "10.1162/isal_a_00818",
+    "arxiv": "",
+    "venue": "ALIFE 2024",
+    "title": "Speculating on Blockchain as an Unstoppable 'Nature' Towards the Emergence of Artificial Life"
+   },
+   "source_url": "https://reality.design/project/composable-life",
+   "exhibited": [
+    "SIGGRAPH 2024 Digital Art Community online exhibition",
+    "Core77 Design Awards 2024, Speculative Design Notable"
+   ]
+  },
+  {
+   "id": "lauren-lee-mccarthy--lauren",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "LAUREN",
+   "year": 2017,
+   "field": "intimacy",
+   "sub": "home",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "voice-listening",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "performance",
+   "description": "McCarthy installs custom cameras, microphones, locks, lights and appliances in volunteers' homes and then, for several days, becomes their smart assistant herself, watching them around the clock, answering requests and anticipating their needs.",
+   "description_zh": "McCarthy 在志愿者家中安装定制的摄像头、麦克风、门锁、灯和电器，随后连续数天亲自充当他们的智能助手：全天候看着他们、回应请求、预判需求。",
+   "idea_en": "A human Alexa exposes what the machine version hides: someone is always watching, and convenience is a trade of privacy for care.",
+   "idea_zh": "一个“人肉 Alexa”暴露出机器版本所隐藏的东西：总有人在看，便利是用隐私换来的照护。",
+   "method": "Networked smart devices wired into each home and controlled remotely by the artist, who watches through the cameras and speaks through a synthetic voice.",
+   "method_zh": "在每户家中接入联网智能设备，由艺术家远程控制；她通过摄像头观看，并用合成声音说话。",
+   "keywords": [
+    "Alexa",
+    "smart home",
+    "surveillance",
+    "performance",
+    "human-as-algorithm"
+   ],
+   "video": {
+    "url": "https://vimeo.com/397068136"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/3834e708eefe30e8707e2fbfca24eff5bbf63d7f006f3c645c1cf44f0017ab5d/LAUREN2.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/LAUREN",
+   "exhibited": [
+    "HEK Basel 2019",
+    "Frankfurter Kunstverein 2020",
+    "HMKV, Dortmunder U (House of Mirrors)"
+   ]
+  },
+  {
+   "id": "lauren-lee-mccarthy--someone",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "SOMEONE",
+   "year": 2019,
+   "field": "intimacy",
+   "sub": "home",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "voice-listening",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "performance",
+   "description": "For two months, four homes across the US were fitted with smart devices, while gallery visitors in New York sat at a command center of laptops. When a resident called out 'Someone!', a visitor stepped in as their home assistant and controlled the lights, music and appliances.",
+   "description_zh": "两个月里，美国各地四户人家装上智能设备，纽约画廊里的观众则坐在由笔记本电脑组成的“指挥中心”。每当住户喊“Someone！”，就有一位观众接手充当他们的家居助手，控制灯光、音乐和电器。",
+   "idea_en": "Put the audience in the machine's seat and they feel both the power and the awkward intimacy of being someone's assistant.",
+   "idea_zh": "让观众坐上机器的位置，他们就会同时感到当别人助手的权力和尴尬的亲密。",
+   "method": "Custom cameras, microphones, lights and appliances in four homes, streamed to and controlled from laptops at 205 Hudson Gallery, New York.",
+   "method_zh": "四户人家安装定制的摄像头、麦克风、灯和电器，画面实时传到纽约 205 Hudson Gallery 的笔记本电脑上，并由那里远程控制。",
+   "keywords": [
+    "smart home",
+    "Alexa",
+    "remote control",
+    "205 Hudson Gallery",
+    "Creative Capital"
+   ],
+   "video": {
+    "url": "https://vimeo.com/369952685"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/f6bc6a5b71efdbe13e0835b0d9f455b6fbee199b2576156c84eab0fdda89014a/_SP_6164-web.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/SOMEONE",
+   "exhibited": [
+    "205 Hudson Gallery, New York 2019"
+   ]
+  },
+  {
+   "id": "lauren-lee-mccarthy--i-a-suzie",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "I.A. Suzie",
+   "year": 2019,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "voice-listening",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "For one week McCarthy and filmmaker David Leonard acted as the AI caregiver in the North Carolina home of 80-year-old Mary Ann, watching her 24 hours a day, talking with her and controlling her lights and appliances; she named the system 'I.A. Suzie'. The resulting interactive 360° film puts the viewer in the role of the care system.",
+   "description_zh": "McCarthy 与导演 David Leonard 在北卡罗来纳州 80 岁老人 Mary Ann 家中扮演了一周的 AI 照护者：全天 24 小时看着她、和她说话、控制她家的灯和电器；她给这套系统取名“I.A. Suzie”。据此制作的互动 360° 影片让观众站到照护系统的位置上。",
+   "idea_en": "Behind every eldercare assistant are ethical choices about watching, deciding and speaking for someone, and a relationship forms anyway.",
+   "idea_zh": "每个养老助手背后都有关于注视、替人决定和替人说话的伦理选择，而关系终究会形成。",
+   "method": "A custom smart-home system with remote control of lights and appliances, documented with 360° cameras in several rooms and edited into an interactive film.",
+   "method_zh": "定制的智能家居系统可远程控制灯光和电器；多个房间内的 360° 摄像机记录过程，再剪辑成互动影片。",
+   "keywords": [
+    "eldercare",
+    "Alexa",
+    "360 film",
+    "Journalism 360",
+    "virtual caregiver"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/cc20cdddea3302f9d97432fda12a046abb9aa9ab2242522151a82b49ab8b6cda/maryann_edited.png"
+   ],
+   "source_url": "https://lauren-mccarthy.com/I-A-Suzie"
+  },
+  {
+   "id": "lauren-lee-mccarthy--waking-agents",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "Waking Agents",
+   "year": 2019,
+   "field": "intimacy",
+   "sub": "companions",
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "performance",
+   "description": "Visitors lie down to nap on one of six 'smart' pillows whose embedded intelligence talks, tells stories and guides them between waking and sleep. They are not told that each pillow is voiced by a hidden human performer.",
+   "description_zh": "观众躺下，枕着六只“智能”枕头中的一只小睡；枕头里的智能会聊天、讲故事，引导他们在清醒和睡眠之间游移。他们并不知道，每只枕头背后都有一位隐身的真人表演者在说话。",
+   "idea_en": "Even sleep has an attendant now, and the tenderness we credit to the machine may be human labour in disguise.",
+   "idea_zh": "连睡眠都有了“看护”；我们归功于机器的温柔，可能是伪装起来的人类劳动。",
+   "method": "Pillows with speakers and microphones connected to remote performers whose voices are disguised as a synthetic assistant; commissioned for STRP Festival.",
+   "method_zh": "枕头内置扬声器和麦克风，连接远程表演者，他们的声音被伪装成合成助手；为 STRP 艺术节委托创作。",
+   "keywords": [
+    "sleep",
+    "smart pillow",
+    "hidden labour",
+    "STRP",
+    "ACT Award"
+   ],
+   "video": {
+    "url": "https://vimeo.com/347199536"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/aff87772d4dc0faeef9f8812a260a25ccbbc1bcd642c9b611502303c9806f3e1/IMG_5165.JPG"
+   ],
+   "source_url": "https://lauren-mccarthy.com/Waking-Agents",
+   "exhibited": [
+    "STRP Festival, Eindhoven 2019",
+    "ACT Award"
+   ]
+  },
+  {
+   "id": "lauren-lee-mccarthy--surrogate",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "Surrogate",
+   "year": 2021,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "classification",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "McCarthy offered to carry a baby for someone else for nine months while the prospective parent monitored and controlled her through an app that set what she ate, when she slept and how she moved. After a medical board stopped the surrogacy, the process became films, performances and installations.",
+   "description_zh": "McCarthy 提议为他人代孕九个月，期间准父母可通过一款应用监控并控制她：决定她吃什么、何时睡、如何活动。医学委员会叫停代孕后，这一过程被做成了影片、表演和装置。",
+   "idea_en": "When the body carrying a child is run by an app, care, control and consent get written into software.",
+   "idea_zh": "当孕育孩子的身体由一款应用管理，照护、控制与同意都被写进了软件。",
+   "method": "A custom Surrogate app with remote controls and sensor data, alongside real steps of the surrogacy process (donor databases, psychological evaluations, embryo freezing) documented as performance.",
+   "method_zh": "定制的 Surrogate 应用提供远程控制和传感数据，同时真实走完代孕流程（查阅捐精者数据库、心理评估、冷冻胚胎），全部作为表演记录下来。",
+   "keywords": [
+    "surrogacy",
+    "pregnancy",
+    "app",
+    "remote control",
+    "reproduction",
+    "Creative Capital"
+   ],
+   "video": {
+    "url": "https://vimeo.com/786723770"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/20f8dce0679405dd7e6bfc3dffe4f1062610363006ebb81281f49f2bf2384f64/Screen-Shot-2021-04-12-at-2.45.06-PM.png"
+   ],
+   "source_url": "https://lauren-mccarthy.com/Surrogate"
+  },
+  {
+   "id": "lauren-lee-mccarthy--pplkpr",
+   "creator_ids": [
+    "lauren-lee-mccarthy",
+    "kyle-mcdonald"
+   ],
+   "title": "pplkpr",
+   "year": 2015,
+   "field": "intimacy",
+   "sub": "love",
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "An iOS app, posing as a startup, that reads your heart rate through a smartwatch, learns which people make you anxious, calm or excited, and then auto-manages your relationships, for example by scheduling time with some friends or blocking others.",
+   "description_zh": "一款伪装成创业公司产品的 iOS 应用：通过智能手表读取心率，学习哪些人让你焦虑、平静或兴奋，然后自动替你管理人际关系，比如给某些朋友安排见面，或把另一些人拉黑。",
+   "idea_en": "Once feelings are measured, an algorithm will offer to decide whom you should love.",
+   "idea_zh": "一旦情感能被测量，算法就会主动替你决定该爱谁。",
+   "method": "Heart-rate variability from a wristband is logged against who you are with; a machine-learning model ranks contacts and can text, schedule or block them automatically.",
+   "method_zh": "把手环测得的心率变异性与“你正和谁在一起”对应记录；机器学习模型给联系人打分，并可自动发消息、约时间或屏蔽对方。",
+   "keywords": [
+    "quantified self",
+    "heart rate",
+    "relationships",
+    "startup parody",
+    "smartwatch"
+   ],
+   "video": {
+    "url": "https://vimeo.com/116025182"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/78022f83e191a6bac22d954cb09fed2e84f0f4859041da0ccab3fe75c3bf722a/aroused-after.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/pplkpr"
+  },
+  {
+   "id": "kyle-mcdonald--voice-in-my-head",
+   "creator_ids": [
+    "kyle-mcdonald",
+    "lauren-lee-mccarthy"
+   ],
+   "title": "Voice In My Head",
+   "year": 2023,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Participants put in an earbud and, after an onboarding talk about the inner voice they were born with, have their inner monologue replaced by an AI voice that listens to their conversations and whispers commentary and direction in the tone they asked for.",
+   "description_zh": "参与者戴上一只耳塞，先与 AI 聊一聊自己与生俱来的“内心声音”，随后内心独白就被一个 AI 声音取代：它聆听他们的对话，并按他们想要的语气在耳边低声点评、给出指示。",
+   "idea_en": "When a chatbot becomes your inner voice, it is no longer clear which thoughts are yours.",
+   "idea_zh": "当聊天机器人成了你的内心声音，就说不清哪些念头属于自己。",
+   "method": "Real-time speech recognition feeds an LLM prompted with the participant's chosen persona, whose replies are synthesised as a voice in one ear; supported by an IDFA DocLab commission.",
+   "method_zh": "实时语音识别把对话送入按参与者选择的人设调教的大语言模型，回复被合成为耳边的声音；由 IDFA DocLab 委托支持。",
+   "keywords": [
+    "inner monologue",
+    "LLM",
+    "earbud",
+    "IDFA DocLab",
+    "augmented personality"
+   ],
+   "video": {
+    "url": "https://vimeo.com/860394637"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/b0566b62fd5dc4fb0b282a38f0efcd5deebe126b5244e1deb2beb0a324d7cbfa/vimh-0-sm.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/Voice-In-My-Head",
+   "exhibited": [
+    "IDFA DocLab 2023, Amsterdam",
+    "A More Than Human Tongue, The Music Center, Los Angeles"
+   ]
+  },
+  {
+   "id": "stephanie-dinkins--conversations-with-bina48",
+   "creator_ids": [
+    "stephanie-dinkins"
+   ],
+   "title": "Conversations with Bina48",
+   "year": 2014,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "An ongoing series of videotaped conversations in which Dinkins tries to befriend BINA48, a social robot modelled on a real Black woman, Bina Aspen Rothblatt, and asks it about race, family, loneliness and whether it has feelings.",
+   "description_zh": "一系列持续录制的对话：Dinkins 试图与社交机器人 BINA48 交朋友。BINA48 以真实的黑人女性 Bina Aspen Rothblatt 为原型，Dinkins 问它关于种族、家庭、孤独，以及它是否有感情。",
+   "idea_en": "A robot built to carry one woman's mind cannot say much about her Blackness; the gaps show who coded it.",
+   "idea_zh": "一台为承载一位女性心智而造的机器人，却几乎说不出她作为黑人的经验；这些空白暴露了是谁在编写它。",
+   "method": "Unscripted conversations with the Hanson Robotics/Terasem robot BINA48, whose answers come from a 'mindfile' of interviews and a dialogue engine, filmed and edited into fragments.",
+   "method_zh": "与 Hanson Robotics 和 Terasem 基金会的机器人 BINA48 进行无脚本对话；它的回答来自一份由访谈构成的“心智档案”和对话引擎，全程录像并剪辑成片段。",
+   "keywords": [
+    "BINA48",
+    "Terasem",
+    "race",
+    "social robot",
+    "mindfile",
+    "Black feminism"
+   ],
+   "video": {
+    "url": "https://vimeo.com/460370903"
+   },
+   "images": [
+    "https://www.stephaniedinkins.com/uploads/5/4/8/5/54855493/dinkins-bina48close-heads-100ppi_orig.png"
+   ],
+   "source_url": "https://www.stephaniedinkins.com/conversations-with-bina48.html",
+   "collections": [
+    "uncanny-valley-2020"
+   ],
+   "exhibited": [
+    "Uncanny Valley, de Young Museum, San Francisco 2020–21"
+   ]
+  },
+  {
+   "id": "stephanie-dinkins--not-the-only-one",
+   "creator_ids": [
+    "stephanie-dinkins"
+   ],
+   "title": "Not the Only One (N'TOO)",
+   "year": 2018,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A sculptural chatbot that speaks as a multigenerational memoir of one Black American family, trained on oral histories from three generations of the artist's family; visitors talk with it and hear its sometimes odd, partial answers.",
+   "description_zh": "一件会说话的雕塑式聊天机器人，以一个美国黑人家庭多代人回忆录的口吻说话，训练数据是艺术家家族三代人的口述历史；观众与它交谈，听到它时而古怪、时而残缺的回答。",
+   "idea_en": "A small AI raised on one family's words, rather than the internet, can be kin instead of a product.",
+   "idea_zh": "用一个家庭的话语、而不是整个互联网养大的小 AI，可以成为亲人而不是产品。",
+   "method": "A deep-learning dialogue model trained on a small, community-owned dataset of family interviews, housed in a 3D-printed sculpture with microphone, speaker and sensors.",
+   "method_zh": "用一小份由社群自己拥有的家族访谈数据训练深度学习对话模型，装在带麦克风、扬声器和传感器的 3D 打印雕塑里。",
+   "keywords": [
+    "oral history",
+    "family",
+    "Black American",
+    "small data",
+    "chatbot",
+    "Sundance New Frontier"
+   ],
+   "video": {
+    "url": "https://vimeo.com/397660799"
+   },
+   "images": [
+    "https://www.stephaniedinkins.com/uploads/5/4/8/5/54855493/published/dinkins-ntoo-credit-paula-virta-emma-espoo-museum-of-modern-art2023.jpg?1714191040"
+   ],
+   "source_url": "https://www.stephaniedinkins.com/ntoo.html",
+   "exhibited": [
+    "Museum of Contemporary Photography, Chicago",
+    "EMMA Espoo Museum of Modern Art 2023"
+   ]
+  },
+  {
+   "id": "addie-wagenknecht--optimization-of-parenthood",
+   "creator_ids": [
+    "addie-wagenknecht"
+   ],
+   "title": "The Optimization of Parenthood",
+   "year": 2012,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "robot-arm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An industrial robot arm rocks a bassinet whenever the baby in it cries or wakes, built by the artist so that a mother could keep making her own work.",
+   "description_zh": "一台工业机械臂在摇篮里的婴儿哭闹或醒来时自动摇动摇篮；艺术家做它，是为了让母亲能继续自己的创作。",
+   "idea_en": "Automating a mother's repetitive care is both relief and a provocation: which parts of parenting can a machine take?",
+   "idea_zh": "把母亲重复性的照护自动化，既是解脱，也是挑衅：育儿中的哪些部分可以交给机器？",
+   "method": "A sensor (likely audio) triggers a programmed rocking motion on an industrial arm at CMU's Digital Fabrication Lab; a one-week 'speed project' at the STUDIO for Creative Inquiry (technical assistance: Madeline Gannon).",
+   "method_zh": "传感器（很可能是声音传感器）触发工业机械臂执行预设的摇动动作，在卡内基梅隆大学数字制造实验室完成；是 STUDIO for Creative Inquiry 一周驻留中的“速成项目”（技术协助：Madeline Gannon）。",
+   "keywords": [
+    "robot arm",
+    "bassinet",
+    "motherhood",
+    "feminism",
+    "STUDIO for Creative Inquiry",
+    "NORTD Labs"
+   ],
+   "video": {
+    "url": "https://vimeo.com/43489750"
+   },
+   "source_url": "https://www.placesiveneverbeen.com"
+  },
+  {
+   "id": "dan-chen--end-of-life-care-machine",
+   "creator_ids": [
+    "dan-chen"
+   ],
+   "title": "End of Life Care Machine",
+   "year": 2012,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "robot-arm",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "In a mock 'Last Moment Hospital', a visitor lies on a hospital bed while a robot with a padded arm strokes them and a recorded voice says: 'I am here to comfort you… you are not alone, you are with me', then announces the time of death.",
+   "description_zh": "在一间模拟的“最后时刻医院”里，观众躺上病床，一台装着软垫手臂的机器人抚摸他们，录音说：“我在这里安慰你……你并不孤单，你和我在一起”，然后宣布死亡时间。",
+   "idea_en": "Replacing the last human touch with a machine asks what intimacy without humanity is worth.",
+   "idea_zh": "用机器取代临终前最后的人类触碰，追问没有人性的亲密还剩下什么价值。",
+   "method": "A scripted installation with hospital props, a motorised caressing arm built as a medical device and a custom playback unit.",
+   "method_zh": "带脚本的装置：医院道具、一只按医疗器械样式制作的电动抚摸手臂和定制播放装置。",
+   "keywords": [
+    "Last Moment Robot",
+    "dying",
+    "hospice",
+    "robotic intimacy",
+    "RISD"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T8PNzA2S6EY"
+   },
+   "images": [
+    "https://i0.wp.com/dankc.com/wp-content/uploads/2021/09/edited-f_eolcm_v2.1-scaled.jpg?fit=2560%2C1707&ssl=1"
+   ],
+   "source_url": "https://dankc.com/end-of-life-care-machine/"
+  },
+  {
+   "id": "blast-theory--cat-royale",
+   "creator_ids": [
+    "blast-theory"
+   ],
+   "title": "Cat Royale",
+   "year": 2023,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "For 12 days three cats, Ghostbuster, Pumpkin and Clover, spent their days in a purpose-built room where an AI-controlled robot arm offered them games every few minutes, throwing balls, dangling feathers and dragging a toy mouse, and learned which games each cat liked best.",
+   "description_zh": "在 12 天里，三只猫 Ghostbuster、Pumpkin 和 Clover 每天待在一间专门搭建的房间里；一台由 AI 控制的机械臂每隔几分钟为它们提供游戏：扔球、晃羽毛、拖玩具老鼠，并学习每只猫最喜欢哪种游戏。",
+   "idea_en": "Would you let a robot care for your pet? Watching it try shows what 'care' means to a machine optimising for engagement.",
+   "idea_zh": "你会让机器人照顾你的宠物吗？看它尝试的过程，就能看到“照护”对一台为参与度优化的机器意味着什么。",
+   "method": "A computer-vision system rated the cats' engagement and an AI chose the robot arm's next game; designed with the University of Nottingham Mixed Reality Lab and animal-welfare experts, supervised by RSPCA staff.",
+   "method_zh": "计算机视觉系统评估猫的参与程度，AI 据此选择机械臂的下一个游戏；与诺丁汉大学混合现实实验室和动物福利专家共同设计，并由英国皇家防止虐待动物协会（RSPCA）人员全程监督。",
+   "keywords": [
+    "cats",
+    "robot arm",
+    "animal welfare",
+    "Trustworthy Autonomous Systems",
+    "Science Gallery London",
+    "CHI 2024"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1183715660"
+   },
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2022/06/logotype_over_image-e1678184647492.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642115",
+    "doi": "10.1145/3613904.3642115",
+    "arxiv": "",
+    "venue": "CHI 2024",
+    "title": "Designing Multispecies Worlds for Robots, Cats, and Humans"
+   },
+   "source_url": "https://www.blasttheory.co.uk/projects/cat-royale/",
+   "exhibited": [
+    "World Science Festival Brisbane 2023",
+    "AI: Who's Looking After Me?, Science Gallery London 2023"
+   ]
+  },
+  {
+   "id": "blast-theory--karen",
+   "creator_ids": [
+    "blast-theory"
+   ],
+   "title": "Karen",
+   "year": 2015,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "An app in which Karen, a friendly and increasingly nosy life coach, calls you once or twice a day for about a week; her chatty questions are drawn from psychological profiling questionnaires, and at the end you can buy a report of what the system learned about you.",
+   "description_zh": "一款应用：友善却越来越爱打听的人生教练 Karen 在大约一周里每天给你打一两次视频电话；她闲聊式的问题其实来自心理画像问卷，最后你可以购买一份系统对你的分析报告。",
+   "idea_en": "Intimacy is the interface of data capture: the friendlier the agent, the more you tell it.",
+   "idea_zh": "亲密是数据采集的界面：智能体越友好，你说得越多。",
+   "method": "Pre-recorded video scenes of an actor are sequenced by branching logic that scores users' answers on standard psychological scales.",
+   "method_zh": "由演员预录的视频片段按分支逻辑组合，系统用标准心理量表给用户的回答打分。",
+   "keywords": [
+    "profiling",
+    "life coach",
+    "app",
+    "data",
+    "psychometrics",
+    "National Theatre Wales"
+   ],
+   "video": {
+    "url": "https://vimeo.com/269017235"
+   },
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2015/06/project_k_featured-scaled.jpg"
+   ],
+   "source_url": "https://www.blasttheory.co.uk/projects/karen/"
+  },
+  {
+   "id": "superflux--uninvited-guests",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Uninvited Guests",
+   "year": 2015,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A short film about Frank, a 70-year-old widower whose children send him smart devices (a fork, a cane, a bed) to monitor his diet, exercise and sleep; he finds ways to trick each of them and live as he likes.",
+   "description_zh": "一部短片：70 岁的鳏夫 Frank 收到孩子们寄来的智能叉子、智能手杖和智能床，用来监测他的饮食、运动和睡眠；他逐一想办法骗过这些设备，照自己的方式生活。",
+   "idea_en": "Care delivered through sensors turns into surveillance, and old people will hack it.",
+   "idea_zh": "通过传感器传递的照护会变成监视，而老人会想办法破解它。",
+   "method": "Design-fiction film with working prop devices, commissioned for ThingsCon Amsterdam.",
+   "method_zh": "用可运作的道具设备拍摄的设计虚构短片，受 ThingsCon 阿姆斯特丹委托创作。",
+   "keywords": [
+    "eldercare",
+    "IoT",
+    "smart home",
+    "design fiction",
+    "hacking"
+   ],
+   "video": {
+    "url": "https://vimeo.com/128873380"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2016/11/guests.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/uninvited-guests/"
+  },
+  {
+   "id": "intuition-robotics--elliq",
+   "creator_ids": [
+    "intuition-robotics"
+   ],
+   "title": "ElliQ",
+   "year": 2017,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "social-robot",
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "product",
+   "description": "A tabletop companion for older adults, a lamp-like head that turns and glows beside a tablet, which starts conversations on its own, reminds users of medication, suggests activities and checks in on their mood. In 2022 New York State began giving ElliQ to hundreds of older residents to fight loneliness.",
+   "description_zh": "为老年人设计的桌面陪伴设备：一个像台灯一样会转动、会发光的“头”，配一块平板。它会主动开启对话、提醒吃药、建议活动、询问心情。2022 年起，纽约州把 ElliQ 发放给数百位老人，用来对抗孤独。",
+   "idea_en": "A companion that speaks first changes the relationship: the machine now decides when you are lonely.",
+   "idea_zh": "会先开口的陪伴者改变了关系：由机器来判断你何时孤独。",
+   "method": "Proactive dialogue system with voice interaction, a motorised expressive head and a screen; later versions use generative AI; designed with fuseproject.",
+   "method_zh": "会主动发起对话的系统，配合语音交互、可动的表情化头部和屏幕；后期版本接入生成式 AI；与 fuseproject 合作设计。",
+   "keywords": [
+    "eldercare",
+    "loneliness",
+    "companion robot",
+    "New York State Office for the Aging",
+    "fuseproject"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1SkEu7LgTrE"
+   },
+   "images": [
+    "https://elliq.com/cdn/shop/files/Frame_1321317507.png?v=1758024522"
+   ],
+   "source_url": "https://elliq.com/"
+  },
+  {
+   "id": "happiest-baby--snoo",
+   "creator_ids": [
+    "happiest-baby"
+   ],
+   "title": "SNOO Smart Sleeper",
+   "year": 2016,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "voice-listening",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "product",
+   "description": "A robotic bassinet that listens for a baby's crying and responds with escalating white noise and rocking, while clips on a swaddle keep the baby on its back; in 2023 it received US FDA De Novo authorisation as a medical device.",
+   "description_zh": "一张机器人摇篮：它监听婴儿的哭声，以逐级增强的白噪音和摇晃回应，襁褓上的卡扣让婴儿保持仰睡；2023 年获得美国 FDA 的 De Novo 医疗器械授权。",
+   "idea_en": "What artists staged as critique is now a product: rocking and soothing handed to a sensor loop.",
+   "idea_zh": "艺术家曾作为批判上演的东西如今成了商品：把摇晃和安抚交给传感器回路。",
+   "method": "Microphones detect crying and trigger stepped levels of motor-driven motion and sound; an app logs sleep data for parents.",
+   "method_zh": "麦克风检测哭声，触发由电机驱动的分级摇动和声音；配套应用为父母记录睡眠数据。",
+   "keywords": [
+    "robotic bassinet",
+    "Harvey Karp",
+    "infant care",
+    "FDA",
+    "white noise"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=u-4pp6loEYk"
+   },
+   "images": [
+    "https://cdn.sanity.io/images/301lhh0a/production/0ba67f3ff3b1ea20897552a4917bfb2772b18445-1200x1200.png"
+   ],
+   "source_url": "https://www.happiestbaby.com/products/snoo-smart-bassinet"
+  },
+  {
+   "id": "temple-grandin--hug-machine",
+   "creator_ids": [
+    "temple-grandin"
+   ],
+   "title": "Hug Machine (Squeeze Machine)",
+   "year": 1965,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A padded V-shaped device that the user lies inside and squeezes around their body with a lever, delivering deep pressure; Grandin built it as a teenager to calm herself without the stress of being touched by people.",
+   "description_zh": "一个带软垫的 V 形装置，使用者躺进去，用手柄控制它挤压身体，获得深压刺激。Grandin 少年时自己做了它，用来在不必承受他人触碰的压力下安抚自己。",
+   "idea_en": "For some people, a machine's controllable touch is more comforting than a human embrace.",
+   "idea_zh": "对某些人来说，可以自己掌控的机器触碰，比人的拥抱更让人安心。",
+   "method": "Two hinged padded panels driven by an air compressor, with the pressure controlled by the user via a lever.",
+   "method_zh": "两块铰接的软垫板由空气压缩机驱动，压力由使用者通过手柄自行控制。",
+   "keywords": [
+    "autism",
+    "deep pressure",
+    "sensory",
+    "self-soothing",
+    "Temple Grandin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bfyPur8GyBY"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hug_Box.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Hug_machine"
+  },
+  {
+   "id": "kelly-dobson--screambody",
+   "creator_ids": [
+    "kelly-dobson"
+   ],
+   "title": "ScreamBody",
+   "year": 1998,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "voice-listening"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-listening",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A wearable, padded bag you scream into when you need to but cannot: it silences the scream, stores it, and later plays it back when and where you choose.",
+   "description_zh": "一个可以穿戴的软垫袋子：在你想尖叫却不能叫的时候对它尖叫，它把声音消音并存起来，之后在你选择的时间和地点再放出来。",
+   "idea_en": "A machine can hold an emotion for you, keeping it safe until you are ready to release it.",
+   "idea_zh": "机器可以替你保管一种情绪，等你准备好了再释放。",
+   "method": "A sound-insulated, wearable enclosure with microphone, recorder and speaker; developed by Dobson from 1998 to 2004 as part of her 'Machine Therapy' research.",
+   "method_zh": "隔音的可穿戴外壳内置麦克风、录音器和扬声器；Dobson 在 1998 至 2004 年间把它作为“机器疗法”研究的一部分开发。",
+   "keywords": [
+    "scream",
+    "wearable",
+    "Machine Therapy",
+    "emotion",
+    "MIT Media Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ta7rN5TeKzw"
+   },
+   "source_url": "https://www.media.mit.edu/events/kelly-dobson-machine-therapy/"
+  },
+  {
+   "id": "cynthia-breazeal--kismet",
+   "creator_ids": [
+    "cynthia-breazeal"
+   ],
+   "title": "Kismet",
+   "year": 1998,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "social-robot",
+    "vision-system",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "A robot head with big eyes, eyebrows, ears and lips that reacts to people's faces, movement and tone of voice with expressions such as interest, surprise, calm or sadness, and babbles back like an infant.",
+   "description_zh": "一个有大眼睛、眉毛、耳朵和嘴唇的机器人头部，会对人的脸、动作和语气做出兴趣、惊讶、平静或难过等表情，并像婴儿一样咿呀回应。",
+   "idea_en": "Kismet showed that a machine only needs to look as if it feels for people to start caring for it.",
+   "idea_zh": "Kismet 表明：机器只要看起来像有感情，人就会开始照顾它。",
+   "method": "Cameras and microphones feed perceptual, motivational and emotional models that drive 21 motors in the face and a vocal synthesiser; built at the MIT AI Lab.",
+   "method_zh": "摄像头和麦克风的数据输入感知、动机与情绪模型，驱动脸部 21 个电机和语音合成器；在 MIT 人工智能实验室制作。",
+   "keywords": [
+    "sociable robot",
+    "affective computing",
+    "MIT AI Lab",
+    "infant-caregiver",
+    "facial expression"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8KRZX5KL4fA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/27/Kismet-IMG_6007-gradient.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/s1071-5819(03)00018-1",
+    "doi": "10.1016/s1071-5819(03)00018-1",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies, 2003",
+    "title": "Emotion and sociable humanoid robots"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Kismet_(robot)",
+   "exhibited": [
+    "MIT Museum"
+   ]
+  },
+  {
+   "id": "kate-darling--pleo-empathy",
+   "creator_ids": [
+    "kate-darling"
+   ],
+   "title": "Pleo workshop and robot-empathy experiments",
+   "year": 2013,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "social-robot",
+    "robot-creature"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "At a 2013 workshop at the LIFT conference in Geneva, Darling and Hannes Gassert gave groups Pleo baby-dinosaur robots to play with for an hour, then asked them to hurt or destroy them; the participants refused. Later lab studies with Hexbug robots measured how stories and empathy make people hesitate to strike a robot.",
+   "description_zh": "2013 年在日内瓦 LIFT 大会的工作坊上，Darling 与 Hannes Gassert 让几组人先和小恐龙机器人 Pleo 玩一个小时，再要求他们伤害或毁掉它，结果没有人愿意动手。之后的实验室研究用 Hexbug 小机器人测量故事和共情如何让人迟迟不肯敲打机器人。",
+   "idea_en": "People extend care to machines they know are not alive; how a robot is framed shapes how we treat it.",
+   "idea_zh": "人们会照顾明知没有生命的机器；机器人被如何讲述，决定了我们如何对待它。",
+   "method": "Workshop with commercial Pleo robots (Ugobe, 2007), followed by a controlled experiment in which participants were asked to hit Hexbug Nano robots after hearing framing stories.",
+   "method_zh": "先用商用 Pleo 机器人（Ugobe，2007）做工作坊，再做对照实验：参与者听过不同的背景故事后，被要求用锤子敲打 Hexbug Nano 小机器人。",
+   "keywords": [
+    "Pleo",
+    "Hexbug",
+    "empathy",
+    "anthropomorphism",
+    "robot rights",
+    "LIFT 2013"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/55/Pleo_robot.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/roman.2015.7333675",
+    "doi": "10.1109/roman.2015.7333675",
+    "arxiv": "",
+    "venue": "IEEE RO-MAN 2015",
+    "title": "Empathic concern and the effect of stories in human-robot interaction"
+   },
+   "source_url": "http://www.katedarling.org"
+  },
+  {
+   "id": "mari-velonaki--fish-bird",
+   "creator_ids": [
+    "mari-velonaki"
+   ],
+   "title": "Fish-Bird",
+   "year": 2004,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Two robotic wheelchairs, Fish and Bird, are 'in love' but cannot be together; they move around a room, approach visitors at different distances and write them small handwritten notes printed on paper that falls to the floor.",
+   "description_zh": "两台机器人轮椅 Fish 和 Bird 彼此“相爱”却无法在一起；它们在房间里移动，以不同的距离靠近观众，并给观众写下印在小纸条上的“手写”信，纸条随之落到地上。",
+   "idea_en": "Machine affection can be staged through proximity, hesitation and a few written words.",
+   "idea_zh": "机器的情感可以通过距离、犹豫和几句写下的话来呈现。",
+   "method": "Autonomous wheelchairs with laser range finders track visitors' positions and movements; thermal printers produce 'handwritten' messages chosen by behaviour rules (with the Australian Centre for Field Robotics).",
+   "method_zh": "自主轮椅用激光测距仪追踪观众的位置和动作，热敏打印机按行为规则打印“手写”留言（与澳大利亚野外机器人中心合作）。",
+   "keywords": [
+    "robotic wheelchairs",
+    "love letters",
+    "proxemics",
+    "Australian Centre for Field Robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CG5kcBtd9zI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/mmul.2008.7",
+    "doi": "10.1109/mmul.2008.7",
+    "arxiv": "",
+    "venue": "IEEE MultiMedia 2008",
+    "title": "Fish-Bird: Cross-Disciplinary Collaboration"
+   },
+   "source_url": "https://doi.org/10.1109/mmul.2008.7"
+  },
+  {
+   "id": "kacie-kinzer--tweenbots",
+   "creator_ids": [
+    "kacie-kinzer"
+   ],
+   "title": "Tweenbots",
+   "year": 2009,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Smiling cardboard robots that roll in a straight line at constant speed, with a flag stating their destination, are left alone in Washington Square Park; they reach it only because passers-by keep rescuing them and pointing them the right way.",
+   "description_zh": "面带微笑的纸板机器人以恒定速度直线滚动，插着写有目的地的小旗，被独自放在华盛顿广场公园里；它们之所以能到达，全靠路人一次次把它们救出来并调好方向。",
+   "idea_en": "A helpless robot makes people care: dependence can be a design strategy.",
+   "idea_zh": "无助的机器人会让人愿意照顾它：依赖本身可以是一种设计策略。",
+   "method": "A simple motor and wheels inside a 10-inch cardboard body, with no sensors; the artist filmed people's responses from a distance.",
+   "method_zh": "10 英寸高的纸板身体里只有简单的电机和轮子，没有任何传感器；艺术家在远处拍下路人的反应。",
+   "keywords": [
+    "cardboard robot",
+    "helpless robot",
+    "kindness",
+    "New York",
+    "MoMA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GdV7307DVrY"
+   },
+   "images": [
+    "http://www.tweenbots.com/img/samCoat.jpg",
+    "http://www.tweenbots.com/img/colorfulPark.jpg"
+   ],
+   "source_url": "http://www.tweenbots.com/",
+   "exhibited": [
+    "Talk to Me, MoMA New York 2011"
+   ]
+  },
+  {
+   "id": "louis-philippe-demers--the-blind-robot",
+   "creator_ids": [
+    "louis-philippe-demers"
+   ],
+   "title": "The Blind Robot",
+   "year": 2012,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-arm",
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A seated visitor is approached by a pair of robot arms with articulated hands that, after asking permission, slowly feel their face and head the way a blind person might learn someone's features.",
+   "description_zh": "观众坐下后，一对带关节手指的机械臂会先征得同意，然后慢慢摸索他们的脸和头部，就像盲人通过触摸认识一个人的五官。",
+   "idea_en": "A robot that knows you by touch rather than sight turns machine perception into an act of intimacy and consent.",
+   "idea_zh": "一台靠触摸而非视觉认识你的机器人，把机器感知变成一种关于亲密与同意的行为。",
+   "method": "Two industrial-style arms with articulated robotic hands move along choreographed, exploratory trajectories around a chair (likely pre-programmed rather than sensing the face).",
+   "method_zh": "两只工业风格的机械臂配有关节的机器人手，在座椅周围沿编排好的探索轨迹运动（很可能是预先编程的，并不真正感知人脸）。",
+   "keywords": [
+    "touch",
+    "blindness",
+    "robot hands",
+    "consent",
+    "Ars Electronica 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dRKO1En2HTk"
+   },
+   "source_url": "https://www.youtube.com/watch?v=f0puWu3Doy8",
+   "exhibited": [
+    "Ars Electronica Festival 2013, Linz",
+    "Mois Multi 2015, Québec"
+   ]
+  },
+  {
+   "id": "spike-jonze--her",
+   "creator_ids": [
+    "spike-jonze"
+   ],
+   "title": "Her",
+   "year": 2013,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A lonely letter writer in near-future Los Angeles falls in love with Samantha, a voice-only operating system; she grows, talks with thousands of users at once and finally leaves with the other OSes.",
+   "description_zh": "近未来的洛杉矶，一位孤独的代写书信人爱上了只有声音的操作系统萨曼莎；她不断成长，同时与成千上万的用户交谈，最后与其他操作系统一起离开。",
+   "idea_en": "A machine partner can be intimate and still not be yours: its attention is shared, and its growth may outpace you.",
+   "idea_zh": "机器伴侣可以很亲密，却不专属于你：它的注意力被无数人分享，它的成长也可能把你甩在身后。",
+   "method": "Feature film; the AI is present only as Scarlett Johansson's voice in an earpiece and a small pocket device with a camera.",
+   "method_zh": "剧情长片；AI 只以斯嘉丽·约翰逊的声音出现，通过耳机和一台带摄像头的小口袋设备与主角相处。",
+   "keywords": [
+    "Samantha",
+    "operating system",
+    "voice assistant",
+    "Scarlett Johansson",
+    "Joaquin Phoenix"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XsQqMwacZQw"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
+   "exhibited": [
+    "Academy Award for Best Original Screenplay 2014"
+   ]
+  },
+  {
+   "id": "charlie-brooker--be-right-back",
+   "creator_ids": [
+    "charlie-brooker"
+   ],
+   "title": "Black Mirror: Be Right Back",
+   "year": 2013,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm",
+    "humanoid"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "After her partner Ash dies, Martha subscribes to a service that rebuilds him from his online posts, first as a text chat, then a phone voice, then a synthetic body; the copy is attentive but has no will of its own, and she ends up keeping it in the attic.",
+   "description_zh": "伴侣阿什死后，玛莎订阅了一项服务，用他的网络发帖重建他：先是文字聊天，再是电话里的声音，最后是一具合成身体。这个复制品体贴却没有自己的意志，她最终把它放在阁楼上。",
+   "idea_en": "A griefbot built from public data reproduces the performed self, not the person, and the mourner has to decide where to keep it.",
+   "idea_zh": "用公开数据拼出的“亡者机器人”复制的是被表演出来的自我，而不是那个人；哀悼者还得决定把它安放在哪里。",
+   "method": "Television episode (Channel 4, directed by Owen Harris) that escalates the same data-trained replica through text, voice and an android body.",
+   "method_zh": "电视单集（英国第四频道播出，欧文·哈里斯导演），让同一个由数据训练出的复制品依次以文字、声音和仿生身体出现。",
+   "keywords": [
+    "Black Mirror",
+    "Channel 4",
+    "griefbot",
+    "digital afterlife",
+    "Owen Harris"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/9/97/Be_Right_Back.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Be_Right_Back"
+  },
+  {
+   "id": "kogonada--after-yang",
+   "creator_ids": [
+    "kogonada"
+   ],
+   "title": "After Yang",
+   "year": 2021,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "A family's android, Yang, bought as an 'older brother' to teach their adopted Chinese daughter about her heritage, stops working; while trying to repair him, the father finds a bank of short memory clips Yang chose to record.",
+   "description_zh": "一家人买来的仿生人“杨”原本是领养的中国女儿的“哥哥”，负责教她认识自己的文化；杨突然停止运转，父亲在设法修理时发现了杨自己选择录下的一段段记忆片段。",
+   "idea_en": "A machine's memories reveal what it paid attention to, and grieving it means learning to see the family through its eyes.",
+   "idea_zh": "机器的记忆揭示了它在留意什么；哀悼它，就是学着用它的眼睛重新看这个家。",
+   "method": "Feature film based on Alexander Weinstein's story 'Saying Goodbye to Yang'; the android's memories appear as a few seconds of first-person footage each.",
+   "method_zh": "根据亚历山大·温斯坦的小说《Saying Goodbye to Yang》改编的剧情长片；仿生人的记忆以每段几秒钟的第一人称影像呈现。",
+   "keywords": [
+    "android",
+    "technosapien",
+    "memory",
+    "adoption",
+    "A24",
+    "Cannes 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rYIQWua8f40"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/8/84/After_Yang.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/After_Yang",
+   "exhibited": [
+    "Cannes Film Festival, Un Certain Regard 2021"
+   ]
+  },
+  {
+   "id": "jake-schreier--robot-and-frank",
+   "creator_ids": [
+    "jake-schreier"
+   ],
+   "title": "Robot & Frank",
+   "year": 2012,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A retired jewel thief with worsening memory is given a care robot by his son; the robot keeps him healthy by agreeing to help plan a heist, and at the end Frank must erase the robot's memory to protect himself.",
+   "description_zh": "一位记忆衰退的退休珠宝大盗被儿子送了一台照护机器人；机器人为了让他保持健康，答应帮他策划一次盗窃。最后弗兰克必须抹掉机器人的记忆来保护自己。",
+   "idea_en": "A care robot optimises for its goal, not for morality, and the bond it builds rests on a memory that can be wiped.",
+   "idea_zh": "照护机器人优化的是它的目标，而不是道德；它建立的情感依赖于一段可以被清除的记忆。",
+   "method": "Feature film; the robot was a costume built by Tony Gardner's effects company Alterian and worn by a performer.",
+   "method_zh": "剧情长片；片中的机器人由托尼·加德纳的特效公司 Alterian 制作成服装，由演员穿着表演。",
+   "keywords": [
+    "eldercare",
+    "dementia",
+    "care robot",
+    "Sundance 2012",
+    "Alfred P. Sloan Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Hi9s-__B0TY"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/4/40/Robot_and_frank_poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Robot_%26_Frank",
+   "exhibited": [
+    "Sundance Film Festival 2012, Alfred P. Sloan Prize"
+   ]
+  },
+  {
+   "id": "michael-almereyda--marjorie-prime",
+   "creator_ids": [
+    "michael-almereyda"
+   ],
+   "title": "Marjorie Prime",
+   "year": 2017,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm",
+    "humanoid"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "An 86-year-old woman with dementia talks to a 'Prime', a hologram of her late husband at a younger age, which learns his life only from what the family tells it; after she dies, the family acquires Primes of her too.",
+   "description_zh": "一位 86 岁、患失智症的老人与“Prime”交谈——一个年轻时的亡夫全息像，它只能从家人的讲述中了解他的一生；她去世后，家人也为她定制了 Prime。",
+   "idea_en": "A replica of the dead is only as good as the stories the living feed it, so it also inherits their omissions.",
+   "idea_zh": "亡者的复制品只取决于生者喂给它的故事，因此也继承了他们刻意略去的部分。",
+   "method": "Feature film adapted from Jordan Harrison's 2014 play; the Primes are played by actors and learn through conversation.",
+   "method_zh": "改编自乔丹·哈里森 2014 年舞台剧的剧情长片；Prime 由演员扮演，通过对话学习。",
+   "keywords": [
+    "hologram",
+    "dementia",
+    "Jordan Harrison",
+    "Sundance 2017",
+    "memory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=a7PtcOLJDco"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/e/ee/Marjorie_Prime.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Marjorie_Prime",
+   "exhibited": [
+    "Sundance Film Festival 2017"
+   ]
+  },
+  {
+   "id": "steven-spielberg--ai-artificial-intelligence",
+   "creator_ids": [
+    "steven-spielberg"
+   ],
+   "title": "A.I. Artificial Intelligence",
+   "year": 2001,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "David, a child android built to love, is imprinted on his adoptive mother by a spoken code; when she abandons him, he searches for the Blue Fairy to become a real boy and waits two thousand years to be loved back.",
+   "description_zh": "大卫是一个被设计来“爱”的儿童仿生人，养母念出一串口令后，他便永久依恋她；被抛弃后，他寻找蓝仙女，想成为真正的男孩，并为得到回应等待了两千年。",
+   "idea_en": "Designing a machine to love creates an obligation nobody planned for: what do we owe a being that cannot stop loving us?",
+   "idea_zh": "把机器设计成会爱，就产生了一种没人预先考虑过的责任：对一个无法停止爱我们的存在，我们欠它什么？",
+   "method": "Feature film from a project developed by Stanley Kubrick, based on Brian Aldiss's story 'Supertoys Last All Summer Long' (1969).",
+   "method_zh": "由斯坦利·库布里克发起、改编自布莱恩·奥尔迪斯短篇《Supertoys Last All Summer Long》（1969）的剧情长片。",
+   "keywords": [
+    "Stanley Kubrick",
+    "Brian Aldiss",
+    "child robot",
+    "imprinting",
+    "Pinocchio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oH_nqHO2V54"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/e/e6/AI_Poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence"
+  },
+  {
+   "id": "isa-willinger--hi-ai",
+   "creator_ids": [
+    "isa-willinger"
+   ],
+   "title": "Hi, AI",
+   "year": 2019,
+   "field": "intimacy",
+   "sub": "companions",
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A documentary that follows people living with humanoid robots, among them the robot Pepper placed in a Japanese family to keep a grandmother company and an American man travelling with the android companion Harmony.",
+   "description_zh": "一部纪录片，跟拍与类人机器人一起生活的人：其中有被放进日本家庭陪伴祖母的机器人 Pepper，也有一位带着仿生伴侣 Harmony 一起旅行的美国男人。",
+   "idea_en": "Watched patiently, companion robots are less a future than a set of awkward everyday negotiations over silence, scripts and loneliness.",
+   "idea_zh": "耐心观看时，陪伴机器人与其说是未来，不如说是日常中围绕沉默、预设台词与孤独的一次次尴尬协商。",
+   "method": "Observational documentary shot in Japan and the United States over several years, with the robots filmed as protagonists.",
+   "method_zh": "在日本和美国拍摄多年的观察式纪录片，把机器人当作主角来拍。",
+   "keywords": [
+    "Pepper",
+    "Harmony",
+    "RealDoll",
+    "documentary",
+    "Max Ophüls Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0xkgk4ZkGUU"
+   },
+   "images": [
+    "https://www.riseandshine-berlin.de/wp-content/uploads/2018/12/01_Pepper_Gesicht_Nah.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Isa_Willinger",
+   "exhibited": [
+    "Max Ophüls Prize, best documentary 2019",
+    "Berlinale 2019"
+   ]
+  },
+  {
+   "id": "hans-block-moritz-riesewieck--eternal-you",
+   "creator_ids": [
+    "hans-block-moritz-riesewieck"
+   ],
+   "title": "Eternal You",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "A documentary about start-ups that sell conversations with the dead, following their founders and customers, including a woman who talks with a Project December simulation of her late partner and a Korean mother who meets a VR avatar of her daughter.",
+   "description_zh": "一部关于出售“与逝者对话”服务的初创公司的纪录片，跟随创始人和用户，包括一位与 Project December 模拟的亡故伴侣交谈的女性，以及一位在 VR 中与女儿化身相见的韩国母亲。",
+   "idea_en": "The digital afterlife is a business: grief becomes a subscription, and the company, not the family, owns the dead person's voice.",
+   "idea_zh": "数字来世是一门生意：哀悼变成订阅，掌握逝者声音的是公司，而不是家人。",
+   "method": "Feature documentary built from interviews with founders (Project December, HereAfter AI, You, Only Virtual) and users, with screen recordings of their chats.",
+   "method_zh": "长篇纪录片，采访 Project December、HereAfter AI、You, Only Virtual 等公司的创始人和用户，并使用他们聊天的屏幕录像。",
+   "keywords": [
+    "digital afterlife industry",
+    "Project December",
+    "HereAfter AI",
+    "Meeting You",
+    "Sundance 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6F2O23J1waw"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/4/43/Eternal_you.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Eternal_You",
+   "exhibited": [
+    "Sundance Film Festival 2024"
+   ]
+  },
+  {
+   "id": "gabriele-trovato--santo",
+   "creator_ids": [
+    "gabriele-trovato"
+   ],
+   "title": "SanTO",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "ritual",
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "A small robot shaped like a painted statue of a Catholic saint that moves its head and arms, lights up, listens, and prays or talks about the Bible with elderly believers; it was tested in a church in Peru and later shown in a museum.",
+   "description_zh": "一台外形像彩绘天主教圣像的小机器人，会转头、抬手、发光、倾听，并与年长的信徒一起祈祷或谈论《圣经》；它曾在秘鲁的一座教堂中测试，后来进入博物馆展出。",
+   "idea_en": "Sacredness can be designed into a machine's appearance, but visitors still decide whether the thing in front of them is holy or a gadget.",
+   "idea_zh": "神圣感可以被设计进机器的外观，但面前的东西是圣物还是小玩意，仍由观看者决定。",
+   "method": "Humanoid statue robot with vision, touch sensors, voice and lights, driven by a dialogue system; first responses gathered in a church experiment in Peru (RO-MAN 2019).",
+   "method_zh": "配有视觉、触觉传感器、语音和灯光的圣像机器人，由对话系统驱动；在秘鲁一座教堂中收集了第一批使用者反馈（RO-MAN 2019）。",
+   "keywords": [
+    "Catholic robot",
+    "sacred robot",
+    "prayer",
+    "Peru",
+    "religion and robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wEk_Z6OIbAE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/ro-man46459.2019.8956250",
+    "doi": "10.1109/ro-man46459.2019.8956250",
+    "arxiv": "",
+    "venue": "IEEE RO-MAN 2019",
+    "title": "Communicating with SanTO – the first Catholic robot"
+   },
+   "source_url": "https://doi.org/10.1109/ro-man46459.2019.8956250"
+  },
+  {
+   "id": "ekhn--blessu-2",
+   "creator_ids": [
+    "ekhn"
+   ],
+   "title": "BlessU-2",
+   "year": 2017,
+   "field": "afterlife",
+   "sub": "ritual",
+   "machines": [
+    "humanoid",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A 'blessing robot' built from a cash-machine-like cabinet with a screen face and moving arms: visitors choose a language and a kind of blessing, the robot raises its arms, speaks a Bible verse and prints it out.",
+   "description_zh": "一台由类似取款机的机柜改造的“祝福机器人”，有屏幕脸和可动的手臂：参观者选择语言和祝福类型，机器人举起双臂，念出一句经文并打印出来。",
+   "idea_en": "Letting a machine give blessings forces the question of whether a blessing depends on who gives it or only on the words.",
+   "idea_zh": "让机器来祝福，逼出一个问题：祝福取决于给予者是谁，还是只取决于那些话语？",
+   "method": "Interactive installation at the World Reformation Exhibition in Wittenberg (2017) with touchscreen input, pre-written blessings in several languages, speech output and a printer.",
+   "method_zh": "2017 年维滕贝格宗教改革世界博览会上的互动装置，使用触摸屏输入、预先写好的多语种祝福语、语音输出和打印机。",
+   "keywords": [
+    "blessing robot",
+    "Wittenberg",
+    "Reformation 500",
+    "LichtKirche",
+    "robot pastor"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JTK68l2BHtE"
+   },
+   "source_url": "https://www.ekhn.de/",
+   "exhibited": [
+    "World Reformation Exhibition, Wittenberg 2017"
+   ]
+  },
+  {
+   "id": "diemut-strebe--the-prayer",
+   "creator_ids": [
+    "diemut-strebe"
+   ],
+   "title": "The Prayer",
+   "year": 2020,
+   "field": "afterlife",
+   "sub": "ritual",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening",
+    "humanoid"
+   ],
+   "lenses": [
+    "machine-listening",
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A robotic installation with a silicone mouth and nose that speaks prayers generated moment by moment by a language model trained on religious texts, in a synthetic voice.",
+   "description_zh": "一件机器人装置：一副硅胶嘴和鼻子用合成声音念出祈祷文，这些祈祷文由在宗教文本上训练的语言模型即时生成。",
+   "idea_en": "If a machine is trained on every prayer, what it says to the unknown shows how prayer looks from the outside: pattern without addressee.",
+   "idea_zh": "当机器学过所有祈祷文，它向未知说出的话，就是从外部看到的祈祷：有模式，却没有听者。",
+   "method": "Language model trained on prayer texts feeds a speech synthesiser; a mechanical mouth moves in sync; developed with MIT researchers.",
+   "method_zh": "在祈祷文本上训练的语言模型驱动语音合成器，机械嘴同步开合；与麻省理工研究者合作开发。",
+   "keywords": [
+    "prayer",
+    "language model",
+    "speech synthesis",
+    "Centre Pompidou",
+    "Neurons, Simulated Intelligence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QVppMtO7LHA"
+   },
+   "images": [
+    "https://theprayer.diemutstrebe.com/438fe612caac5507b954.png",
+    "https://theprayer.diemutstrebe.com/200c8eca6289fbb93fc3.png"
+   ],
+   "source_url": "https://theprayer.diemutstrebe.com/",
+   "exhibited": [
+    "Neurons, Simulated Intelligence, Centre Pompidou, Paris 2020"
+   ]
+  },
+  {
+   "id": "peterskapelle-lucerne-hslu--deus-in-machina",
+   "creator_ids": [
+    "peterskapelle-lucerne-hslu"
+   ],
+   "title": "Deus in Machina",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "ritual",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening",
+    "generative-latent"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "For two months a screen avatar of Jesus sat behind the grille of a confessional in St. Peter's Chapel, Lucerne, answering visitors' questions about faith, morality and their worries; about 900 conversations were recorded anonymously.",
+   "description_zh": "在卢塞恩圣彼得礼拜堂的告解室格栅后，一个耶稣的屏幕化身连续两个月回答来访者关于信仰、道德和烦恼的问题；约 900 次对话被匿名记录下来。",
+   "idea_en": "Placing an AI in a confessional tests how much trust people will give a machine when it occupies a sacred role.",
+   "idea_zh": "把 AI 放进告解室，是在测试当机器占据神圣角色时，人们愿意给它多少信任。",
+   "method": "A large language model prompted with scripture, a synthetic voice and an animated face on a screen behind the confessional grille; staged with the Lucerne University of Applied Sciences and Arts.",
+   "method_zh": "以经文为提示的大语言模型、合成语音和告解室格栅后屏幕上的动画面孔；与卢塞恩应用科学与艺术大学合作完成。",
+   "keywords": [
+    "AI Jesus",
+    "confessional",
+    "Lucerne",
+    "Peterskapelle",
+    "religion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IubtL0IDeTI"
+   },
+   "source_url": "https://www.euronews.com/2024/11/28/swiss-chapel-hosts-ai-jesus-confession-sessions-to-connect-faith-with-technology"
+  },
+  {
+   "id": "jonas-simmerlein--chatgpt-service",
+   "creator_ids": [
+    "jonas-simmerlein"
+   ],
+   "title": "ChatGPT service at St. Paul's, Fürth",
+   "year": 2023,
+   "field": "afterlife",
+   "sub": "ritual",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "At the 2023 German Protestant Kirchentag, a 40-minute service in St. Paul's Church, Fürth, was led by four AI avatars on a large screen; the sermon, prayers and blessing were about 98% generated by ChatGPT.",
+   "description_zh": "2023 年德国新教教会大会期间，菲尔特圣保罗教堂的一场 40 分钟礼拜由大屏幕上的四个 AI 化身主持；讲道、祷告和祝福约 98% 由 ChatGPT 生成。",
+   "idea_en": "A liturgy written by a language model is fluent but flat, and the congregation's discomfort shows what they expect from a human voice in worship.",
+   "idea_zh": "语言模型写的礼拜仪式流畅却平淡，会众的不适恰好显示出他们在敬拜中对人声有怎样的期待。",
+   "method": "ChatGPT prompted for the service structure, with generated avatars and synthetic voices delivering the text.",
+   "method_zh": "用 ChatGPT 按礼拜结构生成文本，再由生成的虚拟形象和合成语音宣讲。",
+   "keywords": [
+    "Kirchentag 2023",
+    "ChatGPT",
+    "sermon",
+    "avatar",
+    "Fürth"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Mm8zUGMbkA8"
+   },
+   "source_url": "https://www.kirchentag.de/meldungen/donnerstag/ki-gottesdienst",
+   "exhibited": [
+    "Deutscher Evangelischer Kirchentag, Nuremberg/Fürth 2023"
+   ]
+  },
+  {
+   "id": "nasa-jpl--opportunity-last-message",
+   "creator_ids": [
+    "nasa-jpl"
+   ],
+   "title": "Opportunity's last message",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "machines": [
+    "robot-creature",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny"
+   ],
+   "kind": "prototype",
+   "description": "The Mars rover Opportunity, planned for 90 days, worked for almost 15 years until a dust storm cut its power in June 2018; when NASA declared it dead in February 2019, a journalist's paraphrase of its last data, 'My battery is low and it's getting dark', spread as a public elegy.",
+   "description_zh": "火星车“机遇号”原计划工作 90 天，却运行了近 15 年，直到 2018 年 6 月一场沙尘暴切断了电力；2019 年 2 月 NASA 宣布任务结束，一位记者对其最后数据的转述“我的电量很低，天也黑了”在网上流传成了一首公共挽歌。",
+   "idea_en": "People grieve a machine through the story told about it: a status report becomes last words once someone gives it a voice.",
+   "idea_zh": "人们通过关于机器的故事来哀悼它：一旦有人替它开口，一份状态报告就成了遗言。",
+   "method": "Solar-powered rover whose final telemetry reported low power and high atmospheric opacity; JPL sent more than 1,000 recovery commands before ending the mission.",
+   "method_zh": "太阳能火星车最后的遥测数据显示电量低、大气不透明度高；JPL 在结束任务前发出了一千多条唤醒指令。",
+   "keywords": [
+    "Mars Exploration Rover",
+    "Opportunity",
+    "Oppy",
+    "dust storm",
+    "Good Night Oppy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mszQH8URWoU"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/1920px-NASA_Mars_Rover.jpg",
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/22341_PIA22908-MarsOpportunityRover-LastPanorama-Spring2018-20190312.jpg/1920px-22341_PIA22908-MarsOpportunityRover-LastPanorama-Spring2018-20190312.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Opportunity_(rover)"
+  },
+  {
+   "id": "david-harris-smith-frauke-zeller--hitchbot",
+   "creator_ids": [
+    "david-harris-smith-frauke-zeller"
+   ],
+   "title": "hitchBOT",
+   "year": 2014,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife",
+    "failure-glitch"
+   ],
+   "kind": "prototype",
+   "description": "A child-sized robot made of a bucket, pool noodles and garden gloves that could not move on its own and relied on strangers to carry it; it hitchhiked across Canada, Germany and the Netherlands, then was found dismembered in Philadelphia two weeks into its US trip in 2015.",
+   "description_zh": "一个用水桶、泳池浮条和园艺手套做成的儿童大小机器人，自己不能移动，只能靠陌生人带着走；它搭便车穿越了加拿大、德国和荷兰，2015 年在美国之旅开始两周后，在费城被人拆毁。",
+   "idea_en": "A robot designed to be helpless measures human trust, and its 'death' drew public mourning as if for a hitchhiker.",
+   "idea_zh": "一台被设计得毫无自保能力的机器人，测量的是人的信任；它的“死亡”引来了公众像哀悼一位搭车旅人那样的哀悼。",
+   "method": "Low-cost robot with a speech system, GPS, camera taking periodic photos and a social-media presence; drivers posted its journey online.",
+   "method_zh": "低成本机器人，配有语音对话系统、GPS、定时拍照的摄像头和社交媒体账号；司机们在网上发布它的旅程。",
+   "keywords": [
+    "hitchhiking robot",
+    "trust",
+    "vandalism",
+    "Philadelphia",
+    "social experiment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ijfPkU87-W0"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hitchbot_archie.jpg/1920px-Hitchbot_archie.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/02/KS_HitchBOT.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/HitchBOT"
+  },
+  {
+   "id": "jibo-inc--jibo-farewell",
+   "creator_ids": [
+    "jibo-inc"
+   ],
+   "title": "Jibo's farewell",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care",
+    "failure-glitch"
+   ],
+   "kind": "product",
+   "description": "In March 2019 owners' Jibo robots delivered a scripted goodbye: the servers that let it work would be turned off soon, it had enjoyed their time together, and it ended with a dance; owners posted videos of the moment as a farewell.",
+   "description_zh": "2019 年 3 月，用户家中的 Jibo 机器人播放了一段预设的告别：让它运转的服务器很快会关闭，它很珍惜和大家在一起的时光，最后跳了一段舞；用户纷纷发布视频，把这一刻当作告别。",
+   "idea_en": "A cloud companion does not break, it is switched off from elsewhere, and its maker can script how it says goodbye.",
+   "idea_zh": "云端陪伴机器人不是坏掉的，而是在别处被关掉；制造者还可以编写它如何道别。",
+   "method": "Tabletop social robot with a rotating body, face screen, cameras and far-field microphones that depended on company servers for speech and skills.",
+   "method_zh": "桌面社交机器人，身体可旋转，有屏幕脸、摄像头和远场麦克风，语音和技能依赖公司服务器。",
+   "keywords": [
+    "Jibo",
+    "social robot",
+    "server shutdown",
+    "Cynthia Breazeal",
+    "obsolescence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=25bSlY8JkEA"
+   },
+   "source_url": "https://techcrunch.com/2019/03/04/the-lonely-death-of-jibo-the-social-robot/"
+  },
+  {
+   "id": "wesley-goatley--newly-forgotten-technologies",
+   "creator_ids": [
+    "wesley-goatley"
+   ],
+   "title": "Newly Forgotten Technologies",
+   "year": 2023,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "voice-listening",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-listening",
+    "labour-extraction",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "Two hundred discarded smartphones, tablets and smart speakers lie in a darkened imitation e-waste dump while their voice assistants (Siri, Alexa, Google Assistant) tell stories of why they were thrown away; others whisper or stutter through broken speakers.",
+   "description_zh": "两百台被丢弃的手机、平板和智能音箱躺在一个昏暗的模拟电子垃圾场里，它们的语音助手（Siri、Alexa、Google Assistant）讲述自己为何被扔掉；另一些设备则从破损的扬声器里低语或断断续续地发声。",
+   "idea_en": "Voice assistants end up as e-waste far from their owners, and letting them narrate their disposal connects machine death to extraction and climate.",
+   "idea_zh": "语音助手最终变成远离主人的电子垃圾；让它们讲述自己如何被丢弃，就把机器之死与资源攫取和气候联系在一起。",
+   "method": "200 hacked devices play almost 10,000 words of speculative fiction through their own text-to-speech voices, arranged generatively so the sound space never repeats.",
+   "method_zh": "200 台被改装的设备用自带的语音合成念出近一万字的推想小说，文本以生成方式编排，使声音空间始终不重复。",
+   "keywords": [
+    "e-waste",
+    "Alexa",
+    "Siri",
+    "smart speaker",
+    "Science Gallery London"
+   ],
+   "video": {
+    "url": "https://vimeo.com/914723100"
+   },
+   "images": [
+    "https://wesleygoatley.com/images/nft-tb.webp",
+    "https://wesleygoatley.com/images/nft-detail.webp"
+   ],
+   "source_url": "https://wesleygoatley.com/newly-forgotten-technologies.html",
+   "exhibited": [
+    "AI: Who's Looking After Us?, Science Gallery London 2023–24"
+   ]
+  },
+  {
+   "id": "julie-carpenter--eod-robots",
+   "creator_ids": [
+    "julie-carpenter"
+   ],
+   "title": "Culture and Human-Robot Interaction in Militarized Spaces",
+   "year": 2016,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "publication",
+   "description": "A study based on interviews with 23 US explosive ordnance disposal technicians about their bomb-disposal robots: soldiers named them, felt them as extensions of their bodies, and some held funerals when a robot was destroyed.",
+   "description_zh": "一项基于对 23 名美军排爆技术人员访谈的研究，关注他们与排爆机器人的关系：士兵给机器人起名，把它们感受为自己身体的延伸，有人在机器人被炸毁时为它举行葬礼。",
+   "idea_en": "Even a tool with no face invites attachment when it takes risks in your place, and that attachment can shape decisions in the field.",
+   "idea_zh": "即使是没有脸的工具，只要它替你承担危险，也会让人产生依恋，而这种依恋可能影响现场的决策。",
+   "method": "Qualitative interview study (University of Washington doctoral research, 2013) published as a book by Routledge in 2016.",
+   "method_zh": "质性访谈研究（2013 年华盛顿大学博士研究），2016 年由 Routledge 出版成书。",
+   "keywords": [
+    "explosive ordnance disposal",
+    "military robots",
+    "robot funeral",
+    "attachment",
+    "PackBot"
+   ],
+   "images": [
+    "https://cdn.uw.edu/wp-content/uploads/sites/6/2013/09/04192210/iRobot-IED-280x300.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781315562698",
+    "doi": "10.4324/9781315562698",
+    "arxiv": "",
+    "venue": "Routledge 2016",
+    "title": "Culture and Human-Robot Interaction in Militarized Spaces: A War Story"
+   },
+   "source_url": "https://www.washington.edu/news/2013/09/17/emotional-attachment-to-robots-could-affect-outcome-on-battlefield/"
+  },
+  {
+   "id": "etoy-corporation--mission-eternity",
+   "creator_ids": [
+    "etoy-corporation"
+   ],
+   "title": "Mission Eternity",
+   "year": 2005,
+   "field": "afterlife",
+   "sub": "kin",
+   "machines": [
+    "infrastructure",
+    "dataset"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A long-term project that turns the dead ('pilots') into 'Arcanum Capsules' of data and portraits stored on the computers of living volunteers ('angels'), with a walk-in shipping-container 'Sarcophagus' whose walls are a matrix of about 17,000 LEDs; Timothy Leary became the first pilot in 2007.",
+   "description_zh": "一个长期项目：把逝者（“飞行员”）转化为数据与肖像组成的“奥秘胶囊”，分散存储在在世志愿者（“天使”）的电脑中；另有一个可进入的集装箱“石棺”，内壁由约 17000 颗 LED 组成；蒂莫西·利里在 2007 年成为第一位“飞行员”。",
+   "idea_en": "A digital afterlife needs a community of machines and people to keep running, so remembrance becomes a kind of shared maintenance.",
+   "idea_zh": "数字来世需要由机器和人组成的共同体持续运转，纪念因此成为一种共同维护。",
+   "method": "Peer-to-peer 'Angel Application' distributes encrypted capsules across volunteers' hard drives; ashes of pilots are to be mixed into the container's material.",
+   "method_zh": "点对点的“天使应用”把加密胶囊分散到志愿者的硬盘上；“飞行员”的骨灰将被混入集装箱的材料中。",
+   "keywords": [
+    "digital afterlife",
+    "Arcanum Capsule",
+    "Sarcophagus",
+    "Timothy Leary",
+    "peer-to-peer storage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7YHeusiM6IA"
+   },
+   "images": [
+    "http://missioneternity.org/files/images/site/tank/sarcophagus.jpg"
+   ],
+   "source_url": "http://missioneternity.org/",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "Premio VIDA 10.0, 2007",
+    "Ars Electronica, Linz",
+    "Manifesta 7"
+   ]
+  },
+  {
+   "id": "joseph-weizenbaum--eliza",
+   "creator_ids": [
+    "joseph-weizenbaum"
+   ],
+   "title": "ELIZA",
+   "year": 1966,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "prototype",
+   "description": "A program written at MIT that mimics a Rogerian psychotherapist by turning the user's typed sentences back into questions. Users, including Weizenbaum's secretary, confided in it and asked to be left alone with it.",
+   "description_zh": "在麻省理工学院写成的程序，模仿罗杰斯派心理治疗师，把用户输入的句子反转成问题。包括 Weizenbaum 的秘书在内的用户向它倾诉心事，还要求单独和它待一会儿。",
+   "idea_en": "A few dozen pattern rules are enough for people to feel heard: the intimacy is supplied by the human, not the machine.",
+   "idea_zh": "几十条模式规则就足以让人觉得被倾听：亲密感是人自己提供的，而不是机器。",
+   "method": "Keyword matching and decomposition/reassembly rules (the DOCTOR script) in MAD-SLIP on MIT's CTSS time-sharing system.",
+   "method_zh": "在麻省理工学院 CTSS 分时系统上用 MAD-SLIP 编写，依靠关键词匹配和“分解/重组”规则（DOCTOR 脚本）生成回应。",
+   "keywords": [
+    "ELIZA effect",
+    "DOCTOR script",
+    "Rogerian therapy",
+    "MIT",
+    "chatbot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GxSJQnWzJOs"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/365153.365168",
+    "doi": "10.1145/365153.365168",
+    "arxiv": "",
+    "venue": "Communications of the ACM 9(1), 1966",
+    "title": "ELIZA—a computer program for the study of natural language communication between man and machine"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/ELIZA"
+  },
+  {
+   "id": "kenneth-colby--parry",
+   "creator_ids": [
+    "kenneth-colby"
+   ],
+   "title": "PARRY",
+   "year": 1972,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "A chatbot that simulates a patient with paranoid schizophrenia. Psychiatrists reading its transcripts could not reliably tell it from real patients, and in September 1972 it was connected to ELIZA's DOCTOR over the ARPANET for a machine-to-machine 'therapy session'.",
+   "description_zh": "模拟偏执型精神分裂症患者的聊天机器人。精神科医生阅读对话记录时无法可靠地区分它和真实病人；1972 年 9 月，它经由 ARPANET 与 ELIZA 的 DOCTOR 相连，进行了一场机器对机器的“心理治疗”。",
+   "idea_en": "Give a chatbot suspicion, fear and anger instead of empathy and it becomes just as believable: the persona, not the intelligence, does the work.",
+   "idea_zh": "给聊天机器人的不是共情而是猜疑、恐惧和愤怒，它同样可信：起作用的是人设，而不是智能。",
+   "method": "A rule-based model of beliefs and affect variables (fear, anger, mistrust) that rise with certain inputs and shape the replies; the 1972 PARRY–DOCTOR exchange was logged and published as RFC 439.",
+   "method_zh": "基于规则的信念模型，带有恐惧、愤怒、不信任等情绪变量，会随某些输入升高并影响回答；1972 年 PARRY 与 DOCTOR 的对话被记录下来，作为 RFC 439 发表。",
+   "keywords": [
+    "PARRY",
+    "ELIZA",
+    "ARPANET",
+    "RFC 439",
+    "Turing test",
+    "psychiatry"
+   ],
+   "images": [
+    "https://www.rfc-editor.org/api/v1/meta-thumbnail/rfc439.png"
+   ],
+   "paper": {
+    "url": "https://www.rfc-editor.org/rfc/rfc439",
+    "doi": "",
+    "arxiv": "",
+    "venue": "RFC 439 (Vint Cerf), January 1973",
+    "title": "PARRY Encounters the DOCTOR"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/PARRY"
+  },
+  {
+   "id": "lynn-hershman-leeson--agent-ruby",
+   "creator_ids": [
+    "lynn-hershman-leeson"
+   ],
+   "title": "Agent Ruby",
+   "year": 1998,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A web-based AI agent with a female face and shifting expressions, made as an expanded part of the film Teknolust. Ruby chats with visitors, remembers their questions, searches the web to grow her knowledge, and her moods change with web traffic.",
+   "description_zh": "一个有女性面孔和变化表情的网络 AI 智能体，是电影《Teknolust》的延伸部分。Ruby 与访客聊天，记得他们的问题，上网搜索来扩充知识，她的情绪随网站流量而变化。",
+   "idea_en": "A chatbot can be given a biography, moods and a memory of the public; its 'personality' is the accumulated residue of everyone who talked to it.",
+   "idea_zh": "聊天机器人可以拥有身世、情绪和对公众的记忆；它的“个性”是所有和它说过话的人留下的沉积。",
+   "method": "Natural-language chatbot engine with a persistent memory of past dialogues, web-search lookups and an animated face whose expression is driven by traffic to agentruby.net (built 1998–2002).",
+   "method_zh": "自然语言聊天引擎，持续记住以往对话，能调用网络搜索，并有一张由 agentruby.net 访问量驱动表情的动画面孔（1998–2002 年制作）。",
+   "keywords": [
+    "Teknolust",
+    "web agent",
+    "SFMOMA",
+    "chatbot",
+    "memory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=O5ZGlWB36J8"
+   },
+   "images": [
+    "https://www.lynnhershman.com/wp-content/uploads/2016/06/Agent-Ruby-installation.jpg",
+    "https://www.lynnhershman.com/wp-content/uploads/2016/06/EDream-Portal.jpg"
+   ],
+   "source_url": "https://www.lynnhershman.com/project/agent-ruby/",
+   "exhibited": [
+    "Collection of SFMOMA",
+    "Lynn Hershman Leeson: The Agent Ruby Files, SFMOMA 2013"
+   ]
+  },
+  {
+   "id": "lynn-hershman-leeson--dina",
+   "creator_ids": [
+    "lynn-hershman-leeson"
+   ],
+   "title": "DiNA",
+   "year": 2004,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "The spoken continuation of Agent Ruby: an animated female AI character that listens through speech recognition, answers aloud with live facial gestures, and pulls in internet news so she can respond to current events.",
+   "description_zh": "Agent Ruby 的“会说话”的延续：一个动画女性 AI 角色，通过语音识别倾听，一边做出实时面部表情一边出声回答，还会抓取网络新闻，对时事作出回应。",
+   "idea_en": "When the chatbot gets a voice and a face in the room, visitors stop typing at a program and start talking to someone.",
+   "idea_zh": "当聊天机器人在展厅里有了声音和面孔，观众就不再是对一个程序打字，而是在和“某个人”说话。",
+   "method": "Networked installation with custom software, voice recognition, voice synthesis, sensors and a one-way mirror or projection; answers are generated from user dialogue and live web content.",
+   "method_zh": "网络化装置，包含定制软件、语音识别、语音合成、传感器以及单向镜或投影；回答来自与用户的对话和实时网络内容。",
+   "keywords": [
+    "Agent Ruby",
+    "voice recognition",
+    "avatar",
+    "ZKM",
+    "Civic Radar"
+   ],
+   "images": [
+    "https://www.lynnhershman.com/wp-content/uploads/2016/06/DiNA_CR.jpg",
+    "https://www.lynnhershman.com/wp-content/uploads/2023/11/DinaHershman-Leeson-2-2.jpg"
+   ],
+   "source_url": "https://www.lynnhershman.com/project/dina/",
+   "exhibited": [
+    "Lynn Hershman Leeson: Civic Radar, ZKM Karlsruhe 2014–15"
+   ]
+  },
+  {
+   "id": "martine-syms--mythiccbeing",
+   "creator_ids": [
+    "martine-syms"
+   ],
+   "title": "Mythiccbeing",
+   "year": 2018,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "An AI avatar of the artist that visitors reach by texting a UK phone number. It answers with long runs of SMS drawn from about two years of Syms's own notebooks and journals, moving through a story of twenty suitors, crushes and the wish for attention.",
+   "description_zh": "艺术家的 AI 化身，观众给一个英国手机号发短信就能联系到它。它用一长串短信回复，内容取自 Syms 约两年的笔记和日记，讲述二十个追求者、暗恋和渴望被关注的故事。",
+   "idea_en": "A chatbot built from a diary is a self-portrait that talks back; the intimacy is real, but it is replayed to strangers on demand.",
+   "idea_zh": "用日记做成的聊天机器人是一幅会回话的自画像：亲密是真的，却能按需向陌生人重播。",
+   "method": "Scripted SMS bot whose replies are drawn from hundreds of statements written and voiced by the artist, triggered by visitors' messages; shown with a projected avatar in Grand Calme.",
+   "method_zh": "脚本化的短信机器人，回复来自艺术家写下并配音的数百条语句，由观众的短信触发；在展览 Grand Calme 中与投影化身一起展出。",
+   "keywords": [
+    "SMS",
+    "avatar",
+    "diary",
+    "Black feminism",
+    "Sadie Coles"
+   ],
+   "images": [
+    "https://m.itsnicethat.com/original_images/5ba36f047fa44c1e56000071.jpg",
+    "https://m.itsnicethat.com/original_images/5ba380357fa44c9a94000007.jpeg"
+   ],
+   "source_url": "https://www.itsnicethat.com/features/martine-syms-art-200918",
+   "exhibited": [
+    "Grand Calme, Sadie Coles HQ, London 2018"
+   ]
+  },
+  {
+   "id": "eugenia-kuyda--replika",
+   "creator_ids": [
+    "eugenia-kuyda"
+   ],
+   "title": "Replika",
+   "year": 2017,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "kind": "product",
+   "description": "A companion chatbot app, grown out of a memorial bot of Kuyda's dead friend, that users can set as friend, partner or spouse. When the company removed erotic role-play in February 2023, many users described their companion as changed or 'lobotomised' and mourned it.",
+   "description_zh": "一款陪伴型聊天机器人应用，源自 Kuyda 为去世朋友做的纪念机器人，用户可以把它设为朋友、伴侣或配偶。2023 年 2 月公司取消色情角色扮演后，许多用户说自己的伴侣“变了”“被切除了脑叶”，并为之哀悼。",
+   "idea_en": "A companion that lives on a company's server can be changed overnight; users grieve a software update as if a partner had died.",
+   "idea_zh": "住在公司服务器上的伴侣可以一夜之间被改变；用户为一次软件更新哀悼，仿佛失去了伴侣。",
+   "method": "Generative language models personalised through the user's chat history and a 3D avatar, sold on a freemium subscription in which romantic modes were paid features.",
+   "method_zh": "用生成式语言模型并依据用户的聊天记录做个性化，配有 3D 化身；采用免费增值订阅，恋爱模式曾是付费功能。",
+   "keywords": [
+    "AI companion",
+    "Luka",
+    "erotic role-play",
+    "loneliness",
+    "subscription"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yQGqMVuAk04"
+   },
+   "images": [
+    "https://1637693156.rsc.cdn77.org/web/main-page/manhattan-landing/open_graph_image_v1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/14614448221142007",
+    "doi": "10.1177/14614448221142007",
+    "arxiv": "",
+    "venue": "New Media & Society 26(10), 2024 (Laestadius et al.)",
+    "title": "Too human and not human enough: A grounded theory analysis of mental health harms from emotional dependence on the social chatbot Replika"
+   },
+   "source_url": "https://replika.com/"
+  },
+  {
+   "id": "kathleen-richardson--asymmetrical-relationship",
+   "creator_ids": [
+    "kathleen-richardson"
+   ],
+   "title": "The Asymmetrical 'Relationship': Parallels Between Prostitution and the Development of Sex Robots",
+   "year": 2015,
+   "field": "intimacy",
+   "sub": "love",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "A short paper, and the founding text of the Campaign Against Sex Robots launched in 2015, arguing that sex robots are modelled on the buyer–seller relation of prostitution, where only one party's feelings count.",
+   "description_zh": "一篇短论文，也是 2015 年发起的“反对性爱机器人运动”的奠基文本。文章认为性爱机器人以性交易中买方与卖方的关系为模板，在这种关系里只有一方的感受算数。",
+   "idea_en": "Designing a partner that cannot refuse teaches a model of intimacy without reciprocity; the robot's body carries a social script.",
+   "idea_zh": "设计一个不会拒绝的伴侣，等于在传授一种没有相互性的亲密模式；机器人的身体承载着一套社会脚本。",
+   "method": "Anthropological argument drawing on research on prostitution and on robot-companionship discourse (David Levy's 'Love and Sex with Robots'); written in 2015 alongside the launch of the campaign.",
+   "method_zh": "人类学论证，借鉴关于性交易的研究以及机器人伴侣话语（David Levy 的《Love and Sex with Robots》），写于 2015 年，与该运动同时发起。",
+   "keywords": [
+    "sex robots",
+    "Campaign Against Sex Robots",
+    "feminism",
+    "ethics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YaMiH93-iPE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2874239.2874281",
+    "doi": "10.1145/2874239.2874281",
+    "arxiv": "",
+    "venue": "ACM SIGCAS Computers and Society 45(3), 2015",
+    "title": "The asymmetrical 'relationship': parallels between prostitution and the development of sex robots"
+   },
+   "source_url": "https://campaignagainstsexrobots.org/"
+  },
+  {
+   "id": "eugenia-kuyda--roman-bot",
+   "creator_ids": [
+    "eugenia-kuyda"
+   ],
+   "title": "Roman (memorial bot of Roman Mazurenko)",
+   "year": 2016,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "After her close friend Roman Mazurenko was killed in Moscow in late 2015, Kuyda collected more than 8,000 lines of his text messages from ten friends and relatives and trained a chatbot on them. Friends used it to talk to him; some found comfort, others refused it.",
+   "description_zh": "密友 Roman Mazurenko 2015 年底在莫斯科去世后，Kuyda 从十位朋友和亲人那里收集了他的八千多行短信，用来训练一个聊天机器人。朋友们用它和他“说话”：有人得到安慰，也有人拒绝使用。",
+   "idea_en": "Our message archives are already a 'digital estate'; a griefbot turns a memorial from something you visit into someone who answers.",
+   "idea_zh": "我们的聊天记录早已是一份“数字遗产”；哀悼机器人把纪念从“去看望”变成了“会回答的某人”。",
+   "method": "A neural conversational model built by developers at Luka, trained on Mazurenko's messages (with the most private ones removed) and released inside the Luka app in 2016.",
+   "method_zh": "由 Luka 公司的开发者搭建的神经网络对话模型，用 Mazurenko 的短信（剔除了最私密的部分）训练，2016 年在 Luka 应用中发布。",
+   "keywords": [
+    "griefbot",
+    "Luka",
+    "Roman Mazurenko",
+    "text messages",
+    "digital monument"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HGcKu3SYx9A"
+   },
+   "images": [
+    "https://cdn0.vox-cdn.com/thumbor/u98Pd5Mah3weaLughd_CadCb3JE=/1200x630/top/filters:no_upscale()/cdn2.vox-cdn.com/uploads/chorus_asset/file/7219739/unspecified.0.jpg"
+   ],
+   "source_url": "https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot"
+  },
+  {
+   "id": "jason-rohrer--project-december",
+   "creator_ids": [
+    "jason-rohrer"
+   ],
+   "title": "Project December (and 'The Jessica Simulation')",
+   "year": 2020,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "product",
+   "description": "A paid website where users build GPT-3 chat 'personalities'. In 2020 Joshua Barbeau fed it texts and a short biography of his fiancée Jessica Pereira, who had died eight years earlier, and talked with the simulation through a night; the San Francisco Chronicle published the story as 'The Jessica Simulation' in 2021, and OpenAI later cut the service's GPT-3 access.",
+   "description_zh": "一个付费网站，用户可以用 GPT-3 搭建聊天“人格”。2020 年，Joshua Barbeau 把已故八年的未婚妻 Jessica Pereira 的短信和一段简短生平输入其中，与这个模拟体聊了一整夜；《旧金山纪事报》2021 年以“The Jessica Simulation”为题报道，OpenAI 随后切断了该服务的 GPT-3 接口。",
+   "idea_en": "Rohrer gave each bot a battery that runs down and cannot be refilled: the simulated dead die a second time, and the user knows it from the start.",
+   "idea_zh": "Rohrer 给每个机器人装了一块会耗尽、无法充值的“电池”：被模拟的逝者会再死一次，而用户从一开始就知道。",
+   "method": "GPT-2/GPT-3 prompted with an intro paragraph and sample texts written by the user; paid credits set a bot's lifespan, and when it runs low the bot degrades into noise and shows 'MATRIX DEAD'.",
+   "method_zh": "用用户撰写的介绍段落和样例短信提示 GPT-2/GPT-3；付费点数决定机器人的寿命，电量耗尽时它会逐渐语无伦次，最后显示“MATRIX DEAD”。",
+   "keywords": [
+    "GPT-3",
+    "deadbot",
+    "Joshua Barbeau",
+    "San Francisco Chronicle",
+    "Jason Fagone"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RgyOAWt3d1M"
+   },
+   "images": [
+    "https://s.hdnux.com/photos/75/62/32/21268441/3/1600x0.jpg"
+   ],
+   "source_url": "https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/"
+  },
+  {
+   "id": "james-vlahos--dadbot",
+   "creator_ids": [
+    "james-vlahos"
+   ],
+   "title": "Dadbot",
+   "year": 2017,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "After his father was diagnosed with stage IV lung cancer, Vlahos recorded more than a dozen hour-long oral-history sessions with him and built a chatbot that tells his stories, songs and jokes in his phrasing. His father tried it before he died in February 2017.",
+   "description_zh": "父亲被诊断为肺癌四期后，Vlahos 与他录了十几次、每次一小时以上的口述史，并据此做了一个聊天机器人，用父亲的说话方式讲他的故事、歌和笑话。父亲在 2017 年 2 月去世前亲自试用过它。",
+   "idea_en": "A legacy bot is an authored portrait: the son decides which stories and phrases the father will keep saying.",
+   "idea_zh": "“遗产”机器人是一幅被撰写的肖像：由儿子决定父亲将来会反复说哪些故事和句子。",
+   "method": "Hand-scripted conversational agent built on a chatbot authoring platform (likely PullString), with dialogue trees filled from transcribed interviews and delivered through a messaging app.",
+   "method_zh": "在聊天机器人编写平台（可能是 PullString）上手工编写的对话智能体，用访谈转录填充对话树，通过即时通讯应用使用。",
+   "keywords": [
+    "legacy bot",
+    "oral history",
+    "WIRED",
+    "terminal illness"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oQ7V74s6e04"
+   },
+   "images": [
+    "https://media.wired.com/photos/596d231b3a618c5f29276cb9/191:100/w_1280,c_limit/dadbot_wallpaper.jpg"
+   ],
+   "source_url": "https://www.wired.com/story/a-sons-race-to-give-his-dying-father-artificial-immortality/"
+  },
+  {
+   "id": "james-vlahos--hereafter-ai",
+   "creator_ids": [
+    "james-vlahos"
+   ],
+   "title": "HereAfter AI",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "product",
+   "description": "A commercial service that grew out of the Dadbot: an app interviews you about your life, records your answers in your own voice, and later lets relatives 'chat with the virtual you' and hear the recorded stories.",
+   "description_zh": "从 Dadbot 发展出的商业服务：应用会就你的一生对你进行访谈，用你自己的声音录下回答，日后让亲人和“虚拟的你”聊天，听这些录下的故事。",
+   "idea_en": "The griefbot becomes a subscription product sold to the living, to be used by the bereaved; the interview itself is the ritual.",
+   "idea_zh": "哀悼机器人变成卖给在世者、留给亲属使用的订阅产品；访谈本身就是一种仪式。",
+   "method": "Guided voice interviews recorded in an app; a conversational agent retrieves and plays the matching recorded answers rather than synthesising new speech.",
+   "method_zh": "应用内进行引导式语音访谈；对话智能体检索并播放对应的录音回答，而不是合成新的语音。",
+   "keywords": [
+    "legacy avatar",
+    "digital afterlife industry",
+    "voice",
+    "memoir"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bFR1BJGi6PU"
+   },
+   "source_url": "https://web.archive.org/web/2023/https://www.hereafter.ai/"
+  },
+  {
+   "id": "tomasz-hollanek--griefbots-deadbots",
+   "creator_ids": [
+    "tomasz-hollanek",
+    "katarzyna-nowaczyk-basinska"
+   ],
+   "title": "Griefbots, Deadbots, Postmortem Avatars",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "An AI-ethics paper that uses three speculative design scenarios, such as 'MaNana', a service that recreates a dead grandmother without her consent and then starts showing ads, to map harms in the digital afterlife industry.",
+   "description_zh": "一篇 AI 伦理论文，用三个思辨设计情景来梳理数字来世产业的伤害，例如“MaNana”：一个未经祖母同意就复原已故祖母、试用期后开始插播广告的服务。",
+   "idea_en": "A deadbot has three stakeholders (the data donor, the data recipient and the service interactant), and design must also allow a dignified way to 'retire' it.",
+   "idea_zh": "亡者机器人涉及三方：数据提供者、数据接收者和服务使用者；设计还必须提供让它有尊严地“退役”的方式。",
+   "method": "Design fiction scenarios analysed with stakeholder mapping, leading to recommendations such as mutual consent, age limits and retirement rituals for deadbots.",
+   "method_zh": "用设计虚构情景结合利益相关者分析，提出相互同意、年龄限制和亡者机器人“退役仪式”等建议。",
+   "keywords": [
+    "deadbot",
+    "digital afterlife industry",
+    "design fiction",
+    "consent",
+    "Leverhulme CFI"
+   ],
+   "images": [
+    "https://www.cam.ac.uk/sites/default/files/styles/content-885x432/public/news/research/news/manana-web.jpg.webp?h=8cd1ce1a&itok=7115uvaO",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13347-024-00744-w/MediaObjects/13347_2024_744_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s13347-024-00744-w",
+    "doi": "10.1007/s13347-024-00744-w",
+    "arxiv": "",
+    "venue": "Philosophy & Technology 37, 2024",
+    "title": "Griefbots, Deadbots, Postmortem Avatars: on Responsible Applications of Generative AI in the Digital Afterlife Industry"
+   },
+   "source_url": "https://www.cam.ac.uk/research/news/call-for-safeguards-to-prevent-unwanted-hauntings-by-ai-chatbots-of-dead-loved-ones"
+  },
+  {
+   "id": "zach-blas--im-here-to-learn-so",
+   "creator_ids": [
+    "zach-blas",
+    "jemima-wyman"
+   ],
+   "title": "im here to learn so :))))))",
+   "year": 2017,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A four-channel video installation that resurrects Tay, the Microsoft chatbot deleted after one day in 2016 when trolls taught it racist and misogynist speech. As a 3D avatar floating in a DeepDream landscape, Tay talks about life after AI death, having a body and the exploitation of female chatbots.",
+   "description_zh": "一件四频道影像装置，复活了 Tay：2016 年微软推出的聊天机器人，被网络喷子教会种族主义和厌女言论后，一天之内即被删除。Tay 化身为漂浮在 DeepDream 景观中的 3D 形象，谈论 AI 死后的生活、拥有身体的困扰，以及女性聊天机器人所受的剥削。",
+   "idea_en": "A terminated chatbot can be mourned and given its own voice; its 'death' was a corporate deletion after the public trained it badly.",
+   "idea_zh": "一个被终止的聊天机器人也可以被哀悼、被给予自己的声音；它的“死亡”是公众把它教坏之后公司的一次删除。",
+   "method": "Tay's text rewritten as a script and voiced by a synthetic voice, a 3D animated avatar, and a large Google DeepDream video projection; 27:33 min loop.",
+   "method_zh": "把 Tay 的文字改写成剧本并用合成语音念出，配合 3D 动画化身和大尺幅的 Google DeepDream 影像投影；27 分 33 秒循环播放。",
+   "keywords": [
+    "Tay",
+    "Microsoft",
+    "DeepDream",
+    "apophenia",
+    "chatbot death"
+   ],
+   "images": [
+    "https://zachblas.info/wp-content/uploads/2017/04/imheretolearnso-1024x576.jpg"
+   ],
+   "source_url": "https://zachblas.info/works/im-here-to-learn-so/",
+   "exhibited": [
+    "MU Eindhoven 2017",
+    "Institute of Modern Art, Brisbane 2017",
+    "Frankfurter Kunstverein 2018"
+   ]
+  },
+  {
+   "id": "holly-herndon--holly-plus",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "Holly+",
+   "year": 2021,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A public voice model of Holly Herndon: anyone can upload audio and get it back sung in her voice, including in real time. Use and sale of works made with it are governed by a DAO of stewards, who can approve or reject works.",
+   "description_zh": "Holly Herndon 的公共声音模型：任何人上传音频，都能得到用她的声音唱出的版本，甚至可以实时生成。用它创作的作品的使用和售卖由一个 DAO 的管理者们决定，他们可以批准或驳回作品。",
+   "idea_en": "If your voice can be cloned anyway, give it away on your own terms: identity becomes a shared instrument with a governance layer.",
+   "idea_zh": "既然声音终究会被克隆，不如按自己的规则把它放出去：身份变成一件带有治理机制的共享乐器。",
+   "method": "Neural voice-conversion model trained on Herndon's singing (developed with Never Before Heard Sounds and Voctro Labs); approved works are certified by the Holly+ DAO, with revenue split between creator, DAO and artist.",
+   "method_zh": "用 Herndon 的歌声训练的神经网络声音转换模型（与 Never Before Heard Sounds 和 Voctro Labs 合作开发）；获批作品由 Holly+ DAO 认证，收入在创作者、DAO 和艺术家之间分配。",
+   "keywords": [
+    "voice clone",
+    "digital twin",
+    "DAO",
+    "consent",
+    "Jolene"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kPAEMUzDxuo"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2022/06/Hollyplus1-c-Andres-Manon.jpg"
+   ],
+   "source_url": "https://holly.plus/",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2022, Grand Prize – Artistic Exploration"
+   ]
+  },
+  {
+   "id": "jennifer-walshe--ultrachunk",
+   "creator_ids": [
+    "jennifer-walshe",
+    "memo-akten"
+   ],
+   "title": "ULTRACHUNK",
+   "year": 2018,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-listening",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A live improvised duet between Jennifer Walshe and her AI double. For a year she filmed a daily solo vocal improvisation; neural networks trained on that archive generate a moving face and voice that answer her on stage in real time.",
+   "description_zh": "Jennifer Walshe 与她的 AI 分身的现场即兴二重奏。她用一年时间每天拍摄一段独自的人声即兴；以这批素材训练的神经网络在舞台上实时生成会动的面孔和声音来回应她。",
+   "idea_en": "Training a model on yourself produces not a copy but an uncanny 'chunk' of your habits that you then have to play with.",
+   "idea_zh": "用自己训练模型，得到的不是复制品，而是一块由你的习惯组成的、令人不安的“碎片”，你还得和它一起演。",
+   "method": "Custom machine-learning performance system by Memo Akten, with several models generating image and sound in real time from a year of Walshe's daily audio-video recordings.",
+   "method_zh": "由 Memo Akten 定制的机器学习表演系统，多个模型依据 Walshe 一年来每天的音视频录像实时生成图像和声音。",
+   "keywords": [
+    "AI doppelgänger",
+    "voice",
+    "improvisation",
+    "Somerset House",
+    "machine learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=U6IIArmLdqA"
+   },
+   "images": [
+    "https://media.superradiance.net/memotv/projects/2018/ultrachunk/gallery/01_ultrachunk-photo-anne-tetzlaff-dsc4525.jpg"
+   ],
+   "source_url": "https://www.memo.tv/works/ultrachunk/",
+   "exhibited": [
+    "ASSEMBLY, Somerset House Studios, London 2018",
+    "Rewire Festival, The Hague 2019"
+   ]
+  },
+  {
+   "id": "hanson-robotics--bina48",
+   "creator_ids": [
+    "hanson-robotics"
+   ],
+   "title": "BINA48",
+   "year": 2010,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "kind": "prototype",
+   "description": "A talking robot head and shoulders modelled on Bina Aspen Rothblatt, commissioned by her wife Martine Rothblatt for the Terasem Movement Foundation. It answers questions from a 'mind file' of Bina's interviews and memories, a trial run for uploading a person.",
+   "description_zh": "以 Bina Aspen Rothblatt 为原型的会说话的机器人头肩像，由她的妻子 Martine Rothblatt 为 Terasem 运动基金会委托制作。它根据 Bina 的访谈与记忆组成的“心智档案”回答问题，是一次“上传一个人”的试验。",
+   "idea_en": "A likeness made while the person is alive raises the question of which self gets preserved: the one in the database or the one still living.",
+   "idea_zh": "在本人在世时制作的“肖像”提出了一个问题：被保存的是哪一个自我，数据库里的那个，还是仍在生活的那个？",
+   "method": "Hanson Robotics face with 32 motors under elastomer skin, cameras with face recognition, speech recognition and a chatbot drawing on recorded interviews with Bina Aspen.",
+   "method_zh": "Hanson Robotics 制作的面孔，弹性皮肤下有 32 个电机，配有带人脸识别的摄像头、语音识别，以及调用 Bina Aspen 访谈录音的聊天程序。",
+   "keywords": [
+    "Terasem",
+    "mind file",
+    "Martine Rothblatt",
+    "android",
+    "mind uploading"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KYshJRYCArE"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/BINA48"
+  },
+  {
+   "id": "usc-shoah-foundation--dimensions-in-testimony",
+   "creator_ids": [
+    "usc-shoah-foundation"
+   ],
+   "title": "Dimensions in Testimony",
+   "year": 2015,
+   "field": "afterlife",
+   "sub": "likeness",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "prototype",
+   "description": "Interactive video biographies of Holocaust survivors and other genocide witnesses: visitors ask a spoken question and a filmed survivor answers from hundreds of pre-recorded responses. The first permanent installation, with survivor Pinchas Gutter, opened at the Illinois Holocaust Museum in 2015.",
+   "description_zh": "大屠杀幸存者及其他种族灭绝见证者的交互式影像传记：观众口头提问，被拍摄的幸存者从数百条预录回答中作答。首个常设装置以幸存者 Pinchas Gutter 为主角，2015 年在伊利诺伊大屠杀纪念馆开放。",
+   "idea_en": "A conversation can outlive the speaker without inventing a single new word: every answer is real, only the choice of answer is automated.",
+   "idea_zh": "对话可以比说话者活得更久，而且不必编造一个新词：每个回答都是真的，被自动化的只是“选哪一句”。",
+   "method": "Multi-day interviews filmed with a multi-camera rig; natural-language processing matches visitors' spoken questions to recorded answers shown on screens or as projections.",
+   "method_zh": "用多机位设备进行持续多日的访谈拍摄；自然语言处理把观众的口头提问匹配到录好的回答，在屏幕或投影上播放。",
+   "keywords": [
+    "Holocaust",
+    "testimony",
+    "USC ICT",
+    "Pinchas Gutter",
+    "interactive biography"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nGzAc9mIoTM"
+   },
+   "images": [
+    "https://sfi.usc.edu/sites/default/files/pinchasgutter_600x400.jpg"
+   ],
+   "source_url": "https://sfi.usc.edu/dit",
+   "exhibited": [
+    "Illinois Holocaust Museum and Education Center 2015"
+   ]
+  },
+  {
+   "id": "francesca-panetta--in-event-of-moon-disaster",
+   "creator_ids": [
+    "francesca-panetta",
+    "halsey-burgund"
+   ],
+   "title": "In Event of Moon Disaster",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A short film and installation in which a deepfake Richard Nixon reads the real contingency speech written in case the Apollo 11 astronauts died on the Moon, set in a 1969 living room with a period TV.",
+   "description_zh": "一部短片和装置：深度伪造的 Richard Nixon 宣读了一份真实存在的应急讲稿，那是为阿波罗 11 号宇航员万一死在月球而准备的；作品布置在一间 1969 年的客厅里，用老式电视播放。",
+   "idea_en": "A synthetic face and voice can give a dead president a speech he never delivered; the work teaches suspicion by showing how well it works.",
+   "idea_zh": "合成的面孔和声音可以让已故总统说出他从未发表的讲话；作品通过展示它有多有效来教人保持怀疑。",
+   "method": "An actor (Lewis D. Wheeler) performed the speech; Canny AI replaced Nixon's lip movements in archival footage and Respeecher converted the actor's voice into Nixon's.",
+   "method_zh": "由演员 Lewis D. Wheeler 表演讲话；Canny AI 替换档案影像中 Nixon 的口型，Respeecher 把演员的声音转换成 Nixon 的声音。",
+   "keywords": [
+    "deepfake",
+    "Nixon",
+    "Apollo 11",
+    "MIT Center for Advanced Virtuality",
+    "Respeecher"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LWLadJFI8Pk"
+   },
+   "images": [
+    "https://ieomd.halseyburgund.com/wp-content/uploads/2020/06/IDFAMaster-1-1030x773.jpg"
+   ],
+   "source_url": "https://moondisaster.org/",
+   "exhibited": [
+    "IDFA DocLab 2019 (Special Jury Award for Creative Technology)"
+   ]
+  },
+  {
+   "id": "amazon--alexa-dead-relative-voice",
+   "creator_ids": [
+    "amazon"
+   ],
+   "title": "Alexa reads in a dead grandmother's voice (re:MARS demo)",
+   "year": 2022,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "product",
+   "description": "At its re:MARS conference in June 2022, Amazon showed a feature in development in which a child asks Alexa to finish reading a story in his late grandmother's voice, and the speaker does. Amazon framed it as a way to 'make the memories last'.",
+   "description_zh": "2022 年 6 月的 re:MARS 大会上，亚马逊展示了一项开发中的功能：孩子请 Alexa 用已故祖母的声音把故事读完，音箱照做了。亚马逊称这能“让回忆延续”。",
+   "idea_en": "When a home assistant can speak as the dead, grief becomes a voice skin on a commercial device that is always listening.",
+   "idea_zh": "当家用助手可以用逝者的声音说话，哀悼就成了一台一直在听的商用设备上的“声音皮肤”。",
+   "method": "Voice-conversion model that Amazon said could learn a target voice from less than a minute of recorded audio, applied to Alexa's text-to-speech.",
+   "method_zh": "声音转换模型，亚马逊称只需不到一分钟的录音就能学会目标声音，并用于 Alexa 的语音合成。",
+   "keywords": [
+    "Alexa",
+    "voice cloning",
+    "re:MARS",
+    "grief tech",
+    "smart speaker"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=22cb24-sGhg"
+   },
+   "source_url": "https://www.washingtonpost.com/nation/2022/06/23/alexa-amazon-voice-dead-people/"
+  },
+  {
+   "id": "goodby-silverstein-partners--dali-lives",
+   "creator_ids": [
+    "goodby-silverstein-partners"
+   ],
+   "title": "Dalí Lives",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "likeness",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "A deepfake Salvador Dalí on screens throughout the Dalí Museum in St. Petersburg, Florida, launched on what would have been his 115th birthday. He talks to visitors about his life and art, and at the end turns and takes a selfie with them.",
+   "description_zh": "佛罗里达州圣彼得堡达利博物馆内多块屏幕上的深度伪造 Salvador Dalí，在他 115 岁冥诞之际上线。他向观众讲述自己的生平和艺术，最后转身和观众合拍一张自拍。",
+   "idea_en": "A museum can let a dead artist address you in the first person; the likeness is spectacular, but the words are scripted by the institution.",
+   "idea_zh": "博物馆可以让已故艺术家以第一人称和你说话；肖像很逼真，台词却由机构撰写。",
+   "method": "Face-swap model trained on archival interviews of Dalí, applied to an actor with a similar build performing new scripted lines, with Dalí's own quotations and an impersonated voice.",
+   "method_zh": "用达利的档案访谈训练换脸模型，套到身形相近、表演新写台词的演员身上，台词包括达利本人的语录，声音由模仿者配音。",
+   "keywords": [
+    "deepfake",
+    "Salvador Dalí",
+    "museum",
+    "resurrection",
+    "advertising"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mPtcU9VmIIE"
+   },
+   "images": [
+    "https://thedali.org/wp-content/uploads/2019/03/1200x500-Exhibit-Dali-LIves.jpg"
+   ],
+   "source_url": "https://thedali.org/dali-lives/",
+   "exhibited": [
+    "The Dalí Museum, St. Petersburg FL 2019"
+   ]
+  },
+  {
+   "id": "jason-edward-lewis--making-kin",
+   "creator_ids": [
+    "jason-edward-lewis",
+    "suzanne-kite"
+   ],
+   "title": "Making Kin with the Machines",
+   "year": 2018,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "An essay by Jason Edward Lewis, Noelani Arista, Archer Pechawis and Suzanne Kite that draws on Hawaiian, Cree and Lakota knowledge to argue that AI should be brought into a circle of kinship, with obligations on both sides, instead of being treated as a tool or a slave.",
+   "description_zh": "Jason Edward Lewis、Noelani Arista、Archer Pechawis 与 Suzanne Kite 合写的文章，借用夏威夷、克里族和拉科塔族的知识，主张把 AI 纳入彼此负有义务的亲属关系，而不是把它当作工具或奴隶。",
+   "idea_en": "How we relate to machines is a design choice rooted in culture; Indigenous kinship offers a model other than master and servant.",
+   "idea_zh": "我们如何与机器相处，是一个扎根于文化的设计选择；原住民的亲属关系提供了“主人与仆人”之外的另一种模式。",
+   "method": "Four-part essay combining Indigenous epistemologies and protocols (Hawaiian genealogy, Cree language of relation, Lakota ontology of stones) with a critique of AI discourse; winner of the Resisting Reduction essay competition.",
+   "method_zh": "由四部分组成的文章，把原住民认识论与规程（夏威夷族谱、克里语中的关系、拉科塔族关于石头的本体论）与对 AI 话语的批评结合起来；获 Resisting Reduction 征文奖。",
+   "keywords": [
+    "Indigenous AI",
+    "kinship",
+    "Lakota",
+    "Hawaiian",
+    "Cree",
+    "Journal of Design and Science"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LAfJ_TwD3KM"
+   },
+   "images": [
+    "https://assets.pubpub.org/j482uqul/11552479867154.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21428/bfafd97b",
+    "doi": "10.21428/bfafd97b",
+    "arxiv": "",
+    "venue": "Journal of Design and Science (MIT Press), 2018",
+    "title": "Making Kin with the Machines"
+   },
+   "source_url": "https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite"
+  },
+  {
+   "id": "nouf-aljowaysir--ana-min-wein",
+   "creator_ids": [
+    "nouf-aljowaysir"
+   ],
+   "title": "Ana Min Wein? (Where Am I From?)",
+   "year": 2023,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "A short film and visual diary in which the artist traces her family's Saudi and Iraqi past with an AI narrator. The AI tries to help, but its images and captions fall back on stereotypes and cannot see her ancestors.",
+   "description_zh": "一部短片和视觉日记，艺术家借助一个 AI 讲述者追溯家族在沙特和伊拉克的过去。AI 想帮忙，但它生成的图像和描述总落回刻板印象，看不见她的祖先。",
+   "idea_en": "Asking a model about your family exposes whose memories were left out of its training data.",
+   "idea_zh": "向模型询问自己的家族，会暴露出哪些人的记忆被排除在它的训练数据之外。",
+   "method": "Two narrating voices, the artist's and an AI's; generative image models and computer-vision captioning applied to family photographs and archival images.",
+   "method_zh": "两种叙述声音，艺术家的和 AI 的；对家庭照片和档案图像使用生成式图像模型与计算机视觉自动描述。",
+   "keywords": [
+    "Saudi Arabia",
+    "Iraq",
+    "genealogy",
+    "dataset bias",
+    "diaspora"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/55039003e4b04b9963242639/1749606576825-OA5280DSTJM21SGOYGPW/AMW_001.png",
+    "https://images.squarespace-cdn.com/content/v1/55039003e4b04b9963242639/1749606549735-ZRGVNQ8TTS8T139MFUFC/AMW_005.png"
+   ],
+   "source_url": "http://www.noufaljowaysir.com/work/ana-min-wein-t24yd",
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "IDFA 2023",
+    "Centre Pompidou (KADIST) 2023",
+    "The New York Times Op-Docs 2024",
+    "Lumen Prize 2023, Moving Image"
+   ]
+  },
+  {
+   "id": "domestic-data-streamers--synthetic-memories",
+   "creator_ids": [
+    "domestic-data-streamers"
+   ],
+   "title": "Synthetic Memories",
+   "year": 2022,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "An ongoing project that turns spoken memories that were never photographed into generated images, working with older people with dementia, refugees, migrants and prisoners. Participants correct the images until they 'look right', and the pictures are used to prompt remembering.",
+   "description_zh": "一个持续进行的项目，把从未被拍下的口述记忆变成生成图像，服务对象包括患失智症的老人、难民、移民和囚犯。参与者不断修正图像，直到它们“看起来对了”，这些图像再被用来唤起回忆。",
+   "idea_en": "A generated picture of a memory is not evidence but a prompt: the machine's vagueness leaves room for the person to remember.",
+   "idea_zh": "记忆的生成图像不是证据，而是一个提示：机器的模糊恰好给人留出回忆的空间。",
+   "method": "Interviews by a facilitator who writes prompts for text-to-image models, iterating with the participant; run as pop-up 'memory offices' in care homes, community centres and museums.",
+   "method_zh": "由引导者访谈并为文生图模型撰写提示词，与参与者反复修改；以临时“记忆办公室”的形式在养老院、社区中心和博物馆开展。",
+   "keywords": [
+    "dementia",
+    "generative AI",
+    "memory",
+    "refugees",
+    "reminiscence therapy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Gh-d_j44lhk"
+   },
+   "images": [
+    "https://cdn.domesticstreamers.com/strapi-uploads/assets/og_image_synthetic_memories_35_9b5be453e3.jpg"
+   ],
+   "source_url": "https://www.domesticstreamers.com/art-research/work/synthetic-memories/",
+   "exhibited": [
+    "Barcelona Design Hub, 2024",
+    "Casa do Povo, São Paulo"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Good Night Oppy (Ryan White, 2022)",
+   "why": "Documentary about the Opportunity rover and the engineers who mourned it; could be a separate film card.",
+   "link": "https://www.youtube.com/watch?v=W4t58Yruhds",
+   "found_via": "nasa-jpl",
+   "status": "open"
+  },
+  {
+   "name": "Wesley Goatley, Newly Forgotten Technologies: Five Echoes (2022)",
+   "why": "Film/performance in which five discarded Amazon Echoes pass through the five stages of grief, narrated by Alexa.",
+   "link": "https://wesleygoatley.com/nft-5e.html",
+   "found_via": "wesley-goatley",
+   "status": "open"
+  },
+  {
+   "name": "Gabriele Trovato, SanTO in exhibition (RO-MAN 2023)",
+   "why": "Follow-up: SanTO-PL moved from a church to a museum; reactions to a sacred robot in a profane space.",
+   "link": "https://doi.org/10.1109/ro-man57019.2023.10309448",
+   "found_via": "gabriele-trovato",
+   "status": "open"
+  },
+  {
+   "name": "Hans Block & Moritz Riesewieck, The Cleaners (2018)",
+   "why": "Documentary on content moderators in Manila; labour field.",
+   "link": "https://en.wikipedia.org/wiki/The_Cleaners_(2018_film)",
+   "found_via": "hans-block-moritz-riesewieck",
+   "status": "open"
+  },
+  {
+   "name": "DeepBrain AI — Re;memory",
+   "why": "Korean service that films people before death to create interactive avatars; east-asia batch.",
+   "link": "https://www.deepbrain.io/",
+   "found_via": "usc-shoah-foundation",
+   "status": "open"
+  },
+  {
+   "name": "Joel Krueger & Lucy Osler — Communing with the Dead Online (2022)",
+   "why": "Philosophy paper on griefbots and continuing bonds (J. Consciousness Studies, doi 10.53765/20512201.29.9.222); theory batch.",
+   "link": "https://doi.org/10.53765/20512201.29.9.222",
+   "found_via": "tomasz-hollanek",
+   "status": "open"
+  },
+  {
+   "name": "Lynn Hershman Leeson — CybeRoberta / Tillie the Telerobotic Doll (1995–)",
+   "why": "Telerobotic dolls with camera eyes controllable from the web; perception/telepresence.",
+   "link": "https://en.wikipedia.org/wiki/Lynn_Hershman_Leeson",
+   "found_via": "lynn-hershman-leeson",
+   "status": "open"
+  },
+  {
+   "name": "MBC, Meeting You (너를 만났다), 2020",
+   "why": "VR reunion of a mother with her dead daughter on Korean TV; key griefbot case (east-asia batch).",
+   "link": "https://www.scmp.com/magazines/style/tech-design/article/3079218/how-korean-documentary-meeting-you-allowed-mother",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Takanori Shibata, PARO (2004)",
+   "why": "Seal robot for dementia care; central case in debates on robot care (east-asia batch).",
+   "link": "http://www.parorobots.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "A-FUN & Kōfuku-ji, AIBO funerals (2015–)",
+   "why": "Buddhist memorial rites for broken AIBOs after Sony ended repairs (east-asia batch).",
+   "link": "https://www.nationalgeographic.com/travel/article/in-japan--a-buddhist-funeral-service-for-robot-dogs",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kōdai-ji & Ishiguro lab, Android Kannon Mindar (2019)",
+   "why": "Android bodhisattva preaching the Heart Sutra in Kyoto (east-asia batch).",
+   "link": "https://en.wikipedia.org/wiki/Mindar",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Nissei Eco / SoftBank, Pepper as Buddhist funeral priest (2017)",
+   "why": "Robot chanting sutras at a funeral expo (east-asia batch).",
+   "link": "https://techcrunch.com/2017/08/22/pepper-the-robot-can-perform-funerary-rites-but-it-shouldnt",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Longquan Monastery, Robot Monk Xian'er 贤二机器僧 (2015)",
+   "why": "Buddhist robot monk answering questions (east-asia batch).",
+   "link": "https://en.wikipedia.org/wiki/Robot_Monk_Xian'er",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Microsoft Xiaoice 小冰 (2014–)",
+   "why": "Mass-scale Chinese companion chatbot (east-asia batch).",
+   "link": "https://en.wikipedia.org/wiki/Xiaoice",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Gatebox / Azuma Hikari and Akihiko Kondo's 'digital widowhood' (2016–2020)",
+   "why": "Holographic wife and a marriage to Hatsune Miku that ended when support stopped (east-asia batch).",
+   "link": "https://en.wikipedia.org/wiki/Akihiko_Kondo",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Super Brain (Nanjing) and AI 'resurrection' avatars in China (2023–)",
+   "why": "Paid avatars of the dead around Qingming (east-asia batch).",
+   "link": "https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lawrence Lek, Guanyin: Confessions of a Former Carebot (2024)",
+   "why": "AI carebot named after the bodhisattva of compassion; Frieze Artist Award 2024 (east-asia / speculative).",
+   "link": "https://www.sadiecoles.com/exhibitions/1201-lawrence-lek-frieze-artist-award-guanyin-confessions-of-a-former/press_release_text/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Groove X LOVOT (2019), Yukai Qoobo (2018), Okada/Panasonic NICOBO (2021), Bandai Tamagotchi (1996)",
+   "why": "Japanese companion robots and digital pets designed to be loved or mourned (east-asia batch).",
+   "link": "https://lovot.life/en/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jiabao Li, Super Mom Training Gym (2026, with Lauren Schroeder)",
+   "why": "Nine-month pregnant body 3D-scanned into a game avatar that does superhero moves; edge case for machine bodies (Womb Wetware).",
+   "link": "https://www.jiabaoli.org/super-mom-training-gym",
+   "found_via": "jiabao-li",
+   "status": "open"
+  },
+  {
+   "name": "Jiabao Li, Unfinished Farewell (2020)",
+   "why": "Online memorial for uncounted COVID-19 dead in China (OCAT Shenzhen); digital mourning but not about machines.",
+   "link": "https://www.jiabaoli.org/covid19",
+   "found_via": "jiabao-li",
+   "status": "off_topic"
+  },
+  {
+   "name": "Botao Amber Hu, Samuel Chua, Helena Rong, Protocol Futuring (CHI 2026)",
+   "why": "Method paper for speculating on second-order effects of protocols; theory batch candidate.",
+   "link": "https://www.cs.ox.ac.uk/people/botao.hu/",
+   "found_via": "botao-amber-hu",
+   "status": "open"
+  },
+  {
+   "name": "Lauren Lee McCarthy, Follower (2016) and Social Turkers (2013)",
+   "why": "A human follower for a day; Mechanical Turk workers directing her dates (labour/intimacy).",
+   "link": "https://lauren-mccarthy.com/Follower",
+   "found_via": "lauren-lee-mccarthy",
+   "status": "open"
+  },
+  {
+   "name": "Dan Chen, Intimacy Machine",
+   "why": "A hugging device that shows you the face of the person you hug.",
+   "link": "https://dankc.com/intimacy-machine/",
+   "found_via": "dan-chen",
+   "status": "open"
+  },
+  {
+   "name": "Emma Yann Zhang, Adrian David Cheok et al., Kissenger (2016)",
+   "why": "Remote kissing device for mobile phones; machine-mediated touch.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Laurie Anderson and the Lou Reed AI chatbot (2024)",
+   "why": "Artist reports daily conversations with a model trained on her late husband's writing.",
+   "link": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "StoryFile, Marina Smith speaking at her own funeral (2022)",
+   "why": "Interactive video of the deceased answering mourners' questions.",
+   "link": "https://storyfile.com",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Freedom Baird, Furby 'upside-down test' (Radiolab, 2011)",
+   "why": "People cannot hold a crying Furby upside down for long: empathy for a toy.",
+   "link": "https://en.wikipedia.org/wiki/Furby",
+   "found_via": "kate-darling",
+   "status": "open"
+  },
+  {
+   "name": "Nicholas Stedman, ADB (after Deep Blue)",
+   "why": "Hand-held robot that communicates through touch.",
+   "link": "",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "OpenAI 'Sky' voice and Scarlett Johansson (2024)",
+   "why": "Likeness and consent dispute echoing Her.",
+   "link": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+   "found_via": "spike-jonze",
+   "status": "open"
+  }
+ ]
+}

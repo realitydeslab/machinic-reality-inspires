@@ -1,0 +1,23 @@
+{
+ "_note": "Manual curation applied at build: drop_works = work ids to remove; patch_works = fields to replace per work id.",
+ "drop_works": [],
+ "patch_works": {
+  "elisa-giardina-papa--technologies-of-care": {
+   "images": []
+  },
+  "jill-magid--system-azure-security-ornamentation": {
+   "images": [
+    "http://www.jillmagid.com/uploads/images/scaled/slide_image/302",
+    "http://www.jillmagid.com/uploads/images/scaled/slide_image/305"
+   ]
+  },
+  "molleindustria--unmanned": {
+   "images": []
+  },
+  "jon-rafman--nine-eyes-of-google-street-view": {
+   "images": [
+    "https://64.media.tumblr.com/4dda5b7bf161a81c01f98014b6e6b674/8395f54aeb8544ee-a7/s500x750/166454b46f54ac8f8f130f901369b9a39c37c600.png"
+   ]
+  }
+ }
+}

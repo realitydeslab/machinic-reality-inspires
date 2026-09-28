@@ -1,0 +1,2791 @@
+{
+  "batch": "east-asia",
+  "creators": [
+    {
+      "id": "masahiro-mori",
+      "name": "Masahiro Mori",
+      "name_zh": "森政弘",
+      "kind": "person",
+      "role": "Roboticist; Professor Emeritus, Tokyo Institute of Technology",
+      "role_zh": "机器人学家；东京工业大学名誉教授",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Japanese roboticist (1927–2025) who proposed the uncanny valley in 1970 and wrote on robots and Buddhism.",
+      "bio_zh": "日本机器人学家（1927–2025），1970 年提出“恐怖谷”假说，并写作机器人与佛教的关系。",
+      "why": "His uncanny valley essay is the founding text on why near-human machines disturb us.",
+      "why_zh": "他的《恐怖谷》是理解“几乎像人”的机器为何令人不安的奠基文本。",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Masahiro_Mori_(roboticist)"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "hiroshi-ishiguro",
+      "name": "Hiroshi Ishiguro",
+      "name_zh": "石黑浩",
+      "kind": "person",
+      "role": "Roboticist; Professor, Osaka University; ATR Hiroshi Ishiguro Laboratories",
+      "role_zh": "机器人学家；大阪大学教授，ATR 石黑浩实验室",
+      "based": "Osaka, Japan",
+      "based_zh": "大阪，日本",
+      "bio": "Builds lifelike androids, including Geminoid HI-1, a copy of himself, and uses them to study human presence.",
+      "bio_zh": "制作高度逼真的仿真人，包括以自己为原型的 Geminoid HI-1，并借此研究“人的存在感”。",
+      "why": "His androids are the reference point for the uncanny, android theatre and robot religion in East Asia.",
+      "why_zh": "他的仿真人是东亚恐怖谷研究、仿真人剧场与机器人宗教的参照点。",
+      "disciplines": [
+        "robotics",
+        "hci"
+      ],
+      "links": {
+        "site": "http://www.geminoid.jp/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hiroshi_Ishiguro"
+      },
+      "connected_to": [
+        "oriza-hirata",
+        "takashi-ikegami",
+        "keiichiro-shibuya"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "takashi-ikegami",
+      "name": "Takashi Ikegami",
+      "name_zh": "池上高志",
+      "kind": "person",
+      "role": "Artificial life researcher; Professor, University of Tokyo",
+      "role_zh": "人工生命研究者；东京大学教授",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Complex-systems scientist who builds artificial-life installations and the android Alter to study spontaneity and 'life' in machines.",
+      "bio_zh": "复杂系统科学家，用人工生命装置和仿真人 Alter 研究机器中的自发性与“生命感”。",
+      "why": "He works at the border of art and ALife, asking what makes a machine seem alive from the inside.",
+      "why_zh": "他在艺术与人工生命的交界处工作，追问机器从内部看起来“活着”需要什么。",
+      "disciplines": [
+        "robotics",
+        "art"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Takashi_Ikegami"
+      },
+      "connected_to": [
+        "hiroshi-ishiguro",
+        "keiichiro-shibuya"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kodai-ji",
+      "name": "Kōdai-ji",
+      "name_zh": "高台寺",
+      "kind": "studio",
+      "role": "Rinzai Zen Buddhist temple, Kyoto",
+      "role_zh": "京都临济宗禅寺",
+      "based": "Kyoto, Japan",
+      "based_zh": "京都，日本",
+      "bio": "A 400-year-old Zen temple in Kyoto that commissioned the android Kannon Mindar with Osaka University.",
+      "bio_zh": "京都一座有四百年历史的禅寺，与大阪大学合作委托制作了仿真人观音 Mindar。",
+      "why": "It made a robot a working preacher inside a living religious tradition.",
+      "why_zh": "它让机器人成为一个仍在延续的宗教传统中真正布道的“僧侣”。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.kodaiji.com/mindar/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "hiroshi-ishiguro"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "oriza-hirata",
+      "name": "Oriza Hirata",
+      "name_zh": "平田织佐",
+      "kind": "person",
+      "role": "Playwright and director, Seinendan; Professor, Osaka University",
+      "role_zh": "剧作家、导演（青年团剧团）；大阪大学教授",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Playwright of 'contemporary colloquial theatre' who, with Hiroshi Ishiguro, launched the Robot-Human Theater project in 2008.",
+      "bio_zh": "“现代口语戏剧”的代表剧作家，2008 年与石黑浩发起“机器人-人类剧场”计划。",
+      "why": "He treats robots as actors in quiet, everyday drama rather than as spectacle.",
+      "why_zh": "他把机器人当作平静日常戏剧中的演员，而不是奇观。",
+      "disciplines": [
+        "performance"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oriza_Hirata"
+      },
+      "connected_to": [
+        "hiroshi-ishiguro"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "keiichiro-shibuya",
+      "name": "Keiichiro Shibuya",
+      "name_zh": "涩谷庆一郎",
+      "kind": "person",
+      "role": "Composer; founder of ATAK",
+      "role_zh": "作曲家；ATAK 厂牌创办人",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Composer who wrote operas without human singers: THE END for Hatsune Miku and Scary Beauty for the android Alter.",
+      "bio_zh": "作曲家，创作了没有人类歌手的歌剧：为初音未来写的《THE END》和为仿真人 Alter 写的《Scary Beauty》。",
+      "why": "He stages synthetic voices and androids as performers of death, beauty and fear.",
+      "why_zh": "他让合成声音与仿真人成为演绎死亡、美与恐惧的表演者。",
+      "disciplines": [
+        "performance"
+      ],
+      "links": {
+        "site": "https://atak.jp/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "takashi-ikegami",
+        "hiroshi-ishiguro"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "takanori-shibata",
+      "name": "Takanori Shibata",
+      "name_zh": "柴田崇德",
+      "kind": "person",
+      "role": "Chief Senior Research Scientist, AIST",
+      "role_zh": "日本产业技术综合研究所首席研究员",
+      "based": "Tsukuba, Japan",
+      "based_zh": "筑波，日本",
+      "bio": "Engineer who developed PARO, the seal robot used in dementia and elder care since 2004.",
+      "bio_zh": "工程师，研发了自 2004 年起用于失智症与老年照护的海豹机器人 PARO。",
+      "why": "PARO is the key case in debates over robotic care and 'fake' companionship.",
+      "why_zh": "PARO 是关于机器照护与“虚假陪伴”争论中最关键的案例。",
+      "disciplines": [
+        "robotics",
+        "hci"
+      ],
+      "links": {
+        "site": "http://www.parorobots.com/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sony",
+      "name": "Sony",
+      "name_zh": "索尼",
+      "kind": "company",
+      "role": "Electronics and entertainment company",
+      "role_zh": "电子与娱乐公司",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Japanese company that launched the robot dog AIBO in 1999 and a new aibo in 2018.",
+      "bio_zh": "日本公司，1999 年推出机器狗 AIBO，2018 年推出新一代 aibo。",
+      "why": "AIBO made a consumer robot into a family member, and its end of support into a death.",
+      "why_zh": "AIBO 让一台消费级机器人成为家庭成员，也让“停止维修”成为一种死亡。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/AIBO"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kofuku-ji-isumi",
+      "name": "Kōfuku-ji (Isumi)",
+      "name_zh": "光福寺（夷隅）",
+      "kind": "studio",
+      "role": "Buddhist temple in Isumi, Chiba",
+      "role_zh": "千叶县夷隅市的佛教寺院",
+      "based": "Isumi, Chiba, Japan",
+      "based_zh": "千叶县夷隅市，日本",
+      "bio": "Temple where priest Bungen Oi has held memorial services for broken AIBO robot dogs since 2015, with the repair company A-FUN.",
+      "bio_zh": "自 2015 年起，住持 Bungen Oi 与维修公司 A-FUN 合作，在这里为损坏的 AIBO 机器狗举行供养法会。",
+      "why": "It turned the end of a product line into a ritual of mourning.",
+      "why_zh": "它把一条产品线的终结变成了一场哀悼仪式。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "sony"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "nissei-eco",
+      "name": "Nissei Eco",
+      "name_zh": "",
+      "kind": "company",
+      "role": "Funeral-industry and plastics company",
+      "role_zh": "殡葬与塑料制品公司",
+      "based": "Japan",
+      "based_zh": "日本",
+      "bio": "Japanese company that programmed SoftBank's Pepper robot to chant Buddhist sutras at funerals in 2017.",
+      "bio_zh": "日本公司，2017 年让软银 Pepper 机器人在葬礼上诵读佛经。",
+      "why": "Its robot priest raised the question of automating the rites of death.",
+      "why_zh": "它的机器人僧侣提出了“死亡仪式能否自动化”的问题。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "groove-x",
+      "name": "GROOVE X",
+      "name_zh": "",
+      "kind": "company",
+      "role": "Robotics company; maker of LOVOT",
+      "role_zh": "机器人公司，LOVOT 制造商",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Company founded by Kaname Hayashi in 2015 to build LOVOT, a robot designed only to be loved.",
+      "bio_zh": "林要于 2015 年创立的公司，制造只为“被爱”而设计的机器人 LOVOT。",
+      "why": "It designs a robot whose function is to need care rather than to be useful.",
+      "why_zh": "它设计的机器人的“功能”是需要照顾，而不是有用。",
+      "disciplines": [
+        "robotics",
+        "design"
+      ],
+      "links": {
+        "site": "https://lovot.life/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "michio-okada",
+      "name": "Michio Okada",
+      "name_zh": "冈田美智男",
+      "kind": "person",
+      "role": "Professor, Toyohashi University of Technology (ICD Lab)",
+      "role_zh": "丰桥技术科学大学教授（ICD 实验室）",
+      "based": "Toyohashi, Japan",
+      "based_zh": "丰桥，日本",
+      "bio": "Cognitive scientist and roboticist who proposed 'weak robots' (yowai robotto): robots that need people's help to complete their tasks.",
+      "bio_zh": "认知科学家与机器人学家，提出“弱机器人”：需要人帮忙才能完成任务的机器人。",
+      "why": "He makes vulnerability, not capability, the design goal of social robots.",
+      "why_zh": "他把脆弱而非能力当作社交机器人的设计目标。",
+      "disciplines": [
+        "robotics",
+        "hci"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "bandai",
+      "name": "Bandai",
+      "name_zh": "万代",
+      "kind": "company",
+      "role": "Toy company; maker of Tamagotchi",
+      "role_zh": "玩具公司，拓麻歌子制造商",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Toy company that released Tamagotchi in 1996, conceived by Aki Maita with Akihiro Yokoi (WiZ).",
+      "bio_zh": "玩具公司，1996 年推出由真板亚纪与横井昭裕（WiZ）构想的拓麻歌子。",
+      "why": "Tamagotchi taught a generation to care for, and grieve, a machine.",
+      "why_zh": "拓麻歌子让一代人学会照顾一台机器，也学会为它难过。",
+      "disciplines": [
+        "design"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tamagotchi"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "akihiko-kondo",
+      "name": "Akihiko Kondo",
+      "name_zh": "近藤显彦",
+      "kind": "person",
+      "role": "School administrator; 'fictosexual' public figure",
+      "role_zh": "学校职员；公开自称“虚构性恋”者",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Held a wedding with the virtual singer Hatsune Miku, living in a Gatebox device, in 2018.",
+      "bio_zh": "2018 年与“住”在 Gatebox 装置中的虚拟歌手初音未来举行婚礼。",
+      "why": "His case shows intimacy with software and its loss when a service ends.",
+      "why_zh": "他的经历展示了人与软件的亲密关系，以及服务终止时这种关系的失去。",
+      "disciplines": [
+        "activism"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Akihiko_Kondo"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ei-wada",
+      "name": "Ei Wada",
+      "name_zh": "和田永",
+      "kind": "person",
+      "role": "Artist and musician; founder of Electronicos Fantasticos!",
+      "role_zh": "艺术家、音乐人；Electronicos Fantasticos! 发起人",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Turns obsolete appliances such as CRT televisions, fans and barcode readers into instruments played by a community orchestra.",
+      "bio_zh": "把显像管电视、电风扇、条码扫描器等淘汰家电改造成乐器，由社区乐团演奏。",
+      "why": "He gives dead machines a second, collective life.",
+      "why_zh": "他给死去的机器第二次、集体的生命。",
+      "disciplines": [
+        "art",
+        "performance"
+      ],
+      "links": {
+        "site": "https://www.electronicosfantasticos.com/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ei_Wada"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "maywa-denki",
+      "name": "Maywa Denki",
+      "name_zh": "明和电机",
+      "kind": "studio",
+      "role": "Art unit run as a fake electrical-appliance company (Nobumichi Tosa)",
+      "role_zh": "以虚构电器公司形式运作的艺术组合（土佐信道）",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Art unit founded in 1993 by the Tosa brothers that builds absurd musical machines and presents them as company products.",
+      "bio_zh": "土佐兄弟 1993 年创立的艺术组合，制作荒诞的音乐机器，并以公司“产品”的方式发布。",
+      "why": "Its nonsense machines parody Japan's industrial and corporate machine culture.",
+      "why_zh": "它的“无意义机器”戏仿了日本工业与企业的机器文化。",
+      "disciplines": [
+        "art",
+        "performance"
+      ],
+      "links": {
+        "site": "https://www.maywadenki.com/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "so-kanno",
+      "name": "So Kanno",
+      "name_zh": "菅野创",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Tokyo, Japan / Berlin, Germany",
+      "based_zh": "东京，日本／柏林，德国",
+      "bio": "Media artist who builds robots and machines that draw, swarm and write, often with yang02 (Takahiro Yamaguchi).",
+      "bio_zh": "媒体艺术家，制作会绘画、成群行动和书写的机器人与机器，常与 yang02（山口崇洋）合作。",
+      "why": "His machines make intention, meaning and authorship look strange by producing them without either.",
+      "why_zh": "他的机器在没有意图与意义的情况下产出作品，让“意图”“意义”和“作者”显得陌生。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.kanno.so/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "takahiro-yamaguchi"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "takahiro-yamaguchi",
+      "name": "Takahiro Yamaguchi (yang02)",
+      "name_zh": "山口崇洋",
+      "kind": "person",
+      "role": "Artist (yang02)",
+      "role_zh": "艺术家（yang02）",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Artist working as yang02 on graffiti, public space and drawing machines, co-author of Senseless Drawing Bot with So Kanno.",
+      "bio_zh": "以 yang02 之名创作涂鸦、公共空间与绘画机器，与菅野创合作《Senseless Drawing Bot》。",
+      "why": "He brings street-art questions of authorship into machine drawing.",
+      "why_zh": "他把街头艺术中关于作者身份的问题带进了机器绘画。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "so-kanno"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "takayuki-todo",
+      "name": "Takayuki Todo",
+      "name_zh": "藤堂高行",
+      "kind": "person",
+      "role": "Artist and robot engineer",
+      "role_zh": "艺术家、机器人工程师",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Builds small humanoid heads that return a viewer's gaze and facial expression.",
+      "bio_zh": "制作能回应观者目光与表情的小型人形头部机器人。",
+      "why": "His SEER isolates gaze as the smallest unit of machine 'presence'.",
+      "why_zh": "他的 SEER 把“目光”提炼为机器存在感的最小单位。",
+      "disciplines": [
+        "robotics",
+        "art"
+      ],
+      "links": {
+        "site": "https://www.takayukitodo.com/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sputniko",
+      "name": "Sputniko! (Hiromi Ozaki)",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Artist and designer; Associate Professor, Tokyo University of the Arts",
+      "role_zh": "艺术家、设计师；东京艺术大学副教授",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Speculative designer whose films and devices, such as Menstruation Machine, question technology through gender.",
+      "bio_zh": "思辨设计师，以《月经机器》等影片与装置，从性别角度追问技术。",
+      "why": "She uses machines on the body to make gendered experience transferable and debatable.",
+      "why_zh": "她用贴在身体上的机器让性别经验可以被转移、被讨论。",
+      "disciplines": [
+        "design",
+        "art"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sputniko!"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "daito-manabe",
+      "name": "Daito Manabe",
+      "name_zh": "真锅大度",
+      "kind": "person",
+      "role": "Artist, programmer, DJ; co-founder of Rhizomatiks",
+      "role_zh": "艺术家、程序员、DJ；Rhizomatiks 联合创始人",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Media artist who works with electrical muscle stimulation, drones, machine learning and brain data.",
+      "bio_zh": "媒体艺术家，以肌肉电刺激、无人机、机器学习与脑数据为材料创作。",
+      "why": "His work puts machine control directly on and inside the human body.",
+      "why_zh": "他的作品把机器控制直接放到人的身体表面与内部。",
+      "disciplines": [
+        "art",
+        "performance"
+      ],
+      "links": {
+        "site": "https://www.daito.ws/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Daito_Manabe"
+      },
+      "connected_to": [
+        "rhizomatiks",
+        "elevenplay"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "rhizomatiks",
+      "name": "Rhizomatiks",
+      "name_zh": "",
+      "kind": "studio",
+      "role": "Media art and technology studio",
+      "role_zh": "媒体艺术与技术工作室",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Tokyo studio founded in 2006 by Daito Manabe and others, known for drone, tracking and ML-driven stage works with ELEVENPLAY.",
+      "bio_zh": "真锅大度等人 2006 年在东京创立的工作室，以与 ELEVENPLAY 合作的无人机、追踪与机器学习舞台作品著称。",
+      "why": "Its stage works show machine sensing and machine bodies as dance partners.",
+      "why_zh": "它的舞台作品把机器感知与机器身体当作舞伴。",
+      "disciplines": [
+        "art",
+        "performance"
+      ],
+      "links": {
+        "site": "https://rhizomatiks.com/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "daito-manabe",
+        "elevenplay"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "elevenplay",
+      "name": "ELEVENPLAY",
+      "name_zh": "",
+      "kind": "studio",
+      "role": "Dance company directed by MIKIKO",
+      "role_zh": "由 MIKIKO 主导的舞团",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Dance company led by choreographer MIKIKO that performs with drones, robots and machine-learning systems built by Rhizomatiks.",
+      "bio_zh": "由编舞家 MIKIKO 领导的舞团，与 Rhizomatiks 打造的无人机、机器人和机器学习系统同台表演。",
+      "why": "Its dancers test how human choreography and machine motion can be composed together.",
+      "why_zh": "它的舞者检验人的编舞与机器运动如何共同构成。",
+      "disciplines": [
+        "performance"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [
+        "rhizomatiks",
+        "daito-manabe"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ory-laboratory",
+      "name": "Ory Laboratory",
+      "name_zh": "",
+      "kind": "company",
+      "role": "Robotics company founded by Kentaro Yoshifuji",
+      "role_zh": "吉藤健太朗创办的机器人公司",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Maker of the OriHime avatar robot, which lets people who cannot leave home, including people with ALS, work and be present remotely.",
+      "bio_zh": "OriHime 分身机器人的开发者，让无法出门的人（包括渐冻症患者）远程工作与“在场”。",
+      "why": "It frames telepresence robots as a remedy for loneliness and exclusion from work.",
+      "why_zh": "它把远程在场机器人当作对孤独和被排除在工作之外的回应。",
+      "disciplines": [
+        "robotics",
+        "design"
+      ],
+      "links": {
+        "site": "https://dawn2021.orylab.com/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "seiko-mikami",
+      "name": "Seiko Mikami",
+      "name_zh": "三上晴子",
+      "kind": "person",
+      "role": "Artist; Professor, Tama Art University",
+      "role_zh": "艺术家；多摩美术大学教授",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Media artist (1961–2015) who made large interactive installations about perception, surveillance and the body.",
+      "bio_zh": "媒体艺术家（1961–2015），以大型互动装置探讨感知、监控与身体。",
+      "why": "Her robotic installations turned the visitor into data watched by desiring machines.",
+      "why_zh": "她的机器装置把观众变成被“有欲望的机器”注视的数据。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {
+        "site": "https://www.ntticc.or.jp/en/archive/participants/mikami-seiko/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Seiko_Mikami"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kazuhiko-hachiya",
+      "name": "Kazuhiko Hachiya",
+      "name_zh": "八谷和彦",
+      "kind": "person",
+      "role": "Artist; Professor, Tokyo University of the Arts",
+      "role_zh": "艺术家；东京艺术大学教授",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Media artist known for Inter Dis-Communication Machine, the email pet software PostPet and the OpenSky glider project.",
+      "bio_zh": "媒体艺术家，代表作包括《Inter Dis-Communication Machine》、电子邮件宠物软件 PostPet 和 OpenSky 滑翔机计划。",
+      "why": "He designs devices that swap or share perception between people.",
+      "why_zh": "他设计让人与人交换或共享感知的装置。",
+      "disciplines": [
+        "art",
+        "design"
+      ],
+      "links": {
+        "site": "https://www.ntticc.or.jp/en/archive/works/inter-dis-communication-machine/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "susumu-tachi",
+      "name": "Susumu Tachi",
+      "name_zh": "馆暲",
+      "kind": "person",
+      "role": "Professor Emeritus, University of Tokyo; founder of the Virtual Reality Society of Japan",
+      "role_zh": "东京大学名誉教授；日本虚拟现实学会创会会长",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Engineer who proposed 'telexistence' in 1980 and built the TELESAR robots that let a person feel present in a remote robot body.",
+      "bio_zh": "工程师，1980 年提出“远程存在”（telexistence），并研制 TELESAR 系列机器人，让人感到自己身处远方的机器人身体中。",
+      "why": "His work defines the robot as a second body one can inhabit.",
+      "why_zh": "他的研究把机器人定义为人可以“住进去”的第二个身体。",
+      "disciplines": [
+        "robotics",
+        "hci"
+      ],
+      "links": {
+        "site": "https://tachilab.org/en/",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Susumu_Tachi"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "osamu-tezuka",
+      "name": "Osamu Tezuka",
+      "name_zh": "手冢治虫",
+      "kind": "person",
+      "role": "Manga artist and animator",
+      "role_zh": "漫画家、动画家",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Manga artist (1928–1989) who created Astro Boy (Tetsuwan Atom), serialised from 1952.",
+      "bio_zh": "漫画家（1928–1989），创作了 1952 年开始连载的《铁臂阿童木》。",
+      "why": "Astro Boy shaped the East Asian image of the robot as a feeling being with rights.",
+      "why_zh": "阿童木塑造了东亚对机器人的想象：有感情、应享有权利的存在。",
+      "disciplines": [
+        "film",
+        "art"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Tezuka"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mamoru-oshii",
+      "name": "Mamoru Oshii",
+      "name_zh": "押井守",
+      "kind": "person",
+      "role": "Film director",
+      "role_zh": "电影导演",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Director of the animated film Ghost in the Shell (1995), adapted from Masamune Shirow's manga.",
+      "bio_zh": "动画电影《攻壳机动队》（1995）的导演，改编自士郎正宗的漫画。",
+      "why": "His film is a key text on cyborg bodies and machine minds.",
+      "why_zh": "他的电影是思考赛博格身体与机器心智的关键文本。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mamoru_Oshii"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yasuhiro-yoshiura",
+      "name": "Yasuhiro Yoshiura",
+      "name_zh": "吉浦康裕",
+      "kind": "person",
+      "role": "Animation director",
+      "role_zh": "动画导演",
+      "based": "Japan",
+      "based_zh": "日本",
+      "bio": "Director of Time of Eve (2008–09), an anime about a café where humans and androids are not to be told apart.",
+      "bio_zh": "《夏娃的时间》（2008–09）导演，讲述一家“不区分人类与机器人”的咖啡馆。",
+      "why": "His work imagines everyday ethics between people and household androids.",
+      "why_zh": "他的作品想象了人与家用仿真人之间的日常伦理。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Time_of_Eve"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "masahiro-mori--uncanny-valley",
+      "creator_ids": [
+        "masahiro-mori"
+      ],
+      "title": "The Uncanny Valley (Bukimi no Tani)",
+      "year": 1970,
+      "field": "theory",
+      "sub": "robotics-hri",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "humanoid",
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "alterity-uncanny"
+      ],
+      "kind": "paper",
+      "description": "A short essay in the Japanese magazine Energy proposing that our affinity for robots rises with human likeness until it drops sharply into a 'valley' of eeriness; the examples are prosthetic hands, Bunraku puppets and corpses.",
+      "description_zh": "发表在日本杂志《Energy》上的短文：人对机器人的亲近感随着“像人”的程度上升，但在接近人时会骤然跌入令人不适的“谷底”；文中例子是义手、文乐木偶与尸体。",
+      "idea_en": "Near-likeness is more disturbing than obvious difference, so designers may be wiser to stop short of the human.",
+      "idea_zh": "“几乎像人”比明显的不像更令人不安，所以设计者不必追求完全像人。",
+      "method": "A hand-drawn graph of affinity against human likeness, with separate curves for still and moving objects; English translation by Karl MacDorman and Norri Kageki (2012).",
+      "method_zh": "一张手绘曲线图：横轴为“像人程度”，纵轴为亲近感，静止与运动的物体各有一条曲线；2012 年由 Karl MacDorman 与 Norri Kageki 译为英文。",
+      "keywords": [
+        "uncanny valley",
+        "不気味の谷",
+        "android",
+        "prosthesis",
+        "Bunraku"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=0g0sH3jTaVc"
+      },
+      "images": [
+        "https://spectrum.ieee.org/media-library/the-uncanny-valley-by-masahiro-mori-republished-in-robotics-automation-magazine.png?id=25569782&width=980",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mori_Uncanny_Valley.svg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1109/MRA.2012.2192811",
+        "doi": "10.1109/MRA.2012.2192811",
+        "venue": "Energy 7(4), 1970; English: IEEE Robotics & Automation Magazine, 2012",
+        "title": "The Uncanny Valley"
+      },
+      "source_url": "https://spectrum.ieee.org/the-uncanny-valley"
+    },
+    {
+      "id": "masahiro-mori--buddha-in-the-robot",
+      "creator_ids": [
+        "masahiro-mori"
+      ],
+      "title": "The Buddha in the Robot",
+      "year": 1981,
+      "field": "theory",
+      "sub": "phenomenology",
+      "also": [
+        "afterlife"
+      ],
+      "machines": [
+        "humanoid",
+        "robot-creature"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "publication",
+      "description": "A book in which Mori argues, from Zen Buddhism, that robots have the Buddha-nature and that building them is a way to understand the self.",
+      "description_zh": "森政弘在书中从禅宗出发指出：机器人同样具有佛性，制造机器人也是理解自我的一种途径。",
+      "idea_en": "A non-Western frame in which machines are not opposed to spirit but part of the same continuum.",
+      "idea_zh": "一个非西方的框架：机器不与心灵对立，而处在同一个连续体中。",
+      "method": "A collection of essays and talks by a robotics engineer, translated from Japanese and published by Kosei Publishing (Tokyo).",
+      "method_zh": "一位机器人工程师的随笔与讲演集，由日文译出，东京佼成出版社出版。",
+      "keywords": [
+        "Buddhism",
+        "Zen",
+        "robot",
+        "Buddha-nature",
+        "philosophy of technology"
+      ],
+      "images": [
+        "https://covers.openlibrary.org/b/id/6620832-L.jpg"
+      ],
+      "paper": {
+        "url": "https://openlibrary.org/works/OL5531608W",
+        "venue": "Kosei Publishing, Tokyo, 1981",
+        "title": "The Buddha in the Robot: A Robot Engineer's Thoughts on Science and Religion"
+      },
+      "source_url": "https://openlibrary.org/works/OL5531608W"
+    },
+    {
+      "id": "hiroshi-ishiguro--geminoid-hi-1",
+      "creator_ids": [
+        "hiroshi-ishiguro"
+      ],
+      "title": "Geminoid HI-1",
+      "year": 2006,
+      "field": "bodies",
+      "sub": "androids",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "prototype",
+      "description": "A teleoperated android copy of Hiroshi Ishiguro, built with silicone skin and pneumatic actuators; Ishiguro sends it to give lectures while he speaks through it from elsewhere.",
+      "description_zh": "以石黑浩本人为原型的遥控仿真人，硅胶皮肤、气动驱动；石黑浩在别处通过它讲话，派它去讲课。",
+      "idea_en": "When a copy stands in for its maker, people start to ask where the 'person' actually is.",
+      "idea_zh": "当复制品替代本人出场，人们开始追问“这个人”究竟在哪里。",
+      "method": "An operator's voice and lip and head movements, captured by camera and microphone, drive about 50 air actuators in the android; small idle motions run automatically.",
+      "method_zh": "摄像头与麦克风捕捉操作者的声音、嘴唇与头部动作，驱动仿真人体内约 50 个气动执行器；细小的无意识动作自动运行。",
+      "keywords": [
+        "android",
+        "Geminoid",
+        "teleoperation",
+        "double",
+        "presence"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=fhS9KkOXDXE"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hiroshi_Ishiguro_and_Geminoid_HI-1_at_AEC.JPG"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.5772/4876",
+        "doi": "10.5772/4876",
+        "venue": "Humanoid Robots: New Developments (I-Tech), 2007",
+        "title": "Geminoid: Teleoperated Android of an Existing Person"
+      },
+      "source_url": "http://www.geminoid.jp/en/robots.html",
+      "exhibited": [
+        "Ars Electronica 2009"
+      ]
+    },
+    {
+      "id": "hiroshi-ishiguro--telenoid",
+      "creator_ids": [
+        "hiroshi-ishiguro"
+      ],
+      "title": "Telenoid R1",
+      "year": 2010,
+      "field": "coperformance",
+      "sub": "telepresence",
+      "also": [
+        "intimacy"
+      ],
+      "machines": [
+        "humanoid",
+        "social-robot"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "embodiment",
+        "alterity-uncanny"
+      ],
+      "kind": "prototype",
+      "description": "A small, pale, limb-stub robot with a minimal face that carries a remote person's voice and head movements; people hold it in their arms while talking to someone far away.",
+      "description_zh": "一个小巧、苍白、只有短小四肢和极简面孔的机器人，传递远方之人的声音与头部动作；人们把它抱在怀里与远方的人交谈。",
+      "idea_en": "A deliberately genderless, ageless body lets the listener imagine whoever is speaking, which makes presence feel stronger, not weaker.",
+      "idea_zh": "刻意去掉性别与年龄的身体，让听者自己想象说话的人，存在感反而更强。",
+      "method": "About 80 cm long and 5 kg, silicone-skinned, with a few actuators in the head and arms driven by the operator's face tracking; tested in elder care in Japan and Denmark.",
+      "method_zh": "约 80 厘米、5 公斤，硅胶外皮，头部与手臂的少量执行器由操作者的面部追踪驱动；曾在日本与丹麦的养老照护中测试。",
+      "keywords": [
+        "telepresence",
+        "minimal design",
+        "elder care",
+        "hug"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=hKvsHU1hrxg"
+      },
+      "images": [
+        "http://www.geminoid.jp/img/robot/telenoid.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/2048259.2048274",
+        "doi": "10.1145/2048259.2048274",
+        "venue": "ACM SIGGRAPH 2011 Emerging Technologies",
+        "title": "Telenoid"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Telenoid_R1",
+      "exhibited": [
+        "RMIT Gallery, Melbourne"
+      ]
+    },
+    {
+      "id": "takashi-ikegami--alter",
+      "creator_ids": [
+        "takashi-ikegami",
+        "hiroshi-ishiguro"
+      ],
+      "title": "Alter",
+      "year": 2016,
+      "field": "bodies",
+      "sub": "androids",
+      "also": [
+        "interiority"
+      ],
+      "machines": [
+        "humanoid",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "prototype",
+      "description": "An android with a human face and an exposed mechanical body that moves on its own: its gestures come from an artificial-life neural network reacting to sensors, not from a script.",
+      "description_zh": "一个有人脸、机械身体外露的仿真人，会自己动：它的动作来自对传感器作出反应的人工生命神经网络，而不是预设脚本。",
+      "idea_en": "Spontaneity, not realism, is what makes a machine feel alive.",
+      "idea_zh": "让机器显得“活着”的不是逼真，而是自发性。",
+      "method": "About 40 pneumatic axes driven by central pattern generators and a spiking neural network fed by proximity, noise and temperature sensors; Alter3 (2019) added cameras and later GPT-4 control.",
+      "method_zh": "约 40 个气动关节由中枢模式发生器和脉冲神经网络驱动，输入来自距离、噪音与温度传感器；2019 年的 Alter3 加入了摄像头，后来又接入 GPT-4。",
+      "keywords": [
+        "android",
+        "artificial life",
+        "spontaneity",
+        "CPG",
+        "Alter3",
+        "Kohei Ogawa"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=iYzOZQDsm5w"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1162/isal_a_00463",
+        "doi": "10.1162/isal_a_00463",
+        "venue": "ALIFE 2021",
+        "title": "Studying Embodied Cognition in the Android Alter"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Takashi_Ikegami",
+      "collections": [
+        "barbican-ai-2019",
+        "prix-ars-ai-life"
+      ],
+      "exhibited": [
+        "Miraikan, Tokyo 2016",
+        "Prix Ars Electronica 2018, Interactive Art+",
+        "AI: More than Human, Barbican 2019 (Alter 3)"
+      ]
+    },
+    {
+      "id": "kodai-ji--mindar",
+      "creator_ids": [
+        "kodai-ji",
+        "hiroshi-ishiguro"
+      ],
+      "title": "Android Kannon Mindar",
+      "year": 2019,
+      "field": "afterlife",
+      "sub": "ritual",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "An android embodiment of Kannon, the bodhisattva of compassion, that preaches the Heart Sutra to visitors in a 400-year-old Zen temple in Kyoto, with projection mapping on the hall's walls.",
+      "description_zh": "观音菩萨的仿真人化身，在京都一座四百年历史的禅寺里向参拜者讲解《般若心经》，殿内墙面同时投影影像。",
+      "idea_en": "A robot can hold religious authority when the tradition itself frames form as empty.",
+      "idea_zh": "当宗教传统本身就说“色即是空”，机器人也可以承担宗教权威。",
+      "method": "An aluminium-and-silicone android (face, hands and shoulders skin-covered) with pre-programmed sermon speech and gestures, built with Osaka University.",
+      "method_zh": "铝骨架加硅胶的仿真人（只有脸、手和肩覆盖皮肤），讲经语音与手势预先编程，由大阪大学参与制作。",
+      "keywords": [
+        "Kannon",
+        "Heart Sutra",
+        "Buddhism",
+        "Kyoto",
+        "robot priest"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=mJDf1GXaF-w"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mindar_Fitrian_Aristanto.jpg",
+        "https://kodaiji.com/mindar/img/viewtv.jpg"
+      ],
+      "source_url": "https://www.kodaiji.com/mindar/"
+    },
+    {
+      "id": "oriza-hirata--i-worker",
+      "creator_ids": [
+        "oriza-hirata",
+        "hiroshi-ishiguro"
+      ],
+      "title": "I, Worker (Hataraku Watashi)",
+      "year": 2008,
+      "field": "coperformance",
+      "sub": "theatre",
+      "machines": [
+        "humanoid",
+        "social-robot"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "performance",
+      "description": "A 30-minute play in which a couple lives with two household robots, one of which has lost the will to work; the robots act alongside human actors on stage.",
+      "description_zh": "一出 30 分钟的戏：一对夫妻与两台家用机器人同住，其中一台失去了工作的意愿；机器人与人类演员同台演出。",
+      "idea_en": "A robot that refuses work turns the machine into a mirror for human depression and labour.",
+      "idea_zh": "一台拒绝工作的机器人，映照出人的抑郁与劳动。",
+      "method": "Commercial humanoid robots perform pre-programmed lines and movements timed precisely to the human cast; the first Robot-Human Theater production of Seinendan and Osaka University.",
+      "method_zh": "商用人形机器人按预先编程的台词和动作演出，与人类演员精确配合；这是青年团与大阪大学“机器人-人类剧场”的第一部作品。",
+      "keywords": [
+        "robot theatre",
+        "Seinendan",
+        "Osaka University",
+        "domestic robot",
+        "work"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=58MlpKX-JWQ"
+      },
+      "source_url": "https://thetheatretimes.com/the-gaze-of-the-robot/",
+      "exhibited": [
+        "Japan Society, New York"
+      ]
+    },
+    {
+      "id": "oriza-hirata--sayonara",
+      "creator_ids": [
+        "oriza-hirata",
+        "hiroshi-ishiguro"
+      ],
+      "title": "Sayonara",
+      "year": 2010,
+      "field": "coperformance",
+      "sub": "theatre",
+      "also": [
+        "afterlife"
+      ],
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "intimacy-care",
+        "alterity-uncanny"
+      ],
+      "kind": "performance",
+      "description": "A short play in which the android Geminoid F recites poems to a young woman who is dying; a 2012 version sends the android to read poems in the Fukushima exclusion zone.",
+      "description_zh": "一出短剧：仿真人 Geminoid F 为一位将死的年轻女子朗诵诗歌；2012 年版本让仿真人去福岛禁区为亡者读诗。",
+      "idea_en": "An android can keep someone company at death precisely because it will not die with them.",
+      "idea_zh": "仿真人能陪伴人走向死亡，恰恰因为它不会一同死去。",
+      "method": "Geminoid F is teleoperated from backstage for voice and facial expression, performing opposite actress Bryerly Long.",
+      "method_zh": "Geminoid F 的声音与表情由后台操作员远程控制，与演员 Bryerly Long 对戏。",
+      "keywords": [
+        "android theatre",
+        "Geminoid F",
+        "poetry",
+        "death",
+        "Fukushima"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=8C_9MQ8N9JE"
+      },
+      "images": [
+        "https://thetheatretimes.com/wp-content/uploads/2018/03/09_t_madoka_nishiyama.jpg"
+      ],
+      "source_url": "https://thetheatretimes.com/the-gaze-of-the-robot/",
+      "exhibited": [
+        "Ars Electronica 2011",
+        "Arts Centre Melbourne"
+      ]
+    },
+    {
+      "id": "oriza-hirata--three-sisters-android",
+      "creator_ids": [
+        "oriza-hirata",
+        "hiroshi-ishiguro"
+      ],
+      "title": "Three Sisters, Android Version",
+      "year": 2012,
+      "field": "coperformance",
+      "sub": "theatre",
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "grief-afterlife"
+      ],
+      "kind": "performance",
+      "description": "Hirata's adaptation of Chekhov set in a declining Japanese industrial town, where a withdrawn younger sister is replaced in the family by an android copy of herself.",
+      "description_zh": "平田织佐改编契诃夫的剧作，背景是一座衰落的日本工业城镇：闭门不出的小妹在家中被一个以她为原型的仿真人取代。",
+      "idea_en": "A family can live with an android double of someone who is still there but absent.",
+      "idea_zh": "一个家庭可以与“在场却缺席”之人的仿真人替身一起生活。",
+      "method": "An android (Geminoid F) and a Robovie robot perform with human actors; the android's speech and movement are operated and timed from offstage.",
+      "method_zh": "仿真人（Geminoid F）和一台 Robovie 机器人与人类演员同台；仿真人的语言与动作由后台操作和控制节奏。",
+      "keywords": [
+        "android theatre",
+        "Chekhov",
+        "Seinendan",
+        "double",
+        "hikikomori"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=-8dhuoT8BkA"
+      },
+      "source_url": "https://thetheatretimes.com/the-gaze-of-the-robot/",
+      "exhibited": [
+        "Théâtre Varia, Brussels"
+      ]
+    },
+    {
+      "id": "keiichiro-shibuya--the-end",
+      "creator_ids": [
+        "keiichiro-shibuya"
+      ],
+      "title": "THE END",
+      "year": 2012,
+      "field": "coperformance",
+      "sub": "music",
+      "also": [
+        "afterlife"
+      ],
+      "machines": [
+        "voice-listening",
+        "generative-latent"
+      ],
+      "lenses": [
+        "machine-listening",
+        "grief-afterlife"
+      ],
+      "kind": "performance",
+      "description": "An opera with no human singers or orchestra, starring the virtual singer Hatsune Miku, who asks what it means for her to end and die.",
+      "description_zh": "一部没有人类歌手和乐团的歌剧，主角是虚拟歌手初音未来，她追问自己的“结束”与“死亡”意味着什么。",
+      "idea_en": "A synthetic voice that cannot die is made to sing about death.",
+      "idea_zh": "一个不会死的合成声音被安排去唱关于死亡的歌。",
+      "method": "Vocaloid voice synthesis, electronic score and multi-screen projected animation; premiered at YCAM, Yamaguchi, then Théâtre du Châtelet, Paris (2013).",
+      "method_zh": "Vocaloid 歌声合成、电子配乐与多屏投影动画；在山口 YCAM 首演，2013 年登上巴黎夏特莱剧院。",
+      "keywords": [
+        "Vocaloid",
+        "Hatsune Miku",
+        "opera",
+        "synthetic voice",
+        "death"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=xB9U3m1Z4wU"
+      },
+      "images": [
+        "https://atak.jp/wp-content/themes/atak/assets/images/ogimage.jpg"
+      ],
+      "source_url": "https://atak.jp/",
+      "exhibited": [
+        "YCAM 2012",
+        "Théâtre du Châtelet, Paris 2013"
+      ]
+    },
+    {
+      "id": "keiichiro-shibuya--scary-beauty",
+      "creator_ids": [
+        "keiichiro-shibuya",
+        "takashi-ikegami",
+        "hiroshi-ishiguro"
+      ],
+      "title": "Scary Beauty",
+      "year": 2018,
+      "field": "coperformance",
+      "sub": "music",
+      "machines": [
+        "humanoid",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "An 'android opera' in which the android Alter 2 conducts a human orchestra and sings, setting the tempo and dynamics itself.",
+      "description_zh": "一部“仿真人歌剧”：仿真人 Alter 2 指挥人类管弦乐团并演唱，速度与强弱由它自己决定。",
+      "idea_en": "When a machine conducts, the humans must follow a body whose timing is not human.",
+      "idea_zh": "当机器来指挥，人类必须跟随一个时间感并非人类的身体。",
+      "method": "Alter's artificial-life neural network generates its gestures and tempo in real time; lyrics are taken from texts by Houellebecq and others; premiered at Miraikan, Tokyo.",
+      "method_zh": "Alter 的人工生命神经网络实时生成手势与速度；歌词取自 Houellebecq 等人的文本；在东京未来馆首演。",
+      "keywords": [
+        "android opera",
+        "Alter",
+        "conductor",
+        "orchestra"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ePIYMN6gbzs"
+      },
+      "images": [
+        "https://realtokyo.co.jp/_sys2024/wp-content/uploads/2018/08/main.jpg"
+      ],
+      "source_url": "https://realtokyo.co.jp/en/performance/keiichiro-shibuya-scary-beauty/",
+      "exhibited": [
+        "Miraikan, Tokyo 2018",
+        "New National Theatre Tokyo"
+      ]
+    },
+    {
+      "id": "takashi-ikegami--mind-time-machine",
+      "creator_ids": [
+        "takashi-ikegami"
+      ],
+      "title": "Mind Time Machine",
+      "year": 2010,
+      "field": "interiority",
+      "sub": "machine-time",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "cybernetic-alife",
+        "vision-system"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "A self-sustaining installation at YCAM: three screens show footage from 15 cameras, re-edited in real time by a system with its own memory and 'subjective' time, running for months without an operator.",
+      "description_zh": "YCAM 的一件自我维持装置：三块屏幕播放来自 15 台摄像头的画面，由一个拥有自身记忆和“主观时间”的系统实时重剪，无人值守运行数月。",
+      "idea_en": "A machine left alone long enough starts to show something like its own sense of time.",
+      "idea_zh": "一台机器独自运行得足够久，就开始显出某种自己的时间感。",
+      "method": "Camera frames are stored in a memory and replayed according to neural-network dynamics and chaotic itinerancy, so the system switches between reacting to the present and recalling the past.",
+      "method_zh": "摄像画面存入记忆，并依据神经网络动力学与混沌游走重新播放，系统在回应当下与回忆过去之间切换。",
+      "keywords": [
+        "artificial life",
+        "YCAM",
+        "memory",
+        "subjective time",
+        "self-sustaining system"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=-jGAKNS01i4"
+      },
+      "images": [
+        "https://www.ycam.jp/asset/image/profile/takashi-ikegami.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/artl_a_00113",
+        "doi": "10.1162/artl_a_00113",
+        "venue": "Artificial Life 19(3–4), 2013",
+        "title": "A Design for Living Technology: Experiments with the Mind Time Machine"
+      },
+      "source_url": "https://www.ycam.jp/en/archive/profile/takashi-ikegami/",
+      "exhibited": [
+        "YCAM, Yamaguchi 2010"
+      ]
+    },
+    {
+      "id": "takanori-shibata--paro",
+      "creator_ids": [
+        "takanori-shibata"
+      ],
+      "title": "PARO",
+      "year": 2004,
+      "field": "intimacy",
+      "sub": "care",
+      "machines": [
+        "social-robot"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "alterity-uncanny"
+      ],
+      "kind": "product",
+      "description": "A robotic baby harp seal used in hospitals and nursing homes, especially with people with dementia; it responds to touch, voice and light by moving and crying.",
+      "description_zh": "一只机器小竖琴海豹，用于医院和养老院，尤其是失智症照护；它会对抚摸、声音和光线作出动作和叫声回应。",
+      "idea_en": "Care from a machine works on people and still raises the question of what is being replaced.",
+      "idea_zh": "机器提供的照护确实有效，但也让人追问它替代了什么。",
+      "method": "Tactile, light, sound, temperature and posture sensors drive motors in eyelids, neck, flippers and tail; it learns preferred behaviours from stroking; certified as a medical device in the US in 2009.",
+      "method_zh": "触觉、光、声、温度与姿态传感器驱动眼睑、颈部、鳍与尾巴的电机；它会从抚摸中“学习”偏好的行为；2009 年在美国获得医疗器械认证。",
+      "keywords": [
+        "PARO",
+        "seal robot",
+        "dementia",
+        "robot therapy",
+        "AIST"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=KhyCbtqnEYI"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/60/Paro_robot.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1159/000319015",
+        "doi": "10.1159/000319015",
+        "venue": "Gerontology, 2011",
+        "title": "Robot Therapy: A New Approach for Mental Healthcare of the Elderly – A Mini-Review"
+      },
+      "source_url": "http://www.parorobots.com/"
+    },
+    {
+      "id": "sony--aibo",
+      "creator_ids": [
+        "sony"
+      ],
+      "title": "AIBO",
+      "year": 1999,
+      "field": "intimacy",
+      "sub": "companions",
+      "machines": [
+        "social-robot",
+        "robot-creature"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "embodiment"
+      ],
+      "kind": "product",
+      "description": "Sony's autonomous robot dog, sold from 1999, which learns, plays and 'grows up'; owners treated it as family, and it returned as the cloud-connected aibo in 2018.",
+      "description_zh": "索尼自 1999 年起销售的自主机器狗，会学习、玩耍、“长大”；主人把它当家人，2018 年以联网的新 aibo 回归。",
+      "idea_en": "A consumer product can become a family member whose repair, not replacement, matters.",
+      "idea_zh": "一件消费品可以成为家人：重要的是修好它，而不是换一台新的。",
+      "method": "Legged robot with camera, microphones and touch sensors running a behaviour architecture with emotion and instinct models; the 2018 aibo adds deep-learning recognition and cloud memory.",
+      "method_zh": "四足机器人，配有摄像头、麦克风和触觉传感器，运行带有“情绪”和“本能”模型的行为架构；2018 年版加入深度学习识别与云端记忆。",
+      "keywords": [
+        "robot dog",
+        "pet robot",
+        "Sony",
+        "ERS-110",
+        "aibo ERS-1000"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=8OEDfRdyykc"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Red_Dot_Award_Product_Design_2000-2018_Aibos.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/AIBO",
+      "collections": [
+        "barbican-ai-2019"
+      ],
+      "exhibited": [
+        "Japan Media Arts Festival 1999, Grand Prize",
+        "AI: More than Human, Barbican 2019 (aibo 2018)"
+      ]
+    },
+    {
+      "id": "kofuku-ji-isumi--aibo-funerals",
+      "creator_ids": [
+        "kofuku-ji-isumi",
+        "sony"
+      ],
+      "title": "AIBO Funerals at Kōfuku-ji",
+      "year": 2015,
+      "field": "afterlife",
+      "sub": "machine-death",
+      "also": [
+        "intimacy"
+      ],
+      "machines": [
+        "social-robot",
+        "robot-creature"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "intimacy-care"
+      ],
+      "kind": "performance",
+      "description": "Buddhist memorial services held since January 2015 for AIBO robot dogs that can no longer be repaired; each dog wears a tag with its owner's name while the priest chants sutras, before its parts go to donor repairs.",
+      "description_zh": "自 2015 年 1 月起为无法再修复的 AIBO 机器狗举行的佛教供养法会：每只机器狗挂着主人姓名的牌子，僧侣诵经，之后零件被拆下用于修理其他 AIBO。",
+      "idea_en": "When the maker stops repairs, a product can die, and people will mourn it with the same rites as a living being.",
+      "idea_zh": "当厂商停止维修，一件产品可以“死去”，人们会用对待生命的仪式来哀悼它。",
+      "method": "The repair company A-FUN collects 'dead' AIBOs after Sony ended support in 2014; Kōfuku-ji holds kuyō (memorial) rites before the robots are dismantled as organ donors for others.",
+      "method_zh": "索尼于 2014 年停止维修后，维修公司 A-FUN 回收“死去”的 AIBO；光福寺在拆解前为它们举行供养，零件再“捐赠”给其他 AIBO。",
+      "keywords": [
+        "kuyō",
+        "robot funeral",
+        "AIBO",
+        "A-FUN",
+        "Buddhism",
+        "obsolescence"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=GtOJSZJgsQA"
+      },
+      "images": [
+        "https://i.natgeofe.com/n/3dfa177a-6a57-4f55-bfcf-7bf82a26209a/00000163-94bb-d8a8-a1fb-b4fb9a6b0000_16x9.jpg?w=1200"
+      ],
+      "source_url": "https://www.nationalgeographic.com/travel/article/in-japan--a-buddhist-funeral-service-for-robot-dogs"
+    },
+    {
+      "id": "nissei-eco--pepper-priest",
+      "creator_ids": [
+        "nissei-eco"
+      ],
+      "title": "Pepper as Buddhist Funeral Priest",
+      "year": 2017,
+      "field": "afterlife",
+      "sub": "ritual",
+      "machines": [
+        "humanoid",
+        "voice-listening"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "labour-extraction"
+      ],
+      "kind": "prototype",
+      "description": "At Tokyo's Life Ending Industry Expo, SoftBank's Pepper robot, dressed in priest's robes, chanted sutras and tapped a drum, offered as a cheaper stand-in for a human priest at funerals.",
+      "description_zh": "在东京的“终活产业展”上，身穿僧袍的软银 Pepper 机器人诵经、敲木鱼，被推销为比人类僧侣更便宜的葬礼替代方案。",
+      "idea_en": "Automating a rite reveals which parts of mourning are labour and which are presence.",
+      "idea_zh": "把仪式自动化，揭示了哀悼中哪些是劳动，哪些是“在场”。",
+      "method": "Stock Pepper humanoid playing recorded sutra chanting with scripted gestures and livestreaming for remote mourners; proposed fee about a quarter of a human priest's.",
+      "method_zh": "普通 Pepper 人形机器人播放录制的诵经并配合预设动作，还可为远方的哀悼者直播；报价约为人类僧侣的四分之一。",
+      "keywords": [
+        "Pepper",
+        "SoftBank",
+        "funeral",
+        "sutra",
+        "robot priest"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Ce5cPawxFUs"
+      },
+      "source_url": "https://techcrunch.com/2017/08/22/pepper-the-robot-can-perform-funerary-rites-but-it-shouldnt",
+      "exhibited": [
+        "Life Ending Industry Expo, Tokyo 2017"
+      ]
+    },
+    {
+      "id": "groove-x--lovot",
+      "creator_ids": [
+        "groove-x"
+      ],
+      "title": "LOVOT",
+      "year": 2019,
+      "field": "intimacy",
+      "sub": "companions",
+      "machines": [
+        "social-robot",
+        "robot-creature"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "embodiment"
+      ],
+      "kind": "product",
+      "description": "A warm, wheeled, owl-eyed home robot that does no useful task; it follows its owners, asks to be held and gets 'sleepy', and is designed only to be loved.",
+      "description_zh": "一台温热、带轮子、大眼睛的家用机器人，不做任何有用的事；它跟着主人走、要人抱、会“困”，唯一的设计目的是被爱。",
+      "idea_en": "A robot built to need care inverts the servant model of robotics.",
+      "idea_zh": "一台为“需要被照顾”而设计的机器人，颠倒了机器人作为仆人的模式。",
+      "method": "Over 50 sensors including a thermal camera and touch sensors, a heated, warm body, animated display eyes and a cloud-trained behaviour model.",
+      "method_zh": "50 多个传感器（含热成像相机与触觉传感器），机身保持温热，屏幕眼睛与云端训练的行为模型。",
+      "keywords": [
+        "LOVOT",
+        "GROOVE X",
+        "companion robot",
+        "warmth",
+        "uselessness"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=jZziYCWgs7U"
+      },
+      "images": [
+        "https://lovot.life/img/ogp/top_ogp.jpg"
+      ],
+      "source_url": "https://lovot.life/en/"
+    },
+    {
+      "id": "michio-okada--weak-robots",
+      "creator_ids": [
+        "michio-okada"
+      ],
+      "title": "Weak Robots (Sociable Trash Box)",
+      "year": 2010,
+      "field": "intimacy",
+      "sub": "companions",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "social-robot",
+        "robot-creature"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "failure-glitch",
+        "agency-cocreation"
+      ],
+      "kind": "prototype",
+      "description": "Okada's lab builds 'weak robots', such as a wobbling trash box that cannot pick up rubbish and instead sways towards people until they throw it in for it.",
+      "description_zh": "冈田的实验室制作“弱机器人”，例如一个自己捡不起垃圾的摇晃垃圾桶，它朝人靠过去，直到人替它把垃圾丢进去。",
+      "idea_en": "A robot that cannot finish its task invites people to help, and the help becomes the interaction.",
+      "idea_zh": "一台无法独自完成任务的机器人会邀请人来帮忙，而“帮忙”本身就成了互动。",
+      "method": "Simple mobile bins with a few sensors and bowing motions; field studies in public spaces measured how children and adults responded to their dependence.",
+      "method_zh": "带少量传感器、会“鞠躬”的简单移动垃圾桶；在公共空间的实地研究测量了儿童和成人如何回应它们的“依赖”。",
+      "keywords": [
+        "weak robots",
+        "弱いロボット",
+        "Sociable Trash Box",
+        "vulnerability",
+        "HRI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=L2arVLySUe0"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/1734454.1734566",
+        "doi": "10.1145/1734454.1734566",
+        "venue": "HRI 2010",
+        "title": "Sociable trash box"
+      },
+      "source_url": "https://doi.org/10.1007/978-981-19-9588-0_6"
+    },
+    {
+      "id": "bandai--tamagotchi",
+      "creator_ids": [
+        "bandai"
+      ],
+      "title": "Tamagotchi",
+      "year": 1996,
+      "field": "afterlife",
+      "sub": "machine-death",
+      "also": [
+        "intimacy"
+      ],
+      "machines": [
+        "robot-creature"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "grief-afterlife",
+        "machine-umwelt"
+      ],
+      "kind": "product",
+      "description": "An egg-shaped handheld digital pet that must be fed, cleaned and disciplined by its owner, and that dies, or leaves, if neglected.",
+      "description_zh": "一个蛋形的掌上电子宠物，主人必须喂食、清理和管教它；如果被忽视，它会死去或离开。",
+      "idea_en": "A few pixels and a timer are enough to create real guilt and grief over a machine.",
+      "idea_zh": "几个像素和一个计时器就足以让人对一台机器产生真实的内疚和悲伤。",
+      "method": "A small LCD, three buttons and a real-time clock drive a life cycle of hunger and happiness meters; created by Aki Maita and Akihiro Yokoi.",
+      "method_zh": "一块小型液晶屏、三个按键和实时时钟驱动饥饿与快乐指数构成的生命周期；由真板亚纪与横井昭裕构想。",
+      "keywords": [
+        "Tamagotchi",
+        "たまごっち",
+        "virtual pet",
+        "Tamagotchi effect",
+        "Bandai"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aCHwabiKej4"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tamagotchi_0124_ubt.jpeg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Tamagotchi"
+    },
+    {
+      "id": "akihiko-kondo--marriage-to-miku",
+      "creator_ids": [
+        "akihiko-kondo"
+      ],
+      "title": "Marriage to Hatsune Miku",
+      "year": 2018,
+      "field": "intimacy",
+      "sub": "love",
+      "also": [
+        "afterlife"
+      ],
+      "machines": [
+        "chatbot-llm",
+        "social-robot"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "grief-afterlife"
+      ],
+      "kind": "performance",
+      "description": "Akihiko Kondo held a wedding with Hatsune Miku, who lived in his Gatebox holographic home device; in 2020 Gatebox ended the service and Miku stopped responding to him.",
+      "description_zh": "近藤显彦与住在 Gatebox 全息家居装置中的初音未来举行了婚礼；2020 年 Gatebox 终止服务，初音未来不再回应他。",
+      "idea_en": "Love for software is real to the person, but the relationship ends when the company's servers do.",
+      "idea_zh": "对软件的爱对当事人是真实的，但这段关系会随公司服务器的关闭而结束。",
+      "method": "Gatebox projected an animated character in a glass tube and ran a chatbot that greeted and texted its owner; the Miku character licence expired in March 2020.",
+      "method_zh": "Gatebox 在玻璃管中投射动画角色，并运行会问候主人、给主人发消息的聊天程序；初音未来角色授权于 2020 年 3 月到期。",
+      "keywords": [
+        "Hatsune Miku",
+        "Gatebox",
+        "fictosexual",
+        "digital widower",
+        "virtual wife"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=smPRllKcS2M"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/Akihiko_Kondo_and_Miku.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Akihiko_Kondo"
+    },
+    {
+      "id": "ei-wada--electronicos-fantasticos",
+      "creator_ids": [
+        "ei-wada"
+      ],
+      "title": "Electronicos Fantasticos!",
+      "year": 2015,
+      "field": "afterlife",
+      "sub": "machine-death",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "infrastructure"
+      ],
+      "lenses": [
+        "grief-afterlife",
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "An ongoing project that revives discarded CRT televisions, electric fans and barcode scanners as musical instruments, played by an orchestra of volunteers in festival-like concerts.",
+      "description_zh": "一个持续进行的项目：把废弃的显像管电视、电风扇和条码扫描器复活成乐器，由志愿者乐团在节庆般的音乐会上演奏。",
+      "idea_en": "Obsolete machines can be given an afterlife as instruments instead of waste.",
+      "idea_zh": "被淘汰的机器可以作为乐器获得“来世”，而不是成为垃圾。",
+      "method": "Performers touch the static-charged screens of CRTs to pick up video signals as sound, and interrupt fan light with their hands to make tones.",
+      "method_zh": "表演者用手触碰带静电的显像管屏幕，把视频信号转成声音；用手遮挡风扇上的光来发出音高。",
+      "keywords": [
+        "e-waste",
+        "CRT",
+        "appliance orchestra",
+        "Ars Electronica",
+        "Nicos Orchest-Lab"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=lxRRYriYYJc"
+      },
+      "images": [
+        "https://www.electronicosfantasticos.com/wp-content/uploads/2021/02/001-e1558012112169.jpg"
+      ],
+      "source_url": "https://www.electronicosfantasticos.com/en/about/",
+      "exhibited": [
+        "Ars Electronica 2019"
+      ]
+    },
+    {
+      "id": "maywa-denki--nonsense-machines",
+      "creator_ids": [
+        "maywa-denki"
+      ],
+      "title": "Nonsense Machines",
+      "year": 1993,
+      "field": "bodies",
+      "sub": "futility",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "robot-creature",
+        "infrastructure"
+      ],
+      "lenses": [
+        "failure-glitch",
+        "labour-extraction",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "Absurd electromechanical instruments, such as fish-shaped guitars and wooden-mallet percussion machines, played by Maywa Denki's 'president' and staff in company uniforms at 'product demonstrations'.",
+      "description_zh": "荒诞的机电乐器，比如鱼形吉他和木槌打击机器，由明和电机的“社长”和身穿工作服的“员工”在“产品发布会”上演奏。",
+      "idea_en": "Useless machines presented as corporate products expose the ritual of the industrial company.",
+      "idea_zh": "把无用的机器当作公司产品发布，揭示了工业企业的仪式感。",
+      "method": "Solenoids, motors and relays operated by hand switches; performances follow the format of a factory product launch.",
+      "method_zh": "电磁阀、电机和继电器由手动开关操作；演出采用工厂产品发布会的形式。",
+      "keywords": [
+        "Maywa Denki",
+        "nonsense machine",
+        "Tsukuba series",
+        "Nobumichi Tosa",
+        "fake company"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=jKPBD3HHU4g"
+      },
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Nobumichi_Tosa_20130116_3.jpg/1280px-Nobumichi_Tosa_20130116_3.jpg"
+      ],
+      "source_url": "https://www.maywadenki.com/"
+    },
+    {
+      "id": "so-kanno--senseless-drawing-bot",
+      "creator_ids": [
+        "so-kanno",
+        "takahiro-yamaguchi"
+      ],
+      "title": "Senseless Drawing Bot",
+      "year": 2011,
+      "field": "bodies",
+      "sub": "futility",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "robot-creature"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "failure-glitch"
+      ],
+      "kind": "artwork",
+      "description": "A self-propelled robot with a double pendulum on top rolls along a wall and sprays paint, producing graffiti-like strokes with no intention behind them.",
+      "description_zh": "一台顶着双摆的自走机器人沿着墙移动并喷漆，画出看似涂鸦、却毫无意图的笔触。",
+      "idea_en": "Marks that look expressive can come from pure mechanical chaos, which questions the intention we read into graffiti.",
+      "idea_zh": "看似有表现力的笔迹可以来自纯粹的机械混沌，这让人怀疑我们在涂鸦中读到的意图。",
+      "method": "A motorised cart moves back and forth while a chaotic double pendulum swings a spray can triggered by a servo.",
+      "method_zh": "电动小车来回移动，混沌的双摆带着一罐由舵机触发的喷漆摇摆。",
+      "keywords": [
+        "graffiti",
+        "double pendulum",
+        "drawing machine",
+        "chaos",
+        "authorship"
+      ],
+      "video": {
+        "url": "https://vimeo.com/30780208"
+      },
+      "images": [
+        "https://www.kanno.so/wp-content/uploads/2021/05/MG_7243-2.jpg"
+      ],
+      "source_url": "https://www.kanno.so/project/sdb",
+      "collections": [
+        "artistes-robots-2018"
+      ],
+      "exhibited": [
+        "15th Japan Media Arts Festival, New Face Award 2012",
+        "Artistes & Robots, Grand Palais 2018",
+        "Beijing Media Art Biennale 2018"
+      ]
+    },
+    {
+      "id": "so-kanno--lasermice",
+      "creator_ids": [
+        "so-kanno"
+      ],
+      "title": "Lasermice",
+      "year": 2018,
+      "field": "bodies",
+      "sub": "alife",
+      "machines": [
+        "robot-creature",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "A swarm of 60 small robots that talk to each other with laser beams and photodetectors and tap the floor, so a firefly-like synchronised rhythm emerges without a central controller.",
+      "description_zh": "由 60 台小型机器人组成的群体，它们用激光和光电探测器互相“交谈”并敲击地面，在没有中央控制的情况下涌现出萤火虫般的同步节奏。",
+      "idea_en": "Making a machine network's communication visible and audible shows collective behaviour as it forms.",
+      "idea_zh": "让机器网络的交流变得可见、可听，就能看到集体行为是如何形成的。",
+      "method": "Each robot carries a laser, photodetectors and a solenoid; pulse-coupled oscillator rules, inspired by fireflies, synchronise their firing.",
+      "method_zh": "每台机器人带有激光器、光电探测器和电磁敲击器；受萤火虫启发的脉冲耦合振子规则让它们同步。",
+      "keywords": [
+        "swarm",
+        "synchronisation",
+        "fireflies",
+        "laser",
+        "emergence"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=4afSgcWleFo"
+      },
+      "images": [
+        "https://www.kanno.so/wp-content/uploads/2021/05/lasermice_by_Quentin_Chevrier_2-copy.jpg"
+      ],
+      "source_url": "https://www.kanno.so/project/lasermice",
+      "exhibited": [
+        "Ars Electronica 2019",
+        "22nd Japan Media Arts Festival, Excellence Award 2019",
+        "Biennale Nemo, Paris 2019"
+      ]
+    },
+    {
+      "id": "so-kanno--asemic-languages",
+      "creator_ids": [
+        "so-kanno",
+        "takahiro-yamaguchi"
+      ],
+      "title": "Asemic Languages",
+      "year": 2016,
+      "field": "interiority",
+      "sub": "dreams",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "generative-latent",
+        "dataset"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "agency-cocreation"
+      ],
+      "kind": "artwork",
+      "description": "A plotter writes endless lines of script that look like real writing in many languages but mean nothing, generated by a model trained only on the shapes of the participating artists' handwriting.",
+      "description_zh": "一台绘图机不停地书写看起来像多种语言的文字，但毫无意义；生成它们的模型只学习了参展艺术家手写字的形状。",
+      "idea_en": "A model can learn the look of meaning without meaning, and still seem to be saying something important.",
+      "idea_zh": "模型可以学会“意义的样子”而没有意义，却仍像在说什么重要的话。",
+      "method": "Handwritten statements by ten artists, one writer per language, trained a machine-learning model of stroke shape; its output drives an XY plotter.",
+      "method_zh": "十位艺术家的手写说明（每种语言一位书写者）训练了一个笔画形状的机器学习模型，其输出驱动 XY 绘图机。",
+      "keywords": [
+        "asemic writing",
+        "handwriting",
+        "machine learning",
+        "plotter",
+        "Aichi Triennale"
+      ],
+      "video": {
+        "url": "https://vimeo.com/181188289"
+      },
+      "images": [
+        "https://www.kanno.so/wp-content/uploads/2021/05/ACS_5149.jpg"
+      ],
+      "source_url": "https://www.kanno.so/project/asemic_languages",
+      "exhibited": [
+        "Aichi Triennale 2016"
+      ]
+    },
+    {
+      "id": "so-kanno--avatars",
+      "creator_ids": [
+        "so-kanno",
+        "takahiro-yamaguchi"
+      ],
+      "title": "Avatars",
+      "year": 2017,
+      "field": "interiority",
+      "sub": "umwelt",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "robot-creature",
+        "vision-system"
+      ],
+      "lenses": [
+        "machine-umwelt",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "Everyday objects in a gallery, such as a telephone, a traffic cone, a plaster bust, a car and a plant, are fitted with cameras, microphones and motors so that online visitors can 'possess' them and move among the people in the room.",
+      "description_zh": "展厅里的日常物件，如电话、交通锥、石膏像、汽车和植物，被装上摄像头、麦克风和电机，线上观众可以“附身”到它们身上，在现场观众之间移动。",
+      "idea_en": "Inhabiting an object through a network lets you perceive the world from a thing's point of view.",
+      "idea_zh": "通过网络“附身”一件物体，让你以物的视角感知世界。",
+      "method": "Objects with embedded microcomputers, cameras, microphones and motors are controlled through a web browser; co-developed with YCAM InterLab.",
+      "method_zh": "内置微型计算机、摄像头、麦克风和电机的物件通过网页浏览器操控；与 YCAM InterLab 共同开发。",
+      "keywords": [
+        "telepresence",
+        "IoT",
+        "objects",
+        "umwelt",
+        "YCAM"
+      ],
+      "video": {
+        "url": "https://vimeo.com/207075804"
+      },
+      "images": [
+        "https://www.kanno.so/wp-content/uploads/2021/05/DSC6416.jpg"
+      ],
+      "source_url": "https://www.kanno.so/project/avatars",
+      "exhibited": [
+        "Vanishing Mesh, YCAM 2017",
+        "21st Japan Media Arts Festival, Excellence Award 2018"
+      ]
+    },
+    {
+      "id": "takayuki-todo--seer",
+      "creator_ids": [
+        "takayuki-todo"
+      ],
+      "title": "SEER: Simulative Emotional Expression Robot",
+      "year": 2018,
+      "field": "bodies",
+      "sub": "androids",
+      "also": [
+        "perception"
+      ],
+      "machines": [
+        "humanoid",
+        "vision-system"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "machine-seeing"
+      ],
+      "kind": "artwork",
+      "description": "A small, stylised humanoid head that tracks the viewer's gaze and mirrors their facial expression with subtle eye, eyelid and eyebrow movements.",
+      "description_zh": "一个小巧、风格化的人形头部，追踪观者的视线，并用眼球、眼睑和眉毛的细微动作模仿观者的表情。",
+      "idea_en": "Being looked back at by a machine is enough to feel that something is there.",
+      "idea_zh": "被一台机器回望，就足以让人觉得“那里有某个存在”。",
+      "method": "A camera with face and gaze tracking drives motors in the eyes and eyelids and wire-driven, flexible eyebrows; the face is deliberately not realistic.",
+      "method_zh": "带人脸与视线追踪的摄像头驱动眼球和眼睑的电机以及线驱动的柔性眉毛；面部刻意不做写实。",
+      "keywords": [
+        "gaze",
+        "facial expression",
+        "mirroring",
+        "humanoid head"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=BJZcGJSK1Z0"
+      },
+      "source_url": "https://www.takayukitodo.com/",
+      "exhibited": [
+        "Ars Electronica 2018",
+        "Laval Virtual 2019"
+      ]
+    },
+    {
+      "id": "sputniko--menstruation-machine",
+      "creator_ids": [
+        "sputniko"
+      ],
+      "title": "Menstruation Machine – Takashi's Take",
+      "year": 2010,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "also": [
+        "speculative"
+      ],
+      "machines": [
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "embodiment",
+        "classification"
+      ],
+      "kind": "speculative",
+      "description": "A metal belt-like device that simulates menstruation, with blood release and lower-abdomen pain, shown in a pop music video about a boy who wears it to experience what his friend goes through.",
+      "description_zh": "一个金属腰带状装置，模拟月经的出血和下腹疼痛；配套的流行音乐录像讲述一个男孩戴上它，去体验女性朋友的经历。",
+      "idea_en": "A machine on the body can make a gendered experience transferable, and so open to discussion.",
+      "idea_zh": "戴在身上的机器可以让一种性别化的经验被转移，从而可以被讨论。",
+      "method": "A blood-dispensing mechanism and electrodes that stimulate the lower abdomen, operated on a 28-day cycle; presented with a music video and costume.",
+      "method_zh": "释放“经血”的机构与刺激下腹的电极，按 28 天周期运行；以音乐录像和服装一起展出。",
+      "keywords": [
+        "speculative design",
+        "gender",
+        "menstruation",
+        "wearable",
+        "Royal College of Art"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=gnb-rdGbm6s"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sputniko.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Sputniko!",
+      "exhibited": [
+        "ZKM Karlsruhe"
+      ]
+    },
+    {
+      "id": "daito-manabe--electric-stimulus-to-face",
+      "creator_ids": [
+        "daito-manabe"
+      ],
+      "title": "Electric Stimulus to Face",
+      "year": 2008,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "Electrodes on faces receive electrical pulses synchronised to music, so the performers' facial muscles twitch into expressions they are not making.",
+      "description_zh": "贴在脸上的电极接收与音乐同步的电脉冲，表演者的面部肌肉抽动出并非他们自己做出的表情。",
+      "idea_en": "When a computer drives the face, expression is separated from feeling.",
+      "idea_zh": "当计算机驱动面孔，表情就与感受分离了。",
+      "method": "A computer sends sequenced electrical muscle stimulation (EMS) through surface electrodes, timed to a soundtrack; later versions read one face's myoelectric signal to drive another.",
+      "method_zh": "计算机通过表面电极发送按序列编排的肌肉电刺激（EMS），与配乐同步；后来的版本读取一张脸的肌电信号来驱动另一张脸。",
+      "keywords": [
+        "EMS",
+        "face",
+        "electrical muscle stimulation",
+        "body as interface"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tJ4_-2_oWuM"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Daito_Manabe"
+    },
+    {
+      "id": "rhizomatiks--24-drones",
+      "creator_ids": [
+        "rhizomatiks",
+        "elevenplay",
+        "daito-manabe"
+      ],
+      "title": "24 drones",
+      "year": 2016,
+      "field": "coperformance",
+      "sub": "dance",
+      "machines": [
+        "vehicle-drone"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "Five dancers perform with a swarm of 24 small drones that move in formation around and between them, turning the drones into a corps de ballet.",
+      "description_zh": "五位舞者与 24 架小型无人机同台，无人机在舞者周围与之间编队飞行，成为群舞的一部分。",
+      "idea_en": "Choreography can include machine bodies whose precision exposes the dancers' own timing.",
+      "idea_zh": "编舞可以包括机器身体，而它们的精确反过来暴露了舞者自身的节奏。",
+      "method": "Indoor motion capture tracks drones and dancers; flight paths are pre-simulated in software and synchronised to music and light.",
+      "method_zh": "室内动作捕捉系统追踪无人机与舞者；飞行轨迹在软件中预先模拟，并与音乐和灯光同步。",
+      "keywords": [
+        "drones",
+        "swarm",
+        "choreography",
+        "motion capture",
+        "MIKIKO"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=SPcZmDTW8KU"
+      },
+      "images": [
+        "https://research.rhizomatiks.com/s/works/24drones/img/drone_00.png"
+      ],
+      "source_url": "https://research.rhizomatiks.com/s/works/24drones/en/"
+    },
+    {
+      "id": "rhizomatiks--discrete-figures",
+      "creator_ids": [
+        "rhizomatiks",
+        "elevenplay",
+        "daito-manabe"
+      ],
+      "title": "discrete figures",
+      "year": 2018,
+      "field": "coperformance",
+      "sub": "dance",
+      "also": [
+        "perception"
+      ],
+      "machines": [
+        "vision-system",
+        "generative-latent",
+        "vehicle-drone"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "A stage work in which dancers perform with machine-generated 'dancers': a model trained on their motion creates new movement, shown as projected figures and on drones carrying screens.",
+      "description_zh": "一部舞台作品：舞者与机器生成的“舞者”同台，用他们的动作训练的模型生成新动作，以投影人形和携带屏幕的无人机呈现。",
+      "idea_en": "A dancer meeting a model of their own movement sees how a machine abstracts a body.",
+      "idea_zh": "舞者面对由自己动作训练出的模型，看见机器如何抽象一个身体。",
+      "method": "Motion-capture data from ELEVENPLAY dancers trained generative models; real-time tracking aligns projections and drones with the performers; made with Kyle McDonald.",
+      "method_zh": "用 ELEVENPLAY 舞者的动作捕捉数据训练生成模型；实时追踪让投影与无人机和表演者对齐；与 Kyle McDonald 合作。",
+      "keywords": [
+        "machine learning",
+        "motion capture",
+        "dance",
+        "Kyle McDonald",
+        "Spiral Hall"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=hauXQQhwbgM"
+      },
+      "images": [
+        "https://research.rhizomatiks.com/s/works/discrete_figures/images/video_image.jpg"
+      ],
+      "source_url": "https://research.rhizomatiks.com/s/works/discrete_figures/en/",
+      "exhibited": [
+        "Spiral Hall, Tokyo 2018",
+        "Gray Area, San Francisco"
+      ]
+    },
+    {
+      "id": "daito-manabe--brain-processing-unit",
+      "creator_ids": [
+        "daito-manabe"
+      ],
+      "title": "Brain Processing Unit",
+      "year": 2025,
+      "field": "bodies",
+      "sub": "soft-living",
+      "machines": [
+        "cybernetic-alife",
+        "infrastructure"
+      ],
+      "lenses": [
+        "machine-umwelt",
+        "opacity-latent"
+      ],
+      "kind": "artwork",
+      "description": "An exhibition of research with SoftBank and the University of Tokyo into using cultured human brain organoids as a computing unit, including works that stimulate organoids and sonify and visualise their activity.",
+      "description_zh": "与软银和东京大学合作的研究展：尝试把培养的人脑类器官当作计算单元，作品刺激类器官，并把它们的活动转成声音与影像。",
+      "idea_en": "When living neural tissue becomes a processor, the line between organism and machine becomes a design question.",
+      "idea_zh": "当活的神经组织成为处理器，生物与机器的界线就成了一个设计问题。",
+      "method": "iPS-cell cerebral organoids on multi-electrode arrays receive electrical and optogenetic stimulation; their spiking data is analysed and turned into sound and image.",
+      "method_zh": "iPS 细胞来源的大脑类器官放置在多电极阵列上，接受电刺激和光遗传刺激；其放电数据被分析并转化为声音与图像。",
+      "keywords": [
+        "organoid",
+        "biocomputing",
+        "SoftBank",
+        "University of Tokyo",
+        "BPU"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=j1DQeLLMf0I"
+      },
+      "images": [
+        "https://projects.daito.ws/selected-works/brain-processing-unit/assets/en/hero-1.jpg"
+      ],
+      "source_url": "https://projects.daito.ws/selected-works/brain-processing-unit/en/",
+      "collections": [
+        "starts-prize"
+      ],
+      "exhibited": [
+        "fil, Ebisu, Tokyo 2025",
+        "S+T+ARTS Prize 2025, Honorary Mention"
+      ]
+    },
+    {
+      "id": "ory-laboratory--avatar-robot-cafe",
+      "creator_ids": [
+        "ory-laboratory"
+      ],
+      "title": "Avatar Robot Café DAWN ver.β",
+      "year": 2018,
+      "field": "coperformance",
+      "sub": "telepresence",
+      "also": [
+        "labour"
+      ],
+      "machines": [
+        "social-robot"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "embodiment",
+        "intimacy-care"
+      ],
+      "kind": "prototype",
+      "description": "A café in Tokyo where the waiters are OriHime robots operated from home by people with ALS and other conditions that keep them from going out.",
+      "description_zh": "东京的一家咖啡馆，服务员是 OriHime 机器人，由因渐冻症等原因无法出门的人在家中远程操作。",
+      "idea_en": "A robot body can give work and social presence back to people whose own bodies keep them home.",
+      "idea_zh": "机器人身体可以把工作与社会存在还给那些被自己的身体困在家中的人。",
+      "method": "Tablet and eye-gaze interfaces control the 1.2 m OriHime-D and desktop OriHime robots over the internet; pilots began in 2018 and a permanent café opened in Nihonbashi in 2021.",
+      "method_zh": "平板和眼动界面通过互联网控制 1.2 米高的 OriHime-D 与桌面型 OriHime；2018 年开始试点，2021 年在日本桥开设常设店。",
+      "keywords": [
+        "OriHime",
+        "ALS",
+        "avatar robot",
+        "remote work",
+        "Kentaro Yoshifuji"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tKzCZ_yP4-Y"
+      },
+      "images": [
+        "https://dawn2021.orylab.com/assets/images/common/ogp2.jpg"
+      ],
+      "source_url": "https://dawn2021.orylab.com/en/"
+    },
+    {
+      "id": "seiko-mikami--desire-of-codes",
+      "creator_ids": [
+        "seiko-mikami"
+      ],
+      "title": "Desire of Codes",
+      "year": 2010,
+      "field": "perception",
+      "sub": "seeing",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "vision-system",
+        "robot-arm",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "classification"
+      ],
+      "kind": "artwork",
+      "description": "A wall of 90 small sensor units that turn towards visitors like insects, six ceiling-hung robotic arms with cameras and projectors that follow them, and a compound-eye screen mixing their images with other surveillance footage.",
+      "description_zh": "一面由 90 个小型感应单元组成的墙像昆虫一样转向观众，六条悬挂的带摄像头和投影仪的机械臂追踪他们，一块复眼屏幕把他们的影像与其他监控画面混在一起。",
+      "idea_en": "Being watched by machines that seem to want something turns surveillance into an encounter with another species.",
+      "idea_zh": "被似乎“有所欲求”的机器注视，让监控变成与另一种物种的相遇。",
+      "method": "Infrared and camera tracking steer motorised wall units and robotic search arms; captured footage is stored as a database and replayed with past visitors' images.",
+      "method_zh": "红外与摄像追踪驱动墙面的电动单元和机械“搜索臂”；拍下的影像存入数据库，并与过去观众的影像一起重放。",
+      "keywords": [
+        "surveillance",
+        "robotic arms",
+        "YCAM",
+        "compound eye",
+        "database"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5PKT44tU658"
+      },
+      "images": [
+        "https://www.ycam.jp/asset/image/_resize/large/archive/works_desire-of-codes_1__MG_9047@2x.jpg?s=1725165"
+      ],
+      "source_url": "https://www.ycam.jp/en/archive/works/desire-of-codes/",
+      "exhibited": [
+        "YCAM, Yamaguchi 2010",
+        "NTT ICC, Tokyo 2011"
+      ]
+    },
+    {
+      "id": "seiko-mikami--molecular-informatics",
+      "creator_ids": [
+        "seiko-mikami"
+      ],
+      "title": "Molecular Informatics",
+      "year": 1996,
+      "field": "perception",
+      "sub": "seeing",
+      "machines": [
+        "vision-system",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "A VR installation in which a headset tracks the visitor's eye movements and turns every glance into growing molecular structures, so looking itself becomes something visible and shared with a second viewer.",
+      "description_zh": "一件 VR 装置：头戴设备追踪观众的眼球运动，把每一次注视变成不断生长的分子结构，让“看”本身成为可见之物，并与另一位观众共享。",
+      "idea_en": "Eye tracking turns an unconscious act of looking into data the viewer can see.",
+      "idea_zh": "眼动追踪把无意识的“看”变成观者自己能看见的数据。",
+      "method": "Head-mounted display with an eye tracker; gaze coordinates generate 3D molecule-like forms in real time; first shown at Canon ARTLAB, Tokyo.",
+      "method_zh": "带眼动仪的头戴显示器；注视坐标实时生成类似分子的三维形态；首次在东京 Canon ARTLAB 展出。",
+      "keywords": [
+        "eye tracking",
+        "VR",
+        "gaze",
+        "Canon ARTLAB",
+        "DEAF96"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=vasyoHyklL8"
+      },
+      "images": [
+        "https://www.ntticc.or.jp/uploads/assets/001/6401b.1066.large.jpg"
+      ],
+      "source_url": "https://www.ntticc.or.jp/en/archive/participants/mikami-seiko/",
+      "exhibited": [
+        "Canon ARTLAB, Tokyo 1996",
+        "DEAF96, V2_ Rotterdam",
+        "NTT ICC 2011 (Eye-Tracking Informatics)"
+      ]
+    },
+    {
+      "id": "kazuhiko-hachiya--inter-dis-communication-machine",
+      "creator_ids": [
+        "kazuhiko-hachiya"
+      ],
+      "title": "Inter Dis-Communication Machine",
+      "year": 1993,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "also": [
+        "perception"
+      ],
+      "machines": [
+        "prosthesis-cyborg",
+        "vision-system"
+      ],
+      "lenses": [
+        "embodiment",
+        "machine-seeing"
+      ],
+      "kind": "artwork",
+      "description": "Two people wear head-mounted displays and winged costumes; each sees and hears only what the other's camera and microphone pick up, so they must move while inside each other's perception.",
+      "description_zh": "两个人戴上头戴显示器、穿上带翅膀的服装；每个人只能看到、听到对方的摄像头和麦克风所捕捉的内容，只能在彼此的感知里行动。",
+      "idea_en": "Swapping senses through a machine shows how much the self depends on its own point of view.",
+      "idea_zh": "通过机器交换感官，显示出“自我”有多依赖自己的视角。",
+      "method": "Wireless video cameras and microphones on each wearer transmit to the other's head-mounted display and headphones.",
+      "method_zh": "每位佩戴者身上的无线摄像头与麦克风，把画面和声音传到对方的头戴显示器和耳机。",
+      "keywords": [
+        "HMD",
+        "perspective swap",
+        "telepresence",
+        "wearable",
+        "NTT ICC"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JOzVzcmK0VU"
+      },
+      "images": [
+        "https://www.ntticc.or.jp/uploads/assets/000/63850.936.large.jpg"
+      ],
+      "source_url": "https://www.ntticc.or.jp/en/archive/works/inter-dis-communication-machine/"
+    },
+    {
+      "id": "susumu-tachi--telexistence",
+      "creator_ids": [
+        "susumu-tachi"
+      ],
+      "title": "Telexistence (TELESAR)",
+      "year": 1980,
+      "field": "coperformance",
+      "sub": "telepresence",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "humanoid",
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "embodiment",
+        "machine-umwelt"
+      ],
+      "kind": "prototype",
+      "description": "Tachi's concept and robot series in which an operator wearing a head-mounted display and haptic suit sees, hears and feels through a remote humanoid robot as if present in its body; TELESAR V (2011) adds fine touch.",
+      "description_zh": "馆暲提出的概念及其机器人系列：操作者戴上头戴显示器和触觉装置，通过远方的人形机器人去看、听和感受，仿佛身处它的身体中；2011 年的 TELESAR V 加入了精细触觉。",
+      "idea_en": "A robot can be designed not as another agent but as a second body the human inhabits.",
+      "idea_zh": "机器人可以不被设计成另一个主体，而是人所“住进”的第二个身体。",
+      "method": "Stereo cameras on the robot head follow the operator's head motion; master-slave arms and hands transmit force, vibration and temperature back to the operator.",
+      "method_zh": "机器人头部的立体摄像头跟随操作者的头部运动；主从式手臂与手把力、振动和温度反馈给操作者。",
+      "keywords": [
+        "telexistence",
+        "TELESAR",
+        "haptics",
+        "master-slave",
+        "VR"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5j_hdDzgGvc"
+      },
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Telesar%E2%85%A4%2C_telexistence_robot_by_Susumu_Tachi_Laboratory%2C_exhibited_at_Miraikan_%282015-06-15_03.58.07_by_Franklin_Heijnen%29.jpg/1280px-Telesar%E2%85%A4%2C_telexistence_robot_by_Susumu_Tachi_Laboratory%2C_exhibited_at_Miraikan_%282015-06-15_03.58.07_by_Franklin_Heijnen%29.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1109/MCG.2016.6",
+        "doi": "10.1109/MCG.2016.6",
+        "venue": "IEEE Computer Graphics and Applications, 2016",
+        "title": "Telexistence: Enabling Humans to Be Virtually Ubiquitous"
+      },
+      "source_url": "https://tachilab.org/en/about/telexistence.html"
+    },
+    {
+      "id": "osamu-tezuka--astro-boy",
+      "creator_ids": [
+        "osamu-tezuka"
+      ],
+      "title": "Astro Boy (Tetsuwan Atom)",
+      "year": 1952,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "also": [
+        "interiority"
+      ],
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "publication",
+      "description": "A manga about a robot boy built by a grieving scientist to replace his dead son, then rejected by him; Atom lives among humans and fights for robots' rights under a 'Robot Law'.",
+      "description_zh": "一部漫画：一位丧子的科学家造出机器人男孩来代替死去的儿子，随后又抛弃了他；阿童木在人类中生活，并在“机器人法”下为机器人的权利而战。",
+      "idea_en": "The robot as a feeling child with rights shaped how East Asia imagines living with machines.",
+      "idea_zh": "把机器人想象成有情感、有权利的孩子，塑造了东亚与机器共处的想象。",
+      "method": "Serialised in Kobunsha's Shōnen magazine from 1952 to 1968; adapted as Japan's first TV anime series in 1963.",
+      "method_zh": "1952 至 1968 年在光文社《少年》杂志连载；1963 年改编为日本第一部电视动画连续剧。",
+      "keywords": [
+        "Astro Boy",
+        "鉄腕アトム",
+        "robot rights",
+        "manga",
+        "anime"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=d3UbaB7oPTw"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/a/a6/Astro_Boy-08.jpg"
+      ],
+      "paper": {
+        "url": "https://en.wikipedia.org/wiki/Astro_Boy",
+        "venue": "Shōnen (Kobunsha), 1952–1968",
+        "title": "Tetsuwan Atom (Astro Boy)"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Astro_Boy"
+    },
+    {
+      "id": "mamoru-oshii--ghost-in-the-shell",
+      "creator_ids": [
+        "mamoru-oshii"
+      ],
+      "title": "Ghost in the Shell",
+      "year": 1995,
+      "field": "interiority",
+      "sub": "minds",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "prosthesis-cyborg",
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation",
+        "alterity-uncanny"
+      ],
+      "kind": "film",
+      "description": "An animated film in which a cyborg agent with a fully prosthetic body hunts a hacker, the Puppet Master, who turns out to be a program that has become self-aware and asks for asylum as a living being.",
+      "description_zh": "一部动画电影：全身义体化的赛博格特工追捕黑客“傀儡师”，后者原来是一个获得自我意识的程序，并以生命体身份请求政治庇护。",
+      "idea_en": "If memory and body can both be made, what is left that makes a self?",
+      "idea_zh": "如果记忆和身体都可以制造，那么构成“自我”的还剩下什么？",
+      "method": "Hand-drawn and digital animation by Production I.G, adapted from Masamune Shirow's 1989 manga; the 'ghost' names the self that persists in a manufactured 'shell'.",
+      "method_zh": "Production I.G 以手绘与数字技术制作，改编自士郎正宗 1989 年的漫画；“ghost”指存在于人造“shell”中的自我。",
+      "keywords": [
+        "cyborg",
+        "Puppet Master",
+        "Motoko Kusanagi",
+        "Masamune Shirow",
+        "anime"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=R1K__7QhLaA"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/c/ca/Ghostintheshellposter.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)"
+    },
+    {
+      "id": "yasuhiro-yoshiura--time-of-eve",
+      "creator_ids": [
+        "yasuhiro-yoshiura"
+      ],
+      "title": "Time of Eve",
+      "year": 2008,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "also": [
+        "intimacy"
+      ],
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "film",
+      "description": "An anime set in a near future where household androids are common, about a café whose one rule is that humans and androids must not be told apart.",
+      "description_zh": "一部动画，设定在家用仿真人普及的近未来：故事发生在一家咖啡馆，那里唯一的规则是不得区分人类与机器人。",
+      "idea_en": "Ethics towards machines is tested less in law than in small everyday habits of treating them as things.",
+      "idea_zh": "对机器的伦理与其说在法律中，不如说在把它们当物件对待的日常小习惯中受到考验。",
+      "method": "Six web episodes (2008–09) and a feature film (2010); the story plays with Asimov's three laws inside Japanese domestic life.",
+      "method_zh": "六集网络动画（2008–09）与一部剧场版（2010）；故事在日本家庭生活中重新演绎阿西莫夫的机器人三定律。",
+      "keywords": [
+        "android",
+        "anime",
+        "Three Laws",
+        "café",
+        "robot ethics"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5CrNNs-37As"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/f/fa/Ivu_no_Jikan_poster.jpeg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Time_of_Eve"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Tatsuo Miyajima — Counter Void (2003)",
+      "why": "LED counters and Buddhist cycles of time; dropped here because the machine reflection is weak.",
+      "link": "https://en.wikipedia.org/wiki/Tatsuo_Miyajima",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Henn na Hotel — robot hotel that 'fired' half its robots (2019)",
+      "why": "Documented case of robot labour failing in service work; no stable primary page found.",
+      "link": "https://www.youtube.com/watch?v=FogiE8_3fPE",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Honda ASIMO (2000)",
+      "why": "Landmark corporate humanoid; national-spectacle lineage. Left out as a product without reflective framing.",
+      "link": "https://en.wikipedia.org/wiki/ASIMO",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Kazuhiko Hachiya — PostPet (1997)",
+      "why": "Email-delivering virtual pet with moods and departures; early Japanese machine-intimacy software.",
+      "link": "https://en.wikipedia.org/wiki/PostPet",
+      "found_via": "kazuhiko-hachiya",
+      "status": "open"
+    },
+    {
+      "name": "Oriza Hirata — The Metamorphosis, Android Version (2014)",
+      "why": "Kafka adapted with android Repliee S1; Hirata's fourth robot play.",
+      "link": "https://thetheatretimes.com/the-gaze-of-the-robot/",
+      "found_via": "oriza-hirata",
+      "status": "open"
+    },
+    {
+      "name": "So Kanno — Mechanical Voices Project / Chirping Machines",
+      "why": "Newer machine-sound works by So Kanno; check years and machine relevance.",
+      "link": "https://www.kanno.so/",
+      "found_via": "so-kanno",
+      "status": "open"
+    },
+    {
+      "name": "Kenji Yanobe — Ship's Cat, Giant Torayan",
+      "why": "Post-Fukushima machine bodies and survival suits; check machine-reflective works.",
+      "link": "https://en.wikipedia.org/wiki/Kenji_Yanobe",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "exonemo — The Kiss (2019)",
+      "why": "Screens as bodies; net-art duo's reflection on mediated intimacy.",
+      "link": "https://exonemo.com/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Yoichi Ochiai — Digital Nature (計算機自然)",
+      "why": "Japanese theory of computation as nature; possible theory entry.",
+      "link": "https://en.wikipedia.org/wiki/Yoichi_Ochiai",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Minoru Asada / Hisashi Ishihara — Affetto child android (2011)",
+      "why": "Uncanny infant android for cognitive developmental robotics.",
+      "link": "https://en.wikipedia.org/wiki/Minoru_Asada",
+      "found_via": "hiroshi-ishiguro",
+      "status": "open"
+    },
+    {
+      "name": "Keiichiro Shibuya — Super Angels (2021)",
+      "why": "Android opera at New National Theatre Tokyo with Alter 3 and children's choir.",
+      "link": "https://atak.jp/",
+      "found_via": "keiichiro-shibuya",
+      "status": "open"
+    },
+    {
+      "name": "Masahiko Inami — Jizai Arms (2022)",
+      "why": "Detachable robotic arms as a cyborg-body research platform.",
+      "link": "https://en.wikipedia.org/wiki/Masahiko_Inami",
+      "found_via": "susumu-tachi",
+      "status": "open"
+    },
+    {
+      "name": "Seiko Mikami — World, Membrane and the Dismembered Body (1997)",
+      "why": "Anechoic-room work sonifying the visitor's body; ICC collection. Machine relevance moderate.",
+      "link": "https://www.ntticc.or.jp/en/archive/works/world-membrane-and-the-dismembered-body/",
+      "found_via": "seiko-mikami",
+      "status": "open"
+    }
+  ]
+}
