@@ -313,6 +313,25 @@ def load_labels(folder: Path, allowed: set, what: str) -> dict:
     return out
 
 
+WORK_DETAIL = ("description", "description_zh", "method", "method_zh", "keywords", "exhibited", "source_url", "code_url")
+CREATOR_CORE = ("id", "name", "name_zh", "kind", "disciplines", "work_count")
+
+
+def split_for_web(data: dict, stamp: str) -> tuple[dict, dict]:
+    """Split the dataset for the site: a light core for the first paint (cards, filters, atlas) and a detail file
+    (long texts, full creator records, organizations) that the page loads in the background."""
+    works_core, works_detail = [], {}
+    for w in data["works"]:
+        works_core.append({k: v for k, v in w.items() if k not in WORK_DETAIL})
+        extra = {k: w[k] for k in WORK_DETAIL if w.get(k)}
+        if extra:
+            works_detail[w["id"]] = extra
+    creators_core = [{k: c[k] for k in CREATOR_CORE if c.get(k)} for c in data["creators"]]
+    core = {"generated": data["generated"], "v": stamp, "taxonomy": data["taxonomy"], "creators": creators_core, "works": works_core}
+    detail = {"works": works_detail, "creators": data["creators"], "orgs": data["orgs"]}
+    return core, detail
+
+
 def load_titles_zh(folder: Path, work_ids: set) -> dict:
     """Merge Chinese titles ({work_id: "中文标题"} or {work_id: {"zh": ...}}); later files win."""
     out: dict = {}
@@ -410,7 +429,10 @@ def main() -> None:
     if removed:
         logger.warning("works REMOVED since the last build (%d): %s", len(removed), removed[:20])
     (d / "entries.json").write_text(json.dumps(data, indent=1, ensure_ascii=False))
-    (d / "entries.js").write_text("window.MRI = " + json.dumps(data, ensure_ascii=False) + ";\n")
+    stamp = str(int(time.time()))
+    core, detail = split_for_web(data, stamp)
+    (d / "entries.js").write_text("window.MRI = " + json.dumps(core, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    (d / "entries-detail.js").write_text("window.MRI_DETAIL = " + json.dumps(detail, ensure_ascii=False, separators=(",", ":")) + ";\n")
     (d / "leads.json").write_text(json.dumps(open_leads, indent=1, ensure_ascii=False))
     (d / "leads_checked.json").write_text(json.dumps(checked_leads, indent=1, ensure_ascii=False))
     (d / "dropped.json").write_text(json.dumps({"works": dropped, "media": problems,
@@ -423,7 +445,6 @@ def main() -> None:
     (ROOT / "llms.txt").write_text(llms_txt(data))
     index = ROOT / "index.html"
     if index.exists():
-        stamp = str(int(time.time()))
         index.write_text(re.sub(r'(assets/(?:app|i18n|export)\.(?:js|css)|data/entries\.js)(\?v=\d+)?"', rf'\1?v={stamp}"', index.read_text()))
     by_field = {f: sum(w["field"] == f for w in kept) for f in subs}
     logger.info("organizations: %d (%d with image)", len(orgs), sum(bool(o.get("image")) for o in orgs))

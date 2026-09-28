@@ -1,4 +1,5 @@
-/* Machinic Reality Inspire — gallery app. Data: data/entries.js (window.MRI). Strings: assets/i18n.js. */
+/* Machinic Reality Inspire — gallery app. Data: data/entries.js (window.MRI, light core) + data/entries-detail.js
+   (window.MRI_DETAIL: long texts, creators, organizations; loaded after the first paint). Strings: assets/i18n.js. */
 (() => {
   "use strict";
 
@@ -11,7 +12,7 @@
   const APPS = TAX.lenses || [];
   const DISCS = TAX.disciplines || [];
   const ERAS = [["1999", 0, 1999, "≤1999"], ["2000", 2000, 2009, "2000–09"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
-  const ORGS = DATA.orgs || [];
+  let ORGS = DATA.orgs || [];
   const OTYPES = TAX.org_types || [];
   const OTHEMES = TAX.org_themes || [];
   const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
@@ -20,6 +21,31 @@
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
   const worksById = Object.fromEntries(DATA.works.map((w) => [w.id, w]));
   const fieldById = Object.fromEntries(FIELDS.map((f) => [f.id, f]));
+
+  /* ---------- detail data: long texts, full creator records, organizations (second file, loaded in the background) ---------- */
+  let detailReady = !!DATA.orgs;   // a full single-file dataset needs no second request
+  let detailPromise = null;
+  const hayCache = new Map();
+  function ensureDetail() {
+    if (detailReady) return Promise.resolve();
+    if (!detailPromise) detailPromise = new Promise((resolve) => {
+      const el = document.createElement("script");
+      el.src = `data/entries-detail.js?v=${DATA.v || ""}`;
+      el.onload = () => {
+        const D = window.MRI_DETAIL || { works: {}, creators: [], orgs: [] };
+        Object.entries(D.works || {}).forEach(([id, x]) => { if (worksById[id]) Object.assign(worksById[id], x); });
+        (D.creators || []).forEach((c) => { if (creatorsById[c.id]) Object.assign(creatorsById[c.id], c); });
+        ORGS = D.orgs || [];
+        detailReady = true;
+        hayCache.clear();
+        resolve();
+      };
+      el.onerror = () => { detailPromise = null; resolve(); };
+      document.head.appendChild(el);
+    });
+    return detailPromise;
+  }
+  const loadingNote = () => `<p class="count mono loading">${esc(S().loading)}</p>`;
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
@@ -87,6 +113,11 @@
   const creatorNames = (w) => w.creator_ids.map((id) => (zh() && creatorsById[id]?.name_zh) || creatorsById[id]?.name || id);
   const inField = (w, f) => w.field === f || (w.also || []).includes(f);
   function haystack(w) {
+    const key = lang + "|" + w.id;
+    if (!hayCache.has(key)) hayCache.set(key, buildHaystack(w));
+    return hayCache.get(key);
+  }
+  function buildHaystack(w) {
     return [w.title, w.title_zh, w.description, w.description_zh, w.idea_en, w.idea_zh, w.method, w.method_zh, w.paper?.venue, ...(w.keywords || []),
       ...(w.machines || []).map((o) => pair(TAX.machines, o)), ...creatorNames(w), ...w.creator_ids.map((id) => creatorsById[id]?.name_zh || ""), w.year].join(" ").toLowerCase();
   }
@@ -120,9 +151,16 @@
   const ttl = (w) => (zh() && w.title_zh) || w.title;                       // title in the current language
   const ttlOrig = (w) => (zh() && w.title_zh && w.title_zh !== w.title ? w.title : "");   // original title under a Chinese one
   const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(ttl(w))}</span></div>`;
+  // card-sized variants of large posters (the full size stays in the work viewer); falls back to the original on error
+  const small = (u) => u
+    .replace(/(i\.ytimg\.com\/vi\/[^/]+\/)maxresdefault\.jpg$/, "$1hqdefault.jpg")
+    .replace(/(i\.vimeocdn\.com\/video\/[^?]+-d)(\?|$)/, "$1_640$2")
+    .replace(/^(https:\/\/images\.squarespace-cdn\.com\/[^?]+)$/, "$1?format=750w");
+  const THUMB_ERR = "if(this.dataset.full){this.src=this.dataset.full;this.removeAttribute('data-full')}else{this.outerHTML=this.dataset.ph}";
   function thumb(w) {
     const p = poster(w);
-    if (p) return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p)}" alt="" onerror="this.outerHTML=this.dataset.ph" data-ph="${esc(paperPh(w))}">`;
+    if (p) { const s = small(p);
+      return `<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${esc(s)}"${s !== p ? ` data-full="${esc(p)}"` : ""} alt="" onerror="${THUMB_ERR}" data-ph="${esc(paperPh(w))}">`; }
     if (w.video?.platform === "mp4") return `<video muted playsinline preload="none" data-src="${esc(w.video.url)}#t=0.8"></video>`;
     return paperPh(w);
   }
@@ -164,6 +202,32 @@
     $("#generated").textContent = DATA.generated ? S().updated(DATA.generated) : "";
     $("#empty").textContent = S().empty;
   }
+  /* ---------- progressive lists: first batch now, more as the reader nears the end (keeps phones responsive) ---------- */
+  const NEAR = 1400;
+  const moreIO = "IntersectionObserver" in window ? new IntersectionObserver((entries) => {
+    entries.forEach((e) => { if (e.isIntersecting && e.target._more) e.target._more(); });
+  }, { rootMargin: `${NEAR}px 0px` }) : null;
+  function fillProgressive(el, items, html, first = 24, step = 36) {
+    if (el._sentinel) { moreIO?.unobserve(el._sentinel); el._sentinel.remove(); el._sentinel = null; }
+    el.innerHTML = "";
+    let i = 0;
+    const sentinel = document.createElement("div");
+    sentinel.className = "more-sentinel";
+    sentinel.setAttribute("aria-hidden", "true");
+    const add = (n) => {
+      if (!el.isConnected) return;
+      const chunk = items.slice(i, i + n);
+      i += chunk.length;
+      el.insertAdjacentHTML("beforeend", chunk.map(html).join(""));
+      lazyVideos();
+      if (i >= items.length) { moreIO?.unobserve(sentinel); sentinel.remove(); el._sentinel = null; return; }
+      requestAnimationFrame(() => { if (sentinel.isConnected && sentinel.getBoundingClientRect().top < innerHeight + NEAR) add(step); });
+    };
+    sentinel._more = () => add(step);
+    if (items.length > first) { el.after(sentinel); el._sentinel = sentinel; }
+    add(first);
+    if (el._sentinel) { if (moreIO) moreIO.observe(sentinel); else add(items.length); }
+  }
   function chipRow(label, items, cur, attr, skip) {
     const base = DATA.works.filter((w) => matches(w, skip));
     return `<div class="chiprow"><span class="chiprow__label mono">${esc(label)}</span><div class="chips">${items.map(([k, text, test]) => {
@@ -201,6 +265,7 @@
   const pairName = (list, k) => { const r = list.find((x) => x[0] === k); return r ? (zh() ? r[2] : r[1]) : k; };
   function renderOrgs() {
     currentList = [];
+    if (!detailReady) { $("#orgHead").innerHTML = loadingNote(); $("#orgList").innerHTML = ""; ensureDetail().then(() => state.view === "orgs" && render()); return 1; }
     const q = state.oq.toLowerCase();
     const hit = (o, skip) => (skip === "t" || !state.otype || o.type === state.otype) && (skip === "h" || !state.otheme || (o.themes || []).includes(state.otheme)) &&
       (!q || [o.name, o.name_zh, o.description, o.description_zh, o.based, ...(o.people || []), ...(o.known_for || [])].join(" ").toLowerCase().includes(q));
@@ -227,7 +292,8 @@
           ${nWorks ? `<button class="org__works mono" data-creator="${esc(o.creator_id)}">${esc(S().org_works(nWorks))}</button>` : ""}</div></article>`;
     };
     $("#orgList").innerHTML = OTYPES.map(([k]) => { const g = shown.filter((o) => o.type === k); return g.length ? `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(pairName(OTYPES, k))}</h3><span class="scat__n mono">${g.length}</span></div>
-      <p class="scat__desc">${esc((OTYPES.find((x) => x[0] === k) || [])[zh() ? 4 : 3] || "")}</p><div class="orgs">${g.map(card).join("")}</div></section>` : ""; }).join("");
+      <p class="scat__desc">${esc((OTYPES.find((x) => x[0] === k) || [])[zh() ? 4 : 3] || "")}</p><div class="orgs" data-otype="${esc(k)}"></div></section>` : ""; }).join("");
+    document.querySelectorAll("#orgList .orgs[data-otype]").forEach((g, i) => fillProgressive(g, shown.filter((o) => o.type === g.dataset.otype), card, i === 0 ? 12 : 6, 24));
     const inp = $("#oq");
     inp.addEventListener("input", (e) => { clearTimeout(renderOrgs.t); renderOrgs.t = setTimeout(() => { state.oq = e.target.value.trim(); render(); const i = $("#oq"); i.focus(); i.setSelectionRange(i.value.length, i.value.length); }, 200); });
     return ORGS.length;
@@ -267,20 +333,23 @@
         <p class="starred__lede">${esc(zh() ? f.desc_zh : f.desc_en)}</p><p class="count mono">${esc(S().field_count(primary.length, also.length))}</p></div>
       <div class="chips scat-chips">${chip("", S().all_cats, primary.length + also.length)}${cats.map((c) => { const n = listOf(c.id).length; return n ? chip(c.id, nm(c), n) : ""; }).join("")}</div>`;
     const section = (c) => { const ws = listOf(c.id); return ws.length ? `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(nm(c))}</h3><span class="scat__n mono">${ws.length}</span></div>
-        <p class="scat__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</p><div class="grid">${ws.map(card).join("")}</div></section>` : ""; };
+        <p class="scat__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</p><div class="grid" data-cat="${esc(c.id)}"></div></section>` : ""; };
     const shown = state.sub ? cats.filter((c) => c.id === state.sub) : cats;
     $("#fieldGrid").innerHTML = shown.map(section).join("");
+    document.querySelectorAll("#fieldGrid .grid[data-cat]").forEach((g, i) => fillProgressive(g, listOf(g.dataset.cat), card, state.sub ? 24 : (i === 0 ? 12 : 8), 24));
     currentList = shown.flatMap((c) => listOf(c.id));
     return currentList.length;
   }
   function renderWorks() {
     currentList = sorted(DATA.works.filter((w) => matches(w)));
-    $("#grid").innerHTML = currentList.map(card).join("");
+    fillProgressive($("#grid"), currentList, card, 24, 36);
+    if (state.q && !detailReady) ensureDetail().then(() => { if (state.q) render(); });
     $("#worksCount").textContent = S().n_works(currentList.length);
     return currentList.length;
   }
   function renderPapers() {
     currentList = sorted(DATA.works.filter((w) => w.paper?.url && matches(w)));
+    if (state.q && !detailReady) ensureDetail().then(() => { if (state.q) render(); });
     $("#papersHead").innerHTML = `<p class="count mono">${esc(S().papers_n(currentList.length))} · ${esc(S().papers_lede)}</p>`;
     $("#paperTable").innerHTML = currentList.length ? `<table class="papers"><thead><tr><th>${esc(S().col_year)}</th><th>${esc(S().col_title)}</th><th>${esc(S().col_venue)}</th><th>${esc(S().col_field)}</th></tr></thead><tbody>${currentList.map((w) => `
       <tr><td class="mono">${w.year || ""}</td>
@@ -290,13 +359,16 @@
     return currentList.length;
   }
   function renderCreators() {
+    if (!detailReady) { $("#creatorList").innerHTML = loadingNote(); ensureDetail().then(() => state.view === "creators" && render()); return 1; }
     const q = state.q.toLowerCase();
+    const byCreator = {};   // one pass over the works instead of one per creator
+    sorted(DATA.works.filter((w) => matches(w))).forEach((w) => w.creator_ids.forEach((id) => (byCreator[id] ||= []).push(w)));
     const rows = DATA.creators
-      .map((c) => ({ c, works: sorted(DATA.works.filter((w) => w.creator_ids.includes(c.id) && matches(w))) }))
+      .map((c) => ({ c, works: byCreator[c.id] || [] }))
       .filter(({ c, works }) => works.length || (q && [c.name, c.name_zh, c.bio, c.bio_zh, c.role].join(" ").toLowerCase().includes(q)))
       .sort((a, b) => b.works.length - a.works.length || a.c.name.localeCompare(b.c.name));
     currentList = rows.flatMap((r) => r.works);
-    $("#creatorList").innerHTML = rows.map(({ c, works }) => {
+    fillProgressive($("#creatorList"), rows, ({ c, works }) => {
       const t = TX.creator(c, lang);
       const links = Object.entries(c.links || {}).filter(([, u]) => u).map(([k, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(k)} ↗</a>`).join("");
       const conn = (c.connected_to || []).filter((id) => creatorsById[id]).map((id) => `<button data-creator="${esc(id)}">${esc(creatorsById[id].name)}</button>`).join("");
@@ -309,7 +381,7 @@
           <div class="links">${links}</div>
           ${conn ? `<div class="web">${esc(S().connected)} ${conn}</div>` : ""}
         </div><div class="strip">${works.map(card).join("")}</div></article>`;
-    }).join("");
+    }, 12, 16);
     return rows.length;
   }
   function renderStarred() {
@@ -323,7 +395,7 @@
           <button class="btn mono" data-export="list">${esc(S().export_bib)}</button>
           <button class="btn mono" data-export="copy">${esc(S().copy_md)}</button>
           <button class="btn btn--quiet mono" data-export="clear">${esc(S().clear_stars)}</button></div>` : `<p class="starred__empty">${esc(S().starred_empty)}</p>`}</div>`;
-    $("#starGrid").innerHTML = list.map(card).join("");
+    fillProgressive($("#starGrid"), list, card, 24, 36);
     return 1;
   }
 
@@ -338,7 +410,7 @@
     $("#hasVideo").setAttribute("aria-pressed", state.video);
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
-    renderChips();
+    if (FILTERED.includes(state.view)) renderChips();
     const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
@@ -377,7 +449,7 @@
     else if (m.type === "video") main = embed(w.video);
     else main = `<img class="player__img" referrerpolicy="no-referrer" src="${esc(m.url)}" alt="${esc(ttl(w))}">`;
     const strip = items.length > 1 ? `<div class="mstrip">${items.map((it, i) => `<button class="mstrip__item" data-media="${i}" aria-pressed="${i === mediaIndex}">
-        ${it.type === "video" ? (w.video.thumbnail ? `<img referrerpolicy="no-referrer" src="${esc(w.video.thumbnail)}" alt="">` : "") + '<span class="mstrip__play">▶</span>' : `<img referrerpolicy="no-referrer" src="${esc(it.url)}" alt="">`}</button>`).join("")}</div>` : "";
+        ${it.type === "video" ? (w.video.thumbnail ? `<img referrerpolicy="no-referrer" src="${esc(small(w.video.thumbnail))}" alt="">` : "") + '<span class="mstrip__play">▶</span>' : `<img referrerpolicy="no-referrer" src="${esc(it.url)}" alt="">`}</button>`).join("")}</div>` : "";
     $("#playerMedia").innerHTML = `<div class="player__main">${main}</div>${strip}`;
   }
   function openWork(id) {
@@ -393,6 +465,7 @@
     writeHash(w.id);
   }
   function fillInfo(w) {
+    if (!detailReady) ensureDetail().then(() => { if ($("#player").open && $("#player").dataset.id === w.id) fillInfo(w); });
     const t = TX.work(w, lang);
     const who = w.creator_ids.map((cid) => `<button data-creator="${esc(cid)}">${esc((zh() && creatorsById[cid]?.name_zh) || creatorsById[cid]?.name || cid)}</button>`).join("");
     const note = (label, body) => (body ? `<div class="note"><b>${esc(label)}</b><p>${esc(body)}</p></div>` : "");
@@ -455,6 +528,7 @@
   }
   let clearArmed = false;
   function doExport(kind) {
+    if (kind !== "clear" && !detailReady) { ensureDetail().then(() => doExport(kind)); return; }   // exports need the long texts
     const list = DATA.works.filter((w) => stars.has(w.id));
     const X = window.MthExport;
     if (kind === "skill") download("SKILL.md", X.skillMd(list, DATA, lang));
@@ -534,4 +608,6 @@
   const start = readHash();
   render();
   if (start.work) openWork(start.work);
+  // fetch the long texts, creators and organizations once the first screen is up
+  (window.requestIdleCallback || ((fn) => setTimeout(fn, 1200)))(() => ensureDetail(), { timeout: 4000 });
 })();
