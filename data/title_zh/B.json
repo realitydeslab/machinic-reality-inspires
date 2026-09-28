@@ -1,0 +1,894 @@
+{
+ "sarah-ciston--ai-war-cloud-database": {
+  "zh": "AI 战争云数据库",
+  "src": "translated"
+ },
+ "mimi-onuoha--ground-truths": {
+  "zh": "地面真相",
+  "src": "translated"
+ },
+ "milagros-miceli--data-workers-inquiry": {
+  "zh": "数据工人调查",
+  "src": "translated"
+ },
+ "kate-crawford--calculating-empires": {
+  "zh": "计算帝国：1500 年以来的技术与权力谱系",
+  "src": "translated"
+ },
+ "tomo-kihara--how-not-to-get-hit": {
+  "zh": "如何（不）被自动驾驶汽车撞上",
+  "src": "translated"
+ },
+ "bjorn-karmann--paragraphica": {
+  "zh": "Paragraphica",
+  "src": "keep"
+ },
+ "mimi-onuoha--these-networks-in-our-skin": {
+  "zh": "我们皮肤里的这些网络",
+  "src": "translated"
+ },
+ "nicolas-gourault--unknown-label": {
+  "zh": "未知标签",
+  "src": "translated"
+ },
+ "machine-listening--after-words": {
+  "zh": "后话",
+  "src": "translated"
+ },
+ "joana-moll--carbolytics": {
+  "zh": "Carbolytics",
+  "src": "keep"
+ },
+ "cap-able--manifesto-collection": {
+  "zh": "宣言系列",
+  "src": "translated"
+ },
+ "dries-depoorter--the-follower": {
+  "zh": "关注者",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--unlearning-language": {
+  "zh": "忘却语言",
+  "src": "translated"
+ },
+ "theo-anthony--all-light-everywhere": {
+  "zh": "光，到处都是",
+  "src": "established"
+ },
+ "libby-heaney--classes": {
+  "zh": "阶级",
+  "src": "translated"
+ },
+ "johann-diedrick--dark-matters": {
+  "zh": "暗物质",
+  "src": "translated"
+ },
+ "sarah-ciston--intersectional-ai-toolkit": {
+  "zh": "交叉性 AI 工具包",
+  "src": "translated"
+ },
+ "tega-brain--solar-protocol": {
+  "zh": "太阳能协议",
+  "src": "translated"
+ },
+ "simone-c-niquille--sorting-song": {
+  "zh": "分类之歌",
+  "src": "translated"
+ },
+ "dries-depoorter--the-flemish-scrollers": {
+  "zh": "弗拉芒刷屏者",
+  "src": "translated"
+ },
+ "stephanie-dinkins--afro-now-ism": {
+  "zh": "非洲当下主义",
+  "src": "translated"
+ },
+ "nora-al-badri--babylonian-vision": {
+  "zh": "巴比伦视觉",
+  "src": "translated"
+ },
+ "paolo-cirio--capture": {
+  "zh": "捕获",
+  "src": "translated"
+ },
+ "elisa-giardina-papa--cleaning-emotional-data": {
+  "zh": "清洗情绪数据",
+  "src": "translated"
+ },
+ "shalini-kantayya--coded-bias": {
+  "zh": "编码歧视",
+  "src": "established"
+ },
+ "kyle-mcdonald--facework": {
+  "zh": "面子功夫",
+  "src": "translated"
+ },
+ "simon-weckert--google-maps-hacks": {
+  "zh": "谷歌地图黑客",
+  "src": "translated"
+ },
+ "minne-atairu--igun": {
+  "zh": "Igùn",
+  "src": "keep"
+ },
+ "jason-edward-lewis--indigenous-protocol-and-ai": {
+  "zh": "原住民礼俗与人工智能立场文件",
+  "src": "translated"
+ },
+ "everest-pipkin--lacework": {
+  "zh": "蕾丝",
+  "src": "translated"
+ },
+ "abeba-birhane--pyrrhic-win": {
+  "zh": "大型图像数据集：计算机视觉的皮洛士式胜利？",
+  "src": "translated"
+ },
+ "machine-listening--curriculum": {
+  "zh": "机器聆听课程",
+  "src": "translated"
+ },
+ "masakhane--participatory-machine-translation": {
+  "zh": "Masakhane：非洲机器翻译的参与式研究",
+  "src": "translated"
+ },
+ "forensic-architecture--model-zoo": {
+  "zh": "模型动物园",
+  "src": "translated"
+ },
+ "vladan-joler--new-extractivism": {
+  "zh": "新攫取主义",
+  "src": "translated"
+ },
+ "rosa-menkman--pique-nique-pour-les-inconnues": {
+  "zh": "无名女子的野餐",
+  "src": "translated"
+ },
+ "allison-koenecke--racial-disparities-asr": {
+  "zh": "自动语音识别中的种族差异",
+  "src": "translated"
+ },
+ "nouf-aljowaysir--salaf": {
+  "zh": "先祖",
+  "src": "translated"
+ },
+ "kairus--suspicious-behavior": {
+  "zh": "可疑行为",
+  "src": "translated"
+ },
+ "caroline-sinders--trk": {
+  "zh": "TRK（技术上负责任的知识）",
+  "src": "translated"
+ },
+ "jake-elwes--the-zizi-show": {
+  "zh": "Zizi 秀",
+  "src": "translated"
+ },
+ "unmake-lab--utopian-extraction": {
+  "zh": "乌托邦式开采",
+  "src": "translated"
+ },
+ "nicolas-gourault--vo": {
+  "zh": "VO",
+  "src": "keep"
+ },
+ "lauren-lee-mccarthy--vibe-check": {
+  "zh": "氛围检测",
+  "src": "translated"
+ },
+ "joy-buolamwini--voicing-erasure": {
+  "zh": "为抹除发声",
+  "src": "translated"
+ },
+ "amelia-winger-bearskin--wampum-codes": {
+  "zh": "Wampum.codes",
+  "src": "keep"
+ },
+ "amy-alexander--what-the-robot-saw": {
+  "zh": "机器人所见",
+  "src": "translated"
+ },
+ "simon-denny--amazon-worker-cage": {
+  "zh": "亚马逊工人笼专利图变作虚拟金岛棕刺嘴莺笼",
+  "src": "translated"
+ },
+ "tega-brain--asunder": {
+  "zh": "分崩离析",
+  "src": "translated"
+ },
+ "rashaad-newsome--being": {
+  "zh": "Being",
+  "src": "keep"
+ },
+ "philipp-schmitt--declassifier": {
+  "zh": "解密器（AI 背后的人）",
+  "src": "translated"
+ },
+ "daito-manabe--dissonant-imaginary": {
+  "zh": "不和谐的想象",
+  "src": "translated"
+ },
+ "katja-novitskova--earthware-driverless-car-deer": {
+  "zh": "Earthware（自动驾驶汽车第一次看见鹿）",
+  "src": "translated"
+ },
+ "lisa-feldman-barrett--emotional-expressions-reconsidered": {
+  "zh": "重新审视情绪表达：从人类面部动作推断情绪的挑战",
+  "src": "translated"
+ },
+ "kate-crawford--excavating-ai": {
+  "zh": "挖掘 AI：机器学习训练集中的图像政治",
+  "src": "translated"
+ },
+ "trevor-paglen--from-apple-to-anomaly": {
+  "zh": "从“苹果”到“异常”（图片与标签）",
+  "src": "translated"
+ },
+ "simone-c-niquille--homeschool": {
+  "zh": "家庭学校",
+  "src": "translated"
+ },
+ "heather-dewey-hagborg--how-do-you-see-me": {
+  "zh": "你如何看我？",
+  "src": "translated"
+ },
+ "trevor-paglen--imagenet-roulette": {
+  "zh": "ImageNet 轮盘",
+  "src": "translated"
+ },
+ "paul-vanouse--labor": {
+  "zh": "劳动",
+  "src": "translated"
+ },
+ "adam-harvey--megapixels": {
+  "zh": "MegaPixels / Exposing.ai",
+  "src": "keep"
+ },
+ "ursula-damm--membrane": {
+  "zh": "膜",
+  "src": "translated"
+ },
+ "american-artist--my-blue-window": {
+  "zh": "我的蓝窗",
+  "src": "translated"
+ },
+ "pedro-oliveira--meaningless-texture": {
+  "zh": "论噪声看似无意义的质地",
+  "src": "translated"
+ },
+ "coding-rights--oracle-for-transfeminist-technologies": {
+  "zh": "跨女性主义技术神谕",
+  "src": "translated"
+ },
+ "karen-palmer--perception-io": {
+  "zh": "Perception iO",
+  "src": "keep"
+ },
+ "iris-long--rasa-box": {
+  "zh": "RASA-BOX",
+  "src": "keep"
+ },
+ "bruno-moreschi--recoding-art": {
+  "zh": "重新编码艺术",
+  "src": "translated"
+ },
+ "lynn-hershman-leeson--shadow-stalker": {
+  "zh": "暗影追踪者",
+  "src": "translated"
+ },
+ "bill-posters--spectre": {
+  "zh": "幽灵",
+  "src": "translated"
+ },
+ "forensic-architecture--the-battle-of-ilovaisk": {
+  "zh": "伊洛瓦伊斯克战役",
+  "src": "translated"
+ },
+ "mimi-onuoha--the-future-is-here": {
+  "zh": "未来已来！",
+  "src": "translated"
+ },
+ "joana-moll--the-hidden-life-of-an-amazon-user": {
+  "zh": "一位亚马逊用户的隐秘生活",
+  "src": "translated"
+ },
+ "trevor-paglen--they-took-the-faces": {
+  "zh": "他们取走了被告与死者的面孔……（SD18）",
+  "src": "translated"
+ },
+ "kate-crawford--training-humans": {
+  "zh": "训练人类",
+  "src": "translated"
+ },
+ "forensic-architecture--triple-chaser": {
+  "zh": "Triple-Chaser",
+  "src": "keep"
+ },
+ "jake-elwes--zizi-queering-the-dataset": {
+  "zh": "Zizi——酷儿化数据集",
+  "src": "translated"
+ },
+ "joy-buolamwini--ai-aint-i-a-woman": {
+  "zh": "AI，我难道不是女人吗？",
+  "src": "translated"
+ },
+ "kate-crawford--anatomy-of-an-ai-system": {
+  "zh": "人工智能系统剖析",
+  "src": "translated"
+ },
+ "geocinema--geocinema": {
+  "zh": "Geocinema",
+  "src": "keep"
+ },
+ "peng-collective--mask-id": {
+  "zh": "Mask.ID",
+  "src": "keep"
+ },
+ "anna-ridler--myriad-tulips": {
+  "zh": "万千（郁金香）",
+  "src": "translated"
+ },
+ "waltz-binaire--narciss": {
+  "zh": "Narciss",
+  "src": "keep"
+ },
+ "tom-white--perception-engines": {
+  "zh": "感知引擎",
+  "src": "translated"
+ },
+ "bjorn-karmann--project-alias": {
+  "zh": "Alias 计划",
+  "src": "translated"
+ },
+ "coralie-vogelaar--random-string-of-emotions": {
+  "zh": "随机情绪串",
+  "src": "translated"
+ },
+ "joaquin-fargas--robotika-the-nannybot": {
+  "zh": "Robotika，机器人保姆",
+  "src": "translated"
+ },
+ "kevin-eykholt--robust-physical-world-attacks": {
+  "zh": "针对深度学习视觉分类的鲁棒物理世界攻击",
+  "src": "translated"
+ },
+ "te-hiku-media--te-reo-maori-speech-recognition": {
+  "zh": "毛利语语音识别与 Kaitiakitanga 许可证",
+  "src": "translated"
+ },
+ "hito-steyerl--the-city-of-broken-windows": {
+  "zh": "破窗之城",
+  "src": "translated"
+ },
+ "hans-block--the-cleaners": {
+  "zh": "网络审查员",
+  "src": "established"
+ },
+ "mushon-zer-aviv--normalizing-machine": {
+  "zh": "正常化机器",
+  "src": "translated"
+ },
+ "tom-b-brown--adversarial-patch": {
+  "zh": "对抗贴片",
+  "src": "established"
+ },
+ "agnieszka-kurant--assembly-line": {
+  "zh": "流水线",
+  "src": "translated"
+ },
+ "james-bridle--autonomous-trap-001": {
+  "zh": "自动驾驶陷阱 001",
+  "src": "translated"
+ },
+ "trevor-paglen--behold-these-glorious-times": {
+  "zh": "看这辉煌的时代！",
+  "src": "translated"
+ },
+ "philipp-schmitt--computed-curation": {
+  "zh": "计算策展",
+  "src": "translated"
+ },
+ "tabita-rezaire--deep-down-tidal": {
+  "zh": "深海潮汐",
+  "src": "translated"
+ },
+ "caroline-sinders--feminist-data-set": {
+  "zh": "女性主义数据集",
+  "src": "translated"
+ },
+ "adam-harvey--hyperface": {
+  "zh": "HyperFace",
+  "src": "keep"
+ },
+ "sebastian-schmieg--i-will-say-whatever-you-want": {
+  "zh": "我会在披萨前说出你想听的一切",
+  "src": "translated"
+ },
+ "richard-mosse--incoming": {
+  "zh": "来袭",
+  "src": "translated"
+ },
+ "trevor-paglen--it-began-as-a-military-experiment": {
+  "zh": "它始于一场军事实验",
+  "src": "translated"
+ },
+ "memo-akten--learning-to-see": {
+  "zh": "学会看见",
+  "src": "translated"
+ },
+ "trevor-paglen--machine-readable-hito": {
+  "zh": "机器可读的 Hito",
+  "src": "translated"
+ },
+ "etsuko-ichihara--namahage-in-tokyo": {
+  "zh": "东京生剥鬼",
+  "src": "translated"
+ },
+ "christa-sommerer-laurent-mignonneau--neuro-mirror": {
+  "zh": "神经之镜",
+  "src": "translated"
+ },
+ "blaise-aguera-y-arcas--physiognomys-new-clothes": {
+  "zh": "相面术的新衣",
+  "src": "translated"
+ },
+ "michael-mandiberg--postmodern-times": {
+  "zh": "后摩登时代",
+  "src": "translated"
+ },
+ "heather-dewey-hagborg--probably-chelsea": {
+  "zh": "可能是切尔西",
+  "src": "translated"
+ },
+ "trevor-paglen--sight-machine": {
+  "zh": "视觉机器",
+  "src": "translated"
+ },
+ "stop-autonomous-weapons--slaughterbots": {
+  "zh": "杀戮机器人",
+  "src": "established"
+ },
+ "wesley-goatley--dark-age-of-connectionism": {
+  "zh": "联结主义的黑暗时代",
+  "src": "translated"
+ },
+ "adrian-chen--the-moderators": {
+  "zh": "审核员",
+  "src": "translated"
+ },
+ "sebastian-schmieg--problem-solution-past-future": {
+  "zh": "这是问题、解决方案、过去与未来",
+  "src": "translated"
+ },
+ "mimi-onuoha--us-aggregated": {
+  "zh": "我们，被聚合",
+  "src": "translated"
+ },
+ "adam-harvey--vframe": {
+  "zh": "VFRAME",
+  "src": "keep"
+ },
+ "jing-cai-liu--wearable-face-projector": {
+  "zh": "可穿戴人脸投影仪",
+  "src": "translated"
+ },
+ "sam-lavigne--white-collar-crime-risk-zones": {
+  "zh": "白领犯罪风险区",
+  "src": "translated"
+ },
+ "helena-nikonole--deus-x-mchn": {
+  "zh": "deus X mchn",
+  "src": "keep"
+ },
+ "mahmood-sharif--accessorize-to-a-crime": {
+  "zh": "配饰作案",
+  "src": "translated"
+ },
+ "james-bridle--cloud-index": {
+  "zh": "云指数",
+  "src": "translated"
+ },
+ "sebastian-schmieg--decision-space": {
+  "zh": "决策空间",
+  "src": "translated"
+ },
+ "ruben-van-de-ven--emotion-hero": {
+  "zh": "情绪英雄",
+  "src": "translated"
+ },
+ "vladan-joler--facebook-algorithmic-factory": {
+  "zh": "Facebook 算法工厂",
+  "src": "translated"
+ },
+ "max-dovey--hit": {
+  "zh": "H.I.T.",
+  "src": "keep"
+ },
+ "hito-steyerl--hellyeahwefuckdie": {
+  "zh": "HellYeahWeFuckDie",
+  "src": "keep"
+ },
+ "nicholas-carlini--hidden-voice-commands": {
+  "zh": "隐藏语音命令",
+  "src": "translated"
+ },
+ "keiichi-matsuda--hyper-reality": {
+  "zh": "超真实",
+  "src": "established"
+ },
+ "sonia-kennebeck--national-bird": {
+  "zh": "国鸟",
+  "src": "established"
+ },
+ "bjorn-karmann--objectifier": {
+  "zh": "物化器",
+  "src": "translated"
+ },
+ "lawrence-abu-hamdan--rubber-coated-steel": {
+  "zh": "覆胶钢",
+  "src": "translated"
+ },
+ "sebastian-schmieg--segmentation-network": {
+  "zh": "Segmentation.Network",
+  "src": "keep"
+ },
+ "elisa-giardina-papa--technologies-of-care": {
+  "zh": "照护技术",
+  "src": "translated"
+ },
+ "romi-ron-morrison--the-argus-project": {
+  "zh": "阿尔戈斯计划",
+  "src": "translated"
+ },
+ "joy-buolamwini--the-coded-gaze": {
+  "zh": "编码凝视：揭开算法偏见",
+  "src": "translated"
+ },
+ "tactical-tech--the-glass-room": {
+  "zh": "玻璃屋",
+  "src": "translated"
+ },
+ "mimi-onuoha--the-library-of-missing-datasets": {
+  "zh": "缺失数据集图书馆",
+  "src": "translated"
+ },
+ "joana-moll--the-virtual-watchers": {
+  "zh": "虚拟守望者",
+  "src": "translated"
+ },
+ "nye-thompson--the-seeker": {
+  "zh": "重塑世界的词语：寻觅者",
+  "src": "translated"
+ },
+ "james-bridle--citizen-ex": {
+  "zh": "Citizen Ex",
+  "src": "keep"
+ },
+ "evolving-ai-lab--easily-fooled": {
+  "zh": "深度神经网络很容易被愚弄",
+  "src": "translated"
+ },
+ "kyle-mcdonald--exhausting-a-crowd": {
+  "zh": "穷尽人群",
+  "src": "translated"
+ },
+ "hito-steyerl--factory-of-the-sun": {
+  "zh": "太阳工厂",
+  "src": "established"
+ },
+ "esther-hovers--false-positives": {
+  "zh": "假阳性",
+  "src": "translated"
+ },
+ "dries-depoorter--jaywalking": {
+  "zh": "乱穿马路",
+  "src": "translated"
+ },
+ "benjamin-maus--jller": {
+  "zh": "Jller",
+  "src": "keep"
+ },
+ "rafael-lozano-hemmer--level-of-confidence": {
+  "zh": "置信度",
+  "src": "translated"
+ },
+ "julien-previeux--patterns-of-life": {
+  "zh": "生活模式",
+  "src": "translated"
+ },
+ "unknown-fields-division--rare-earthenware": {
+  "zh": "稀土陶器",
+  "src": "translated"
+ },
+ "simon-denny--secret-power": {
+  "zh": "秘密力量",
+  "src": "translated"
+ },
+ "julian-oliver--stealth-cell-tower": {
+  "zh": "隐形基站",
+  "src": "translated"
+ },
+ "rafael-lozano-hemmer--zoom-pavilion": {
+  "zh": "变焦馆",
+  "src": "translated"
+ },
+ "notabugsplat--notabugsplat": {
+  "zh": "#NotABugSplat",
+  "src": "keep"
+ },
+ "agnieszka-kurant--aai": {
+  "zh": "A.A.I.",
+  "src": "keep"
+ },
+ "tomas-van-houtryve--blue-sky-days": {
+  "zh": "蓝天日",
+  "src": "translated"
+ },
+ "joana-moll--co2gle": {
+  "zh": "CO2GLE",
+  "src": "keep"
+ },
+ "brian-house--conversnitch": {
+  "zh": "Conversnitch",
+  "src": "keep"
+ },
+ "zach-blas--face-cages": {
+  "zh": "面部牢笼",
+  "src": "translated"
+ },
+ "timo-arnall--internet-machine": {
+  "zh": "互联网机器",
+  "src": "translated"
+ },
+ "jennifer-lyn-morone--jennifer-lyn-morone-inc": {
+  "zh": "Jennifer Lyn Morone™ Inc",
+  "src": "keep"
+ },
+ "lev-manovich--selfiecity": {
+  "zh": "Selfiecity",
+  "src": "keep"
+ },
+ "leo-selvaggio--urme-surveillance": {
+  "zh": "URME 监控",
+  "src": "translated"
+ },
+ "thiago-hersan--memememe": {
+  "zh": "memememe #selfie",
+  "src": "keep"
+ },
+ "addie-wagenknecht--asymmetric-love": {
+  "zh": "不对称的爱",
+  "src": "translated"
+ },
+ "ben-grosser--computers-watching-movies": {
+  "zh": "看电影的计算机",
+  "src": "translated"
+ },
+ "sterling-crispin--data-masks": {
+  "zh": "数据面具",
+  "src": "translated"
+ },
+ "emilio-vavarella--digital-pareidolia": {
+  "zh": "数字空想性错视：Facebook 错误肖像个人索引",
+  "src": "translated"
+ },
+ "forensic-architecture--drone-strikes": {
+  "zh": "无人机打击：调查秘密行动",
+  "src": "translated"
+ },
+ "ruben-pater--drone-survival-guide": {
+  "zh": "无人机生存指南",
+  "src": "translated"
+ },
+ "hito-steyerl--how-not-to-be-seen": {
+  "zh": "如何不被看见：一段该死的说教视频文件",
+  "src": "established"
+ },
+ "lauren-lee-mccarthy--social-turkers": {
+  "zh": "社交众包工",
+  "src": "translated"
+ },
+ "adam-harvey--stealth-wear": {
+  "zh": "隐身服",
+  "src": "translated"
+ },
+ "heather-dewey-hagborg--stranger-visions": {
+  "zh": "陌生人影像",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--us-plus": {
+  "zh": "us+",
+  "src": "keep"
+ },
+ "lawrence-abu-hamdan--conflicted-phonemes": {
+  "zh": "冲突的音素",
+  "src": "translated"
+ },
+ "james-bridle--drone-shadows": {
+  "zh": "无人机之影",
+  "src": "translated"
+ },
+ "james-bridle--dronestagram": {
+  "zh": "Dronestagram",
+  "src": "keep"
+ },
+ "zach-blas--facial-weaponization-suite": {
+  "zh": "面部武器化套件",
+  "src": "translated"
+ },
+ "josh-begley--metadata": {
+  "zh": "Metadata+",
+  "src": "keep"
+ },
+ "andrew-norman-wilson--scanops": {
+  "zh": "ScanOps",
+  "src": "keep"
+ },
+ "mediengruppe-bitnik--surveillance-chess": {
+  "zh": "监控象棋",
+  "src": "translated"
+ },
+ "lawrence-abu-hamdan--the-freedom-of-speech-itself": {
+  "zh": "言论自由本身",
+  "src": "translated"
+ },
+ "emilio-vavarella--the-driver-and-the-cameras": {
+  "zh": "谷歌三部曲之三：司机与摄像头",
+  "src": "translated"
+ },
+ "lawrence-abu-hamdan--the-whole-truth": {
+  "zh": "全部真相",
+  "src": "translated"
+ },
+ "julian-oliver--transparency-grenade": {
+  "zh": "透明手雷",
+  "src": "translated"
+ },
+ "molleindustria--unmanned": {
+  "zh": "无人",
+  "src": "translated"
+ },
+ "joana-moll--az-move-and-get-shot": {
+  "zh": "AZ：一动就被拍下",
+  "src": "translated"
+ },
+ "paolo-cirio--face-to-facebook": {
+  "zh": "脸对脸书",
+  "src": "translated"
+ },
+ "lancel-maat--saving-face": {
+  "zh": "保全面子",
+  "src": "translated"
+ },
+ "superflux--song-of-the-machine": {
+  "zh": "机器之歌",
+  "src": "translated"
+ },
+ "andrew-norman-wilson--workers-leaving-the-googleplex": {
+  "zh": "工人离开谷歌总部",
+  "src": "established"
+ },
+ "adam-harvey--cv-dazzle": {
+  "zh": "CV 炫目迷彩",
+  "src": "translated"
+ },
+ "martin-backes--pixelhead": {
+  "zh": "像素头",
+  "src": "translated"
+ },
+ "clement-valla--postcards-from-google-earth": {
+  "zh": "来自谷歌地球的明信片",
+  "src": "translated"
+ },
+ "bernd-hopfengaertner--belief-systems": {
+  "zh": "信念系统",
+  "src": "translated"
+ },
+ "jia-deng--imagenet": {
+  "zh": "ImageNet：一个大规模分层图像数据库",
+  "src": "translated"
+ },
+ "marnix-de-nijs--physiognomic-scrutinizer": {
+  "zh": "相面审查器",
+  "src": "translated"
+ },
+ "harun-farocki--serious-games": {
+  "zh": "严肃游戏 I–IV",
+  "src": "translated"
+ },
+ "alex-rivera--sleep-dealer": {
+  "zh": "睡眠经销商",
+  "src": "established"
+ },
+ "aaron-koblin--ten-thousand-cents": {
+  "zh": "一万美分",
+  "src": "translated"
+ },
+ "jon-rafman--nine-eyes-of-google-street-view": {
+  "zh": "谷歌街景的九只眼",
+  "src": "translated"
+ },
+ "lilly-irani--turkopticon": {
+  "zh": "Turkopticon",
+  "src": "keep"
+ },
+ "harun-farocki--deep-play": {
+  "zh": "深层游戏",
+  "src": "established"
+ },
+ "manu-luksch--faceless": {
+  "zh": "无面",
+  "src": "translated"
+ },
+ "aaron-koblin--the-sheep-market": {
+  "zh": "羊市",
+  "src": "translated"
+ },
+ "kelly-dobson--blendie": {
+  "zh": "Blendie",
+  "src": "keep"
+ },
+ "ken-goldberg--demonstrate": {
+  "zh": "示威",
+  "src": "translated"
+ },
+ "jill-magid--evidence-locker": {
+  "zh": "证物柜",
+  "src": "translated"
+ },
+ "silvia-ruzanka--insecurity-camera": {
+  "zh": "（不）安全摄像头",
+  "src": "translated"
+ },
+ "christian-moeller--cheese": {
+  "zh": "茄子",
+  "src": "translated"
+ },
+ "michelle-teran--life-a-users-manual": {
+  "zh": "生活使用说明",
+  "src": "translated"
+ },
+ "david-rokeby--sorting-daemon": {
+  "zh": "分类守护进程",
+  "src": "translated"
+ },
+ "jill-magid--system-azure-security-ornamentation": {
+  "zh": "天蓝系统安全装饰",
+  "src": "translated"
+ },
+ "hasan-elahi--tracking-transience": {
+  "zh": "追踪无常",
+  "src": "translated"
+ },
+ "harun-farocki--eye-machine": {
+  "zh": "眼睛/机器 I–III",
+  "src": "established"
+ },
+ "bureau-of-inverse-technology--bit-plane": {
+  "zh": "BIT 飞机",
+  "src": "translated"
+ },
+ "surveillance-camera-players--cctv-plays": {
+  "zh": "为监控摄像头表演",
+  "src": "translated"
+ },
+ "rafael-lozano-hemmer--surface-tension": {
+  "zh": "表面张力",
+  "src": "translated"
+ },
+ "david-rokeby--the-giver-of-names": {
+  "zh": "命名者",
+  "src": "translated"
+ },
+ "steina-vasulka--machine-vision": {
+  "zh": "机器视觉",
+  "src": "translated"
+ },
+ "myron-krueger--videoplace": {
+  "zh": "Videoplace",
+  "src": "keep"
+ },
+ "michael-snow--la-region-centrale": {
+  "zh": "中部地区",
+  "src": "established"
+ }
+}

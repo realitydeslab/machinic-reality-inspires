@@ -64,7 +64,7 @@
     const s = L[lang], zh = lang === "zh", t = text.work(w, lang);
     const p = w.paper || {};
     return [
-      `### ${w.title} — ${names(w, data)}${w.year ? ` (${w.year})` : ""}`,
+      `### ${zh && w.title_zh && w.title_zh !== w.title ? `${w.title_zh}（${w.title}）` : w.title} — ${names(w, data)}${w.year ? ` (${w.year})` : ""}`,
       `- ${s.field}: ${fieldName(data, w.field, zh)} / ${subName(data, w, zh)}`,
       `- ${s.machines}: ${(w.machines || []).map((o) => label(data.taxonomy.machines, o, zh)).join(", ")}`,
       t.idea ? `- ${s.idea}: ${t.idea}` : "",

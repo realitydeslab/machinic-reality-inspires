@@ -84,11 +84,11 @@
   }
 
   /* ---------- filtering ---------- */
-  const creatorNames = (w) => w.creator_ids.map((id) => creatorsById[id]?.name || id);
+  const creatorNames = (w) => w.creator_ids.map((id) => (zh() && creatorsById[id]?.name_zh) || creatorsById[id]?.name || id);
   const inField = (w, f) => w.field === f || (w.also || []).includes(f);
   function haystack(w) {
-    return [w.title, w.description, w.description_zh, w.idea_en, w.idea_zh, w.method, w.method_zh, w.paper?.venue, ...(w.keywords || []),
-      ...(w.machines || []).map((o) => pair(TAX.machines, o)), ...creatorNames(w), w.year].join(" ").toLowerCase();
+    return [w.title, w.title_zh, w.description, w.description_zh, w.idea_en, w.idea_zh, w.method, w.method_zh, w.paper?.venue, ...(w.keywords || []),
+      ...(w.machines || []).map((o) => pair(TAX.machines, o)), ...creatorNames(w), ...w.creator_ids.map((id) => creatorsById[id]?.name_zh || ""), w.year].join(" ").toLowerCase();
   }
   function matches(w, skip = "") {
     if (state.creator && !w.creator_ids.includes(state.creator)) return false;
@@ -117,7 +117,9 @@
 
   /* ---------- cards ---------- */
   const poster = (w) => w.video?.thumbnail || (w.images || [])[0] || "";
-  const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
+  const ttl = (w) => (zh() && w.title_zh) || w.title;                       // title in the current language
+  const ttlOrig = (w) => (zh() && w.title_zh && w.title_zh !== w.title ? w.title : "");   // original title under a Chinese one
+  const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(ttl(w))}</span></div>`;
   function thumb(w) {
     const p = poster(w);
     if (p) return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p)}" alt="" onerror="this.outerHTML=this.dataset.ph" data-ph="${esc(paperPh(w))}">`;
@@ -130,14 +132,14 @@
     const tags = (w.machines || []).map((o) => `<span class="tag">${esc(orgName(o))}</span>`).join("");
     const marks = `${w.video?.url ? "▶" : ""}${w.paper?.url ? " ¶" : ""}`.trim();
     return `<div class="cardwrap">
-      <button class="card" data-id="${esc(w.id)}" aria-label="${esc(w.title)} — ${esc(who)}">
+      <button class="card" data-id="${esc(w.id)}" aria-label="${esc(ttl(w))} — ${esc(who)}">
         <div class="card__media">${thumb(w)}
           <span class="br br--tl"></span><span class="br br--tr"></span><span class="br br--bl"></span><span class="br br--br"></span>
           <span class="card__src">${esc(kindName(w.kind))}${marks ? ` · ${marks}` : ""}</span>
           ${w.year ? `<span class="card__year">${w.year}</span>` : ""}
         </div>
         <div class="card__field mono">${esc(nm(fieldById[w.field] || {}))}${subOf(w) ? ` / ${esc(nm(subOf(w)))}` : ""}</div>
-        <div class="card__title">${esc(w.title)}</div>
+        <div class="card__title">${esc(ttl(w))}${ttlOrig(w) ? `<span class="card__orig">${esc(ttlOrig(w))}</span>` : ""}</div>
         <div class="card__meta">${esc(who)}</div>
         <div class="card__idea">${esc(TX.work(w, lang).idea || "")}</div>
         <div class="tags">${tags}</div>
@@ -282,7 +284,7 @@
     $("#papersHead").innerHTML = `<p class="count mono">${esc(S().papers_n(currentList.length))} · ${esc(S().papers_lede)}</p>`;
     $("#paperTable").innerHTML = currentList.length ? `<table class="papers"><thead><tr><th>${esc(S().col_year)}</th><th>${esc(S().col_title)}</th><th>${esc(S().col_venue)}</th><th>${esc(S().col_field)}</th></tr></thead><tbody>${currentList.map((w) => `
       <tr><td class="mono">${w.year || ""}</td>
-        <td><button class="papers__title" data-open="${esc(w.id)}">${esc(w.title)}</button><div class="papers__who">${esc(creatorNames(w).join(", "))}</div></td>
+        <td><button class="papers__title" data-open="${esc(w.id)}">${esc(ttl(w))}</button><div class="papers__who">${esc(creatorNames(w).join(", "))}</div></td>
         <td class="papers__venue"><a href="${esc(w.paper.url)}" target="_blank" rel="noopener">${esc(w.paper.venue || (w.paper.doi ? "DOI" : "Link"))} ↗</a></td>
         <td><span class="tag">${esc(nm(fieldById[w.field] || {}))}</span>${subOf(w) ? ` <span class="tag">${esc(nm(subOf(w)))}</span>` : ""}</td></tr>`).join("")}</tbody></table>` : "";
     return currentList.length;
@@ -291,7 +293,7 @@
     const q = state.q.toLowerCase();
     const rows = DATA.creators
       .map((c) => ({ c, works: sorted(DATA.works.filter((w) => w.creator_ids.includes(c.id) && matches(w))) }))
-      .filter(({ c, works }) => works.length || (q && [c.name, c.bio, c.bio_zh, c.role].join(" ").toLowerCase().includes(q)))
+      .filter(({ c, works }) => works.length || (q && [c.name, c.name_zh, c.bio, c.bio_zh, c.role].join(" ").toLowerCase().includes(q)))
       .sort((a, b) => b.works.length - a.works.length || a.c.name.localeCompare(b.c.name));
     currentList = rows.flatMap((r) => r.works);
     $("#creatorList").innerHTML = rows.map(({ c, works }) => {
@@ -300,7 +302,7 @@
       const conn = (c.connected_to || []).filter((id) => creatorsById[id]).map((id) => `<button data-creator="${esc(id)}">${esc(creatorsById[id].name)}</button>`).join("");
       const kind = [c.kind ? S()["kind_" + c.kind] : "", ...(c.disciplines || []).map(discName)].filter(Boolean).join(" · ");
       return `<article class="creator" id="c-${esc(c.id)}"><div>
-          <h2 class="creator__name"><button data-creator="${esc(c.id)}">${esc(c.name)}</button></h2>
+          <h2 class="creator__name"><button data-creator="${esc(c.id)}">${esc(c.name)}${c.name_zh && c.name_zh !== c.name ? ` <span class="org__zh">${esc(c.name_zh)}</span>` : ""}</button></h2>
           <p class="creator__role">${kind ? esc(kind) + " · " : ""}${esc(t.role || "")}${t.based ? " · " + esc(t.based) : ""} · ${esc(S().n_works(works.length))}</p>
           ${t.bio ? `<p class="creator__bio">${esc(t.bio)}</p>` : ""}
           ${t.why ? `<p class="creator__why">${esc(t.why)}</p>` : ""}
@@ -370,10 +372,10 @@
     const items = mediaItems(w);
     const m = items[mediaIndex];
     let main;
-    if (!m) main = `<div class="paperview">${w.paper?.venue ? `<span class="mono ph__venue">${esc(w.paper.venue)}</span>` : ""}<h3>${esc(w.title)}</h3>
+    if (!m) main = `<div class="paperview">${w.paper?.venue ? `<span class="mono ph__venue">${esc(w.paper.venue)}</span>` : ""}<h3>${esc(ttl(w))}</h3>
       <p class="mono">${esc(creatorNames(w).join(", "))}${w.year ? ` · ${w.year}` : ""}</p>${w.paper?.url ? `<a class="btn btn--accent mono" href="${esc(w.paper.url)}" target="_blank" rel="noopener">${esc(S().read_paper)}</a>` : ""}</div>`;
     else if (m.type === "video") main = embed(w.video);
-    else main = `<img class="player__img" referrerpolicy="no-referrer" src="${esc(m.url)}" alt="${esc(w.title)}">`;
+    else main = `<img class="player__img" referrerpolicy="no-referrer" src="${esc(m.url)}" alt="${esc(ttl(w))}">`;
     const strip = items.length > 1 ? `<div class="mstrip">${items.map((it, i) => `<button class="mstrip__item" data-media="${i}" aria-pressed="${i === mediaIndex}">
         ${it.type === "video" ? (w.video.thumbnail ? `<img referrerpolicy="no-referrer" src="${esc(w.video.thumbnail)}" alt="">` : "") + '<span class="mstrip__play">▶</span>' : `<img referrerpolicy="no-referrer" src="${esc(it.url)}" alt="">`}</button>`).join("")}</div>` : "";
     $("#playerMedia").innerHTML = `<div class="player__main">${main}</div>${strip}`;
@@ -392,7 +394,7 @@
   }
   function fillInfo(w) {
     const t = TX.work(w, lang);
-    const who = w.creator_ids.map((cid) => `<button data-creator="${esc(cid)}">${esc(creatorsById[cid]?.name || cid)}</button>`).join("");
+    const who = w.creator_ids.map((cid) => `<button data-creator="${esc(cid)}">${esc((zh() && creatorsById[cid]?.name_zh) || creatorsById[cid]?.name || cid)}</button>`).join("");
     const note = (label, body) => (body ? `<div class="note"><b>${esc(label)}</b><p>${esc(body)}</p></div>` : "");
     const f = fieldById[w.field] || {};
     const fieldTags = [`<button class="tag tag--field" data-go="${esc(w.field)}" data-go-sub="${esc(w.sub || "")}">${esc(nm(f))}${subOf(w) ? " / " + esc(nm(subOf(w))) : ""}</button>`,
@@ -407,7 +409,7 @@
     const p = w.paper || {};
     $("#playerInfo").innerHTML = `
       <div class="meta">${w.year || ""} · ${esc(kindName(w.kind))}</div>
-      <h2>${esc(w.title)}</h2>
+      <h2>${esc(ttl(w))}</h2>${ttlOrig(w) ? `<div class="orig mono">${esc(ttlOrig(w))}</div>` : ""}
       <div class="who">${who}</div>
       ${starBtn(w.id, "star-inline mono")}
       ${t.description ? `<p>${esc(t.description)}</p>` : ""}

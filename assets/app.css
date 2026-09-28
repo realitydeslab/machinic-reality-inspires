@@ -417,3 +417,7 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .org__known { font-size: 11.5px; margin: 2px 0 6px; color: var(--muted, #777); }
 .org__links { font-size: 11.5px; margin: 0 0 6px; display: flex; flex-wrap: wrap; gap: 4px 10px; }
 .org__links a { text-decoration: none; border-bottom: 1px solid currentColor; }
+.card__orig { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; font-weight: 400; }
+.player__info .orig { font-size: 12px; color: var(--muted); margin: -4px 0 8px; }
+/* The Chinese headline is 12 wide glyphs: scale it so it fits one line at every width. */
+html[lang="zh-CN"] .title { font-size: clamp(20px, 7.2vw, 128px); letter-spacing: 0; }

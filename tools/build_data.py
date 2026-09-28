@@ -35,6 +35,7 @@ COLLECTIONS = ROOT / "data" / "collections"
 MEDIA = ROOT / "data" / "media"
 ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
 APPROACH = ROOT / "data" / "lens"          # { work_id: [lens ids] } (overrides lenses written in the batches)
+TITLE_ZH = ROOT / "data" / "title_zh"      # { work_id: "中文标题" } (Chinese title layer)
 DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
 LEGACY: dict = {}  # (old field, old sub) -> (new field, new sub) for moved categories
@@ -308,7 +309,20 @@ def load_labels(folder: Path, allowed: set, what: str) -> dict:
             good = [x for x in (v if isinstance(v, list) else [v]) if x in allowed]
             if len(good) != len(v if isinstance(v, list) else [v]):
                 logger.warning("%s %s: unknown label in %s (%s)", what, k, f.name, v)
-            out[k] = good[:2]
+            out[k] = good[:3]
+    return out
+
+
+def load_titles_zh(folder: Path, work_ids: set) -> dict:
+    """Merge Chinese titles ({work_id: "中文标题"} or {work_id: {"zh": ...}}); later files win."""
+    out: dict = {}
+    for f in sorted(folder.glob("*.json")) if folder.exists() else []:
+        for k, v in json.loads(f.read_text()).items():
+            t = (v.get("zh") if isinstance(v, dict) else v) or ""
+            if k not in work_ids:
+                logger.warning("title_zh: unknown work %s in %s", k, f.name)
+            elif t.strip():
+                out[k] = t.strip()
     return out
 
 
@@ -374,7 +388,10 @@ def main() -> None:
     for c in out_creators:
         if disciplines.get(c["id"]):
             c["disciplines"] = disciplines[c["id"]]
+    titles_zh = load_titles_zh(TITLE_ZH, {w["id"] for w in kept})
     for w in kept:
+        if titles_zh.get(w["id"]) and titles_zh[w["id"]] != w["title"]:
+            w["title_zh"] = titles_zh[w["id"]]
         if lenses.get(w["id"]):
             w["lenses"] = lenses[w["id"]]
         ds = sorted({d for cid in w["creator_ids"] for d in (creators.get(cid, {}).get("disciplines") or [])})
@@ -410,6 +427,7 @@ def main() -> None:
         index.write_text(re.sub(r'(assets/(?:app|i18n|export)\.(?:js|css)|data/entries\.js)(\?v=\d+)?"', rf'\1?v={stamp}"', index.read_text()))
     by_field = {f: sum(w["field"] == f for w in kept) for f in subs}
     logger.info("organizations: %d (%d with image)", len(orgs), sum(bool(o.get("image")) for o in orgs))
+    logger.info("chinese titles: %d/%d works", sum(bool(w.get("title_zh")) for w in kept), len(kept))
     logger.info("classified: lens %d/%d works, discipline %d/%d creators",
                 sum(bool(w.get("lenses")) for w in kept), len(kept), sum(bool(c.get("disciplines")) for c in out_creators), len(out_creators))
     logger.info("creators=%d works=%d dropped=%d media_problems=%d open_leads=%d | %s | video=%d images=%d paper=%d",

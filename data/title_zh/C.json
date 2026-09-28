@@ -1,0 +1,946 @@
+{
+ "christopher-kulendran-thomas--peace-core-surround": {
+  "zh": "Peace Core（环绕声）",
+  "src": "keep"
+ },
+ "paula-gaetano-adi--guanaquerx": {
+  "zh": "Guanaquerx",
+  "src": "keep"
+ },
+ "hito-steyerl--mechanical-kurds": {
+  "zh": "机械库尔德人",
+  "src": "translated"
+ },
+ "julia-vollmer--to-hurt-for-a-thought": {
+  "zh": "为一个念头而痛",
+  "src": "translated"
+ },
+ "martyna-marciniak--anatomy-of-non-fact": {
+  "zh": "非事实解剖 第一章：AI 超真实主义",
+  "src": "translated"
+ },
+ "jan-zuiderveld--conversations-beyond-the-ordinary": {
+  "zh": "超越寻常的对话",
+  "src": "translated"
+ },
+ "takayuki-todo--dog-on-a-leash": {
+  "zh": "拴着皮带的狗的动态",
+  "src": "translated"
+ },
+ "karen-palmer--consensus-gentium": {
+  "zh": "万民共识",
+  "src": "translated"
+ },
+ "agnieszka-pilat--heterobota": {
+  "zh": "HETEROBOTA",
+  "src": "keep"
+ },
+ "gilberto-esparza--korallysis": {
+  "zh": "Korallysis",
+  "src": "keep"
+ },
+ "annie-dorsen--prometheus-firebringer": {
+  "zh": "带火者普罗米修斯",
+  "src": "translated"
+ },
+ "zoran-srdic-janezic--biobot": {
+  "zh": "生物机器人：AI 艺术节肢动物",
+  "src": "translated"
+ },
+ "gaetan-robillard--critical-climate-machine": {
+  "zh": "批判性气候机器",
+  "src": "translated"
+ },
+ "verena-friedrich--erbsenzaehler-quality-sorter": {
+  "zh": "数豆人质量分拣机 V2",
+  "src": "translated"
+ },
+ "diane-cescutti--nosukaay": {
+  "zh": "Nosukaay",
+  "src": "keep"
+ },
+ "lois-soleil--tinder-gun-boys": {
+  "zh": "Tinder_gun_boys_@Brussels_",
+  "src": "keep"
+ },
+ "theaitre--ai-when-a-robot-writes-a-play": {
+  "zh": "AI：当机器人写剧本",
+  "src": "translated"
+ },
+ "engineered-arts--ameca": {
+  "zh": "Ameca",
+  "src": "keep"
+ },
+ "felix-lenz--cleanroom-paradox": {
+  "zh": "洁净室悖论",
+  "src": "translated"
+ },
+ "nye-thompson--uninvited": {
+  "zh": "不速之客",
+  "src": "translated"
+ },
+ "jennifer-walshe--a-late-anthology-of-early-music": {
+  "zh": "早期音乐迟来选集 第一卷：从古代到文艺复兴",
+  "src": "translated"
+ },
+ "paola-torres-nunez-del-prado--aielson": {
+  "zh": "AIELSON",
+  "src": "keep"
+ },
+ "boston-dynamics--do-you-love-me": {
+  "zh": "你爱我吗？",
+  "src": "translated"
+ },
+ "merritt-moore--robot-duet": {
+  "zh": "梅里特 + 机器人",
+  "src": "translated"
+ },
+ "spela-petric--plai": {
+  "zh": "PL'AI",
+  "src": "keep"
+ },
+ "m-eifler--prosthetic-memory": {
+  "zh": "假体记忆",
+  "src": "translated"
+ },
+ "sam-kriegman--xenobots": {
+  "zh": "异种机器人",
+  "src": "established"
+ },
+ "aidan-meller--ai-da": {
+  "zh": "Ai-Da",
+  "src": "keep"
+ },
+ "yacht--chain-tripping": {
+  "zh": "Chain Tripping",
+  "src": "keep"
+ },
+ "patrick-tresset--la-classe": {
+  "zh": "人类学习 #4：课堂",
+  "src": "translated"
+ },
+ "wayne-mcgregor--living-archive": {
+  "zh": "活档案",
+  "src": "translated"
+ },
+ "alexandra-daisy-ginsberg--machine-auguries": {
+  "zh": "机器预兆",
+  "src": "translated"
+ },
+ "catie-cuan--output": {
+  "zh": "输出",
+  "src": "translated"
+ },
+ "holly-herndon--proto": {
+  "zh": "PROTO（与 Spawn 合作）",
+  "src": "keep"
+ },
+ "xenoangel--sunshowers": {
+  "zh": "太阳雨",
+  "src": "translated"
+ },
+ "philipp-schmitt--chair-project": {
+  "zh": "椅子计划（四件经典）",
+  "src": "translated"
+ },
+ "la-raeven--annelies-looking-for-completion": {
+  "zh": "安妮丽丝，寻求完整",
+  "src": "translated"
+ },
+ "cesar-and-lois--degenerative-cultures": {
+  "zh": "退化文化",
+  "src": "translated"
+ },
+ "marco-donnarumma--eingeweide": {
+  "zh": "内脏",
+  "src": "translated"
+ },
+ "harpreet-sareen--elowan": {
+  "zh": "Elowan",
+  "src": "keep"
+ },
+ "piotr-mirowski--improbotics": {
+  "zh": "Improbotics",
+  "src": "keep"
+ },
+ "madeline-gannon--manus": {
+  "zh": "Manus",
+  "src": "keep"
+ },
+ "orlan--orlan-oide": {
+  "zh": "ORLAN-OÏDE",
+  "src": "keep"
+ },
+ "ralf-baecker--putting-the-pieces-back-together-again": {
+  "zh": "重新拼合",
+  "src": "translated"
+ },
+ "paolo-cirio--sociality": {
+  "zh": "社交性",
+  "src": "translated"
+ },
+ "dries-depoorter--surveillance-paparazzi": {
+  "zh": "监控狗仔队",
+  "src": "translated"
+ },
+ "rimini-protokoll--uncanny-valley": {
+  "zh": "恐怖谷",
+  "src": "established"
+ },
+ "marco-donnarumma--amygdala": {
+  "zh": "杏仁核",
+  "src": "translated"
+ },
+ "humanising-autonomy--blink": {
+  "zh": "眨眼：人性化自主",
+  "src": "translated"
+ },
+ "dasha-ilina--center-for-technological-pain": {
+  "zh": "技术疼痛中心",
+  "src": "translated"
+ },
+ "justine-emard--coaixistence": {
+  "zh": "共（AI）存",
+  "src": "translated"
+ },
+ "knightscope--k5-fountain": {
+  "zh": "K5 安保机器人跌入喷泉",
+  "src": "translated"
+ },
+ "filipe-vilas-boas--the-punishment": {
+  "zh": "惩罚",
+  "src": "translated"
+ },
+ "dani-clode--third-thumb": {
+  "zh": "第三拇指",
+  "src": "translated"
+ },
+ "rachel-ara--this-much-im-worth": {
+  "zh": "我值这么多（自我估价的艺术品）",
+  "src": "translated"
+ },
+ "cod-act--piton": {
+  "zh": "πTon",
+  "src": "keep"
+ },
+ "ruben-pater--drone-acoustics": {
+  "zh": "21 世纪无人机声学研究",
+  "src": "translated"
+ },
+ "pedro-lopes--ad-infinitum": {
+  "zh": "以至无穷",
+  "src": "translated"
+ },
+ "chico-macmurtrie--border-crosser": {
+  "zh": "越境者",
+  "src": "translated"
+ },
+ "jordan-wolfson--colored-sculpture": {
+  "zh": "彩色雕塑",
+  "src": "translated"
+ },
+ "marco-donnarumma--corpus-nil": {
+  "zh": "零躯体",
+  "src": "translated"
+ },
+ "rik-lander--i-am-echoborg": {
+  "zh": "我是 Echoborg",
+  "src": "translated"
+ },
+ "julian-charriere--metamorphism": {
+  "zh": "变质作用",
+  "src": "translated"
+ },
+ "madeline-gannon--mimus": {
+  "zh": "Mimus",
+  "src": "keep"
+ },
+ "sarah-petkus--noodlefeet": {
+  "zh": "机器之母：NoodleFeet",
+  "src": "translated"
+ },
+ "robert-wood--octobot": {
+  "zh": "Octobot",
+  "src": "keep"
+ },
+ "stephan-bogner--raising-robotic-natives": {
+  "zh": "培养机器人原住民",
+  "src": "translated"
+ },
+ "simone-giertz--shitty-robots": {
+  "zh": "垃圾机器人",
+  "src": "translated"
+ },
+ "random-international--study-for-fifteen-points": {
+  "zh": "十五点习作 / I",
+  "src": "translated"
+ },
+ "mary-flanagan--help-me-know-the-truth": {
+  "zh": "[帮我认清真相]",
+  "src": "translated"
+ },
+ "louise-crnkovic-friis--chor-rnn": {
+  "zh": "chor-rnn",
+  "src": "keep"
+ },
+ "laurie-anderson--habeas-corpus": {
+  "zh": "人身保护令",
+  "src": "translated"
+ },
+ "louis-philippe-demers--inferno": {
+  "zh": "地狱",
+  "src": "translated"
+ },
+ "manuel-beltran--institute-of-human-obsolescence": {
+  "zh": "人类过时研究所",
+  "src": "translated"
+ },
+ "boston-dynamics--spot-kicked": {
+  "zh": "Spot 登场（踢机器狗视频）",
+  "src": "translated"
+ },
+ "dave-murray-rust--lichtsuchende": {
+  "zh": "逐光者",
+  "src": "translated"
+ },
+ "frank-kolkman--opensurgery": {
+  "zh": "开源手术",
+  "src": "translated"
+ },
+ "primavera-de-filippi--plantoid": {
+  "zh": "Plantoid",
+  "src": "keep"
+ },
+ "stelarc--propel": {
+  "zh": "推进",
+  "src": "translated"
+ },
+ "darpa--robotics-challenge-falls": {
+  "zh": "DARPA 机器人挑战赛上跌倒的机器人",
+  "src": "translated"
+ },
+ "pipeline-theatre--spillikin": {
+  "zh": "挑棒游戏：一个爱情故事",
+  "src": "translated"
+ },
+ "guy-ben-ary--cellf": {
+  "zh": "cellF",
+  "src": "keep"
+ },
+ "jordan-wolfson--female-figure": {
+  "zh": "（女性形象）",
+  "src": "translated"
+ },
+ "hugh-herr--bionic-dance": {
+  "zh": "TED2014 上的仿生舞蹈（与阿德里安娜·哈斯利特-戴维斯）",
+  "src": "translated"
+ },
+ "boris-petrovsky--das-vergeraet": {
+  "zh": "Das Vergerät",
+  "src": "keep"
+ },
+ "radhika-nagpal--kilobots": {
+  "zh": "Kilobots：千台机器人集群",
+  "src": "translated"
+ },
+ "ralf-baecker--mirage": {
+  "zh": "海市蜃楼",
+  "src": "translated"
+ },
+ "squarepusher--music-for-robots": {
+  "zh": "为机器人而作的音乐（与 Z-Machines）",
+  "src": "translated"
+ },
+ "gil-weinberg--robotic-drumming-prosthesis": {
+  "zh": "机器人击鼓义肢（与杰森·巴恩斯）",
+  "src": "translated"
+ },
+ "diemut-strebe--sugababe": {
+  "zh": "Sugababe",
+  "src": "keep"
+ },
+ "annie-dorsen--a-piece-of-work": {
+  "zh": "一件杰作",
+  "src": "translated"
+ },
+ "bot-and-dolly--box": {
+  "zh": "盒",
+  "src": "translated"
+ },
+ "felix-luque-sanchez--dwi-clones": {
+  "zh": "通往无限的不同途径：克隆",
+  "src": "established"
+ },
+ "cod-act--nyloid": {
+  "zh": "Nyloïd",
+  "src": "keep"
+ },
+ "gilberto-esparza--autophotosynthetic-plants": {
+  "zh": "自体光合植物",
+  "src": "translated"
+ },
+ "blanca-li--robot": {
+  "zh": "机器人",
+  "src": "translated"
+ },
+ "moon-ribas--seismic-sense": {
+  "zh": "地震感／等待地震",
+  "src": "established"
+ },
+ "nicholas-stedman--adb-after-deep-blue": {
+  "zh": "ADB（仿深蓝）",
+  "src": "translated"
+ },
+ "bill-vorn--dsm-vi": {
+  "zh": "DSM-VI",
+  "src": "keep"
+ },
+ "matt-richardson--descriptive-camera": {
+  "zh": "描述相机",
+  "src": "translated"
+ },
+ "thomas-freundlich--human-interface": {
+  "zh": "人类界面",
+  "src": "translated"
+ },
+ "adam-ben-dror--pinokio": {
+  "zh": "Pinokio",
+  "src": "keep"
+ },
+ "beanotherlab--machine-to-be-another": {
+  "zh": "成为他人的机器",
+  "src": "translated"
+ },
+ "shing-tat-chung--superstitious-fund": {
+  "zh": "迷信基金计划",
+  "src": "translated"
+ },
+ "patrick-tresset--human-study-1": {
+  "zh": "人类学习 #1（五个名叫保罗的机器人）",
+  "src": "established"
+ },
+ "ralf-baecker--irrational-computing": {
+  "zh": "非理性计算",
+  "src": "translated"
+ },
+ "timo-toots--memopol-2": {
+  "zh": "Memopol-2",
+  "src": "keep"
+ },
+ "cod-act--pendulum-choir": {
+  "zh": "钟摆合唱团",
+  "src": "translated"
+ },
+ "wafaa-bilal--3rdi": {
+  "zh": "3rdi",
+  "src": "keep"
+ },
+ "kris-verdonck--actor-1": {
+  "zh": "演员 #1",
+  "src": "translated"
+ },
+ "heather-knight--data": {
+  "zh": "Data，机器人单口喜剧演员",
+  "src": "translated"
+ },
+ "tod-machover--death-and-the-powers": {
+  "zh": "死亡与力量",
+  "src": "translated"
+ },
+ "annie-dorsen--hello-hi-there": {
+  "zh": "哈喽，嗨，你好",
+  "src": "translated"
+ },
+ "philip-beesley--hylozoic-ground": {
+  "zh": "物活之地",
+  "src": "translated"
+ },
+ "ivan-henriques--action-plant": {
+  "zh": "Jurema 行动植物",
+  "src": "translated"
+ },
+ "pat-metheny--orchestrion": {
+  "zh": "管弦乐机",
+  "src": "translated"
+ },
+ "random-international--swarm-study": {
+  "zh": "群集研究（系列）",
+  "src": "translated"
+ },
+ "vincent-fournier--the-man-machine": {
+  "zh": "人机",
+  "src": "translated"
+ },
+ "louis-philippe-demers--tiller-girls": {
+  "zh": "蒂勒女孩",
+  "src": "translated"
+ },
+ "petra-gemeinboeck--zwischenraume": {
+  "zh": "间隙",
+  "src": "translated"
+ },
+ "zimoun--216-prepared-dc-motors": {
+  "zh": "216 个预制直流电机，1.0 毫米填充线",
+  "src": "translated"
+ },
+ "david-link--loveletters": {
+  "zh": "LoveLetters_1.0",
+  "src": "keep"
+ },
+ "julian-oliver--men-in-grey": {
+  "zh": "灰衣人",
+  "src": "translated"
+ },
+ "mark-shepard--sentient-city-survival-kit": {
+  "zh": "感知城市生存工具包",
+  "src": "translated"
+ },
+ "guy-ben-ary--silent-barrage": {
+  "zh": "无声的轰击",
+  "src": "translated"
+ },
+ "karolina-sobecka--sniff": {
+  "zh": "嗅",
+  "src": "translated"
+ },
+ "ralf-baecker--the-conversation": {
+  "zh": "对话",
+  "src": "translated"
+ },
+ "driessens-verstappen--tickle-salon": {
+  "zh": "挠痒沙龙",
+  "src": "translated"
+ },
+ "electric-circus--dirk-the-homeless-robot": {
+  "zh": "德克，无家可归的机器人",
+  "src": "translated"
+ },
+ "golan-levin--double-taker-snout": {
+  "zh": "回眸者（长鼻）",
+  "src": "translated"
+ },
+ "kris-verdonck--end": {
+  "zh": "终",
+  "src": "translated"
+ },
+ "emanuel-andel--knife-hand-chop-bot": {
+  "zh": "Knife.Hand.Chop.Bot",
+  "src": "keep"
+ },
+ "nicolas-darrot--injonctions": {
+  "zh": "指令",
+  "src": "translated"
+ },
+ "gilberto-esparza--nomadic-plants": {
+  "zh": "游牧植物",
+  "src": "translated"
+ },
+ "gil-weinberg--shimon": {
+  "zh": "Shimon",
+  "src": "keep"
+ },
+ "martin-riches--thinking-machine": {
+  "zh": "思考机器",
+  "src": "translated"
+ },
+ "robotlab--manifest": {
+  "zh": "宣言",
+  "src": "translated"
+ },
+ "chris-sugrue--delicate-boundaries": {
+  "zh": "微妙的边界",
+  "src": "translated"
+ },
+ "wafaa-bilal--domestic-tension": {
+  "zh": "家庭紧张",
+  "src": "translated"
+ },
+ "bill-vorn--grace-state-machines": {
+  "zh": "优雅状态机",
+  "src": "translated"
+ },
+ "chico-macmurtrie--inflatable-architectural-body": {
+  "zh": "充气建筑体",
+  "src": "translated"
+ },
+ "ruairi-glynn--performative-ecologies": {
+  "zh": "表演性生态",
+  "src": "translated"
+ },
+ "leandro-nunez--propagaciones": {
+  "zh": "传播",
+  "src": "translated"
+ },
+ "ralf-baecker--rechnender-raum": {
+  "zh": "计算空间",
+  "src": "translated"
+ },
+ "robotlab--bios-bible": {
+  "zh": "bios [圣经]",
+  "src": "translated"
+ },
+ "jed-berk--alavs-2": {
+  "zh": "ALAVs 2.0（自主光气飞行器）",
+  "src": "translated"
+ },
+ "paula-gaetano-adi--alexitimia": {
+  "zh": "述情障碍",
+  "src": "translated"
+ },
+ "saso-sedlacek--beggar-robot": {
+  "zh": "乞丐机器人",
+  "src": "translated"
+ },
+ "stelarc--ear-on-arm": {
+  "zh": "手臂上的耳朵",
+  "src": "established"
+ },
+ "gideon-obarzanek--glow": {
+  "zh": "辉光",
+  "src": "translated"
+ },
+ "bill-vorn--hysterical-machines": {
+  "zh": "歇斯底里机器",
+  "src": "translated"
+ },
+ "gilberto-esparza--urban-parasites": {
+  "zh": "城市寄生虫",
+  "src": "translated"
+ },
+ "leonel-moura--rap": {
+  "zh": "RAP（机器人行动画家）",
+  "src": "translated"
+ },
+ "josh-bongard--resilient-machines": {
+  "zh": "基于持续自我建模的韧性机器",
+  "src": "translated"
+ },
+ "max-dean--the-robotic-chair": {
+  "zh": "机器人椅",
+  "src": "translated"
+ },
+ "chico-macmurtrie--robotic-church": {
+  "zh": "机器人教堂",
+  "src": "translated"
+ },
+ "mariela-yeregui--proxemia": {
+  "zh": "空间关系学",
+  "src": "translated"
+ },
+ "hod-lipson--self-reproducing-machines": {
+  "zh": "自我复制机器（Molecubes）",
+  "src": "translated"
+ },
+ "julius-popp--bit-fall": {
+  "zh": "bit.fall",
+  "src": "keep"
+ },
+ "ken-rinaldo--augmented-fish-reality": {
+  "zh": "增强鱼类现实",
+  "src": "translated"
+ },
+ "garnet-hertz--cockroach-controlled-mobile-robot": {
+  "zh": "蟑螂操控的移动机器人",
+  "src": "translated"
+ },
+ "neil-harbisson--eyeborg": {
+  "zh": "Eyeborg（赛博格天线）",
+  "src": "translated"
+ },
+ "leonel-moura--artsbots": {
+  "zh": "ArtSBots",
+  "src": "keep"
+ },
+ "kris-verdonck--dancer-1": {
+  "zh": "舞者 #1",
+  "src": "translated"
+ },
+ "kelly-heaton--live-pelt": {
+  "zh": "活毛皮（替身）",
+  "src": "translated"
+ },
+ "guy-ben-ary--meart": {
+  "zh": "MEART——半活体艺术家",
+  "src": "translated"
+ },
+ "kevin-warwick--project-cyborg": {
+  "zh": "赛博格计划 2.0（神经植入）",
+  "src": "translated"
+ },
+ "stelarc--prosthetic-head": {
+  "zh": "假肢头",
+  "src": "established"
+ },
+ "francois-pachet--continuator": {
+  "zh": "延续者",
+  "src": "translated"
+ },
+ "pablo-ventura--zone": {
+  "zh": "区域",
+  "src": "translated"
+ },
+ "ken-rinaldo--autopoiesis": {
+  "zh": "自创生",
+  "src": "translated"
+ },
+ "jon-mccormack--eden": {
+  "zh": "伊甸",
+  "src": "translated"
+ },
+ "hod-lipson--golem": {
+  "zh": "魔像计划",
+  "src": "translated"
+ },
+ "merce-cunningham--biped": {
+  "zh": "双足",
+  "src": "translated"
+ },
+ "bill-t-jones--ghostcatching": {
+  "zh": "捕捉幽灵",
+  "src": "translated"
+ },
+ "marceli-antunez-roca--afasia": {
+  "zh": "失语症",
+  "src": "translated"
+ },
+ "stelarc--exoskeleton": {
+  "zh": "外骨骼",
+  "src": "established"
+ },
+ "eric-paulos--prop": {
+  "zh": "PRoP（个人漫游临场）",
+  "src": "translated"
+ },
+ "karl-sims--galapagos": {
+  "zh": "加拉帕戈斯",
+  "src": "translated"
+ },
+ "louis-philippe-demers--la-cour-des-miracles": {
+  "zh": "奇迹王朝",
+  "src": "translated"
+ },
+ "christa-sommerer-laurent-mignonneau--life-spacies": {
+  "zh": "生命空间种",
+  "src": "translated"
+ },
+ "eduardo-kac--time-capsule": {
+  "zh": "时间胶囊",
+  "src": "established"
+ },
+ "stelarc--ping-body": {
+  "zh": "Ping 身体",
+  "src": "translated"
+ },
+ "eduardo-kac--rara-avis": {
+  "zh": "珍禽",
+  "src": "translated"
+ },
+ "stelarc--fractal-flesh": {
+  "zh": "分形的肉体",
+  "src": "established"
+ },
+ "simon-penny--sympathetic-sentience": {
+  "zh": "共感知觉",
+  "src": "translated"
+ },
+ "ken-goldberg--telegarden": {
+  "zh": "远程花园",
+  "src": "established"
+ },
+ "lynn-hershman-leeson--tillie": {
+  "zh": "蒂莉，遥控机器人娃娃",
+  "src": "translated"
+ },
+ "christa-sommerer-laurent-mignonneau--a-volve": {
+  "zh": "A-Volve",
+  "src": "keep"
+ },
+ "marceli-antunez-roca--epizoo": {
+  "zh": "Epizoo",
+  "src": "keep"
+ },
+ "karl-sims--evolved-virtual-creatures": {
+  "zh": "进化的虚拟生物",
+  "src": "translated"
+ },
+ "ken-goldberg--mercury-project": {
+  "zh": "墨丘利计划",
+  "src": "translated"
+ },
+ "simon-penny--petit-mal": {
+  "zh": "小发作",
+  "src": "translated"
+ },
+ "stahl-stenslie--cybersm": {
+  "zh": "cyberSM",
+  "src": "keep"
+ },
+ "christa-sommerer-laurent-mignonneau--interactive-plant-growing": {
+  "zh": "互动植物生长",
+  "src": "translated"
+ },
+ "marceli-antunez-roca--joan": {
+  "zh": "JoAn，肉身之人",
+  "src": "translated"
+ },
+ "monika-fleischmann--liquid-views": {
+  "zh": "液态视界",
+  "src": "translated"
+ },
+ "arthur-ganson--machine-with-concrete": {
+  "zh": "带混凝土的机器",
+  "src": "translated"
+ },
+ "paul-sermon--telematic-dreaming": {
+  "zh": "远程梦境",
+  "src": "translated"
+ },
+ "laetitia-sonami--ladys-glove": {
+  "zh": "淑女手套",
+  "src": "translated"
+ },
+ "merce-cunningham--trackers": {
+  "zh": "追踪者（使用 LifeForms）",
+  "src": "translated"
+ },
+ "rebecca-horn--concert-for-anarchy": {
+  "zh": "无政府主义音乐会",
+  "src": "translated"
+ },
+ "arthur-ganson--machine-with-oil": {
+  "zh": "带油的机器",
+  "src": "translated"
+ },
+ "theo-jansen--strandbeest": {
+  "zh": "仿生兽",
+  "src": "established"
+ },
+ "eduardo-kac--ornitorrinco": {
+  "zh": "鸭嘴兽",
+  "src": "translated"
+ },
+ "arthur-ganson--machine-with-wishbone": {
+  "zh": "带许愿骨的机器",
+  "src": "translated"
+ },
+ "norman-white--them-fuckin-robots": {
+  "zh": "那些该死的机器人",
+  "src": "translated"
+ },
+ "craig-reynolds--boids": {
+  "zh": "类鸟群",
+  "src": "established"
+ },
+ "norman-white--helpless-robot": {
+  "zh": "无助的机器人",
+  "src": "translated"
+ },
+ "george-lewis--voyager": {
+  "zh": "旅行者",
+  "src": "translated"
+ },
+ "michel-waisvisz--the-hands": {
+  "zh": "双手",
+  "src": "translated"
+ },
+ "galloway-rabinowitz--hole-in-space": {
+  "zh": "空间之洞",
+  "src": "translated"
+ },
+ "stelarc--third-hand": {
+  "zh": "第三只手",
+  "src": "established"
+ },
+ "survival-research-labs--machine-performances": {
+  "zh": "SRL 机器表演",
+  "src": "translated"
+ },
+ "kraftwerk--the-man-machine": {
+  "zh": "人机",
+  "src": "established"
+ },
+ "steve-mann--wearcomp": {
+  "zh": "WearComp 与 EyeTap",
+  "src": "keep"
+ },
+ "harold-cohen--aaron": {
+  "zh": "AARON",
+  "src": "keep"
+ },
+ "rebecca-horn--pencil-mask": {
+  "zh": "铅笔面具",
+  "src": "translated"
+ },
+ "edward-ihnatowicz--senster": {
+  "zh": "Senster",
+  "src": "keep"
+ },
+ "gordon-pask--colloquy-of-mobiles": {
+  "zh": "动态雕塑的对话",
+  "src": "translated"
+ },
+ "edward-ihnatowicz--sam": {
+  "zh": "SAM（声控动态雕塑）",
+  "src": "translated"
+ },
+ "tom-shannon--squat": {
+  "zh": "蹲",
+  "src": "translated"
+ },
+ "robert-breer--floats": {
+  "zh": "漂浮体",
+  "src": "translated"
+ },
+ "alvin-lucier--music-for-solo-performer": {
+  "zh": "为独奏者而作的音乐",
+  "src": "translated"
+ },
+ "bruce-lacey--rosa-bosom": {
+  "zh": "ROSA BOSOM",
+  "src": "keep"
+ },
+ "johns-hopkins-apl--beast": {
+  "zh": "霍普金斯野兽",
+  "src": "translated"
+ },
+ "desmond-paul-henry--drawing-machines": {
+  "zh": "亨利绘图机",
+  "src": "translated"
+ },
+ "jean-tinguely--homage-to-new-york": {
+  "zh": "向纽约致敬",
+  "src": "established"
+ },
+ "jean-tinguely--meta-matics": {
+  "zh": "Méta-Matics 绘画机器",
+  "src": "translated"
+ },
+ "nicolas-schoffer--cysp-1": {
+  "zh": "CYSP 1",
+  "src": "keep"
+ },
+ "claude-shannon--ultimate-machine": {
+  "zh": "终极机器",
+  "src": "established"
+ },
+ "claude-shannon--theseus": {
+  "zh": "忒修斯（走迷宫的机械鼠）",
+  "src": "established"
+ },
+ "w-grey-walter--tortoises": {
+  "zh": "思索机械（埃尔默与艾尔西）",
+  "src": "established"
+ },
+ "karel-capek--rur": {
+  "zh": "罗素姆万能机器人",
+  "src": "established"
+ },
+ "pierre-jaquet-droz--the-writer": {
+  "zh": "写字人偶",
+  "src": "translated"
+ },
+ "jacques-de-vaucanson--digesting-duck": {
+  "zh": "消化鸭",
+  "src": "established"
+ }
+}

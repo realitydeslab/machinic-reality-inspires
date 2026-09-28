@@ -1,0 +1,658 @@
+{
+ "jiabao-li--ai-mom": {
+  "zh": "AI 妈妈™",
+  "src": "translated"
+ },
+ "botao-amber-hu--agent-inheritance-protocol": {
+  "zh": "智能体继承协议（ERC-42424）",
+  "src": "translated"
+ },
+ "matt-schlicht--moltbook": {
+  "zh": "Moltbook",
+  "src": "keep"
+ },
+ "ai-futures-project--ai-2027": {
+  "zh": "AI 2027",
+  "src": "keep"
+ },
+ "anton-pidkuiko--gibberlink": {
+  "zh": "GibberLink",
+  "src": "keep"
+ },
+ "jiabao-li--animo-wildlife-priority": {
+  "zh": "ANIMO：野生动物优先模式",
+  "src": "translated"
+ },
+ "ke-huang--body-oracle": {
+  "zh": "身体神谕",
+  "src": "translated"
+ },
+ "pierre-huyghe--camata": {
+  "zh": "Camata",
+  "src": "keep"
+ },
+ "ke-huang--cybroc": {
+  "zh": "Cybroc",
+  "src": "keep"
+ },
+ "peterskapelle-lucerne-hslu--deus-in-machina": {
+  "zh": "机器中的神",
+  "src": "translated"
+ },
+ "hans-block-moritz-riesewieck--eternal-you": {
+  "zh": "死者永生",
+  "src": "established"
+ },
+ "anthropic--golden-gate-claude": {
+  "zh": "金门大桥 Claude",
+  "src": "translated"
+ },
+ "tomasz-hollanek--griefbots-deadbots": {
+  "zh": "哀悼机器人、亡者机器人、死后化身",
+  "src": "translated"
+ },
+ "eryk-salvaggio--swim": {
+  "zh": "游泳",
+  "src": "translated"
+ },
+ "robert-long--taking-ai-welfare-seriously": {
+  "zh": "认真对待 AI 福祉",
+  "src": "translated"
+ },
+ "chris-sanders--the-wild-robot": {
+  "zh": "荒野机器人",
+  "src": "established"
+ },
+ "andy-ayrey--truth-terminal": {
+  "zh": "Truth Terminal",
+  "src": "keep"
+ },
+ "philippe-parreno--voices": {
+  "zh": "声音",
+  "src": "translated"
+ },
+ "holly-herndon--xhairymutantx": {
+  "zh": "xhairymutantx",
+  "src": "keep"
+ },
+ "nouf-aljowaysir--ana-min-wein": {
+  "zh": "我从哪里来？",
+  "src": "translated"
+ },
+ "blast-theory--cat-royale": {
+  "zh": "皇家猫舍",
+  "src": "translated"
+ },
+ "jonas-simmerlein--chatgpt-service": {
+  "zh": "菲尔特圣保罗教堂的 ChatGPT 礼拜",
+  "src": "translated"
+ },
+ "botao-amber-hu--composable-life": {
+  "zh": "可组合生命",
+  "src": "translated"
+ },
+ "joon-sung-park--generative-agents": {
+  "zh": "生成式智能体（斯坦福小镇）",
+  "src": "established"
+ },
+ "sand-lab-uchicago--glaze-nightshade": {
+  "zh": "Glaze 与 Nightshade",
+  "src": "keep"
+ },
+ "wesley-goatley--newly-forgotten-technologies": {
+  "zh": "新近被遗忘的技术",
+  "src": "translated"
+ },
+ "pablo-berger--robot-dreams": {
+  "zh": "机器人之梦",
+  "src": "established"
+ },
+ "kyle-mcdonald--voice-in-my-head": {
+  "zh": "我脑海中的声音",
+  "src": "translated"
+ },
+ "amazon--alexa-dead-relative-voice": {
+  "zh": "Alexa 用已故祖母的声音朗读（re:MARS 演示）",
+  "src": "translated"
+ },
+ "blake-lemoine--is-lamda-sentient": {
+  "zh": "LaMDA 有感知力吗？——一次访谈",
+  "src": "translated"
+ },
+ "steph-maj-swanson--loab": {
+  "zh": "Loab",
+  "src": "keep"
+ },
+ "domestic-data-streamers--synthetic-memories": {
+  "zh": "合成记忆",
+  "src": "translated"
+ },
+ "giacomo-miceli--infinite-conversation": {
+  "zh": "无尽的对话",
+  "src": "translated"
+ },
+ "kogonada--after-yang": {
+  "zh": "杨之后",
+  "src": "established"
+ },
+ "anna-ridler--circadian-bloom": {
+  "zh": "昼夜绽放",
+  "src": "translated"
+ },
+ "holly-herndon--holly-plus": {
+  "zh": "Holly+",
+  "src": "keep"
+ },
+ "lauren-lee-mccarthy--surrogate": {
+  "zh": "代孕",
+  "src": "translated"
+ },
+ "ron-wakkary--things-we-could-design": {
+  "zh": "我们可以设计的事物：面向超越人类中心的世界",
+  "src": "translated"
+ },
+ "iohanna-nicenboim--more-than-human-design-and-ai": {
+  "zh": "超越人类的设计与 AI：与智能体对话",
+  "src": "translated"
+ },
+ "k-allado-mcdowell--pharmako-ai": {
+  "zh": "Pharmako-AI",
+  "src": "keep"
+ },
+ "project-ceti--sperm-whale-communication": {
+  "zh": "CETI 计划（鲸类翻译计划）",
+  "src": "translated"
+ },
+ "jason-rohrer--project-december": {
+  "zh": "十二月计划（及杰西卡模拟）",
+  "src": "translated"
+ },
+ "qian-yang--re-examining-human-ai-interaction": {
+  "zh": "重新审视人–AI 交互是否、为何以及如何格外难以设计",
+  "src": "translated"
+ },
+ "diemut-strebe--the-prayer": {
+  "zh": "祈祷",
+  "src": "translated"
+ },
+ "human-computer-integration-lab--wearable-microphone-jamming": {
+  "zh": "可穿戴麦克风干扰器",
+  "src": "translated"
+ },
+ "terence-broad--unstable-equilibrium": {
+  "zh": "（不）稳定平衡",
+  "src": "translated"
+ },
+ "jake-elwes--cusp": {
+  "zh": "临界",
+  "src": "translated"
+ },
+ "botao-amber-hu--city-of-sparkles": {
+  "zh": "闪光之城",
+  "src": "translated"
+ },
+ "goodby-silverstein-partners--dali-lives": {
+  "zh": "达利还活着",
+  "src": "translated"
+ },
+ "james-vlahos--hereafter-ai": {
+  "zh": "HereAfter AI",
+  "src": "keep"
+ },
+ "isa-willinger--hi-ai": {
+  "zh": "你好，人工智能",
+  "src": "established"
+ },
+ "jenna-sutela--i-magma": {
+  "zh": "我，岩浆",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--i-a-suzie": {
+  "zh": "I.A. Suzie",
+  "src": "keep"
+ },
+ "francesca-panetta--in-event-of-moon-disaster": {
+  "zh": "如遇登月灾难",
+  "src": "translated"
+ },
+ "jibo-inc--jibo-farewell": {
+  "zh": "Jibo 的告别",
+  "src": "translated"
+ },
+ "openai--hide-and-seek": {
+  "zh": "多智能体捉迷藏",
+  "src": "translated"
+ },
+ "william-odom--olly": {
+  "zh": "Olly",
+  "src": "keep"
+ },
+ "nasa-jpl--opportunity-last-message": {
+  "zh": "机遇号的最后讯息",
+  "src": "translated"
+ },
+ "hito-steyerl--power-plants": {
+  "zh": "发电植物",
+  "src": "translated"
+ },
+ "michal-luria--re-embodiment-and-co-embodiment": {
+  "zh": "再具身与共具身",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--someone": {
+  "zh": "某人",
+  "src": "translated"
+ },
+ "gabriele-trovato--santo": {
+  "zh": "SanTO",
+  "src": "keep"
+ },
+ "hito-steyerl--this-is-the-future": {
+  "zh": "这就是未来",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--waking-agents": {
+  "zh": "醒着的智能体",
+  "src": "translated"
+ },
+ "ross-goodwin--1-the-road": {
+  "zh": "1 the Road",
+  "src": "keep"
+ },
+ "automato-farm--believe-it-yourself": {
+  "zh": "Believe it Yourself",
+  "src": "keep"
+ },
+ "memo-akten--deep-meditations": {
+  "zh": "深度冥想",
+  "src": "translated"
+ },
+ "quantic-dream--detroit-become-human": {
+  "zh": "底特律：变人",
+  "src": "established"
+ },
+ "jason-edward-lewis--making-kin": {
+  "zh": "与机器结亲",
+  "src": "translated"
+ },
+ "anna-ridler--mosaic-virus": {
+  "zh": "花叶病毒",
+  "src": "translated"
+ },
+ "martine-syms--mythiccbeing": {
+  "zh": "Mythiccbeing",
+  "src": "keep"
+ },
+ "stephanie-dinkins--not-the-only-one": {
+  "zh": "不是唯一一个（N'TOO）",
+  "src": "translated"
+ },
+ "automato-farm--objective-realities": {
+  "zh": "客观现实",
+  "src": "translated"
+ },
+ "jiabao-li--transvision": {
+  "zh": "超级视力",
+  "src": "original"
+ },
+ "jiabao-li--twinkle": {
+  "zh": "Twinkle",
+  "src": "keep"
+ },
+ "jennifer-walshe--ultrachunk": {
+  "zh": "ULTRACHUNK",
+  "src": "keep"
+ },
+ "pierre-huyghe--uumwelt": {
+  "zh": "UUmwelt",
+  "src": "keep"
+ },
+ "jenna-sutela--nimiia-cetii": {
+  "zh": "nimiia cétiï",
+  "src": "keep"
+ },
+ "pierre-huyghe--after-alife-ahead": {
+  "zh": "After ALife Ahead",
+  "src": "keep"
+ },
+ "ekhn--blessu-2": {
+  "zh": "BlessU-2",
+  "src": "keep"
+ },
+ "jake-elwes--closed-loop": {
+  "zh": "闭环",
+  "src": "translated"
+ },
+ "james-vlahos--dadbot": {
+  "zh": "爸爸机器人",
+  "src": "translated"
+ },
+ "facebook-ai-research--deal-or-no-deal": {
+  "zh": "成交还是不成交？（Bob 与 Alice 谈判机器人）",
+  "src": "translated"
+ },
+ "intuition-robotics--elliq": {
+  "zh": "ElliQ",
+  "src": "keep"
+ },
+ "chris-olah--feature-visualization": {
+  "zh": "特征可视化",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--lauren": {
+  "zh": "LAUREN",
+  "src": "keep"
+ },
+ "jake-elwes--latent-space": {
+  "zh": "潜空间",
+  "src": "translated"
+ },
+ "michael-almereyda--marjorie-prime": {
+  "zh": "衍生玛约莉",
+  "src": "established"
+ },
+ "ron-wakkary--morse-things": {
+  "zh": "摩斯物件",
+  "src": "translated"
+ },
+ "superflux--our-friends-electric": {
+  "zh": "我们的电子朋友",
+  "src": "translated"
+ },
+ "nazli-cila--products-as-agents": {
+  "zh": "作为能动者的产品：物联网时代产品设计的隐喻",
+  "src": "translated"
+ },
+ "eugenia-kuyda--replika": {
+  "zh": "Replika",
+  "src": "keep"
+ },
+ "google-creative-lab--teachable-machine": {
+  "zh": "Teachable Machine",
+  "src": "keep"
+ },
+ "graham-dove--ux-design-innovation": {
+  "zh": "用户体验设计创新：以机器学习为设计材料的挑战",
+  "src": "translated"
+ },
+ "frank-lantz--universal-paperclips": {
+  "zh": "宇宙回形针",
+  "src": "translated"
+ },
+ "zach-blas--im-here-to-learn-so": {
+  "zh": "我是来学习的 :))))))",
+  "src": "translated"
+ },
+ "janelle-shane--ai-weirdness": {
+  "zh": "AI Weirdness",
+  "src": "keep"
+ },
+ "google-deepmind--alphago-move-37": {
+  "zh": "AlphaGo 与第 37 手",
+  "src": "translated"
+ },
+ "betti-marenko--animistic-design": {
+  "zh": "泛灵论设计",
+  "src": "translated"
+ },
+ "terence-broad--blade-runner-autoencoded": {
+  "zh": "银翼杀手——自编码",
+  "src": "translated"
+ },
+ "julie-carpenter--eod-robots": {
+  "zh": "军事化空间中的文化与人机交互",
+  "src": "translated"
+ },
+ "liam-young--in-the-robot-skies": {
+  "zh": "机器人的天空",
+  "src": "translated"
+ },
+ "eugenia-kuyda--roman-bot": {
+  "zh": "罗曼（罗曼·马祖连科的纪念机器人）",
+  "src": "translated"
+ },
+ "happiest-baby--snoo": {
+  "zh": "SNOO 智能摇篮",
+  "src": "translated"
+ },
+ "oscar-sharp--sunspring": {
+  "zh": "阳春",
+  "src": "established"
+ },
+ "elisa-giaccardi--thing-ethnography": {
+  "zh": "物的民族志：与非人一起做设计研究",
+  "src": "translated"
+ },
+ "alexander-mordvintsev--deepdream": {
+  "zh": "DeepDream（Inceptionism）",
+  "src": "keep"
+ },
+ "usc-shoah-foundation--dimensions-in-testimony": {
+  "zh": "证言的维度",
+  "src": "translated"
+ },
+ "superflux--drone-aviary": {
+  "zh": "无人机鸟舍",
+  "src": "translated"
+ },
+ "automato-farm--ethical-things": {
+  "zh": "伦理物件",
+  "src": "translated"
+ },
+ "blast-theory--karen": {
+  "zh": "Karen",
+  "src": "keep"
+ },
+ "automato-farm--politics-of-power": {
+  "zh": "电力政治",
+  "src": "translated"
+ },
+ "automato-farm--teacher-of-algorithms": {
+  "zh": "算法教师",
+  "src": "translated"
+ },
+ "kathleen-richardson--asymmetrical-relationship": {
+  "zh": "不对称的“关系”：卖淫与性爱机器人开发之间的相似之处",
+  "src": "translated"
+ },
+ "superflux--uninvited-guests": {
+  "zh": "不速之客",
+  "src": "translated"
+ },
+ "lauren-lee-mccarthy--pplkpr": {
+  "zh": "pplkpr",
+  "src": "keep"
+ },
+ "stephanie-dinkins--conversations-with-bina48": {
+  "zh": "与 BINA48 对话",
+  "src": "translated"
+ },
+ "james-pierce--counterfunctional-things": {
+  "zh": "反功能之物",
+  "src": "translated"
+ },
+ "alex-garland--ex-machina": {
+  "zh": "机械姬",
+  "src": "established"
+ },
+ "suzanne-treister--hft-the-gardener": {
+  "zh": "HFT 园丁",
+  "src": "translated"
+ },
+ "mediengruppe-bitnik--random-darknet-shopper": {
+  "zh": "随机暗网购物者",
+  "src": "translated"
+ },
+ "near-future-laboratory--tbd-catalog": {
+  "zh": "TBD 商品目录",
+  "src": "translated"
+ },
+ "croteam--the-talos-principle": {
+  "zh": "塔罗斯的法则",
+  "src": "established"
+ },
+ "david-harris-smith-frauke-zeller--hitchbot": {
+  "zh": "hitchBOT",
+  "src": "keep"
+ },
+ "charlie-brooker--be-right-back": {
+  "zh": "黑镜：马上回来",
+  "src": "established"
+ },
+ "spike-jonze--her": {
+  "zh": "她",
+  "src": "established"
+ },
+ "kate-darling--pleo-empathy": {
+  "zh": "Pleo 工作坊与机器人共情实验",
+  "src": "translated"
+ },
+ "dunne-raby--united-micro-kingdoms": {
+  "zh": "联合微型王国",
+  "src": "translated"
+ },
+ "simone-rebaudengo--addicted-products": {
+  "zh": "上瘾的产品（烤面包机 Brad）",
+  "src": "translated"
+ },
+ "dan-chen--end-of-life-care-machine": {
+  "zh": "临终关怀机器",
+  "src": "translated"
+ },
+ "william-odom--photobox": {
+  "zh": "照片盒",
+  "src": "translated"
+ },
+ "jake-schreier--robot-and-frank": {
+  "zh": "机器人与弗兰克",
+  "src": "established"
+ },
+ "louis-philippe-demers--the-blind-robot": {
+  "zh": "盲眼机器人",
+  "src": "translated"
+ },
+ "revital-cohen--the-immortal": {
+  "zh": "不朽者",
+  "src": "translated"
+ },
+ "addie-wagenknecht--optimization-of-parenthood": {
+  "zh": "育儿的优化",
+  "src": "translated"
+ },
+ "cornell-creative-machines-lab--ai-vs-ai": {
+  "zh": "AI 对 AI：两个聊天机器人的对话",
+  "src": "translated"
+ },
+ "michael-eisen--the-making-of-a-fly": {
+  "zh": "亚马逊上售价 23,698,655.93 美元的苍蝇书",
+  "src": "translated"
+ },
+ "hanson-robotics--bina48": {
+  "zh": "BINA48",
+  "src": "keep"
+ },
+ "auger-loizeau--carnivorous-domestic-entertainment-robots": {
+  "zh": "食肉家用娱乐机器人",
+  "src": "translated"
+ },
+ "kacie-kinzer--tweenbots": {
+  "zh": "Tweenbots",
+  "src": "keep"
+ },
+ "rebecca-fiebrink--wekinator": {
+  "zh": "Wekinator",
+  "src": "keep"
+ },
+ "andrew-stanton--wall-e": {
+  "zh": "机器人总动员",
+  "src": "established"
+ },
+ "kelly-dobson--omo": {
+  "zh": "Omo",
+  "src": "keep"
+ },
+ "dunne-raby--technological-dreams-robots": {
+  "zh": "技术之梦系列：第1号，机器人",
+  "src": "translated"
+ },
+ "etoy-corporation--mission-eternity": {
+  "zh": "永恒任务",
+  "src": "translated"
+ },
+ "lynn-hershman-leeson--dina": {
+  "zh": "DiNA",
+  "src": "keep"
+ },
+ "mari-velonaki--fish-bird": {
+  "zh": "鱼与鸟",
+  "src": "translated"
+ },
+ "steven-spielberg--ai-artificial-intelligence": {
+  "zh": "人工智能",
+  "src": "established"
+ },
+ "ken-feingold--if-then": {
+  "zh": "如果/那么",
+  "src": "translated"
+ },
+ "dunne-raby--placebo-project": {
+  "zh": "安慰剂计划",
+  "src": "translated"
+ },
+ "ken-feingold--sinking-feeling": {
+  "zh": "下沉之感",
+  "src": "translated"
+ },
+ "jem-finer--longplayer": {
+  "zh": "Longplayer",
+  "src": "keep"
+ },
+ "long-now-foundation--clock-of-the-long-now": {
+  "zh": "万年钟",
+  "src": "established"
+ },
+ "lynn-hershman-leeson--agent-ruby": {
+  "zh": "Agent Ruby",
+  "src": "keep"
+ },
+ "cynthia-breazeal--kismet": {
+  "zh": "Kismet",
+  "src": "keep"
+ },
+ "kelly-dobson--screambody": {
+  "zh": "ScreamBody",
+  "src": "keep"
+ },
+ "william-chamberlain--racter": {
+  "zh": "Racter：警察的胡子造了一半",
+  "src": "established"
+ },
+ "ridley-scott--blade-runner": {
+  "zh": "银翼杀手",
+  "src": "established"
+ },
+ "stanislaw-lem--golem-xiv": {
+  "zh": "魔像 XIV",
+  "src": "translated"
+ },
+ "kenneth-colby--parry": {
+  "zh": "PARRY",
+  "src": "keep"
+ },
+ "joseph-sargent--colossus-the-forbin-project": {
+  "zh": "巨人：福宾计划",
+  "src": "established"
+ },
+ "stanley-kubrick--2001-a-space-odyssey": {
+  "zh": "2001太空漫游（HAL 9000）",
+  "src": "established"
+ },
+ "joseph-weizenbaum--eliza": {
+  "zh": "ELIZA",
+  "src": "keep"
+ },
+ "temple-grandin--hug-machine": {
+  "zh": "拥抱机",
+  "src": "established"
+ }
+}

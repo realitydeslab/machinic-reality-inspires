@@ -53,7 +53,7 @@ def _work(w: dict, lang: str, names: dict, tax: dict) -> str:
     who = ", ".join(names.get(c, c) for c in w["creator_ids"])
     p = w.get("paper") or {}
     lines = [
-        f"#### {w['title']} — {who}" + (f" ({w['year']})" if w.get("year") else ""),
+        f"#### {(w['title_zh'] + '（' + w['title'] + '）') if zh and w.get('title_zh') and w['title_zh'] != w['title'] else w['title']} — {who}" + (f" ({w['year']})" if w.get("year") else ""),
         f"- {s['kind']}: {_label(tax['kinds'], w.get('kind', ''), zh)} · {s['machines']}: "
         + ", ".join(_label(tax["machines"], o, zh) for o in w.get("machines", [])),
         f"- {s['idea']}: {w.get('idea_zh' if zh else 'idea_en', '')}",

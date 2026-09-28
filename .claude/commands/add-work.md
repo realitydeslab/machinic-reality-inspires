@@ -19,6 +19,7 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` (inclus
    Verify with `python3 tools/check_media.py <url>…`, `--doi <doi>`, `--arxiv <id>`, `--og <page>` (image candidates). Keep only `"ok": true`; check that a DOI's title is the right paper.
 4. **Write** `data/raw/add-<creator-id>.json` with creators (with `disciplines`, `name_zh` if any), works (field / sub / machines / lenses / kind from the taxonomy, English + Chinese text), leads.
    If the person should also appear in **Resources & Links**, add a record to `data/orgs/add-<creator-id>.json` (see SCHEMA → Resource) with `creator_id`.
+   Chinese titles for the new works: `data/title_zh/add-<creator-id>.json` (see SCHEMA → Chinese titles).
 5. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` (and `python3 tools/validate_orgs.py --all`) until ✓.
 6. **Build.** `python3 tools/build_data.py`. Check `data/dropped.json` (dead media, DOI title mismatches) and fix what is yours.
 7. **Preview** (optional): `./serve.sh`, open `http://localhost:8932/#view=works&q=<name>`.

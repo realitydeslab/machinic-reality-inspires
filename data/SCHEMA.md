@@ -35,7 +35,8 @@ Each research batch writes one file: `data/raw/<batch>.json`
 {
   "id": "lauren-lee-mccarthy--lauren",       // <first-creator-id>--<slug>, unique
   "creator_ids": ["lauren-lee-mccarthy"],
-  "title": "LAUREN",
+  "title": "LAUREN",                         // original title
+  "title_zh": "",                            // optional here; Chinese titles normally live in data/title_zh/*.json (see below)
   "year": 2017,
   "field": "intimacy",                       // primary field id (data/taxonomy.json → fields)
   "sub": "home",                             // one sub-category id of that field
@@ -83,6 +84,12 @@ Defined in `data/taxonomy.json` → `collections` (`id, type, en, zh, desc_en, d
 A work joins by listing the id in its `collections`, or by adding its work id to `data/collections/<collection-id>.json`
 (a JSON list of work ids — use this for works that already exist in another batch). Awards are collections, never creators.
 New collections: do not edit taxonomy.json concurrently — define them in `data/collections/defs/<your-batch>.json` (a JSON list of collection objects); the build merges them.
+
+## Chinese titles (`data/title_zh/<name>.json`)
+`{ "<work-id>": {"zh": "蜻蜓之眼", "src": "original|established|translated|keep"} }` — shown as the main title in the Chinese
+interface, with the original title below. Priority: the work's own Chinese title → an established Chinese title (film release,
+Chinese book edition, Chinese exhibition label) → a faithful translation. Proper names (LAUREN, AARON, BINA48) are kept.
+Every new work should get one (`/add-work` writes `data/title_zh/add-<creator-id>.json`).
 
 ## Extra media (`data/media/<name>.json`)
 Images or a video found later for existing works, kept out of the research batches so passes never edit each other's files:

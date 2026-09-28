@@ -14781,6 +14781,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "AI 妈妈™",
    "disciplines": [
     "art",
     "design",
@@ -14833,6 +14834,7 @@
    "source_url": "https://erc42424.org",
    "video": {},
    "images": [],
+   "title_zh": "智能体继承协议（ERC-42424）",
    "disciplines": [
     "design",
     "hci"
@@ -14934,6 +14936,7 @@
    "source_url": "https://www.art-collection-telekom.com/en/exhibitions/peace-core-surround-christopher-thomas-kulendran-3-human-ai-art-award",
    "video": {},
    "paper": {},
+   "title_zh": "Peace Core（环绕声）",
    "disciplines": [
     "art"
    ]
@@ -15081,6 +15084,7 @@
     "Ars Electronica 2025"
    ],
    "paper": {},
+   "title_zh": "AI 战争云数据库",
    "disciplines": [
     "activism",
     "art"
@@ -15137,6 +15141,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "大脑处理单元",
    "disciplines": [
     "art",
     "performance"
@@ -15230,6 +15235,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "地面真相",
    "disciplines": [
     "activism",
     "art"
@@ -15332,6 +15338,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "人形机器人半程马拉松",
    "disciplines": [
     "robotics"
    ]
@@ -15385,6 +15392,7 @@
    "source_url": "https://ars.electronica.art/starts-prize/en/mechanical-kurds/",
    "video": {},
    "paper": {},
+   "title_zh": "机械库尔德人",
    "disciplines": [
     "art",
     "film"
@@ -15435,6 +15443,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "秧BOT",
    "disciplines": [
     "film",
     "performance",
@@ -15486,6 +15495,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "为一个念头而痛",
    "disciplines": [
     "art",
     "design"
@@ -15532,6 +15542,7 @@
    "source_url": "https://www.jiabaoli.org/animo",
    "video": {},
    "paper": {},
+   "title_zh": "ANIMO：野生动物优先模式",
    "disciplines": [
     "art",
     "design"
@@ -15585,6 +15596,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "非事实解剖 第一章：AI 超真实主义",
    "disciplines": [
     "art",
     "film"
@@ -15650,6 +15662,7 @@
     "IJCAI 2025 Art Gallery, Montréal",
     "SIGGRAPH Asia 2025 XR, Hong Kong"
    ],
+   "title_zh": "身体神谕",
    "disciplines": [
     "art",
     "design",
@@ -15757,6 +15770,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "超越寻常的对话",
    "disciplines": [
     "art",
     "design"
@@ -15873,6 +15887,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "数据工人调查",
    "disciplines": [
     "activism",
     "hci"
@@ -15923,6 +15938,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "快递舞者之弧：0°接收者",
    "disciplines": [
     "art",
     "film"
@@ -15974,6 +15990,7 @@
    "source_url": "https://www.euronews.com/2024/11/28/swiss-chapel-hosts-ai-jesus-confession-sessions-to-connect-faith-with-technology",
    "images": [],
    "paper": {},
+   "title_zh": "机器中的神",
    "disciplines": [
     "hci"
    ]
@@ -16032,6 +16049,7 @@
     "Ars Electronica Festival 2025"
    ],
    "paper": {},
+   "title_zh": "拴着皮带的狗的动态",
    "disciplines": [
     "art",
     "robotics"
@@ -16084,6 +16102,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "死者永生",
    "disciplines": [
     "activism",
     "film"
@@ -16129,6 +16148,7 @@
    "source_url": "https://www.anthropic.com/news/golden-gate-claude",
    "video": {},
    "also": [],
+   "title_zh": "金门大桥 Claude",
    "disciplines": [
     "robotics",
     "theory"
@@ -16179,6 +16199,7 @@
    "source_url": "https://www.cam.ac.uk/research/news/call-for-safeguards-to-prevent-unwanted-hauntings-by-ai-chatbots-of-dead-loved-ones",
    "video": {},
    "also": [],
+   "title_zh": "哀悼机器人、亡者机器人、死后化身",
    "disciplines": [
     "design",
     "theory"
@@ -16232,6 +16253,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "观音：前护理机器人的自白",
    "disciplines": [
     "art",
     "film"
@@ -16285,6 +16307,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "游泳",
    "disciplines": [
     "art",
     "theory"
@@ -16333,6 +16356,7 @@
    "source_url": "https://arxiv.org/abs/2411.00986",
    "video": {},
    "images": [],
+   "title_zh": "认真对待 AI 福祉",
    "disciplines": [
     "theory"
    ]
@@ -16381,6 +16405,7 @@
    "source_url": "https://en.wikipedia.org/wiki/The_Wild_Robot_(film)",
    "images": [],
    "paper": {},
+   "title_zh": "荒野机器人",
    "disciplines": [
     "film"
    ]
@@ -16483,6 +16508,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "声音",
    "disciplines": [
     "art"
    ]
@@ -16531,6 +16557,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Wonderland_(2024_film)",
    "paper": {},
    "also": [],
+   "title_zh": "梦境",
    "disciplines": [
     "film"
    ]
@@ -16636,6 +16663,7 @@
    "source_url": "https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/",
    "paper": {},
    "also": [],
+   "title_zh": "AI 复活逝者",
    "disciplines": [
     "activism"
    ]
@@ -16691,6 +16719,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "我从哪里来？",
    "disciplines": [
     "art",
     "film"
@@ -16751,6 +16780,7 @@
     "S+T+ARTS Prize 2024 Grand Prize"
    ],
    "paper": {},
+   "title_zh": "计算帝国：1500 年以来的技术与权力谱系",
    "disciplines": [
     "activism",
     "art",
@@ -16818,6 +16848,7 @@
    "collections": [
     "sg-london-ai-2023"
    ],
+   "title_zh": "皇家猫舍",
    "disciplines": [
     "art",
     "performance"
@@ -16868,6 +16899,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "菲尔特圣保罗教堂的 ChatGPT 礼拜",
    "disciplines": [
     "theory"
    ]
@@ -16930,6 +16962,7 @@
     "SIGGRAPH 2024 Digital Art Community online exhibition",
     "Core77 Design Awards 2024, Speculative Design Notable"
    ],
+   "title_zh": "可组合生命",
    "disciplines": [
     "design",
     "hci"
@@ -16983,6 +17016,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "万民共识",
    "disciplines": [
     "art",
     "film"
@@ -17037,6 +17071,7 @@
    },
    "source_url": "https://arxiv.org/abs/2304.03442",
    "images": [],
+   "title_zh": "生成式智能体（斯坦福小镇）",
    "disciplines": [
     "hci"
    ]
@@ -17090,6 +17125,7 @@
    },
    "source_url": "https://nightshade.cs.uchicago.edu/",
    "images": [],
+   "title_zh": "Glaze 与 Nightshade",
    "disciplines": [
     "activism",
     "robotics"
@@ -17199,6 +17235,7 @@
     "S+T+ARTS Prize 2024, Honorary Mention"
    ],
    "paper": {},
+   "title_zh": "如何（不）被自动驾驶汽车撞上",
    "disciplines": [
     "art",
     "design"
@@ -17248,6 +17285,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Jung_E",
    "paper": {},
    "also": [],
+   "title_zh": "贞伊",
    "disciplines": [
     "film"
    ]
@@ -17358,6 +17396,7 @@
     "title": "Machine Vision: How Algorithms Are Changing the Way We See the World"
    },
    "source_url": "https://machine-vision.no",
+   "title_zh": "机器视觉：算法如何改变我们看世界的方式",
    "disciplines": [
     "theory"
    ]
@@ -17413,6 +17452,7 @@
     "venue": "New Left Review 140/141, 2023",
     "title": "Mean Images"
    },
+   "title_zh": "均值影像",
    "disciplines": [
     "art",
     "film"
@@ -17522,6 +17562,7 @@
    "collections": [
     "sg-london-ai-2023"
    ],
+   "title_zh": "新近被遗忘的技术",
    "disciplines": [
     "art"
    ]
@@ -17624,6 +17665,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "带火者普罗米修斯",
    "disciplines": [
     "performance"
    ]
@@ -17676,6 +17718,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "机器人之梦",
    "disciplines": [
     "film"
    ]
@@ -17727,6 +17770,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "T代表时间",
    "disciplines": [
     "art",
     "film"
@@ -17785,6 +17829,7 @@
     "venue": "Verso, 2023",
     "title": "The Eye of the Master: A Social History of Artificial Intelligence"
    },
+   "title_zh": "主人之眼：人工智能的社会史",
    "disciplines": [
     "theory"
    ]
@@ -17839,6 +17884,7 @@
     "title": "The Perception Machine: Our Photographic Future between the Eye and AI"
    },
    "images": [],
+   "title_zh": "感知机器：介于人眼与AI之间的摄影未来",
    "disciplines": [
     "art",
     "theory"
@@ -17884,6 +17930,7 @@
    "source_url": "https://www.mimionuoha.com/",
    "video": {},
    "paper": {},
+   "title_zh": "我们皮肤里的这些网络",
    "disciplines": [
     "activism",
     "art"
@@ -17940,6 +17987,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "未知标签",
    "disciplines": [
     "art",
     "film"
@@ -17997,6 +18045,7 @@
     "A More Than Human Tongue, The Music Center, Los Angeles"
    ],
    "paper": {},
+   "title_zh": "我脑海中的声音",
    "disciplines": [
     "art",
     "performance"
@@ -18043,6 +18092,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "抽象神谕矿机",
    "disciplines": [
     "art"
    ]
@@ -18091,6 +18141,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "后话",
    "disciplines": [
     "art",
     "theory"
@@ -18139,6 +18190,7 @@
    "source_url": "https://www.washingtonpost.com/nation/2022/06/23/alexa-amazon-voice-dead-people/",
    "images": [],
    "paper": {},
+   "title_zh": "Alexa 用已故祖母的声音朗读（re:MARS 演示）",
    "disciplines": [
     "design"
    ]
@@ -18195,6 +18247,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "生物机器人：AI 艺术节肢动物",
    "disciplines": [
     "art",
     "robotics"
@@ -18290,6 +18343,7 @@
    },
    "video": {},
    "images": [],
+   "title_zh": "与逝者在线交流：聊天机器人、哀悼与持续联结",
    "disciplines": [
     "theory"
    ]
@@ -18349,6 +18403,7 @@
    ],
    "source_url": "https://lumenprize.org/2023-winners/2023-bcs-futures-award-winner",
    "paper": {},
+   "title_zh": "批判性气候机器",
    "disciplines": [
     "art"
    ]
@@ -18398,6 +18453,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "独生独死",
    "disciplines": [
     "art"
    ]
@@ -18454,6 +18510,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "快递舞者之域",
    "disciplines": [
     "art",
     "film"
@@ -18506,6 +18563,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "数豆人质量分拣机 V2",
    "disciplines": [
     "art"
    ]
@@ -18561,6 +18619,7 @@
     "venue": "Cybernetic Forests, 2022",
     "title": "How to Read an AI Image"
    },
+   "title_zh": "如何解读一张AI图像",
    "disciplines": [
     "art",
     "theory"
@@ -18607,6 +18666,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "LaMDA 有感知力吗？——一次访谈",
    "disciplines": [
     "activism",
     "robotics"
@@ -18656,6 +18716,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "小方舟",
    "disciplines": [
     "art"
    ]
@@ -18752,6 +18813,7 @@
    "source_url": "https://www.capable.design/pages/technology",
    "paper": {},
    "also": [],
+   "title_zh": "宣言系列",
    "disciplines": [
     "design"
    ]
@@ -18804,6 +18866,7 @@
     "title": "Non-Human Words: On GPT-3 as a Philosophical Laboratory"
    },
    "images": [],
+   "title_zh": "非人之言：作为哲学实验室的GPT-3",
    "disciplines": [
     "theory"
    ]
@@ -18853,6 +18916,7 @@
    ],
    "source_url": "https://ssbkyh.com/works/nondance_dance/",
    "paper": {},
+   "title_zh": "非舞之舞",
    "disciplines": [
     "art"
    ]
@@ -19012,6 +19076,7 @@
     "prix-ars-ai-life",
     "starts-prize"
    ],
+   "title_zh": "合成记忆",
    "disciplines": [
     "art",
     "design"
@@ -19064,6 +19129,7 @@
    ],
    "source_url": "https://driesdepoorter.be/thefollower/",
    "paper": {},
+   "title_zh": "关注者",
    "disciplines": [
     "art"
    ]
@@ -19106,6 +19172,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "无尽的对话",
    "disciplines": [
     "art"
    ]
@@ -19218,6 +19285,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "忘却语言",
    "disciplines": [
     "art",
     "performance"
@@ -19270,6 +19338,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Chen_Qiufan",
    "images": [],
    "also": [],
+   "title_zh": "AI未来进行式",
    "disciplines": [
     "theory"
    ]
@@ -19322,6 +19391,7 @@
    },
    "source_url": "https://www.theaitre.com/",
    "also": [],
+   "title_zh": "AI：当机器人写剧本",
    "disciplines": [
     "hci",
     "performance"
@@ -19377,6 +19447,7 @@
     "Cannes Film Festival, Un Certain Regard 2021"
    ],
    "paper": {},
+   "title_zh": "杨之后",
    "disciplines": [
     "film"
    ]
@@ -19426,6 +19497,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "光，到处都是",
    "disciplines": [
     "film"
    ]
@@ -19527,6 +19599,7 @@
    },
    "images": [],
    "also": [],
+   "title_zh": "机器学习时代的艺术",
    "disciplines": [
     "art",
     "theory"
@@ -19585,6 +19658,7 @@
     "venue": "Yale University Press, 2021",
     "title": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence"
    },
+   "title_zh": "技术之外：社会联结中的人工智能",
    "disciplines": [
     "activism",
     "theory"
@@ -19629,6 +19703,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "阶级",
    "disciplines": [
     "art"
    ]
@@ -19676,6 +19751,7 @@
    "source_url": "https://annaridler.com/works/circadian-bloom",
    "paper": {},
    "also": [],
+   "title_zh": "昼夜绽放",
    "disciplines": [
     "art"
    ]
@@ -19730,6 +19806,7 @@
     "Mozilla Creative Media Awards 2021"
    ],
    "paper": {},
+   "title_zh": "暗物质",
    "disciplines": [
     "activism",
     "art"
@@ -19774,6 +19851,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "歧视性数据",
    "disciplines": [
     "theory"
    ]
@@ -19886,6 +19964,7 @@
     "Hyundai Commission, Tate Modern Turbine Hall 2021–22"
    ],
    "paper": {},
+   "title_zh": "爱上这世界",
    "disciplines": [
     "art"
    ]
@@ -19928,6 +20007,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "交叉性 AI 工具包",
    "disciplines": [
     "activism",
     "art"
@@ -19973,6 +20053,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "非物：生活世界的变革",
    "disciplines": [
     "theory"
    ]
@@ -20029,6 +20110,7 @@
     "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"
    },
    "images": [],
+   "title_zh": "论随机鹦鹉的危害：语言模型太大有坏处吗？",
    "disciplines": [
     "activism",
     "theory"
@@ -20078,6 +20160,7 @@
    "source_url": "https://solarprotocol.net/",
    "paper": {},
    "also": [],
+   "title_zh": "太阳能协议",
    "disciplines": [
     "art",
     "design"
@@ -20128,6 +20211,7 @@
    "source_url": "https://technofle.sh/sorting-song.html",
    "also": [],
    "paper": {},
+   "title_zh": "分类之歌",
    "disciplines": [
     "design",
     "film"
@@ -20181,6 +20265,7 @@
    ],
    "source_url": "https://lauren-mccarthy.com/Surrogate",
    "paper": {},
+   "title_zh": "代孕",
    "disciplines": [
     "art",
     "performance"
@@ -20232,6 +20317,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "洁净室悖论",
    "disciplines": [
     "design",
     "film"
@@ -20285,6 +20371,7 @@
    ],
    "source_url": "https://driesdepoorter.be/theflemishscrollers/",
    "paper": {},
+   "title_zh": "弗拉芒刷屏者",
    "disciplines": [
     "art"
    ]
@@ -20342,6 +20429,7 @@
     "title": "The New Breed: What Our History with Animals Reveals about Our Future with Robots"
    },
    "source_url": "https://us.macmillan.com/books/9781250296115/thenewbreed/",
+   "title_zh": "智能新物种",
    "disciplines": [
     "robotics",
     "theory"
@@ -20397,6 +20485,7 @@
     "title": "Things We Could Design: For More Than Human-Centered Worlds"
    },
    "source_url": "https://mitpress.mit.edu/9780262542999/things-we-could-design/",
+   "title_zh": "我们可以设计的事物：面向超越人类中心的世界",
    "disciplines": [
     "design",
     "hci"
@@ -20457,6 +20546,7 @@
    ],
    "source_url": "https://nyethompson.net/works/UNINVITED.html",
    "paper": {},
+   "title_zh": "不速之客",
    "disciplines": [
     "art"
    ]
@@ -20500,6 +20590,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "风的验证",
    "disciplines": [
     "art"
    ]
@@ -20547,6 +20638,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "早期音乐迟来选集 第一卷：从古代到文艺复兴",
    "disciplines": [
     "art",
     "performance"
@@ -20589,6 +20681,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "躲避人脸识别的技巧",
    "disciplines": [
     "art"
    ]
@@ -20646,6 +20739,7 @@
    },
    "source_url": "https://www.openhumanitiespress.org/books/titles/ai-art/",
    "also": [],
+   "title_zh": "AI艺术：机器视觉与扭曲的梦",
    "disciplines": [
     "art",
     "theory"
@@ -20745,6 +20839,7 @@
    "source_url": "https://www.noemamag.com/afro-now-ism/",
    "video": {},
    "also": [],
+   "title_zh": "非洲当下主义",
    "disciplines": [
     "art"
    ]
@@ -20793,6 +20888,7 @@
    "source_url": "https://epfl-pavilions.ch/en/exhibitions/babylonian-vision",
    "paper": {},
    "also": [],
+   "title_zh": "巴比伦视觉",
    "disciplines": [
     "art"
    ]
@@ -20852,6 +20948,7 @@
     "machine-vision-db",
     "prix-ars-ai-life"
    ],
+   "title_zh": "捕获",
    "disciplines": [
     "activism",
     "art"
@@ -20907,6 +21004,7 @@
    "collections": [
     "starts-prize"
    ],
+   "title_zh": "清洗情绪数据",
    "disciplines": [
     "art",
     "film"
@@ -20960,6 +21058,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "编码歧视",
    "disciplines": [
     "film"
    ]
@@ -21015,6 +21114,7 @@
     "venue": "MIT Press, 2020",
     "title": "Data Feminism"
    },
+   "title_zh": "数据女性主义",
    "disciplines": [
     "activism",
     "theory"
@@ -21065,6 +21165,7 @@
    "source_url": "https://chuangcn.org/2020/11/delivery-renwu-translation/",
    "images": [],
    "also": [],
+   "title_zh": "外卖骑手，困在系统里",
    "disciplines": [
     "activism"
    ]
@@ -21110,6 +21211,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "你爱我吗？",
    "disciplines": [
     "robotics"
    ]
@@ -21157,6 +21259,7 @@
    "code_url": "https://github.com/kylemcdonald/facework",
    "video": {},
    "paper": {},
+   "title_zh": "面子功夫",
    "disciplines": [
     "art"
    ]
@@ -21214,6 +21317,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "谷歌地图黑客",
    "disciplines": [
     "art"
    ]
@@ -21308,6 +21412,7 @@
    },
    "source_url": "https://www.indigenous-ai.net/position-paper/",
    "video": {},
+   "title_zh": "原住民礼俗与人工智能立场文件",
    "disciplines": [
     "art",
     "theory"
@@ -21367,6 +21472,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "蕾丝",
    "disciplines": [
     "art"
    ]
@@ -21416,6 +21522,7 @@
    "source_url": "https://arxiv.org/abs/2006.16923",
    "video": {},
    "images": [],
+   "title_zh": "大型图像数据集：计算机视觉的皮洛士式胜利？",
    "disciplines": [
     "activism",
     "theory"
@@ -21465,6 +21572,7 @@
    "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A3%A8%EB%8B%A4_(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)",
    "images": [],
    "paper": {},
+   "title_zh": "Lee Luda（이루다）",
    "disciplines": [
     "activism"
    ]
@@ -21528,6 +21636,7 @@
     "Unsound Festival 2020 (online)",
     "Liquid Architecture 2020"
    ],
+   "title_zh": "机器聆听课程",
    "disciplines": [
     "art",
     "theory"
@@ -21580,6 +21689,7 @@
    "source_url": "https://www.masakhane.io/",
    "images": [],
    "also": [],
+   "title_zh": "Masakhane：非洲机器翻译的参与式研究",
    "disciplines": [
     "activism",
     "hci"
@@ -21631,6 +21741,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "遇见你",
    "disciplines": [
     "film"
    ]
@@ -21677,6 +21788,7 @@
    "source_url": "https://www.merrittmoore.com/",
    "paper": {},
    "also": [],
+   "title_zh": "梅里特 + 机器人",
    "disciplines": [
     "performance",
     "robotics"
@@ -21725,6 +21837,7 @@
    "collections": [
     "uncanny-valley-2020"
    ],
+   "title_zh": "模型动物园",
    "disciplines": [
     "activism",
     "art"
@@ -21781,6 +21894,7 @@
     "title": "More-Than-Human Design and AI: In Conversation with Agents"
    },
    "source_url": "https://iohanna.com/More-than-human-AI",
+   "title_zh": "超越人类的设计与 AI：与智能体对话",
    "disciplines": [
     "design",
     "hci"
@@ -21830,6 +21944,7 @@
    "source_url": "https://extractivism.online/",
    "paper": {},
    "also": [],
+   "title_zh": "新攫取主义",
    "disciplines": [
     "activism",
     "art"
@@ -21985,6 +22100,7 @@
    ],
    "source_url": "https://beyondresolution.info/COLOR-TEST-CARDS",
    "paper": {},
+   "title_zh": "无名女子的野餐",
    "disciplines": [
     "art",
     "theory"
@@ -22042,6 +22158,7 @@
     "title": "Contextual and combinatorial structure in sperm whale vocalisations"
    },
    "source_url": "https://www.projectceti.org/",
+   "title_zh": "CETI 计划（鲸类翻译计划）",
    "disciplines": [
     "activism",
     "robotics"
@@ -22090,6 +22207,7 @@
    "source_url": "https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/",
    "paper": {},
    "also": [],
+   "title_zh": "十二月计划（及杰西卡模拟）",
    "disciplines": [
     "art",
     "design"
@@ -22142,6 +22260,7 @@
    "source_url": "https://ars.electronica.art/starts-prize/en/prosthetic-memory/",
    "video": {},
    "paper": {},
+   "title_zh": "假体记忆",
    "disciplines": [
     "art",
     "hci"
@@ -22196,6 +22315,7 @@
    },
    "source_url": "https://www.pnas.org/doi/10.1073/pnas.1915768117",
    "images": [],
+   "title_zh": "自动语音识别中的种族差异",
    "disciplines": [
     "activism",
     "theory"
@@ -22241,6 +22361,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "重新审视人–AI 交互是否、为何以及如何格外难以设计",
    "disciplines": [
     "hci"
    ]
@@ -22296,6 +22417,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "先祖",
    "disciplines": [
     "art",
     "film"
@@ -22342,6 +22464,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "可疑行为",
    "disciplines": [
     "activism",
     "art"
@@ -22384,6 +22507,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "TRK（技术上负责任的知识）",
    "disciplines": [
     "art",
     "design"
@@ -22429,6 +22553,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "微软小冰：一个共情社交聊天机器人的设计与实现",
    "disciplines": [
     "hci"
    ]
@@ -22485,6 +22610,7 @@
     "Neurons, Simulated Intelligence, Centre Pompidou, Paris 2020"
    ],
    "paper": {},
+   "title_zh": "祈祷",
    "disciplines": [
     "art"
    ]
@@ -22532,6 +22658,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "Zizi 秀",
    "disciplines": [
     "art"
    ]
@@ -22583,6 +22710,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "乌托邦式开采",
    "disciplines": [
     "art"
    ]
@@ -22690,6 +22818,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "氛围检测",
    "disciplines": [
     "art",
     "performance"
@@ -22737,6 +22866,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "为抹除发声",
    "disciplines": [
     "activism",
     "art"
@@ -22839,6 +22969,7 @@
    "source_url": "https://doi.org/10.1145/3313831.3376304",
    "images": [],
    "also": [],
+   "title_zh": "可穿戴麦克风干扰器",
    "disciplines": [
     "hci"
    ]
@@ -22883,6 +23014,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "机器人所见",
    "disciplines": [
     "art",
     "performance"
@@ -22940,6 +23072,7 @@
     "title": "A scalable pipeline for designing reconfigurable organisms"
    },
    "also": [],
+   "title_zh": "异种机器人",
    "disciplines": [
     "robotics",
     "theory"
@@ -22990,6 +23123,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "（不）稳定平衡",
    "disciplines": [
     "art",
     "hci"
@@ -23095,6 +23229,7 @@
    "collections": [
     "uncanny-valley-2020"
    ],
+   "title_zh": "爱道",
    "disciplines": [
     "art",
     "film"
@@ -23197,6 +23332,7 @@
    "collections": [
     "uncanny-valley-2020"
    ],
+   "title_zh": "亚马逊工人笼专利图变作虚拟金岛棕刺嘴莺笼",
    "disciplines": [
     "art"
    ]
@@ -23248,6 +23384,7 @@
    ],
    "source_url": "https://www.kodaiji.com/mindar/",
    "paper": {},
+   "title_zh": "机器人观音 Mindar",
    "disciplines": [
     "art",
     "hci",
@@ -23308,6 +23445,7 @@
     "machine-vision-db",
     "uncanny-values-2019"
    ],
+   "title_zh": "分崩离析",
    "disciplines": [
     "activism",
     "art",
@@ -23405,6 +23543,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "机器生物化（触手般的不安）",
    "disciplines": [
     "art"
    ]
@@ -23452,6 +23591,7 @@
    "source_url": "https://www.jakeelwes.com/project-cusp.html",
    "paper": {},
    "also": [],
+   "title_zh": "临界",
    "disciplines": [
     "art"
    ]
@@ -23562,6 +23702,7 @@
     "SIGGRAPH Asia 2025 Art Papers"
    ],
    "also": [],
+   "title_zh": "闪光之城",
    "disciplines": [
     "design",
     "hci"
@@ -23613,6 +23754,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "达利还活着",
    "disciplines": [
     "design"
    ]
@@ -23668,6 +23810,7 @@
     "The Photographers' Gallery, London, 2020"
    ],
    "paper": {},
+   "title_zh": "解密器（AI 背后的人）",
    "disciplines": [
     "art",
     "design"
@@ -23724,6 +23867,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "不和谐的想象",
    "disciplines": [
     "art",
     "performance"
@@ -23769,6 +23913,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "Earthware（自动驾驶汽车第一次看见鹿）",
    "disciplines": [
     "art"
    ]
@@ -23816,6 +23961,7 @@
    "source_url": "https://doi.org/10.1177/1529100619832930",
    "video": {},
    "images": [],
+   "title_zh": "重新审视情绪表达：从人类面部动作推断情绪的挑战",
    "disciplines": [
     "theory"
    ]
@@ -23872,6 +24018,7 @@
     "title": "Excavating AI: The Politics of Images in Machine Learning Training Sets"
    },
    "source_url": "https://excavating.ai",
+   "title_zh": "挖掘 AI：机器学习训练集中的图像政治",
    "disciplines": [
     "activism",
     "art",
@@ -23931,6 +24078,7 @@
    "collections": [
     "uncanny-valley-2020"
    ],
+   "title_zh": "从“苹果”到“异常”（图片与标签）",
    "disciplines": [
     "activism",
     "art"
@@ -23989,6 +24137,7 @@
     "title": "Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass"
    },
    "source_url": "https://ghostwork.info",
+   "title_zh": "销声匿迹：数字化工作的真正未来",
    "disciplines": [
     "activism",
     "theory"
@@ -24047,6 +24196,7 @@
     "Commissioned by Housing the Human, with Swissnex San Francisco and Fotomuseum Winterthur, 2019"
    ],
    "paper": {},
+   "title_zh": "家庭学校",
    "disciplines": [
     "design",
     "film"
@@ -24145,6 +24295,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "你好，人工智能",
    "disciplines": [
     "film"
    ]
@@ -24195,6 +24346,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "你如何看我？",
    "disciplines": [
     "activism",
     "art"
@@ -24255,6 +24407,7 @@
     "Prix Ars Electronica 2019, Honorary Mention (Artificial Life & Intelligence)"
    ],
    "paper": {},
+   "title_zh": "人类学习 #4：课堂",
    "disciplines": [
     "art"
    ]
@@ -24307,6 +24460,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "我，岩浆",
    "disciplines": [
     "art"
    ]
@@ -24413,6 +24567,7 @@
     "The World Through AI, Jeu de Paume, Paris, 2025 (as Faces of ImageNet)"
    ],
    "paper": {},
+   "title_zh": "ImageNet 轮盘",
    "disciplines": [
     "activism",
     "art",
@@ -24469,6 +24624,7 @@
     "IDFA DocLab 2019 (Special Jury Award for Creative Technology)"
    ],
    "paper": {},
+   "title_zh": "如遇登月灾难",
    "disciplines": [
     "art",
     "film"
@@ -24519,6 +24675,7 @@
    "source_url": "https://techcrunch.com/2019/03/04/the-lonely-death-of-jibo-the-social-robot/",
    "images": [],
    "paper": {},
+   "title_zh": "Jibo 的告别",
    "disciplines": [
     "robotics"
    ]
@@ -24623,6 +24780,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "劳动",
    "disciplines": [
     "art"
    ]
@@ -24674,6 +24832,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "活档案",
    "disciplines": [
     "performance"
    ]
@@ -24731,6 +24890,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "机器预兆",
    "disciplines": [
     "art",
     "design"
@@ -24854,6 +25014,7 @@
     "Entangled Realities, HEK Basel, 2019"
    ],
    "paper": {},
+   "title_zh": "膜",
    "disciplines": [
     "art"
    ]
@@ -24904,6 +25065,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "心灵",
    "disciplines": [
     "art"
    ]
@@ -24953,6 +25115,7 @@
    "source_url": "https://openai.com/index/emergent-tool-use/",
    "images": [],
    "also": [],
+   "title_zh": "多智能体捉迷藏",
    "disciplines": [
     "robotics"
    ]
@@ -24999,6 +25162,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "我的蓝窗",
    "disciplines": [
     "art"
    ]
@@ -25048,6 +25212,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "新星",
    "disciplines": [
     "art",
     "film"
@@ -25098,6 +25263,7 @@
    "source_url": "https://www.catiecuan.com/",
    "images": [],
    "also": [],
+   "title_zh": "输出",
    "disciplines": [
     "performance",
     "robotics"
@@ -25195,6 +25361,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "论噪声看似无意义的质地",
    "disciplines": [
     "art",
     "theory"
@@ -25245,6 +25412,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Opportunity_(rover)",
    "paper": {},
    "also": [],
+   "title_zh": "机遇号的最后讯息",
    "disciplines": [
     "robotics"
    ]
@@ -25289,6 +25457,7 @@
    "source_url": "https://transfeministech.codingrights.org/",
    "video": {},
    "paper": {},
+   "title_zh": "跨女性主义技术神谕",
    "disciplines": [
     "activism",
     "design"
@@ -25336,6 +25505,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "PROTO（与 Spawn 合作）",
    "disciplines": [
     "activism",
     "art",
@@ -25445,6 +25615,7 @@
    },
    "video": {},
    "images": [],
+   "title_zh": "平台观看：图像集合及其不可见性",
    "disciplines": [
     "art",
     "theory"
@@ -25496,6 +25667,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "发电植物",
    "disciplines": [
     "art",
     "film"
@@ -25599,6 +25771,7 @@
     "venue": "Polity, 2019",
     "title": "Race After Technology: Abolitionist Tools for the New Jim Code"
    },
+   "title_zh": "技术之后的种族：新吉姆代码的废除主义工具",
    "disciplines": [
     "activism",
     "theory"
@@ -25646,6 +25819,7 @@
    "source_url": "https://doi.org/10.1145/3322276.3322340",
    "video": {},
    "images": [],
+   "title_zh": "再具身与共具身",
    "disciplines": [
     "hci",
     "robotics"
@@ -25695,6 +25869,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "重新编码艺术",
    "disciplines": [
     "art",
     "theory"
@@ -25740,6 +25915,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "递归与偶然",
    "disciplines": [
     "theory"
    ]
@@ -25797,6 +25973,7 @@
     "prix-ars-ai-life",
     "starts-prize"
    ],
+   "title_zh": "某人",
    "disciplines": [
     "art",
     "performance"
@@ -25907,6 +26084,7 @@
     "prix-ars-ai-life",
     "uncanny-valley-2020"
    ],
+   "title_zh": "暗影追踪者",
    "disciplines": [
     "art",
     "film"
@@ -25961,6 +26139,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "幽灵",
    "disciplines": [
     "activism",
     "art"
@@ -26016,6 +26195,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "太阳雨",
    "disciplines": [
     "art"
    ]
@@ -26068,6 +26248,7 @@
     "title": "The Alien Subject of AI"
    },
    "images": [],
+   "title_zh": "AI 的异质主体",
    "disciplines": [
     "theory"
    ]
@@ -26116,6 +26297,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "伊洛瓦伊斯克战役",
    "disciplines": [
     "activism",
     "art"
@@ -26170,6 +26352,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "椅子计划（四件经典）",
    "disciplines": [
     "art",
     "design"
@@ -26216,6 +26399,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "未来已来！",
    "disciplines": [
     "activism",
     "art"
@@ -26268,6 +26452,7 @@
    ],
    "source_url": "https://www.janavirgin.com/works.html",
    "paper": {},
+   "title_zh": "一位亚马逊用户的隐秘生活",
    "disciplines": [
     "activism",
     "art"
@@ -26315,6 +26500,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "网络游者——握手之旅",
    "disciplines": [
     "art"
    ]
@@ -26367,6 +26553,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "他们取走了被告与死者的面孔……（SD18）",
    "disciplines": [
     "activism",
     "art"
@@ -26420,6 +26607,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "这就是未来",
    "disciplines": [
     "art",
     "film"
@@ -26479,6 +26667,7 @@
     "Osservatorio Fondazione Prada, Milan, 2019–20"
    ],
    "paper": {},
+   "title_zh": "训练人类",
    "disciplines": [
     "activism",
     "art",
@@ -26591,6 +26780,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "醒着的智能体",
    "disciplines": [
     "art",
     "performance"
@@ -26652,6 +26842,7 @@
     "Among the Machines, Zabludowicz Collection, London, 2022"
    ],
    "paper": {},
+   "title_zh": "Zizi——酷儿化数据集",
    "disciplines": [
     "art"
    ]
@@ -26804,6 +26995,7 @@
    },
    "source_url": "http://manovich.net/index.php/projects/ai-aesthetics",
    "also": [],
+   "title_zh": "AI美学",
    "disciplines": [
     "theory"
    ]
@@ -26855,6 +27047,7 @@
     "barbican-ai-2019",
     "machine-vision-db"
    ],
+   "title_zh": "AI，我难道不是女人吗？",
    "disciplines": [
     "activism",
     "art"
@@ -26910,6 +27103,7 @@
     "venue": "NYU Press, 2018",
     "title": "Algorithms of Oppression: How Search Engines Reinforce Racism"
    },
+   "title_zh": "压迫的算法：搜索引擎如何强化种族主义",
    "disciplines": [
     "activism",
     "theory"
@@ -26974,6 +27168,7 @@
     "understanding-ai-aec",
     "world-through-ai-2025"
    ],
+   "title_zh": "人工智能系统剖析",
    "disciplines": [
     "activism",
     "art",
@@ -27030,6 +27225,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "安妮丽丝，寻求完整",
    "disciplines": [
     "art"
    ]
@@ -27082,6 +27278,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "亚洲一号",
    "disciplines": [
     "art",
     "film"
@@ -27136,6 +27333,7 @@
    "collections": [
     "starts-prize"
    ],
+   "title_zh": "分身机器人咖啡馆 DAWN ver.β",
    "disciplines": [
     "design",
     "robotics"
@@ -27191,6 +27389,7 @@
    "collections": [
     "uncanny-valley-2020"
    ],
+   "title_zh": "BOB（信念之袋）",
    "disciplines": [
     "art"
    ]
@@ -27290,6 +27489,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "比特币矿和少数民族田野录音",
    "disciplines": [
     "art",
     "film"
@@ -27346,6 +27546,7 @@
     "venue": "Rowman & Littlefield International, 2018",
     "title": "Contingent Computation: Abstraction, Experience, and Indeterminacy in Computational Aesthetics"
    },
+   "title_zh": "偶然计算：计算美学中的抽象、经验与不确定性",
    "disciplines": [
     "theory"
    ]
@@ -27393,6 +27594,7 @@
    "source_url": "https://memo.tv/projects/2018/deep-meditations/",
    "paper": {},
    "also": [],
+   "title_zh": "深度冥想",
    "disciplines": [
     "art"
    ]
@@ -27450,6 +27652,7 @@
    ],
    "source_url": "https://cesarandlois.org/digitalfungus/",
    "paper": {},
+   "title_zh": "退化文化",
    "disciplines": [
     "art"
    ]
@@ -27497,6 +27700,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Detroit:_Become_Human",
    "images": [],
    "paper": {},
+   "title_zh": "底特律：变人",
    "disciplines": [
     "design",
     "film"
@@ -27547,6 +27751,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "内脏",
    "disciplines": [
     "art",
     "performance"
@@ -27806,6 +28011,7 @@
     "title": "Making Kin with the Machines"
    },
    "source_url": "https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite",
+   "title_zh": "与机器结亲",
    "disciplines": [
     "art",
     "theory"
@@ -27908,6 +28114,7 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Akihiko_Kondo",
    "paper": {},
+   "title_zh": "与初音未来结婚",
    "disciplines": [
     "activism"
    ]
@@ -28009,6 +28216,7 @@
     "machine-vision-db",
     "prix-ars-ai-life"
    ],
+   "title_zh": "花叶病毒",
    "disciplines": [
     "art"
    ]
@@ -28067,6 +28275,7 @@
     "AI: More than Human, Barbican, London, 2019"
    ],
    "paper": {},
+   "title_zh": "万千（郁金香）",
    "disciplines": [
     "art"
    ]
@@ -28222,6 +28431,7 @@
    "collections": [
     "understanding-ai-aec"
    ],
+   "title_zh": "非人脸肖像",
    "disciplines": [
     "art"
    ]
@@ -28282,6 +28492,7 @@
     "barbican-ai-2019",
     "lg-guggenheim-award"
    ],
+   "title_zh": "不是唯一一个（N'TOO）",
    "disciplines": [
     "art"
    ]
@@ -28380,6 +28591,7 @@
    "source_url": "http://www.automato.farm/portfolio/objective_realities/",
    "video": {},
    "paper": {},
+   "title_zh": "客观现实",
    "disciplines": [
     "design"
    ]
@@ -28476,6 +28688,7 @@
    "source_url": "https://drib.net/perception-engines",
    "video": {},
    "paper": {},
+   "title_zh": "感知引擎",
    "disciplines": [
     "art"
    ]
@@ -28536,6 +28749,7 @@
     "Ars Electronica Festival 2019"
    ],
    "paper": {},
+   "title_zh": "Alias 计划",
    "disciplines": [
     "design",
     "hci"
@@ -28585,6 +28799,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "重新拼合",
    "disciplines": [
     "art"
    ]
@@ -28633,6 +28848,7 @@
    "source_url": "https://www.coralievogelaar.com/Random-String-of-Emotions",
    "paper": {},
    "also": [],
+   "title_zh": "随机情绪串",
    "disciplines": [
     "art",
     "performance"
@@ -28687,6 +28903,7 @@
     "title": "Robot Rights"
    },
    "also": [],
+   "title_zh": "机器人权利",
    "disciplines": [
     "theory"
    ]
@@ -28733,6 +28950,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "Robotika，机器人保姆",
    "disciplines": [
     "art",
     "robotics"
@@ -28783,6 +29001,7 @@
    "source_url": "https://doi.org/10.1109/CVPR.2018.00175",
    "video": {},
    "images": [],
+   "title_zh": "针对深度学习视觉分类的鲁棒物理世界攻击",
    "disciplines": [
     "hci"
    ]
@@ -28837,6 +29056,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "SEER：模拟情感表达机器人",
    "disciplines": [
     "art",
     "robotics"
@@ -28892,6 +29112,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "可怖之美",
    "disciplines": [
     "art",
     "hci",
@@ -28944,6 +29165,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "社交性",
    "disciplines": [
     "activism",
     "art"
@@ -28999,6 +29221,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "监控狗仔队",
    "disciplines": [
     "art"
    ]
@@ -29050,6 +29273,7 @@
    "source_url": "https://tehiku.nz/te-hiku-tech/",
    "code_url": "https://github.com/TeHikuMedia/Kaitiakitanga-License",
    "paper": {},
+   "title_zh": "毛利语语音识别与 Kaitiakitanga 许可证",
    "disciplines": [
     "activism"
    ]
@@ -29101,6 +29325,7 @@
    "collections": [
     "uncanny-valley-2020"
    ],
+   "title_zh": "破窗之城",
    "disciplines": [
     "art",
     "film"
@@ -29151,6 +29376,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "网络审查员",
    "disciplines": [
     "film"
    ]
@@ -29212,6 +29438,7 @@
     "machine-vision-db",
     "prix-ars-ai-life"
    ],
+   "title_zh": "正常化机器",
    "disciplines": [
     "activism",
     "design"
@@ -29271,6 +29498,7 @@
     "venue": "University of Minnesota Press, 2018",
     "title": "The Robotic Imaginary: The Human and the Price of Dehumanized Labor"
    },
+   "title_zh": "机器人想象：人性与去人性化劳动的代价",
    "disciplines": [
     "theory"
    ]
@@ -29336,6 +29564,7 @@
    "collections": [
     "starts-prize"
    ],
+   "title_zh": "超级视力",
    "disciplines": [
     "art",
     "design"
@@ -29567,6 +29796,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "极黑之暗",
    "disciplines": [
     "design",
     "performance"
@@ -29618,6 +29848,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "恐怖谷",
    "disciplines": [
     "performance"
    ]
@@ -29666,6 +29897,7 @@
    "source_url": "https://eventstructure.com/bot",
    "paper": {},
    "also": [],
+   "title_zh": "观察者",
    "disciplines": [
     "art"
    ]
@@ -29724,6 +29956,7 @@
     "Gray Area, San Francisco"
    ],
    "paper": {},
+   "title_zh": "离散形体",
    "disciplines": [
     "art",
     "performance"
@@ -29827,6 +30060,7 @@
    },
    "source_url": "https://arxiv.org/abs/1712.09665",
    "images": [],
+   "title_zh": "对抗贴片",
    "disciplines": [
     "hci"
    ]
@@ -29924,6 +30158,7 @@
    "source_url": "https://marcodonnarumma.com/works/amygdala/",
    "paper": {},
    "also": [],
+   "title_zh": "杏仁核",
    "disciplines": [
     "art",
     "performance"
@@ -29975,6 +30210,7 @@
    },
    "images": [],
    "also": [],
+   "title_zh": "机器智能时代的艺术",
    "disciplines": [
     "hci",
     "theory"
@@ -30020,6 +30256,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "流水线",
    "disciplines": [
     "art"
    ]
@@ -30075,6 +30312,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "自动驾驶陷阱 001",
    "disciplines": [
     "art",
     "theory"
@@ -30131,6 +30369,7 @@
     "21st Japan Media Arts Festival, Excellence Award 2018"
    ],
    "paper": {},
+   "title_zh": "分身",
    "disciplines": [
     "art"
    ]
@@ -30177,6 +30416,7 @@
     "machine-vision-db",
     "world-through-ai-2025"
    ],
+   "title_zh": "看这辉煌的时代！",
    "disciplines": [
     "activism",
     "art"
@@ -30284,6 +30524,7 @@
    ],
    "source_url": "https://ars.electronica.art/starts-prize/en/blink-humanising-autonomy/",
    "paper": {},
+   "title_zh": "眨眼：人性化自主",
    "disciplines": [
     "design"
    ]
@@ -30340,6 +30581,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "技术疼痛中心",
    "disciplines": [
     "art",
     "design"
@@ -30383,6 +30625,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "闭环",
    "disciplines": [
     "art"
    ]
@@ -30437,6 +30680,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "共（AI）存",
    "disciplines": [
     "art"
    ]
@@ -30488,6 +30732,7 @@
    ],
    "also": [],
    "paper": {},
+   "title_zh": "计算策展",
    "disciplines": [
     "art",
     "design"
@@ -30540,6 +30785,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "布谷",
    "disciplines": [
     "performance"
    ]
@@ -30586,6 +30832,7 @@
    "source_url": "https://www.wired.com/story/a-sons-race-to-give-his-dying-father-artificial-immortality/",
    "paper": {},
    "also": [],
+   "title_zh": "爸爸机器人",
    "disciplines": [
     "design"
    ]
@@ -30635,6 +30882,7 @@
    "source_url": "https://arxiv.org/abs/1706.05125",
    "images": [],
    "also": [],
+   "title_zh": "成交还是不成交？（Bob 与 Alice 谈判机器人）",
    "disciplines": [
     "robotics"
    ]
@@ -30687,6 +30935,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "深海潮汐",
    "disciplines": [
     "art"
    ]
@@ -30740,6 +30989,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "蜻蜓之眼",
    "disciplines": [
     "art",
     "film"
@@ -30786,6 +31036,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "电磁脑神教",
    "disciplines": [
     "art"
    ]
@@ -30882,6 +31133,7 @@
    "source_url": "https://distill.pub/2017/feature-visualization/",
    "video": {},
    "also": [],
+   "title_zh": "特征可视化",
    "disciplines": [
     "art",
     "robotics",
@@ -30935,6 +31187,7 @@
    ],
    "source_url": "https://carolinesinders.com/feminist-data-set/",
    "paper": {},
+   "title_zh": "女性主义数据集",
    "disciplines": [
     "art",
     "design"
@@ -30987,6 +31240,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "风水师",
    "disciplines": [
     "art",
     "film"
@@ -31088,6 +31342,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "我会在披萨前说出你想听的一切",
    "disciplines": [
     "art"
    ]
@@ -31140,6 +31395,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "来袭",
    "disciplines": [
     "art",
     "film"
@@ -31186,6 +31442,7 @@
    "source_url": "https://paglen.studio/2020/04/09/it-began-as-a-military-experiment/",
    "video": {},
    "paper": {},
+   "title_zh": "它始于一场军事实验",
    "disciplines": [
     "activism",
     "art"
@@ -31238,6 +31495,7 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Knightscope",
    "paper": {},
+   "title_zh": "K5 安保机器人跌入喷泉",
    "disciplines": [
     "robotics"
    ]
@@ -31348,6 +31606,7 @@
    "source_url": "https://www.jakeelwes.com/project-latentSpace.html",
    "paper": {},
    "also": [],
+   "title_zh": "潜空间",
    "disciplines": [
     "art"
    ]
@@ -31407,6 +31666,7 @@
     "Understanding AI, Ars Electronica Center, Linz"
    ],
    "paper": {},
+   "title_zh": "学会看见",
    "disciplines": [
     "art"
    ]
@@ -31453,6 +31713,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "记忆（绘图操作单元：第二代）",
    "disciplines": [
     "art",
     "performance"
@@ -31499,6 +31760,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "机器可读的 Hito",
    "disciplines": [
     "activism",
     "art"
@@ -31555,6 +31817,7 @@
     "title": "Making Sense: Cognition, Computing, Art, and Embodiment"
    },
    "images": [],
+   "title_zh": "意义生成：认知、计算、艺术与具身",
    "disciplines": [
     "art",
     "theory"
@@ -31607,6 +31870,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "衍生玛约莉",
    "disciplines": [
     "film"
    ]
@@ -31660,6 +31924,7 @@
     "title": "Morse Things: A Design Inquiry into the Gap Between Things and Us"
    },
    "source_url": "http://eds.siat.sfu.ca/?eds_project=morse-things",
+   "title_zh": "摩斯物件",
    "disciplines": [
     "design",
     "hci"
@@ -31711,6 +31976,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "东京生剥鬼",
    "disciplines": [
     "art"
    ]
@@ -31758,6 +32024,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "神经之镜",
    "disciplines": [
     "art"
    ]
@@ -31807,6 +32074,7 @@
    ],
    "source_url": "https://superflux.in/index.php/work/friends-electric/",
    "paper": {},
+   "title_zh": "我们的电子朋友",
    "disciplines": [
     "design"
    ]
@@ -31856,6 +32124,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "担任佛教葬礼僧侣的 Pepper",
    "disciplines": [
     "robotics"
    ]
@@ -31906,6 +32175,7 @@
    },
    "source_url": "https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a",
    "video": {},
+   "title_zh": "相面术的新衣",
    "disciplines": [
     "hci",
     "theory"
@@ -31948,6 +32218,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "后摩登时代",
    "disciplines": [
     "art"
    ]
@@ -32003,6 +32274,7 @@
     "machine-vision-db",
     "uncanny-values-2019"
    ],
+   "title_zh": "可能是切尔西",
    "disciplines": [
     "activism",
     "art"
@@ -32051,6 +32323,7 @@
    "source_url": "https://nazlicila.com/projects/human-agent-partnerships",
    "video": {},
    "also": [],
+   "title_zh": "作为能动者的产品：物联网时代产品设计的隐喻",
    "disciplines": [
     "design",
     "hci"
@@ -32166,6 +32439,7 @@
     "lg-guggenheim-award",
     "machine-vision-db"
    ],
+   "title_zh": "视觉机器",
    "disciplines": [
     "activism",
     "art"
@@ -32216,6 +32490,7 @@
    "source_url": "https://futureoflife.org/",
    "images": [],
    "paper": {},
+   "title_zh": "杀戮机器人",
    "disciplines": [
     "activism",
     "film"
@@ -32307,6 +32582,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "东南亚批判性辞典",
    "disciplines": [
     "art",
     "film"
@@ -32360,6 +32636,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "联结主义的黑暗时代",
    "disciplines": [
     "art"
    ]
@@ -32407,6 +32684,7 @@
    "source_url": "https://fieldofvision.org/shorts/the-moderators",
    "paper": {},
    "also": [],
+   "title_zh": "审核员",
    "disciplines": [
     "activism",
     "film"
@@ -32456,6 +32734,7 @@
    "source_url": "https://www.filipevilasboas.com/the-punishment",
    "paper": {},
    "also": [],
+   "title_zh": "惩罚",
    "disciplines": [
     "art"
    ]
@@ -32507,6 +32786,7 @@
    },
    "source_url": "https://www.daniclodedesign.com/thethirdthumb",
    "also": [],
+   "title_zh": "第三拇指",
    "disciplines": [
     "design",
     "hci"
@@ -32562,6 +32842,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "我值这么多（自我估价的艺术品）",
    "disciplines": [
     "art"
    ]
@@ -32608,6 +32889,7 @@
    "also": [],
    "video": {},
    "paper": {},
+   "title_zh": "这是问题、解决方案、过去与未来",
    "disciplines": [
     "art"
    ]
@@ -32652,6 +32934,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "用户体验设计创新：以机器学习为设计材料的挑战",
    "disciplines": [
     "hci"
    ]
@@ -32696,6 +32979,7 @@
    "source_url": "https://www.decisionproblem.com/paperclips/",
    "video": {},
    "paper": {},
+   "title_zh": "宇宙回形针",
    "disciplines": [
     "design"
    ]
@@ -32752,6 +33036,7 @@
     "venue": "University of Chicago Press, 2017",
     "title": "Unthought: The Power of the Cognitive Nonconscious"
    },
+   "title_zh": "非思：认知非意识的力量",
    "disciplines": [
     "theory"
    ]
@@ -32800,6 +33085,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "我们，被聚合",
    "disciplines": [
     "activism",
     "art"
@@ -32909,6 +33195,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "可穿戴人脸投影仪",
    "disciplines": [
     "design"
    ]
@@ -32963,6 +33250,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "白领犯罪风险区",
    "disciplines": [
     "art"
    ]
@@ -33060,6 +33348,7 @@
    "collections": [
     "entangled-realities-2019"
    ],
+   "title_zh": "我是来学习的 :))))))",
    "disciplines": [
     "art",
     "theory"
@@ -33159,6 +33448,7 @@
    "source_url": "https://research.rhizomatiks.com/s/works/24drones/en/",
    "paper": {},
    "also": [],
+   "title_zh": "24架无人机",
    "disciplines": [
     "art",
     "performance"
@@ -33209,6 +33499,7 @@
     "title": "A Sea of Data: Apophenia and Pattern (Mis-)Recognition"
    },
    "video": {},
+   "title_zh": "数据之海：幻想性错觉与模式（误）识别",
    "disciplines": [
     "art",
     "film"
@@ -33269,6 +33560,7 @@
     "ZKM Global Control and Censorship 2015–16"
    ],
    "paper": {},
+   "title_zh": "21 世纪无人机声学研究",
    "disciplines": [
     "design",
     "performance"
@@ -33371,6 +33663,7 @@
    },
    "source_url": "https://doi.org/10.1145/2976749.2978392",
    "images": [],
+   "title_zh": "配饰作案",
    "disciplines": [
     "hci"
    ]
@@ -33430,6 +33723,7 @@
     "Ars Electronica 2017"
    ],
    "paper": {},
+   "title_zh": "以至无穷",
    "disciplines": [
     "art",
     "hci"
@@ -33481,6 +33775,7 @@
    "source_url": "https://deepmind.google/research/breakthroughs/alphago/",
    "images": [],
    "also": [],
+   "title_zh": "AlphaGo 与第 37 手",
    "disciplines": [
     "robotics"
    ]
@@ -33598,6 +33893,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "动物分类器",
    "disciplines": [
     "art"
    ]
@@ -33651,6 +33947,7 @@
    },
    "source_url": "https://doi.org/10.1080/14626268.2016.1145127",
    "images": [],
+   "title_zh": "泛灵论设计",
    "disciplines": [
     "design",
     "hci",
@@ -33707,6 +34004,7 @@
     "Aichi Triennale 2016"
    ],
    "paper": {},
+   "title_zh": "无语义语言",
    "disciplines": [
     "art"
    ]
@@ -33754,6 +34052,7 @@
    "source_url": "https://terencebroad.com/works/blade-runner-autoencoded",
    "paper": {},
    "also": [],
+   "title_zh": "银翼杀手——自编码",
    "disciplines": [
     "art",
     "hci"
@@ -33808,6 +34107,7 @@
     "ZERO1 commission, San Jose 2016"
    ],
    "paper": {},
+   "title_zh": "越境者",
    "disciplines": [
     "art",
     "performance"
@@ -33863,6 +34163,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "没办法",
    "disciplines": [
     "art"
    ]
@@ -33908,6 +34209,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "云指数",
    "disciplines": [
     "art",
     "theory"
@@ -33959,6 +34261,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "彩色雕塑",
    "disciplines": [
     "art"
    ]
@@ -34006,6 +34309,7 @@
    "source_url": "https://marcodonnarumma.com/works/corpus-nil/",
    "paper": {},
    "also": [],
+   "title_zh": "零躯体",
    "disciplines": [
     "art",
     "performance"
@@ -34057,6 +34361,7 @@
    },
    "source_url": "https://www.washington.edu/news/2013/09/17/emotional-attachment-to-robots-could-affect-outcome-on-battlefield/",
    "video": {},
+   "title_zh": "军事化空间中的文化与人机交互",
    "disciplines": [
     "hci",
     "theory"
@@ -34108,6 +34413,7 @@
    "collections": [
     "entangled-realities-2019"
    ],
+   "title_zh": "决策空间",
    "disciplines": [
     "art"
    ]
@@ -34151,6 +34457,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "情绪英雄",
    "disciplines": [
     "art",
     "theory"
@@ -34198,6 +34505,7 @@
    "source_url": "https://labs.rs/en/facebook-algorithmic-factory-immaterial-labour-and-data-harvesting/",
    "video": {},
    "paper": {},
+   "title_zh": "Facebook 算法工厂",
    "disciplines": [
     "activism",
     "art"
@@ -34352,6 +34660,7 @@
    "source_url": "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/carlini",
    "images": [],
    "also": [],
+   "title_zh": "隐藏语音命令",
    "disciplines": [
     "hci",
     "theory"
@@ -34403,6 +34712,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "超真实",
    "disciplines": [
     "design",
     "film"
@@ -34459,6 +34769,7 @@
     "title": "A truly human interface: interacting face-to-face with someone whose words are determined by a computer program"
    },
    "source_url": "https://echoborg.com/",
+   "title_zh": "我是 Echoborg",
    "disciplines": [
     "hci",
     "performance"
@@ -34510,6 +34821,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "机器人的天空",
    "disciplines": [
     "design",
     "film"
@@ -34565,6 +34877,7 @@
     "venue": "The New Inquiry, 8 December 2016",
     "title": "Invisible Images (Your Pictures Are Looking at You)"
    },
+   "title_zh": "看不见的图像（你的照片正在看着你）",
    "disciplines": [
     "activism",
     "art"
@@ -34615,6 +34928,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "变质作用",
    "disciplines": [
     "art"
    ]
@@ -34729,6 +35043,7 @@
     "Prix Ars Electronica 2018, Honorary Mention (Interactive Art+)"
    ],
    "paper": {},
+   "title_zh": "机器之母：NoodleFeet",
    "disciplines": [
     "art",
     "robotics"
@@ -34783,6 +35098,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "国鸟",
    "disciplines": [
     "film"
    ]
@@ -34836,6 +35152,7 @@
     "Copenhagen Institute of Interaction Design (CIID) final project, 2016"
    ],
    "paper": {},
+   "title_zh": "物化器",
    "disciplines": [
     "design",
     "hci"
@@ -34933,6 +35250,7 @@
    "source_url": "https://www.upress.umn.edu/9780816698912/on-the-existence-of-digital-objects/",
    "video": {},
    "also": [],
+   "title_zh": "论数码物的存在",
    "disciplines": [
     "theory"
    ]
@@ -34986,6 +35304,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "培养机器人原住民",
    "disciplines": [
     "art",
     "design"
@@ -35034,6 +35353,7 @@
    "source_url": "https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot",
    "paper": {},
    "also": [],
+   "title_zh": "罗曼（罗曼·马祖连科的纪念机器人）",
    "disciplines": [
     "design"
    ]
@@ -35089,6 +35409,7 @@
     "International Film Festival Rotterdam (IFFR)"
    ],
    "paper": {},
+   "title_zh": "覆胶钢",
    "disciplines": [
     "activism",
     "art"
@@ -35138,6 +35459,7 @@
    "source_url": "https://www.happiestbaby.com/products/snoo-smart-bassinet",
    "paper": {},
    "also": [],
+   "title_zh": "SNOO 智能摇篮",
    "disciplines": [
     "design"
    ]
@@ -35231,6 +35553,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "垃圾机器人",
    "disciplines": [
     "design"
    ]
@@ -35272,6 +35595,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "中华未来主义（1839–2046 AD）",
    "disciplines": [
     "art",
     "film"
@@ -35374,6 +35698,7 @@
    "source_url": "https://www.random-international.com/study-for-fifteen-points",
    "paper": {},
    "also": [],
+   "title_zh": "十五点习作 / I",
    "disciplines": [
     "art"
    ]
@@ -35424,6 +35749,7 @@
    "collections": [
     "artistes-robots-2018"
    ],
+   "title_zh": "阳春",
    "disciplines": [
     "art",
     "film",
@@ -35474,6 +35800,7 @@
    "images": [],
    "source_url": "http://rhizome.org/editorial/2016/oct/04/the-download-technologies-of-care/",
    "paper": {},
+   "title_zh": "照护技术",
    "disciplines": [
     "art",
     "film"
@@ -35526,6 +35853,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "阿尔戈斯计划",
    "disciplines": [
     "art",
     "theory"
@@ -35578,6 +35906,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "编码凝视：揭开算法偏见",
    "disciplines": [
     "activism",
     "art"
@@ -35634,6 +35963,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "玻璃屋",
    "disciplines": [
     "activism",
     "design"
@@ -35681,6 +36011,7 @@
    "collections": [
     "glass-room-2016"
    ],
+   "title_zh": "缺失数据集图书馆",
    "disciplines": [
     "activism",
     "art"
@@ -35737,6 +36068,7 @@
     "title": "The Multiple Bodies of a Machine Performer"
    },
    "images": [],
+   "title_zh": "机器表演者的多重身体",
    "disciplines": [
     "art",
     "performance"
@@ -35786,6 +36118,7 @@
    "source_url": "https://www.urbanomic.com/book/question-concerning-technology-china/",
    "images": [],
    "also": [],
+   "title_zh": "论中国的技术问题：宇宙技术初论",
    "disciplines": [
     "theory"
    ]
@@ -35842,6 +36175,7 @@
     "venue": "MIT Press, 2016",
     "title": "The Stack: On Software and Sovereignty"
    },
+   "title_zh": "堆栈：论软件与主权",
    "disciplines": [
     "theory"
    ]
@@ -35888,6 +36222,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "虚拟守望者",
    "disciplines": [
     "activism",
     "art"
@@ -35941,6 +36276,7 @@
    },
    "source_url": "https://doi.org/10.1145/2901790.2901905",
    "images": [],
+   "title_zh": "物的民族志：与非人一起做设计研究",
    "disciplines": [
     "design",
     "hci"
@@ -35999,6 +36335,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "重塑世界的词语：寻觅者",
    "disciplines": [
     "art"
    ]
@@ -36055,6 +36392,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "[帮我认清真相]",
    "disciplines": [
     "art",
     "hci"
@@ -36160,6 +36498,7 @@
    ],
    "source_url": "https://www.nationalgeographic.com/travel/article/in-japan--a-buddhist-funeral-service-for-robot-dogs",
    "paper": {},
+   "title_zh": "光福寺的 AIBO 葬礼",
    "disciplines": [
     "art",
     "robotics"
@@ -36266,6 +36605,7 @@
    },
    "source_url": "https://arxiv.org/abs/1412.1897",
    "images": [],
+   "title_zh": "深度神经网络很容易被愚弄",
    "disciplines": [
     "hci"
    ]
@@ -36316,6 +36656,7 @@
    ],
    "source_url": "https://research.google/blog/inceptionism-going-deeper-into-neural-networks/",
    "paper": {},
+   "title_zh": "DeepDream（Inceptionism）",
    "disciplines": [
     "art",
     "robotics"
@@ -36363,6 +36704,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "妄想曼陀罗",
    "disciplines": [
     "art"
    ]
@@ -36414,6 +36756,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "证言的维度",
    "disciplines": [
     "hci"
    ]
@@ -36469,6 +36812,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "绘图操作单元：第一代（D.O.U.G._1）",
    "disciplines": [
     "art",
     "performance"
@@ -36519,6 +36863,7 @@
    ],
    "source_url": "https://superflux.in/index.php/work/drones/",
    "paper": {},
+   "title_zh": "无人机鸟舍",
    "disciplines": [
     "design"
    ]
@@ -36621,6 +36966,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "使者三部曲",
    "disciplines": [
     "art"
    ]
@@ -36671,6 +37017,7 @@
    ],
    "source_url": "http://www.automato.farm/portfolio/ethical_things/",
    "paper": {},
+   "title_zh": "伦理物件",
    "disciplines": [
     "design"
    ]
@@ -36726,6 +37073,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "穷尽人群",
    "disciplines": [
     "art"
    ]
@@ -36775,6 +37123,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "太阳工厂",
    "disciplines": [
     "art",
     "film"
@@ -36824,6 +37173,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "假阳性",
    "disciplines": [
     "art"
    ]
@@ -36872,6 +37222,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "人身保护令",
    "disciplines": [
     "art",
     "performance"
@@ -36924,6 +37275,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "地狱",
    "disciplines": [
     "art",
     "performance"
@@ -36981,6 +37333,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "人类过时研究所",
    "disciplines": [
     "activism",
     "art"
@@ -37031,6 +37384,7 @@
    "source_url": "https://bostondynamics.com/",
    "images": [],
    "paper": {},
+   "title_zh": "Spot 登场（踢机器狗视频）",
    "disciplines": [
     "robotics"
    ]
@@ -37084,6 +37438,7 @@
     "Mirage Festival, Lyon 2019"
    ],
    "paper": {},
+   "title_zh": "乱穿马路",
    "disciplines": [
     "art"
    ]
@@ -37241,6 +37596,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "置信度",
    "disciplines": [
     "art"
    ]
@@ -37303,6 +37659,7 @@
     "title": "Lichtsuchende: Exploring the Emergence of a Cybernetic Society"
    },
    "source_url": "https://lumenprize.org/2019-winners/dave-murray-rust-rocio-von-jungenfeld",
+   "title_zh": "逐光者",
    "disciplines": [
     "art",
     "hci"
@@ -37360,6 +37717,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "开源手术",
    "disciplines": [
     "design"
    ]
@@ -37413,6 +37771,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "生活模式",
    "disciplines": [
     "art",
     "performance"
@@ -37512,6 +37871,7 @@
    ],
    "source_url": "http://www.automato.farm/portfolio/politics_of_power/",
    "paper": {},
+   "title_zh": "电力政治",
    "disciplines": [
     "design"
    ]
@@ -37560,6 +37920,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "推进",
    "disciplines": [
     "art",
     "performance"
@@ -37612,6 +37973,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "稀土陶器",
    "disciplines": [
     "design"
    ]
@@ -37658,6 +38020,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "贤二机器僧",
    "disciplines": [
     "robotics"
    ]
@@ -37704,6 +38067,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "DARPA 机器人挑战赛上跌倒的机器人",
    "disciplines": [
     "robotics"
    ]
@@ -37757,6 +38121,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "秘密力量",
    "disciplines": [
     "art"
    ]
@@ -37809,6 +38174,7 @@
     "Edinburgh Festival Fringe, Pleasance (2015)"
    ],
    "paper": {},
+   "title_zh": "挑棒游戏：一个爱情故事",
    "disciplines": [
     "performance"
    ]
@@ -37854,6 +38220,7 @@
    "source_url": "https://julianoliver.com/projects/stealth-cell-tower/",
    "video": {},
    "paper": {},
+   "title_zh": "隐形基站",
    "disciplines": [
     "activism",
     "art"
@@ -37905,6 +38272,7 @@
    ],
    "source_url": "http://www.automato.farm/portfolio/teach_algorithms/",
    "paper": {},
+   "title_zh": "算法教师",
    "disciplines": [
     "design"
    ]
@@ -37955,6 +38323,7 @@
    "source_url": "https://campaignagainstsexrobots.org/",
    "images": [],
    "also": [],
+   "title_zh": "不对称的“关系”：卖淫与性爱机器人开发之间的相似之处",
    "disciplines": [
     "activism",
     "theory"
@@ -38006,6 +38375,7 @@
    ],
    "source_url": "https://superflux.in/index.php/work/uninvited-guests/",
    "paper": {},
+   "title_zh": "不速之客",
    "disciplines": [
     "design"
    ]
@@ -38059,6 +38429,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "变焦馆",
    "disciplines": [
     "art"
    ]
@@ -38273,6 +38644,7 @@
    "collections": [
     "artistes-robots-2018"
    ],
+   "title_zh": "（女性形象）",
    "disciplines": [
     "art"
    ]
@@ -38368,6 +38740,7 @@
    "source_url": "https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance",
    "paper": {},
    "also": [],
+   "title_zh": "TED2014 上的仿生舞蹈（与阿德里安娜·哈斯利特-戴维斯）",
    "disciplines": [
     "robotics"
    ]
@@ -38418,6 +38791,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "蓝天日",
    "disciplines": [
     "art"
    ]
@@ -38518,6 +38892,7 @@
     "Uncanny Valley, de Young Museum, San Francisco 2020–21"
    ],
    "paper": {},
+   "title_zh": "与 BINA48 对话",
    "disciplines": [
     "art"
    ]
@@ -38615,6 +38990,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "反功能之物",
    "disciplines": [
     "design",
     "hci"
@@ -38713,6 +39089,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
    "images": [],
    "paper": {},
+   "title_zh": "机械姬",
    "disciplines": [
     "film"
    ]
@@ -38771,6 +39148,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "面部牢笼",
    "disciplines": [
     "art",
     "theory"
@@ -38824,6 +39202,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "HFT 园丁",
    "disciplines": [
     "art"
    ]
@@ -38875,6 +39254,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "互联网机器",
    "disciplines": [
     "design",
     "film"
@@ -38978,6 +39358,7 @@
     "title": "Programmable self-assembly in a thousand-robot swarm"
    },
    "also": [],
+   "title_zh": "Kilobots：千台机器人集群",
    "disciplines": [
     "robotics"
    ]
@@ -39036,6 +39417,7 @@
     "ACT Festival, Asia Culture Center, Gwangju 2015"
    ],
    "paper": {},
+   "title_zh": "海市蜃楼",
    "disciplines": [
     "art"
    ]
@@ -39081,6 +39463,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "为机器人而作的音乐（与 Z-Machines）",
    "disciplines": [
     "performance"
    ]
@@ -39127,6 +39510,7 @@
    "source_url": "https://www.versobooks.com/products/226-psychopolitics",
    "video": {},
    "also": [],
+   "title_zh": "精神政治学",
    "disciplines": [
     "theory"
    ]
@@ -39182,6 +39566,7 @@
     "glass-room-2016",
     "prix-ars-ai-life"
    ],
+   "title_zh": "随机暗网购物者",
    "disciplines": [
     "activism",
     "art"
@@ -39228,6 +39613,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "机器人击鼓义肢（与杰森·巴恩斯）",
    "disciplines": [
     "robotics"
    ]
@@ -39376,6 +39762,7 @@
    ],
    "source_url": "https://nearfuturelaboratory.com/",
    "paper": {},
+   "title_zh": "TBD 商品目录",
    "disciplines": [
     "design"
    ]
@@ -39423,6 +39810,7 @@
    "source_url": "https://en.wikipedia.org/wiki/The_Talos_Principle",
    "images": [],
    "paper": {},
+   "title_zh": "塔罗斯的法则",
    "disciplines": [
     "design"
    ]
@@ -39475,6 +39863,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "URME 监控",
    "disciplines": [
     "activism",
     "art"
@@ -39621,6 +40010,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "一件杰作",
    "disciplines": [
     "performance"
    ]
@@ -39665,6 +40055,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "不对称的爱",
    "disciplines": [
     "art"
    ]
@@ -39708,6 +40099,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "黑镜：马上回来",
    "disciplines": [
     "film"
    ]
@@ -39754,6 +40146,7 @@
    },
    "images": [],
    "paper": {},
+   "title_zh": "盒",
    "disciplines": [
     "film",
     "robotics"
@@ -39805,6 +40198,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "呼吸系列",
    "disciplines": [
     "art"
    ]
@@ -39858,6 +40252,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "看电影的计算机",
    "disciplines": [
     "art"
    ]
@@ -39915,6 +40310,7 @@
    ],
    "source_url": "https://felixluque.com/D-W-I-Clones",
    "paper": {},
+   "title_zh": "通往无限的不同途径：克隆",
    "disciplines": [
     "art"
    ]
@@ -39973,6 +40369,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "数据面具",
    "disciplines": [
     "art"
    ]
@@ -40017,6 +40414,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "数字空想性错视：Facebook 错误肖像个人索引",
    "disciplines": [
     "art"
    ]
@@ -40063,6 +40461,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "无人机打击：调查秘密行动",
    "disciplines": [
     "activism",
     "art"
@@ -40108,6 +40507,7 @@
    "source_url": "http://www.dronesurvivalguide.org/",
    "video": {},
    "paper": {},
+   "title_zh": "无人机生存指南",
    "disciplines": [
     "design"
    ]
@@ -40162,6 +40562,7 @@
     "Academy Award for Best Original Screenplay 2014"
    ],
    "paper": {},
+   "title_zh": "她",
    "disciplines": [
     "film"
    ]
@@ -40216,6 +40617,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "如何不被看见：一段该死的说教视频文件",
    "disciplines": [
     "art",
     "film"
@@ -40322,6 +40724,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "自体光合植物",
    "disciplines": [
     "art",
     "robotics"
@@ -40374,6 +40777,7 @@
    },
    "source_url": "http://www.katedarling.org",
    "video": {},
+   "title_zh": "Pleo 工作坊与机器人共情实验",
    "disciplines": [
     "robotics",
     "theory"
@@ -40423,6 +40827,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "机器人",
    "disciplines": [
     "performance"
    ]
@@ -40470,6 +40875,7 @@
    "source_url": "https://www.moonribas.com/",
    "paper": {},
    "also": [],
+   "title_zh": "地震感／等待地震",
    "disciplines": [
     "art",
     "performance"
@@ -40520,6 +40926,7 @@
    ],
    "source_url": "https://lauren-mccarthy.com/Social-Turkers",
    "paper": {},
+   "title_zh": "社交众包工",
    "disciplines": [
     "art",
     "performance"
@@ -40570,6 +40977,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "隐身服",
    "disciplines": [
     "activism",
     "art"
@@ -40633,6 +41041,7 @@
     "Science Gallery Dublin"
    ],
    "paper": {},
+   "title_zh": "陌生人影像",
    "disciplines": [
     "activism",
     "art"
@@ -40685,6 +41094,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "联合微型王国",
    "disciplines": [
     "design"
    ]
@@ -40731,6 +41141,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Waste_Tide",
    "video": {},
    "also": [],
+   "title_zh": "荒潮",
    "disciplines": [
     "theory"
    ]
@@ -40837,6 +41248,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "ADB（仿深蓝）",
    "disciplines": [
     "art",
     "robotics"
@@ -40888,6 +41300,7 @@
    ],
    "source_url": "https://www.youtube.com/watch?v=AYkbhWiAmLQ",
    "paper": {},
+   "title_zh": "上瘾的产品（烤面包机 Brad）",
    "disciplines": [
     "design"
    ]
@@ -40940,6 +41353,7 @@
     "title": "Alien Phenomenology, or What It's Like to Be a Thing"
    },
    "also": [],
+   "title_zh": "异形现象学：成为一个物是什么感觉",
    "disciplines": [
     "theory"
    ]
@@ -40989,6 +41403,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "云脸",
    "disciplines": [
     "art"
    ]
@@ -41038,6 +41453,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "冲突的音素",
    "disciplines": [
     "activism",
     "art"
@@ -41145,6 +41561,7 @@
     "Prix Ars Electronica 2013, Honorary Mention (Interactive Art)"
    ],
    "paper": {},
+   "title_zh": "描述相机",
    "disciplines": [
     "design",
     "hci"
@@ -41193,6 +41610,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "无人机之影",
    "disciplines": [
     "art",
     "theory"
@@ -41291,6 +41709,7 @@
    ],
    "source_url": "https://dankc.com/end-of-life-care-machine/",
    "paper": {},
+   "title_zh": "临终关怀机器",
    "disciplines": [
     "art",
     "design"
@@ -41349,6 +41768,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "面部武器化套件",
    "disciplines": [
     "art",
     "theory"
@@ -41402,6 +41822,7 @@
     "Cannes Film Festival 2012 (screening)"
    ],
    "paper": {},
+   "title_zh": "天造之物（人类灭亡报告书）",
    "disciplines": [
     "film"
    ]
@@ -41456,6 +41877,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "黄翊与库卡",
    "disciplines": [
     "performance"
    ]
@@ -41503,6 +41925,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "人类界面",
    "disciplines": [
     "performance"
    ]
@@ -41599,6 +42022,7 @@
    },
    "source_url": "https://doi.org/10.1145/2317956.2318055",
    "images": [],
+   "title_zh": "照片盒",
    "disciplines": [
     "design",
     "hci"
@@ -41706,6 +42130,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "机器人与弗兰克",
    "disciplines": [
     "film"
    ]
@@ -41796,6 +42221,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "监控象棋",
    "disciplines": [
     "activism",
     "art"
@@ -41908,6 +42334,7 @@
     "prix-ars-ai-life",
     "vida-awards"
    ],
+   "title_zh": "盲眼机器人",
    "disciplines": [
     "art",
     "performance"
@@ -41957,6 +42384,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "言论自由本身",
    "disciplines": [
     "activism",
     "art"
@@ -42004,6 +42432,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "谷歌三部曲之三：司机与摄像头",
    "disciplines": [
     "art"
    ]
@@ -42057,6 +42486,7 @@
    "collections": [
     "vida-awards"
    ],
+   "title_zh": "不朽者",
    "disciplines": [
     "art",
     "design"
@@ -42105,6 +42535,7 @@
    "source_url": "https://beanotherlab.org/home/work/tmtba/",
    "paper": {},
    "also": [],
+   "title_zh": "成为他人的机器",
    "disciplines": [
     "art",
     "hci"
@@ -42153,6 +42584,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "育儿的优化",
    "disciplines": [
     "art"
    ]
@@ -42202,6 +42634,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "迷信基金计划",
    "disciplines": [
     "art",
     "design"
@@ -42252,6 +42685,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "全部真相",
    "disciplines": [
     "activism",
     "art"
@@ -42302,6 +42736,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "三姐妹（仿真人版）",
    "disciplines": [
     "hci",
     "performance",
@@ -42345,6 +42780,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "透明手雷",
    "disciplines": [
     "activism",
     "art"
@@ -42393,6 +42829,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "无人",
    "disciplines": [
     "art"
    ]
@@ -42438,6 +42875,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "AI 对 AI：两个聊天机器人的对话",
    "disciplines": [
     "robotics"
    ]
@@ -42485,6 +42923,7 @@
    "source_url": "http://www.janavirgin.com/azmove.html",
    "video": {},
    "paper": {},
+   "title_zh": "AZ：一动就被拍下",
    "disciplines": [
     "activism",
     "art"
@@ -42543,6 +42982,7 @@
     "venue": "Basic Books, 2011",
     "title": "Alone Together: Why We Expect More from Technology and Less from Each Other"
    },
+   "title_zh": "群体性孤独：为什么我们对科技期待更多，对彼此却不能更亲密？",
    "disciplines": [
     "hci",
     "theory"
@@ -42590,6 +43030,7 @@
    "source_url": "https://www.michaeleisen.org/blog/?p=358",
    "images": [],
    "paper": {},
+   "title_zh": "亚马逊上售价 23,698,655.93 美元的苍蝇书",
    "disciplines": [
     "activism"
    ]
@@ -42638,6 +43079,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "脸对脸书",
    "disciplines": [
     "activism",
     "art",
@@ -42696,6 +43138,7 @@
     "creative-machine-2024"
    ],
    "also": [],
+   "title_zh": "人类学习 #1（五个名叫保罗的机器人）",
    "disciplines": [
     "art"
    ]
@@ -42743,6 +43186,7 @@
    },
    "video": {},
    "images": [],
+   "title_zh": "人、动物与机器人：人—机器人关系的现象学进路",
    "disciplines": [
     "theory"
    ]
@@ -42801,6 +43245,7 @@
     "VIDA 14.0, second prize"
    ],
    "paper": {},
+   "title_zh": "非理性计算",
    "disciplines": [
     "art"
    ]
@@ -42914,6 +43359,7 @@
     "VIDA 14.0, Special Mention (2012)"
    ],
    "paper": {},
+   "title_zh": "钟摆合唱团",
    "disciplines": [
     "art",
     "performance"
@@ -42967,6 +43413,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "未来身体计划书",
    "disciplines": [
     "design",
     "performance"
@@ -43016,6 +43463,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "保全面子",
    "disciplines": [
     "art"
    ]
@@ -43074,6 +43522,7 @@
     "Beijing Media Art Biennale 2018"
    ],
    "paper": {},
+   "title_zh": "无意义绘画机器人",
    "disciplines": [
     "art"
    ]
@@ -43121,6 +43570,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "机器之歌",
    "disciplines": [
     "design"
    ]
@@ -43169,6 +43619,7 @@
    "source_url": "https://www.andrewnormanwilson.com/WorkersGoogleplex.html",
    "paper": {},
    "also": [],
+   "title_zh": "工人离开谷歌总部",
    "disciplines": [
     "art",
     "film"
@@ -43265,6 +43716,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "演员 #1",
    "disciplines": [
     "art",
     "performance"
@@ -43376,6 +43828,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "CV 炫目迷彩",
    "disciplines": [
     "activism",
     "art"
@@ -43429,6 +43882,7 @@
    },
    "source_url": "https://www.ted.com/talks/heather_knight_silicon_based_comedy",
    "also": [],
+   "title_zh": "Data，机器人单口喜剧演员",
    "disciplines": [
     "performance",
     "robotics"
@@ -43481,6 +43935,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "死亡与力量",
    "disciplines": [
     "performance"
    ]
@@ -43536,6 +43991,7 @@
     "NTT ICC, Tokyo 2011"
    ],
    "paper": {},
+   "title_zh": "代码的欲望",
    "disciplines": [
     "art"
    ]
@@ -43585,6 +44041,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "哈喽，嗨，你好",
    "disciplines": [
     "performance"
    ]
@@ -43638,6 +44095,7 @@
    "collections": [
     "vida-awards"
    ],
+   "title_zh": "物活之地",
    "disciplines": [
     "art",
     "design"
@@ -43688,6 +44146,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "Jurema 行动植物",
    "disciplines": [
     "art"
    ]
@@ -43743,6 +44202,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "月经机器——隆的体验",
    "disciplines": [
     "art",
     "design"
@@ -43802,6 +44262,7 @@
    "exhibited": [
     "YCAM, Yamaguchi 2010"
    ],
+   "title_zh": "心智时间机器",
    "disciplines": [
     "art",
     "robotics"
@@ -43847,6 +44308,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "管弦乐机",
    "disciplines": [
     "performance"
    ]
@@ -43891,6 +44353,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "像素头",
    "disciplines": [
     "art",
     "design"
@@ -43937,6 +44400,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "来自谷歌地球的明信片",
    "disciplines": [
     "art"
    ]
@@ -43992,6 +44456,7 @@
     "Arts Centre Melbourne"
    ],
    "paper": {},
+   "title_zh": "再见",
    "disciplines": [
     "hci",
     "performance",
@@ -44042,6 +44507,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "群集研究（系列）",
    "disciplines": [
     "art"
    ]
@@ -44145,6 +44611,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "弗洛伊德机器人：数字时代的哲学批判",
    "disciplines": [
     "theory"
    ]
@@ -44190,6 +44657,7 @@
    "source_url": "https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects",
    "video": {},
    "also": [],
+   "title_zh": "软件体的生命周期",
    "disciplines": [
     "theory"
    ]
@@ -44242,6 +44710,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "人机",
    "disciplines": [
     "art"
    ]
@@ -44295,6 +44764,7 @@
    "collections": [
     "vida-awards"
    ],
+   "title_zh": "蒂勒女孩",
    "disciplines": [
     "art",
     "performance"
@@ -44350,6 +44820,7 @@
    },
    "source_url": "https://doi.org/10.1007/978-981-19-9588-0_6",
    "images": [],
+   "title_zh": "弱机器人（社交垃圾桶）",
    "disciplines": [
     "hci",
     "robotics"
@@ -44402,6 +44873,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "间隙",
    "disciplines": [
     "art",
     "hci",
@@ -44449,6 +44921,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "216 个预制直流电机，1.0 毫米填充线",
    "disciplines": [
     "art"
    ]
@@ -44500,6 +44973,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "信念系统",
    "disciplines": [
     "design"
    ]
@@ -44556,6 +45030,7 @@
    "collections": [
     "vida-awards"
    ],
+   "title_zh": "食肉家用娱乐机器人",
    "disciplines": [
     "design"
    ]
@@ -44606,6 +45081,7 @@
    "source_url": "https://www.image-net.org/",
    "video": {},
    "images": [],
+   "title_zh": "ImageNet：一个大规模分层图像数据库",
    "disciplines": [
     "theory"
    ]
@@ -44707,6 +45183,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "灰衣人",
    "disciplines": [
     "activism",
     "art"
@@ -44756,6 +45233,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "相面审查器",
    "disciplines": [
     "art"
    ]
@@ -44813,6 +45291,7 @@
     "Prix Ars Electronica 2011, Honorary Mention (Interactive Art)"
    ],
    "paper": {},
+   "title_zh": "感知城市生存工具包",
    "disciplines": [
     "art",
     "design"
@@ -44861,6 +45340,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "严肃游戏 I–IV",
    "disciplines": [
     "film",
     "theory"
@@ -44914,6 +45394,7 @@
    "collections": [
     "vida-awards"
    ],
+   "title_zh": "无声的轰击",
    "disciplines": [
     "art"
    ]
@@ -44964,6 +45445,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "嗅",
    "disciplines": [
     "art"
    ]
@@ -45011,6 +45493,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "对话",
    "disciplines": [
     "art"
    ]
@@ -45068,6 +45551,7 @@
     "Robot Love, Eindhoven 2018"
    ],
    "paper": {},
+   "title_zh": "挠痒沙龙",
    "disciplines": [
     "art"
    ]
@@ -45220,6 +45704,7 @@
    },
    "images": [],
    "also": [],
+   "title_zh": "赛博格意向性：重思人—技术关系的现象学",
    "disciplines": [
     "theory"
    ]
@@ -45273,6 +45758,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "德克，无家可归的机器人",
    "disciplines": [
     "performance",
     "robotics"
@@ -45333,6 +45819,7 @@
     "Prix Ars Electronica 2009, Honorary Mention (Interactive Art)"
    ],
    "paper": {},
+   "title_zh": "回眸者（长鼻）",
    "disciplines": [
     "art",
     "hci"
@@ -45385,6 +45872,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "终",
    "disciplines": [
     "art",
     "performance"
@@ -45432,6 +45920,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Daito_Manabe",
    "images": [],
    "paper": {},
+   "title_zh": "面部电刺激",
    "disciplines": [
     "art",
     "performance"
@@ -45484,6 +45973,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "工作的我",
    "disciplines": [
     "hci",
     "performance",
@@ -45592,6 +46082,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "指令",
    "disciplines": [
     "art"
    ]
@@ -45643,6 +46134,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "Opertus Lunula Umbra（月之隐影）",
    "disciplines": [
     "art"
    ]
@@ -45699,6 +46191,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "游牧植物",
    "disciplines": [
     "art",
     "robotics"
@@ -45805,6 +46298,7 @@
     "Sundance Film Festival 2008 (Alfred P. Sloan Prize)"
    ],
    "paper": {},
+   "title_zh": "睡眠经销商",
    "disciplines": [
     "film"
    ]
@@ -45849,6 +46343,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "一万美分",
    "disciplines": [
     "art"
    ]
@@ -45896,6 +46391,7 @@
    "source_url": "https://9-eyes.com",
    "paper": {},
    "also": [],
+   "title_zh": "谷歌街景的九只眼",
    "disciplines": [
     "art",
     "film"
@@ -45952,6 +46448,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "思考机器",
    "disciplines": [
     "art",
     "performance"
@@ -46002,6 +46499,7 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Time_of_Eve",
    "paper": {},
+   "title_zh": "伊芙的时间",
    "disciplines": [
     "film"
    ]
@@ -46098,6 +46596,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "机器人总动员",
    "disciplines": [
     "film"
    ]
@@ -46155,6 +46654,7 @@
     "Open Codes, ZKM Karlsruhe 2017–19"
    ],
    "paper": {},
+   "title_zh": "宣言",
    "disciplines": [
     "art"
    ]
@@ -46210,6 +46710,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "深层游戏",
    "disciplines": [
     "film",
     "theory"
@@ -46261,6 +46762,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "微妙的边界",
    "disciplines": [
     "art"
    ]
@@ -46313,6 +46815,7 @@
     "FlatFile Galleries, Chicago (2007)"
    ],
    "paper": {},
+   "title_zh": "家庭紧张",
    "disciplines": [
     "art",
     "performance"
@@ -46363,6 +46866,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "无面",
    "disciplines": [
     "art",
     "film"
@@ -46415,6 +46919,7 @@
    ],
    "source_url": "https://billvorn.concordia.ca/robography/GraceState.html",
    "paper": {},
+   "title_zh": "优雅状态机",
    "disciplines": [
     "art",
     "performance"
@@ -46470,6 +46975,7 @@
     "title": "Human-Machine Reconfigurations: Plans and Situated Actions"
    },
    "also": [],
+   "title_zh": "人机重构：计划与情境行动",
    "disciplines": [
     "hci",
     "theory"
@@ -46519,6 +47025,7 @@
    "source_url": "http://www.amorphicrobotworks.org/inflatable-architectural-body",
    "paper": {},
    "also": [],
+   "title_zh": "充气建筑体",
    "disciplines": [
     "art",
     "performance"
@@ -46572,6 +47079,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "老人院",
    "disciplines": [
     "art"
    ]
@@ -46682,6 +47190,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "表演性生态",
    "disciplines": [
     "design",
     "robotics"
@@ -46733,6 +47242,7 @@
    "collections": [
     "vida-awards"
    ],
+   "title_zh": "传播",
    "disciplines": [
     "art"
    ]
@@ -46780,6 +47290,7 @@
    "source_url": "https://rlfbckr.io/project/rechnender-raum/",
    "images": [],
    "paper": {},
+   "title_zh": "计算空间",
    "disciplines": [
     "art"
    ]
@@ -46835,6 +47346,7 @@
     "What If..., Science Gallery Dublin 2009"
    ],
    "paper": {},
+   "title_zh": "技术之梦系列：第1号，机器人",
    "disciplines": [
     "design"
    ]
@@ -46886,6 +47398,7 @@
    "collections": [
     "prix-ars-ai-life"
    ],
+   "title_zh": "bios [圣经]",
    "disciplines": [
     "art"
    ]
@@ -46937,6 +47450,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "ALAVs 2.0（自主光气飞行器）",
    "disciplines": [
     "art",
     "robotics"
@@ -46991,6 +47505,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "述情障碍",
    "disciplines": [
     "art"
    ]
@@ -47049,6 +47564,7 @@
     "Taipei Fine Arts Museum 2008"
    ],
    "paper": {},
+   "title_zh": "乞丐机器人",
    "disciplines": [
     "art"
    ]
@@ -47095,6 +47611,7 @@
    "source_url": "https://stelarc.org/",
    "paper": {},
    "also": [],
+   "title_zh": "手臂上的耳朵",
    "disciplines": [
     "art",
     "performance"
@@ -47199,6 +47716,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "辉光",
    "disciplines": [
     "art",
     "performance"
@@ -47255,6 +47773,7 @@
     "venue": "MIT Press, 2006",
     "title": "How the Body Shapes the Way We Think: A New View of Intelligence"
    },
+   "title_zh": "身体的智能：智能科学新视角",
    "disciplines": [
     "robotics",
     "theory"
@@ -47304,6 +47823,7 @@
    "source_url": "https://billvorn.concordia.ca/robography/Hysterical.html",
    "paper": {},
    "also": [],
+   "title_zh": "歇斯底里机器",
    "disciplines": [
     "art",
     "performance"
@@ -47351,6 +47871,7 @@
    },
    "video": {},
    "images": [],
+   "title_zh": "落入机器之手？老年照护的未来",
    "disciplines": [
     "theory"
    ]
@@ -47408,6 +47929,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "城市寄生虫",
    "disciplines": [
     "art",
     "robotics"
@@ -47461,6 +47983,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "RAP（机器人行动画家）",
    "disciplines": [
     "art"
    ]
@@ -47516,6 +48039,7 @@
     "title": "Resilient Machines Through Continuous Self-Modeling"
    },
    "images": [],
+   "title_zh": "基于持续自我建模的韧性机器",
    "disciplines": [
     "robotics"
    ]
@@ -47573,6 +48097,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "机器人椅",
    "disciplines": [
     "art",
     "robotics"
@@ -47625,6 +48150,7 @@
    ],
    "source_url": "http://www.amorphicrobotworks.org/the-robotic-church",
    "paper": {},
+   "title_zh": "机器人教堂",
    "disciplines": [
     "art",
     "performance"
@@ -47674,6 +48200,7 @@
    "source_url": "https://www.aaronkoblin.com/work/thesheepmarket/",
    "paper": {},
    "also": [],
+   "title_zh": "羊市",
    "disciplines": [
     "art"
    ]
@@ -47719,6 +48246,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "谁的乌托邦",
    "disciplines": [
     "art",
     "film"
@@ -47776,6 +48304,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "永恒任务",
    "disciplines": [
     "art"
    ]
@@ -47825,6 +48354,7 @@
    "source_url": "https://marielayeregui.com/proxemia-proxemics/",
    "paper": {},
    "also": [],
+   "title_zh": "空间关系学",
    "disciplines": [
     "art"
    ]
@@ -47876,6 +48406,7 @@
    },
    "images": [],
    "also": [],
+   "title_zh": "自我复制机器（Molecubes）",
    "disciplines": [
     "robotics"
    ]
@@ -47984,6 +48515,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "增强鱼类现实",
    "disciplines": [
     "art"
    ]
@@ -48086,6 +48618,7 @@
    "source_url": "https://www.conceptlab.com/roachbot/",
    "paper": {},
    "also": [],
+   "title_zh": "蟑螂操控的移动机器人",
    "disciplines": [
     "art",
     "hci"
@@ -48135,6 +48668,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "示威",
    "disciplines": [
     "art",
     "robotics"
@@ -48237,6 +48771,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "证物柜",
    "disciplines": [
     "art"
    ]
@@ -48282,6 +48817,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "Eyeborg（赛博格天线）",
    "disciplines": [
     "art"
    ]
@@ -48336,6 +48872,7 @@
    },
    "source_url": "https://doi.org/10.1109/mmul.2008.7",
    "images": [],
+   "title_zh": "鱼与鸟",
    "disciplines": [
     "art",
     "robotics"
@@ -48444,6 +48981,7 @@
    },
    "source_url": "https://www.harunfarocki.de/installations/2000s/2003/eye-machine-iii.html",
    "images": [],
+   "title_zh": "幻影图像",
    "disciplines": [
     "film",
     "theory"
@@ -48496,6 +49034,7 @@
     "machine-vision-db"
    ],
    "paper": {},
+   "title_zh": "（不）安全摄像头",
    "disciplines": [
     "art"
    ]
@@ -48595,6 +49134,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "茄子",
    "disciplines": [
     "art"
    ]
@@ -48646,6 +49186,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "舞者 #1",
    "disciplines": [
     "art",
     "performance"
@@ -48694,6 +49235,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "生活使用说明",
    "disciplines": [
     "art",
     "performance"
@@ -48747,6 +49289,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "活毛皮（替身）",
    "disciplines": [
     "art"
    ]
@@ -48797,6 +49340,7 @@
    "source_url": "https://guybenary.com/projects/meart.html",
    "paper": {},
    "also": [],
+   "title_zh": "MEART——半活体艺术家",
    "disciplines": [
     "art"
    ]
@@ -48853,6 +49397,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "分类守护进程",
    "disciplines": [
     "art"
    ]
@@ -48903,6 +49448,7 @@
     "title": "Designing Sociable Robots"
    },
    "video": {},
+   "title_zh": "设计社交机器人",
    "disciplines": [
     "hci",
     "robotics"
@@ -48954,6 +49500,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Kevin_Warwick",
    "images": [],
    "also": [],
+   "title_zh": "赛博格计划 2.0（神经植入）",
    "disciplines": [
     "robotics"
    ]
@@ -49001,6 +49548,7 @@
    "source_url": "https://stelarc.org/",
    "images": [],
    "paper": {},
+   "title_zh": "假肢头",
    "disciplines": [
     "art",
     "performance"
@@ -49046,6 +49594,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "天蓝系统安全装饰",
    "disciplines": [
     "art"
    ]
@@ -49096,6 +49645,7 @@
    "source_url": "https://www.francoispachet.fr/",
    "images": [],
    "also": [],
+   "title_zh": "延续者",
    "disciplines": [
     "hci"
    ]
@@ -49142,6 +49692,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "追踪无常",
    "disciplines": [
     "art"
    ]
@@ -49192,6 +49743,7 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence",
    "paper": {},
+   "title_zh": "人工智能",
    "disciplines": [
     "film"
    ]
@@ -49238,6 +49790,7 @@
    },
    "video": {},
    "images": [],
+   "title_zh": "机器人有环世界吗？对雅各布·冯·于克斯屈尔质性生物符号学的思考",
    "disciplines": [
     "theory"
    ]
@@ -49295,6 +49848,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "眼睛/机器 I–III",
    "disciplines": [
     "film",
     "theory"
@@ -49346,6 +49900,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "如果/那么",
    "disciplines": [
     "art"
    ]
@@ -49387,6 +49942,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "安慰剂计划",
    "disciplines": [
     "design"
    ]
@@ -49437,6 +49993,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "下沉之感",
    "disciplines": [
     "art"
    ]
@@ -49482,6 +50039,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "区域",
    "disciplines": [
     "art",
     "performance"
@@ -49543,6 +50101,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "自创生",
    "disciplines": [
     "art"
    ]
@@ -49593,6 +50152,7 @@
    "source_url": "https://www.jonmccormack.info/artworks/eden/",
    "paper": {},
    "also": [],
+   "title_zh": "伊甸",
    "disciplines": [
     "art",
     "theory"
@@ -49645,6 +50205,7 @@
    },
    "images": [],
    "also": [],
+   "title_zh": "魔像计划",
    "disciplines": [
     "robotics"
    ]
@@ -49851,6 +50412,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "双足",
    "disciplines": [
     "art",
     "performance"
@@ -49897,6 +50459,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "BIT 飞机",
    "disciplines": [
     "activism",
     "art"
@@ -49944,6 +50507,7 @@
    "source_url": "https://longnow.org/clock/",
    "paper": {},
    "also": [],
+   "title_zh": "万年钟",
    "disciplines": [
     "design",
     "theory"
@@ -49991,6 +50555,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "捕捉幽灵",
    "disciplines": [
     "art",
     "performance"
@@ -50046,6 +50611,7 @@
     "title": "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics"
    },
    "also": [],
+   "title_zh": "我们何以成为后人类：文学、信息科学和控制论中的虚拟身体",
    "disciplines": [
     "theory"
    ]
@@ -50101,6 +50667,7 @@
     "venue": "Computation for Metaphors, Analogy, and Agents, LNCS 1562, Springer, 1999",
     "title": "The Cog Project: Building a Humanoid Robot"
    },
+   "title_zh": "Cog 项目：构建一个人形机器人",
    "disciplines": [
     "robotics",
     "theory"
@@ -50149,6 +50716,7 @@
    "source_url": "https://www.marceliantunez.com/work/afasia/",
    "paper": {},
    "also": [],
+   "title_zh": "失语症",
    "disciplines": [
     "art",
     "performance"
@@ -50256,6 +50824,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "赛博格系列",
    "disciplines": [
     "art"
    ]
@@ -50301,6 +50870,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "外骨骼",
    "disciplines": [
     "art",
     "performance"
@@ -50413,6 +50983,7 @@
    "source_url": "https://www.paulos.net/",
    "images": [],
    "also": [],
+   "title_zh": "PRoP（个人漫游临场）",
    "disciplines": [
     "hci"
    ]
@@ -50515,6 +51086,7 @@
     "title": "The Extended Mind"
    },
    "images": [],
+   "title_zh": "延展心灵",
    "disciplines": [
     "theory"
    ]
@@ -50564,6 +51136,7 @@
    "source_url": "https://www.ekac.org",
    "video": {},
    "images": [],
+   "title_zh": "机器人艺术的奠基与发展",
    "disciplines": [
     "art"
    ]
@@ -50610,6 +51183,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "加拉帕戈斯",
    "disciplines": [
     "art",
     "robotics"
@@ -50664,6 +51238,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "奇迹王朝",
    "disciplines": [
     "art",
     "performance"
@@ -50713,6 +51288,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "生命空间种",
    "disciplines": [
     "art"
    ]
@@ -50757,6 +51333,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "时间胶囊",
    "disciplines": [
     "art"
    ]
@@ -50813,6 +51390,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "分子信息学",
    "disciplines": [
     "art"
    ]
@@ -50858,6 +51436,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "为监控摄像头表演",
    "disciplines": [
     "activism",
     "performance"
@@ -50907,6 +51486,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "Ping 身体",
    "disciplines": [
     "art",
     "performance"
@@ -50953,6 +51533,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "珍禽",
    "disciplines": [
     "art"
    ]
@@ -51003,6 +51584,7 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Tamagotchi",
    "paper": {},
+   "title_zh": "拓麻歌子",
    "disciplines": [
     "design"
    ]
@@ -51051,6 +51633,7 @@
    },
    "video": {},
    "also": [],
+   "title_zh": "媒体等同：人们该如何像对待真人实景一样对待电脑、电视和新媒体",
    "disciplines": [
     "hci",
     "theory"
@@ -51100,6 +51683,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "分形的肉体",
    "disciplines": [
     "art",
     "performance"
@@ -51152,6 +51736,7 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)",
    "paper": {},
+   "title_zh": "攻壳机动队",
    "disciplines": [
     "film"
    ]
@@ -51199,6 +51784,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "共感知觉",
    "disciplines": [
     "art",
     "theory"
@@ -51251,6 +51837,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "远程花园",
    "disciplines": [
     "art",
     "robotics"
@@ -51301,6 +51888,7 @@
    "collections": [
     "machine-vision-db"
    ],
+   "title_zh": "蒂莉，遥控机器人娃娃",
    "disciplines": [
     "art",
     "film"
@@ -51406,6 +51994,7 @@
    },
    "images": [],
    "also": [],
+   "title_zh": "计算机是社会行动者",
    "disciplines": [
     "hci",
     "theory"
@@ -51509,6 +52098,7 @@
    },
    "source_url": "https://www.karlsims.com/evolved-virtual-creatures.html",
    "also": [],
+   "title_zh": "进化的虚拟生物",
    "disciplines": [
     "art",
     "robotics"
@@ -51554,6 +52144,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "墨丘利计划",
    "disciplines": [
     "art",
     "robotics"
@@ -51605,6 +52196,7 @@
    ],
    "source_url": "https://www.ntticc.or.jp/en/archive/works/inter-dis-communication-machine/",
    "paper": {},
+   "title_zh": "互不通信机器",
    "disciplines": [
     "art",
     "design"
@@ -51657,6 +52249,7 @@
    ],
    "source_url": "https://www.maywadenki.com/",
    "paper": {},
+   "title_zh": "无意义机器",
    "disciplines": [
     "art",
     "performance"
@@ -51711,6 +52304,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "小发作",
    "disciplines": [
     "art",
     "theory"
@@ -51806,6 +52400,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "互动植物生长",
    "disciplines": [
     "art"
    ]
@@ -51847,6 +52442,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "JoAn，肉身之人",
    "disciplines": [
     "art",
     "performance"
@@ -51905,6 +52501,7 @@
    ],
    "source_url": "http://www.eculturefactory.de/liquid-views",
    "paper": {},
+   "title_zh": "液态视界",
    "disciplines": [
     "art",
     "hci"
@@ -51953,6 +52550,7 @@
    "source_url": "https://www.arthurganson.com/",
    "images": [],
    "paper": {},
+   "title_zh": "带混凝土的机器",
    "disciplines": [
     "art"
    ]
@@ -52007,6 +52605,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "表面张力",
    "disciplines": [
     "art"
    ]
@@ -52057,6 +52656,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "远程梦境",
    "disciplines": [
     "art"
    ]
@@ -52109,6 +52709,7 @@
     "title": "Intelligence without Representation"
    },
    "images": [],
+   "title_zh": "无表征的智能",
    "disciplines": [
     "robotics",
     "theory"
@@ -52159,6 +52760,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "淑女手套",
    "disciplines": [
     "performance"
    ]
@@ -52213,6 +52815,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "命名者",
    "disciplines": [
     "art"
    ]
@@ -52256,6 +52859,7 @@
    "video": {},
    "images": [],
    "also": [],
+   "title_zh": "追踪者（使用 LifeForms）",
    "disciplines": [
     "performance"
    ]
@@ -52300,6 +52904,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "无政府主义音乐会",
    "disciplines": [
     "art",
     "film"
@@ -52346,6 +52951,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "带油的机器",
    "disciplines": [
     "art"
    ]
@@ -52400,6 +53006,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "仿生兽",
    "disciplines": [
     "art"
    ]
@@ -52455,6 +53062,7 @@
    },
    "source_url": "https://iupress.org/9780253205605/technology-and-the-lifeworld/",
    "also": [],
+   "title_zh": "技术与生活世界：从伊甸园到尘世",
    "disciplines": [
     "theory"
    ]
@@ -52496,6 +53104,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "鸭嘴兽",
    "disciplines": [
     "art"
    ]
@@ -52541,6 +53150,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "带许愿骨的机器",
    "disciplines": [
     "art"
    ]
@@ -52590,6 +53200,7 @@
     "title": "The Vision Machine"
    },
    "video": {},
+   "title_zh": "视觉机器",
    "disciplines": [
     "theory"
    ]
@@ -52639,6 +53250,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Norman_White",
    "images": [],
    "paper": {},
+   "title_zh": "那些该死的机器人",
    "disciplines": [
     "art"
    ]
@@ -52692,6 +53304,7 @@
    },
    "source_url": "https://www.red3d.com/cwr/boids/",
    "images": [],
+   "title_zh": "类鸟群",
    "disciplines": [
     "robotics"
    ]
@@ -52751,6 +53364,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "无助的机器人",
    "disciplines": [
     "art"
    ]
@@ -52800,6 +53414,7 @@
    "source_url": "https://en.wikipedia.org/wiki/George_E._Lewis",
    "images": [],
    "also": [],
+   "title_zh": "旅行者",
    "disciplines": [
     "performance",
     "theory"
@@ -52850,6 +53465,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "机器人家庭",
    "disciplines": [
     "art",
     "performance"
@@ -52899,6 +53515,7 @@
     "title": "Simians, Cyborgs, and Women: The Reinvention of Nature"
    },
    "video": {},
+   "title_zh": "赛博格宣言：20世纪80年代的科学、技术与社会主义女性主义",
    "disciplines": [
     "theory"
    ]
@@ -52939,6 +53556,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "Racter：警察的胡子造了一半",
    "disciplines": [
     "art"
    ]
@@ -52982,6 +53600,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "双手",
    "disciplines": [
     "performance"
    ]
@@ -53038,6 +53657,7 @@
     "venue": "MIT Press, 1984",
     "title": "Vehicles: Experiments in Synthetic Psychology"
    },
+   "title_zh": "小车：合成心理学实验",
    "disciplines": [
     "theory"
    ]
@@ -53086,6 +53706,7 @@
    },
    "video": {},
    "also": [],
+   "title_zh": "摄影哲学的思考",
    "disciplines": [
     "theory"
    ]
@@ -53132,6 +53753,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Blade_Runner",
    "images": [],
    "paper": {},
+   "title_zh": "银翼杀手",
    "disciplines": [
     "film"
    ]
@@ -53182,6 +53804,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "二十一世纪的第一起事故",
    "disciplines": [
     "art",
     "performance"
@@ -53224,6 +53847,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "魔像 XIV",
    "disciplines": [
     "theory"
    ]
@@ -53272,6 +53896,7 @@
    },
    "source_url": "https://openlibrary.org/works/OL5531608W",
    "video": {},
+   "title_zh": "机器人中的佛陀",
    "disciplines": [
     "robotics",
     "theory"
@@ -53318,6 +53943,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "空间之洞",
    "disciplines": [
     "art"
    ]
@@ -53370,6 +53996,7 @@
     "title": "Minds, Brains, and Programs"
    },
    "images": [],
+   "title_zh": "心灵、大脑与程序",
    "disciplines": [
     "theory"
    ]
@@ -53425,6 +54052,7 @@
     "title": "Telexistence: Enabling Humans to Be Virtually Ubiquitous"
    },
    "source_url": "https://tachilab.org/en/about/telexistence.html",
+   "title_zh": "远程存在（TELESAR）",
    "disciplines": [
     "hci",
     "robotics"
@@ -53470,6 +54098,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "第三只手",
    "disciplines": [
     "art",
     "performance"
@@ -53523,6 +54152,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "SRL 机器表演",
    "disciplines": [
     "art",
     "performance"
@@ -53571,6 +54201,7 @@
    "source_url": "https://en.wikipedia.org/wiki/The_Man-Machine",
    "paper": {},
    "also": [],
+   "title_zh": "人机",
    "disciplines": [
     "performance"
    ]
@@ -53619,6 +54250,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "机器视觉",
    "disciplines": [
     "art",
     "film"
@@ -53674,6 +54306,7 @@
    },
    "source_url": "http://wearcam.org/",
    "also": [],
+   "title_zh": "WearComp 与 EyeTap",
    "disciplines": [
     "hci"
    ]
@@ -53721,6 +54354,7 @@
    },
    "video": {},
    "also": [],
+   "title_zh": "计算机能力与人类理性：从判断到计算",
    "disciplines": [
     "hci",
     "theory"
@@ -53833,6 +54467,7 @@
     "Stedelijk Museum Amsterdam (collection)"
    ],
    "paper": {},
+   "title_zh": "电视佛",
    "disciplines": [
     "art",
     "performance"
@@ -53988,6 +54623,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "铅笔面具",
    "disciplines": [
     "art",
     "film"
@@ -54042,6 +54678,7 @@
     "title": "What Computers Can't Do: A Critique of Artificial Reason"
    },
    "also": [],
+   "title_zh": "计算机不能做什么",
    "disciplines": [
     "theory"
    ]
@@ -54092,6 +54729,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "中部地区",
    "disciplines": [
     "art",
     "film"
@@ -54137,6 +54775,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "巨人：福宾计划",
    "disciplines": [
     "film"
    ]
@@ -54192,6 +54831,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "Senster",
    "disciplines": [
     "art",
     "robotics"
@@ -54248,6 +54888,7 @@
     "title": "The Uncanny Valley"
    },
    "source_url": "https://spectrum.ieee.org/the-uncanny-valley",
+   "title_zh": "恐怖谷",
    "disciplines": [
     "robotics",
     "theory"
@@ -54294,6 +54935,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "2001太空漫游（HAL 9000）",
    "disciplines": [
     "film"
    ]
@@ -54342,6 +54984,7 @@
     "title": "Beyond Modern Sculpture: The Effects of Science and Technology on the Sculpture of This Century"
    },
    "video": {},
+   "title_zh": "超越现代雕塑：科学与技术对本世纪雕塑的影响",
    "disciplines": [
     "theory"
    ]
@@ -54397,6 +55040,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "动态雕塑的对话",
    "disciplines": [
     "art",
     "theory"
@@ -54443,6 +55087,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "控制论雕塑",
    "disciplines": [
     "art",
     "robotics"
@@ -54502,6 +55147,7 @@
    "collections": [
     "cybernetic-serendipity-1968"
    ],
+   "title_zh": "控制论的偶然发现：计算机与艺术",
    "disciplines": [
     "art",
     "theory"
@@ -54558,6 +55204,7 @@
    ],
    "paper": {},
    "also": [],
+   "title_zh": "SAM（声控动态雕塑）",
    "disciplines": [
     "art",
     "robotics"
@@ -54656,6 +55303,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "蹲",
    "disciplines": [
     "art"
    ]
@@ -54706,6 +55354,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "漂浮体",
    "disciplines": [
     "art",
     "film"
@@ -54754,6 +55403,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Hug_machine",
    "paper": {},
    "also": [],
+   "title_zh": "拥抱机",
    "disciplines": [
     "design"
    ]
@@ -54800,6 +55450,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Alvin_Lucier",
    "paper": {},
    "also": [],
+   "title_zh": "为独奏者而作的音乐",
    "disciplines": [
     "performance"
    ]
@@ -54910,6 +55561,7 @@
     "artistes-robots-2018",
     "cybernetic-serendipity-1968"
    ],
+   "title_zh": "机器人 K-456",
    "disciplines": [
     "art",
     "performance",
@@ -54961,6 +55613,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Johns_Hopkins_Beast",
    "paper": {},
    "also": [],
+   "title_zh": "霍普金斯野兽",
    "disciplines": [
     "robotics"
    ]
@@ -55002,6 +55655,7 @@
    "video": {},
    "paper": {},
    "also": [],
+   "title_zh": "亨利绘图机",
    "disciplines": [
     "art"
    ]
@@ -55050,6 +55704,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "向纽约致敬",
    "disciplines": [
     "art"
    ]
@@ -55104,6 +55759,7 @@
     "venue": "IRE Transactions on Human Factors in Electronics HFE-1, 1960",
     "title": "Man-Computer Symbiosis"
    },
+   "title_zh": "人机共生",
    "disciplines": [
     "theory"
    ]
@@ -55156,6 +55812,7 @@
    "images": [],
    "paper": {},
    "also": [],
+   "title_zh": "Méta-Matics 绘画机器",
    "disciplines": [
     "art"
    ]
@@ -55204,6 +55861,7 @@
    },
    "video": {},
    "also": [],
+   "title_zh": "论技术物的存在模式",
    "disciplines": [
     "theory"
    ]
@@ -55308,6 +55966,7 @@
    "source_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904",
    "video": {},
    "also": [],
+   "title_zh": "达特茅斯人工智能夏季研究项目提案",
    "disciplines": [
     "robotics",
     "theory"
@@ -55362,6 +56021,7 @@
     "title": "Tetsuwan Atom (Astro Boy)"
    },
    "source_url": "https://en.wikipedia.org/wiki/Astro_Boy",
+   "title_zh": "铁臂阿童木",
    "disciplines": [
     "art",
     "film"
@@ -55410,6 +56070,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Useless_machine",
    "paper": {},
    "also": [],
+   "title_zh": "终极机器",
    "disciplines": [
     "robotics",
     "theory"
@@ -55461,6 +56122,7 @@
     "title": "An Imitation of Life"
    },
    "video": {},
+   "title_zh": "模仿生命",
    "disciplines": [
     "robotics",
     "theory"
@@ -55512,6 +56174,7 @@
    },
    "source_url": "https://www.turing.org.uk",
    "video": {},
+   "title_zh": "计算机器与智能",
    "disciplines": [
     "theory"
    ]
@@ -55561,6 +56224,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Claude_Shannon",
    "images": [],
    "paper": {},
+   "title_zh": "忒修斯（走迷宫的机械鼠）",
    "disciplines": [
     "robotics",
     "theory"
@@ -55618,6 +56282,7 @@
     "Festival of Britain, London 1951"
    ],
    "paper": {},
+   "title_zh": "思索机械（埃尔默与艾尔西）",
    "disciplines": [
     "robotics",
     "theory"
@@ -55674,6 +56339,7 @@
    },
    "source_url": "https://mitpress.mit.edu/9780262537841/",
    "also": [],
+   "title_zh": "控制论：或关于在动物和机器中控制和通信的科学",
    "disciplines": [
     "theory"
    ]
@@ -55727,6 +56393,7 @@
     "title": "An Experimental Study of Apparent Behavior"
    },
    "images": [],
+   "title_zh": "表观行为的实验研究",
    "disciplines": [
     "theory"
    ]
@@ -55772,6 +56439,7 @@
    ],
    "video": {},
    "paper": {},
+   "title_zh": "罗素姆万能机器人",
    "disciplines": [
     "theory"
    ]
@@ -55823,6 +56491,7 @@
    ],
    "images": [],
    "paper": {},
+   "title_zh": "写字人偶",
    "disciplines": [
     "robotics"
    ]
@@ -55870,6 +56539,7 @@
    "source_url": "https://en.wikipedia.org/wiki/Digesting_Duck",
    "paper": {},
    "also": [],
+   "title_zh": "消化鸭",
    "disciplines": [
     "robotics"
    ]

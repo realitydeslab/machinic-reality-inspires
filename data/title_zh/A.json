@@ -1,0 +1,718 @@
+{
+ "aaajiao--aaajiaoisbot": {
+  "zh": "bot is aaajiao / aaajiao is bot",
+  "src": "keep"
+ },
+ "daito-manabe--brain-processing-unit": {
+  "zh": "大脑处理单元",
+  "src": "established"
+ },
+ "beijing-e-town--humanoid-half-marathon": {
+  "zh": "人形机器人半程马拉松",
+  "src": "original"
+ },
+ "unitree--yang-bot": {
+  "zh": "秧BOT",
+  "src": "original"
+ },
+ "ayoung-kim--delivery-dancers-arc": {
+  "zh": "快递舞者之弧：0°接收者",
+  "src": "translated"
+ },
+ "lawrence-lek--guanyin": {
+  "zh": "观音：前护理机器人的自白",
+  "src": "translated"
+ },
+ "kim-tae-yong--wonderland": {
+  "zh": "梦境",
+  "src": "established"
+ },
+ "super-brain--ai-resurrection": {
+  "zh": "AI 复活逝者",
+  "src": "established"
+ },
+ "yeon-sang-ho--jung-e": {
+  "zh": "贞伊",
+  "src": "established"
+ },
+ "jill-walker-rettberg--machine-vision": {
+  "zh": "机器视觉：算法如何改变我们看世界的方式",
+  "src": "translated"
+ },
+ "hito-steyerl--mean-images": {
+  "zh": "均值影像",
+  "src": "established"
+ },
+ "lawrence-lek--nox": {
+  "zh": "NOX",
+  "src": "keep"
+ },
+ "ho-tzu-nyen--t-for-time": {
+  "zh": "T代表时间",
+  "src": "established"
+ },
+ "matteo-pasquinelli--the-eye-of-the-master": {
+  "zh": "主人之眼：人工智能的社会史",
+  "src": "translated"
+ },
+ "joanna-zylinska--the-perception-machine": {
+  "zh": "感知机器：介于人眼与AI之间的摄影未来",
+  "src": "translated"
+ },
+ "guo-cheng--abstract-oracle-miner": {
+  "zh": "抽象神谕矿机",
+  "src": "original"
+ },
+ "joel-krueger--communing-with-the-dead-online": {
+  "zh": "与逝者在线交流：聊天机器人、哀悼与持续联结",
+  "src": "translated"
+ },
+ "lu-yang--doku-the-self": {
+  "zh": "独生独死",
+  "src": "original"
+ },
+ "ayoung-kim--delivery-dancers-sphere": {
+  "zh": "快递舞者之域",
+  "src": "established"
+ },
+ "eryk-salvaggio--how-to-read-an-ai-image": {
+  "zh": "如何解读一张AI图像",
+  "src": "translated"
+ },
+ "choe-u-ram--little-ark": {
+  "zh": "小方舟",
+  "src": "established"
+ },
+ "tobias-rees--non-human-words": {
+  "zh": "非人之言：作为哲学实验室的GPT-3",
+  "src": "translated"
+ },
+ "shinseungback-kimyonghun--nondance-dance": {
+  "zh": "非舞之舞",
+  "src": "translated"
+ },
+ "deepbrain-ai--rememory": {
+  "zh": "Re;memory",
+  "src": "keep"
+ },
+ "chen-qiufan--ai-2041": {
+  "zh": "AI未来进行式",
+  "src": "original"
+ },
+ "sofian-audry--art-in-the-age-of-machine-learning": {
+  "zh": "机器学习时代的艺术",
+  "src": "translated"
+ },
+ "kate-crawford--atlas-of-ai": {
+  "zh": "技术之外：社会联结中的人工智能",
+  "src": "established"
+ },
+ "wendy-hui-kyong-chun--discriminating-data": {
+  "zh": "歧视性数据",
+  "src": "translated"
+ },
+ "anicka-yi--in-love-with-the-world": {
+  "zh": "爱上这世界",
+  "src": "established"
+ },
+ "byung-chul-han--non-things": {
+  "zh": "非物：生活世界的变革",
+  "src": "established"
+ },
+ "emily-m-bender--stochastic-parrots": {
+  "zh": "论随机鹦鹉的危害：语言模型太大有坏处吗？",
+  "src": "established"
+ },
+ "kate-darling--the-new-breed": {
+  "zh": "智能新物种",
+  "src": "established"
+ },
+ "guo-cheng--wind-verification": {
+  "zh": "风的验证",
+  "src": "original"
+ },
+ "guo-cheng--evading-face-detection": {
+  "zh": "躲避人脸识别的技巧",
+  "src": "translated"
+ },
+ "joanna-zylinska--ai-art": {
+  "zh": "AI艺术：机器视觉与扭曲的梦",
+  "src": "translated"
+ },
+ "catherine-dignazio--data-feminism": {
+  "zh": "数据女性主义",
+  "src": "established"
+ },
+ "renwu--delivery-riders": {
+  "zh": "外卖骑手，困在系统里",
+  "src": "original"
+ },
+ "scatter-lab--lee-luda": {
+  "zh": "Lee Luda（이루다）",
+  "src": "keep"
+ },
+ "mbc--meeting-you": {
+  "zh": "遇见你",
+  "src": "established"
+ },
+ "microsoft-xiaoice--xiaoice": {
+  "zh": "微软小冰：一个共情社交聊天机器人的设计与实现",
+  "src": "translated"
+ },
+ "shu-lea-cheang--3x3x6": {
+  "zh": "3x3x6",
+  "src": "keep"
+ },
+ "lawrence-lek--aidol": {
+  "zh": "爱道",
+  "src": "original"
+ },
+ "kodai-ji--mindar": {
+  "zh": "机器人观音 Mindar",
+  "src": "established"
+ },
+ "anicka-yi--biologizing-the-machine": {
+  "zh": "机器生物化（触手般的不安）",
+  "src": "translated"
+ },
+ "mary-l-gray--ghost-work": {
+  "zh": "销声匿迹：数字化工作的真正未来",
+  "src": "established"
+ },
+ "groove-x--lovot": {
+  "zh": "LOVOT",
+  "src": "keep"
+ },
+ "shinseungback-kimyonghun--mind": {
+  "zh": "心灵",
+  "src": "translated"
+ },
+ "cao-fei--nova": {
+  "zh": "新星",
+  "src": "original"
+ },
+ "adrian-mackenzie--platform-seeing": {
+  "zh": "平台观看：图像集合及其不可见性",
+  "src": "translated"
+ },
+ "ruha-benjamin--race-after-technology": {
+  "zh": "技术之后的种族：新吉姆代码的废除主义工具",
+  "src": "translated"
+ },
+ "yuk-hui--recursivity-and-contingency": {
+  "zh": "递归与偶然",
+  "src": "established"
+ },
+ "luciana-parisi--alien-subject-of-ai": {
+  "zh": "AI 的异质主体",
+  "src": "translated"
+ },
+ "guo-cheng--net-wanderer": {
+  "zh": "网络游者——握手之旅",
+  "src": "original"
+ },
+ "victor-wong--ai-gemini": {
+  "zh": "A.I. Gemini",
+  "src": "keep"
+ },
+ "lev-manovich--ai-aesthetics": {
+  "zh": "AI美学",
+  "src": "translated"
+ },
+ "safiya-umoja-noble--algorithms-of-oppression": {
+  "zh": "压迫的算法：搜索引擎如何强化种族主义",
+  "src": "translated"
+ },
+ "cao-fei--asia-one": {
+  "zh": "亚洲一号",
+  "src": "original"
+ },
+ "ory-laboratory--avatar-robot-cafe": {
+  "zh": "分身机器人咖啡馆 DAWN ver.β",
+  "src": "translated"
+ },
+ "ian-cheng--bob": {
+  "zh": "BOB（信念之袋）",
+  "src": "translated"
+ },
+ "liu-chuang--bitcoin-mining": {
+  "zh": "比特币矿和少数民族田野录音",
+  "src": "original"
+ },
+ "m-beatrice-fazi--contingent-computation": {
+  "zh": "偶然计算：计算美学中的抽象、经验与不确定性",
+  "src": "translated"
+ },
+ "so-kanno--lasermice": {
+  "zh": "Lasermice",
+  "src": "keep"
+ },
+ "akihiko-kondo--marriage-to-miku": {
+  "zh": "与初音未来结婚",
+  "src": "translated"
+ },
+ "shinseungback-kimyonghun--nonfacial-portrait": {
+  "zh": "非人脸肖像",
+  "src": "translated"
+ },
+ "sougwen-chung--omnia-per-omnia": {
+  "zh": "Omnia per Omnia",
+  "src": "keep"
+ },
+ "david-j-gunkel--robot-rights": {
+  "zh": "机器人权利",
+  "src": "established"
+ },
+ "takayuki-todo--seer": {
+  "zh": "SEER：模拟情感表达机器人",
+  "src": "translated"
+ },
+ "keiichiro-shibuya--scary-beauty": {
+  "zh": "可怖之美",
+  "src": "translated"
+ },
+ "jennifer-rhee--the-robotic-imaginary": {
+  "zh": "机器人想象：人性与去人性化劳动的代价",
+  "src": "translated"
+ },
+ "choy-ka-fai--unbearable-darkness": {
+  "zh": "极黑之暗",
+  "src": "established"
+ },
+ "aaajiao--bot": {
+  "zh": "观察者",
+  "src": "original"
+ },
+ "rhizomatiks--discrete-figures": {
+  "zh": "离散形体",
+  "src": "translated"
+ },
+ "blaise-aguera-y-arcas--art-in-the-age-of-machine-intelligence": {
+  "zh": "机器智能时代的艺术",
+  "src": "translated"
+ },
+ "so-kanno--avatars": {
+  "zh": "分身",
+  "src": "translated"
+ },
+ "jaha-koo--cuckoo": {
+  "zh": "布谷",
+  "src": "translated"
+ },
+ "xu-bing--dragonfly-eyes": {
+  "zh": "蜻蜓之眼",
+  "src": "original"
+ },
+ "lu-yang--electromagnetic-brainology": {
+  "zh": "电磁脑神教",
+  "src": "original"
+ },
+ "lawrence-lek--geomancer": {
+  "zh": "风水师",
+  "src": "original"
+ },
+ "sougwen-chung--memory": {
+  "zh": "记忆（绘图操作单元：第二代）",
+  "src": "translated"
+ },
+ "simon-penny--making-sense": {
+  "zh": "意义生成：认知、计算、艺术与具身",
+  "src": "translated"
+ },
+ "nissei-eco--pepper-priest": {
+  "zh": "担任佛教葬礼僧侣的 Pepper",
+  "src": "translated"
+ },
+ "ho-tzu-nyen--cdosea": {
+  "zh": "东南亚批判性辞典",
+  "src": "original"
+ },
+ "n-katherine-hayles--unthought": {
+  "zh": "非思：认知非意识的力量",
+  "src": "translated"
+ },
+ "rhizomatiks--24-drones": {
+  "zh": "24架无人机",
+  "src": "translated"
+ },
+ "hito-steyerl--a-sea-of-data": {
+  "zh": "数据之海：幻想性错觉与模式（误）识别",
+  "src": "translated"
+ },
+ "takashi-ikegami--alter": {
+  "zh": "Alter",
+  "src": "keep"
+ },
+ "shinseungback-kimyonghun--animal-classifier": {
+  "zh": "动物分类器",
+  "src": "translated"
+ },
+ "so-kanno--asemic-languages": {
+  "zh": "无语义语言",
+  "src": "translated"
+ },
+ "sun-yuan-peng-yu--cant-help-myself": {
+  "zh": "没办法",
+  "src": "original"
+ },
+ "trevor-paglen--invisible-images": {
+  "zh": "看不见的图像（你的照片正在看着你）",
+  "src": "established"
+ },
+ "yuk-hui--digital-objects": {
+  "zh": "论数码物的存在",
+  "src": "established"
+ },
+ "lawrence-lek--sinofuturism": {
+  "zh": "中华未来主义（1839–2046 AD）",
+  "src": "original"
+ },
+ "hanson-robotics--sophia": {
+  "zh": "Sophia",
+  "src": "keep"
+ },
+ "louis-philippe-demers--multiple-bodies-of-a-machine-performer": {
+  "zh": "机器表演者的多重身体",
+  "src": "translated"
+ },
+ "yuk-hui--question-concerning-technology-in-china": {
+  "zh": "论中国的技术问题：宇宙技术初论",
+  "src": "established"
+ },
+ "benjamin-bratton--the-stack": {
+  "zh": "堆栈：论软件与主权",
+  "src": "translated"
+ },
+ "kofuku-ji-isumi--aibo-funerals": {
+  "zh": "光福寺的 AIBO 葬礼",
+  "src": "translated"
+ },
+ "lu-yang--delusional-mandala": {
+  "zh": "妄想曼陀罗",
+  "src": "original"
+ },
+ "sougwen-chung--doug-1": {
+  "zh": "绘图操作单元：第一代（D.O.U.G._1）",
+  "src": "translated"
+ },
+ "ei-wada--electronicos-fantasticos": {
+  "zh": "Electronicos Fantasticos!",
+  "src": "keep"
+ },
+ "ian-cheng--emissaries": {
+  "zh": "使者三部曲",
+  "src": "translated"
+ },
+ "longquan-monastery--xianer": {
+  "zh": "贤二机器僧",
+  "src": "original"
+ },
+ "byung-chul-han--psychopolitics": {
+  "zh": "精神政治学",
+  "src": "established"
+ },
+ "wang-yuyang--breathing-series": {
+  "zh": "呼吸系列",
+  "src": "original"
+ },
+ "chen-qiufan--waste-tide": {
+  "zh": "荒潮",
+  "src": "original"
+ },
+ "ian-bogost--alien-phenomenology": {
+  "zh": "异形现象学：成为一个物是什么感觉",
+  "src": "established"
+ },
+ "shinseungback-kimyonghun--cloud-face": {
+  "zh": "云脸",
+  "src": "established"
+ },
+ "kim-jee-woon--heavenly-creature": {
+  "zh": "天造之物（人类灭亡报告书）",
+  "src": "established"
+ },
+ "huang-yi--huang-yi-and-kuka": {
+  "zh": "黄翊与库卡",
+  "src": "original"
+ },
+ "keiichiro-shibuya--the-end": {
+  "zh": "THE END",
+  "src": "keep"
+ },
+ "oriza-hirata--three-sisters-android": {
+  "zh": "三姐妹（仿真人版）",
+  "src": "translated"
+ },
+ "sherry-turkle--alone-together": {
+  "zh": "群体性孤独：为什么我们对科技期待更多，对彼此却不能更亲密？",
+  "src": "established"
+ },
+ "mark-coeckelbergh--humans-animals-and-robots": {
+  "zh": "人、动物与机器人：人—机器人关系的现象学进路",
+  "src": "translated"
+ },
+ "choy-ka-fai--prospectus-for-a-future-body": {
+  "zh": "未来身体计划书",
+  "src": "translated"
+ },
+ "so-kanno--senseless-drawing-bot": {
+  "zh": "无意义绘画机器人",
+  "src": "translated"
+ },
+ "seiko-mikami--desire-of-codes": {
+  "zh": "代码的欲望",
+  "src": "translated"
+ },
+ "sputniko--menstruation-machine": {
+  "zh": "月经机器——隆的体验",
+  "src": "translated"
+ },
+ "takashi-ikegami--mind-time-machine": {
+  "zh": "心智时间机器",
+  "src": "translated"
+ },
+ "oriza-hirata--sayonara": {
+  "zh": "再见",
+  "src": "translated"
+ },
+ "hiroshi-ishiguro--telenoid": {
+  "zh": "Telenoid R1",
+  "src": "keep"
+ },
+ "lydia-h-liu--freudian-robot": {
+  "zh": "弗洛伊德机器人：数字时代的哲学批判",
+  "src": "established"
+ },
+ "ted-chiang--lifecycle-of-software-objects": {
+  "zh": "软件体的生命周期",
+  "src": "established"
+ },
+ "michio-okada--weak-robots": {
+  "zh": "弱机器人（社交垃圾桶）",
+  "src": "translated"
+ },
+ "peter-paul-verbeek--cyborg-intentionality": {
+  "zh": "赛博格意向性：重思人—技术关系的现象学",
+  "src": "translated"
+ },
+ "daito-manabe--electric-stimulus-to-face": {
+  "zh": "面部电刺激",
+  "src": "translated"
+ },
+ "oriza-hirata--i-worker": {
+  "zh": "工作的我",
+  "src": "translated"
+ },
+ "choe-u-ram--opertus-lunula-umbra": {
+  "zh": "Opertus Lunula Umbra（月之隐影）",
+  "src": "translated"
+ },
+ "yasuhiro-yoshiura--time-of-eve": {
+  "zh": "伊芙的时间",
+  "src": "established"
+ },
+ "lucy-suchman--human-machine-reconfigurations": {
+  "zh": "人机重构：计划与情境行动",
+  "src": "translated"
+ },
+ "sun-yuan-peng-yu--old-persons-home": {
+  "zh": "老人院",
+  "src": "original"
+ },
+ "hiroshi-ishiguro--geminoid-hi-1": {
+  "zh": "Geminoid HI-1",
+  "src": "keep"
+ },
+ "rolf-pfeifer--how-the-body-shapes-the-way-we-think": {
+  "zh": "身体的智能：智能科学新视角",
+  "src": "established"
+ },
+ "robert-sparrow--in-the-hands-of-machines": {
+  "zh": "落入机器之手？老年照护的未来",
+  "src": "translated"
+ },
+ "cao-fei--whose-utopia": {
+  "zh": "谁的乌托邦",
+  "src": "original"
+ },
+ "takanori-shibata--paro": {
+  "zh": "PARO",
+  "src": "keep"
+ },
+ "harun-farocki--phantom-images": {
+  "zh": "幻影图像",
+  "src": "translated"
+ },
+ "cynthia-breazeal--designing-sociable-robots": {
+  "zh": "设计社交机器人",
+  "src": "translated"
+ },
+ "claus-emmeche--does-a-robot-have-an-umwelt": {
+  "zh": "机器人有环世界吗？对雅各布·冯·于克斯屈尔质性生物符号学的思考",
+  "src": "translated"
+ },
+ "shu-lea-cheang--iku": {
+  "zh": "I.K.U.",
+  "src": "keep"
+ },
+ "sony--aibo": {
+  "zh": "AIBO",
+  "src": "keep"
+ },
+ "n-katherine-hayles--how-we-became-posthuman": {
+  "zh": "我们何以成为后人类：文学、信息科学和控制论中的虚拟身体",
+  "src": "established"
+ },
+ "rodney-brooks--cog-project": {
+  "zh": "Cog 项目：构建一个人形机器人",
+  "src": "translated"
+ },
+ "lee-bul--cyborg": {
+  "zh": "赛博格系列",
+  "src": "established"
+ },
+ "andy-clark--the-extended-mind": {
+  "zh": "延展心灵",
+  "src": "established"
+ },
+ "eduardo-kac--foundation-and-development-of-robotic-art": {
+  "zh": "机器人艺术的奠基与发展",
+  "src": "translated"
+ },
+ "seiko-mikami--molecular-informatics": {
+  "zh": "分子信息学",
+  "src": "translated"
+ },
+ "bandai--tamagotchi": {
+  "zh": "拓麻歌子",
+  "src": "established"
+ },
+ "byron-reeves--the-media-equation": {
+  "zh": "媒体等同：人们该如何像对待真人实景一样对待电脑、电视和新媒体",
+  "src": "established"
+ },
+ "mamoru-oshii--ghost-in-the-shell": {
+  "zh": "攻壳机动队",
+  "src": "established"
+ },
+ "clifford-nass--computers-are-social-actors": {
+  "zh": "计算机是社会行动者",
+  "src": "established"
+ },
+ "kazuhiko-hachiya--inter-dis-communication-machine": {
+  "zh": "互不通信机器",
+  "src": "translated"
+ },
+ "maywa-denki--nonsense-machines": {
+  "zh": "无意义机器",
+  "src": "translated"
+ },
+ "rodney-brooks--intelligence-without-representation": {
+  "zh": "无表征的智能",
+  "src": "translated"
+ },
+ "don-ihde--technology-and-the-lifeworld": {
+  "zh": "技术与生活世界：从伊甸园到尘世",
+  "src": "established"
+ },
+ "paul-virilio--the-vision-machine": {
+  "zh": "视觉机器",
+  "src": "established"
+ },
+ "nam-june-paik--family-of-robot": {
+  "zh": "机器人家庭",
+  "src": "established"
+ },
+ "donna-haraway--cyborg-manifesto": {
+  "zh": "赛博格宣言：20世纪80年代的科学、技术与社会主义女性主义",
+  "src": "established"
+ },
+ "valentino-braitenberg--vehicles": {
+  "zh": "小车：合成心理学实验",
+  "src": "translated"
+ },
+ "vilem-flusser--towards-a-philosophy-of-photography": {
+  "zh": "摄影哲学的思考",
+  "src": "established"
+ },
+ "nam-june-paik--first-accident-21st-century": {
+  "zh": "二十一世纪的第一起事故",
+  "src": "translated"
+ },
+ "masahiro-mori--buddha-in-the-robot": {
+  "zh": "机器人中的佛陀",
+  "src": "translated"
+ },
+ "john-searle--minds-brains-and-programs": {
+  "zh": "心灵、大脑与程序",
+  "src": "established"
+ },
+ "susumu-tachi--telexistence": {
+  "zh": "远程存在（TELESAR）",
+  "src": "translated"
+ },
+ "joseph-weizenbaum--computer-power-and-human-reason": {
+  "zh": "计算机能力与人类理性：从判断到计算",
+  "src": "established"
+ },
+ "nam-june-paik--tv-buddha": {
+  "zh": "电视佛",
+  "src": "established"
+ },
+ "hubert-dreyfus--what-computers-cant-do": {
+  "zh": "计算机不能做什么",
+  "src": "established"
+ },
+ "masahiro-mori--uncanny-valley": {
+  "zh": "恐怖谷",
+  "src": "established"
+ },
+ "jack-burnham--beyond-modern-sculpture": {
+  "zh": "超越现代雕塑：科学与技术对本世纪雕塑的影响",
+  "src": "translated"
+ },
+ "wen-ying-tsai--cybernetic-sculpture": {
+  "zh": "控制论雕塑",
+  "src": "translated"
+ },
+ "jasia-reichardt--cybernetic-serendipity-catalogue": {
+  "zh": "控制论的偶然发现：计算机与艺术",
+  "src": "translated"
+ },
+ "nam-june-paik--robot-k-456": {
+  "zh": "机器人 K-456",
+  "src": "translated"
+ },
+ "j-c-r-licklider--man-computer-symbiosis": {
+  "zh": "人机共生",
+  "src": "established"
+ },
+ "gilbert-simondon--mode-of-existence-of-technical-objects": {
+  "zh": "论技术物的存在模式",
+  "src": "established"
+ },
+ "john-mccarthy--dartmouth-proposal": {
+  "zh": "达特茅斯人工智能夏季研究项目提案",
+  "src": "translated"
+ },
+ "osamu-tezuka--astro-boy": {
+  "zh": "铁臂阿童木",
+  "src": "established"
+ },
+ "w-grey-walter--an-imitation-of-life": {
+  "zh": "模仿生命",
+  "src": "translated"
+ },
+ "alan-turing--computing-machinery-and-intelligence": {
+  "zh": "计算机器与智能",
+  "src": "established"
+ },
+ "norbert-wiener--cybernetics": {
+  "zh": "控制论：或关于在动物和机器中控制和通信的科学",
+  "src": "established"
+ },
+ "fritz-heider--apparent-behavior": {
+  "zh": "表观行为的实验研究",
+  "src": "translated"
+ }
+}
