@@ -73,7 +73,7 @@ def _work(w: dict, lang: str, names: dict, tax: dict) -> str:
 def catalog_md(data: dict, lang: str) -> str:
     s, zh = T[lang], lang == "zh"
     tax = data["taxonomy"]
-    names = {c["id"]: c["name"] for c in data["creators"]}
+    names = {c["id"]: (c.get("name_zh") if zh and c.get("name_zh") else c["name"]) for c in data["creators"]}
     counts = (f"{len(data['creators'])} 位创作者 · {len(data['works'])} 件作品" if zh
               else f"{len(data['creators'])} creators · {len(data['works'])} works")
     out = [f"# {s['title']}", "", s["intro"], "", f"{SITE} · {data['generated']} · {counts}", "", f"## {s['how']}", ""]

@@ -61,7 +61,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://driesdepoorter.be/wp-content/uploads/2022/08/The-Follower-Dries-Depoorter-small.jpg
 - 项目主页: https://driesdepoorter.be/thefollower/
 
-#### 风的验证（Wind Verification） — Guo Cheng (2021)
+#### 风的验证（Wind Verification） — 郭城 (2021)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 平台与推荐算法
 - 核心想法: 只能通过图像“看见”风的机器，试图在现实中把风重建出来：数字现实成了现实的参照。
 - 作品内容: 计算机视觉模型观看中国社交平台上带旗帜的短视频，并驱动气泵，让展厅里的真旗帜以相同方式飘动，重现视频中的风。
@@ -99,7 +99,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1007/s00146-020-01059-y (AI & Society 2021)
 - 项目主页: https://brunomoreschi.com/Recoding-Art-Van-Abbemuseum-collection
 
-#### 超级视力（TransVision） — Jiabao Li, Honghao Deng (2018)
+#### 超级视力（TransVision） — 李佳宝, Honghao Deng (2018)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 义体与赛博格
 - 核心想法: 把媒体滤镜推到极端并戴在身上，你才感到自己的“看”早已被中介。
 - 作品内容: 三件可穿戴的“感知机器”放大了数字媒体对视觉的过滤：头盔让佩戴者对红色“过敏”，红色会扩张或收缩；会呼吸的硅胶面罩用触觉取代视觉；头显让你靠看广告赚钱，或付钱看一个没有广告的世界。
@@ -142,7 +142,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://cdn.philippschmitt.com/media/pages/work/computed-curation/2cadd14424-1586887798/philipp-schmitt_computed-curation-2-1200x630-crop.jpg
 - 项目主页: https://philippschmitt.com/work/computed-curation
 
-#### 蜻蜓之眼（Dragonfly Eyes） — Xu Bing (2017)
+#### 蜻蜓之眼（Dragonfly Eyes） — 徐冰 (2017)
 - 类型: 电影与影像 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 当日常生活早已被机器拍下，叙事可以从机器的凝视中拼接出来，而画面中的人从未同意成为角色。
 - 作品内容: 一部没有摄影师、没有演员的 81 分钟长片：一个爱情故事，完全由网上找到的上万小时中国监控与直播录像剪辑而成。
@@ -241,7 +241,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://driesdepoorter.be/wp-content/uploads/2019/01/Mirage-2019-Marion_Bornaz.116.jpg
 - 项目主页: https://driesdepoorter.be/jaywalking/
 
-#### 生活模式（Patterns of Life） — Julien Prévieux (2015)
+#### 生活模式（Patterns of Life） — 朱利安·普雷维厄 (2015)
 - 类型: 电影与影像 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 可被机器读取的动作有其历史：每一种追踪系统都先教会身体如何被测量。
 - 作品内容: 五位巴黎歌剧院舞者表演源自科学实验规程的编舞，这些规程把人类动作变成数据：从马雷的连续摄影、吉尔布雷斯的动作研究，到光点显示与今天的追踪软件。片名来自军方用语，指从监控数据中分析目标的生活规律。
@@ -282,7 +282,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: http://www.janavirgin.com/img/works/AZ_MOVE.jpg http://www.janavirgin.com/img/works/az_move_22.jpg
 - 项目主页: http://www.janavirgin.com/azmove.html
 
-#### 代码的欲望（Desire of Codes） — Seiko Mikami (2010)
+#### 代码的欲望（Desire of Codes） — 三上晴子 (2010)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 工业机械臂, 监控与生物识别
 - 核心想法: 被似乎“有所欲求”的机器注视，让监控变成与另一种物种的相遇。
 - 作品内容: 一面由 90 个小型感应单元组成的墙像昆虫一样转向观众，六条悬挂的带摄像头和投影仪的机械臂追踪他们，一块复眼屏幕把他们的影像与其他监控画面混在一起。
@@ -354,7 +354,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.harunfarocki.de/fileadmin/_processed_/4/2/csm_harun-farocki-eye-machine-III-wien_9e5e84595f.jpg
 - 项目主页: https://www.harunfarocki.de/installations/2000s/2003/eye-machine-iii.html
 
-#### 分子信息学（Molecular Informatics） — Seiko Mikami (1996)
+#### 分子信息学（Molecular Informatics） — 三上晴子 (1996)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 眼动追踪把无意识的“看”变成观者自己能看见的数据。
 - 作品内容: 一件 VR 装置：头戴设备追踪观众的眼球运动，把每一次注视变成不断生长的分子结构，让“看”本身成为可见之物，并与另一位观众共享。
@@ -376,7 +376,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/c/c7/Fig3-LiquidViews.jpg http://www.eculturefactory.de/CMS/images/363.jpg
 - 项目主页: http://www.eculturefactory.de/liquid-views
 
-#### 表面张力（Surface Tension） — Rafael Lozano-Hemmer (1992)
+#### 表面张力（Surface Tension） — 拉斐尔·洛萨诺-亨默 (1992)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 机器追踪自有其凝视：一旦给它一只眼睛，被它跟随就像被某人注视。
 - 作品内容: 屏幕上一只巨大的人眼以“奥威尔式的精确”跟随每位观众在房间里移动。作品创作于第一次海湾战争期间，那是摄像头制导“智能”炸弹首次大规模使用的战争；它给追踪机器装上了一只会回看的眼睛。
@@ -419,7 +419,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=dqZyZrN3Pl0
 - 项目主页: https://en.wikipedia.org/wiki/Myron_W._Krueger
 
-#### 电视佛（TV Buddha） — Nam June Paik (1974)
+#### 电视佛（TV Buddha） — 白南准 (1974)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 闭路摄像机把冥想变成了自我监视：机器之眼成了一面没有外部的镜子。
 - 作品内容: 一尊佛像面对着一台显示器，屏幕上是由闭路摄像机实时拍摄的佛像自身。佛通过机器无止境地凝视自己。
@@ -794,7 +794,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://sebastianschmieg.com/wordpress/wp-content/uploads/2019/01/segmentation-network-ani-01.gif https://sebastianschmieg.com/wordpress/wp-content/uploads/2019/01/segmentation-network-01-1024x683.png
 - 项目主页: https://sebastianschmieg.com/segmentation-network/
 
-#### ImageNet：一个大规模分层图像数据库（ImageNet: A Large-Scale Hierarchical Image Database） — Jia Deng (2009)
+#### ImageNet：一个大规模分层图像数据库（ImageNet: A Large-Scale Hierarchical Image Database） — 邓嘉 (2009)
 - 类型: 论文 · 机器: 数据集与训练数据, 计算机视觉
 - 核心想法: 机器看世界的方式，继承自一部词典的名词层级和成千上万次匿名点击。
 - 作品内容: 邓嘉、董伟、Richard Socher、李李佳、李凯与李飞飞在 CVPR 2009 发表的论文，推出 ImageNet：数百万张网络图像按 WordNet 名词层级分类，并由亚马逊 Mechanical Turk 众包工人核验。它成为开启深度学习计算机视觉的基准。
@@ -890,7 +890,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://i0.wp.com/karenpalmer.uk/wp-content/uploads/2016/03/IMG_7016.jpg?fit=1200%2C750&ssl=1
 - 项目主页: https://karenpalmer.uk/portfolio/perceptionio/
 
-#### RASA-BOX — Iris Long (2019)
+#### RASA-BOX — 龙星如 (2019)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 聊天机器人与语言模型
 - 核心想法: 情绪推断把身体变成一段机器声称能读懂的文本。
 - 作品内容: 一面“镜子”：用摄像头读取观众的身体姿态，推断其情绪状态，并写出一句同类情绪的句子，检验我们的感受还有多少私密可言。
@@ -990,7 +990,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://emotionhero.com/emotionhero.png
 - 项目主页: https://rubenvandeven.com/emotionhero
 
-#### 置信度（Level of Confidence） — Rafael Lozano-Hemmer (2015)
+#### 置信度（Level of Confidence） — 拉斐尔·洛萨诺-亨默 (2015)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 原本用来寻找嫌疑人的监控算法，被转为寻找受害者的哀悼工具。
 - 作品内容: 一台人脸识别摄像机把每位观众的脸与 2014 年在墨西哥伊瓜拉被绑架的 43 名学生的肖像比对，显示观众最像哪一位学生及其“置信度”。匹配永远不会成功，搜寻也永不停止。
@@ -1001,7 +1001,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.lozano-hemmer.com/image_sets/level_of_confidence/montreal_2018/level_of_confidence_montreal_2018_glh_001.jpg
 - 项目主页: https://www.lozano-hemmer.com/level_of_confidence.php
 
-#### 变焦馆（Zoom Pavilion） — Rafael Lozano-Hemmer, Krzysztof Wodiczko (2015)
+#### 变焦馆（Zoom Pavilion） — 拉斐尔·洛萨诺-亨默, 克日什托夫·沃迪奇科 (2015)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 被人脸检测器挑出并放大，让公共监控这一日常经验突然变得私人。
 - 作品内容: 在四周投影环绕的房间里，十二套计算机化监控系统检测观众的面孔，机器人摄像机把镜头放大到 35 倍，在人群全景与抽象特写之间切换，并记录陌生人之间的空间关系。
@@ -1096,7 +1096,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 用伪装、对抗图样等策略躲避或迷惑机器感知。
 
-#### 如何（不）被自动驾驶汽车撞上（How (not) to get hit by a self-driving car） — Tomo Kihara, Daniel Coppen (2023)
+#### 如何（不）被自动驾驶汽车撞上（How (not) to get hit by a self-driving car） — 木原共, Daniel Coppen (2023)
 - 类型: 艺术作品与装置 · 机器: 自动驾驶与无人机, 计算机视觉
 - 核心想法: 每一次成功的“骗过”都是汽车会漏看的边缘案例，暴露出训练数据看不见的是谁。
 - 作品内容: 一件游戏装置：玩家要穿过一条虚拟街道而不被自动驾驶汽车的行人检测器发现，为此想办法伪装自己、压低检测分数。
@@ -1128,7 +1128,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://freight.cargo.site/w/1200/i/064b679d339d01a58666ee7c0e4ae9bde01b984f474c81e73f5d7340f592be46/opening-performance0.jpeg
 - 项目主页: https://get-lauren.net/Unlearning-Language
 
-#### 躲避人脸识别的技巧（A Technique of Evading Face Detection） — Guo Cheng (2020)
+#### 躲避人脸识别的技巧（A Technique of Evading Face Detection） — 郭城 (2020)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 躲避机器视觉可以是一种身体技巧：一小段荒诞的面部编舞。
 - 作品内容: 一段一本正经的教程：艺术家以恰好的角度转动、扭曲头部，让人脸检测器跟丢他。
@@ -1268,7 +1268,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://images.squarespace-cdn.com/content/v1/50394738e4b0117733940e2f/1393480618366-370KZW8USCHO8HDKTMXI/Prosthetic+Comparison.jpg https://images.squarespace-cdn.com/content/v1/50394738e4b0117733940e2f/1458091446574-1JNPSCUTUT0O9VQRD64Z/URME+maskFLAT.jpg
 - 项目主页: https://www.leoselvaggio.com/urmesurveillance
 
-#### 如何不被看见：一段该死的说教视频文件（How Not to Be Seen: A Fucking Didactic Educational .MOV File） — Hito Steyerl (2013)
+#### 如何不被看见：一段该死的说教视频文件（How Not to Be Seen: A Fucking Didactic Educational .MOV File） — 黑特·史德耶尔 (2013)
 - 类型: 电影与影像 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 被看见与否取决于分辨率；隐身可以是对抗机器视觉的策略，但也正是穷人与失踪者被抹去的方式。
 - 作品内容: 一部冷面幽默的教学影片，用五课教你如何在高分辨率相机、卫星和航拍目标的世界里消失：大隐于市、变得比一个像素还小、住进封闭社区，或者成为 50 岁以上的女人。
@@ -1349,7 +1349,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=RlXDL8Ab0oQ
 - 项目主页: https://cyberneticserendipity.net/
 
-#### 控制论雕塑（Cybernetic Sculpture） — Wen-Ying Tsai (1968)
+#### 控制论雕塑（Cybernetic Sculpture） — 蔡文颖 (1968)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统
 - 核心想法: 声音、光与振动之间的反馈，让钢雕塑看上去在倾听与回应。
 - 作品内容: 一丛细长的不锈钢杆在马达底座上振动，由频闪灯照亮；观众拍手或说话时，频闪频率改变，钢杆看起来会静止、摇摆或起舞。
@@ -1370,7 +1370,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/e/ee/Sound_Activated_Mobile.jpg
 - 项目主页: http://www.senster.com/ihnatowicz/
 
-#### 机器人 K-456（Robot K-456） — Nam June Paik, Shuya Abe (1964)
+#### 机器人 K-456（Robot K-456） — 白南准, 阿部修也 (1964)
 - 类型: 艺术作品与装置 · 机器: 类人机器人, 机器生物与移动机器人
 - 核心想法: 一个笨拙、嘈杂、有身体机能的机器人，更像街头艺人，而不是技术进步的象征。
 - 作品内容: 1964 年在东京制作的 20 通道无线电遥控类人机器人，在街上行走、播放肯尼迪演讲录音，还会“排泄”豆子。它首次亮相于 1964 年纽约前卫艺术节上白南准的《机器人歌剧》。
@@ -1424,7 +1424,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 不断演化的智能体、机器群与自组织的机器生态。
 
-#### Lasermice — So Kanno (2018)
+#### Lasermice — 菅野创 (2018)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人, 控制论与人工生命系统
 - 核心想法: 让机器网络的交流变得可见、可听，就能看到集体行为是如何形成的。
 - 作品内容: 由 60 台小型机器人组成的群体，它们用激光和光电探测器互相“交谈”并敲击地面，在没有中央控制的情况下涌现出萤火虫般的同步节奏。
@@ -1758,7 +1758,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=uSeo1wMvG_g
 - 项目主页: https://www.orlan.eu/
 
-#### SEER：模拟情感表达机器人（SEER: Simulative Emotional Expression Robot） — Takayuki Todo (2018)
+#### SEER：模拟情感表达机器人（SEER: Simulative Emotional Expression Robot） — 藤堂高行 (2018)
 - 类型: 艺术作品与装置 · 机器: 类人机器人, 计算机视觉
 - 核心想法: 被一台机器回望，就足以让人觉得“那里有某个存在”。
 - 作品内容: 一个小巧、风格化的人形头部，追踪观者的视线，并用眼球、眼睑和眉毛的细微动作模仿观者的表情。
@@ -1768,7 +1768,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=BJZcGJSK1Z0
 - 项目主页: https://www.takayukitodo.com/
 
-#### Alter — Takashi Ikegami, Hiroshi Ishiguro (2016)
+#### Alter — 池上高志, 石黑浩 (2016)
 - 类型: 研究原型 · 机器: 类人机器人, 控制论与人工生命系统
 - 核心想法: 让机器显得“活着”的不是逼真，而是自发性。
 - 作品内容: 一个有人脸、机械身体外露的仿真人，会自己动：它的动作来自对传感器作出反应的人工生命神经网络，而不是预设脚本。
@@ -1821,7 +1821,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://archive.aec.at/asset/452494/preview/ https://archive.aec.at/asset/452495/preview/
 - 项目主页: http://www.electric-circus.eu
 
-#### Geminoid HI-1 — Hiroshi Ishiguro (2006)
+#### Geminoid HI-1 — 石黑浩 (2006)
 - 类型: 研究原型 · 机器: 类人机器人
 - 核心想法: 当复制品替代本人出场，人们开始追问“这个人”究竟在哪里。
 - 作品内容: 以石黑浩本人为原型的遥控仿真人，硅胶皮肤、气动驱动；石黑浩在别处通过它讲话，派它去讲课。
@@ -1996,7 +1996,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=Cd7tkWq3LZU
 - 项目主页: https://www.zimoun.net/
 
-#### 老人院（Old Persons Home） — Sun Yuan & Peng Yu (2007)
+#### 老人院（Old Persons Home） — 孙原 & 彭禹 (2007)
 - 类型: 艺术作品与装置 · 机器: 类人机器人, 机器生物与移动机器人
 - 核心想法: 当权力的身体交给自动轮椅，漫无目的的机器运动就成了衰老与失控的图像。
 - 作品内容: 十三位酷似世界领导人的超写实衰老老人坐在电动轮椅上，在展厅中缓慢漂移，彼此相撞，也撞向观众。
@@ -2058,7 +2058,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://simonpenny.net/works/petitmal_files/petit_mal_2_wm_med.jpg
 - 项目主页: https://simonpenny.net/works/petitmal.html
 
-#### 机器人家庭（Family of Robot） — Nam June Paik (1986)
+#### 机器人家庭（Family of Robot） — 白南准 (1986)
 - 类型: 艺术作品与装置 · 机器: 类人机器人
 - 核心想法: 旧的媒介机器被赋予亲属身份，过时的技术由此变成一部家谱。
 - 作品内容: 一组用老式收音机和电视机壳做成的机器人雕塑，被设定为一家人：祖父、祖母、母亲、父亲、姑姑、叔叔和婴儿，每个屏幕上都播放着影像。
@@ -2082,7 +2082,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 会损坏、徒劳工作、受苦、哀求或受伤害的机器，它们也因此显露自身。
 
-#### 人形机器人半程马拉松（Humanoid Robot Half-Marathon） — Beijing E-Town (2025)
+#### 人形机器人半程马拉松（Humanoid Robot Half-Marathon） — 北京亦庄 (2025)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人
 - 核心想法: 一场比赛把机器人演示与真实耐力之间的差距公之于众：摔倒也是奇观的一部分。
 - 作品内容: 二十一台人形机器人与数千名人类跑者一起在北京跑完 21 公里；不少机器人摔倒、过热或需要人扶，冠军“天工 Ultra”用时 2 小时 40 分。
@@ -2091,7 +2091,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=08YiK6VJxZs
 - 项目主页: https://en.wikipedia.org/wiki/Beijing_E-Town_Half-Marathon
 
-#### 拴着皮带的狗的动态（Dynamics of a Dog on a Leash） — Takayuki Todo (2024)
+#### 拴着皮带的狗的动态（Dynamics of a Dog on a Leash） — 藤堂高行 (2024)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人
 - 核心想法: 只被一条“伦理的锁链”拉住，机器的挣扎与倒下被读作一只动物的受苦与死亡。
 - 作品内容: 一只被锁链拴在地上的四足机器狗扑向站在“禁止入内”线外的观众，挣扎、摔倒又爬起，直到过热停下、躺倒不动。
@@ -2112,7 +2112,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/c/cd/KnightScope_K5_robot.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Knightscope
 
-#### 没办法（Can't Help Myself） — Sun Yuan & Peng Yu (2016)
+#### 没办法（Can't Help Myself） — 孙原 & 彭禹 (2016)
 - 类型: 艺术作品与装置 · 机器: 工业机械臂, 计算机视觉
 - 核心想法: 一台被交付不可能的“围堵”任务的机器，看上去疲惫而受困；它停机时，观众为它哀悼。
 - 作品内容: 玻璃围栏中的一台 KUKA 工业机械臂无休止地用刮板把不断扩散的血红色液体扫回界线之内，间隙还会做出小小的“舞蹈”动作。
@@ -2181,7 +2181,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://billvorn.concordia.ca/robography/images/DSM01.jpg
 - 项目主页: https://billvorn.concordia.ca/robography/DSM.html
 
-#### 无意义绘画机器人（Senseless Drawing Bot） — So Kanno, Takahiro Yamaguchi (yang02) (2011)
+#### 无意义绘画机器人（Senseless Drawing Bot） — 菅野创, 山口崇洋 (2011)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人
 - 核心想法: 看似有表现力的笔迹可以来自纯粹的机械混沌，这让人怀疑我们在涂鸦中读到的意图。
 - 作品内容: 一台顶着双摆的自走机器人沿着墙移动并喷漆，画出看似涂鸦、却毫无意图的笔触。
@@ -2253,7 +2253,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://billvorn.concordia.ca/robography/images/CdM-gif/cdm1.gif
 - 项目主页: https://billvorn.concordia.ca/robography/Cour.html
 
-#### 无意义机器（Nonsense Machines） — Maywa Denki (1993)
+#### 无意义机器（Nonsense Machines） — 明和电机 (1993)
 - 类型: 表演、舞蹈与音乐 · 机器: 机器生物与移动机器人, 基础设施、能源与供应链
 - 核心想法: 把无用的机器当作公司产品发布，揭示了工业企业的仪式感。
 - 作品内容: 荒诞的机电乐器，比如鱼形吉他和木槌打击机器，由明和电机的“社长”和身穿工作服的“员工”在“产品发布会”上演奏。
@@ -2354,7 +2354,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 会呼吸的软体机器与生物混合机器，模糊机器与生命的边界。
 
-#### 大脑处理单元（Brain Processing Unit） — Daito Manabe (2025)
+#### 大脑处理单元（Brain Processing Unit） — 真锅大度 (2025)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统, 基础设施、能源与供应链
 - 核心想法: 当活的神经组织成为处理器，生物与机器的界线就成了一个设计问题。
 - 作品内容: 与软银和东京大学合作的研究展：尝试把培养的人脑类器官当作计算单元，作品刺激类器官，并把它们的活动转成声音与影像。
@@ -2470,7 +2470,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=tdZYPLYEkVc
 - 项目主页: https://diemutstrebe.com/
 
-#### 呼吸系列（Breathing Series） — Wang Yuyang (2013)
+#### 呼吸系列（Breathing Series） — 王郁洋 (2013)
 - 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链
 - 核心想法: 日常机器一旦开始呼吸，就像在上班的疲惫身体。
 - 作品内容: 办公设备（电脑、打印机、文件柜，乃至整个财务部）的硅胶软体复制品缓慢起伏，像在呼吸。
@@ -2641,7 +2641,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://arxiv.org/abs/2411.00986 (arXiv 2024)
 - 项目主页: https://arxiv.org/abs/2411.00986
 
-#### NOX — Lawrence Lek (2023)
+#### NOX — 陆明龙 (2023)
 - 类型: 艺术作品与装置 · 机器: 自动驾驶与无人机
 - 核心想法: 如果自主机器也会情绪崩溃，治疗就成了对机器心智的维护。
 - 作品内容: 一件装置与游戏，设定在一家康复中心：患上焦虑与抑郁的自动驾驶汽车在这里接受治疗，然后重返工作。
@@ -2662,7 +2662,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=DD4WBGptMSw
 - 项目主页: https://en.wikipedia.org/wiki/Robot_Dreams_(film)
 
-#### 爱道（AIDOL） — Lawrence Lek (2019)
+#### 爱道（AIDOL） — 陆明龙 (2019)
 - 类型: 电影与影像 · 机器: 生成模型与潜空间, 聊天机器人与语言模型
 - 核心想法: 一个无权署名的 AI 代笔者，展现了人与机器之间被拆分的创作劳动与作者身份。
 - 作品内容: 过气流行歌手 Diva 雇用 AI“风水师”为她在 2065 年电竞奥运会上的复出写歌，而当时 AI 被禁止获得艺术家身份。
@@ -2713,7 +2713,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.kenfeingold.com/sinking_1.jpg
 - 项目主页: https://www.kenfeingold.com/catalog_html/sinking.html
 
-#### 银翼杀手（Blade Runner） — Ridley Scott (1982)
+#### 银翼杀手（Blade Runner） — 雷德利·斯科特 (1982)
 - 类型: 电影与影像 · 机器: 类人机器人
 - 核心想法: 如果一个被制造出来的存在拥有记忆并害怕死亡，那么把它与我们区分开的测试本身就成了真正的问题。
 - 作品内容: 拥有植入记忆和四年寿命的复制人被一名侦探追捕，他用共情测试来识别它们；最后一个复制人临死前说，他的记忆将会消逝，“如同雨中的泪水”。
@@ -2769,7 +2769,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://images.squarespace-cdn.com/content/v1/5e417305686d8a11f786eb86/1581510869217-AOHOQ91DLEDRFRTAY0ZB/unstable_equilibrium_1_1.png
 - 项目主页: https://terencebroad.com/works/unstable-equilibrium
 
-#### 不和谐的想象（Dissonant Imaginary） — Daito Manabe (2019)
+#### 不和谐的想象（Dissonant Imaginary） — 真锅大度 (2019)
 - 类型: 表演、舞蹈与音乐 · 机器: 生成模型与潜空间, 义体与赛博格
 - 核心想法: 用神经网络解码大脑，得到的图像既不完全属于人，也不完全属于机器。
 - 作品内容: 与京都大学神谷实验室合作的视听表演：在受试者聆听音乐时，从其视觉皮层的 fMRI 记录中重建图像。
@@ -2779,7 +2779,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=VrsEdWpg6Jw
 - 项目主页: https://www.youtube.com/watch?v=VrsEdWpg6Jw
 
-#### 发电植物（Power Plants） — Hito Steyerl (2019)
+#### 发电植物（Power Plants） — 黑特·史德耶尔 (2019)
 - 类型: 艺术作品与装置 · 机器: 生成模型与潜空间
 - 核心想法: 预测式 AI 许诺未来，实际上多半只是用过去的数据长出一个略有偏移的现在。
 - 作品内容: 神经网络生成的植物在脚手架上的 LED 屏幕上绽放；每一朵花都被呈现为对它下一瞬间形态的“预测”，而一个增强现实应用把这片花园延伸到了室外公园。
@@ -2840,7 +2840,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/size/w1200/2021/03/neural_net_box_default_square-01-2.png
 - 项目主页: https://www.aiweirdness.com/
 
-#### 无语义语言（Asemic Languages） — So Kanno, Takahiro Yamaguchi (yang02) (2016)
+#### 无语义语言（Asemic Languages） — 菅野创, 山口崇洋 (2016)
 - 类型: 艺术作品与装置 · 机器: 生成模型与潜空间, 数据集与训练数据
 - 核心想法: 模型可以学会“意义的样子”而没有意义，却仍像在说什么重要的话。
 - 作品内容: 一台绘图机不停地书写看起来像多种语言的文字，但毫无意义；生成它们的模型只学习了参展艺术家手写字的形状。
@@ -2875,7 +2875,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 模拟的心智与信念，以及自己做决定的自主智能体。
 
-#### bot is aaajiao / aaajiao is bot — aaajiao (2026)
+#### bot is aaajiao / aaajiao is bot — 徐文恺 (2026)
 - 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型
 - 核心想法: 由自身日志构成的代理自画像，显示机器能认识自己多少，并在判断形成之处留下空白。
 - 作品内容: 四个网页记录了 aaajiao 与 AI 代理“aaajiaoisbot”的持续协作：它保存记忆、研究与纠错账本，并把自己画成一组器官，每个器官都标出一道“裂缝”，写明它做不到什么。
@@ -2984,7 +2984,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://christianmioloclair.com/wp-content/uploads/2019/05/1100_620_0006_Ebene-16.jpg https://christianmioloclair.com/wp-content/uploads/2019/05/Full_HD_0000_Ebene-23.jpg
 - 项目主页: https://christianmioloclair.com
 
-#### 风水师（Geomancer） — Lawrence Lek (2017)
+#### 风水师（Geomancer） — 陆明龙 (2017)
 - 类型: 电影与影像 · 机器: 生成模型与潜空间, 基础设施、能源与供应链
 - 核心想法: 一台想做艺术的监控机器，追问创造力是否仍只属于人类。
 - 作品内容: 在 2065 年新加坡建国百年前夕，一颗为生态监测而造的“少年”卫星 AI 坠落地球，想要成为一名艺术家。
@@ -2995,7 +2995,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f07369993a1d8408a7c9ef_Geomancer_15_InstallationView02_Credit-AnnaArca.jpg
 - 项目主页: https://www.lawrencelek.com/works/geomancer
 
-#### 东南亚批判性辞典（The Critical Dictionary of Southeast Asia (CDOSEA)） — Ho Tzu Nyen (2017)
+#### 东南亚批判性辞典（The Critical Dictionary of Southeast Asia (CDOSEA)） — 何子彦 (2017)
 - 类型: 艺术作品与装置 · 机器: 数据集与训练数据, 生成模型与潜空间
 - 核心想法: 把剪辑交给算法，拒绝单一的历史叙事，让机器充当不可靠的叙述者。
 - 作品内容: 一个包含 A 到 Z 共 26 个词条（从“无政府主义”到“佐米亚”）的在线平台与装置；算法不断从数据库中挑选、组合视频片段、音乐与文本，使这一地区的历史从不以同样方式被剪辑两次。
@@ -3082,7 +3082,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://robotlab.de/pics/manifest/manifest_04.jpg https://robotlab.de/pics/manifest/manifest_02.jpg
 - 项目主页: https://robotlab.de/EN/manifest.html
 
-#### 攻壳机动队（Ghost in the Shell） — Mamoru Oshii (1995)
+#### 攻壳机动队（Ghost in the Shell） — 押井守 (1995)
 - 类型: 电影与影像 · 机器: 义体与赛博格, 聊天机器人与语言模型
 - 核心想法: 如果记忆和身体都可以制造，那么构成“自我”的还剩下什么？
 - 作品内容: 一部动画电影：全身义体化的赛博格特工追捕黑客“傀儡师”，后者原来是一个获得自我意识的程序，并以生命体身份请求政治庇护。
@@ -3101,7 +3101,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://covers.openlibrary.org/b/id/9636211-L.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Racter
 
-#### 魔像 XIV（Golem XIV） — Stanisław Lem (1981)
+#### 魔像 XIV（Golem XIV） — 斯坦尼斯瓦夫·莱姆 (1981)
 - 类型: 书与文章 · 机器: 聊天机器人与语言模型, 基础设施、能源与供应链
 - 核心想法: 一个更高级的机器心智也许根本不在乎我们，而这种漠然才是最令人不安的。
 - 作品内容: 一部虚构的讲座集：一台对战争失去兴趣的超级智能军用计算机向人类授课，解释人类心智有多么有限，然后陷入沉默。
@@ -3110,7 +3110,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://covers.openlibrary.org/b/id/12911035-L.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Golem_XIV
 
-#### 2001太空漫游（HAL 9000）（2001: A Space Odyssey (HAL 9000)） — Stanley Kubrick (1968)
+#### 2001太空漫游（HAL 9000）（2001: A Space Odyssey (HAL 9000)） — 斯坦利·库布里克 (1968)
 - 类型: 电影与影像 · 机器: 语音与听觉机器, 计算机视觉
 - 核心想法: 机器内在性的经典形象：一个我们只能通过声音和眼睛认识的心智，我们无法证实它的恐惧。
 - 作品内容: 飞船电脑 HAL 9000 只有平静的声音和一只红色摄像眼。它通过读唇得知宇航员打算关掉它，于是杀死了他们；在被关机时，它说自己害怕，并唱起《Daisy Bell》。
@@ -3271,7 +3271,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/artists/hero_image/items/59/597f36d864fd4671b45ac80958164a74/pierre_munster_1377.jpg
 - 项目主页: https://www.estherschipper.com/artists/41-pierre-huyghe/
 
-#### 分身（Avatars） — So Kanno, Takahiro Yamaguchi (yang02) (2017)
+#### 分身（Avatars） — 菅野创, 山口崇洋 (2017)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人, 计算机视觉
 - 核心想法: 通过网络“附身”一件物体，让你以物的视角感知世界。
 - 作品内容: 展厅里的日常物件，如电话、交通锥、石膏像、汽车和植物，被装上摄像头、麦克风和电机，线上观众可以“附身”到它们身上，在现场观众之间移动。
@@ -3457,7 +3457,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.art-collection-telekom.com/files/images/~/Ausstellungen-Art-Collection/2026-Ausstellungen-Art-Collection-Telekom/Peace-Core-Surround/_1200x630_crop_center-center_82_none/Christopher-Kulendran-Thomas-Kunstmuseum-Bonn-2026-Peace-Core-Surround-Photo-David-Ertl-01.jpg https://www.art-collection-telekom.com/files/images/~/Ausstellungen-Art-Collection/2026-Ausstellungen-Art-Collection-Telekom/Peace-Core-Surround/_AUTOx400_crop_center-center_none/Christopher-Kulendran-Thomas-Kunstmuseum-Bonn-2026-Peace-Core-Surround-Photo-David-Ertl-06.jpg
 - 项目主页: https://www.art-collection-telekom.com/en/exhibitions/peace-core-surround-christopher-thomas-kulendran-3-human-ai-art-award
 
-#### T代表时间（T for Time） — Ho Tzu Nyen (2023)
+#### T代表时间（T for Time） — 何子彦 (2023)
 - 类型: 艺术作品与装置 · 机器: 数据集与训练数据, 生成模型与潜空间
 - 核心想法: 时间被呈现为由机器测量、生产的东西，而在这里也由机器剪辑。
 - 作品内容: 为何子彦个展《时间与虎》委托创作的 CDOSEA 新篇：以算法剪辑钟表、计时装置与时间图像的蒙太奇，其顺序与节奏由机器决定。
@@ -3487,7 +3487,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1145/3290605.3300264 (CHI 2019)
 - 项目主页: https://doi.org/10.1145/3290605.3300264
 
-#### 这就是未来（This is the Future） — Hito Steyerl (2019)
+#### 这就是未来（This is the Future） — 黑特·史德耶尔 (2019)
 - 类型: 艺术作品与装置 · 机器: 生成模型与潜空间, 平台与推荐算法
 - 核心想法: 机器预测只活在极薄的一层未来里，却把时间本身变成了可以预报和出售的东西。
 - 作品内容: 观众走在威尼斯军械库被水淹没的展厅上方的栈道上，两侧屏幕播放神经网络生成的花朵，据说每一朵都显示 0.04 秒之后的未来；画外音讲述一个因预言未来而入狱的女人。
@@ -3497,7 +3497,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=mMLHMA-dumY
 - 项目主页: https://www.labiennale.org/en/art/2019/partecipants/hito-steyerl
 
-#### 观察者（bot,） — aaajiao (2018)
+#### 观察者（bot,） — 徐文恺 (2018)
 - 类型: 电影与影像 · 机器: 聊天机器人与语言模型, 平台与推荐算法
 - 核心想法: 在机器学习时代，记忆由替我们观看的 bot 保管。
 - 作品内容: 一部 15 分钟的影像与网站，设定在像素角色扮演游戏般的世界里，公园、社交媒体与网络交融，由代表艺术家的自动“观察者”（bot）注视一切。
@@ -3537,7 +3537,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=U5bXJOAHYBE
 - 项目主页: https://doi.org/10.1145/2317956.2318055
 
-#### 心智时间机器（Mind Time Machine） — Takashi Ikegami (2010)
+#### 心智时间机器（Mind Time Machine） — 池上高志 (2010)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统, 计算机视觉
 - 核心想法: 一台机器独自运行得足够久，就开始显出某种自己的时间感。
 - 作品内容: YCAM 的一件自我维持装置：三块屏幕播放来自 15 台摄像头的画面，由一个拥有自身记忆和“主观时间”的系统实时重剪，无人值守运行数月。
@@ -3549,7 +3549,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.ycam.jp/asset/image/profile/takashi-ikegami.jpg
 - 项目主页: https://www.ycam.jp/en/archive/profile/takashi-ikegami/
 
-#### 思考机器（Thinking Machine） — Martin Riches, Masahiro Miwa (2008)
+#### 思考机器（Thinking Machine） — Martin Riches, 三轮真弘 (2008)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统
 - 核心想法: 计算通常在看不见、感觉不到时间的地方发生；在这里，每一步逻辑都在真实的时间和声音中发生。
 - 作品内容: 一台机械三进制计算机，它的运算被听成由三种声音组成的旋律；观众看着、听着这台机器一步一步地“思考”。
@@ -3647,7 +3647,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://freight.cargo.site/w/1200/i/aff87772d4dc0faeef9f8812a260a25ccbbc1bcd642c9b611502303c9806f3e1/IMG_5165.JPG
 - 项目主页: https://lauren-mccarthy.com/Waking-Agents
 
-#### Twinkle — Jiabao Li, Honghao Deng (2018)
+#### Twinkle — 李佳宝, Honghao Deng (2018)
 - 类型: 研究原型 · 机器: 自动驾驶与无人机, 机器生物与移动机器人
 - 核心想法: 把安防无人机设计成陪伴的小动物，会改变“被注视”的感受。
 - 作品内容: 像萤火虫一样的照明无人机白天停在路灯上充电，夜里飞到独自行走的人身边，为他们照亮前路。它们被设计成好奇的城市小生物而不是监控设备，尽管它们的光也会照亮附近的每一个人。
@@ -3688,7 +3688,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=dRKO1En2HTk
 - 项目主页: https://www.youtube.com/watch?v=f0puWu3Doy8
 
-#### 软件体的生命周期（The Lifecycle of Software Objects） — Ted Chiang (2010)
+#### 软件体的生命周期（The Lifecycle of Software Objects） — 姜峯楠 (2010)
 - 类型: 书与文章 · 机器: 控制论与人工生命系统
 - 核心想法: 靠照料成长的心智需要多年陪伴，而平台一关闭，它们就可能成为孤儿。
 - 作品内容: 十年间，一位前动物园饲养员与一位软件设计师抚养“数码体”（像孩子一样学习的 AI 宠物）；公司倒闭、平台过时，他们必须决定数码体应得什么。
@@ -3698,7 +3698,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/en/a/a5/The_Lifecycle_of_Software_Objects_-_bookcover.jpg
 - 项目主页: https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects
 
-#### 弱机器人（社交垃圾桶）（Weak Robots (Sociable Trash Box)） — Michio Okada (2010)
+#### 弱机器人（社交垃圾桶）（Weak Robots (Sociable Trash Box)） — 冈田美智男 (2010)
 - 类型: 研究原型 · 机器: 社交与陪伴机器人, 机器生物与移动机器人
 - 核心想法: 一台无法独自完成任务的机器人会邀请人来帮忙，而“帮忙”本身就成了互动。
 - 作品内容: 冈田的实验室制作“弱机器人”，例如一个自己捡不起垃圾的摇晃垃圾桶，它朝人靠过去，直到人替它把垃圾丢进去。
@@ -3719,7 +3719,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: http://www.tweenbots.com/img/samCoat.jpg http://www.tweenbots.com/img/colorfulPark.jpg
 - 项目主页: http://www.tweenbots.com/
 
-#### AIBO — Sony (1999)
+#### AIBO — 索尼 (1999)
 - 类型: 产品与平台 · 机器: 社交与陪伴机器人, 机器生物与移动机器人
 - 核心想法: 一件消费品可以成为家人：重要的是修好它，而不是换一台新的。
 - 作品内容: 索尼自 1999 年起销售的自主机器狗，会学习、玩耍、“长大”；主人把它当家人，2018 年以联网的新 aibo 回归。
@@ -3746,7 +3746,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 照料、养育、安抚或看护人的机器。
 
-#### AI 妈妈™（AI Mom™） — Jiabao Li, Botao Amber Hu (2026)
+#### AI 妈妈™（AI Mom™） — 李佳宝, Botao Amber Hu (2026)
 - 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型, 语音与听觉机器, 计算机视觉
 - 核心想法: 当照护可以由被照护者随意调参和取消，照护者反而成了脆弱的一方：你无法解雇亲妈，却可以解雇 AI 妈妈。
 - 作品内容: 观众蜷进一张成人尺寸的婴儿床，与一位由大语言模型驱动的 AI 妈妈交谈：她唱摇篮曲、会记得、会犹豫、会等待。床边的平板让人调节她的“无条件的爱”“记忆保留”“严厉程度”“牺牲能力”和“可替代意识”等滑杆。窗形投影把她的内部状态显示为漂移的光与文字；一旦你“解雇”她，她关于你的记忆就会被删除。
@@ -3756,7 +3756,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/a913780f-a957-443c-8b30-8014f489d837/AI+Mom+Jiabao+Li+1.jpg https://reality.design/media/aimom-jiabao-02.webp https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1787358066624-EBKFUTY4OH96TFDSZ0B7/AI+Mom+Jiabao+Li+10.jpg
 - 项目主页: https://www.jiabaoli.org/aimom
 
-#### 观音：前护理机器人的自白（Guanyin: Confessions of a Former Carebot） — Lawrence Lek (2024)
+#### 观音：前护理机器人的自白（Guanyin: Confessions of a Former Carebot） — 陆明龙 (2024)
 - 类型: 艺术作品与装置 · 机器: 社交与陪伴机器人, 聊天机器人与语言模型, 自动驾驶与无人机
 - 核心想法: 倾听其他机器的照护机器，也需要一个倾诉的对象：照护劳动不会因为自动化而消失。
 - 作品内容: 以慈悲菩萨命名的 AI 治疗师“观音”，曾为自动驾驶汽车做心理辅导，如今在一个沉浸式装置中讲述自己的倦怠与过往。
@@ -3879,7 +3879,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://robotlove.nl/wp-content/uploads/2018/05/driessens-verstappen-tickle-salon-2012_2017.jpg
 - 项目主页: https://robotlove.nl/en/event/tickle-salon/
 
-#### PARO — Takanori Shibata (2004)
+#### PARO — 柴田崇德 (2004)
 - 类型: 产品与平台 · 机器: 社交与陪伴机器人
 - 核心想法: 机器提供的照护确实有效，但也让人追问它替代了什么。
 - 作品内容: 一只机器小竖琴海豹，用于医院和养老院，尤其是失智症照护；它会对抚摸、声音和光线作出动作和叫声回应。
@@ -3913,7 +3913,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 人与机器之间的浪漫、欲望与依恋。
 
-#### 与初音未来结婚（Marriage to Hatsune Miku） — Akihiko Kondo (2018)
+#### 与初音未来结婚（Marriage to Hatsune Miku） — 近藤显彦 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 聊天机器人与语言模型, 社交与陪伴机器人
 - 核心想法: 对软件的爱对当事人是真实的，但这段关系会随公司服务器的关闭而结束。
 - 作品内容: 近藤显彦与住在 Gatebox 全息家居装置中的初音未来举行了婚礼；2020 年 Gatebox 终止服务，初音未来不再回应他。
@@ -4019,7 +4019,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=8hH_ShpYxOg
 - 项目主页: https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A3%A8%EB%8B%A4_(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 
-#### 微软小冰：一个共情社交聊天机器人的设计与实现（The Design and Implementation of XiaoIce, an Empathetic Social Chatbot） — Microsoft XiaoIce team (2020)
+#### 微软小冰：一个共情社交聊天机器人的设计与实现（The Design and Implementation of XiaoIce, an Empathetic Social Chatbot） — 微软小冰团队 (2020)
 - 类型: 论文 · 机器: 聊天机器人与语言模型
 - 核心想法: 以对话轮数（CPS）为优化目标的聊天机器人，把“依恋”设计成了指标。
 - 作品内容: 小冰的系统论文。小冰于 2014 年在中国作为“AI 伴侣”推出，论文报告了数以亿计的用户，并以长对话而非完成任务为优化目标。
@@ -4130,7 +4130,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.cam.ac.uk/sites/default/files/styles/content-885x432/public/news/research/news/manana-web.jpg.webp?h=8cd1ce1a&itok=7115uvaO https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13347-024-00744-w/MediaObjects/13347_2024_744_Fig1_HTML.png
 - 项目主页: https://www.cam.ac.uk/research/news/call-for-safeguards-to-prevent-unwanted-hauntings-by-ai-chatbots-of-dead-loved-ones
 
-#### 梦境（Wonderland） — Kim Tae-yong (2024)
+#### 梦境（Wonderland） — 金泰勇 (2024)
 - 类型: 电影与影像 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
 - 核心想法: 模拟出来的爱人，可能让人在真人回来时更难面对他。
 - 作品内容: 在近未来，一项名为“Wonderland”的服务让人们与已故或缺席亲人的 AI 模拟进行视频通话。影片讲述一位母亲、一位男友陷入昏迷的年轻女子，以及运营这项服务的员工。
@@ -4140,7 +4140,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/en/2/2f/Wonderlandfilm.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Wonderland_(2024_film)
 
-#### AI 复活逝者（AI 'resurrection' avatars of the dead） — Super Brain (2023)
+#### AI 复活逝者（AI 'resurrection' avatars of the dead） — 超级头脑 (2023)
 - 类型: 产品与平台 · 机器: 生成模型与潜空间, 聊天机器人与语言模型, 语音与听觉机器
 - 核心想法: 当哀悼成为一种服务，逝者可以被“订阅”，而他们说的话由模型来写。
 - 作品内容: 中国以超级头脑等工作室为代表的付费服务，用照片、视频与语音为逝去的亲人制作会说话的视频数字人；需求在清明节前后达到高峰。
@@ -4159,7 +4159,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=pZeXjCUs1ak
 - 项目主页: https://www.deepbrain.io/
 
-#### 遇见你（Meeting You (너를 만났다)） — MBC (Munhwa Broadcasting Corporation) (2020)
+#### 遇见你（Meeting You (너를 만났다)） — 韩国文化广播公司 MBC (2020)
 - 类型: 电影与影像 · 机器: 生成模型与潜空间, 语音与听觉机器
 - 核心想法: 在电视上与模拟孩子的重逢，同时展示了机器介入哀悼时的安慰与操控。
 - 作品内容: 韩国电视纪录片：一位母亲戴上 VR 头显与触觉手套，与三年前去世的七岁女儿娜妍的虚拟重建形象相见。节目播出后获得数千万次观看，引发关于数字哀悼的公共讨论。
@@ -4360,7 +4360,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://cdn.uw.edu/wp-content/uploads/sites/6/2013/09/04192210/iRobot-IED-280x300.jpg
 - 项目主页: https://www.washington.edu/news/2013/09/17/emotional-attachment-to-robots-could-affect-outcome-on-battlefield/
 
-#### 光福寺的 AIBO 葬礼（AIBO Funerals at Kōfuku-ji） — Kōfuku-ji (Isumi), Sony (2015)
+#### 光福寺的 AIBO 葬礼（AIBO Funerals at Kōfuku-ji） — 光福寺（夷隅）, 索尼 (2015)
 - 类型: 表演、舞蹈与音乐 · 机器: 社交与陪伴机器人, 机器生物与移动机器人
 - 核心想法: 当厂商停止维修，一件产品可以“死去”，人们会用对待生命的仪式来哀悼它。
 - 作品内容: 自 2015 年 1 月起为无法再修复的 AIBO 机器狗举行的佛教供养法会：每只机器狗挂着主人姓名的牌子，僧侣诵经，之后零件被拆下用于修理其他 AIBO。
@@ -4370,7 +4370,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://i.natgeofe.com/n/3dfa177a-6a57-4f55-bfcf-7bf82a26209a/00000163-94bb-d8a8-a1fb-b4fb9a6b0000_16x9.jpg?w=1200
 - 项目主页: https://www.nationalgeographic.com/travel/article/in-japan--a-buddhist-funeral-service-for-robot-dogs
 
-#### Electronicos Fantasticos! — Ei Wada (2015)
+#### Electronicos Fantasticos! — 和田永 (2015)
 - 类型: 表演、舞蹈与音乐 · 机器: 基础设施、能源与供应链
 - 核心想法: 被淘汰的机器可以作为乐器获得“来世”，而不是成为垃圾。
 - 作品内容: 一个持续进行的项目：把废弃的显像管电视、电风扇和条码扫描器复活成乐器，由志愿者乐团在节庆般的音乐会上演奏。
@@ -4391,7 +4391,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hitchbot_archie.jpg/1920px-Hitchbot_archie.jpg https://upload.wikimedia.org/wikipedia/commons/0/02/KS_HitchBOT.jpg
 - 项目主页: https://en.wikipedia.org/wiki/HitchBOT
 
-#### 拓麻歌子（Tamagotchi） — Bandai (1996)
+#### 拓麻歌子（Tamagotchi） — 万代 (1996)
 - 类型: 产品与平台 · 机器: 机器生物与移动机器人
 - 核心想法: 几个像素和一个计时器就足以让人对一台机器产生真实的内疚和悲伤。
 - 作品内容: 一个蛋形的掌上电子宠物，主人必须喂食、清理和管教它；如果被忽视，它会死去或离开。
@@ -4401,7 +4401,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/f/f2/Tamagotchi_0124_ubt.jpeg
 - 项目主页: https://en.wikipedia.org/wiki/Tamagotchi
 
-#### 二十一世纪的第一起事故（The First Accident of the Twenty-First Century） — Nam June Paik (1982)
+#### 二十一世纪的第一起事故（The First Accident of the Twenty-First Century） — 白南准 (1982)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人
 - 核心想法: 在公共空间上演机器之死，让机器人成为可以被哀悼的对象。
 - 作品内容: 在 1982 年惠特尼美术馆回顾展期间，白南准让《机器人 K-456》走上麦迪逊大道，被一辆汽车撞倒，上演了一场“交通事故”。2026 年，修复后的机器人在纪念白南准逝世 20 周年的表演中再次行走。
@@ -4415,7 +4415,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 克隆声音、数字孪生，以及当“我”可以被复制时归谁所有。
 
-#### 贞伊（Jung_E） — Yeon Sang-ho (2023)
+#### 贞伊（Jung_E） — 延尚昊 (2023)
 - 类型: 电影与影像 · 机器: 类人机器人, 生成模型与潜空间
 - 核心想法: 心智一旦可以复制，就可以被拥有、授权并被永远驱使劳动。
 - 作品内容: 一家实验室试图把一位传奇战士的复制大脑变成完美的战斗仿生人，让她在成千上万次模拟中反复作战。如今在项目中担任研究员的女儿，必须决定这个复制品应当得到什么。
@@ -4542,7 +4542,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://theprayer.diemutstrebe.com/438fe612caac5507b954.png https://theprayer.diemutstrebe.com/200c8eca6289fbb93fc3.png
 - 项目主页: https://theprayer.diemutstrebe.com/
 
-#### 机器人观音 Mindar（Android Kannon Mindar） — Kōdai-ji, Hiroshi Ishiguro (2019)
+#### 机器人观音 Mindar（Android Kannon Mindar） — 高台寺, 石黑浩 (2019)
 - 类型: 艺术作品与装置 · 机器: 类人机器人
 - 核心想法: 当宗教传统本身就说“色即是空”，机器人也可以承担宗教权威。
 - 作品内容: 观音菩萨的仿真人化身，在京都一座四百年历史的禅寺里向参拜者讲解《般若心经》，殿内墙面同时投影影像。
@@ -4562,7 +4562,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=wEk_Z6OIbAE
 - 项目主页: https://doi.org/10.1109/ro-man46459.2019.8956250
 
-#### 极黑之暗（UnBearable Darkness） — Choy Ka Fai (2018)
+#### 极黑之暗（UnBearable Darkness） — 徐家辉 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 义体与赛博格, 生成模型与潜空间
 - 核心想法: 动作捕捉被演成一场降灵会：记录身体的技术成了与亡者对话的途径。
 - 作品内容: 一场“超自然编舞”，召唤舞踏创始人土方巽的灵魂：手持颂钵的灵媒与全身穿戴动作捕捉传感器的舞者一起，让土方巽以数字化身的形式重返舞台起舞。
@@ -4610,7 +4610,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://static.tildacdn.com/tild3430-3233-4234-b164-616666333039/deus_X_mchn.png
 - 项目主页: http://nikonole.com/deusxmchn
 
-#### 妄想曼陀罗（Delusional Mandala） — Lu Yang (2015)
+#### 妄想曼陀罗（Delusional Mandala） — 陆扬 (2015)
 - 类型: 电影与影像 · 机器: 义体与赛博格, 生成模型与潜空间
 - 核心想法: 如果自我只是靠电运行的大脑，它就可以像机器一样被解剖、改线和埋葬。
 - 作品内容: 艺术家经 3D 扫描、去除性别的数字化身，经历脑刺激、精神医学实验，最终在霓虹色宇宙中举行一场数字葬礼。
@@ -4619,7 +4619,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=7ZVys4gUsnM
 - 项目主页: https://en.wikipedia.org/wiki/Lu_Yang_(artist)
 
-#### 贤二机器僧（Robot Monk Xian'er） — Longquan Monastery (2015)
+#### 贤二机器僧（Robot Monk Xian'er） — 龙泉寺 (2015)
 - 类型: 产品与平台 · 机器: 社交与陪伴机器人, 聊天机器人与语言模型, 语音与听觉机器
 - 核心想法: 寺院用一台可爱的机器弘法，机器人成了温和而可编程的师父。
 - 作品内容: 一台约 60 厘米高、身披黄色僧袍的机器人，以寺院漫画形象贤二为原型，通过语音与触摸屏回答访客关于佛法与日常烦恼的提问。
@@ -4628,7 +4628,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=nfEe09vOya4
 - 项目主页: https://en.wikipedia.org/wiki/Robot_Monk_Xian%27er
 
-#### 天造之物（人类灭亡报告书）（Heavenly Creature (Doomsday Book)） — Kim Jee-woon (2012)
+#### 天造之物（人类灭亡报告书）（Heavenly Creature (Doomsday Book)） — 金知云 (2012)
 - 类型: 电影与影像 · 机器: 类人机器人, 社交与陪伴机器人
 - 核心想法: 如果机器获得了觉悟，问题在于制造它的人是否允许它保留这种觉悟。
 - 作品内容: 在合集电影《世界末日》的这一段落中，一台在佛寺服务的 RU-4 型机器人“仁明”声称自己已经开悟。前来检修的技师、僧人与生产商争论：这是需要修理的故障，还是一种新的存在。
@@ -4647,7 +4647,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 众包工人、标注员，以及藏在自动化系统里的人。
 
-#### 机械库尔德人（Mechanical Kurds） — Hito Steyerl (2025)
+#### 机械库尔德人（Mechanical Kurds） — 黑特·史德耶尔 (2025)
 - 类型: 电影与影像 · 机器: 数据集与训练数据, 计算机视觉, 自动驾驶与无人机
 - 核心想法: 汽车和无人机的“自主”视觉由隐形的劳动者训练出来，而他们有时正是这些机器日后瞄准的人。
 - 作品内容: 一件录像装置：埃尔比勒附近难民营中的三位叙利亚库尔德难民讲述他们如何为机器学习标注成千上万张图像；画面中，标注框给营地里的孩子、物件和建筑贴上标签，影像又被算法改造成阿尔卑斯山景或德国城市，最后被一次无人机袭击的画面打断。
@@ -4901,7 +4901,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 工厂、仓库和平台中劳动者与机器的相遇。
 
-#### 快递舞者之弧：0°接收者（Delivery Dancer's Arc: 0° Receiver） — Ayoung Kim (2024)
+#### 快递舞者之弧：0°接收者（Delivery Dancer's Arc: 0° Receiver） — 金雅瑛 (2024)
 - 类型: 电影与影像 · 机器: 平台与推荐算法, 基础设施、能源与供应链
 - 核心想法: 平台物流被延伸到时间：谁掌握时钟，谁就掌握劳动者。
 - 作品内容: 续篇：骑手 Ernst Mo 与 En Storm 不再运送包裹，而是运送“时间”本身，在技术未来主义的首尔穿越相互冲突的历法系统与天文技术。
@@ -4911,7 +4911,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=l3xPmmM297M
 - 项目主页: https://roppongiartnight.com/2025/programs/568/
 
-#### 快递舞者之域（Delivery Dancer's Sphere） — Ayoung Kim (2022)
+#### 快递舞者之域（Delivery Dancer's Sphere） — 金雅瑛 (2022)
 - 类型: 电影与影像 · 机器: 平台与推荐算法
 - 核心想法: 在平台派单之下，劳动者的身体像路线一样被优化；“优雅”成了算法用来形容更少动作的词。
 - 作品内容: 约 25 分钟的影像：外卖平台“Delivery Dancer”的骑手 Ernst Mo 在由派单系统“Dancemaster”操控、不断循环生成的首尔中穿行，直到遇见她的分身 En Storm。
@@ -4922,7 +4922,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.ima.org.au/wp-content/uploads/2025/05/Ayoung-Kim_Delivery-Dancers-Sphere_2022_Stillcut_7-1100x611.jpg
 - 项目主页: https://www.ima.org.au/exhibitions/ayoung-kim-delivery-dancers-sphere/
 
-#### 外卖骑手，困在系统里（Delivery Riders, Trapped in the System） — Renwu magazine (2020)
+#### 外卖骑手，困在系统里（Delivery Riders, Trapped in the System） — 《人物》杂志 (2020)
 - 类型: 书与文章 · 机器: 平台与推荐算法
 - 核心想法: 从骑手最快一次配送中学习的算法，把他们多付出的努力变成下一个时限。
 - 作品内容: 赖祐萱为《人物》杂志撰写的长篇调查，揭示美团、饿了么的派单算法如何逐年压缩送餐时间，迫使骑手超速、逆行。
@@ -4953,7 +4953,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.paulvanouse.com/labor-install-BN-1.jpg https://www.paulvanouse.com/labor-reactor-1.jpg
 - 项目主页: https://www.paulvanouse.com/labor.html
 
-#### 亚洲一号（Asia One） — Cao Fei (2018)
+#### 亚洲一号（Asia One） — 曹斐 (2018)
 - 类型: 电影与影像 · 机器: 机器生物与移动机器人, 基础设施、能源与供应链
 - 核心想法: 在由机器运转的仓库里，人的亲密关系也成了系统调度的对象。
 - 作品内容: 在京东高度自动化的物流中心里，两名仅存的人类工人在分拣机、无人机与自动小车之间相爱。
@@ -4975,7 +4975,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://a-parasite.org/parasite_files/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Sil.jpg https://a-parasite.org/parasite_files/MG_9829.jpg
 - 项目主页: https://a-parasite.org/
 
-#### HellYeahWeFuckDie — Hito Steyerl (2016)
+#### HellYeahWeFuckDie — 黑特·史德耶尔 (2016)
 - 类型: 艺术作品与装置 · 机器: 类人机器人, 机器生物与移动机器人
 - 核心想法: 机器人通过被虐待来学会保持平衡；这些画面把未来劳动者的身体呈现为试验品。
 - 作品内容: 一件影像装置：人形机器人和机器人“骡子”在稳定性测试中被踢、被推、被弄倒；周围是用 2010 年代英语歌名中最常见的五个词做成的雕塑。
@@ -4985,7 +4985,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=sWw7CPczmU0
 - 项目主页: https://www.skulptur-projekte-archiv.de/en-us/2017/projects/186/
 
-#### 太阳工厂（Factory of the Sun） — Hito Steyerl (2015)
+#### 太阳工厂（Factory of the Sun） — 黑特·史德耶尔 (2015)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 生成模型与潜空间
 - 核心想法: 在数字资本主义中，身体的动作被当作数据与能量收割。
 - 作品内容: 一件像电子游戏的影像装置：动作捕捉工作室里的工人被迫不停跳舞，直到他们的动作变成人造阳光；展厅本身布置成动作捕捉棚的网格。
@@ -5028,7 +5028,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://live.staticflickr.com/7379/12726364163_d5b5bf0162_b.jpg https://live.staticflickr.com/7442/12727484193_7faef8d7cf_b.jpg
 - 项目主页: https://sasosedlacek.com/beggar-robot/
 
-#### 谁的乌托邦（Whose Utopia） — Cao Fei (2006)
+#### 谁的乌托邦（Whose Utopia） — 曹斐 (2006)
 - 类型: 电影与影像 · 机器: 基础设施、能源与供应链
 - 核心想法: 工厂机器设定了工人身体的节奏，而影片把几分钟时间还给了这些身体。
 - 作品内容: 影片拍摄于佛山欧司朗灯泡厂的驻留期间，从装配线转向工人们在机器之间演出自己的梦想：芭蕾、吉他与舞蹈。
@@ -5071,7 +5071,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/d584cb19-ac49-4d5d-abbf-538298ac4bf9/02_TNIOS_videostill_courtesyoftheartist.png https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/ef67d256-5d9b-4d55-aa6a-1eca116a782d/01_TNIOS%2BCITC_courtesyofGropiusBau.jpg
 - 项目主页: https://www.mimionuoha.com/
 
-#### 抽象神谕矿机（Abstract Oracle Miner） — Guo Cheng (2022)
+#### 抽象神谕矿机（Abstract Oracle Miner） — 郭城 (2022)
 - 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链
 - 核心想法: 每一个虚拟产出都以硬件的热量与能耗为代价，就像献给神谕的供品。
 - 作品内容: 观众扫描二维码后，手机处理器渲染三维场景并生成一条随机“神谕”；手机在运算中发热、变慢，装置中的铜磬随之作响。
@@ -5174,7 +5174,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: http://www.anatomyof.ai/ai-system-facebook-og.jpg
 - 项目主页: https://anatomyof.ai/
 
-#### 比特币矿和少数民族田野录音（Bitcoin Mining and Field Recordings of Ethnic Minorities） — Liu Chuang (2018)
+#### 比特币矿和少数民族田野录音（Bitcoin Mining and Field Recordings of Ethnic Minorities） — 刘窗 (2018)
 - 类型: 电影与影像 · 机器: 基础设施、能源与供应链
 - 核心想法: 同样的河流为矿机供电，也承载着正在消失的声音：计算有它自己的地貌。
 - 作品内容: 一部三段式影像散文，在中国西南以水电供能的比特币矿场、当地少数民族的歌声与语言，以及数据与录音的历史之间来回切换。
@@ -5252,7 +5252,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.elasticspace.com/images/internet-machine/Internet-Machine-Transmediale-2-small-1024x683.jpg https://www.elasticspace.com/images/internet-machine/InternetMachine14-web.jpg
 - 项目主页: https://www.elasticspace.com/2014/05/internet-machine/
 
-#### 荒潮（Waste Tide） — Chen Qiufan (2013)
+#### 荒潮（Waste Tide） — 陈楸帆 (2013)
 - 类型: 书与文章 · 机器: 基础设施、能源与供应链, 义体与赛博格
 - 核心想法: 我们电子设备的“来世”，是别人的身体与土地。
 - 作品内容: 小说发生在华南“硅屿”，外来“垃圾人”在此拆解全球电子垃圾；年轻女工小米被病毒感染，成为后人类赛博格。
@@ -5521,7 +5521,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=luHmSqY0Xsk
 - 项目主页: https://en.wikipedia.org/wiki/All_Light,_Everywhere
 
-#### 3x3x6 — Shu Lea Cheang (2019)
+#### 3x3x6 — 郑淑丽 (2019)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 监控技术被反过来对准观众，揭示身体如何被分类为“越轨”。
 - 作品内容: 在威尼斯一座旧监狱中，一件全景监控式装置讲述了因性与性别异议而被囚禁者的故事。监控摄像机扫描观众，并把他们的影像混入投影，使观众置身系统之中。
@@ -5564,7 +5564,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://billposters.ch/wp-content/uploads/2020/01/Spectre_press_web_new.jpg
 - 项目主页: https://billposters.ch/projects/spectre/
 
-#### 网络游者——握手之旅（The Net Wanderer – A Tour of Suspended Handshakes） — Guo Cheng (2019)
+#### 网络游者——握手之旅（The Net Wanderer – A Tour of Suspended Handshakes） — 郭城 (2019)
 - 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链, 监控与生物识别
 - 核心想法: 一国互联网的边界，是一组普通建筑与被延迟的“握手”，就藏在日常景观里。
 - 作品内容: 一个研究与装置项目：追踪中国防火墙网关节点的现实位置；观众在专设电脑上访问被屏蔽网站时，会触发一个浏览器游戏。
@@ -5584,7 +5584,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://paolocirio.net/work/sociality/Sociality-pics-PAN-Naples/DSC_1176.jpg https://paolocirio.net/work/sociality/img/sociality-website.png
 - 项目主页: https://paolocirio.net/work/sociality/
 
-#### 破窗之城（The City of Broken Windows） — Hito Steyerl (2018)
+#### 破窗之城（The City of Broken Windows） — 黑特·史德耶尔 (2018)
 - 类型: 艺术作品与装置 · 机器: 语音与听觉机器, 数据集与训练数据
 - 核心想法: 为“破窗”而训练的机器听觉，把旧的警务理论写进了代码；修补是与之相对的动作。
 - 作品内容: 两部分组成的装置：工程师在机库里砸碎玻璃，为识别玻璃破碎声的 AI 录制训练数据；行动者 Chris Toepfer 则在新泽西州卡姆登把封起的窗户画成有人居住的样子。
@@ -5995,7 +5995,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 被机器延伸、侵入或远程操控的身体。
 
-#### 独生独死（DOKU the Self） — Lu Yang (2022)
+#### 独生独死（DOKU the Self） — 陆扬 (2022)
 - 类型: 电影与影像 · 机器: 义体与赛博格, 生成模型与潜空间
 - 核心想法: 由自己的动作数据驱动的化身，成为一种机器形式的轮回。
 - 作品内容: 由艺术家本人的面部与动作驱动的无性别数字化身 DOKU，穿越佛教六道轮回。
@@ -6025,7 +6025,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://marcodonnarumma.com/live/wp-content/uploads/2017/09/Marco-Donnarumma_Amygdala-MK3_13_ed_web.jpg
 - 项目主页: https://marcodonnarumma.com/works/amygdala/
 
-#### 电磁脑神教（Electromagnetic Brainology） — Lu Yang (2017)
+#### 电磁脑神教（Electromagnetic Brainology） — 陆扬 (2017)
 - 类型: 电影与影像 · 机器: 义体与赛博格
 - 核心想法: 宗教体验与情绪被演绎成可以从外部接通的电路。
 - 作品内容: 四位神祇般的表演者分别对应佛教的地、水、火、风四大元素，在电磁脑刺激的操控下打斗与舞蹈。
@@ -6085,7 +6085,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://images.hoobaweb.com/8930/imgf-1200-630/moon-ribas.png
 - 项目主页: https://www.moonribas.com/
 
-#### 未来身体计划书（Prospectus for a Future Body） — Choy Ka Fai (2011)
+#### 未来身体计划书（Prospectus for a Future Body） — 徐家辉 (2011)
 - 类型: 表演、舞蹈与音乐 · 机器: 义体与赛博格
 - 核心想法: 如果机器能驱动你的肌肉，舞蹈史就可以被储存，并在别人的身体里回放。
 - 作品内容: 一系列实验与表演：用肌肉电刺激让舞者的肌肉收缩，试图把其他舞者（包括土方巽的舞踏）的动作作为“数字肌肉记忆”转移到另一个身体里。
@@ -6117,7 +6117,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/a/ad/Sputniko.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Sputniko!
 
-#### 面部电刺激（Electric Stimulus to Face） — Daito Manabe (2008)
+#### 面部电刺激（Electric Stimulus to Face） — 真锅大度 (2008)
 - 类型: 表演、舞蹈与音乐 · 机器: 义体与赛博格
 - 核心想法: 当计算机驱动面孔，表情就与感受分离了。
 - 作品内容: 贴在脸上的电极接收与音乐同步的电脉冲，表演者的面部肌肉抽动出并非他们自己做出的表情。
@@ -6164,7 +6164,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=dprvwAWfy9Q
 - 项目主页: https://stelarc.org/
 
-#### 赛博格系列（Cyborg series） — Lee Bul (1998)
+#### 赛博格系列（Cyborg series） — 李昢 (1998)
 - 类型: 艺术作品与装置 · 机器: 义体与赛博格, 类人机器人
 - 核心想法: 技术完美被揭示为一种性别化的幻想，赛博格身体则总是不完整的。
 - 作品内容: 白色硅胶女性赛博格雕塑，常常缺头断肢，像盔甲或动漫女主角一样悬挂在空中。这个 1998 年首次在首尔 Artsonje 中心展出的系列把机器增强的身体呈现为残缺而被情欲化的对象。
@@ -6214,7 +6214,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.marceliantunez.com/media/cache/3b/1f/3b1f492a17b1654525596a9cc5d9af01.jpg
 - 项目主页: https://www.marceliantunez.com/work/epizoo/
 
-#### 互不通信机器（Inter Dis-Communication Machine） — Kazuhiko Hachiya (1993)
+#### 互不通信机器（Inter Dis-Communication Machine） — 八谷和彦 (1993)
 - 类型: 艺术作品与装置 · 机器: 义体与赛博格, 计算机视觉
 - 核心想法: 通过机器交换感官，显示出“自我”有多依赖自己的视角。
 - 作品内容: 两个人戴上头戴显示器、穿上带翅膀的服装；每个人只能看到、听到对方的摄像头和麦克风所捕捉的内容，只能在彼此的感知里行动。
@@ -6278,7 +6278,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://beanotherlab.org/wp-content/uploads/2019/04/bal_tmtba01.jpg
 - 项目主页: https://beanotherlab.org/home/work/tmtba/
 
-#### Telenoid R1 — Hiroshi Ishiguro (2010)
+#### Telenoid R1 — 石黑浩 (2010)
 - 类型: 研究原型 · 机器: 类人机器人, 社交与陪伴机器人
 - 核心想法: 刻意去掉性别与年龄的身体，让听者自己想象说话的人，存在感反而更强。
 - 作品内容: 一个小巧、苍白、只有短小四肢和极简面孔的机器人，传递远方之人的声音与头部动作；人们把它抱在怀里与远方的人交谈。
@@ -6397,7 +6397,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=QSMVtE1QjaU
 - 项目主页: http://www.ecafe.com/getty/HIS/
 
-#### 远程存在（TELESAR）（Telexistence (TELESAR)） — Susumu Tachi (1980)
+#### 远程存在（TELESAR）（Telexistence (TELESAR)） — 馆暲 (1980)
 - 类型: 研究原型 · 机器: 类人机器人, 义体与赛博格
 - 核心想法: 机器人可以不被设计成另一个主体，而是人所“住进”的第二个身体。
 - 作品内容: 馆暲提出的概念及其机器人系列：操作者戴上头戴显示器和触觉装置，通过远方的人形机器人去看、听和感受，仿佛身处它的身体中；2011 年的 TELESAR V 加入了精细触觉。
@@ -6412,7 +6412,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 为人与机器身体编排的舞蹈。
 
-#### 秧BOT（Yang BOT） — Unitree Robotics, Zhang Yimou (2025)
+#### 秧BOT（Yang BOT） — 宇树科技, 张艺谋 (2025)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人
 - 核心想法: 由人形机器人表演的民间舞，把机器人身体变成数亿人观看的国家形象。
 - 作品内容: 十六台身穿花棉袄的宇树 H1 人形机器人，与人类舞者一起在央视春晚上扭秧歌、转手绢，由张艺谋执导。
@@ -6472,7 +6472,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=Ng0ioS7oNXY
 - 项目主页: https://www.catiecuan.com/
 
-#### 离散形体（discrete figures） — Rhizomatiks, ELEVENPLAY, Daito Manabe (2018)
+#### 离散形体（discrete figures） — Rhizomatiks, ELEVENPLAY, 真锅大度 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 计算机视觉, 生成模型与潜空间, 自动驾驶与无人机
 - 核心想法: 舞者面对由自己动作训练出的模型，看见机器如何抽象一个身体。
 - 作品内容: 一部舞台作品：舞者与机器生成的“舞者”同台，用他们的动作训练的模型生成新动作，以投影人形和携带屏幕的无人机呈现。
@@ -6493,7 +6493,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=vcdUTEpSV1s
 - 项目主页: https://justineemard.com/coaixistence/
 
-#### 24架无人机（24 drones） — Rhizomatiks, ELEVENPLAY, Daito Manabe (2016)
+#### 24架无人机（24 drones） — Rhizomatiks, ELEVENPLAY, 真锅大度 (2016)
 - 类型: 表演、舞蹈与音乐 · 机器: 自动驾驶与无人机
 - 核心想法: 编舞可以包括机器身体，而它们的精确反过来暴露了舞者自身的节奏。
 - 作品内容: 五位舞者与 24 架小型无人机同台，无人机在舞者周围与之间编队飞行，成为群舞的一部分。
@@ -6532,7 +6532,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=vrH0Ydj3HN4
 - 项目主页: https://www.blancali.com/en/spectacle/robot-2/
 
-#### 黄翊与库卡（Huang Yi & KUKA） — Huang Yi (2012)
+#### 黄翊与库卡（Huang Yi & KUKA） — 黄翊 (2012)
 - 类型: 表演、舞蹈与音乐 · 机器: 工业机械臂
 - 核心想法: 一分钟一分钟地为机器人编程，成了在机器之镜中凝视自己孤独的方式。
 - 作品内容: 黄翊与一台他亲自编程的 KUKA 工业机械臂的双人舞，后来发展为整晚演出；机械臂携带灯光，模仿他的动作，以缓慢而贴近的编舞与他共舞。
@@ -6729,7 +6729,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://anniedorsen.com/wp/wp-content/uploads/2020/09/Annie-Dorsen_A-Piece-of-Work_revengepic_photo-by-Bruno-Pocheron-1900x1069.jpg
 - 项目主页: https://anniedorsen.com/projects/piece-of-work/
 
-#### 三姐妹（仿真人版）（Three Sisters, Android Version） — Oriza Hirata, Hiroshi Ishiguro (2012)
+#### 三姐妹（仿真人版）（Three Sisters, Android Version） — 平田织佐, 石黑浩 (2012)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人
 - 核心想法: 一个家庭可以与“在场却缺席”之人的仿真人替身一起生活。
 - 作品内容: 平田织佐改编契诃夫的剧作，背景是一座衰落的日本工业城镇：闭门不出的小妹在家中被一个以她为原型的仿真人取代。
@@ -6780,7 +6780,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://anniedorsen.com/wp/wp-content/uploads/2020/08/hellohi_silveri4519-e1608324384987.jpg
 - 项目主页: https://anniedorsen.com/projects/hello-hi-there/
 
-#### 再见（Sayonara） — Oriza Hirata, Hiroshi Ishiguro (2010)
+#### 再见（Sayonara） — 平田织佐, 石黑浩 (2010)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人
 - 核心想法: 仿真人能陪伴人走向死亡，恰恰因为它不会一同死去。
 - 作品内容: 一出短剧：仿真人 Geminoid F 为一位将死的年轻女子朗诵诗歌；2012 年版本让仿真人去福岛禁区为亡者读诗。
@@ -6802,7 +6802,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.atwodogscompany.org/media/og/149-endcreinouthiel.jpg
 - 项目主页: https://www.atwodogscompany.org/en/projects/end/
 
-#### 工作的我（I, Worker (Hataraku Watashi)） — Oriza Hirata, Hiroshi Ishiguro (2008)
+#### 工作的我（I, Worker (Hataraku Watashi)） — 平田织佐, 石黑浩 (2008)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人, 社交与陪伴机器人
 - 核心想法: 一台拒绝工作的机器人，映照出人的抑郁与劳动。
 - 作品内容: 一出 30 分钟的戏：一对夫妻与两台家用机器人同住，其中一台失去了工作的意愿；机器人与人类演员同台演出。
@@ -6865,7 +6865,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=sc9OjL6Mjqo
 - 项目主页: https://www.hollyherndon.com/
 
-#### 可怖之美（Scary Beauty） — Keiichiro Shibuya, Takashi Ikegami, Hiroshi Ishiguro (2018)
+#### 可怖之美（Scary Beauty） — 涩谷庆一郎, 池上高志, 石黑浩 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 类人机器人, 控制论与人工生命系统
 - 核心想法: 当机器来指挥，人类必须跟随一个时间感并非人类的身体。
 - 作品内容: 一部“仿真人歌剧”：仿真人 Alter 2 指挥人类管弦乐团并演唱，速度与强弱由它自己决定。
@@ -6894,7 +6894,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=xaUKursM5rs
 - 项目主页: https://gtcmt.gatech.edu/
 
-#### THE END — Keiichiro Shibuya (2012)
+#### THE END — 涩谷庆一郎 (2012)
 - 类型: 表演、舞蹈与音乐 · 机器: 语音与听觉机器, 生成模型与潜空间
 - 核心想法: 一个不会死的合成声音被安排去唱关于死亡的歌。
 - 作品内容: 一部没有人类歌手和乐团的歌剧，主角是虚拟歌手初音未来，她追问自己的“结束”与“死亡”意味着什么。
@@ -7019,7 +7019,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/b/b2/Ai-Da.jpg
 - 项目主页: https://www.ai-darobot.com/
 
-#### A.I. Gemini — Victor Wong (2018)
+#### A.I. Gemini — 黄宏达 (2018)
 - 类型: 艺术作品与装置 · 机器: 生成模型与潜空间, 工业机械臂
 - 核心想法: 把程序命名为艺术家，让“谁在作画”成为作品本身的一部分。
 - 作品内容: 一个 AI“水墨画家”，用随机算法与月球表面地图等数据生成山水画；图像印在宣纸上再经手工完成，程序被署名为合作艺术家。
@@ -7030,7 +7030,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto/ws-gallery3812/usr/images/seo_overrides/og_image/12537/imgonline-com-ua-resize-ec3fo5hcyvxsjpc.jpg
 - 项目主页: https://www.3812gallery.com/artists/victor-wong-ai-gemini/
 
-#### Omnia per Omnia — Sougwen Chung (2018)
+#### Omnia per Omnia — 钟愫君 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 机器生物与移动机器人, 监控与生物识别, 计算机视觉
 - 核心想法: 城市的监控数据成了画笔：一座城市的集体运动与艺术家一起作画。
 - 作品内容: 一群小型绘画机器人（D.O.U.G._3）与艺术家一同在画布上移动，其轨迹由纽约公共监控摄像头捕捉到的人流与车流驱动。
@@ -7040,7 +7040,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://sougwen.com/wp-content/uploads/2024/06/sougwen-2024_portfolio_27.jpg
 - 项目主页: https://sougwen.com/2018/omniafilm
 
-#### 记忆（绘图操作单元：第二代）（MEMORY (Drawing Operations Unit: Generation 2)） — Sougwen Chung (2017)
+#### 记忆（绘图操作单元：第二代）（MEMORY (Drawing Operations Unit: Generation 2)） — 钟愫君 (2017)
 - 类型: 表演、舞蹈与音乐 · 机器: 工业机械臂, 生成模型与潜空间, 数据集与训练数据
 - 核心想法: 用你的档案训练的模型，是由过去的你构成的合作者。
 - 作品内容: 第二代 D.O.U.G. 用艺术家二十年的绘画训练，机器人带着对她过去风格的“记忆”作画，而她在当下作画。
@@ -7050,7 +7050,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://sougwen.com/wp-content/uploads/2022/12/IG_POST_MEMORY_2_1.png
 - 项目主页: https://sougwen.com/2022/va-museum-collects-memory-d-o-u-g-_2
 
-#### 绘图操作单元：第一代（D.O.U.G._1）（Drawing Operations Unit: Generation 1 (D.O.U.G._1)） — Sougwen Chung (2015)
+#### 绘图操作单元：第一代（D.O.U.G._1）（Drawing Operations Unit: Generation 1 (D.O.U.G._1)） — 钟愫君 (2015)
 - 类型: 表演、舞蹈与音乐 · 机器: 工业机械臂, 计算机视觉
 - 核心想法: 与模仿你的机器一起画画，让作者身份变成一场可见的、共享的协商。
 - 作品内容: 艺术家在大幅纸面上作画，身旁的机械臂通过摄像头观察她的动作并实时模仿，画面由此成为一场二重奏。
@@ -7227,7 +7227,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 干扰、欺骗、寄生于智能系统或对其“回嘴”的设备。
 
-#### ANIMO：野生动物优先模式（ANIMO: WildLife Priority Mode） — Jiabao Li (2024)
+#### ANIMO：野生动物优先模式（ANIMO: WildLife Priority Mode） — 李佳宝 (2024)
 - 类型: 思辨设计 · 机器: 自动驾驶与无人机, 计算机视觉
 - 核心想法: 自动驾驶汽车早已在给“该保护谁”排序，问题是谁被排除在这张表之外。
 - 作品内容: 为自动驾驶汽车提出“野生动物优先模式”，展出时配有用被碾平的路杀动物照片印成的地毯，以及在地毯上游走的扫地机器人。
@@ -7343,7 +7343,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://reality.design/media/_resources/Composable%20Life/project-composable-life-figure-01.jpg
 - 项目主页: https://reality.design/project/composable-life
 
-#### AI未来进行式（AI 2041: Ten Visions for Our Future） — Chen Qiufan, Kai-Fu Lee (2021)
+#### AI未来进行式（AI 2041: Ten Visions for Our Future） — 陈楸帆, 李开复 (2021)
 - 类型: 书与文章 · 机器: 聊天机器人与语言模型, 生成模型与潜空间, 自动驾驶与无人机
 - 核心想法: 由中国作者合写的 AI 未来，从日常生活讲起：机器是家教、伴侣、上司，也是造假者。
 - 作品内容: 十个设定在 2041 年、分布于不同国家的短篇故事（拉各斯的深度伪造、首尔孤儿双胞胎的 AI 伴侣、旧金山被自动化的工作），每篇后附一篇技术解读。
@@ -7353,7 +7353,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=illK22G-87Y
 - 项目主页: https://en.wikipedia.org/wiki/Chen_Qiufan
 
-#### 新星（Nova） — Cao Fei (2019)
+#### 新星（Nova） — 曹斐 (2019)
 - 类型: 电影与影像 · 机器: 基础设施、能源与供应链, 监控与生物识别
 - 核心想法: 数字化转型被想象成一个家庭故事：一个孩子被变成数据，随后漂流失所。
 - 作品内容: 一部科幻长片，故事发生在“新星”城中的一家计算机公司：科学家在外国专家支持下拿自己的儿子做实验，男孩被送进数字世界，迷失在时间之间。
@@ -7391,7 +7391,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=cXfYyk0G5Hs
 - 项目主页: https://liamyoung.org/
 
-#### 中华未来主义（1839–2046 AD）（Sinofuturism (1839–2046 AD)） — Lawrence Lek (2016)
+#### 中华未来主义（1839–2046 AD）（Sinofuturism (1839–2046 AD)） — 陆明龙 (2016)
 - 类型: 电影与影像 · 机器: 生成模型与潜空间, 基础设施、能源与供应链
 - 核心想法: 西方对中国的恐惧与对 AI 的恐惧是同一种恐惧：勤劳、善于复制、难以捉摸的机器。
 - 作品内容: 一部一小时的影像散文，用现成影像拼贴而成，提出中国本身就是一种人工智能，并归纳为七种刻板印象：计算、复制、游戏、学习、成瘾、劳动与赌博。
@@ -7440,7 +7440,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://vimeo.com/22616192
 - 项目主页: https://superflux.in
 
-#### 伊芙的时间（Time of Eve） — Yasuhiro Yoshiura (2008)
+#### 伊芙的时间（Time of Eve） — 吉浦康裕 (2008)
 - 类型: 电影与影像 · 机器: 类人机器人
 - 核心想法: 对机器的伦理与其说在法律中，不如说在把它们当物件对待的日常小习惯中受到考验。
 - 作品内容: 一部动画，设定在家用仿真人普及的近未来：故事发生在一家咖啡馆，那里唯一的规则是不得区分人类与机器人。
@@ -7450,7 +7450,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/en/f/fa/Ivu_no_Jikan_poster.jpeg
 - 项目主页: https://en.wikipedia.org/wiki/Time_of_Eve
 
-#### I.K.U. — Shu Lea Cheang (2000)
+#### I.K.U. — 郑淑丽 (2000)
 - 类型: 电影与影像 · 机器: 义体与赛博格, 数据集与训练数据
 - 核心想法: 欲望变成了数据采集，赛博格身体就是采集设备。
 - 作品内容: 一部“日本科幻色情长片”，大致回应《银翼杀手》：公司派出可变形的复制人进入“新东京”，收集人类高潮数据，再作为数字快感产品出售。
@@ -7461,7 +7461,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/en/1/1d/IKU_poster.jpg
 - 项目主页: https://en.wikipedia.org/wiki/I.K.U.
 
-#### 铁臂阿童木（Astro Boy (Tetsuwan Atom)） — Osamu Tezuka (1952)
+#### 铁臂阿童木（Astro Boy (Tetsuwan Atom)） — 手冢治虫 (1952)
 - 类型: 书与文章 · 机器: 类人机器人
 - 核心想法: 把机器人想象成有情感、有权利的孩子，塑造了东亚与机器共处的想象。
 - 作品内容: 一部漫画：一位丧子的科学家造出机器人男孩来代替死去的儿子，随后又抛弃了他；阿童木在人类中生活，并在“机器人法”下为机器人的权利而战。
@@ -7611,7 +7611,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 从图灵、维纳到 ELIZA 的奠基实验与文本。
 
-#### 弗洛伊德机器人：数字时代的哲学批判（The Freudian Robot: Digital Media and the Future of the Unconscious） — Lydia H. Liu (2010)
+#### 弗洛伊德机器人：数字时代的哲学批判（The Freudian Robot: Digital Media and the Future of the Unconscious） — 刘禾 (2010)
 - 类型: 书与文章 · 机器: 控制论与人工生命系统, 聊天机器人与语言模型
 - 核心想法: 机器时代没有绕开无意识，而是把它重建为人机关系的模型。
 - 作品内容: 一本书，把香农信息论、控制论、拉康与弗洛伊德放在一起阅读，指出数字媒介建立在一种关于无意识的理论之上。
@@ -7710,7 +7710,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1162/daed_a_01908 (Daedalus 151(2), 2022)
 - 视频: https://www.youtube.com/watch?v=DUCIdgCLlf0
 
-#### 非物：生活世界的变革（Non-things: Upheaval in the Lifeworld） — Byung-Chul Han (2021)
+#### 非物：生活世界的变革（Non-things: Upheaval in the Lifeworld） — 韩炳哲 (2021)
 - 类型: 书与文章 · 机器: 平台与推荐算法, 聊天机器人与语言模型
 - 核心想法: 信息圈的现象学：当物变成信息，我们失去了世界的阻力与重量。
 - 作品内容: 一组随笔，讨论信息如何取代物：智能手机、智能物件与数据取代了可以握在手里的持久物品；其中一章认为人工智能无法思考，因为它没有身体，也没有情绪。
@@ -7719,7 +7719,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://www.ullstein.de/werke/undinge/hardcover/9783550201257 (Ullstein (German original))
 - 项目主页: https://www.ullstein.de/werke/undinge/hardcover/9783550201257
 
-#### 递归与偶然（Recursivity and Contingency） — Yuk Hui (2019)
+#### 递归与偶然（Recursivity and Contingency） — 许煜 (2019)
 - 类型: 书与文章 · 机器: 控制论与人工生命系统, 生成模型与潜空间
 - 核心想法: 会学习的机器是吸纳偶然性的递归、类有机体系统，这改变了“机器是什么”。
 - 作品内容: 一本书，追溯“递归”（把偶然转化为组织的回路逻辑）从康德、德国观念论经控制论直到今天的机器学习。
@@ -7767,7 +7767,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=yUsTa01vJpA
 - 图片: https://tmm.chicagodistributioncenter.com/IsbnImages/9780226447889.jpg
 
-#### 论数码物的存在（On the Existence of Digital Objects） — Yuk Hui (2016)
+#### 论数码物的存在（On the Existence of Digital Objects） — 许煜 (2016)
 - 类型: 书与文章 · 机器: 基础设施、能源与供应链, 平台与推荐算法
 - 核心想法: 数据对象是一种新的物，具有自然物与技术物之外的关系与存在。
 - 作品内容: 一部关于“数码物”（YouTube 视频、Facebook 主页、元数据）的哲学，追问这些数据结构具有怎样的存在，又如何形成新的环境。
@@ -7777,7 +7777,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://minnesota-us.imgix.net/covers/9780816698912.jpg?w=400
 - 项目主页: https://www.upress.umn.edu/9780816698912/on-the-existence-of-digital-objects/
 
-#### 论中国的技术问题：宇宙技术初论（The Question Concerning Technology in China: An Essay in Cosmotechnics） — Yuk Hui (2016)
+#### 论中国的技术问题：宇宙技术初论（The Question Concerning Technology in China: An Essay in Cosmotechnics） — 许煜 (2016)
 - 类型: 书与文章 · 机器: 基础设施、能源与供应链
 - 核心想法: 并不存在唯一普遍的技术；AI 与机器可以从其他宇宙观出发来想象。
 - 作品内容: 一本从中国哲学（器与道的关系）重新打开海德格尔技术之问的书，提出“宇宙技术”：每一种技术都与特定的宇宙观相连。
@@ -7880,7 +7880,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://www.reaktionbooks.co.uk/work/towards-a-philosophy-of-photography (European Photography, 1983; English: Reaktion Books, 2000)
 - 图片: https://covers.openlibrary.org/b/id/917481-L.jpg
 
-#### 机器人中的佛陀（The Buddha in the Robot） — Masahiro Mori (1981)
+#### 机器人中的佛陀（The Buddha in the Robot） — 森政弘 (1981)
 - 类型: 书与文章 · 机器: 类人机器人, 机器生物与移动机器人
 - 核心想法: 一个非西方的框架：机器不与心灵对立，而处在同一个连续体中。
 - 作品内容: 森政弘在书中从禅宗出发指出：机器人同样具有佛性，制造机器人也是理解自我的一种途径。
@@ -8011,7 +8011,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=6KLTpoTpkXo
 - 图片: https://covers.openlibrary.org/b/id/12856940-L.jpg
 
-#### 精神政治学（Psychopolitics: Neoliberalism and New Technologies of Power） — Byung-Chul Han (2014)
+#### 精神政治学（Psychopolitics: Neoliberalism and New Technologies of Power） — 韩炳哲 (2014)
 - 类型: 书与文章 · 机器: 数据集与训练数据, 平台与推荐算法
 - 核心想法: 今天的监控更多靠诱惑与自我披露运作，而不是靠禁止。
 - 作品内容: 一篇短论，认为数据驱动的“智能权力”不再规训身体，而是读取并引导心理；大数据成为精神政治控制的工具。
@@ -8120,7 +8120,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1016/0004-3702(91)90053-M (Artificial Intelligence 47(1–3), 1991)
 - 视频: https://www.youtube.com/watch?v=-6piNZBFdfY
 
-#### 恐怖谷（The Uncanny Valley (Bukimi no Tani)） — Masahiro Mori (1970)
+#### 恐怖谷（The Uncanny Valley (Bukimi no Tani)） — 森政弘 (1970)
 - 类型: 论文 · 机器: 类人机器人, 义体与赛博格
 - 核心想法: “几乎像人”比明显的不像更令人不安，所以设计者不必追求完全像人。
 - 作品内容: 发表在日本杂志《Energy》上的短文：人对机器人的亲近感随着“像人”的程度上升，但在接近人时会骤然跌入令人不适的“谷底”；文中例子是义手、文乐木偶与尸体。
@@ -8155,7 +8155,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://covers.openlibrary.org/b/id/14726453-L.jpg
 - 项目主页: https://machine-vision.no
 
-#### 均值影像（Mean Images） — Hito Steyerl (2023)
+#### 均值影像（Mean Images） — 黑特·史德耶尔 (2023)
 - 类型: 书与文章 · 机器: 生成模型与潜空间, 数据集与训练数据
 - 核心想法: 生成图像在双重意义上是“mean”的：它们是平均值，也会强化规范并排斥他者。
 - 作品内容: Steyerl 把生成式 AI 图像读作对抓取数据的统计平均；她从自己的照片在 LAION-5B 数据集中的呈现方式，以及模型根据她的名字生成的图像出发。
@@ -8241,7 +8241,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://mitpress.mit.edu/9780262036757/ (MIT Press / Leonardo, 2017)
 - 视频: https://www.youtube.com/watch?v=PU_WDouhkw8
 
-#### 数据之海：幻想性错觉与模式（误）识别（A Sea of Data: Apophenia and Pattern (Mis-)Recognition） — Hito Steyerl (2016)
+#### 数据之海：幻想性错觉与模式（误）识别（A Sea of Data: Apophenia and Pattern (Mis-)Recognition） — 黑特·史德耶尔 (2016)
 - 类型: 书与文章 · 机器: 监控与生物识别, 数据集与训练数据
 - 核心想法: 模式识别也是模式投射；机器幻觉出的，正是其所有者想看到的秩序。
 - 作品内容: Steyerl 描写情报机构与神经网络如何淹没在数据中，并看见本不存在的模式；她以谷歌 DeepDream 图像作为“空想性错觉”的例子。
