@@ -2,7 +2,7 @@
 
 反思 AI 与机器的代表性艺术作品、机器人艺术、表演、思辨设计与研究目录，以机器现象学为线索：机器感知、机器身体、机器的内在、亲密与照护、记忆与数字来世、劳动与基础设施、分类与权力。只用 AI 生成图像的作品不收录。由 Reality Design Lab 整理，作为艺术家、设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://machinic.reality.design · 2026-10-18 · 721 位创作者 · 965 件作品
+https://machinic.reality.design · 2026-10-18 · 722 位创作者 · 966 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -9840,6 +9840,16 @@ https://machinic.reality.design · 2026-10-18 · 721 位创作者 · 965 件作�
 - 图片: https://covers.openlibrary.org/b/id/15102192-L.jpg
 - 项目主页: https://www.versobooks.com/products/3329-medium-hot
 
+#### 人工美学：生成式 AI、艺术与视觉媒介（Artificial Aesthetics: Generative AI, Art and Visual Media） — Lev Manovich, Emanuele Arielli (2024)
+- 类型: 书与文章 · 机器: 生成模型与潜空间
+- 核心想法: 生成式 AI 不是加进艺术里的一件工具，而是一种新媒介：它改写了谁算作者，也决定了机器学会的是谁的品味。
+- 作品内容: 一本分九章的免费著作，2021 至 2024 年陆续在网上发布，2025 年合编成书，讨论生成式 AI 如何改变我们对作者、创造力、感知与品味的理解；西班牙语、意大利语、中文、日语与韩语译本陆续出版。
+- 实现方式: 两位作者轮流执笔：Arielli 从美学、艺术哲学与艺术心理学出发（技术泛灵论与皮格马利翁效应、人工凝视、审美对齐）；Manovich 从媒介史和他自己使用图像生成器的创作经验出发。
+- 视角: 能动、自主与共创, 他异与恐怖谷, 不透明与潜空间
+- 论文: https://manovich.net/content/04-projects/189-artificial-aesthetics/manovich_and_arielli.artificial_aesthetics.all_chapters_final.pdf (manovich.net, 2024 (Spanish: Ediciones Akal, 2025; Italian: Luca Sossella Editore, 2026))
+- 图片: https://manovich.net/content/04-projects/189-artificial-aesthetics/artificial-aesthetics-top-2.jpg
+- 项目主页: https://manovich.net/index.php/projects/artificial-aesthetics
+
 #### 机器视觉：算法如何改变我们看世界的方式（Machine Vision: How Algorithms Are Changing the Way We See the World） — Jill Walker Rettberg (2023)
 - 类型: 书与文章 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: 机器视觉不是一只眼睛，而是一组关系：它让某些事物可见，另一些事物被忽视。
@@ -10670,6 +10680,7 @@ https://machinic.reality.design · 2026-10-18 · 721 位创作者 · 965 件作�
 - **Kelly Dobson** (3) — 艺术家、设计师；罗德岛设计学院教授. 美国艺术家，在麻省理工学院媒体实验室提出“机器疗法”，制作通过声音与呼吸与人建立关系的机器。 http://www.kellydobson.com/
 - **Ken Goldberg** (3) — 艺术家、机器人学家；加州大学伯克利分校教授. 机器人学教授，1990 年代把最早一批可经互联网操控的机器人做成艺术作品。 https://goldberg.berkeley.edu/
 - **Kris Verdonck** (3) — 剧场创作者、视觉艺术家；A Two Dogs Company 总监. 比利时艺术家，他的表演与装置让机器、物件与人以平等的表演者身份同台。 https://www.atwodogscompany.org/
+- **Lev Manovich** (3) — 纽约市立大学研究生中心校级教授，文化分析实验室主任. 俄裔美国媒介理论家，著有《新媒体的语言》（2001）与《Cultural Analytics》（2020）。 http://manovich.net
 - **Lu Yang** (3) — 艺术家. 上海艺术家，把神经科学、佛教宇宙观、游戏引擎与动作捕捉结合进影像、游戏与数字化身。
 - **Marcel·lí Antúnez Roca** (3) — 艺术家；La Fura dels Baus 联合创始人. 加泰罗尼亚艺术家，离开 La Fura dels Baus 后创作“机电表演”，让外骨骼、机器人与观众共同操控身体。 https://www.marceliantunez.com/
 - **Marco Donnarumma** (3) — 行为艺术家、作曲家与研究者. 意大利艺术家，在表演中把身体、声音与 AI 驱动的义体融合，探讨仪式、残障与机器自主。 https://marcodonnarumma.com/
@@ -10744,7 +10755,6 @@ https://machinic.reality.design · 2026-10-18 · 721 位创作者 · 965 件作�
 - **Laurie Anderson** (2) — 艺术家、音乐人、表演者. 美国艺术家，自 1970 年代起以变声器、电子乐器与多媒体表演闻名。 https://laurieanderson.com/
 - **Leonard Dung** (2) — 哲学家，波鸿鲁尔大学. 波鸿鲁尔大学的心灵哲学与 AI 哲学研究者，关注 AI 意识、AI 福祉与 AI 风险；著有《Saving Artificial Minds》（Routledge，2025）。
 - **Leonel Moura** (2) — 艺术家. 葡萄牙艺术家（1948 年生），自 2001 年起用成群的小型自主机器人作画。 https://www.leonelmoura.com/
-- **Lev Manovich** (2) — 纽约市立大学研究生中心校级教授，文化分析实验室主任. 俄裔美国媒介理论家，著有《新媒体的语言》（2001）与《Cultural Analytics》（2020）。 http://manovich.net
 - **Machine Listening (Sean Dockray, James Parker, Joel Stern)** (2) — 研究与艺术团体. 由 Sean Dockray、James Parker 与 Joel Stern 于 2020 年创立的协作研究与艺术实验平台，横跨写作、装置、表演、电台、软件与教学。 https://machinelistening.exposed/
 - **Madeline Gannon** (2) — 艺术家、机器人研究者；ATONATON 创始人. 美国艺术家兼机器人研究者，给工业机器人加上感知与性格，让它们能与人共处一室。 https://atonaton.com/
 - **Masahiro Mori** (2) — 机器人学家；东京工业大学名誉教授. 日本机器人学家（1927–2025），1970 年提出“恐怖谷”假说，并写作机器人与佛教的关系。
@@ -10889,6 +10899,7 @@ https://machinic.reality.design · 2026-10-18 · 721 位创作者 · 965 件作�
 - **Ei Wada** (1) — 艺术家、音乐人；Electronicos Fantasticos! 发起人. 把显像管电视、电风扇、条码扫描器等淘汰家电改造成乐器，由社区乐团演奏。 https://www.electronicosfantasticos.com/en/
 - **Electric Circus** (1) — 机器人街头剧团（Mirjam Langemeijer 与 Fred Abels）. 木偶师 Mirjam Langemeijer 与发明家 Fred Abels 的合作，把电子动画技术与木偶戏结合成逼真的机器人街头角色。 http://www.electric-circus.eu
 - **Emanuel Andel** (1) — 艺术家. 奥地利媒体艺术家，制作由生物信号驱动、带有风险的人机游戏。
+- **Emanuele Arielli** (1) — 威尼斯建筑大学（Iuav）美学教授. 意大利哲学家，研究横跨美学、认知科学与艺术心理学，近年关注 AI 的作者身份与审美趣味。
 - **Emily M. Bender** (1) — 华盛顿大学语言学教授. 计算语言学家，主持华盛顿大学计算语言学实验室，合著《The AI Con》（2025）。
 - **Engineered Arts** (1) — 人形机器人公司. 由 Will Jackson 创立的英国公司，制作 RoboThespian、Ameca 等娱乐用人形机器人。 https://www.engineeredarts.co.uk/
 - **Eric Paulos** (1) — 加州大学伯克利分校电子工程与计算机科学系教授；Hybrid Ecologies Lab 主任. 人机交互研究者，1990 年代制作早期远程在场机器人，后来投身批判性制作。 https://www.paulos.net/

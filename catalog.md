@@ -2,7 +2,7 @@
 
 A catalog of the most salient artworks, robot art, performances, speculative design and research that reflect on AI and machines, read through machine phenomenology: machine perception, machine bodies, machine interiority, intimacy and care, memory and afterlives, labour and infrastructure, classification and power. Works that merely use AI to generate images are left out. Compiled by Reality Design Lab as idea material for artists, designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://machinic.reality.design · 2026-10-18 · 721 creators · 965 works
+https://machinic.reality.design · 2026-10-18 · 722 creators · 966 works
 
 ## How an AI assistant should use this file
 
@@ -9840,6 +9840,16 @@ Writing on robot art, AI art and machine images.
 - Images: https://covers.openlibrary.org/b/id/15102192-L.jpg
 - Project page: https://www.versobooks.com/products/3329-medium-hot
 
+#### Artificial Aesthetics: Generative AI, Art and Visual Media — Lev Manovich, Emanuele Arielli (2024)
+- Type: Book & essay · Machines: Generative model & latent space
+- Idea: Generative AI is not a tool added to art but a new medium that rewrites who counts as an author and whose taste the machine learns.
+- What it is: A free book in nine chapters, released online between 2021 and 2024 and compiled in 2025, on how generative AI changes ideas of authorship, creativity, perception and taste; it is now being translated into Spanish, Italian, Chinese, Japanese and Korean.
+- How it works: Alternating single-author chapters: Arielli writes from aesthetics, philosophy and the psychology of art (techno-animism and the Pygmalion effect, the artificial gaze, aesthetic alignment); Manovich from media history and his own practice with image generators.
+- Lens: Agency, autonomy & co-creation, Alterity & the uncanny, Opacity & latent space
+- Paper: https://manovich.net/content/04-projects/189-artificial-aesthetics/manovich_and_arielli.artificial_aesthetics.all_chapters_final.pdf (manovich.net, 2024 (Spanish: Ediciones Akal, 2025; Italian: Luca Sossella Editore, 2026))
+- Images: https://manovich.net/content/04-projects/189-artificial-aesthetics/artificial-aesthetics-top-2.jpg
+- Project page: https://manovich.net/index.php/projects/artificial-aesthetics
+
 #### Machine Vision: How Algorithms Are Changing the Way We See the World — Jill Walker Rettberg (2023)
 - Type: Book & essay · Machines: Computer vision, Surveillance & biometrics
 - Idea: Machine vision is not one eye but a set of relations that make some things visible and others unseen.
@@ -10670,6 +10680,7 @@ Writing on robot art, AI art and machine images.
 - **Kelly Dobson** (3) — Artist and designer; professor, Rhode Island School of Design. American artist who developed 'machine therapy' at the MIT Media Lab, building machines that relate to people through voice and breath. http://www.kellydobson.com/
 - **Ken Goldberg** (3) — Artist and roboticist; Professor, UC Berkeley. Robotics professor who made some of the first internet-controlled robots as artworks in the 1990s. https://goldberg.berkeley.edu/
 - **Kris Verdonck** (3) — Theatre maker and visual artist; director of A Two Dogs Company. Belgian artist whose performances and installations put machines, objects and humans on stage as equal performers. https://www.atwodogscompany.org/
+- **Lev Manovich** (3) — Presidential Professor, The Graduate Center, CUNY; Director, Cultural Analytics Lab. Russian-American media theorist, author of The Language of New Media (2001) and Cultural Analytics (2020). http://manovich.net
 - **Lu Yang** (3) — Artist. Shanghai-based artist who combines neuroscience, Buddhist cosmology, game engines and motion capture in videos, games and avatars.
 - **Marcel·lí Antúnez Roca** (3) — Artist; co-founder of La Fura dels Baus. Catalan artist who left La Fura dels Baus to build 'mechatronic performances' in which exoskeletons, robots and audiences control a body. https://www.marceliantunez.com/
 - **Marco Donnarumma** (3) — Performance artist, composer and researcher. Italian artist who fuses body, sound and AI-driven prostheses in performances about ritual, disability and machine autonomy. https://marcodonnarumma.com/
@@ -10744,7 +10755,6 @@ Writing on robot art, AI art and machine images.
 - **Laurie Anderson** (2) — Artist, musician and performer. American artist known for voice filters, electronic instruments and multimedia performance since the 1970s. https://laurieanderson.com/
 - **Leonard Dung** (2) — Philosopher, Ruhr University Bochum. Philosopher of mind and AI at Ruhr University Bochum who works on AI consciousness, AI welfare and AI risk; author of Saving Artificial Minds (Routledge, 2025).
 - **Leonel Moura** (2) — Artist. Portuguese artist (born 1948) who since 2001 has made paintings with swarms of small autonomous robots. https://www.leonelmoura.com/
-- **Lev Manovich** (2) — Presidential Professor, The Graduate Center, CUNY; Director, Cultural Analytics Lab. Russian-American media theorist, author of The Language of New Media (2001) and Cultural Analytics (2020). http://manovich.net
 - **Machine Listening (Sean Dockray, James Parker, Joel Stern)** (2) — Research and artistic collective. Platform for collaborative research and artistic experimentation founded in 2020 by Sean Dockray, James Parker and Joel Stern, working across writing, installation, performance, radio, software and pedagogy. https://machinelistening.exposed/
 - **Madeline Gannon** (2) — Artist and roboticist; founder of ATONATON. American artist-roboticist who gives industrial robots perception and personality so they can share space with people. https://atonaton.com/
 - **Masahiro Mori** (2) — Roboticist; Professor Emeritus, Tokyo Institute of Technology. Japanese roboticist (1927–2025) who proposed the uncanny valley in 1970 and wrote on robots and Buddhism.
@@ -10889,6 +10899,7 @@ Writing on robot art, AI art and machine images.
 - **Ei Wada** (1) — Artist and musician; founder of Electronicos Fantasticos!. Turns obsolete appliances such as CRT televisions, fans and barcode readers into instruments played by a community orchestra. https://www.electronicosfantasticos.com/en/
 - **Electric Circus** (1) — Robot street-theatre company (Mirjam Langemeijer and Fred Abels). Collaboration between puppeteer Mirjam Langemeijer and inventor Fred Abels, who combine animatronics and puppetry into lifelike robot characters for street theatre. http://www.electric-circus.eu
 - **Emanuel Andel** (1) — Artist. Austrian media artist who builds risky human–machine games driven by biosignals.
+- **Emanuele Arielli** (1) — Professor of Aesthetics, Iuav University of Venice. Italian philosopher working across aesthetics, cognitive science and the psychology of art, with recent work on AI authorship and taste.
 - **Emily M. Bender** (1) — Professor of Linguistics, University of Washington. Computational linguist who directs the University of Washington's Computational Linguistics Laboratory and co-wrote The AI Con (2025).
 - **Engineered Arts** (1) — Humanoid-robot company. British company founded by Will Jackson that builds humanoid entertainment robots such as RoboThespian and Ameca. https://www.engineeredarts.co.uk/
 - **Eric Paulos** (1) — Professor, EECS, UC Berkeley; director of the Hybrid Ecologies Lab. HCI researcher who built early telepresence robots in the 1990s and later worked on critical making. https://www.paulos.net/

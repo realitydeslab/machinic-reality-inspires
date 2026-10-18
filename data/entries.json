@@ -1113,6 +1113,28 @@
  },
  "creators": [
   {
+   "id": "emanuele-arielli",
+   "links": {},
+   "connected_to": [
+    "lev-manovich"
+   ],
+   "name": "Emanuele Arielli",
+   "kind": "person",
+   "role": "Professor of Aesthetics, Iuav University of Venice",
+   "based": "Venice, IT",
+   "bio": "Italian philosopher working across aesthetics, cognitive science and the psychology of art, with recent work on AI authorship and taste.",
+   "why": "He brings philosophical aesthetics to the question of whether machines can be authors and whose taste generative AI is aligned to.",
+   "disciplines": [
+    "theory"
+   ],
+   "role_zh": "威尼斯建筑大学（Iuav）美学教授",
+   "based_zh": "威尼斯，意大利",
+   "bio_zh": "意大利哲学家，研究横跨美学、认知科学与艺术心理学，近年关注 AI 的作者身份与审美趣味。",
+   "why_zh": "他把哲学美学带进这些问题：机器能否成为作者，生成式 AI 又在向谁的品味看齐。",
+   "discovered_via": "lev-manovich",
+   "work_count": 1
+  },
+  {
    "id": "anil-seth",
    "links": {
     "site": "https://en.wikipedia.org/wiki/Anil_Seth"
@@ -16690,7 +16712,7 @@
    "why_zh": "他追问 AI 如何在大规模层面改变审美与文化生产。",
    "based_zh": "纽约，美国",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "jennifer-rhee",
@@ -21827,6 +21849,58 @@
    "disciplines": [
     "art",
     "film"
+   ]
+  },
+  {
+   "id": "lev-manovich--artificial-aesthetics",
+   "creator_ids": [
+    "lev-manovich",
+    "emanuele-arielli"
+   ],
+   "title": "Artificial Aesthetics: Generative AI, Art and Visual Media",
+   "year": 2024,
+   "field": "theory",
+   "sub": "art-theory",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "A free book in nine chapters, released online between 2021 and 2024 and compiled in 2025, on how generative AI changes ideas of authorship, creativity, perception and taste; it is now being translated into Spanish, Italian, Chinese, Japanese and Korean.",
+   "description_zh": "一本分九章的免费著作，2021 至 2024 年陆续在网上发布，2025 年合编成书，讨论生成式 AI 如何改变我们对作者、创造力、感知与品味的理解；西班牙语、意大利语、中文、日语与韩语译本陆续出版。",
+   "idea_en": "Generative AI is not a tool added to art but a new medium that rewrites who counts as an author and whose taste the machine learns.",
+   "idea_zh": "生成式 AI 不是加进艺术里的一件工具，而是一种新媒介：它改写了谁算作者，也决定了机器学会的是谁的品味。",
+   "method": "Alternating single-author chapters: Arielli writes from aesthetics, philosophy and the psychology of art (techno-animism and the Pygmalion effect, the artificial gaze, aesthetic alignment); Manovich from media history and his own practice with image generators.",
+   "method_zh": "两位作者轮流执笔：Arielli 从美学、艺术哲学与艺术心理学出发（技术泛灵论与皮格马利翁效应、人工凝视、审美对齐）；Manovich 从媒介史和他自己使用图像生成器的创作经验出发。",
+   "keywords": [
+    "artificial aesthetics",
+    "generative AI",
+    "authorship",
+    "creativity",
+    "aesthetic alignment",
+    "techno-animism",
+    "media theory"
+   ],
+   "images": [
+    "https://manovich.net/content/04-projects/189-artificial-aesthetics/artificial-aesthetics-top-2.jpg"
+   ],
+   "paper": {
+    "url": "https://manovich.net/content/04-projects/189-artificial-aesthetics/manovich_and_arielli.artificial_aesthetics.all_chapters_final.pdf",
+    "doi": "",
+    "arxiv": "",
+    "venue": "manovich.net, 2024 (Spanish: Ediciones Akal, 2025; Italian: Luca Sossella Editore, 2026)",
+    "title": "Artificial Aesthetics: Generative AI, Art and Visual Media"
+   },
+   "source_url": "https://manovich.net/index.php/projects/artificial-aesthetics",
+   "video": {},
+   "also": [],
+   "title_zh": "人工美学：生成式 AI、艺术与视觉媒介",
+   "disciplines": [
+    "theory"
    ]
   },
   {

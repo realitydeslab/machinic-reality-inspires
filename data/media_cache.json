@@ -20063,5 +20063,11 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://manovich.net/content/04-projects/189-artificial-aesthetics/artificial-aesthetics-top-2.jpg": {
+  "url": "https://manovich.net/content/04-projects/189-artificial-aesthetics/artificial-aesthetics-top-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
  }
 }

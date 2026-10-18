@@ -1,5 +1,13 @@
 [
  {
+  "name": "Lev Manovich — A Medium That Thinks: AI and Media Cognition (2026)",
+  "why": "Article in progress on the properties of generative AI as an artistic medium; add once the full article is out.",
+  "link": "https://manovich.net/index.php/projects/a-medium-that-thinks-ai-and-media-cognition",
+  "found_via": "lev-manovich",
+  "status": "open",
+  "batch": "add-lev-manovich"
+ },
+ {
   "name": "David Chalmers, What we talk to when we talk to language models (Inquiry, 2026)",
   "why": "Argues that LLM chatbots are 'quasi-agents' with quasi-beliefs and quasi-desires, located neither in the model nor in hardware but in conversation threads; Berkeley Sarah Douglas Lecture 2026 on YouTube (uUjJOMcNU9w). Strong for interiority/minds; left out to avoid a second Chalmers work in this pass.",
   "link": "https://doi.org/10.1080/0020174X.2026.2727582",

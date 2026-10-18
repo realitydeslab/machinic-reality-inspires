@@ -1,5 +1,13 @@
 [
  {
+  "name": "Lev Manovich — Unreliable Memories (2024)",
+  "why": "Exhibition catalogue (Évora, Portugal) of Manovich's AI-generated image series about Russia; mostly AI-made images, so likely out under the inclusion rule.",
+  "link": "https://manovich.net/index.php/projects/unreliable-memories",
+  "found_via": "lev-manovich",
+  "status": "off_topic",
+  "batch": "add-lev-manovich"
+ },
+ {
   "name": "Nam June Paik & Shuya Abe — Robot K-456 (1964)",
   "why": "Canonical walking, bean-excreting robot, 'killed' by a car in 1982; Korean/Japanese creators, left to east-asia batch.",
   "link": "https://en.wikipedia.org/wiki/Nam_June_Paik",

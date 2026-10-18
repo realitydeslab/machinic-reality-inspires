@@ -152,6 +152,7 @@ elevenplay | ELEVENPLAY | 2 works
 elisa-giaccardi | Elisa Giaccardi | 3 works
 elisa-giardina-papa | Elisa Giardina Papa | 2 works
 emanuel-andel | Emanuel Andel | 1 works
+emanuele-arielli | Emanuele Arielli | 1 works
 emilio-vavarella | Emilio Vavarella | 2 works
 emily-m-bender | Emily M. Bender | 1 works
 engineered-arts | Engineered Arts | 1 works
@@ -366,7 +367,7 @@ lee-bul | Lee Bul | 1 works
 leo-selvaggio | Leo Selvaggio | 1 works
 leonard-dung | Leonard Dung | 2 works
 leonel-moura | Leonel Moura | 2 works
-lev-manovich | Lev Manovich | 2 works
+lev-manovich | Lev Manovich | 3 works
 liam-young | Liam Young | 1 works
 libby-heaney | Libby Heaney | 1 works
 lilly-irani | Lilly Irani | 1 works
