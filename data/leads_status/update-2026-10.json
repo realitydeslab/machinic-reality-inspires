@@ -1,0 +1,1820 @@
+{
+ "Meta Office — click-work installation (Jeu de Paume 2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "The JdP installation is 'Meta Office' by an anonymous collective (Vimeo 594627702, uploaded 2021-08-30): MTurk workers record their home workspaces as metadata. Made in 2021, outside the 2024–26 window; re-filed as an open lead for a non-recent batch.",
+  "pass": "2026-10/recent-critical"
+ },
+ "Esther Hovers & Raphaël Dallaporta, Trompe l'œil (2026)": {
+  "status": "added",
+  "work_ids": [
+   "esther-hovers--trompe-l-oeil"
+  ],
+  "note": "Verified on estherhovers.com: 2026, Quickscan #3, Nederlands Fotomuseum. New creator raphael-dallaporta.",
+  "pass": "2026-10/recent-critical"
+ },
+ "Simone C. Niquille — Beauty and The Beep (2024)": {
+  "status": "added",
+  "work_ids": [
+   "simone-c-niquille--beauty-and-the-beep"
+  ],
+  "note": "Year 2024 confirmed on technofle.sh; filed as speculative/domestic-futures with also perception.",
+  "pass": "2026-10/recent-critical"
+ },
+ "Nicolas Gourault, Their Eyes (2025)": {
+  "status": "added",
+  "work_ids": [
+   "nicolas-gourault--their-eyes"
+  ],
+  "note": "Berlinale Shorts 2025; distinct single-screen film after the installation Unknown Label (2023), which stays as its own entry.",
+  "pass": "2026-10/recent-critical"
+ },
+ "+972 Magazine — 'Lavender' AI targeting reports (2024)": {
+  "status": "added",
+  "work_ids": [
+   "yuval-abraham--naza"
+  ],
+  "note": "The journalism itself is not added. NAZA (2026), co-directed by Lavender reporter Yuval Abraham with Rachel Szor, is the work about it: Venice 2026 Special Jury Prize.",
+  "pass": "2026-10/recent-critical"
+ },
+ "Mimi Onuoha — Ground Truths (2025)": {
+  "status": "duplicate",
+  "work_ids": [
+   "mimi-onuoha--ground-truths"
+  ],
+  "note": "Already in power-labour.json.",
+  "pass": "2026-10/recent-critical"
+ },
+ "Wesley Goatley — Newly Forgotten Technologies (2022/2024)": {
+  "status": "duplicate",
+  "work_ids": [
+   "wesley-goatley--newly-forgotten-technologies"
+  ],
+  "note": "Already in intimacy-afterlife.json (2023); no distinct 2024 version found that would justify a second entry.",
+  "pass": "2026-10/recent-critical"
+ },
+ "Petra Gemeinboeck & Rob Saunders — Accomplice (2013), Alloyed Bodies (2024)": {
+  "status": "added",
+  "work_ids": [
+   "petra-gemeinboeck--alloyed-bodies"
+  ],
+  "note": "Alloyed Bodies [BNE-3-3-1] added (ISEA 2024 premiere, artist video, ICSR + AI 2024 paper DOI). Accomplice (2013) is not in the gallery but is outside the 2024–26 range of this batch; left for a non-recent pass.",
+  "pass": "2026-10/recent-relational"
+ },
+ "Pierre Huyghe — Idiom (2024)": {
+  "status": "added",
+  "work_ids": [
+   "pierre-huyghe--idiom"
+  ],
+  "note": "Verified: golden masks turn wearers' voices into a real-time ML-generated proto-language (Liminal, Punta della Dogana 2024; Leeum 2025; Marian Goodman 2025). Liminals (LAS Berlin, 2025) put in leads.",
+  "pass": "2026-10/recent-relational"
+ },
+ "Jiabao Li, Super Mom Training Gym (2026, with Lauren Schroeder)": {
+  "status": "added",
+  "work_ids": [
+   "jiabao-li--super-mom-training-gym"
+  ],
+  "note": "Verified on jiabaoli.org (game and installation, 2026, artist video and installation photos). Borderline for the inclusion rule; filed as coperformance/cyborg (avatar as prosthesis). Exhibition venue not stated on the page, so 'exhibited' left empty.",
+  "pass": "2026-10/recent-relational"
+ },
+ "Laurie Anderson and the Lou Reed AI chatbot (2024)": {
+  "status": "added",
+  "work_ids": [
+   "laurie-anderson--ill-be-your-mirror"
+  ],
+  "note": "Documented as an exhibited artwork: I'll Be Your Mirror, Adelaide Festival 2024, State Library of South Australia, made with the Australian Institute for Machine Learning.",
+  "pass": "2026-10/recent-relational"
+ },
+ "OpenAI 'Sky' voice and Scarlett Johansson (2024)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "An event, not a work; no artwork about it found in this pass.",
+  "pass": "2026-10/recent-relational"
+ },
+ "Botao Amber Hu, Samuel Chua, Helena Rong, Protocol Futuring (CHI 2026)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Verified: CHI 2026, DOI 10.1145/3772318.3790527. A design-futuring method for protocols (rules, standards, coordination mechanisms) demonstrated through Knowledge Futurama, a relay workshop on millennial-scale knowledge preservation. Its subject is protocol and infrastructure drift, not machines or AI, so it fails the inclusion rule here; better suited to a protocol/infrastructure-futures collection.",
+  "pass": "2026-10/recent-research"
+ },
+ "Butlin et al., Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)": {
+  "status": "duplicate",
+  "work_ids": [
+   "patrick-butlin--consciousness-in-artificial-intelligence"
+  ],
+  "note": "Forwarded from leads-b. DOI 10.1016/j.tics.2025.10.011 verified (Crossref title matches; online 2025-11-10, issue June 2026). It is the condensed peer-reviewed version of the 2023 arXiv report with the same theory-derived indicator method, so not distinct enough for a second work; suggest adding the DOI to the existing work.",
+  "pass": "2026-10/recent-research"
+ },
+ "Trevor Paglen, How to See Like a Machine: Images After AI (2026)": {
+  "status": "added",
+  "work_ids": [
+   "trevor-paglen--how-to-see-like-a-machine"
+  ],
+  "note": "Forwarded from recent-critical. Verso, May 2026, ISBN 9781836742166; 16 reviews listed by Verso (Art in America, Bloomberg Businessweek, Brooklyn Rail…). Reuses creator trevor-paglen. Not tagged lg-guggenheim-award: the award went to the artist, not the book.",
+  "pass": "2026-10/recent-research"
+ },
+ "Yuan Goang-Ming (袁广鸣) – Everyday War (Taiwan Pavilion, Venice 2024)": {
+  "status": "added",
+  "work_ids": [
+   "yuan-goang-ming--everyday-maneuver"
+  ],
+  "note": "Added the drone work from the Venice 2024 show (Everyday Maneuver, 2018), not the 2024 title video Everyday War: it is the piece that is about machine seeing. Flat World (2024, Street View) kept as a new lead.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Lawrence Lek, Guanyin: Confessions of a Former Carebot (2024)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lawrence-lek--guanyin"
+  ],
+  "note": "Already in east-asia.json.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Wang Yuyang — Breathe series (2005–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "wang-yuyang--breathing-series"
+  ],
+  "note": "Already in the gallery.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Ralf Baecker — Interface I (2016)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Ralf Baecker is not an East Asian creator and already has five works; the JMAF prize is not reason enough to add a sixth.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Yamaha — Dear Glenn (2019)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Corporate AI imitation of Glenn Gould; close to a generative showpiece. Lower priority than the works added.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Atau Tanaka — BioMuse / Sensorband performances": {
+  "status": "open",
+  "work_ids": [],
+  "note": "EMG instrument performance: the body-as-controller angle is weaker than in the works added; next round if coperformance needs it.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Lisa Park — Eunoia (2013)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "EEG-to-water-sound performance; the BCI is used as an instrument rather than reflected on.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Masahiko Inami lab — MetaLimbs (2017)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Kept one Inami-lab entry, JIZAI ARMS (2022, CHI 2023), the more recent and co-designed platform. MetaLimbs video: https://www.youtube.com/watch?v=sKjAp0iZ7dc",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Henn na Hotel — robot hotel that 'fired' half its robots (2019)": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "No stable primary page; press coverage only.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Honda ASIMO (2000)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Corporate humanoid with no reflective framing (same call as the first build).",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Kazuhiko Hachiya — PostPet (1997)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Strong early machine-intimacy software; Hachiya's PostPetVR videos exist (https://www.youtube.com/watch?v=b7OKuu1tBxQ), but there was no time to verify the 1997 media this round.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Oriza Hirata — The Metamorphosis, Android Version (2014)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Oriza Hirata already has three android/robot plays in the gallery.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Kenji Yanobe — Ship's Cat, Giant Torayan": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Post-Fukushima survival sculpture; machines are not the subject.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "exonemo — The Kiss (2019)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Not researched this round.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Yoichi Ochiai — Digital Nature (計算機自然)": {
+  "status": "added",
+  "work_ids": [
+   "yoichi-ochiai--null2"
+  ],
+  "note": "Added Ochiai's Expo 2025 pavilion null², which puts the Digital Nature idea into practice (visitors talk with their own digital twins), rather than the theory as a separate text.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Minoru Asada / Hisashi Ishihara — Affetto child android (2011)": {
+  "status": "added",
+  "work_ids": [
+   "hisashi-ishihara--affetto"
+  ],
+  "note": "Added with the ICDL 2011 paper and the projectaffetto video.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Keiichiro Shibuya — Super Angels (2021)": {
+  "status": "added",
+  "work_ids": [
+   "keiichiro-shibuya--super-angels"
+  ],
+  "note": "Added: NNTT opera (2021) with Alter 3; NNTT's own video.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Masahiko Inami — Jizai Arms (2022)": {
+  "status": "added",
+  "work_ids": [
+   "masahiko-inami--jizai-arms"
+  ],
+  "note": "Added with the CHI 2023 paper and the JIZAI BODY PROJECT video.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Samson Young (杨嘉辉) – Canon (2015)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Still could not confirm the LRAD detail from a primary source.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Shinseungback Kimyonghun – Flower (2016–17)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Duo capped at five works.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Jompet Kuswidananto – Third Realm / Ghost Ballad": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Colonial history rather than machines.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Kim Heecheon (김희천)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "No specific machine-perception work verified.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Lin Pey-Chwen (林珮淳) – Eve Clone series (2006–)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Machine relevance unclear; no verified media.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Korakrit Arunanondchai / Tromarama (Indonesia)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "No machine-reflective piece identified.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Kim Beom (김범) – Objects Being Taught They Are Nothing But Tools (2010)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "About tools, not machines.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Hong Kong 2019 counter-surveillance tactics": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Vernacular protest tactics with no single authored work and no stable media; needs a curatorial decision.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Xu Bing, Artificial Intelligence Infinite Film (AI-IF) (2017–)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Close to a generative showpiece (AI makes films).",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Cao Fei, i.Mirror (2007) and RMB City (2008–11)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Cao Fei already has three works; the avatar angle is weaker.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Hu Jieming, 100 Years in 1 Minute (2010) / Tai Chi": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "No specific machine work.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Miao Ying, Blind Spot (2007) / Hardcore Digital Detox (2018)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Platform and censorship culture; no single machine-reflective work verified.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Feng Zhixuan, Starwishenge (2023)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Not verified this round.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Liu Cixin, The Poetry Cloud (诗云, 1997)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Written 1997, but the first-publication year and a stable publisher page could not be confirmed. The machine is an alien god computing every poem, so the AI link is indirect.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Han Yajuan, Cyber JiangHu (2020–)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "VR game art about internet culture; checked against the Taikang 'Creative Machine' list.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Renwu article original (WeChat)": {
+  "status": "duplicate",
+  "work_ids": [
+   "renwu--delivery-riders"
+  ],
+  "note": "Note row; the article is already in the gallery.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Ian Cheng — Life After BOB: The Chalice Study (2021)": {
+  "status": "added",
+  "work_ids": [
+   "ian-cheng--life-after-bob"
+  ],
+  "note": "Added: LUMA Arles / The Shed 2021, trailer and LUMA images.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "MBC, Meeting You (너를 만났다), 2020": {
+  "status": "duplicate",
+  "work_ids": [
+   "mbc--meeting-you"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Takanori Shibata, PARO (2004)": {
+  "status": "duplicate",
+  "work_ids": [
+   "takanori-shibata--paro"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "A-FUN & Kōfuku-ji, AIBO funerals (2015–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "kofuku-ji-isumi--aibo-funerals"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Kōdai-ji & Ishiguro lab, Android Kannon Mindar (2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "kodai-ji--mindar"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Nissei Eco / SoftBank, Pepper as Buddhist funeral priest (2017)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nissei-eco--pepper-priest"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Longquan Monastery, Robot Monk Xian'er 贤二机器僧 (2015)": {
+  "status": "duplicate",
+  "work_ids": [
+   "longquan-monastery--xianer"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Microsoft Xiaoice 小冰 (2014–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "microsoft-xiaoice--xiaoice"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Gatebox / Azuma Hikari and Akihiko Kondo's 'digital widowhood' (2016–2020)": {
+  "status": "duplicate",
+  "work_ids": [
+   "akihiko-kondo--marriage-to-miku"
+  ],
+  "note": "Gatebox is covered through the Kondo entry.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Super Brain (Nanjing) and AI 'resurrection' avatars in China (2023–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "super-brain--ai-resurrection"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Groove X LOVOT (2019), Yukai Qoobo (2018), Okada/Panasonic NICOBO (2021), Bandai Tamagotchi (1996)": {
+  "status": "duplicate",
+  "work_ids": [
+   "groove-x--lovot",
+   "bandai--tamagotchi"
+  ],
+  "note": "Qoobo and NICOBO not added separately.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "SHI Weili — Terra Mars (2019)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "GAN rendering; generative showpiece.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Shinseungback Kimyonghun — Flower (2017) and Cat or Human (2013)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Duo capped at five works.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Xu Bing 徐冰, Dragonfly Eyes 蜻蜓之眼 (2017)": {
+  "status": "duplicate",
+  "work_ids": [
+   "xu-bing--dragonfly-eyes"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Isao Echizen, Privacy Visor (2012–)": {
+  "status": "added",
+  "work_ids": [
+   "isao-echizen--privacy-visor"
+  ],
+  "note": "Added: IWSEC 2012 first presentation, CMS 2013 paper and IDG video.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Zhang et al. — DolphinAttack: Inaudible Voice Commands (CCS 2017); Yuan et al. — CommanderSong (USENIX Security 2018)": {
+  "status": "added",
+  "work_ids": [
+   "zju-usslab--dolphinattack"
+  ],
+  "note": "Added DolphinAttack (CCS 2017) only; CommanderSong left out to avoid two entries on the same attack class.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Shu Lea Cheang 郑淑丽 — 3x3x6 (2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "shu-lea-cheang--3x3x6"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Renwu 人物 — 外卖骑手，困在系统里 (2020)": {
+  "status": "duplicate",
+  "work_ids": [
+   "renwu--delivery-riders"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Ai Weiwei 艾未未 — WeiweiCam (2012)": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "The WeiweiCam site was shut down after about two days; no stable primary media.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Tomo Kihara — How (not) to get hit by a self-driving car": {
+  "status": "duplicate",
+  "work_ids": [
+   "tomo-kihara--how-not-to-get-hit"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Nam June Paik & Shuya Abe — Robot K-456 (1964)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nam-june-paik--robot-k-456"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Wen-Ying Tsai (蔡文颖) — Cybernetic Sculptures (1968–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "wen-ying-tsai--cybernetic-sculpture"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Hiroshi Ishiguro — Geminoid HI-1 (2006) / Takashi Ikegami — Alter (2016)": {
+  "status": "duplicate",
+  "work_ids": [
+   "hiroshi-ishiguro--geminoid-hi-1",
+   "takashi-ikegami--alter"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Sun Yuan & Peng Yu — Can't Help Myself (2016)": {
+  "status": "duplicate",
+  "work_ids": [
+   "sun-yuan-peng-yu--cant-help-myself"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Anicka Yi — In Love With the World (2021)": {
+  "status": "duplicate",
+  "work_ids": [
+   "anicka-yi--in-love-with-the-world"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Choe U-Ram — anima machines / Little Ark (2022)": {
+  "status": "duplicate",
+  "work_ids": [
+   "choe-u-ram--little-ark"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Nam June Paik & Shuya Abe — Robot K-456 (1964); Paik & Charlotte Moorman — TV Cello (1971)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nam-june-paik--robot-k-456"
+  ],
+  "note": "TV Cello not added: the TV is an instrument rather than a machine subject.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Crypton Future Media — Hatsune Miku (初音ミク, 2007)": {
+  "status": "duplicate",
+  "work_ids": [
+   "keiichiro-shibuya--the-end",
+   "akihiko-kondo--marriage-to-miku"
+  ],
+  "note": "Miku appears in the Vocaloid opera THE END and in the Kondo entry; no separate product entry.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "So Kanno (菅野創) & Takahiro Yamaguchi — Senseless Drawing Bot (2011)": {
+  "status": "duplicate",
+  "work_ids": [
+   "so-kanno--senseless-drawing-bot"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "So Kanno — Mechanical Voices Project / Chirping Machines": {
+  "status": "open",
+  "work_ids": [],
+  "note": "So Kanno already has four works.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Seiko Mikami — World, Membrane and the Dismembered Body (1997)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Seiko Mikami has two works already; this ICC piece is a candidate for the next round.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Chen Chieh-jen (陈界仁) – Factory (2003)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "About deindustrialisation rather than machines.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Lawrence Lek — Geomancer (2017), AIDOL (2019), NOX (2023)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lawrence-lek--geomancer",
+   "lawrence-lek--aidol",
+   "lawrence-lek--nox"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Takashi Ikegami — Alter (2016-), Mind Time Machine (2010)": {
+  "status": "duplicate",
+  "work_ids": [
+   "takashi-ikegami--alter",
+   "takashi-ikegami--mind-time-machine"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Ted Chiang — The Lifecycle of Software Objects (2010)": {
+  "status": "duplicate",
+  "work_ids": [
+   "ted-chiang--lifecycle-of-software-objects"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Kogonada — After Yang (2021)": {
+  "status": "duplicate",
+  "work_ids": [
+   "kogonada--after-yang"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Keiichi Matsuda — Hyper-Reality (2016), Merger (2018)": {
+  "status": "duplicate",
+  "work_ids": [
+   "keiichi-matsuda--hyper-reality"
+  ],
+  "note": "Merger (2018) not added.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Sputniko! — Menstruation Machine (2010)": {
+  "status": "duplicate",
+  "work_ids": [
+   "sputniko--menstruation-machine"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "DeepBrain AI — Re;memory": {
+  "status": "duplicate",
+  "work_ids": [
+   "deepbrain-ai--rememory"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Cao Fei 曹斐 — Asia One (2018)": {
+  "status": "duplicate",
+  "work_ids": [
+   "cao-fei--asia-one"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Ayoung Kim 김아영 — Delivery Dancer's Sphere (2022)": {
+  "status": "duplicate",
+  "work_ids": [
+   "ayoung-kim--delivery-dancers-sphere"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Liu Chuang 刘窗 — Bitcoin Mining and Field Recordings of Ethnic Minorities (2018)": {
+  "status": "duplicate",
+  "work_ids": [
+   "liu-chuang--bitcoin-mining"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Guo Cheng 郭城 — The Net Wanderer (2020)": {
+  "status": "duplicate",
+  "work_ids": [
+   "guo-cheng--net-wanderer"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Yuk Hui — Recursivity and Contingency (2019), On the Existence of Digital Objects (2016), Art and Cosmotechnics (2021)": {
+  "status": "duplicate",
+  "work_ids": [
+   "yuk-hui--recursivity-and-contingency",
+   "yuk-hui--digital-objects",
+   "yuk-hui--question-concerning-technology-in-china"
+  ],
+  "note": "Art and Cosmotechnics not added.",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Masahiro Mori — \"The Uncanny Valley\" (1970; authorised translation IEEE RAM 2012, doi:10.1109/MRA.2012.2192811) and The Buddha in the Robot (1981)": {
+  "status": "duplicate",
+  "work_ids": [
+   "masahiro-mori--uncanny-valley",
+   "masahiro-mori--buddha-in-the-robot"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Lydia H. Liu — The Freudian Robot (Chicago, 2010)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lydia-h-liu--freudian-robot"
+  ],
+  "note": "",
+  "pass": "2026-10/recent-east-asia"
+ },
+ "Patrick Tresset — Human Study #2, La Vanité": {
+  "status": "added",
+  "work_ids": [
+   "patrick-tresset--human-study-2-la-vanite"
+  ],
+  "note": "Year 2014 (premiere at Creative Machines, Goldsmiths); Artistes & Robots 2018 verified via Grand Palais video.",
+  "pass": "2026-10/leads-a"
+ },
+ "Rejane Cantoni & Leonardo Crescenti — SPEAK": {
+  "status": "added",
+  "work_ids": [
+   "cantoni-crescenti--speak"
+  ],
+  "note": "SPEAK / FALA (2011); VIDA 13.2 incentive, Itaú Cultural video, National Museum of China 2014.",
+  "pass": "2026-10/leads-a"
+ },
+ "Daniel Palacios — Kill the Process": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "Only the archived VIDA text; no video or image of the realised work found.",
+  "pass": "2026-10/leads-a"
+ },
+ "Leonhard Peschta — Der Zermesser": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "Only the archived VIDA text; no work documentation found (one 2010 festival interview).",
+  "pass": "2026-10/leads-a"
+ },
+ "Quimera Rosa et al. — SXK Turing Test": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "Archived VIDA page has only a floor-plan render of the proposal; no documentation of the realised performance.",
+  "pass": "2026-10/leads-a"
+ },
+ "VIDA 2.0–9.0 winners": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Not a single work; needs the VIDA 1999–2012 catalogue, out of scope for this pass.",
+  "pass": "2026-10/leads-a"
+ },
+ "Hito Steyerl, Mechanical Kurds — video": {
+  "status": "duplicate",
+  "work_ids": [
+   "hito-steyerl--mechanical-kurds"
+  ],
+  "note": "Work already in the gallery; still no artist or museum video found.",
+  "pass": "2026-10/leads-a"
+ },
+ "David Link — work shown in Uncanny Values (MAK 2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "david-link--loveletters"
+  ],
+  "note": "MAK page and press list David Link without a title; uncanny-values-2019 tag still unverified, not added.",
+  "pass": "2026-10/leads-a"
+ },
+ "Douglas Coupland — CMYK Deep Face Dude (2014)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Painting that only echoes face-detection boxes; low salience.",
+  "pass": "2026-10/leads-a"
+ },
+ "Iyo Bisseck — The Human Detector (2018)": {
+  "status": "added",
+  "work_ids": [
+   "iyo-bisseck--the-human-detector"
+  ],
+  "note": "Artist is French-Cameroonian (not Senegalese); video by the artist, HEK blog essay.",
+  "pass": "2026-10/leads-a"
+ },
+ "Nushin Isabelle Yazdani & Nakeema Stefflbauer — Future Tense: AI from the margins (2020)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "18-minute poetic lecture (dgtl fmnsm 2020); on topic but low salience next to the bias works added.",
+  "pass": "2026-10/leads-a"
+ },
+ "Sara Lana — Pontos cegos / Blind spots (2016)": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "touca.ninja no longer resolves; no other documentation found.",
+  "pass": "2026-10/leads-a"
+ },
+ "Waltz Binaire / Tomás Laurenzo / Bruno Moreschi — further database works": {
+  "status": "added",
+  "work_ids": [
+   "tomas-laurenzo--smile",
+   "bruno-moreschi--outra-33-bienal"
+  ],
+  "note": "Added Laurenzo's Smile and Moreschi et al.'s Outra 33ª Bienal; Memoirs of the Blind kept as a lead; Waltz Binaire has Narciss already.",
+  "pass": "2026-10/leads-a"
+ },
+ "Trevor Paglen, Adversarially Evolved Hallucinations (2017)": {
+  "status": "added",
+  "work_ids": [
+   "trevor-paglen--adversarially-evolved-hallucinations"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Harun Farocki, Parallel I–IV (2012–14)": {
+  "status": "added",
+  "work_ids": [
+   "harun-farocki--parallel"
+  ],
+  "note": "Tate collection image; full third-party video not used.",
+  "pass": "2026-10/leads-a"
+ },
+ "Harun Farocki, I Thought I Was Seeing Convicts (2000) / Serious Games I–IV (2009–10)": {
+  "status": "added",
+  "work_ids": [
+   "harun-farocki--i-thought-i-was-seeing-convicts"
+  ],
+  "note": "Serious Games I–IV already in the gallery (harun-farocki--serious-games).",
+  "pass": "2026-10/leads-a"
+ },
+ "Nye Thompson & UBERMORGEN, UNINVITED (2021)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nye-thompson--uninvited"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Max Dovey, A Hipster Bar (2015)": {
+  "status": "added",
+  "work_ids": [
+   "max-dovey--a-hipster-bar"
+  ],
+  "note": "In the machine-vision database (id 907).",
+  "pass": "2026-10/leads-a"
+ },
+ "David Rokeby, Very Nervous System (1986–90)": {
+  "status": "added",
+  "work_ids": [
+   "david-rokeby--very-nervous-system"
+  ],
+  "note": "Prix Ars Electronica 1991 Award of Distinction (Interactive Art) per the artist's page.",
+  "pass": "2026-10/leads-a"
+ },
+ "Sebastian Schmieg — Decisive Camera (2017–18) / Decisive Mirror (2019)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Companion works of a dataset piece already in the gallery; artist has four works.",
+  "pass": "2026-10/leads-a"
+ },
+ "The Photographers' Gallery — Data / Set / Match (2019–20)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Programme, not a work; fewer than five of its works in the gallery, so no collection proposed.",
+  "pass": "2026-10/leads-a"
+ },
+ "Zachary Lieberman, Expression Mirror (2018–19)": {
+  "status": "added",
+  "work_ids": [
+   "zach-lieberman--expression-mirror"
+  ],
+  "note": "Face Values (London Design Biennale 2018 medal; Cooper Hewitt 2019–23).",
+  "pass": "2026-10/leads-a"
+ },
+ "Coralie Vogelaar, Emotions from an Algorithmic Point of View (2018) / Infinite Posture Dataset (2020)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Second Vogelaar emotion-AI piece; lower salience than Random String of Emotions already in the gallery.",
+  "pass": "2026-10/leads-a"
+ },
+ "Lauren Lee McCarthy & Kyle McDonald, pplkpr (2014)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lauren-lee-mccarthy--pplkpr"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Julien Prévieux, Where Is My (Deep) Mind? (2019)": {
+  "status": "added",
+  "work_ids": [
+   "julien-previeux--where-is-my-deep-mind"
+  ],
+  "note": "Film (Lab'Bel collection), first shown in Geste, Pantin 2019.",
+  "pass": "2026-10/leads-a"
+ },
+ "Dries Depoorter, Surveillance Paparazzi (HEK Basel 2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "dries-depoorter--surveillance-paparazzi"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Nicolas Gourault & Antoine Chapon, Faces in the Mist (2017)": {
+  "status": "added",
+  "work_ids": [
+   "nicolas-gourault--faces-in-the-mist"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Thys, Van Ranst & Goedemé, Fooling automated surveillance cameras (CVPRW 2019)": {
+  "status": "added",
+  "work_ids": [
+   "simen-thys--fooling-automated-surveillance-cameras"
+  ],
+  "note": "DOI, arXiv and demo video re-verified.",
+  "pass": "2026-10/leads-a"
+ },
+ "Hyphen-Labs, NeuroSpeculative AfroFeminism (2017)": {
+  "status": "added",
+  "work_ids": [
+   "hyphen-labs--neurospeculative-afrofeminism"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Leo Selvaggio, URME Hack Me Kit / FR Surveillance Portrait": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Minor extensions of URME Surveillance, which is already in the gallery.",
+  "pass": "2026-10/leads-a"
+ },
+ "Adam Harvey, SkyLift (2016) and DFACE": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Minor works; Harvey already has five works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Holly Herndon — PROTO / Spawn (2019), Holly+ (2021)": {
+  "status": "duplicate",
+  "work_ids": [
+   "holly-herndon--proto",
+   "holly-herndon--holly-plus"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Wesley Goatley — Chthonia (2020)": {
+  "status": "added",
+  "work_ids": [
+   "wesley-goatley--chthonia"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Wesley Goatley — The Listener (2015)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Lower salience; Goatley now has three works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Nadine Lessio — SAD Home (Depressed Alexa 1.0) (2019)": {
+  "status": "added",
+  "work_ids": [
+   "nadine-lessio--sad-home"
+  ],
+  "note": "Vimeo video is not embeddable, so images + Virtual Creativity paper.",
+  "pass": "2026-10/leads-a"
+ },
+ "Pedro Oliveira — \"Das hätte nicht passieren dürfen\" (2018)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Overlaps the existing Oliveira work on BAMF accent recognition (On the Apparently Meaningless Texture of Noise).",
+  "pass": "2026-10/leads-a"
+ },
+ "Eavesdropping (Ian Potter Museum of Art, 2018, curated by James Parker & Joel Stern)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Exhibition, not a work; too few of its works in the gallery for a collection.",
+  "pass": "2026-10/leads-a"
+ },
+ "Carlini & Wagner — Audio Adversarial Examples (2018)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Follow-up to Hidden Voice Commands, already in the gallery; one Carlini paper is enough.",
+  "pass": "2026-10/leads-a"
+ },
+ "Lawrence Abu Hamdan — Saydnaya (the missing 19db) (2017), Walled Unwalled (2018)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Human, not machine, listening; artist already has four works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Tracing You (2015)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Secondary Grosser work; lower salience.",
+  "pass": "2026-10/leads-a"
+ },
+ "How to Be More or Less Human (2015)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Lower salience; A Hipster Bar added instead.",
+  "pass": "2026-10/leads-a"
+ },
+ "The Chair Project (Four Classics) (2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "philipp-schmitt--chair-project"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Exhibiting ImageNet (2019)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "One-off exhibition-performance; lower salience, no strong documentation.",
+  "pass": "2026-10/leads-a"
+ },
+ "How We Act Together (2016)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Lower salience; McCarthy has ten works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Surveillance Speaker (2018)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Lower salience; Depoorter has four works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Adversarial Fashion (2019)": {
+  "status": "added",
+  "work_ids": [
+   "kate-bertash--adversarial-fashion"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Kristy Milland": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Person, not a work; better as a Resources entry.",
+  "pass": "2026-10/leads-a"
+ },
+ "Kiwibot — 'autonomous' delivery robots steered from Colombia (2019)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Journalism case, not a work.",
+  "pass": "2026-10/leads-a"
+ },
+ "Teju Cole — Seven Short Stories about Drones (2013)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Literary tweets about drone strikes; machine aspect thin, no visual.",
+  "pass": "2026-10/leads-a"
+ },
+ "Julian Oliver — Harvest (2016)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "On topic (wind-powered crypto-mining for climate research, 2017) but lower salience (one museum showing); kept out to stay within ~20 works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Josh Begley — Best of Luck with the Wall (2016)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Satellite-image film about the border; the machine is secondary.",
+  "pass": "2026-10/leads-a"
+ },
+ "Nicolas Gourault — Faces in the Mist (2017, with Antoine Chapon)": {
+  "status": "added",
+  "work_ids": [
+   "nicolas-gourault--faces-in-the-mist"
+  ],
+  "note": "Same work as the perception-batch lead.",
+  "pass": "2026-10/leads-a"
+ },
+ "Elisa Giardina Papa — Labor of Sleep (2017)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Sleep and productivity apps; machine aspect thin; artist has two stronger works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Joana Moll — The Dating Brokers (2018)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Data-broker critique; Moll already has five works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Ben Zhao (UChicago) — Glaze & Nightshade (2023)": {
+  "status": "duplicate",
+  "work_ids": [
+   "sand-lab-uchicago--glaze-nightshade"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Holly Herndon & Mat Dryhurst — Have I Been Trained? / Spawning (2022)": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "No stable image or video of the tool itself found.",
+  "pass": "2026-10/leads-a"
+ },
+ "Nouf Aljowaysir — Salaf (2021?)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nouf-aljowaysir--salaf"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Sondra Perry — Graft and Ash for a Three Monitor Workstation (2016)": {
+  "status": "added",
+  "work_ids": [
+   "sondra-perry--graft-and-ash"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Suzanne Kite — Íŋyaŋ Iyé (Telling Rock) (2019) and AI performance works": {
+  "status": "added",
+  "work_ids": [
+   "suzanne-kite--inyan-iye"
+  ],
+  "note": "Kite's AI performance 'Her hair was heavy' (2019) kept as a lead.",
+  "pass": "2026-10/leads-a"
+ },
+ "Skawennati — TimeTraveller™ (2008–13)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Machinima about Indigenous futures; not about machines.",
+  "pass": "2026-10/leads-a"
+ },
+ "Coding Rights — Not My A.I. (2021)": {
+  "status": "added",
+  "work_ids": [
+   "coding-rights--not-my-ai"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Jason Edward Lewis et al. — Abundant Intelligences (2023–)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Research programme, not a work; better as a Resources entry.",
+  "pass": "2026-10/leads-a"
+ },
+ "Paolo Cirio — Obscurity (2016)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Data-activism piece; Cirio already has three works.",
+  "pass": "2026-10/leads-a"
+ },
+ "Sam Lavigne — ICE employee LinkedIn scrape (2018)": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "Removed by platforms; no stable documentation.",
+  "pass": "2026-10/leads-a"
+ },
+ "Laura Poitras — Citizenfour (2014)": {
+  "status": "added",
+  "work_ids": [
+   "laura-poitras--citizenfour"
+  ],
+  "note": "Borderline: documentary on the NSA disclosures, included as the canonical film on the surveillance machine.",
+  "pass": "2026-10/leads-a"
+ },
+ "Stop LAPD Spying Coalition / Data for Black Lives / AI Now Institute": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Organisations, not works; Resources tab.",
+  "pass": "2026-10/leads-a"
+ },
+ "Thiago Hersan & Radamés Ajna — MEMEMEME": {
+  "status": "duplicate",
+  "work_ids": [
+   "thiago-hersan--memememe"
+  ],
+  "note": "VIDA 15 Telefónica I+D incentive verified; added vida-awards membership in members.json.",
+  "pass": "2026-10/leads-a"
+ },
+ "Harun Farocki — Serious Games I–IV (2009–10)": {
+  "status": "duplicate",
+  "work_ids": [
+   "harun-farocki--serious-games"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Nouf Aljowaysir — Ana Min Wein? (Where Am I From?) (2022)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nouf-aljowaysir--ana-min-wein"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Sebastian Schmieg — Humans as Software Extensions (2018) / Five Years of Captured Captchas (2017)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Not in the gallery after all, but Schmieg already has two ghost-work pieces (Decision Space, I Will Say Whatever You Want…).",
+  "pass": "2026-10/leads-a"
+ },
+ "Philipp Schmitt — Learning to See (2018)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Not in the gallery after all; minor work, Schmitt has three.",
+  "pass": "2026-10/leads-a"
+ },
+ "Anna Ridler — Mosaic Virus (2018/2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "anna-ridler--mosaic-virus"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Joana Moll & Cédric Parizot — The Virtual Watchers (2016); Joana Moll — The Texas Border (2010)": {
+  "status": "duplicate",
+  "work_ids": [
+   "joana-moll--the-virtual-watchers"
+  ],
+  "note": "The Texas Border (2010) is not in the gallery; covered by The Virtual Watchers.",
+  "pass": "2026-10/leads-a"
+ },
+ "Kelly Dobson — Omo (2007), ScreamBody (1998–2004)": {
+  "status": "duplicate",
+  "work_ids": [
+   "kelly-dobson--omo",
+   "kelly-dobson--screambody"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "George Lewis — Voyager (1987)": {
+  "status": "duplicate",
+  "work_ids": [
+   "george-lewis--voyager"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Matteo Pasquinelli & Vladan Joler — The Nooscope Manifested (2020)": {
+  "status": "added",
+  "work_ids": [
+   "matteo-pasquinelli--nooscope-manifested"
+  ],
+  "note": "Was not in the gallery despite maybe_covered; paper-only (diagram survives only as archived SVG).",
+  "pass": "2026-10/leads-a"
+ },
+ "Andreas Gursky — Amazon (2016)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Not in the gallery after all; a photograph of consumer abundance where the machine logic stays implicit.",
+  "pass": "2026-10/leads-a"
+ },
+ "Liam Young — In the Robot Skies (2016)": {
+  "status": "duplicate",
+  "work_ids": [
+   "liam-young--in-the-robot-skies"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Adam Harvey & Jules LaPlace — MegaPixels / Exposing.ai (2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "adam-harvey--megapixels"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-a"
+ },
+ "Alan Rath — robotic sculptures (1980s–)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Bay Area robotic sculptor of medium salience; lower priority than canonical leads, not researched this pass.",
+  "pass": "2026-10/leads-b"
+ },
+ "Kaspar König — sound and kinetic machines": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Sound and kinetic machines without a clear reflection on the machine; low salience.",
+  "pass": "2026-10/leads-b"
+ },
+ "Rodney Brooks — Genghis (1989) and Cog (1993–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "rodney-brooks--intelligence-without-representation",
+   "rodney-brooks--cog-project"
+  ],
+  "note": "Genghis appears in the Intelligence without Representation card (with the Genghis video); Cog has its own card.",
+  "pass": "2026-10/leads-b"
+ },
+ "W. Ross Ashby — Homeostat (1948)": {
+  "status": "added",
+  "work_ids": [
+   "w-ross-ashby--homeostat",
+   "w-ross-ashby--design-for-a-brain"
+  ],
+  "note": "Homeostat (1948) plus Ashby's book Design for a Brain (1952).",
+  "pass": "2026-10/leads-b"
+ },
+ "Johns Hopkins APL — Ferdinand (1964)": {
+  "status": "duplicate",
+  "work_ids": [
+   "johns-hopkins-apl--beast"
+  ],
+  "note": "Sister robot of the Hopkins Beast; the Beast card covers this line of APL automata.",
+  "pass": "2026-10/leads-b"
+ },
+ "Stephan von Huene — Tisch Tänzer / Text Tones": {
+  "status": "added",
+  "work_ids": [
+   "stephan-von-huene--text-tones"
+  ],
+  "note": "Text Tones (1983), a listening sculpture; Tisch Tänzer / Tap Dancer left as a new lead.",
+  "pass": "2026-10/leads-b"
+ },
+ "Björn Schülke — kinetic sensing sculptures (Solar Kinetic Objects, Space Observer)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Kinetic sensing sculptures of modest salience; no strong machine-phenomenology angle.",
+  "pass": "2026-10/leads-b"
+ },
+ "Bill Vorn — I.C.U. (Intensive Care Unit) (2021)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Vorn already has 3 works (Hysterical Machines, DSM-VI, Grace State Machines); I.C.U. is lower priority.",
+  "pass": "2026-10/leads-b"
+ },
+ "Ai-Da (Aidan Meller / Engineered Arts, 2019)": {
+  "status": "duplicate",
+  "work_ids": [
+   "aidan-meller--ai-da"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Kate Darling & Hannes Gassert — Pleo workshop at LIFT (2013)": {
+  "status": "duplicate",
+  "work_ids": [
+   "kate-darling--pleo-empathy"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Logos Foundation / Godfried-Willem Raes — M&M robot orchestra": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Robot orchestra of medium salience; founding year still unverified; lower priority.",
+  "pass": "2026-10/leads-b"
+ },
+ "Pablo Ventura & Louis-Philippe Demers — Kubic's Cube (2007)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Ventura (Zone) and Demers (5 works) already represented; Kubic's Cube adds little.",
+  "pass": "2026-10/leads-b"
+ },
+ "Madeline Gannon — Mimus (2016), Manus (2018)": {
+  "status": "duplicate",
+  "work_ids": [
+   "madeline-gannon--mimus",
+   "madeline-gannon--manus"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Nicolas Schöffer — CYSP 1 with Maurice Béjart dancers (1956)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nicolas-schoffer--cysp-1"
+  ],
+  "note": "The CYSP 1 card already describes the 1956 performance with Béjart's dancers.",
+  "pass": "2026-10/leads-b"
+ },
+ "Stelarc — StickMan / Reclining StickMan (2017, 2020)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Stelarc already has 7 works incl. Exoskeleton; StickMan not added.",
+  "pass": "2026-10/leads-b"
+ },
+ "Lynn Hershman Leeson — CyberRoberta (1996)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Hershman Leeson has 4 works incl. Tillie, the twin telerobotic doll; CyberRoberta adds little.",
+  "pass": "2026-10/leads-b"
+ },
+ "Chris Salter — Haptic Field (2014), Totem (2019)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Sensory performance environments; the machine is not the subject.",
+  "pass": "2026-10/leads-b"
+ },
+ "Chunky Move — Mortal Engine (2008)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Chunky Move is represented by Glow (gideon-obarzanek--glow), which uses the same tracking approach.",
+  "pass": "2026-10/leads-b"
+ },
+ "Paul Sermon — Think About the People Now (1991)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Sermon's machine-relevant telematic work is in (paul-sermon--telematic-dreaming); this earlier hypermedia piece is lower priority.",
+  "pass": "2026-10/leads-b"
+ },
+ "Troika Ranch / Mark Coniglio — Isadora and sensor dance": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Sensor-dance software (Isadora) of lower salience; not researched.",
+  "pass": "2026-10/leads-b"
+ },
+ "Amy LaViers — Robotics, Automation and Dance Lab": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Research line without a single salient work identified this pass.",
+  "pass": "2026-10/leads-b"
+ },
+ "Petra Gemeinboeck — Machine Movement Lab": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Gemeinboeck already represented (petra-gemeinboeck--zwischenraume).",
+  "pass": "2026-10/leads-b"
+ },
+ "Compressorhead — robot rock band (2012–)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Robot band as spectacle; no reflection on the machine.",
+  "pass": "2026-10/leads-b"
+ },
+ "Trimpin — robotic instruments": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Mechanised instruments; the machine is a means, not the subject.",
+  "pass": "2026-10/leads-b"
+ },
+ "David Cope — Experiments in Musical Intelligence (Emmy)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Generative-music edge case; the authorship debate (Hofstadter) could justify a card in a music/authorship pass.",
+  "pass": "2026-10/leads-b"
+ },
+ "Lejaren Hiller & Leonard Isaacson — Illiac Suite (1957)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Historical computer-composition first; generative edge case left for a music/history pass.",
+  "pass": "2026-10/leads-b"
+ },
+ "IRCAM — OMax co-improvisation system": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Co-improvisation research line already represented by The Continuator (francois-pachet--continuator).",
+  "pass": "2026-10/leads-b"
+ },
+ "Liliane Lijn — Woman of War (1986)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Machine role in the performance still unverified; not researched.",
+  "pass": "2026-10/leads-b"
+ },
+ "Roman Verostko — algorist pen-plotter drawings": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Algorithmic pen-plotter art; weak reflection on the machine.",
+  "pass": "2026-10/leads-b"
+ },
+ "Pindar Van Arman — cloudPainter": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "AI painting robot; generative showpiece.",
+  "pass": "2026-10/leads-b"
+ },
+ "KASPAR robot (University of Hertfordshire)": {
+  "status": "added",
+  "work_ids": [
+   "kerstin-dautenhahn--kaspar"
+  ],
+  "note": "Credited to Kerstin Dautenhahn (Adaptive Systems Research Group, Univ. of Hertfordshire).",
+  "pass": "2026-10/leads-b"
+ },
+ "Viktoria Modesta — Prototype (2014)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Pop spectacle of a bionic body; does not reflect on the machine.",
+  "pass": "2026-10/leads-b"
+ },
+ "Onyx Ashanti — Beatjazz": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Self-built cyborg instrument of low salience; not researched.",
+  "pass": "2026-10/leads-b"
+ },
+ "Kazuo Ishiguro — Klara and the Sun (2021)": {
+  "status": "added",
+  "work_ids": [
+   "kazuo-ishiguro--klara-and-the-sun"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Philippe Parreno — Anywhen (2016)": {
+  "status": "added",
+  "work_ids": [
+   "philippe-parreno--anywhen"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Tristan Perich — Machine Drawing (2011-)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Details unverified; lower priority than added machine-time works.",
+  "pass": "2026-10/leads-b"
+ },
+ "John Cage — ORGAN²/ASLSP, Halberstadt (2001-2640)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Organ performance about duration, not about machines.",
+  "pass": "2026-10/leads-b"
+ },
+ "seebotschat (2017)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Maker still unverified; viral stream of modest lasting salience.",
+  "pass": "2026-10/leads-b"
+ },
+ "Mismatch Media — Nothing, Forever (2022-23)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Mostly generated content; its interest is the failure/ban episode. Candidate for a later failure card if a maker statement is found.",
+  "pass": "2026-10/leads-b"
+ },
+ "2010 Flash Crash": {
+  "status": "open",
+  "work_ids": [],
+  "note": "An event without a maker or a work to credit; better as context in a machine-time text.",
+  "pass": "2026-10/leads-b"
+ },
+ "Butlin, Long et al. — Consciousness in Artificial Intelligence (2023)": {
+  "status": "added",
+  "work_ids": [
+   "patrick-butlin--consciousness-in-artificial-intelligence"
+  ],
+  "note": "Credited to Patrick Butlin and Robert Long (existing creator).",
+  "pass": "2026-10/leads-b"
+ },
+ "Frictional Games — SOMA (2015)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Game; lower salience for this gallery than the fiction added (Klara and the Sun, Westworld).",
+  "pass": "2026-10/leads-b"
+ },
+ "Jonathan Nolan & Lisa Joy — Westworld (2016)": {
+  "status": "added",
+  "work_ids": [
+   "jonathan-nolan-lisa-joy--westworld"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Matt Jones / BERG — 'Be As Smart As A Puppy', Little Printer (2011-12)": {
+  "status": "added",
+  "work_ids": [
+   "berg--little-printer"
+  ],
+  "note": "Little Printer card carries the B.A.S.A.A.P. principle (Matt Jones, BERG blog, 2010).",
+  "pass": "2026-10/leads-b"
+ },
+ "Tobias Revell; Design Friction; Studio Above&Below; Ling Tan": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Group lead naming practices but no specific machine work; not researched.",
+  "pass": "2026-10/leads-b"
+ },
+ "Microsoft Tay (2016); Bing 'Sydney' (2023)": {
+  "status": "added",
+  "work_ids": [
+   "kevin-roose--bing-sydney"
+  ],
+  "note": "Sydney added via Roose's NYT transcript; Tay is already covered by zach-blas--im-here-to-learn-so.",
+  "pass": "2026-10/leads-b"
+ },
+ "Good Night Oppy (Ryan White, 2022)": {
+  "status": "added",
+  "work_ids": [
+   "ryan-white--good-night-oppy"
+  ],
+  "note": "Separate film card next to nasa-jpl--opportunity-last-message.",
+  "pass": "2026-10/leads-b"
+ },
+ "Wesley Goatley, Newly Forgotten Technologies: Five Echoes (2022)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Goatley's Newly Forgotten Technologies (2023) is already in; Five Echoes is the earlier film in the same series.",
+  "pass": "2026-10/leads-b"
+ },
+ "Gabriele Trovato, SanTO in exhibition (RO-MAN 2023)": {
+  "status": "duplicate",
+  "work_ids": [
+   "gabriele-trovato--santo"
+  ],
+  "note": "Follow-up paper; the SanTO card covers the robot.",
+  "pass": "2026-10/leads-b"
+ },
+ "Hans Block & Moritz Riesewieck, The Cleaners (2018)": {
+  "status": "duplicate",
+  "work_ids": [
+   "hans-block--the-cleaners"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Lauren Lee McCarthy, Follower (2016) and Social Turkers (2013)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lauren-lee-mccarthy--social-turkers"
+  ],
+  "note": "Social Turkers is in; Follower not added (McCarthy already has 11 works).",
+  "pass": "2026-10/leads-b"
+ },
+ "Dan Chen, Intimacy Machine": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Dan Chen represented by End of Life Care Machine; Intimacy Machine not researched.",
+  "pass": "2026-10/leads-b"
+ },
+ "Emma Yann Zhang, Adrian David Cheok et al., Kissenger (2016)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Research prototype; lower priority than the added intimacy works.",
+  "pass": "2026-10/leads-b"
+ },
+ "StoryFile, Marina Smith speaking at her own funeral (2022)": {
+  "status": "added",
+  "work_ids": [
+   "storyfile--marina-smith-funeral"
+  ],
+  "note": "Linked in text to usc-shoah-foundation--dimensions-in-testimony.",
+  "pass": "2026-10/leads-b"
+ },
+ "Freedom Baird, Furby 'upside-down test' (Radiolab, 2011)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "A radio segment rather than a work; Furby empathy is covered by sherry-turkle--alone-together and kelly-heaton--live-pelt.",
+  "pass": "2026-10/leads-b"
+ },
+ "Tom Ziemke & Noel Sharkey — A stroll through the worlds of robots and animals (Semiotica 134, 2001)": {
+  "status": "added",
+  "work_ids": [
+   "tom-ziemke--stroll-through-the-worlds-of-robots"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Laestadius et al. — Too human and not human enough (New Media & Society, 2022)": {
+  "status": "duplicate",
+  "work_ids": [
+   "eugenia-kuyda--replika"
+  ],
+  "note": "Used as the paper on the Replika card.",
+  "pass": "2026-10/leads-b"
+ },
+ "Caramiaux & Fdili Alaoui — 'Explorers of Unknown Planets': Practices and Politics of AI in Visual Arts (CSCW 2022)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Solid CSCW study; lower salience than the theory works added.",
+  "pass": "2026-10/leads-b"
+ },
+ "Friedrich Kittler — Gramophone, Film, Typewriter (1986)": {
+  "status": "added",
+  "work_ids": [
+   "friedrich-kittler--gramophone-film-typewriter"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Virginia Eubanks — Automating Inequality (2018)": {
+  "status": "added",
+  "work_ids": [
+   "virginia-eubanks--automating-inequality"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Joy Buolamwini — Unmasking AI (Random House, 2023)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Buolamwini already has 3 works; the book retells the Coded Gaze research.",
+  "pass": "2026-10/leads-b"
+ },
+ "Norbert Wiener — The Human Use of Human Beings (1950)": {
+  "status": "added",
+  "work_ids": [
+   "norbert-wiener--human-use-of-human-beings"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Jack Burnham — Systems Esthetics (Artforum, 1968); Software exhibition (Jewish Museum, 1970)": {
+  "status": "added",
+  "work_ids": [
+   "jack-burnham--systems-esthetics",
+   "architecture-machine-group--seek"
+  ],
+  "note": "Systems Esthetics plus SEEK from Burnham's Software exhibition; Software 1970 left as a collection lead.",
+  "pass": "2026-10/leads-b"
+ },
+ "Anna Munster — An Aesthesia of Networks (MIT, 2013)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Munster is represented as co-author of adrian-mackenzie--platform-seeing; book lower priority.",
+  "pass": "2026-10/leads-b"
+ },
+ "Mercedes Bunz — The Calculation of Meaning (Culture, Theory and Critique, 2019) and Serpentine Creative AI Lab": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Not verified; lower salience.",
+  "pass": "2026-10/leads-b"
+ },
+ "Benjamin Bratton & Blaise Agüera y Arcas — The Model Is the Message (Noema, 2022)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Short essay; Bratton is represented by The Stack.",
+  "pass": "2026-10/leads-b"
+ },
+ "Nora N. Khan — Seeing, Naming, Knowing (2019)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Publication details unverified.",
+  "pass": "2026-10/leads-b"
+ },
+ "Valentino Braitenberg — Vehicles (1984)": {
+  "status": "duplicate",
+  "work_ids": [
+   "valentino-braitenberg--vehicles"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Paula Gaetano Adi — Mestizo Robotics / Robocalyptic Manifesto": {
+  "status": "duplicate",
+  "work_ids": [
+   "paula-gaetano-adi--alexitimia",
+   "paula-gaetano-adi--guanaquerx"
+  ],
+  "note": "Artist represented by two works.",
+  "pass": "2026-10/leads-b"
+ },
+ "Blast Theory — Cat Royale (2023)": {
+  "status": "duplicate",
+  "work_ids": [
+   "blast-theory--cat-royale"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Louis-Philippe Demers — The Tiller Girls (2010), The Blind Robot (2012)": {
+  "status": "duplicate",
+  "work_ids": [
+   "louis-philippe-demers--tiller-girls",
+   "louis-philippe-demers--the-blind-robot"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Angela Bulloch — drawing machines (1990s)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Titles and machine role unverified; low priority.",
+  "pass": "2026-10/leads-b"
+ },
+ "Rachel Ara — This Much I'm Worth (the self-evaluating artwork) (2017)": {
+  "status": "duplicate",
+  "work_ids": [
+   "rachel-ara--this-much-im-worth"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Joel Krueger & Lucy Osler — Communing with the Dead Online (2022)": {
+  "status": "duplicate",
+  "work_ids": [
+   "joel-krueger--communing-with-the-dead-online"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Lynn Hershman Leeson — CybeRoberta / Tillie the Telerobotic Doll (1995–)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lynn-hershman-leeson--tillie"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Dove, Halskov, Forlizzi & Zimmerman — UX Design Innovation: ML as a Design Material (CHI 2017)": {
+  "status": "duplicate",
+  "work_ids": [
+   "graham-dove--ux-design-innovation"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Giaccardi et al. — Thing Ethnography (DIS 2016); Giaccardi & Redström — Technology and More-Than-Human Design (Design Issues 2020)": {
+  "status": "duplicate",
+  "work_ids": [
+   "elisa-giaccardi--thing-ethnography"
+  ],
+  "note": "Thing Ethnography is in; the Design Issues 2020 paper not added.",
+  "pass": "2026-10/leads-b"
+ },
+ "Nicenboim et al. — More-Than-Human Design and AI: In Conversation with Agents (DIS 2020 Companion)": {
+  "status": "duplicate",
+  "work_ids": [
+   "iohanna-nicenboim--more-than-human-design-and-ai"
+  ],
+  "note": "",
+  "pass": "2026-10/leads-b"
+ },
+ "Vickers & Allado-McDowell (eds.) — Atlas of Anomalous AI (Ignota, 2020); K Allado-McDowell — Pharmako-AI (Ignota, 2020)": {
+  "status": "duplicate",
+  "work_ids": [
+   "k-allado-mcdowell--pharmako-ai"
+  ],
+  "note": "Pharmako-AI is in; Atlas of Anomalous AI not added.",
+  "pass": "2026-10/leads-b"
+ },
+ "Deborah Lupton & Ash Watson — Towards More-than-Human Digital Data Studies (Qualitative Research, 2021)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Methodology for qualitative data studies; not about machines.",
+  "pass": "2026-10/leads-b"
+ }
+}

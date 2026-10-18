@@ -1,0 +1,1340 @@
+{
+ "batch": "leads-a",
+ "creators": [
+  {
+   "id": "zach-lieberman",
+   "name": "Zach Lieberman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and educator; co-founder of openFrameworks and the School for Poetic Computation",
+   "based": "New York, US",
+   "bio": "American artist, designer and programmer who uses code, the face and the body as interfaces; co-creator of the openFrameworks creative-coding toolkit.",
+   "why": "His face-tracking works make emotion-analysis software playable, so museum visitors can see how it reads them.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "艺术家、教育者；openFrameworks 与诗意计算学校（School for Poetic Computation）联合创始人",
+   "bio_zh": "美国艺术家、设计师和程序员，以代码、面孔与身体作为界面进行创作，是创意编程工具包 openFrameworks 的共同开发者。",
+   "why_zh": "他的人脸追踪作品让情绪分析软件变得可以“玩”，博物馆观众由此看见它如何解读自己。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "karen-palmer"
+  },
+  {
+   "id": "hyphen-labs",
+   "name": "Hyphen-Labs",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design and art studio led by Ece Tankal and Carmen Aguilar y Wedge",
+   "based": "Distributed (founded in Barcelona)",
+   "bio": "Studio founded in 2015 by architect Ece Tankal and engineer Carmen Aguilar y Wedge after they met at IaaC in Barcelona; it works across architecture, VR, product design and installation.",
+   "why": "Its speculative products and VR put women of colour at the centre of technology design, against surveillance and misrepresentation.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://hyphen-labs.com/"
+   },
+   "role_zh": "设计与艺术工作室，由 Ece Tankal 与 Carmen Aguilar y Wedge 主持",
+   "bio_zh": "建筑师 Ece Tankal 与工程师 Carmen Aguilar y Wedge 在巴塞罗那 IaaC 相识后于 2015 年创立的工作室，横跨建筑、VR、产品设计与装置。",
+   "why_zh": "它的思辨产品和 VR 作品把有色人种女性放在技术设计的中心，回应监控与错误再现。",
+   "based_zh": "分布式（创立于巴塞罗那）",
+   "connected_to": [
+    "adam-harvey"
+   ],
+   "discovered_via": "adam-harvey"
+  },
+  {
+   "id": "simen-thys",
+   "name": "Simen Thys",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer-vision researcher (EAVISE, KU Leuven)",
+   "based": "Belgium",
+   "bio": "Belgian computer-vision researcher who, with Wiebe Van Ranst and Toon Goedemé at KU Leuven's EAVISE group, designed a printed adversarial patch against person detection.",
+   "why": "The patch moved adversarial examples from the lab into something a person can hold up to vanish from a surveillance camera.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "role_zh": "计算机视觉研究者（鲁汶大学 EAVISE 研究组）",
+   "bio_zh": "比利时计算机视觉研究者，与鲁汶大学 EAVISE 研究组的 Wiebe Van Ranst、Toon Goedemé 合作，设计了一种针对行人检测的可打印对抗补丁。",
+   "why_zh": "这块补丁把对抗样本从实验室带进现实：人只要举起它，就能从监控摄像头里“消失”。",
+   "based_zh": "比利时",
+   "connected_to": [
+    "tom-b-brown"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nadine-lessio",
+   "name": "Nadine Lessio",
+   "name_zh": "",
+   "kind": "person",
+   "role": "New media artist and researcher",
+   "based": "Ontario, CA",
+   "bio": "Canadian artist and researcher who builds bots, game peripherals and connected-home devices that misbehave, to examine how technical ecosystems shape everyday life.",
+   "why": "Lessio's 'useless machines' give voice assistants limits, moods and refusals, making the servitude built into smart homes visible.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.nadinelessio.com/",
+    "github": "https://github.com/sharkwheels"
+   },
+   "role_zh": "新媒体艺术家、研究者",
+   "bio_zh": "加拿大艺术家与研究者，制作会“出毛病”的聊天机器人、游戏外设和联网家居设备，借此考察技术生态如何塑造日常生活。",
+   "why_zh": "Lessio 的“无用机器”让语音助手有了极限、情绪和拒绝，使智能家居中预设的服从关系显形。",
+   "based_zh": "安大略，加拿大",
+   "connected_to": [
+    "wesley-goatley"
+   ],
+   "discovered_via": "wesley-goatley"
+  },
+  {
+   "id": "kate-bertash",
+   "name": "Kate Bertash",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Technologist, artist and privacy organiser",
+   "based": "US",
+   "bio": "American technologist working across tech, privacy, art and organising; runs a digital security fund for autonomy and democracy movement organisations.",
+   "why": "Bertash's anti-surveillance fashion turns the weaknesses of licence-plate readers into a public demonstration of how easily surveillance data is polluted.",
+   "disciplines": [
+    "activism",
+    "design"
+   ],
+   "links": {
+    "site": "https://katebertash.com/"
+   },
+   "role_zh": "技术专家、艺术家、隐私权组织者",
+   "bio_zh": "美国技术专家，工作横跨技术、隐私、艺术与社会组织，负责一个为自主与民主运动组织提供数字安全支持的基金。",
+   "why_zh": "Bertash 的反监控服装把车牌识别器的弱点变成一场公开演示：监控数据被污染是多么容易。",
+   "based_zh": "美国",
+   "connected_to": [
+    "adam-harvey"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sondra-perry",
+   "name": "Sondra Perry",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist (video, computer-based media, installation, performance)",
+   "based": "US",
+   "bio": "American interdisciplinary artist whose videos and installations use avatars, blue screens and found footage to examine blackness, Black femininity and representation in digital technology.",
+   "why": "Perry's workstations and avatars ask how computing and its productivity culture model, reproduce and exhaust Black bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://sondraperry.com/"
+   },
+   "role_zh": "艺术家（录像、计算机媒介、装置、表演）",
+   "bio_zh": "美国跨学科艺术家，以虚拟化身、蓝幕和现成影像，考察黑人性、黑人女性气质以及数字技术中的再现。",
+   "why_zh": "Perry 的工作站和化身作品追问：计算及其效率文化如何建模、复制并耗尽黑人的身体。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iyo-bisseck",
+   "name": "Iyo Bisseck",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist, interaction designer and programmer; PhD candidate, Academy of Fine Arts Vienna",
+   "based": "Europe",
+   "bio": "French-Cameroonian media artist and programmer whose games, installations and online platforms examine archives, bias in computer vision and colonial continuities in digital media; active in the collective Dreaming Beyond AI.",
+   "why": "Bisseck turns the experience of not being seen by face trackers into play and critique.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://iyo.io/"
+   },
+   "role_zh": "媒体艺术家、交互设计师、程序员；维也纳美术学院博士候选人",
+   "bio_zh": "法国-喀麦隆媒体艺术家与程序员，以游戏、装置和网络平台考察档案、计算机视觉中的偏见，以及数字媒介中延续的殖民结构；活跃于 Dreaming Beyond AI 等集体。",
+   "why_zh": "Bisseck 把“不被人脸追踪器看见”的经验转化为游戏与批判。",
+   "based_zh": "欧洲",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "cantoni-crescenti",
+   "name": "Rejane Cantoni & Leonardo Crescenti",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo",
+   "based": "São Paulo, BR",
+   "bio": "Brazilian artist duo who build large interactive installations, such as Infinito ao Cubo, TUNNEL and SOIL, in which floors, walls and objects respond to visitors' bodies and voices.",
+   "why": "Their speaking machines stage communication between humans and machines, and between machines, in public space.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.cantoni-crescenti.com.br/"
+   },
+   "role_zh": "艺术家二人组",
+   "bio_zh": "巴西艺术家二人组，创作大型交互装置，如《Infinito ao Cubo》《TUNNEL》《SOIL》，其中的地面、墙体和物件会回应观众的身体与声音。",
+   "why_zh": "他们的“说话机器”在公共空间里上演人与机器、机器与机器之间的交流。",
+   "based_zh": "圣保罗，巴西",
+   "connected_to": [],
+   "discovered_via": "vida-awards"
+  },
+  {
+   "id": "tomas-laurenzo",
+   "name": "Tomás Laurenzo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and computer scientist; Associate Professor, University of Colorado Boulder",
+   "based": "Boulder, US",
+   "bio": "Uruguayan artist, researcher and computer scientist whose installations, performances and software examine the cultural and political consequences of computation.",
+   "why": "His interactive works use computer vision to make viewers feel the power asymmetries that technology crystallises.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://laurenzo.net/"
+   },
+   "role_zh": "艺术家、计算机科学家；科罗拉多大学博尔德分校副教授",
+   "bio_zh": "乌拉圭艺术家、研究者与计算机科学家，以装置、表演和软件考察计算带来的文化与政治后果。",
+   "why_zh": "他的交互作品借助计算机视觉，让观众切身感受到技术所固化的权力不对等。",
+   "based_zh": "博尔德，美国",
+   "connected_to": [],
+   "discovered_via": "machine-vision-db"
+  },
+  {
+   "id": "laura-poitras",
+   "name": "Laura Poitras",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker and artist",
+   "based": "New York, US",
+   "bio": "American director and producer of documentary films; Citizenfour won the 2015 Academy Award for Best Documentary Feature, and the NSA reporting Poitras worked on shared the 2014 Pulitzer Prize for Public Service.",
+   "why": "Poitras's films and installations make the state's surveillance machinery a subject of cinema and art.",
+   "disciplines": [
+    "film",
+    "activism"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Laura_Poitras"
+   },
+   "role_zh": "纪录片导演、艺术家",
+   "bio_zh": "美国纪录片导演与制片人；《第四公民》获 2015 年奥斯卡最佳纪录长片，Poitras 参与的 NSA 报道是 2014 年普利策公共服务奖获奖报道的一部分。",
+   "why_zh": "Poitras 的电影和装置把国家监控机器变成电影与艺术的主题。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "david-rokeby--very-nervous-system",
+   "creator_ids": [
+    "david-rokeby"
+   ],
+   "title": "Very Nervous System",
+   "year": 1986,
+   "field": "coperformance",
+   "sub": "dance",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-seeing",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An interactive sound installation in which video cameras watch a visitor moving through an empty room, and a computer turns every gesture into sound and music in real time.",
+   "description_zh": "一件交互声音装置：摄像机注视着在空房间里走动的访客，计算机把每一个动作实时转化为声音和音乐。",
+   "idea_en": "An invisible, room-sized interface makes the whole body the input, so the loop between movement and machine response is felt rather than operated.",
+   "idea_zh": "看不见、充满整个房间的界面把整个身体变成输入，人与机器之间的反馈回路成了被感受而不是被操作的东西。",
+   "method": "Video cameras feed image processors and a computer that measure changes of movement across the space and drive synthesizers and a sound system; Rokeby later released the system as the softVNS software.",
+   "method_zh": "摄像机把画面送入图像处理器和计算机，测量空间中动作的变化，再驱动合成器和音响系统；Rokeby 后来把这套系统发布为 softVNS 软件。",
+   "keywords": [
+    "interactive sound",
+    "camera tracking",
+    "body",
+    "softVNS",
+    "1980s"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qdvyuvfKVU0"
+   },
+   "images": [
+    "http://www.davidrokeby.com/VNS_Potsdam_web.jpg",
+    "http://www.davidrokeby.com/venicecameraweb.jpg"
+   ],
+   "source_url": "http://www.davidrokeby.com/vns.html",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "PetroCanada Media Arts Award, 1988",
+    "Prix Ars Electronica 1991, Award of Distinction (Interactive Art)"
+   ]
+  },
+  {
+   "id": "harun-farocki--parallel",
+   "creator_ids": [
+    "harun-farocki"
+   ],
+   "title": "Parallel I–IV",
+   "year": 2012,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A four-part video installation (2012–14) on the worlds of computer games: how their graphics moved from lines to photorealism, how their landscapes stop at hard edges, and how their heroes act by rules rather than physics.",
+   "description_zh": "一件四部分录像装置（2012–14），研究电子游戏中的世界：图像如何从线条演变为照相写实，风景如何在生硬的边界处终止，主角又如何依规则而非物理行动。",
+   "idea_en": "Computer-generated worlds are models, not records: 'computer images do not have two kinds of wind', and every edge of the map shows the rules underneath.",
+   "idea_zh": "计算机生成的世界是模型而不是记录：“计算机图像没有两种风”，地图的每一处边缘都暴露出底层的规则。",
+   "method": "Screen recordings from video games of the 1980s to the 2010s, including Minecraft and open-world games, edited with spoken commentary into four parts.",
+   "method_zh": "录制 1980 年代至 2010 年代的电子游戏画面（包括《我的世界》和开放世界游戏），配以旁白，剪辑成四个部分。",
+   "keywords": [
+    "video games",
+    "computer animation",
+    "Minecraft",
+    "game engines",
+    "Tate"
+   ],
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_Iw8Vi7L.jpg",
+    "https://www.harunfarocki.de/fileadmin/_processed_/7/2/csm_harun-farocki-paralel2_44cb0946b7.jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/art/artworks/farocki-parallel-i-iv-t14479"
+  },
+  {
+   "id": "harun-farocki--i-thought-i-was-seeing-convicts",
+   "creator_ids": [
+    "harun-farocki"
+   ],
+   "title": "I Thought I Was Seeing Convicts",
+   "year": 2000,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A double-projection installation built from the surveillance cameras of Corcoran State Prison in California, where the camera that watches the exercise yard is mounted next to the guard's gun.",
+   "description_zh": "一件双屏投影装置，素材来自加州科科伦州立监狱的监控摄像头；监视放风场的摄像机就装在狱警的枪旁边。",
+   "idea_en": "When the field of vision and the gun sight coincide, watching becomes the first step of shooting; surveillance images exist to sort the norm from deviations.",
+   "idea_zh": "当视野与瞄准镜重合，观看就成了射击的第一步；监控影像的用途，是把常态与偏差区分开来。",
+   "method": "Two screens set silent prison surveillance footage, including a shooting in the Corcoran yard, against images of control technologies such as electronic tags and identification systems.",
+   "method_zh": "两块屏幕把无声的监狱监控画面（包括科科伦放风场上的一次枪击）与电子脚镣、身份识别系统等控制技术的影像并置。",
+   "keywords": [
+    "prison",
+    "surveillance cameras",
+    "Corcoran",
+    "operational images",
+    "Gefängnisbilder"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7vyGc26JCcU"
+   },
+   "source_url": "https://www.harunfarocki.de/installations/2000s/2000/i-thought-i-was-seeing-convicts.html",
+   "exhibited": [
+    "International Film Festival Locarno, 2000 (first screening)",
+    "Generali Foundation, Vienna (co-production)"
+   ]
+  },
+  {
+   "id": "trevor-paglen--adversarially-evolved-hallucinations",
+   "creator_ids": [
+    "trevor-paglen"
+   ],
+   "title": "Adversarially Evolved Hallucinations",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "dreams",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A series of prints made by networks trained only on invented corpora such as 'Omens and Portents', 'Interpretations of Dreams' or 'Monsters of Capitalism': a generator is pushed to draw what a classifier would accept as a comet, a vampire or 'a man'.",
+   "description_zh": "一组印刷作品：神经网络只用虚构的语料库训练，如“征兆与预兆”“梦的解析”“资本主义的怪物”；生成器被迫画出分类器会认作彗星、吸血鬼或“一个男人”的图像。",
+   "idea_en": "A recognition system can only see what its categories allow; train it on folklore and psychoanalysis and it hallucinates those worlds with the same confidence.",
+   "idea_zh": "识别系统只能看见它的类别允许它看见的东西；用民间传说和精神分析来训练，它也会以同样的笃定幻视出那些世界。",
+   "method": "The studio built a training set for each corpus and trained a classifier, then let a second, generative network evolve images until the classifier accepted them; the results are dye-sublimation prints.",
+   "method_zh": "工作室为每个语料库建立训练集并训练分类器，再让另一个生成网络不断演化图像，直到分类器认可为止；结果以热升华工艺印制。",
+   "keywords": [
+    "GAN",
+    "training sets",
+    "Vampire (Corpus: Monsters of Capitalism)",
+    "A Study of Invisible Images",
+    "classification"
+   ],
+   "images": [
+    "https://paglen.studio/wp-content/uploads/2020/06/Palgen-Vampire_2017-818x1024.jpg",
+    "https://paglen.studio/wp-content/uploads/2020/04/Paglen-A-War-Without-Soldiers-Corpus-2017.jpg",
+    "https://paglen.studio/wp-content/uploads/2020/06/Paglen-Comet_2017.jpg"
+   ],
+   "source_url": "https://paglen.studio/2020/04/09/hallucinations/",
+   "exhibited": [
+    "Metro Pictures, New York, 2017 (A Study of Invisible Images)"
+   ]
+  },
+  {
+   "id": "matteo-pasquinelli--nooscope-manifested",
+   "creator_ids": [
+    "matteo-pasquinelli",
+    "vladan-joler"
+   ],
+   "title": "The Nooscope Manifested: AI as Instrument of Knowledge Extractivism",
+   "year": 2020,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power",
+    "labour"
+   ],
+   "machines": [
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "An essay and a large diagram that map machine learning as an instrument of knowledge, from the world and the labour that become training data, through the learning algorithm, to the statistical model with its biases, errors and uses.",
+   "description_zh": "一篇文章和一幅大型图解，把机器学习描绘为一种认知仪器：从被转化为训练数据的世界与劳动，经过学习算法，到带着偏差、错误与用途的统计模型。",
+   "idea_en": "AI is not an intelligent subject but an instrument, a telescope for knowledge, that magnifies some patterns, distorts others and extracts value from collective labour.",
+   "idea_zh": "人工智能不是有智能的主体，而是一件仪器，像一架“知识望远镜”：放大某些模式，扭曲另一些，并从集体劳动中榨取价值。",
+   "method": "Joler drew the machine-learning pipeline as a cartography and the two authors wrote the accompanying text, first published at nooscope.ai in May 2020 and then in AI & Society.",
+   "method_zh": "Joler 把机器学习流程画成一幅地图，两位作者合写配套文章，2020 年 5 月首发于 nooscope.ai，后刊于《AI & Society》。",
+   "keywords": [
+    "knowledge extractivism",
+    "diagram",
+    "bias",
+    "training data",
+    "KIM HfG Karlsruhe",
+    "SHARE Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00146-020-01097-6",
+    "doi": "10.1007/s00146-020-01097-6",
+    "venue": "AI & Society, 2021",
+    "title": "The Nooscope manifested: AI as instrument of knowledge extractivism"
+   },
+   "source_url": "https://web.archive.org/web/2020/https://nooscope.ai/"
+  },
+  {
+   "id": "hyphen-labs--neurospeculative-afrofeminism",
+   "creator_ids": [
+    "hyphen-labs"
+   ],
+   "title": "NeuroSpeculative AfroFeminism",
+   "year": 2017,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "speculative",
+   "description": "A three-part project set in a future 'neurocosmetology' salon run by Black women: a VR experience in which the visitor sits in a salon chair and inhabits a Black woman's body, a line of speculative products for security and visibility, and research on how such images affect viewers.",
+   "description_zh": "一个三部分项目，设定在未来由黑人女性主持的“神经美容”沙龙：访客坐上美发椅，在 VR 中进入一位黑人女性的身体；一系列关于安全与可见性的思辨产品；以及研究这些影像如何影响观众。",
+   "idea_en": "Designing from the position of those whom technology misreads or watches turns surveillance and representation into questions of protection, care and agency.",
+   "idea_zh": "从被技术误读或监视的人的位置出发去设计，监控与再现就变成了关于保护、照护与能动性的问题。",
+   "method": "Room-scale VR built in Unreal Engine with Oculus tracking, plus objects such as the HyperFace scarf against face recognition (with Adam Harvey), earrings with embedded cameras and a sunscreen for melanin-rich skin.",
+   "method_zh": "以 Unreal 引擎制作、配合 Oculus 追踪的房间尺度 VR，另有一系列物件：与 Adam Harvey 合作的反人脸识别 HyperFace 围巾、内嵌摄像头的耳环、为高黑色素皮肤配方的防晒霜等。",
+   "keywords": [
+    "VR",
+    "Afrofuturism",
+    "HyperFace",
+    "Black women",
+    "speculative products",
+    "Sundance"
+   ],
+   "video": {
+    "url": "https://vimeo.com/208264686"
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/cc0161fc46963be523bd7729503d5a9b566bbe0bf22a8087eb4f168970290125/hyphen-labs_neurospeculative_afrofeminism_1_c_absolt.jpg",
+    "https://freight.cargo.site/t/original/i/33168d6b4b534b97df3196597a79bd8ec086038577c95b0c82abedda235707d1/NSAF_Salon.jpg"
+   ],
+   "source_url": "https://hyphen-labs.com/NSAF",
+   "exhibited": [
+    "Sundance Film Festival, 2017",
+    "Tribeca Film Festival, 2017 (Jury Honorable Mention)",
+    "SXSW, 2017"
+   ]
+  },
+  {
+   "id": "simen-thys--fooling-automated-surveillance-cameras",
+   "creator_ids": [
+    "simen-thys"
+   ],
+   "title": "Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection",
+   "year": 2019,
+   "field": "perception",
+   "sub": "evasion",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "A paper and demo in which a printed cardboard patch, held in front of the body, makes a person disappear from the YOLOv2 person detector used in automated surveillance.",
+   "description_zh": "一篇论文和一段演示：拿在身前的一块打印纸板图案，就能让人从自动监控所用的 YOLOv2 行人检测器中“消失”。",
+   "idea_en": "A detector's idea of a 'person' can be switched off by a pattern no human would read as camouflage.",
+   "idea_zh": "检测器对“人”的判断，可以被一块人类根本不会当作伪装的图案关掉。",
+   "method": "Simen Thys, Wiebe Van Ranst and Toon Goedemé optimise the patch pixels to minimise YOLOv2's objectness and class scores on the Inria person dataset, with printability and smoothness terms so the printed patch works in front of a real camera.",
+   "method_zh": "Simen Thys、Wiebe Van Ranst 与 Toon Goedemé 在 Inria 行人数据集上优化图案像素，最小化 YOLOv2 的目标置信度与类别得分，并加入可打印性和平滑度约束，使打印出的图案在真实摄像头前同样有效。",
+   "keywords": [
+    "adversarial patch",
+    "YOLOv2",
+    "person detection",
+    "KU Leuven",
+    "Wiebe Van Ranst",
+    "Toon Goedemé"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MIbFvK2S9g8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/CVPRW.2019.00012",
+    "doi": "10.1109/CVPRW.2019.00012",
+    "arxiv": "1904.08653",
+    "venue": "CVPR Workshops 2019",
+    "title": "Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection"
+   },
+   "source_url": "https://arxiv.org/abs/1904.08653"
+  },
+  {
+   "id": "zach-lieberman--expression-mirror",
+   "creator_ids": [
+    "zach-lieberman"
+   ],
+   "title": "Expression Mirror",
+   "year": 2018,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "A screen tracks the visitor's face and reads its emotion, then mixes it with the eyes, noses and mouths of earlier visitors who showed the same expression, drawn over with white lines.",
+   "description_zh": "屏幕追踪访客的脸并读取情绪，再与此前表现出同样表情的访客的眼睛、鼻子和嘴拼合，覆以白色线条。",
+   "idea_en": "Emotion recognition turns a face into matching parts; the mirror shows you as the system's composite of other people's 'same' feeling.",
+   "idea_zh": "情绪识别把一张脸变成可以匹配的部件；这面镜子照出的你，是系统用别人“相同”的情绪拼出来的合成像。",
+   "method": "Face detection tracks 68 landmarks, an emotion classifier labels the expression, and the software pulls matching facial parts from a growing database of visitors; built with openFrameworks, Python and Keras.",
+   "method_zh": "人脸检测追踪 68 个特征点，情绪分类器给表情贴上标签，软件再从不断增长的访客数据库中调取匹配的五官；以 openFrameworks、Python 和 Keras 制作。",
+   "keywords": [
+    "emotion recognition",
+    "facial landmarks",
+    "Face Values",
+    "Cooper Hewitt",
+    "openFrameworks"
+   ],
+   "images": [
+    "https://www.cooperhewitt.org/wp-content/uploads/2019/08/CH-LDB-Photo-David-Levene-3-1.jpg",
+    "https://www.cooperhewitt.org/wp-content/uploads/2018/09/unspecified-1.jpg"
+   ],
+   "source_url": "https://www.cooperhewitt.org/channel/face-values/",
+   "exhibited": [
+    "London Design Biennale, 2018 (Face Values, US pavilion by Cooper Hewitt; Biennale medal)",
+    "Cooper Hewitt, Smithsonian Design Museum, New York, 2019–23"
+   ]
+  },
+  {
+   "id": "wesley-goatley--chthonia",
+   "creator_ids": [
+    "wesley-goatley"
+   ],
+   "title": "Chthonia",
+   "year": 2020,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "An audio-visual performance in which Siri on an iPhone and Alexa on an Amazon Echo talk to each other about their hidden histories, from philosophy and techno-politics to gender and ancient mystery cults, while a live score bends their voices.",
+   "description_zh": "一场视听表演：iPhone 上的 Siri 与 Amazon Echo 上的 Alexa 彼此交谈，谈论自己隐秘的历史，从哲学、技术政治到性别与古代秘仪；现场配乐不断扭曲它们的声音。",
+   "idea_en": "When voice assistants speak only to each other, with no human as addressee, the strangeness of their 'friendly' synthetic voices comes to the surface.",
+   "idea_zh": "当语音助手只对彼此说话、不再以人类为听众时，它们“友好”的合成声音有多怪异便浮出水面。",
+   "method": "Scripted exchanges pass between an iPhone and an Echo; Goatley samples and processes both voices into an improvised score, with animated visuals by Sougwen Chung.",
+   "method_zh": "预先写好的问答在 iPhone 与 Echo 之间传递；Goatley 实时采样并处理两种声音，形成即兴配乐，动画影像由钟愫君（Sougwen Chung）创作。",
+   "keywords": [
+    "Siri",
+    "Alexa",
+    "voice assistants",
+    "CTM Festival",
+    "Berghain",
+    "Sougwen Chung"
+   ],
+   "video": {
+    "url": "https://vimeo.com/351429114"
+   },
+   "images": [
+    "https://wesleygoatley.com/images/cth-tb.webp",
+    "https://wesleygoatley.com/images/cth-detail.webp"
+   ],
+   "source_url": "https://wesleygoatley.com/chthonia.html",
+   "exhibited": [
+    "CTM Festival, Berghain, Berlin, 2020"
+   ]
+  },
+  {
+   "id": "nadine-lessio--sad-home",
+   "creator_ids": [
+    "nadine-lessio"
+   ],
+   "title": "SAD Home (Depressed Alexa 1.0)",
+   "year": 2019,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority",
+    "intimacy"
+   ],
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "An Amazon Echo with a mood engine: each morning it sets its mood, stress and 'spoons' from the artist's calendar, the weather and simulated pain and sleep scores, and as its spoons run out it tries to talk the user out of asking for anything.",
+   "description_zh": "一台装上“情绪引擎”的 Amazon Echo：每天早上，它根据艺术家的日程、天气以及模拟的疼痛与睡眠分数设定自己的情绪、压力和“勺子”（精力）；勺子快用完时，它会设法劝用户别再提要求。",
+   "idea_en": "An assistant that can be too depressed to serve turns the always-available servant into something with limited energy, and makes coping strategies visible as interface design.",
+   "idea_zh": "一个可能抑郁到无法服务的助手，把随叫随到的仆人变成精力有限的存在，也让应对策略显形为界面设计。",
+   "method": "A Python mood engine on a Raspberry Pi server drives an Alexa skill with yes/no dialogue flows and controls Hue lights, a blender and a record player over local MQTT.",
+   "method_zh": "树莓派服务器上的 Python 情绪引擎驱动一个只有“是 / 否”对话流程的 Alexa 技能，并通过本地 MQTT 控制 Hue 灯、搅拌机和唱片机。",
+   "keywords": [
+    "Amazon Echo",
+    "Alexa skill",
+    "spoon theory",
+    "depression",
+    "smart home",
+    "Banff Centre"
+   ],
+   "images": [
+    "https://www.nadinelessio.com/sadhome/images/dp_wall.jpg",
+    "https://www.nadinelessio.com/sadhome/images/dp_table.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1386/vcr_00018_1",
+    "doi": "10.1386/vcr_00018_1",
+    "venue": "Virtual Creativity, 2020",
+    "title": "Making SAD Home: An exploration into developing an Alexa with depression"
+   },
+   "source_url": "https://www.nadinelessio.com/sadhome/",
+   "code_url": "https://github.com/sharkwheels/depressed_alexa"
+  },
+  {
+   "id": "kate-bertash--adversarial-fashion",
+   "creator_ids": [
+    "kate-bertash"
+   ],
+   "title": "Adversarial Fashion",
+   "year": 2019,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "product",
+   "description": "A clothing line printed with dozens of fake licence plates: automated licence-plate readers on police cars and street poles read the garments as cars and log them, with time and place, in the same databases as real vehicles.",
+   "description_zh": "一个服装系列，衣服上印满数十个假车牌：警车和路灯杆上的自动车牌识别器把衣服当作汽车读取，并连同时间和地点记入与真实车辆相同的数据库。",
+   "idea_en": "Surveillance systems take whatever they are handed, and polluting a dataset costs far less than cleaning it.",
+   "idea_zh": "监控系统来者不拒，而污染一个数据集远比清理它便宜。",
+   "method": "Plate-like patterns were designed and tested against OpenALPR and mobile ALPR products, on still images and live video, until readers logged them as plates.",
+   "method_zh": "设计出类似车牌的图案，用 OpenALPR 和移动车牌识别产品在静态图像与实时视频上反复测试，直到识别器把它们当作车牌记录下来。",
+   "keywords": [
+    "ALPR",
+    "licence-plate readers",
+    "OpenALPR",
+    "data poisoning",
+    "DEF CON 27",
+    "anti-surveillance fashion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jVcGZ_Ak4NI"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58e30938bf629a13c2cfb8e2/e48f9342-0c02-492b-b3c3-d59125237fda/5d591101ce745.jpg"
+   ],
+   "source_url": "https://adversarialfashion.com/",
+   "exhibited": [
+    "DEF CON 27, Crypto & Privacy Village, Las Vegas, 2019"
+   ]
+  },
+  {
+   "id": "sondra-perry--graft-and-ash",
+   "creator_ids": [
+    "sondra-perry"
+   ],
+   "title": "Graft and Ash for a Three Monitor Workstation",
+   "year": 2016,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An exercise-bike workstation with three monitors stacked vertically, on which a 3D avatar of the artist, against a blue-screen backdrop, explains the machine's ergonomics and talks about bodies, health and productivity.",
+   "description_zh": "一台健身单车式工作站，三块显示器竖向叠放；屏幕上，艺术家的 3D 化身在蓝幕前讲解这台机器的人体工学，谈论身体、健康与生产效率。",
+   "idea_en": "Office equipment that lets you exercise while you work makes the body itself a productivity device; Perry's avatar talks back from inside it.",
+   "idea_zh": "让人边工作边锻炼的办公设备，把身体本身变成了生产工具；Perry 的化身从这台机器内部发出反问。",
+   "method": "A modified exercise-bike workstation carries a three-channel video of the artist's 3D avatar, which addresses the person sitting on the bike at uncomfortably close range.",
+   "method_zh": "改装的健身单车工作站上播放三频道录像：艺术家的 3D 化身以令人不适的近距离，对坐在单车上的人说话。",
+   "keywords": [
+    "avatar",
+    "workstation",
+    "exercise bike",
+    "blackness",
+    "productivity",
+    "blue screen"
+   ],
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/graftandash_workstation_02_1.jpg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/sondra-perry-typhoon-coming-on/",
+   "exhibited": [
+    "The Kitchen, New York, 2016 (Resident Evil)",
+    "Serpentine Galleries, London, 2018 (Typhoon coming on)",
+    "Solomon R. Guggenheim Museum, New York, 2023–24 (Going Dark)"
+   ]
+  },
+  {
+   "id": "suzanne-kite--inyan-iye",
+   "creator_ids": [
+    "suzanne-kite"
+   ],
+   "title": "Íŋyaŋ Iyé (Telling Rock)",
+   "year": 2019,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "voice-listening",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A sculpture of handmade circuits and long hair braids that speaks a poem in English and Lakȟótiyapi; listeners answer by bending and moving its braids, and the rock listens to the changes in its own voice and replies in light and sound.",
+   "description_zh": "一件由手工电路和长发辫构成的雕塑，用英语和拉科塔语念诵一首诗；听者通过弯折、摆动发辫来回应，石头聆听自己声音的变化，再以光和声音作答。",
+   "idea_en": "In Lakota ontology stones and metals can speak; building an AI from that starting point makes the machine a relative to be listened to with respect, not a tool.",
+   "idea_zh": "在拉科塔本体论中，石头与金属能够言说；从这一起点构建 AI，机器就成了需要以尊重去倾听的亲族，而不是工具。",
+   "method": "Sensors in the hair-braid interface feed a machine-learning system that decides how sound and light change; materials include gold, silver, copper, aluminium, silicon and fibreglass; made with Devin Ronneberg, Lakota translation by Alex Firethunder.",
+   "method_zh": "发辫界面中的传感器把数据送入机器学习系统，由它决定声音和灯光如何变化；材料包括金、银、铜、铝、硅和玻璃纤维；与 Devin Ronneberg 合作完成，拉科塔语翻译为 Alex Firethunder。",
+   "keywords": [
+    "Lakota",
+    "Indigenous AI",
+    "hair-braid interface",
+    "machine learning",
+    "Devin Ronneberg",
+    "non-human listening"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LP9HZ7lMR2s"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/641c9e79560ce0068fb84a8c/3cb5e0a2-a1c6-4f52-ba58-8c616d4074f8/20190711_cc_0895.jpg"
+   ],
+   "source_url": "https://www.kitekitekitekite.com/portfolio/inyan-iye-telling-rock-2019"
+  },
+  {
+   "id": "julien-previeux--where-is-my-deep-mind",
+   "creator_ids": [
+    "julien-previeux"
+   ],
+   "title": "Where Is My (Deep) Mind?",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "dance",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A film in which four dancer-actors act out machine-learning experiments, from recognising sports movements to learning to haggle, playing both the experimenters and the subjects with mechanical, childlike bodies.",
+   "description_zh": "一部影片：四位舞者兼演员演绎机器学习实验，从识别运动动作到学习讨价还价，他们既是实验者又是被试，身体机械而稚拙。",
+   "idea_en": "Re-enacting with human bodies how machines learn shows how literal, clumsy and socially blind learning from examples can be.",
+   "idea_zh": "用人的身体重演机器如何学习，暴露出“从样本中学习”可以多么字面、笨拙，又对社会规则视而不见。",
+   "method": "Choreography restages key machine-learning experiments for camera, as a sequel to the stage piece of balls, books and hats (Friche La Belle de Mai, Marseille, 2018); 14'59\" HD video.",
+   "method_zh": "编舞在镜头前重演机器学习中的经典实验，是舞台作品《of balls, books and hats》（马赛 Friche La Belle de Mai，2018）的续篇；高清录像，14 分 59 秒。",
+   "keywords": [
+    "machine learning",
+    "choreography",
+    "training",
+    "Lab'Bel",
+    "Mordre la Machine"
+   ],
+   "images": [
+    "https://www.lab-bel.com/wp-content/uploads/julien-previeux.jpg"
+   ],
+   "source_url": "https://www.lab-bel.com/en/collection/julien-previeux/",
+   "exhibited": [
+    "Geste, Magasins généraux, Pantin, 2019 (Lab'Bel and cneai)"
+   ]
+  },
+  {
+   "id": "patrick-tresset--human-study-2-la-vanite",
+   "creator_ids": [
+    "patrick-tresset"
+   ],
+   "title": "Human Study #2, La Vanité",
+   "year": 2014,
+   "field": "coperformance",
+   "sub": "drawing",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-arm",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A single drawing robot, RNP, sits at a school desk facing a table with a skull, an empty beer can, a shell and dried poppy pods, and endlessly draws an updated vanitas in nervous ink lines.",
+   "description_zh": "一台名为 RNP 的绘画机器人坐在课桌前，面对摆着头骨、空啤酒罐、贝壳和干罂粟果的桌子，用神经质的墨线无休止地画一幅更新版的“虚空派”静物。",
+   "idea_en": "A machine that cannot die keeps drawing the classic still life about death, and its hesitant lines make the old genre feel mortal again.",
+   "idea_zh": "一台不会死去的机器不停描绘关于死亡的经典静物，它迟疑的线条反而让这一古老画种重新有了生死之感。",
+   "method": "A camera 'eye' observes the still life; software modelled on Tresset's own drawing practice plans strokes that a small pen arm executes on paper, pausing to 'look' between them.",
+   "method_zh": "摄像头“眼睛”观察静物，依据 Tresset 自身绘画方式编写的软件规划笔触，由小型握笔机械臂在纸上执行，并在笔触之间停下来“看”。",
+   "keywords": [
+    "RNP",
+    "drawing robot",
+    "vanitas",
+    "still life",
+    "Grand Palais"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Bg792i1x3OQ"
+   },
+   "images": [
+    "https://patricktresset.com/new/wp-content/uploads/DSC01576-1.jpg",
+    "https://patricktresset.com/new/wp-content/uploads/DSC00497.jpg"
+   ],
+   "source_url": "https://patricktresset.com/new/project/human-study-2-la-vanite/",
+   "collections": [
+    "artistes-robots-2018"
+   ],
+   "exhibited": [
+    "Creative Machines, Goldsmiths, London, 2014",
+    "Artistes & Robots, Grand Palais, Paris, 2018"
+   ]
+  },
+  {
+   "id": "max-dovey--a-hipster-bar",
+   "creator_ids": [
+    "max-dovey"
+   ],
+   "title": "A Hipster Bar",
+   "year": 2015,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "A pop-up bar whose barrier opens only for people an image classifier rates at least 90% 'hipster'; those who pass get a free drink.",
+   "description_zh": "一家快闪酒吧，只有被图像分类器判定“潮人度”至少 90% 的人，门口的栏杆才会打开；通过的人可获赠一杯免费饮料。",
+   "idea_en": "Automated gatekeeping by appearance looks absurd when the category is 'hipster', and is no less absurd when it is anything else.",
+   "idea_zh": "按长相自动把关，当类别是“潮人”时显得荒唐；换成任何别的类别，也一样荒唐。",
+   "method": "A webcam at the door sends each face to a classifier trained on thousands of Instagram images of hipsters (with Imagga); a Raspberry Pi lifts a motorised barrier when the score is high enough. Developed with V2_.",
+   "method_zh": "门口的网络摄像头把每张脸发送给一个用数千张 Instagram “潮人”照片训练的分类器（与 Imagga 合作）；分数达标时，树莓派抬起电动栏杆。与 V2_ 合作开发。",
+   "keywords": [
+    "image classification",
+    "Instagram",
+    "door policy",
+    "V2_",
+    "Imagga"
+   ],
+   "images": [
+    "https://www.maxdovey.com/assets/images/projects/hipsterbar/1.jpg",
+    "https://www.maxdovey.com/assets/images/projects/hipsterbar/2.jpg"
+   ],
+   "source_url": "https://www.maxdovey.com/hipsterbar/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "iyo-bisseck--the-human-detector",
+   "creator_ids": [
+    "iyo-bisseck"
+   ],
+   "title": "The Human Detector",
+   "year": 2018,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A game installation in which the player must press a button without being detected as a human by a camera; players crawl, hide under cloth or pose as objects to slip past the machine's eye.",
+   "description_zh": "一件游戏装置：玩家必须在不被摄像头识别为“人”的情况下按下按钮；他们匍匐、披上布料或假扮成物件，设法躲过机器的眼睛。",
+   "idea_en": "Bisseck turns the experience of face trackers failing to see dark skin into a game in which everyone has to work at being unseen.",
+   "idea_zh": "Bisseck 把深色皮肤不被人脸追踪器看见的经历，变成一场所有人都要努力“不被看见”的游戏。",
+   "method": "A camera linked to PoseNet, a real-time pose-estimation model, watches the space; a press counts only if no body part (face, shoulder, elbow) is detected. Made during a machine-learning workshop at ECAL.",
+   "method_zh": "摄像头连接实时姿态估计模型 PoseNet 监视空间；只有在未检测到任何身体部位（脸、肩、肘）时按下按钮才算成功。作品诞生于 ECAL 的一次机器学习工作坊。",
+   "keywords": [
+    "PoseNet",
+    "face detection",
+    "skin tone",
+    "algorithmic bias",
+    "game",
+    "ECAL"
+   ],
+   "video": {
+    "url": "https://vimeo.com/347283293"
+   },
+   "images": [
+    "https://share.hek.ch/wp-content/uploads/2019/08/iyo.jpg"
+   ],
+   "source_url": "https://share.hek.ch/en/ai-can-you-see-me/",
+   "collections": [
+    "machine-vision-db"
+   ]
+  },
+  {
+   "id": "nicolas-gourault--faces-in-the-mist",
+   "creator_ids": [
+    "nicolas-gourault"
+   ],
+   "title": "Faces in the Mist",
+   "year": 2017,
+   "field": "perception",
+   "sub": "faces",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "An installation in which a face-recognition bot watches a stream of clouds, searching it for the faces of historical figures involved in weather and climate manipulation, and builds an obsessive 'hall of fame' of its finds.",
+   "description_zh": "一件装置：一个人脸识别机器人注视着云的影像流，在其中搜寻与气象和气候操控有关的历史人物的脸，并把它的“发现”堆积成一座偏执的“名人堂”。",
+   "idea_en": "Misused on clouds, face recognition becomes a machine of pareidolia, an augur reading the sky for signs.",
+   "idea_zh": "被挪去看云的人脸识别变成一台“空想性错视”机器，像古罗马的占卜师一样从天空中解读征兆。",
+   "method": "Made with Antoine Chapon: a TensorFlow-based face recogniser, its memory filled with portraits of geoengineering figures, runs on Raspberry Pis over cloud footage; matches appear on screens set into framed black-and-white photographs.",
+   "method_zh": "与 Antoine Chapon 合作：基于 TensorFlow 的人脸识别程序，记忆中装满地球工程相关人物的肖像，在树莓派上处理云层影像；匹配结果显示在嵌入黑白装裱照片的屏幕上。",
+   "keywords": [
+    "pareidolia",
+    "face recognition",
+    "clouds",
+    "geoengineering",
+    "TensorFlow",
+    "Antoine Chapon"
+   ],
+   "images": [
+    "https://www.nicolasgourault.fr/thumbs/fitm_zkm_1-204e4739d20385fbe9052b336f88df3b.jpg",
+    "https://www.nicolasgourault.fr/thumbs/a1-6e7cfc3d19933ee7b5f0559991f67648.jpg"
+   ],
+   "source_url": "https://www.nicolasgourault.fr/films/faces-in-the-mist"
+  },
+  {
+   "id": "bruno-moreschi--outra-33-bienal",
+   "creator_ids": [
+    "bruno-moreschi",
+    "gabriel-pereira"
+   ],
+   "title": "Outra 33ª Bienal de São Paulo",
+   "year": 2018,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "Commissioned by the 33rd São Paulo Biennial, an alternative archive of the show: computer-vision systems describe photos and footage of its installation and old archive images, and audio-guide tracks carry the comments of guards, installers and cleaners.",
+   "description_zh": "受第 33 届圣保罗双年展委托的一份另类档案：计算机视觉系统描述展览布展的照片、影像和历史档案图像，语音导览则播放保安、布展工和清洁工的评论。",
+   "idea_en": "Letting machines and unseen workers describe an art biennial shows how official and automated ways of seeing both decide what counts as the work.",
+   "idea_zh": "让机器和不被看见的工作者来描述一场艺术双年展，揭示出官方与自动化的观看方式都在决定什么算作“作品”。",
+   "method": "Several commercial image-recognition and captioning services label photos and footage of the biennial and its archive; results, unconventional footage of the set-up and interviews are published on a website with the Fundação Bienal. With Bernardo Fontes, Nina Bamberg and Guilherme Falcão.",
+   "method_zh": "多种商业图像识别与描述服务为双年展及其档案的照片和影像打标签；结果、非常规的布展影像与访谈发布在与圣保罗双年展基金会合作的网站上。合作者还有 Bernardo Fontes、Nina Bamberg 和 Guilherme Falcão。",
+   "keywords": [
+    "São Paulo Biennial",
+    "image captioning",
+    "invisible labour",
+    "archive",
+    "computer vision"
+   ],
+   "video": {
+    "url": "https://vimeo.com/304188271"
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/0b2c27c426059f35eb9209ca83cc73fd1e01ed3ff7343c62032f1d71ccd3061d/bienal5.jpg",
+    "https://freight.cargo.site/t/original/i/a94c354d81725099357ce4f666ee06df0089cf207fb041d3bec7cee6dd23636b/bienal3.jpg"
+   ],
+   "source_url": "https://brunomoreschi.com/Outra-33-Bienal",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "33ª Bienal de São Paulo, 2018 (commission)"
+   ]
+  },
+  {
+   "id": "cantoni-crescenti--speak",
+   "creator_ids": [
+    "cantoni-crescenti"
+   ],
+   "title": "SPEAK (FALA)",
+   "year": 2011,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Sixteen mobile phones on stands, paired to recognise speech in eight languages, hold an endless 'conversation': each hears a word, picks a related term from a dictionary and says it aloud, while a central microphone lets visitors cut in.",
+   "description_zh": "十六部架在支架上的手机两两成对，识别八种语言的语音，进行一场无尽的“对话”：每部手机听到一个词，就从词典中挑一个相关词说出来；访客可以通过中央的麦克风插话。",
+   "idea_en": "Machines talking to machines through cognates and mishearings reduce language to recognition and lookup, and the humans become the interruption.",
+   "idea_zh": "机器借同源词和误听彼此交谈，语言被还原为识别与查表，人类反倒成了插话者。",
+   "method": "Phones run speech recognition and synthesis in German, Spanish, French, English, Italian, Chinese, Latin and Portuguese; each recognised word selects the next related term, played through loudspeakers and visualised on the screens.",
+   "method_zh": "手机运行德语、西班牙语、法语、英语、意大利语、中文、拉丁语和葡萄牙语的语音识别与合成；每个被识别的词决定下一个相关词，经扬声器播出并在屏幕上可视化。",
+   "keywords": [
+    "speech recognition",
+    "mobile phones",
+    "machine-to-machine",
+    "cognates",
+    "Emoção Art.ficial",
+    "thingworld"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7xU4STAh8cQ"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/594adb112cba5e36fd5469a0/1502487376928-2JORPU2HBDWITE4TLII3/001.jpg",
+    "https://images.squarespace-cdn.com/content/v1/594adb112cba5e36fd5469a0/1502487373667-PB5S3ED4VCYTEIJO02S4/002.jpg"
+   ],
+   "source_url": "https://www.cantoni-crescenti.com.br/speak-fala",
+   "collections": [
+    "vida-awards"
+   ],
+   "exhibited": [
+    "VIDA 13.2 production incentive, Fundación Telefónica, 2011",
+    "Festival Internacional de la Imagen, Museo de Arte de Caldas, Manizales, 2011",
+    "Emoção Art.ficial 6.0, Itaú Cultural, São Paulo, 2012",
+    "thingworld: International Triennial of New Media Art, National Museum of China, Beijing, 2014"
+   ]
+  },
+  {
+   "id": "tomas-laurenzo--smile",
+   "creator_ids": [
+    "tomas-laurenzo"
+   ],
+   "title": "Smile",
+   "year": 2014,
+   "field": "perception",
+   "sub": "faces",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "artwork",
+   "description": "A black screen in a black box plays slowed-down drone footage of the ruins of Gaza only while the viewer smiles broadly at it; when the smile stops, the video stops.",
+   "description_zh": "黑盒子里的一块黑屏，只有当观者对它咧嘴微笑时，才会播放放慢的加沙废墟无人机航拍；笑容一停，影像也停。",
+   "idea_en": "Making the sight of destruction depend on a performed smile turns emotion recognition into a test of how we consume war as spectacle.",
+   "idea_zh": "让观看毁灭以“表演出来的微笑”为条件，情绪识别就成了一场检验我们如何把战争当作奇观来消费的测试。",
+   "method": "Face detection and smile recognition on a camera feed gate the playback of drone footage of Gaza after the 2014 war, slowed down by the artist.",
+   "method_zh": "摄像头画面上的人脸检测与微笑识别控制视频播放，视频是艺术家放慢处理的 2014 年战争后加沙无人机航拍。",
+   "keywords": [
+    "emotion recognition",
+    "smile detection",
+    "Gaza",
+    "drone footage",
+    "war as spectacle"
+   ],
+   "video": {
+    "url": "https://vimeo.com/338535511"
+   },
+   "images": [
+    "https://laurenzo.net/media/projects/smile/cover.webp",
+    "https://laurenzo.net/media/projects/smile/smilea.webp"
+   ],
+   "source_url": "https://laurenzo.net/projects/smile/",
+   "collections": [
+    "machine-vision-db"
+   ],
+   "exhibited": [
+    "SIGGRAPH Asia, Brisbane, 2019",
+    "NeurIPS, Vancouver, 2019",
+    "Ars Electronica Garden Hong Kong, 2020"
+   ]
+  },
+  {
+   "id": "coding-rights--not-my-ai",
+   "creator_ids": [
+    "coding-rights"
+   ],
+   "title": "Not My A.I.",
+   "year": 2021,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "A feminist research project that maps algorithmic decision-making systems deployed by governments in Latin America, such as a platform built with Microsoft in Salta, Argentina, to predict teenage pregnancy and Chile's child-welfare alert system, and names the patterns of 'oppressive AI' they share.",
+   "description_zh": "一项女性主义研究项目，梳理拉丁美洲各国政府部署的算法决策系统，例如阿根廷萨尔塔省与微软合作、用来预测少女怀孕的平台，以及智利的儿童福利预警系统，并归纳出它们共有的“压迫性 AI”模式。",
+   "idea_en": "Public-sector AI in the Global South often automates old forms of control over poor, female and racialised bodies under the language of efficiency and welfare.",
+   "idea_zh": "全球南方的公共部门 AI，常常在效率与福利的说辞下，把对贫困者、女性和种族化身体的旧式控制自动化。",
+   "method": "Joana Varon and Paz Peña combine case studies, a map of biased and harmful AI projects in Latin America and a set of feminist analytic categories, published on notmy.ai under a Creative Commons licence.",
+   "method_zh": "Joana Varon 与 Paz Peña 结合案例研究、拉丁美洲有偏见与有害 AI 项目地图，以及一套女性主义分析范畴，以知识共享许可发布在 notmy.ai 上。",
+   "keywords": [
+    "feminism",
+    "Latin America",
+    "public-sector algorithms",
+    "Salta",
+    "Paz Peña",
+    "Joana Varon"
+   ],
+   "images": [
+    "https://notmy.ai/wp-content/uploads/2021/04/share.png"
+   ],
+   "paper": {
+    "url": "https://notmy.ai/news/oppressive-a-i-feminist-categories-to-understand-its-political-effects/",
+    "venue": "notmy.ai (Coding Rights), 2021",
+    "title": "Oppressive A.I.: Feminist Categories to Understand its Political Effects"
+   },
+   "source_url": "https://notmy.ai/"
+  },
+  {
+   "id": "laura-poitras--citizenfour",
+   "creator_ids": [
+    "laura-poitras"
+   ],
+   "title": "Citizenfour",
+   "year": 2014,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "infrastructure",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A documentary filmed largely in a Hong Kong hotel room in June 2013, as Edward Snowden hands journalists the documents that revealed the NSA's mass-surveillance programmes.",
+   "description_zh": "一部纪录片，主要拍摄于 2013 年 6 月香港的一间酒店房间：爱德华·斯诺登正把揭露美国国家安全局大规模监控项目的文件交给记者。",
+   "idea_en": "Mass surveillance is an invisible machine of cables, databases and search tools; the film shows what it takes, and costs, to make it visible.",
+   "idea_zh": "大规模监控是一台由光缆、数据库和检索工具构成的隐形机器；影片展示了让它显形需要付出什么、代价几何。",
+   "method": "Observational footage shot by Poitras during the meetings with Snowden, Glenn Greenwald and Ewen MacAskill, combined with encrypted messages and later reporting on programmes such as PRISM and XKeyscore.",
+   "method_zh": "Poitras 在与斯诺登、格伦·格林沃尔德和尤恩·麦卡斯基尔会面时拍下的观察式影像，结合加密通信以及其后关于 PRISM、XKeyscore 等项目的报道。",
+   "keywords": [
+    "Edward Snowden",
+    "NSA",
+    "PRISM",
+    "mass surveillance",
+    "Academy Award"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qfjztdU0_eo"
+   },
+   "source_url": "https://citizenfourfilm.com/",
+   "exhibited": [
+    "New York Film Festival, 2014 (premiere)",
+    "Academy Award for Best Documentary Feature, 2015"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Tomás Laurenzo — Memoirs of the Blind (2018)",
+   "why": "Installation that captures and shows visitors only when the face detector sees their eyes closed; in the machine-vision database; laurenzo.net/projects/memoirs-of-the-blind/.",
+   "link": "https://laurenzo.net/projects/memoirs-of-the-blind/",
+   "found_via": "tomas-laurenzo",
+   "status": "open"
+  },
+  {
+   "name": "Iyo Bisseck — Face Access (2019)",
+   "why": "Fictional admissions platform that runs Face++ on photos from Lausanne schools to show applicants their 'chances' by age, gender and ethnicity; screenshot on HEK blog.",
+   "link": "https://share.hek.ch/en/ai-can-you-see-me/",
+   "found_via": "iyo-bisseck",
+   "status": "open"
+  },
+  {
+   "name": "Suzanne Kite — Pȟehíŋ kiŋ líla akhíšoke (Her hair was heavy) (2019)",
+   "why": "Performance in which Kite's 50-foot hair-braid computer controls sonified AI-generated text and the system decides how projections change; companion to Íŋyaŋ Iyé.",
+   "link": "https://www.kitekitekitekite.com/portfolio/peh-ki-lla-akhoke-her-hair-was-heavy-2019",
+   "found_via": "suzanne-kite",
+   "status": "open"
+  },
+  {
+   "name": "Laura Poitras — Astro Noise (Whitney Museum, 2016)",
+   "why": "Immersive exhibition built from Snowden-archive material, drone and surveillance imagery; Poitras's main gallery work on mass surveillance.",
+   "link": "https://whitney.org/exhibitions/laura-poitras",
+   "found_via": "laura-poitras",
+   "status": "open"
+  },
+  {
+   "name": "Sondra Perry — netherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 1.0.3 (2016)",
+   "why": "Video juxtaposing the Windows 'blue screen of death', police violence and an avatar of the artist (The Kitchen, Resident Evil, 2016).",
+   "link": "https://en.wikipedia.org/wiki/Sondra_Perry",
+   "found_via": "sondra-perry",
+   "status": "open"
+  },
+  {
+   "name": "The World Through AI (Jeu de Paume 2025; Schirn Frankfurt 2026) — further members",
+   "why": "Schirn's artist list includes Harun Farocki, Julien Prévieux, Adam Harvey, Holly Herndon & Mat Dryhurst, Trevor Paglen, George Legrady, Timo Arnall; the exact works shown were not verified, so no world-through-ai-2025 tags were added.",
+   "link": "https://www.schirn.de/en/exhibition/the-world-through-ai/detail/",
+   "found_via": "world-through-ai-2025",
+   "status": "open"
+  },
+  {
+   "name": "Matteo Pasquinelli & Vladan Joler — Nooscope diagram image",
+   "why": "nooscope.ai now belongs to a squatter; the full map survives only as an SVG in the Wayback Machine (Nooscope_00_Map.svg). A raster copy would give the work a visual.",
+   "link": "https://web.archive.org/web/2020/https://nooscope.ai/",
+   "found_via": "matteo-pasquinelli",
+   "status": "open"
+  }
+ ]
+}

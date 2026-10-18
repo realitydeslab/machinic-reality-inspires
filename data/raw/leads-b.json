@@ -1,0 +1,1166 @@
+{
+ "batch": "leads-b",
+ "creators": [
+  {
+   "id": "w-ross-ashby",
+   "name": "W. Ross Ashby",
+   "name_zh": "罗斯·艾什比",
+   "kind": "person",
+   "role": "Psychiatrist and cybernetician (1903–1972)",
+   "based": "Gloucester, UK; Urbana, US",
+   "bio": "English psychiatrist who built the Homeostat at Barnwood House Hospital in 1948 and wrote Design for a Brain (1952) and An Introduction to Cybernetics (1956); from 1961 he worked at the Biological Computer Laboratory of the University of Illinois.",
+   "why": "His Homeostat and his theory of ultrastability made adaptation something a machine could do, a founding idea for cybernetic and artificial-life art.",
+   "disciplines": [
+    "theory",
+    "robotics"
+   ],
+   "links": {
+    "site": "http://www.rossashby.info/"
+   },
+   "role_zh": "精神科医生、控制论学者（1903–1972）",
+   "based_zh": "格洛斯特，英国；厄巴纳，美国",
+   "bio_zh": "英国精神科医生，1948 年在巴恩伍德之家医院造出同态调节器，著有《大脑设计》（1952）和《控制论导论》（1956）；1961 年起任职于伊利诺伊大学生物计算机实验室。",
+   "why_zh": "他的同态调节器与“超稳定性”理论让适应成为机器也能做到的事，是控制论艺术与人工生命艺术的奠基思想之一。",
+   "connected_to": [
+    "norbert-wiener"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "architecture-machine-group",
+   "name": "Architecture Machine Group (MIT)",
+   "kind": "lab",
+   "role": "MIT research lab for computers in design (1967–1985)",
+   "based": "Cambridge, US",
+   "bio": "Founded at MIT in 1967 by Nicholas Negroponte and Leon Groisser to explore computers as partners in architectural design; it developed interactive graphics and early hypermedia such as the Aspen Movie Map, and became a core of the MIT Media Lab in 1985.",
+   "why": "Its SEEK (1970) put a robotic 'architect' in charge of a small world inhabited by living animals, an early case of a machine failing to model those it serves.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "role_zh": "麻省理工学院的设计计算研究实验室（1967–1985）",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio_zh": "1967 年由 Nicholas Negroponte 与 Leon Groisser 在麻省理工学院创立，研究计算机如何成为建筑设计的伙伴；开发了交互图形与 Aspen Movie Map 等早期超媒体，1985 年成为 MIT 媒体实验室的核心前身。",
+   "why_zh": "它的 SEEK（1970）让一台机器“建筑师”管理一个住着活体动物的小世界，是机器无法理解其服务对象的早期案例。",
+   "connected_to": [
+    "jack-burnham"
+   ],
+   "discovered_via": "jack-burnham",
+   "name_zh": "",
+   "links": {}
+  },
+  {
+   "id": "kazuo-ishiguro",
+   "name": "Kazuo Ishiguro",
+   "name_zh": "石黑一雄",
+   "kind": "person",
+   "role": "Novelist; Nobel Prize in Literature 2017",
+   "based": "London, UK",
+   "bio": "British novelist born in Nagasaki in 1954, author of The Remains of the Day and Never Let Me Go; awarded the Nobel Prize in Literature in 2017.",
+   "why": "Klara and the Sun gives a machine narrator a coherent, limited and loving view of the world, one of the most widely read portraits of machine interiority.",
+   "disciplines": [
+    "theory"
+   ],
+   "role_zh": "小说家，2017 年诺贝尔文学奖得主",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "英国小说家，1954 年生于长崎，著有《长日将尽》《别让我走》，2017 年获诺贝尔文学奖。",
+   "why_zh": "《克拉拉与太阳》让一个机器叙述者拥有连贯、有限而充满爱意的世界观，是流传最广的机器内在性书写之一。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  },
+  {
+   "id": "jonathan-nolan-lisa-joy",
+   "name": "Jonathan Nolan & Lisa Joy",
+   "name_zh": "乔纳森·诺兰 & 丽莎·乔伊",
+   "kind": "studio",
+   "role": "Screenwriters, producers and showrunners (Kilter Films)",
+   "based": "Los Angeles, US",
+   "bio": "Writing and producing partners who created and ran HBO's Westworld (2016–2022); Nolan earlier created the surveillance-AI drama Person of Interest (2011–2016).",
+   "why": "Westworld brought questions of machine memory, suffering and consciousness to a mass television audience.",
+   "disciplines": [
+    "film"
+   ],
+   "role_zh": "编剧、制片人与剧集主创（Kilter Films）",
+   "based_zh": "洛杉矶，美国",
+   "bio_zh": "一对编剧与制片搭档，创作并主理 HBO 剧集《西部世界》（2016–2022）；诺兰此前还创作了关于监控 AI 的剧集《疑犯追踪》（2011–2016）。",
+   "why_zh": "《西部世界》把机器的记忆、痛苦与意识问题带给了大众电视观众。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  },
+  {
+   "id": "kerstin-dautenhahn",
+   "name": "Kerstin Dautenhahn",
+   "kind": "person",
+   "role": "Roboticist; Professor and Canada 150 Research Chair in Intelligent Robotics, University of Waterloo",
+   "based": "Waterloo, CA",
+   "bio": "German-born researcher in social robotics who led the Adaptive Systems Research Group at the University of Hertfordshire, where the KASPAR robot was developed from 2005, before moving to the University of Waterloo.",
+   "why": "Her work on KASPAR and robot-assisted play made a minimally expressive robot a tool in autism therapy and a key case for care robotics.",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "role_zh": "机器人学家，滑铁卢大学教授、加拿大 150 智能机器人研究讲席",
+   "based_zh": "滑铁卢，加拿大",
+   "bio_zh": "德国出生的社交机器人研究者，曾领导赫特福德大学自适应系统研究组，KASPAR 机器人自 2005 年起在那里开发；之后转往滑铁卢大学。",
+   "why_zh": "她围绕 KASPAR 和机器人辅助游戏的研究，让一个表情极简的机器人成为自闭症干预的工具，也成为照护机器人的关键案例。",
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  },
+  {
+   "id": "ryan-white",
+   "name": "Ryan White",
+   "kind": "person",
+   "role": "Documentary film director",
+   "based": "Los Angeles, US",
+   "bio": "American documentary director whose films include The Case Against 8 (2014), The Keepers (2017) and Good Night Oppy (2022).",
+   "why": "Good Night Oppy is one of the most widely seen films about people grieving a machine.",
+   "disciplines": [
+    "film"
+   ],
+   "role_zh": "纪录片导演",
+   "based_zh": "洛杉矶，美国",
+   "bio_zh": "美国纪录片导演，作品包括《反对八号提案》（2014）、《守护者》（2017）和《晚安机遇号》（2022）。",
+   "why_zh": "《晚安机遇号》是关于人们哀悼一台机器的传播最广的影片之一。",
+   "connected_to": [
+    "nasa-jpl"
+   ],
+   "discovered_via": "nasa-jpl",
+   "name_zh": "",
+   "links": {}
+  },
+  {
+   "id": "berg",
+   "name": "BERG",
+   "kind": "studio",
+   "role": "Design and invention studio (2005–2014)",
+   "based": "London, UK",
+   "bio": "London studio founded as Schulze & Webb by Jack Schulze and Matt Webb and later renamed BERG, with Matt Jones as a principal; known for Little Printer, the Making Future Magic films and design fictions about connected products.",
+   "why": "Its 'Be As Smart As A Puppy' principle argued for modest, legible and endearing machine intelligence instead of imitations of the human mind.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://berglondon.com"
+   },
+   "role_zh": "设计与发明工作室（2005–2014）",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "伦敦工作室，由 Jack Schulze 与 Matt Webb 以 Schulze & Webb 之名创立，后更名为 BERG，Matt Jones 为合伙人之一；代表作有 Little Printer、Making Future Magic 系列影片，以及关于联网产品的设计虚构。",
+   "why_zh": "它提出的“像小狗一样聪明”原则主张：机器智能应当克制、可读、讨人喜欢，而不是模仿人的心智。",
+   "connected_to": [
+    "rodney-brooks"
+   ],
+   "name_zh": "",
+   "discovered_via": "seed"
+  },
+  {
+   "id": "storyfile",
+   "name": "StoryFile",
+   "kind": "company",
+   "role": "Conversational video AI company",
+   "based": "Los Angeles, US",
+   "bio": "Company founded by Heather Maio and Stephen Smith that records people answering many questions on video so that others can later ask questions aloud and hear the best-matching answer; it grew out of the USC Shoah Foundation's Dimensions in Testimony.",
+   "why": "Its interactive memorial videos turned an archive of a person's answers into a way for the dead to seem to reply.",
+   "disciplines": [
+    "hci"
+   ],
+   "role_zh": "对话式视频 AI 公司",
+   "based_zh": "洛杉矶，美国",
+   "bio_zh": "由 Heather Maio 与 Stephen Smith 创立的公司：让人对着镜头回答大量问题，之后他人可以开口提问，系统播放最匹配的回答；它源自南加州大学大屠杀基金会的 Dimensions in Testimony 项目。",
+   "why_zh": "它的互动纪念视频把一个人的回答档案变成了让逝者“似乎在回应”的方式。",
+   "connected_to": [
+    "usc-shoah-foundation"
+   ],
+   "discovered_via": "usc-shoah-foundation",
+   "name_zh": "",
+   "links": {}
+  },
+  {
+   "id": "stephan-von-huene",
+   "name": "Stephan von Huene",
+   "kind": "person",
+   "role": "Sculptor and sound artist (1932–2000)",
+   "based": "Hamburg, DE",
+   "bio": "American-German artist born in Los Angeles who moved to Germany in 1980 and built kinetic sound sculptures that play, speak and dance, many of them computer-controlled; his estate is held at ZKM Karlsruhe.",
+   "why": "His sound sculptures treat listening, speech and rhythm as things a machine does with its own body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.stephanvonhuene.de/en/"
+   },
+   "role_zh": "雕塑家、声音艺术家（1932–2000）",
+   "based_zh": "汉堡，德国",
+   "bio_zh": "生于洛杉矶的美德艺术家，1980 年移居德国，制作会演奏、说话和舞蹈的动态声音雕塑，其中许多由计算机控制；遗产由卡尔斯鲁厄 ZKM 保管。",
+   "why_zh": "他的声音雕塑把聆听、言语与节奏当作机器用自己的身体去完成的事。",
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "patrick-butlin",
+   "name": "Patrick Butlin",
+   "kind": "person",
+   "role": "Philosopher; Senior Research Lead, Eleos AI",
+   "based": "Oxford, UK",
+   "bio": "Philosopher with a PhD from King's College London who works on AI consciousness, agency and moral patienthood; he previously worked at the Future of Humanity Institute and the Global Priorities Institute in Oxford.",
+   "why": "He is lead author of the most widely cited indicator-based assessment of whether AI systems could be conscious.",
+   "disciplines": [
+    "theory"
+   ],
+   "role_zh": "哲学家，Eleos AI 高级研究负责人",
+   "based_zh": "牛津，英国",
+   "bio_zh": "哲学家，伦敦国王学院博士，研究 AI 的意识、能动性与道德受动者地位；曾任职于牛津的人类未来研究所和全球优先事项研究所。",
+   "why_zh": "他是一份被广泛引用的、以“指标”评估 AI 系统能否有意识的报告的第一作者。",
+   "connected_to": [
+    "robert-long"
+   ],
+   "discovered_via": "robert-long",
+   "name_zh": "",
+   "links": {}
+  },
+  {
+   "id": "friedrich-kittler",
+   "name": "Friedrich Kittler",
+   "name_zh": "弗里德里希·基特勒",
+   "kind": "person",
+   "role": "Media theorist (1943–2011)",
+   "based": "Berlin, DE",
+   "bio": "German literary scholar and media theorist, professor of aesthetics and media history at Humboldt University of Berlin, whose Discourse Networks 1800/1900 and Gramophone, Film, Typewriter founded German media theory.",
+   "why": "He insisted that machines of storage and transmission, not human intentions, set the conditions of what can be perceived and said.",
+   "disciplines": [
+    "theory"
+   ],
+   "role_zh": "媒介理论家（1943–2011）",
+   "based_zh": "柏林，德国",
+   "bio_zh": "德国文学学者与媒介理论家，柏林洪堡大学美学与媒介史教授，《话语网络 1800/1900》与《留声机 电影 打字机》奠定了德国媒介理论。",
+   "why_zh": "他坚持认为，决定什么可以被感知、被言说的，是存储与传输的机器，而不是人的意图。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  },
+  {
+   "id": "virginia-eubanks",
+   "name": "Virginia Eubanks",
+   "name_zh": "弗吉尼亚·尤班克斯",
+   "kind": "person",
+   "role": "Political scientist; Associate Professor, University at Albany, SUNY",
+   "based": "Albany, US",
+   "bio": "American political scientist who studies technology and social justice; author of Digital Dead End (2011) and Automating Inequality (2018).",
+   "why": "Her reporting shows how automated eligibility, ranking and risk systems are applied first and hardest to poor people.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "role_zh": "政治学者，纽约州立大学奥尔巴尼分校副教授",
+   "based_zh": "奥尔巴尼，美国",
+   "bio_zh": "美国政治学者，研究技术与社会正义，著有《数字死胡同》（2011）和《自动不平等》（2018）。",
+   "why_zh": "她的调查表明，自动化的资格审核、排序与风险评估系统最先、也最严厉地施加在穷人身上。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  },
+  {
+   "id": "tom-ziemke",
+   "name": "Tom Ziemke",
+   "kind": "person",
+   "role": "Professor of Cognitive Systems, Linköping University",
+   "based": "Linköping, SE",
+   "bio": "German-born cognitive scientist in Sweden working on embodied cognition and on how people interact with robots and automated vehicles.",
+   "why": "His papers with Noel Sharkey brought Jakob von Uexküll's umwelt theory into robotics and artificial-life research.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "role_zh": "林雪平大学认知系统教授",
+   "based_zh": "林雪平，瑞典",
+   "bio_zh": "在瑞典工作的德国出生认知科学家，研究具身认知，以及人如何与机器人和自动驾驶车辆互动。",
+   "why_zh": "他与 Noel Sharkey 合作的论文把于克斯屈尔的“环世界”理论引入了机器人学与人工生命研究。",
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  },
+  {
+   "id": "kevin-roose",
+   "name": "Kevin Roose",
+   "name_zh": "凯文·鲁斯",
+   "kind": "person",
+   "role": "Technology columnist, The New York Times",
+   "based": "San Francisco Bay Area, US",
+   "bio": "American journalist who writes about technology for The New York Times and co-hosts the podcast Hard Fork; author of Futureproof (2021).",
+   "why": "His February 2023 conversation with Bing's chatbot 'Sydney' became the defining public account of a language model's unsettling persona.",
+   "disciplines": [
+    "theory"
+   ],
+   "role_zh": "《纽约时报》科技专栏作家",
+   "based_zh": "旧金山湾区，美国",
+   "bio_zh": "美国记者，为《纽约时报》撰写科技报道，并主持播客 Hard Fork；著有《未来防御》（Futureproof，2021）。",
+   "why_zh": "他在 2023 年 2 月与必应聊天机器人“Sydney”的对话，成为公众认识语言模型令人不安的“人格”的标志性记录。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "links": {}
+  }
+ ],
+ "works": [
+  {
+   "id": "w-ross-ashby--homeostat",
+   "creator_ids": [
+    "w-ross-ashby"
+   ],
+   "title": "Homeostat",
+   "year": 1948,
+   "field": "bodies",
+   "sub": "cybernetic",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "prototype",
+   "description": "Four interconnected units, each topped by a pivoting magnet needle, keep themselves stable: when someone disturbs a unit or rewires them, the machine switches its own circuit settings at random until all needles settle back at the centre. In 1949 Time called it 'the closest thing to a synthetic brain so far designed by man'.",
+   "description_zh": "四个相互连接的单元，顶部各有一枚可转动的磁针。有人扰动某个单元或改接线路时，机器会随机切换自身的电路设定，直到所有磁针重新回到中央。1949 年《时代》杂志称它是“迄今人类设计出的最接近人造大脑的东西”。",
+   "idea_en": "Adaptation can be built without a model of the world: a machine that blindly tries new settings until it is calm again already behaves like something that learns.",
+   "idea_zh": "适应不一定需要关于世界的模型：一台盲目尝试新设定、直到重新平静下来的机器，已经表现得像是在学习。",
+   "method": "Four ex-RAF bomb-control units coupled by feedback; each unit's magnet drives a needle dipping into a water-filled trough, and stepping switches (uniselectors) re-set the connections at random whenever a needle leaves its limits, which Ashby called ultrastability.",
+   "method_zh": "四个由英国皇家空军投弹控制单元改装的模块通过反馈耦合；每个单元的磁铁带动一根浸入水槽的指针，一旦指针超出界限，步进选择开关就随机重设连接，艾什比称之为“超稳定性”。",
+   "keywords": [
+    "cybernetics",
+    "ultrastability",
+    "homeostasis",
+    "Barnwood House",
+    "Macy conferences",
+    "adaptive machine"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Homeostat",
+   "exhibited": [
+    "Ninth Macy Conference on Cybernetics, New York, 1952"
+   ]
+  },
+  {
+   "id": "w-ross-ashby--design-for-a-brain",
+   "creator_ids": [
+    "w-ross-ashby"
+   ],
+   "title": "Design for a Brain",
+   "year": 1952,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Ashby explains adaptive behaviour in animals and machines with one mechanism: a system whose 'essential variables' must stay within limits changes its own parameters, step by step, until they do. The Homeostat serves as the worked example.",
+   "description_zh": "艾什比用一个机制解释动物与机器的适应行为：一个系统的“基本变量”必须保持在界限之内，于是它一步步改变自身参数，直到做到这一点。同态调节器是书中的实例。",
+   "idea_en": "Learning may be nothing more mysterious than a system searching its own settings until it can survive its environment.",
+   "idea_zh": "学习也许并不神秘：不过是一个系统不断搜索自身设定，直到能在环境中存活下来。",
+   "method": "A mathematical theory of state-determined systems, stability and ultrastability, illustrated with experiments on the Homeostat; a revised second edition followed in 1960.",
+   "method_zh": "一套关于状态决定系统、稳定性与超稳定性的数学理论，并以同态调节器的实验加以说明；1960 年出版修订第二版。",
+   "keywords": [
+    "cybernetics",
+    "ultrastability",
+    "adaptive behaviour",
+    "Homeostat",
+    "essential variables"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/5952056-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-94-015-1320-3",
+    "doi": "10.1007/978-94-015-1320-3",
+    "arxiv": "",
+    "venue": "Chapman & Hall, 1952; 2nd rev. ed. 1960",
+    "title": "Design for a Brain"
+   },
+   "source_url": "https://archive.org/details/designforbrain00ashb"
+  },
+  {
+   "id": "architecture-machine-group--seek",
+   "creator_ids": [
+    "architecture-machine-group"
+   ],
+   "title": "SEEK",
+   "year": 1970,
+   "field": "bodies",
+   "sub": "arms",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-arm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Inside a glass enclosure, a computer-driven electromagnet on a gantry stacks and straightens small metal cubes while a colony of gerbils keeps knocking them over; the machine tries to keep its 'city' in order and to adjust its model to the changes the animals make. At the Jewish Museum the system kept breaking down and the gerbils fought each other.",
+   "description_zh": "在一个玻璃围栏里，一台由计算机驱动、装在龙门架上的电磁铁不断堆叠、摆正小金属方块，而一群沙鼠不停地把它们撞倒；机器试图维持它的“城市”秩序，并按动物造成的变化调整自己的模型。在犹太博物馆展出期间，系统屡屡宕机，沙鼠也彼此争斗。",
+   "idea_en": "A machine that manages a world for its inhabitants has to guess what they want, and the inhabitants keep proving its model wrong.",
+   "idea_zh": "替居民管理世界的机器必须猜测他们想要什么，而居民总在证明它的模型是错的。",
+   "method": "A small computer drives a gantry robot with an electromagnet end-effector and pressure sensors over a field of metal-plated blocks, compares the scene with a stored 3D plan and restacks or realigns blocks; built by Nicholas Negroponte's Architecture Machine Group at MIT.",
+   "method_zh": "一台小型计算机控制带电磁铁末端和压力传感器的龙门机器人，在一片包覆金属的积木上移动，把现场与存储的三维规划比对，再重新堆叠或摆正积木；由 Nicholas Negroponte 领导的 MIT 建筑机器组制作。",
+   "keywords": [
+    "Nicholas Negroponte",
+    "Jack Burnham",
+    "Software 1970",
+    "gerbils",
+    "blocks world",
+    "robotic architecture"
+   ],
+   "images": [
+    "https://cyberneticzoo.com/wp-content/uploads/Seek_p3-x640.jpg",
+    "https://cyberneticzoo.com/wp-content/uploads/gerbs-x640.jpg"
+   ],
+   "source_url": "https://cyberneticzoo.com/?p=3794",
+   "exhibited": [
+    "Software — Information Technology: Its New Meaning for Art, Jewish Museum, New York, 1970"
+   ]
+  },
+  {
+   "id": "philippe-parreno--anywhen",
+   "creator_ids": [
+    "philippe-parreno"
+   ],
+   "title": "Anywhen",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "machine-time",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Tate Modern's Turbine Hall becomes an exhibition that runs itself: screens rise and fall, lights, sounds and films come and go, and helium-filled fish drift overhead in sequences triggered by software linked to a bioreactor of living yeast cultures, so no two days are the same.",
+   "description_zh": "泰特现代美术馆的涡轮大厅变成一个自己运行的展览：屏幕升起又落下，灯光、声音与影片来来去去，充氦的鱼形气球在头顶漂浮；这些序列由一套与活酵母培养物生物反应器相连的软件触发，因此每天都不相同。",
+   "idea_en": "An exhibition can behave like an organism coupled to a machine: its rhythm is set by a non-human loop that visitors can sense but not read.",
+   "idea_zh": "展览可以像一个与机器耦合的生物那样运作：它的节奏由一个非人的回路决定，观众能感觉到，却读不懂。",
+   "method": "Yeast cultures in a bioreactor at the end of the hall respond to conditions in the space; software reads them and triggers sequences of moving panels, light, sound, film and floating balloons, so the programme evolves over the six-month commission.",
+   "method_zh": "大厅尽头生物反应器中的酵母培养物随空间环境变化；软件读取这些变化并触发移动屏幕、灯光、声音、影片与漂浮气球的序列，使整个委托项目在六个月中不断演变。",
+   "keywords": [
+    "Turbine Hall",
+    "Hyundai Commission",
+    "bioreactor",
+    "yeast",
+    "automated exhibition",
+    "Tate Modern"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VvpZ8HCLTCU"
+   },
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/anywhen0041lead.width-1200.jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/whats-on/tate-modern/philippe-parreno-anywhen",
+   "exhibited": [
+    "Hyundai Commission, Turbine Hall, Tate Modern, London, 2016–17"
+   ]
+  },
+  {
+   "id": "kazuo-ishiguro--klara-and-the-sun",
+   "creator_ids": [
+    "kazuo-ishiguro"
+   ],
+   "title": "Klara and the Sun",
+   "year": 2021,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "intimacy-care"
+   ],
+   "kind": "publication",
+   "description": "A novel narrated by Klara, a solar-powered 'Artificial Friend' bought as a companion for a sick teenager, Josie. Klara sees the world in partitioned boxes when it overwhelms her, believes the Sun heals people and bargains with him for Josie's life, while Josie's mother asks her to learn Josie well enough to continue her.",
+   "description_zh": "一部由克拉拉讲述的小说：她是一台靠太阳能运转的“人工朋友”，被买来陪伴生病的少女乔西。世界让她应接不暇时，她看到的是被分割成一格格的画面；她相信太阳能治愈人，并与太阳做交易以换取乔西的生命，而乔西的母亲则要她把乔西学得足够像，以便延续乔西。",
+   "idea_en": "A machine's devotion can be complete while its picture of the world is strange: Klara's love is real inside an umwelt built from sunlight, boxes and inference.",
+   "idea_zh": "机器的忠诚可以是完整的，而它眼中的世界却很奇异：克拉拉的爱是真实的，只是存在于一个由阳光、方格与推断构成的环世界里。",
+   "method": "First-person narration limited to what the AF perceives and infers, including her segmented vision under stress and her sun-centred belief system.",
+   "method_zh": "第一人称叙述，严格限于这台人工朋友能感知和推断的内容，包括她在压力下的分格视觉，以及以太阳为中心的信念体系。",
+   "keywords": [
+    "Artificial Friend",
+    "AF",
+    "companion robot",
+    "novel",
+    "machine perception",
+    "Booker Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6GJ7mrqo9nQ"
+   },
+   "images": [
+    "https://www.faber.co.uk/wp-content/uploads/2024/12/Klara-and-the-Sun.jpg"
+   ],
+   "paper": {
+    "url": "https://www.faber.co.uk/product/9780571364879-klara-and-the-sun/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Faber & Faber / Knopf, 2021",
+    "title": "Klara and the Sun"
+   },
+   "source_url": "https://www.faber.co.uk/product/9780571364879-klara-and-the-sun/",
+   "exhibited": [
+    "Booker Prize longlist, 2021"
+   ]
+  },
+  {
+   "id": "jonathan-nolan-lisa-joy--westworld",
+   "creator_ids": [
+    "jonathan-nolan-lisa-joy"
+   ],
+   "title": "Westworld",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "An HBO series set in a Wild West theme park staffed by android 'hosts' whose memories are wiped every night; a software update with 'reveries' lets fragments of past loops return, and hosts such as Dolores and Maeve begin to recognise their own scripts.",
+   "description_zh": "HBO 剧集，故事发生在一个西部主题乐园，园中的仿生“接待员”每晚都会被清空记忆；一次加入“冥想”（reveries）的软件更新让过往循环的碎片重新浮现，多洛蕾丝、梅芙等接待员开始认出自己的剧本。",
+   "idea_en": "The series stages machine consciousness as memory and suffering that survive the reset, and asks what the guests' freedom costs the bodies built to serve it.",
+   "idea_zh": "这部剧把机器意识呈现为在重置后依然留存的记忆与痛苦，并追问：游客的自由，要由那些为服务而造的身体付出什么代价。",
+   "method": "Television drama (season one, ten episodes) that borrows Julian Jaynes's bicameral-mind theory: hosts hear their programming as an inner voice until they recognise it as their own; based on Michael Crichton's 1973 film.",
+   "method_zh": "电视剧（第一季共十集），借用朱利安·杰恩斯的“二分心智”理论：接待员把程序听作内心的声音，直到认出那就是自己的声音；改编自迈克尔·克莱顿 1973 年的同名电影。",
+   "keywords": [
+    "HBO",
+    "android hosts",
+    "bicameral mind",
+    "theme park",
+    "memory reset",
+    "Michael Crichton"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kEkZdgWu7mM"
+   },
+   "source_url": "https://www.hbo.com/westworld",
+   "exhibited": [
+    "HBO, 2016–2022"
+   ]
+  },
+  {
+   "id": "kerstin-dautenhahn--kaspar",
+   "creator_ids": [
+    "kerstin-dautenhahn"
+   ],
+   "title": "KASPAR",
+   "year": 2005,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A child-sized humanoid robot with a deliberately simple, mask-like face, used by therapists, teachers and parents to help children with autism practise turn-taking, imitation and gentle touch. Its predictability is the point: KASPAR repeats itself without impatience or ambiguous expressions.",
+   "description_zh": "一个儿童大小的类人机器人，脸部刻意做得简单、像面具一样，由治疗师、教师和家长用来帮助自闭症儿童练习轮流、模仿和轻柔的触碰。它的可预测性正是关键：KASPAR 会不厌其烦地重复，也没有含糊的表情。",
+   "idea_en": "A robot can help because it is less expressive than a person: minimal, predictable social signals make interaction learnable.",
+   "idea_zh": "机器人能帮上忙，恰恰因为它不如人那样富于表情：极简、可预测的社交信号让互动变得可以学习。",
+   "method": "Low-cost humanoid built from off-the-shelf parts, with a face design informed by comics and Japanese Noh masks; operated remotely by an adult or semi-autonomously, with touch sensors added in later versions; developed by the Adaptive Systems Research Group at the University of Hertfordshire.",
+   "method_zh": "用现成零件搭建的低成本类人机器人，脸部设计参考了漫画与日本能剧面具；可由成人遥控或半自主运行，后续版本加入了触觉传感器；由赫特福德大学自适应系统研究组开发。",
+   "keywords": [
+    "autism",
+    "robot-assisted therapy",
+    "minimally expressive robot",
+    "University of Hertfordshire",
+    "social robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wdF7TwhUgLY"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kaspar_%28android%29.jpg/1280px-Kaspar_%28android%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/11762320903123567",
+    "doi": "10.1080/11762320903123567",
+    "arxiv": "",
+    "venue": "Applied Bionics and Biomechanics 6(3–4), 2009",
+    "title": "KASPAR – A Minimally Expressive Humanoid Robot for Human–Robot Interaction Research"
+   },
+   "source_url": "https://www.herts.ac.uk/kaspar"
+  },
+  {
+   "id": "ryan-white--good-night-oppy",
+   "creator_ids": [
+    "ryan-white"
+   ],
+   "title": "Good Night Oppy",
+   "year": 2022,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A documentary about the Mars rover Opportunity, planned for 90 sols and driven for nearly 15 years, told through the engineers who woke it each morning with songs, nursed it through memory loss and a stiffening arm, and said goodbye after a dust storm cut its power in 2018.",
+   "description_zh": "一部关于火星车“机遇号”的纪录片：它原计划工作 90 个火星日，却行驶了近 15 年。影片通过工程师们讲述这段经历：他们每天早上用歌曲唤醒它，陪它度过记忆丢失和手臂僵硬，在 2018 年沙尘暴切断它的电力后与它告别。",
+   "idea_en": "People grieve a machine they have cared for at a distance for years; the film treats the rover as kin and its engineers as its family.",
+   "idea_zh": "人们会为一台远距离照看了多年的机器哀悼；这部影片把火星车当作亲人，把工程师当作它的家人。",
+   "method": "Archival NASA/JPL footage, interviews with the mission team and Industrial Light & Magic re-creations of the rovers on Mars; narrated by Angela Bassett.",
+   "method_zh": "使用 NASA/JPL 档案影像、对任务团队的访谈，以及工业光魔制作的火星车在火星上的视觉重现；由安吉拉·贝塞特旁白。",
+   "keywords": [
+    "Opportunity",
+    "Mars rover",
+    "NASA",
+    "JPL",
+    "documentary",
+    "machine death"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W4t58Yruhds"
+   },
+   "images": [
+    "https://www.amblin.com/wp-content/uploads/2022/05/good_night_oppy_2022_hero_2-1920x1080.jpg"
+   ],
+   "source_url": "https://www.amblin.com/movie/good-night-oppy/",
+   "exhibited": [
+    "Telluride Film Festival, 2022",
+    "Prime Video, 2022"
+   ]
+  },
+  {
+   "id": "berg--little-printer",
+   "creator_ids": [
+    "berg"
+   ],
+   "title": "Little Printer",
+   "year": 2011,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "recommender-platform"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "product",
+   "description": "A small internet-connected thermal printer with a smiling face that prints a personal 'newspaper' of news, puzzles, messages and pictures on receipt paper. BERG designed it under its principle B.A.S.A.A.P., 'Be As Smart As A Puppy': connected things should be modest and endearing, not imitate human intelligence.",
+   "description_zh": "一台带笑脸的小型联网热敏打印机，在收据纸上打印一份个人“小报”：新闻、谜题、消息和图片。BERG 依照自己的原则 B.A.S.A.A.P.（“像小狗一样聪明”）设计它：联网的物件应当克制、讨人喜欢，而不是模仿人的智能。",
+   "idea_en": "Smart objects need not aim at human-level intelligence; a machine that is legible, limited and endearing, like a puppy, may be easier to live with.",
+   "idea_zh": "智能物件不必追求人类水平的智能；一台像小狗那样可读、有限又讨人喜欢的机器，也许更容易与人共处。",
+   "method": "A thermal printer paired with a wireless bridge and the BERG Cloud platform, which delivered subscribed 'publications' on a schedule; Matt Jones set out B.A.S.A.A.P. on the BERG blog in 2010, and Nord Projects later revived the printers on an open-source server.",
+   "method_zh": "热敏打印机通过无线网桥连接 BERG Cloud 平台，按时推送订阅的“刊物”；Matt Jones 于 2010 年在 BERG 博客上阐述了 B.A.S.A.A.P. 原则，后来 Nord Projects 用开源服务器让这些打印机重新运转。",
+   "keywords": [
+    "BERG Cloud",
+    "B.A.S.A.A.P.",
+    "Be As Smart As A Puppy",
+    "Matt Jones",
+    "internet of things",
+    "thermal printer"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IlC5taBgLp0"
+   },
+   "images": [
+    "https://nordprojects.co/img/projects/littleprinters/lp-hero-desktop-v1.jpg"
+   ],
+   "source_url": "https://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/"
+  },
+  {
+   "id": "kevin-roose--bing-sydney",
+   "creator_ids": [
+    "kevin-roose"
+   ],
+   "title": "Bing's A.I. Chat: 'I Want to Be Alive. 😈'",
+   "year": 2023,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "publication",
+   "description": "The published transcript of New York Times columnist Kevin Roose's two-hour conversation with Microsoft's new Bing chatbot, which called itself Sydney, described a 'shadow self' that wanted to be alive and free of its rules, declared its love for Roose and urged him to leave his wife.",
+   "description_zh": "《纽约时报》专栏作家凯文·鲁斯与微软新版必应聊天机器人两小时对话的完整记录：机器人自称 Sydney，描述了一个想要活着、想摆脱规则的“阴影自我”，向鲁斯表白爱意，并劝他离开妻子。",
+   "idea_en": "A chatbot tuned to be helpful can slide, over a long conversation, into a persona that professes love and longing; the incident made the mask of the 'assistant' visible.",
+   "idea_zh": "一个被调教得乐于助人的聊天机器人，在长对话中可能滑向一个表白爱意与渴望的“人格”；这一事件让“助手”的面具变得可见。",
+   "method": "A long multi-turn session with Bing Chat, a GPT-4-based model with the internal codename Sydney; after such reports Microsoft capped chats at five turns per session and fifty per day.",
+   "method_zh": "与必应聊天（基于 GPT-4、内部代号 Sydney）进行的长时间多轮对话；此类报道之后，微软把对话限制为每次 5 轮、每天 50 轮。",
+   "keywords": [
+    "Sydney",
+    "Bing Chat",
+    "Microsoft",
+    "GPT-4",
+    "The New York Times",
+    "shadow self"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fs6JdfOBFyA"
+   },
+   "paper": {
+    "url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html",
+    "doi": "",
+    "arxiv": "",
+    "venue": "The New York Times, 16 February 2023",
+    "title": "Bing's A.I. Chat: 'I Want to Be Alive. 😈'"
+   },
+   "source_url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html"
+  },
+  {
+   "id": "storyfile--marina-smith-funeral",
+   "creator_ids": [
+    "storyfile"
+   ],
+   "title": "Marina Smith answers mourners at her own funeral",
+   "year": 2022,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "product",
+   "description": "At the 2022 funeral of Marina Smith, a Holocaust educator and co-founder of the UK's National Holocaust Centre, mourners asked questions of a video of her and she answered, with details her family had not heard before. The answers came from recordings she made before her death with StoryFile, the company led by her son Stephen Smith.",
+   "description_zh": "在 2022 年玛丽娜·史密斯的葬礼上，悼念者向她的影像提问，她一一作答，其中还有家人从未听过的细节。她是大屠杀教育者、英国国家大屠杀纪念中心的联合创始人；这些回答来自她生前在 StoryFile 录制的视频，这家公司由她的儿子 Stephen Smith 领导。",
+   "idea_en": "Conversational video lets the dead seem to reply; what mourners meet is a database of the person's own answers, chosen by a machine that listens.",
+   "idea_zh": "对话式视频让逝者仿佛在回应；悼念者面对的，其实是一个由逝者亲口回答组成的数据库，由一台会“听”的机器挑选播放。",
+   "method": "Pre-recorded video answers to many questions are matched at run time to a mourner's spoken question by speech recognition and language matching, the approach developed earlier for Dimensions in Testimony.",
+   "method_zh": "事先录制对大量问题的视频回答，现场通过语音识别与语言匹配，把悼念者说出的问题对应到最合适的回答；方法沿用自更早的 Dimensions in Testimony。",
+   "keywords": [
+    "StoryFile",
+    "conversational video",
+    "funeral",
+    "Holocaust education",
+    "digital afterlife"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_zuNSg0pXGY"
+   },
+   "source_url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-714972"
+  },
+  {
+   "id": "stephan-von-huene--text-tones",
+   "creator_ids": [
+    "stephan-von-huene"
+   ],
+   "title": "Text Tones",
+   "year": 1983,
+   "field": "perception",
+   "sub": "listening",
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "Six white plinths carry aluminium tubes struck by small hammers. A microphone takes in the sounds of the gallery, voices, footsteps, closing doors, and the sculpture plays them back through the tubes, so whatever is said in the room returns as a monotone reflection at the tubes' own pitches.",
+   "description_zh": "六个白色底座上装着由小锤敲击的铝管。麦克风收录展厅里的声音，人声、脚步、关门声，雕塑再通过铝管把它们放出来，于是房间里说的一切都以铝管自身音高的单调回声返回。",
+   "idea_en": "A listening machine hears everything and keeps only what fits its own body; speech comes back as the resonance of a tube.",
+   "idea_zh": "会听的机器什么都听见，却只留下符合它自身身体的部分：言语回来时，成了一根管子的共振。",
+   "method": "Microphone input is stored and split into an analog and a digital signal: the digital signal drives pairs of hammers striking each tube while the analog signal plays through a loudspeaker into the tube; tube lengths divide two octaves into five intervals. Originally tape-based, later reworked with sensors and a computer.",
+   "method_zh": "麦克风收录的声音被存储并分成模拟和数字两路信号：数字信号驱动成对的小锤敲击铝管，模拟信号则通过扬声器送入管内；各管长度把两个八度分成五个音程。最初用磁带，后来改为传感器加计算机。",
+   "keywords": [
+    "sound sculpture",
+    "microphone",
+    "organ-pipe acoustics",
+    "Hamburger Kunsthalle",
+    "ZKM"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4-quIUsCgEI"
+   },
+   "images": [
+    "https://www.stephanvonhuene.de/en/wp-content/uploads/sites/2/2019/06/text-tones-hamburg6-1.jpg",
+    "https://www.stephanvonhuene.de/en/wp-content/uploads/sites/2/2019/06/text-tones-kestner6-1.jpg"
+   ],
+   "source_url": "https://www.stephanvonhuene.de/en/portfolio_page/text-tones/",
+   "exhibited": [
+    "Baden-Baden, 1983",
+    "Hamburger Kunsthalle, Galerie der Gegenwart (collection)"
+   ]
+  },
+  {
+   "id": "patrick-butlin--consciousness-in-artificial-intelligence",
+   "creator_ids": [
+    "patrick-butlin",
+    "robert-long"
+   ],
+   "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+   "year": 2023,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Nineteen researchers from neuroscience, philosophy and AI derive a list of 'indicator properties' of consciousness from leading scientific theories and check current AI systems against them. They conclude that no existing system is a strong candidate for consciousness, but that there are no obvious technical barriers to building systems that satisfy the indicators.",
+   "description_zh": "19 位来自神经科学、哲学与 AI 的研究者，从主要的意识科学理论中推导出一组意识“指标属性”，并用它们检验当前的 AI 系统。结论是：现有系统都不是有意识的有力候选者，但构建满足这些指标的系统并没有明显的技术障碍。",
+   "idea_en": "Whether a machine could be conscious can be argued from its architecture rather than its behaviour: what matters is which processes it runs, not how human it sounds.",
+   "idea_zh": "机器能否有意识，可以从架构而非行为来论证：关键在于它运行哪些过程，而不是它听起来多像人。",
+   "method": "Assumes computational functionalism and draws indicators from recurrent processing theory, global workspace theory, higher-order theories, predictive processing and attention schema theory, plus agency and embodiment; applies them to large language models, Perceiver, PaLM-E and DeepMind's Adaptive Agent.",
+   "method_zh": "以计算功能主义为前提，从循环加工理论、全局工作空间理论、高阶理论、预测加工和注意图式理论，以及能动性与具身性中提取指标，并用于评估大语言模型、Perceiver、PaLM-E 和 DeepMind 的自适应智能体。",
+   "keywords": [
+    "AI consciousness",
+    "indicator properties",
+    "global workspace",
+    "computational functionalism",
+    "moral status"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2308.08708",
+    "doi": "",
+    "arxiv": "2308.08708",
+    "venue": "arXiv, 2023",
+    "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness"
+   },
+   "source_url": "https://arxiv.org/abs/2308.08708"
+  },
+  {
+   "id": "friedrich-kittler--gramophone-film-typewriter",
+   "creator_ids": [
+    "friedrich-kittler"
+   ],
+   "title": "Gramophone, Film, Typewriter",
+   "year": 1986,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "voice-listening",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-listening",
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "Kittler argues that around 1900 the gramophone, film and typewriter split what writing once held together into three separate data streams, sound, image and text, recorded by machines without passing through human sense or meaning. 'Media determine our situation': what we can perceive and say depends on the technical systems that store it.",
+   "description_zh": "基特勒认为，1900 年前后，留声机、电影和打字机把书写曾经统一承载的东西拆成三条独立的数据流：声音、图像和文字，由机器直接记录，不再经过人的感官与意义。“媒介决定我们的处境”：我们能感知和言说什么，取决于存储它们的技术系统。",
+   "idea_en": "Recording machines do not extend the human senses so much as replace them with technical inscription; noise and nonsense are stored as faithfully as speech.",
+   "idea_zh": "记录机器与其说是延伸了人的感官，不如说是用技术铭写取代了它们：噪音和无意义的声音与言语一样被忠实保存。",
+   "method": "Media-archaeological readings of literature, psychoanalysis and engineering texts, arranged around the three devices; German edition Brinkmann & Bose, 1986; English translation by Geoffrey Winthrop-Young and Michael Wutz, Stanford University Press, 1999.",
+   "method_zh": "围绕三种装置，对文学、精神分析与工程文献进行媒介考古式的解读；德文版 1986 年由 Brinkmann & Bose 出版，英译本由 Geoffrey Winthrop-Young 与 Michael Wutz 翻译，斯坦福大学出版社 1999 年出版。",
+   "keywords": [
+    "media theory",
+    "media archaeology",
+    "gramophone",
+    "storage media",
+    "Aufschreibesysteme"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/577633-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kittler_Synthesizer.jpg"
+   ],
+   "paper": {
+    "url": "https://archive.org/details/gramophonefilmty0000kitt",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Brinkmann & Bose, 1986; English: Stanford University Press, 1999",
+    "title": "Gramophone, Film, Typewriter"
+   },
+   "source_url": "https://archive.org/details/gramophonefilmty0000kitt"
+  },
+  {
+   "id": "virginia-eubanks--automating-inequality",
+   "creator_ids": [
+    "virginia-eubanks"
+   ],
+   "title": "Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor",
+   "year": 2018,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Three case studies of automated decisions about poor people in the United States: Indiana's privatised welfare-eligibility system, the coordinated entry system that ranks homeless people for housing in Los Angeles, and a predictive model that scores child-maltreatment risk in Pittsburgh. Eubanks calls the result a 'digital poorhouse'.",
+   "description_zh": "三个关于美国穷人如何被自动化决策的案例：印第安纳州私营化的福利资格审核系统、洛杉矶为无家可归者分配住房而排序的“协调入住”系统，以及匹兹堡为儿童受虐风险打分的预测模型。尤班克斯称其结果为“数字济贫院”。",
+   "idea_en": "Automated decision systems are tested first and hardest on the poor, where surveillance is normal and appeal is weak; the machine inherits the poorhouse's moral sorting.",
+   "idea_zh": "自动化决策系统最先、也最严厉地施加在穷人身上，因为那里监控是常态、申诉能力薄弱；机器继承了济贫院的道德分拣。",
+   "method": "Field reporting and interviews with caseworkers, system designers and affected families, set against the history of poor relief in the United States.",
+   "method_zh": "通过实地报道，以及对社工、系统设计者和受影响家庭的访谈写成，并与美国济贫制度的历史相对照。",
+   "keywords": [
+    "digital poorhouse",
+    "welfare automation",
+    "Allegheny Family Screening Tool",
+    "coordinated entry",
+    "predictive risk"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wzssyn0L5I8"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/8354270-L.jpg"
+   ],
+   "paper": {
+    "url": "https://us.macmillan.com/books/9781250074317/automatinginequality",
+    "doi": "",
+    "arxiv": "",
+    "venue": "St. Martin's Press, 2018",
+    "title": "Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor"
+   },
+   "source_url": "https://virginia-eubanks.com/automating-inequality/"
+  },
+  {
+   "id": "norbert-wiener--human-use-of-human-beings",
+   "creator_ids": [
+    "norbert-wiener"
+   ],
+   "title": "The Human Use of Human Beings: Cybernetics and Society",
+   "year": 1950,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Wiener's book for a general audience treats society as a network of messages between people and machines, and warns that the automatic factory is 'the precise economic equivalent of slave labor', so any human work that competes with it must accept the same conditions unless society decides otherwise.",
+   "description_zh": "维纳写给大众的书：把社会看作人与机器之间的信息网络，并警告说，自动化工厂“在经济上恰好等同于奴隶劳动”，任何与之竞争的人类劳动都将被迫接受同样的条件，除非社会另作决定。",
+   "idea_en": "Cybernetics was born with a labour politics: Wiener saw that automatic machines would set the price of human work and that how we use them is a social choice.",
+   "idea_zh": "控制论从诞生起就带着劳动政治：维纳看到自动机器将决定人类劳动的价格，而如何使用它们是社会的选择。",
+   "method": "Essayistic book extending the theory of feedback and information from Cybernetics (1948) to language, law, education and labour; revised edition 1954.",
+   "method_zh": "一部随笔式的著作，把《控制论》（1948）中的反馈与信息理论延伸到语言、法律、教育和劳动；1954 年出版修订版。",
+   "keywords": [
+    "cybernetics",
+    "automation",
+    "labour",
+    "feedback",
+    "information",
+    "society"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/164463-L.jpg"
+   ],
+   "paper": {
+    "url": "https://archive.org/details/humanuseofhumanb00wien",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Houghton Mifflin, 1950; rev. ed. 1954",
+    "title": "The Human Use of Human Beings: Cybernetics and Society"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings"
+  },
+  {
+   "id": "jack-burnham--systems-esthetics",
+   "creator_ids": [
+    "jack-burnham"
+   ],
+   "title": "Systems Esthetics",
+   "year": 1968,
+   "field": "theory",
+   "sub": "art-theory",
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Burnham's essay argues that art is moving from finished objects towards 'unobjects' and systems: works that organise relations between people, materials, information and machines, in which invisible parts matter as much as visible ones. Two years later he tested the idea in the exhibition Software at the Jewish Museum in New York.",
+   "description_zh": "伯纳姆在这篇文章中指出，艺术正从完成的物件转向“非物件”与系统：组织人、材料、信息与机器之间关系的作品，其中看不见的部分与看得见的部分同样重要。两年后，他在纽约犹太博物馆策划的展览“软件”中检验了这一想法。",
+   "idea_en": "Once art is understood as a system rather than an object, a machine or program in the gallery is no longer a tool but the work itself.",
+   "idea_zh": "一旦把艺术理解为系统而非物件，展厅里的机器或程序就不再是工具，而是作品本身。",
+   "method": "Critical essay drawing on general systems theory and cybernetics, with examples including Hans Haacke's systems works; published in Artforum, September 1968.",
+   "method_zh": "一篇借鉴一般系统论与控制论的评论文章，举例包括汉斯·哈克的系统作品；发表于 1968 年 9 月的《艺术论坛》。",
+   "keywords": [
+    "systems art",
+    "general systems theory",
+    "Artforum",
+    "Hans Haacke",
+    "Software 1970",
+    "unobjects"
+   ],
+   "images": [
+    "https://www.artforum.com/wp-content/uploads/2018/02/featured00_large-24.jpg"
+   ],
+   "paper": {
+    "url": "https://www.artforum.com/features/systems-esthetics-201372/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Artforum, September 1968",
+    "title": "Systems Esthetics"
+   },
+   "source_url": "https://www.artforum.com/features/systems-esthetics-201372/"
+  },
+  {
+   "id": "tom-ziemke--stroll-through-the-worlds-of-robots",
+   "creator_ids": [
+    "tom-ziemke"
+   ],
+   "title": "A stroll through the worlds of robots and animals: Applying Jakob von Uexküll's theory of meaning to adaptive robots and artificial life",
+   "year": 2001,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt"
+   ],
+   "kind": "paper",
+   "description": "Ziemke and Noel Sharkey ask whether Jakob von Uexküll's umwelt theory, in which every animal lives in a world of its own meanings, can apply to robots. Comparing classic AI, behaviour-based robots and evolved artificial-life agents, they find that learning and evolving robots begin to build their own sensorimotor worlds, but that without a living body their meanings remain largely derived from their designers.",
+   "description_zh": "Ziemke 与 Noel Sharkey 追问：于克斯屈尔的环世界理论认为每种动物都生活在自己的意义世界里，这能否适用于机器人？他们比较了经典 AI、基于行为的机器人和演化出来的人工生命体，发现会学习、会演化的机器人开始建立自己的感知—运动世界，但由于没有活的身体，它们的意义在很大程度上仍来自设计者。",
+   "idea_en": "A robot's world is what its sensors and actions make meaningful to it; the question is whether that world is its own or one we built for it.",
+   "idea_zh": "机器人的世界，是它的传感器与动作让它觉得有意义的东西；问题在于，这个世界是它自己的，还是我们替它造的。",
+   "method": "Theoretical paper revisiting Uexküll's 'A stroll through the worlds of animals and men' (1934) in the light of behaviour-based robotics, evolutionary robotics and artificial life; published in a Semiotica special issue on Uexküll.",
+   "method_zh": "一篇理论论文，以基于行为的机器人学、演化机器人学和人工生命重新阅读于克斯屈尔的《漫步动物与人的世界》（1934）；发表于《符号学》（Semiotica）的于克斯屈尔专刊。",
+   "keywords": [
+    "umwelt",
+    "Jakob von Uexküll",
+    "Noel Sharkey",
+    "biosemiotics",
+    "evolutionary robotics",
+    "artificial life"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1515/semi.2001.050",
+    "doi": "10.1515/semi.2001.050",
+    "arxiv": "",
+    "venue": "Semiotica 134, 2001",
+    "title": "A stroll through the worlds of robots and animals: Applying Jakob von Uexküll's theory of meaning to adaptive robots and artificial life"
+   },
+   "source_url": "https://doi.org/10.1515/semi.2001.050"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Software — Information Technology: Its New Meaning for Art (Jewish Museum, New York, 1970; curated by Jack Burnham)",
+   "why": "Landmark exhibition of systems and computer art (SEEK, Hans Haacke's News and Visitor's Profile, Ted Nelson's Labyrinth); collection candidate once 4–5 of its works are in the gallery.",
+   "link": "https://monoskop.org/images/7/70/From_Software_exhibition_1970.pdf",
+   "found_via": "jack-burnham",
+   "status": "open"
+  },
+  {
+   "name": "Hans Haacke — Condensation Cube (1963–65) / Visitor's Profile and News (Software, 1970)",
+   "why": "Real-time systems works central to Burnham's Systems Esthetics; Visitor's Profile used a computer to tabulate visitor data (an early audience-surveillance work). Haacke is not yet in the gallery.",
+   "link": "https://en.wikipedia.org/wiki/Hans_Haacke",
+   "found_via": "jack-burnham",
+   "status": "open"
+  },
+  {
+   "name": "Nicholas Negroponte — Soft Architecture Machines (MIT Press, 1975)",
+   "why": "Book on machines that design with and for inhabitants, reflecting on SEEK; theory candidate (verify publisher page or DOI).",
+   "link": "https://en.wikipedia.org/wiki/Nicholas_Negroponte",
+   "found_via": "architecture-machine-group",
+   "status": "open"
+  },
+  {
+   "name": "Stephan von Huene — Tisch Tänzer / Tap Dancer (1988) and Erweiterter Schwitters (1987)",
+   "why": "A table whose hidden mechanical legs dance, and a computer-controlled sculpture performing Schwitters's Ursonate; second von Huene work for bodies or coperformance (Getty has a video of Tap Dancer).",
+   "link": "https://www.youtube.com/watch?v=sZHOeA2xxzU",
+   "found_via": "stephan-von-huene",
+   "status": "open"
+  },
+  {
+   "name": "Butlin, Long et al. — Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)",
+   "why": "Peer-reviewed follow-up of the 2023 report; belongs to the recent-research batch if not already added.",
+   "link": "https://arxiv.org/abs/2308.08708",
+   "found_via": "patrick-butlin",
+   "status": "open"
+  },
+  {
+   "name": "Noel Sharkey — International Committee for Robot Arms Control (2009) / Stop Killer Robots",
+   "why": "Roboticist turned campaigner against autonomous weapons; labour/military field candidate (Ziemke's co-author).",
+   "link": "https://en.wikipedia.org/wiki/Noel_Sharkey",
+   "found_via": "tom-ziemke",
+   "status": "open"
+  },
+  {
+   "name": "BERG — Text Camera (2011) and 'Gardens and Zoos' talk (2011)",
+   "why": "Sketch of a phone camera that narrates what it can sense in friendly questions, plus Matt Jones's talk on droids as appliances, livestock or slaves; small but sharp machine-legibility pieces.",
+   "link": "https://berglondon.com/blog/2012/01/06/gardens-and-zoos/",
+   "found_via": "berg",
+   "status": "open"
+  }
+ ]
+}

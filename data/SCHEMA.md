@@ -127,6 +127,9 @@ Validate with `python3 tools/validate_orgs.py data/orgs/<file>.json` (or `--all`
 ```json
 { "name": "…", "why": "…", "link": "…", "found_via": "creator id", "status": "open" }   // open | no_media | off_topic | duplicate
 ```
+A later pass that works through leads records the outcome in `data/leads_status/<pass>.json`, keyed by the exact lead name, instead of
+editing the batch that found the lead: `{ "<lead name>": {"status": "added|duplicate|no_media|off_topic|open", "work_ids": ["…"], "note": "…"} }`.
+`added` and `duplicate` move the lead to `data/leads_checked.json` as `covered`.
 
 ## Language rule
 Every user-facing text exists in BOTH languages, never mixed inside one field (proper nouns — titles,

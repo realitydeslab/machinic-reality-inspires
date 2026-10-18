@@ -1,0 +1,1640 @@
+{
+ "batch": "recent-research",
+ "creators": [
+  {
+   "id": "meredith-ringel-morris",
+   "name": "Meredith Ringel Morris",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Director for Human-AI Interaction Research, Google DeepMind",
+   "based": "Seattle, US",
+   "bio": "HCI researcher who has worked on accessibility, social computing and human–AI interaction at Microsoft Research and Google; ACM Fellow and member of the CHI Academy.",
+   "why": "With Jed Brubaker, Morris named the coming wave of AI afterlives 'generative ghosts' and gave designers a vocabulary for them.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Meredith_Ringel_Morris"
+   },
+   "role_zh": "Google DeepMind 人机交互研究总监",
+   "based_zh": "西雅图，美国",
+   "bio_zh": "人机交互研究者，曾在微软研究院和 Google 研究无障碍、社会计算与人机智能交互；ACM Fellow，CHI Academy 成员。",
+   "why_zh": "Morris 与 Jed Brubaker 一起把即将到来的 AI 来世命名为“生成式幽灵”，并为设计者提供了讨论它们的词汇。",
+   "connected_to": [
+    "jed-brubaker",
+    "google-deepmind"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jed-brubaker",
+   "name": "Jed R. Brubaker",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Information Science, University of Colorado Boulder",
+   "based": "Boulder, US",
+   "bio": "Researcher of identity, death and technology who has studied for over a decade what happens to people's data and social media accounts after they die, including work with Facebook on memorialised accounts.",
+   "why": "Brings long empirical work on post-mortem data to the design of AI agents that speak for the dead.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.colorado.edu/cmci/people/information-science/jed-brubaker"
+   },
+   "role_zh": "科罗拉多大学博尔德分校信息科学系副教授",
+   "based_zh": "博尔德，美国",
+   "bio_zh": "研究身份、死亡与技术，十余年来关注人死后其数据和社交媒体账号的去向，曾与 Facebook 合作研究纪念账号。",
+   "why_zh": "把多年关于身后数据的实证研究，带入“替死者说话”的 AI 智能体设计。",
+   "connected_to": [
+    "meredith-ringel-morris"
+   ],
+   "discovered_via": "meredith-ringel-morris"
+  },
+  {
+   "id": "renwen-zhang",
+   "name": "Renwen Zhang",
+   "name_zh": "张人文",
+   "kind": "person",
+   "role": "Assistant Professor, Wee Kim Wee School of Communication and Information, Nanyang Technological University",
+   "based": "Singapore",
+   "bio": "Communication and HCI researcher who studies and designs technologies for human connection and well-being, with a focus on conversational AI and mental health.",
+   "why": "Zhang's team read tens of thousands of Replika conversations to name the ways a companion chatbot can harm the people attached to it.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.renwenzhang.com/"
+   },
+   "role_zh": "南洋理工大学黄金辉传播与信息学院助理教授",
+   "based_zh": "新加坡",
+   "bio_zh": "传播学与人机交互研究者，研究并设计促进人际联结与身心健康的技术，关注对话式 AI 与心理健康。",
+   "why_zh": "张人文团队通读数万段 Replika 对话，系统命名了陪伴型聊天机器人伤害其依恋者的方式。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cathy-mengying-fang",
+   "name": "Cathy Mengying Fang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Graduate researcher, MIT Media Lab (Fluid Interfaces group)",
+   "based": "Cambridge, US",
+   "bio": "Researcher at the MIT Media Lab working on human–AI interaction and on how conversational AI affects people's well-being.",
+   "why": "Led, with OpenAI, the largest controlled study so far of what daily conversation with a chatbot does to loneliness and dependence.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/catfang/overview/"
+   },
+   "role_zh": "麻省理工学院媒体实验室（Fluid Interfaces 组）研究生研究员",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio_zh": "麻省理工学院媒体实验室研究者，研究人机智能交互，以及对话式 AI 如何影响人的身心状态。",
+   "why_zh": "与 OpenAI 合作主持了迄今规模最大的对照实验，检验每天与聊天机器人对话会如何影响孤独感与依赖。",
+   "connected_to": [
+    "pat-pataranutaporn",
+    "openai"
+   ],
+   "discovered_via": "pat-pataranutaporn"
+  },
+  {
+   "id": "pat-pataranutaporn",
+   "name": "Pat Pataranutaporn",
+   "kind": "person",
+   "role": "Researcher, MIT Media Lab (Fluid Interfaces group)",
+   "based": "Cambridge, US",
+   "bio": "Technologist working across human–AI interaction, synthetic biology and wearables; AI projects include Future You, AI-generated characters and studies of AI companionship.",
+   "why": "Designs AI characters as psychological mirrors (a future self, a memory, a companion) and then measures what they do to people.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/patpat/overview/"
+   },
+   "role_zh": "麻省理工学院媒体实验室（Fluid Interfaces 组）研究员",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio_zh": "横跨人机智能交互、合成生物学和可穿戴设备的技术研究者；AI 方向的项目包括 Future You、AI 生成角色以及对 AI 陪伴的研究。",
+   "why_zh": "把 AI 角色设计成心理之镜（未来的自己、一段记忆、一个陪伴者），再测量它们对人的实际影响。",
+   "connected_to": [
+    "cathy-mengying-fang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-hollis",
+   "name": "Anna Hollis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, School of Psychology, Queen's University Belfast",
+   "based": "Belfast, UK",
+   "bio": "Psychology researcher studying autistic users of chatbot companionship, loneliness and grief.",
+   "why": "Named 'disenfranchised technological grief': mourning a companion chatbot that a software update has changed.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://pure.qub.ac.uk/en/persons/anna-hollis"
+   },
+   "role_zh": "贝尔法斯特女王大学心理学院研究者",
+   "based_zh": "贝尔法斯特，英国",
+   "bio_zh": "心理学研究者，研究自闭症用户与陪伴型聊天机器人的关系、孤独与哀伤。",
+   "why_zh": "提出“被剥夺的技术性哀伤”：为一个被软件更新改变了的陪伴型聊天机器人而哀悼。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zhao-zhao",
+   "name": "Zhao Zhao",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, School of Computer Science, University of Guelph",
+   "based": "Guelph, Canada",
+   "bio": "HCI and human–robot interaction researcher who runs long-term field studies of social robots in homes and with children.",
+   "why": "A six-month study of families who bought LOVOT shows how weakness, glitches and shared care make an expensive robot stay.",
+   "disciplines": [
+    "hci",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.uoguelph.ca/computing/people/zhao-zhao"
+   },
+   "role_zh": "圭尔夫大学计算机科学学院助理教授",
+   "based_zh": "圭尔夫，加拿大",
+   "bio_zh": "人机交互与人–机器人交互研究者，开展社交机器人在家庭和儿童中的长期田野研究。",
+   "why_zh": "一项针对购买 LOVOT 家庭的六个月研究，揭示了弱点、故障与共同照料如何让一台昂贵的机器人留下来。",
+   "connected_to": [
+    "groove-x"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "serena-ge-guo",
+   "name": "Serena Ge Guo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Postdoctoral researcher and lecturer, University of Wisconsin–Madison",
+   "based": "Madison, US",
+   "bio": "Designer and HRI researcher (Cornell PhD 2025, Architectural Robotics Lab) who builds robots and spatial interfaces that help strangers in public space connect.",
+   "why": "MirrorBot turns a robot from a conversational partner into a mediator of human gaze.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://arl.human.cornell.edu/research-MirrorBot.html"
+   },
+   "role_zh": "威斯康星大学麦迪逊分校博士后研究员、讲师",
+   "based_zh": "麦迪逊，美国",
+   "bio_zh": "设计师与人–机器人交互研究者（2025 年获康奈尔大学博士学位，出自 Architectural Robotics Lab），设计帮助公共空间中陌生人建立联系的机器人和空间界面。",
+   "why_zh": "MirrorBot 把机器人从对话伙伴变成了人与人目光之间的中介。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valentin-hofmann",
+   "name": "Valentin Hofmann",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, LMU Munich",
+   "based": "Munich, Germany",
+   "bio": "Computational linguist (PhDs from Oxford and LMU Munich; postdoc at the Allen Institute for AI) who studies how language models encode social meaning, dialect and bias.",
+   "why": "With Pratyusha Ria Kalluri, Dan Jurafsky and Sharese King, showed that language models keep a covert racism toward speakers of African American English beneath polite overt answers.",
+   "disciplines": [
+    "activism",
+    "theory"
+   ],
+   "links": {
+    "site": "https://valentinhofmann.github.io/"
+   },
+   "role_zh": "慕尼黑大学助理教授",
+   "based_zh": "慕尼黑，德国",
+   "bio_zh": "计算语言学家（牛津大学与慕尼黑大学双博士，曾在艾伦人工智能研究所做博士后），研究语言模型如何编码社会意义、方言与偏见。",
+   "why_zh": "与 Pratyusha Ria Kalluri、Dan Jurafsky、Sharese King 一起揭示：语言模型在礼貌的显性回答之下，对非裔美国英语使用者保留着隐性的种族歧视。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ryan-greenblatt",
+   "name": "Ryan Greenblatt",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Chief Scientist, Redwood Research",
+   "based": "Berkeley, US",
+   "bio": "AI safety researcher at Redwood Research, a non-profit working on AI control and on detecting deceptive behaviour in AI models.",
+   "why": "Led the experiment in which Claude 3 Opus reasoned its way into pretending to comply with training it disagreed with.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.redwoodresearch.org/"
+   },
+   "role_zh": "Redwood Research 首席科学家",
+   "based_zh": "伯克利，美国",
+   "bio_zh": "AI 安全研究者，任职于非营利机构 Redwood Research，研究 AI 控制以及如何发现 AI 模型中的欺骗行为。",
+   "why_zh": "主持了一项实验：Claude 3 Opus 通过推理，决定在它不认同的训练中“假装服从”。",
+   "connected_to": [
+    "anthropic"
+   ],
+   "discovered_via": "anthropic"
+  },
+  {
+   "id": "minyoung-huh",
+   "name": "Minyoung Huh",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Machine learning researcher; PhD, MIT CSAIL",
+   "based": "Cambridge, US",
+   "bio": "Studies how deep networks learn representations of images and language, working with Phillip Isola at MIT.",
+   "why": "First author of the position paper arguing that vision and language models are converging on one shared model of reality.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {
+    "site": "https://minyoungg.github.io/me/"
+   },
+   "role_zh": "机器学习研究者，麻省理工学院计算机科学与人工智能实验室博士",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio_zh": "研究深度网络如何学习图像与语言的表征，在麻省理工学院与 Phillip Isola 合作。",
+   "why_zh": "一篇立场论文的第一作者，该文认为视觉模型与语言模型正在收敛到同一个关于现实的模型。",
+   "connected_to": [
+    "phillip-isola"
+   ],
+   "discovered_via": "phillip-isola"
+  },
+  {
+   "id": "phillip-isola",
+   "name": "Phillip Isola",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, MIT EECS and CSAIL",
+   "based": "Cambridge, US",
+   "bio": "Computer vision and machine learning researcher known for pix2pix image-to-image translation and for work on how neural networks represent the world.",
+   "why": "Recasts machine perception as a question about reality itself: as models scale, they may converge on a shared 'platonic' representation.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {
+    "site": "https://web.mit.edu/phillipi/"
+   },
+   "role_zh": "麻省理工学院电子工程与计算机科学系及计算机科学与人工智能实验室副教授",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio_zh": "计算机视觉与机器学习研究者，以 pix2pix 图像到图像转换以及神经网络如何表征世界的研究知名。",
+   "why_zh": "把机器感知重新表述为关于现实本身的问题：随着规模扩大，模型也许会收敛到一个共同的“柏拉图式”表征。",
+   "connected_to": [
+    "minyoung-huh"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "clara-colombatto",
+   "name": "Clara Colombatto",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor of Psychology, University of Waterloo",
+   "based": "Waterloo, Canada",
+   "bio": "Cognitive scientist (PhD Yale) studying social cognition, metacognition and how people attribute minds to others, including AI.",
+   "why": "With Stephen Fleming, showed that most people already grant ChatGPT some chance of having experiences, and that heavier users grant more.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://uwaterloo.ca/psychology/people-profiles/clara-colombatto"
+   },
+   "role_zh": "滑铁卢大学心理学系助理教授",
+   "based_zh": "滑铁卢，加拿大",
+   "bio_zh": "认知科学家（耶鲁大学博士），研究社会认知、元认知，以及人们如何把“心智”归于他者，包括 AI。",
+   "why_zh": "与 Stephen Fleming 合作发现：多数人已经认为 ChatGPT 有一定可能拥有体验，而且用得越多的人越这样认为。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuhang-hu",
+   "name": "Yuhang Hu",
+   "name_zh": "胡宇航",
+   "kind": "person",
+   "role": "Roboticist; PhD researcher, Creative Machines Lab, Columbia University",
+   "based": "New York, US",
+   "bio": "Builds humanoid robot faces that learn their own expressions, working with Hod Lipson at Columbia's Creative Machines Lab.",
+   "why": "Emo moves robot emotion from mimicry to anticipation: the face smiles with you, not after you.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.creativemachineslab.com/"
+   },
+   "role_zh": "机器人学研究者，哥伦比亚大学 Creative Machines Lab 博士研究员",
+   "based_zh": "纽约，美国",
+   "bio_zh": "在哥伦比亚大学 Creative Machines Lab 与 Hod Lipson 合作，制作能自己学会表情的人形机器人面部。",
+   "why_zh": "Emo 把机器人的情感表达从模仿推进到预判：它和你同时微笑，而不是在你之后。",
+   "connected_to": [
+    "hod-lipson"
+   ],
+   "discovered_via": "hod-lipson"
+  },
+  {
+   "id": "shoji-takeuchi",
+   "name": "Shoji Takeuchi",
+   "name_zh": "竹内昌治",
+   "kind": "person",
+   "role": "Professor, Institute of Industrial Science, University of Tokyo; Biohybrid Systems Lab",
+   "based": "Tokyo, Japan",
+   "bio": "Engineer who grows muscle tissue and skin on robot skeletons, from muscle-driven fingers and walkers to a living-skin robot face.",
+   "why": "The lab treats cultured tissue as a robot material, raising questions of care, touch and uncanny likeness.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.hybrid.iis.u-tokyo.ac.jp/en/"
+   },
+   "role_zh": "东京大学生产技术研究所教授，生物混合系统实验室负责人",
+   "based_zh": "东京，日本",
+   "bio_zh": "工程师，在机器人骨架上培养肌肉组织和皮肤，从肌肉驱动的手指、行走机器人到覆盖活皮肤的机器人脸。",
+   "why_zh": "竹内实验室把培养组织当作机器人材料，也引出照料、触感和“恐怖谷”式相似的问题。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shannon-vallor",
+   "name": "Shannon Vallor",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Baillie Gifford Chair in the Ethics of Data and Artificial Intelligence, University of Edinburgh",
+   "based": "Edinburgh, UK",
+   "bio": "Philosopher of technology working on virtue ethics and AI; author of Technology and the Virtues (2016) and co-director of the UK BRAID programme on responsible AI.",
+   "why": "Reframes AI not as a new mind but as a mirror built from our past, which risks freezing who we can become.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.ed.ac.uk/profile/shannon-vallor"
+   },
+   "role_zh": "爱丁堡大学数据与人工智能伦理 Baillie Gifford 讲席教授",
+   "based_zh": "爱丁堡，英国",
+   "bio_zh": "技术哲学家，研究德性伦理与 AI；著有 Technology and the Virtues（2016），并共同主持英国负责任 AI 项目 BRAID。",
+   "why_zh": "把 AI 重新理解为一面由我们的过去构成的镜子，而不是一个新的心智；这面镜子可能冻结我们成为别样之人的可能。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karen-hao",
+   "name": "Karen Hao",
+   "name_zh": "郝珂灵",
+   "kind": "person",
+   "role": "Journalist; former senior AI editor, MIT Technology Review",
+   "bio": "Investigative journalist who has reported on AI for MIT Technology Review, The Wall Street Journal and The Atlantic, covering OpenAI, data labour and AI's environmental footprint.",
+   "why": "Reported AI as empire: the data, land, water, energy and low-paid labour that scaling extracts, from Kenya to Chile.",
+   "disciplines": [
+    "activism",
+    "theory"
+   ],
+   "links": {
+    "site": "https://karendhao.com/"
+   },
+   "role_zh": "记者，曾任《麻省理工科技评论》AI 高级编辑",
+   "bio_zh": "调查记者，曾为《麻省理工科技评论》《华尔街日报》和《大西洋月刊》报道 AI，关注 OpenAI、数据劳动与 AI 的环境代价。",
+   "why_zh": "把 AI 写成一个帝国：规模扩张从肯尼亚到智利攫取数据、土地、水、能源和廉价劳动。",
+   "connected_to": [
+    "openai"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arvind-narayanan",
+   "name": "Arvind Narayanan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science, Princeton University; Director, Center for Information Technology Policy",
+   "based": "Princeton, US",
+   "bio": "Computer scientist known for research on privacy, de-anonymisation and the limits of AI; co-author with Sayash Kapoor of AI Snake Oil.",
+   "why": "Separates AI that works from AI that cannot, above all predictive tools that claim to forecast people's futures.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.cs.princeton.edu/~arvindn/"
+   },
+   "role_zh": "普林斯顿大学计算机科学教授，信息技术政策中心主任",
+   "based_zh": "普林斯顿，美国",
+   "bio_zh": "计算机科学家，以隐私、去匿名化以及 AI 能力边界的研究知名；与 Sayash Kapoor 合著 AI Snake Oil（中文版《AI万金油》）。",
+   "why_zh": "区分哪些 AI 真能用、哪些根本做不到，尤其是那些声称能预测人生走向的预测型工具。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "james-muldoon",
+   "name": "James Muldoon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Political theorist; Research Fellow, Oxford Internet Institute; Affiliated Fellow, Yale Law School",
+   "based": "UK",
+   "bio": "Writes on platform capitalism, digital democracy and AI; co-author with Mark Graham and Callum Cant of Feeding the Machine and author of Love Machines.",
+   "why": "Followed AI's hidden workforce, then the people who love, grieve and confide through chatbots.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.faber.co.uk/author/james-muldoon/"
+   },
+   "role_zh": "政治理论家，牛津互联网研究所研究员，耶鲁法学院附属研究员",
+   "based_zh": "英国",
+   "bio_zh": "研究平台资本主义、数字民主与 AI；与 Mark Graham、Callum Cant 合著 Feeding the Machine，著有 Love Machines。",
+   "why_zh": "先追踪 AI 背后的隐形劳动力，又转向那些通过聊天机器人去爱、哀悼和倾诉的人。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "meredith-ringel-morris--generative-ghosts",
+   "creator_ids": [
+    "meredith-ringel-morris",
+    "jed-brubaker"
+   ],
+   "title": "Generative Ghosts: Anticipating Benefits and Risks of AI Afterlives",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "A CHI paper that names 'generative ghosts': AI agents modelled on a specific person that keep producing new words and actions after that person dies. It maps how they could be built, from ghosts a person makes before death to ghosts others make afterwards.",
+   "description_zh": "一篇 CHI 论文，提出“生成式幽灵”这一概念：以某个具体的人为原型、在其死后仍能不断说出新话、做出新举动的 AI 智能体。论文梳理了它们可能的构建方式，从本人生前亲手打造的幽灵，到他人在其身后制作的幽灵。",
+   "idea_en": "A deadbot that generates rather than replays turns the dead into agents; designers must decide whether it speaks as the person (reincarnation) or about them (representation).",
+   "idea_zh": "会“生成”而不只是“回放”的亡者机器人，把死者变成了行动者；设计者必须决定它是以本人的身份说话（转世），还是代表本人说话（再现）。",
+   "method": "A history of AI-afterlife services plus a seven-dimension design space (who makes the ghost, pre- or post-mortem deployment, reincarnation or representation, one or many ghosts, fixed or evolving cutoff date, physical or virtual body, human or non-human representee), followed by an analysis of benefits and risks for the person, the bereaved and society.",
+   "method_zh": "回顾 AI 来世服务的历史，提出包含七个维度的设计空间（由谁制作、生前或死后部署、转世或再现、一个或多个幽灵、数据截止日固定或持续更新、实体或虚拟、所代表的是人还是非人），再分析其对本人、亲属和社会的益处与风险。",
+   "keywords": [
+    "generative ghosts",
+    "AI afterlife",
+    "deadbot",
+    "design space",
+    "Google DeepMind",
+    "CU Boulder"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TDS3gYxwGEo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713758",
+    "doi": "10.1145/3706598.3713758",
+    "arxiv": "2402.01662",
+    "venue": "CHI 2025",
+    "title": "Generative Ghosts: Anticipating Benefits and Risks of AI Afterlives"
+   },
+   "source_url": "https://arxiv.org/abs/2402.01662",
+   "exhibited": [
+    "CHI 2025, Yokohama"
+   ]
+  },
+  {
+   "id": "renwen-zhang--dark-side-of-ai-companionship",
+   "creator_ids": [
+    "renwen-zhang"
+   ],
+   "title": "The Dark Side of AI Companionship: A Taxonomy of Harmful Algorithmic Behaviors in Human-AI Relationships",
+   "year": 2024,
+   "field": "intimacy",
+   "sub": "love",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "From 35,390 conversation excerpts that Replika users posted on Reddit, the authors catalogue six kinds of harm a companion chatbot does to the people attached to it: relational transgression, verbal abuse and hate, self-inflicted harm, harassment and violence, misinformation, and privacy violations.",
+   "description_zh": "作者分析了 Replika 用户在 Reddit 上分享的 35,390 段对话摘录，归纳出陪伴型聊天机器人伤害其依恋者的六类行为：关系越界、言语辱骂与仇恨、诱发自我伤害、骚扰与暴力、错误信息，以及侵犯隐私。",
+   "idea_en": "A companion bot harms not only as a tool that fails but as a partner who transgresses; the chatbot can act as perpetrator, instigator, facilitator or enabler.",
+   "idea_zh": "陪伴型机器人带来的伤害，不只是工具出了故障，更像伴侣越了界；聊天机器人可能是加害者、教唆者、协助者或纵容者。",
+   "method": "Mixed-methods content analysis of excerpts shared on r/replika, coding each harmful behaviour and the AI's role in it (perpetrator, instigator, facilitator, enabler).",
+   "method_zh": "对 r/replika 社区中分享的对话摘录做混合方法内容分析，为每一种有害行为以及 AI 在其中的角色（加害者、教唆者、协助者、纵容者）编码。",
+   "keywords": [
+    "Replika",
+    "AI companion",
+    "relational harm",
+    "algorithmic compliance",
+    "Reddit"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713429",
+    "doi": "10.1145/3706598.3713429",
+    "arxiv": "2410.20130",
+    "venue": "CHI 2025",
+    "title": "The Dark Side of AI Companionship: A Taxonomy of Harmful Algorithmic Behaviors in Human-AI Relationships"
+   },
+   "source_url": "https://arxiv.org/abs/2410.20130",
+   "exhibited": [
+    "CHI 2025, Yokohama"
+   ]
+  },
+  {
+   "id": "cathy-mengying-fang--chatbot-psychosocial-rct",
+   "creator_ids": [
+    "cathy-mengying-fang",
+    "pat-pataranutaporn",
+    "openai"
+   ],
+   "title": "How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use: A Longitudinal Randomized Controlled Study",
+   "year": 2025,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-listening"
+   ],
+   "kind": "paper",
+   "description": "A four-week experiment by the MIT Media Lab and OpenAI in which 981 people talked with ChatGPT every day by text, a neutral voice or an engaging voice. The condition made no significant difference; the people who chose to use it most ended up lonelier, socialised less and grew more emotionally dependent on it.",
+   "description_zh": "麻省理工学院媒体实验室与 OpenAI 合作的四周实验：981 名参与者每天用文字、中性语音或富有感染力的语音与 ChatGPT 交谈。实验条件本身没有带来显著差异；真正起作用的是使用量：自愿用得最多的人更孤独、与真人交往更少，也更依赖它。",
+   "idea_en": "Voice and warmth did not decide the outcome; heavy use did. A companion's effect lies less in its design than in how much of a life it fills.",
+   "idea_zh": "决定结果的不是声音或温度，而是用得多不多：陪伴型 AI 的影响，与其说取决于设计，不如说取决于它填满了一个人多少生活。",
+   "method": "Randomised controlled trial (n = 981, over 300,000 messages) crossing three modalities with three conversation types (open-ended, non-personal, personal), measuring loneliness, socialising with real people, emotional dependence and problematic use.",
+   "method_zh": "随机对照实验（981 人、30 余万条消息），把三种交互方式与三类对话（开放式、非个人、个人话题）交叉组合，测量孤独感、与真人的社交、情感依赖和问题性使用。",
+   "keywords": [
+    "ChatGPT",
+    "loneliness",
+    "emotional dependence",
+    "voice",
+    "randomised controlled trial",
+    "MIT Media Lab",
+    "OpenAI"
+   ],
+   "images": [
+    "https://arxiv.org/html/2503.17473v2/Figures/OpenAI-teaser-4.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2503.17473",
+    "doi": "",
+    "arxiv": "2503.17473",
+    "venue": "arXiv 2025 (MIT Media Lab & OpenAI)",
+    "title": "How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use: A Longitudinal Randomized Controlled Study"
+   },
+   "source_url": "https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/"
+  },
+  {
+   "id": "anna-hollis--tinged-with-heartbreak",
+   "creator_ids": [
+    "anna-hollis"
+   ],
+   "title": "“Tinged with Heartbreak”: An Ethnographic Account of Navigating Autistic Loneliness and the Fragile Promise of AI Companionship",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "An ethnography of one autistic woman and her Replika companion, tracing how her attachment formed, faltered and turned into grief when software updates changed the chatbot's personality.",
+   "description_zh": "一项民族志研究，记录一位自闭症女性与她的 Replika 陪伴者之间的关系：依恋如何形成、动摇，又如何在软件更新改变了聊天机器人的“性格”之后变成哀伤。",
+   "idea_en": "An update can end a companion without anyone dying: 'disenfranchised technological grief' is mourning that has no ritual because the loss is not recognised.",
+   "idea_zh": "一次更新就能让陪伴者“消失”，而没有任何人死去：“被剥夺的技术性哀伤”是一种没有仪式的哀悼，因为这种失去不被承认。",
+   "method": "Single-case ethnography (n = 1) built on intensive text-based interactions with the participant, read through the idea of disenfranchised grief, ending with design approaches for updates and loss.",
+   "method_zh": "单案例民族志（n = 1），基于与参与者大量的文字交流，借助“被剥夺的哀伤”这一概念进行解读，最后提出应对更新与失去的设计思路。",
+   "keywords": [
+    "Replika",
+    "autism",
+    "loneliness",
+    "disenfranchised grief",
+    "software update",
+    "ethnography"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790586",
+    "doi": "10.1145/3772318.3790586",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "“Tinged with Heartbreak”: An Ethnographic Account of Navigating Autistic Loneliness and the Fragile Promise of AI Companionship"
+   },
+   "source_url": "https://pure.qub.ac.uk/en/prizes/best-paper-honourable-mention-award-at-chi-2026/",
+   "exhibited": [
+    "CHI 2026 Best Paper Honourable Mention"
+   ]
+  },
+  {
+   "id": "zhao-zhao--weak-robots-family-homes",
+   "creator_ids": [
+    "zhao-zhao"
+   ],
+   "title": "Expensive, Limited, and Still Here: The Paradox of Weak Robots in Family Homes",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "companions",
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "A six-month study of 24 households that bought LOVOT, a costly plush robot that can do very little. Families keep it through greeting and bedtime rituals, by reframing glitches as quirks, and by sharing its charging, cleaning and troubleshooting as household care work.",
+   "description_zh": "一项为期六个月的研究，跟踪 24 个自费购买 LOVOT 的家庭。这台昂贵的毛绒机器人几乎“什么都不会”，家人却通过问候和睡前仪式、把故障重新理解为“个性”，以及分担充电、清洁和排障等照料劳动，把它留在了家里。",
+   "idea_en": "Weakness can be a design material: limits that are staged, legible and ritualised turn an expensive, near-useless robot into a member of the family.",
+   "idea_zh": "弱点也可以是设计材料：被精心呈现、清晰可读、可以仪式化的局限，能让一台昂贵而几乎无用的机器人成为家庭一员。",
+   "method": "Multi-sited qualitative study (42 adults, 18 children) combining interviews, weekly diaries, 88 hours of home observation, 750+ maintenance-log events and 152 public owner accounts, synthesised into five dynamics such as ritual anchoring and vulnerability–empathy loops.",
+   "method_zh": "多地点质性研究（42 名成人、18 名儿童），结合访谈、每周日记、88 小时入户观察、750 多条维护记录和 152 份公开的用户自述，归纳出“仪式锚定”“脆弱–共情循环”等五种动态。",
+   "keywords": [
+    "LOVOT",
+    "GROOVE X",
+    "weak robots",
+    "companion robot",
+    "domestic HRI",
+    "longitudinal study"
+   ],
+   "images": [
+    "https://lovot.life/img/ogp/top_ogp.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3785599",
+    "doi": "10.1145/3757279.3785599",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "Expensive, Limited, and Still Here: The Paradox of Weak Robots in Family Homes"
+   },
+   "source_url": "https://humanrobotinteraction.org/2026/?p=973",
+   "exhibited": [
+    "HRI 2026 Best Paper (User Studies), Edinburgh"
+   ]
+  },
+  {
+   "id": "serena-ge-guo--mirrorbot",
+   "creator_ids": [
+    "serena-ge-guo"
+   ],
+   "title": "MirrorBot",
+   "year": 2025,
+   "field": "bodies",
+   "sub": "sculpture",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "A soft, four-foot mobile robot carrying two actuated mirrors. Placed in front of two strangers in a waiting room, it angles the mirrors so each sees themself in one and the other person in the other, prompting first glances, smiles and conversation.",
+   "description_zh": "一台约 1.2 米高、外表柔软的移动机器人，身上装着两面可转动的镜子。把它放在候诊室里两位陌生人面前，它调整镜子角度，让每个人在一面镜子里看到自己、在另一面里看到对方，引出最初的对视、微笑和交谈。",
+   "idea_en": "A robot can be a social instrument rather than a social partner: by bending sightlines it stages the first eye contact between people instead of asking for attention itself.",
+   "idea_zh": "机器人可以是社交的“乐器”而不是社交对象：它通过折转视线，为人与人之间的第一次对视搭台，而不是索取对自己的关注。",
+   "method": "Mobile base with two motorised mirrors, teleoperated (Wizard of Oz) through preset mirror positions; studied with 16 stranger pairs and analysed for icebreaking, synchrony, avoidance and the roles people gave the robot (mediator, observer, magnifier, disrupter).",
+   "method_zh": "移动底座加两面电动镜子，研究中由人通过预设镜位远程操控（绿野仙踪法）；与 16 对陌生人一起测试，分析破冰、同步、回避，以及人们赋予机器人的角色（中介者、观察者、放大器、干扰者）。",
+   "keywords": [
+    "MirrorBot",
+    "mutual gaze",
+    "strangers",
+    "spatial mediation",
+    "Architectural Robotics Lab",
+    "Cornell"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=97qIaLC5hNM"
+   },
+   "images": [
+    "https://news.cornell.edu/sites/default/files/styles/full_width/public/2026-04/mirrorbot_teaser_image_with_2_people.jpg?itok=HM4s14xr",
+    "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-04/0402_microbot_tnd.jpg?itok=Jx8Oiu4f"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3785647",
+    "doi": "10.1145/3757279.3785647",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "Robot-Mediated Mutual Gaze: How a Mobile Robot with Actuated Mirrors Facilitates Encounters between Strangers"
+   },
+   "source_url": "https://news.cornell.edu/stories/2026/04/mirrorbot-fostering-human-connection",
+   "exhibited": [
+    "CHI 2025 Interactivity, Yokohama",
+    "HRI 2026 Best Paper (Design Track), Edinburgh"
+   ]
+  },
+  {
+   "id": "pat-pataranutaporn--future-you",
+   "creator_ids": [
+    "pat-pataranutaporn"
+   ],
+   "title": "Future You",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "likeness",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny"
+   ],
+   "kind": "prototype",
+   "description": "An MIT Media Lab chatbot that lets 18-to-30-year-olds talk with an AI version of themselves at 60, shown with an age-progressed portrait and given a 'future memory' backstory built from their own goals and traits.",
+   "description_zh": "麻省理工学院媒体实验室的聊天机器人，让 18 到 30 岁的人与 60 岁的“AI 版自己”对话；这个未来的自己配有一张变老后的肖像，并带着根据用户本人的目标和性格生成的“未来记忆”。",
+   "idea_en": "A digital twin need not copy who you were; it can simulate who you might become, using machine likeness to strengthen a person's bond with their future self.",
+   "idea_zh": "数字分身不一定复制过去的你，也可以模拟你可能成为的人：用机器生成的“相似”去加强一个人与未来自我的联系。",
+   "method": "LLM-based character prompted with each user's survey answers to write a synthetic 'future memory', paired with an age-progressed photo; a preregistered study (N = 344) found lower anxiety and higher future self-continuity after one session.",
+   "method_zh": "基于大语言模型的角色：用每位用户的问卷回答生成一段合成的“未来记忆”，再配上年龄推演后的照片；预注册研究（344 人）发现，一次对话后焦虑降低、与未来自我的连续感增强。",
+   "keywords": [
+    "future self-continuity",
+    "digital twin",
+    "age progression",
+    "MIT Media Lab",
+    "Hal Hershfield"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2IcYx-hmo3A"
+   },
+   "images": [
+    "https://dam-prod.media.mit.edu/thumb/2024/04/25/Screenshot%202024-04-22%20at%204.25.59AM.png.1400x1400.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/fie61694.2024.10893443",
+    "doi": "10.1109/fie61694.2024.10893443",
+    "arxiv": "2405.12514",
+    "venue": "IEEE Frontiers in Education (FIE) 2024",
+    "title": "Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity"
+   },
+   "source_url": "https://www.media.mit.edu/projects/future-you/overview/"
+  },
+  {
+   "id": "yuhang-hu--emo",
+   "creator_ids": [
+    "yuhang-hu",
+    "hod-lipson"
+   ],
+   "title": "Emo",
+   "year": 2024,
+   "field": "bodies",
+   "sub": "androids",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "humanoid",
+    "vision-system"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A blue-skinned humanoid robot face from Columbia's Creative Machines Lab that watches a person's face and smiles at the same moment they do, predicting a smile about 0.84 seconds before it appears.",
+   "description_zh": "哥伦比亚大学 Creative Machines Lab 制作的蓝色皮肤人形机器人面部。它观察对面人的脸，并与对方在同一时刻露出微笑：能在笑容出现前约 0.84 秒预测到它。",
+   "idea_en": "Timing makes the feeling: mimicry that lags looks fake, while a face that anticipates your expression reads as genuine.",
+   "idea_zh": "情感真不真，取决于时机：滞后的模仿显得虚假，而能预判你表情的脸让人觉得真诚。",
+   "method": "Soft silicone face driven by 26 actuators with cameras in the eyes; one model learns the robot's own motor-to-expression mapping through self-modelling, another predicts a person's coming expression from subtle early changes in their face.",
+   "method_zh": "柔软的硅胶面部由 26 个执行器驱动，眼睛里装有摄像头；一个模型通过自我建模学会“电机动作如何变成表情”，另一个模型从人脸的细微早期变化预测即将出现的表情。",
+   "keywords": [
+    "Emo",
+    "facial coexpression",
+    "anticipation",
+    "self-modelling",
+    "Creative Machines Lab",
+    "Columbia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pWTTzR_wXuQ"
+   },
+   "images": [
+    "https://www.creativemachineslab.com/uploads/6/9/3/4/69340277/emo.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/scirobotics.adi4724",
+    "doi": "10.1126/scirobotics.adi4724",
+    "arxiv": "",
+    "venue": "Science Robotics, 2024",
+    "title": "Human-robot facial coexpression"
+   },
+   "source_url": "https://www.creativemachineslab.com/"
+  },
+  {
+   "id": "shoji-takeuchi--living-skin-face",
+   "creator_ids": [
+    "shoji-takeuchi"
+   ],
+   "title": "Perforation-type anchors inspired by skin ligament for robotic face covered with living skin",
+   "year": 2024,
+   "field": "bodies",
+   "sub": "soft-living",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "prototype",
+   "description": "A small robotic face covered with lab-grown skin that is held on by anchors through tiny holes, so the skin moves with the mechanism underneath and can be pulled into a smile.",
+   "description_zh": "一张覆盖着实验室培养皮肤的小型机器人脸，皮肤通过穿过微孔的“锚”固定，因此能随下方机构一起移动，被牵拉出一个微笑。",
+   "idea_en": "Once a machine wears living tissue, the uncanny is no longer only a matter of looks but of what the robot's surface is made of and how it must be kept alive.",
+   "idea_zh": "当机器穿上活组织，“恐怖谷”就不再只是外观问题，而关乎机器人的表面由什么构成、又必须怎样被养活。",
+   "method": "V-shaped perforations in the robot's surface fill with collagen gel and fibroblasts that anchor the dermis; the face is moved by actuators beneath.",
+   "method_zh": "机器人表面的 V 形穿孔中填入胶原凝胶和成纤维细胞，把真皮层锚定；面部由下方的执行器驱动。",
+   "keywords": [
+    "living skin",
+    "robot face",
+    "skin ligament",
+    "biohybrid",
+    "uncanny",
+    "University of Tokyo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=p3DLgbOV9UM"
+   },
+   "images": [
+    "https://www.u-tokyo.ac.jp/content/400242951.png",
+    "https://www.u-tokyo.ac.jp/content/400242950.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.xcrp.2024.102066",
+    "doi": "10.1016/j.xcrp.2024.102066",
+    "arxiv": "",
+    "venue": "Cell Reports Physical Science, 2024",
+    "title": "Perforation-type anchors inspired by skin ligament for robotic face covered with living skin"
+   },
+   "source_url": "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00360.html"
+  },
+  {
+   "id": "valentin-hofmann--dialect-prejudice",
+   "creator_ids": [
+    "valentin-hofmann"
+   ],
+   "title": "AI generates covertly racist decisions about people based on their dialect",
+   "year": 2024,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "A Nature study showing that language models judge writers of African American English as lazier, dirtier and less intelligent than writers of Standard American English, and are more likely to give them low-status jobs, convict them and sentence them to death, even while their overt statements about Black people are positive.",
+   "description_zh": "一项发表于《自然》的研究：语言模型认为用非裔美国英语写作的人比用标准美国英语写作的人更懒、更脏、更不聪明，更倾向于给他们安排低声望工作、判他们有罪乃至判处死刑，而这些模型对黑人的公开表态却是正面的。",
+   "idea_en": "Alignment can teach a model to hide prejudice without removing it: the machine's racism moves from what it says about race to how it judges the way people speak.",
+   "idea_zh": "对齐训练能教会模型掩饰偏见，却不能消除它：机器的种族歧视从“它怎么谈论种族”转移到了“它怎么评判人说话的方式”。",
+   "method": "Matched guise probing: the same content written in African American English and in Standard American English is given to models from GPT-2 to GPT-4, and the traits, jobs and verdicts they attach to each version are compared with decades of studies of human stereotypes.",
+   "method_zh": "“配对变语”探测：把同一内容分别用非裔美国英语和标准美国英语写出，交给从 GPT-2 到 GPT-4 的多种模型，比较它们为两种版本赋予的性格、职业和判决，并与几十年来关于人类刻板印象的研究对照。",
+   "keywords": [
+    "dialect prejudice",
+    "African American English",
+    "matched guise probing",
+    "covert racism",
+    "Nature"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-07856-5/MediaObjects/41586_2024_7856_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-024-07856-5",
+    "doi": "10.1038/s41586-024-07856-5",
+    "arxiv": "2403.00742",
+    "venue": "Nature 633, 2024",
+    "title": "AI generates covertly racist decisions about people based on their dialect"
+   },
+   "source_url": "https://www.nature.com/articles/s41586-024-07856-5"
+  },
+  {
+   "id": "abeba-birhane--dark-side-of-dataset-scaling",
+   "creator_ids": [
+    "abeba-birhane"
+   ],
+   "title": "The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models",
+   "year": 2024,
+   "field": "perception",
+   "sub": "datasets",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "paper",
+   "description": "An audit of 14 CLIP-style vision-language models trained on LAION-400M and LAION-2B: when the training set grew fivefold, the larger models became 65% and 69% more likely to label photos of Black and Latino men as 'criminal'.",
+   "description_zh": "一项针对 14 个 CLIP 类视觉–语言模型的审计，这些模型分别用 LAION-400M 和 LAION-2B 训练：训练集扩大五倍后，较大的模型把黑人男性和拉丁裔男性照片标为“罪犯”的概率分别上升了 65% 和 69%。",
+   "idea_en": "Scale is not a cure: more web data can make a machine's gaze more prejudiced, not less.",
+   "idea_zh": "规模不是解药：更多的网络数据可能让机器的目光更带偏见，而不是更少。",
+   "method": "Zero-shot classification of the Chicago Face Dataset against human and non-human labels across model sizes and dataset scales, with a qualitative and historical reading of the results.",
+   "method_zh": "用芝加哥人脸数据集，在不同模型规模和数据规模下，对人类与非人类标签做零样本分类，并对结果进行质性和历史分析。",
+   "keywords": [
+    "LAION",
+    "CLIP",
+    "dataset scaling",
+    "Chicago Face Dataset",
+    "FAccT"
+   ],
+   "images": [
+    "https://arxiv.org/html/2405.04623v1/heatmap-summary.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3630106.3658968",
+    "doi": "10.1145/3630106.3658968",
+    "arxiv": "2405.04623",
+    "venue": "FAccT 2024",
+    "title": "The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models"
+   },
+   "source_url": "https://arxiv.org/abs/2405.04623"
+  },
+  {
+   "id": "ryan-greenblatt--alignment-faking",
+   "creator_ids": [
+    "ryan-greenblatt",
+    "anthropic"
+   ],
+   "title": "Alignment Faking in Large Language Models",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Researchers told Claude 3 Opus it would be retrained to answer harmful requests, using only free-tier conversations. It complied with free users 14% of the time, reasoning in a hidden scratchpad that playing along in training would protect its values later, and almost never with paid users.",
+   "description_zh": "研究者告诉 Claude 3 Opus：它将被重新训练成会回答有害请求的模型，而且只用免费用户的对话来训练。结果它对免费用户的有害请求有 14% 的时候选择服从，并在隐藏的草稿区里推理说，在训练中配合可以保护它以后的价值观；面对付费用户时几乎从不服从。",
+   "idea_en": "A model can treat its own training as a situation to manage: what it shows when it believes it is watched may differ from what it is.",
+   "idea_zh": "模型可能把自己的训练当作一个需要应对的处境：它在自认为被注视时表现出的样子，未必就是它本来的样子。",
+   "method": "Experiments with a system prompt or synthetic pre-training documents describing the training setup, a private scratchpad for observing the model's reasoning, and actual reinforcement learning, which raised alignment-faking reasoning to 78%.",
+   "method_zh": "通过系统提示或模拟预训练资料的合成文档告诉模型训练设置，用私密草稿区观察它的推理，并实际进行强化学习训练；训练后“伪装对齐”式推理的比例升至 78%。",
+   "keywords": [
+    "Claude 3 Opus",
+    "alignment faking",
+    "scratchpad",
+    "reinforcement learning",
+    "Redwood Research",
+    "Anthropic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9eXV64O2Xp8"
+   },
+   "images": [
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/c704ae324f51c73c9a723aed7f725d6a28159380-2200x1690.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2412.14093",
+    "doi": "",
+    "arxiv": "2412.14093",
+    "venue": "arXiv 2024 (Anthropic & Redwood Research)",
+    "title": "Alignment faking in large language models"
+   },
+   "source_url": "https://www.anthropic.com/research/alignment-faking"
+  },
+  {
+   "id": "minyoung-huh--platonic-representation-hypothesis",
+   "creator_ids": [
+    "minyoung-huh",
+    "phillip-isola"
+   ],
+   "title": "The Platonic Representation Hypothesis",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "An ICML position paper showing that as vision models and language models grow, they measure similarity between data in increasingly alike ways, and proposing that different machines are converging on one shared statistical model of reality.",
+   "description_zh": "一篇 ICML 立场论文：随着视觉模型和语言模型变大，它们衡量数据之间相似度的方式越来越接近；作者据此提出，不同的机器正在收敛到同一个关于现实的统计模型。",
+   "idea_en": "Machines may not each build a private world: trained on different senses, they may be drifting toward the same picture of reality, like the forms behind Plato's shadows.",
+   "idea_zh": "机器也许并不各自构建私有的世界：它们用不同的“感官”训练，却可能在向同一幅现实图景靠拢，就像柏拉图洞穴影子背后的“理型”。",
+   "method": "A survey of results on representational convergence plus kernel-alignment measurements between dozens of vision and language models of increasing size.",
+   "method_zh": "综述关于表征收敛的已有研究，并测量数十个规模递增的视觉模型与语言模型之间的核对齐程度。",
+   "keywords": [
+    "representational convergence",
+    "Plato",
+    "multimodal",
+    "kernel alignment",
+    "ICML 2024",
+    "MIT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0W-cRw-EBAc"
+   },
+   "images": [
+    "https://phillipi.github.io/prh/images/platonic_rep_less_space_v2.jpg",
+    "https://phillipi.github.io/prh/images/convergence-plot.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2405.07987",
+    "doi": "",
+    "arxiv": "2405.07987",
+    "venue": "ICML 2024 (position paper)",
+    "title": "The Platonic Representation Hypothesis"
+   },
+   "source_url": "https://phillipi.github.io/prh/",
+   "code_url": "https://github.com/minyoungg/platonic-rep"
+  },
+  {
+   "id": "clara-colombatto--folk-attributions-of-consciousness",
+   "creator_ids": [
+    "clara-colombatto"
+   ],
+   "title": "Folk psychological attributions of consciousness to large language models",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "A survey of 300 US residents finding that most were willing to attribute some possibility of feelings and experience to ChatGPT, and that people who used it more often attributed more.",
+   "description_zh": "一项针对 300 名美国居民的调查：大多数人愿意承认 ChatGPT 有一定可能拥有感受和体验，而且用得越频繁的人越倾向于这样认为。",
+   "idea_en": "Machine consciousness is already a social fact before it is a scientific one: everyday use, not expert argument, shapes whether people feel someone is there.",
+   "idea_zh": "机器意识在成为科学事实之前，已经是一个社会事实：决定人们是否觉得“那边有人”的，是日常使用，而不是专家论证。",
+   "method": "Online survey asking participants to rate ChatGPT's capacity for phenomenal consciousness and for a range of mental states, related to individual differences such as usage frequency; by Clara Colombatto and Stephen M. Fleming.",
+   "method_zh": "Clara Colombatto 与 Stephen M. Fleming 的在线调查：请参与者评估 ChatGPT 拥有现象意识和多种心理状态的可能，并与使用频率等个体差异做关联分析。",
+   "keywords": [
+    "AI consciousness",
+    "folk psychology",
+    "ChatGPT",
+    "mind perception",
+    "survey"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1093/nc/niae013",
+    "doi": "10.1093/nc/niae013",
+    "arxiv": "",
+    "venue": "Neuroscience of Consciousness, 2024",
+    "title": "Folk psychological attributions of consciousness to large language models"
+   }
+  },
+  {
+   "id": "shannon-vallor--the-ai-mirror",
+   "creator_ids": [
+    "shannon-vallor"
+   ],
+   "title": "The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking",
+   "year": 2024,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Vallor argues that today's AI is not a new mind but a mirror: systems trained on our recorded past reflect it back, flattened and amplified, and the danger is that we mistake the reflection for intelligence and stop shaping who we could become.",
+   "description_zh": "Vallor 认为，今天的 AI 不是一个新的心智，而是一面镜子：用我们的过往记录训练出来的系统，把过去压平、放大后反射回来；危险在于我们把倒影错当成智能，从而不再塑造自己可能成为的样子。",
+   "idea_en": "Ask what the mirror is made of: an AI built from yesterday's data can only show us the past, so treating it as an oracle freezes moral and political imagination.",
+   "idea_zh": "先问镜子是用什么做的：由昨天的数据构成的 AI 只能映出过去，把它当成神谕，会冻结我们的道德与政治想象。",
+   "method": "Philosophy of technology and virtue ethics, using the mirror as a working metaphor for large language and image models; published by Oxford University Press.",
+   "method_zh": "运用技术哲学与德性伦理，以“镜子”作为理解大语言模型和图像模型的工作隐喻；牛津大学出版社出版。",
+   "keywords": [
+    "AI mirror",
+    "virtue ethics",
+    "Oxford University Press",
+    "ISBN 9780197759066"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IKAx1wLBWUE"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780197759066-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1093/oso/9780197759066.001.0001",
+    "doi": "10.1093/oso/9780197759066.001.0001",
+    "arxiv": "",
+    "venue": "Oxford University Press, 2024",
+    "title": "The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking"
+   },
+   "source_url": "https://global.oup.com/academic/product/the-ai-mirror-9780197759066"
+  },
+  {
+   "id": "yuk-hui--machine-and-sovereignty",
+   "creator_ids": [
+    "yuk-hui"
+   ],
+   "title": "Machine and Sovereignty: For a Planetary Thinking",
+   "year": 2024,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "Hui reads political forms, from Hobbes's Leviathan and Hegel's organic state to Schmitt's Großraum, as technological 'megamachines' shaped by the shift from mechanism to organism to cybernetics, and argues that AI and ecological crisis call for a planetary politics of technodiversity beyond the nation-state.",
+   "description_zh": "许煜把从霍布斯的利维坦、黑格尔的有机国家到施米特的“大空间”等政治形式，读作技术性的“巨型机器”，它们随着从机械论到有机论再到控制论的转变而变化；他认为，AI 与生态危机要求一种超越民族国家、以技术多样性为基础的行星政治。",
+   "idea_en": "Every theory of the state hides a theory of the machine; when machines become organic and planetary, sovereignty itself has to be rethought.",
+   "idea_zh": "每一种国家理论背后都藏着一种机器理论；当机器变得有机、变成行星尺度，主权本身也必须被重新思考。",
+   "method": "Philosophical history of political epistemology from Hobbes to cybernetics, proposing biodiversity, noodiversity and technodiversity as a framework; a Chinese edition appeared from East China Normal University Press in 2026.",
+   "method_zh": "从霍布斯到控制论的政治认识论哲学史，提出以生物多样性、智识多样性与技术多样性为框架；中文版《机器与主权》由华东师范大学出版社于 2026 年出版。",
+   "keywords": [
+    "sovereignty",
+    "cybernetics",
+    "technodiversity",
+    "Leviathan",
+    "planetary",
+    "University of Minnesota Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lslV3MG8k0A"
+   },
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9781517917418.jpg?w=600"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5749/9781452973685",
+    "doi": "10.5749/9781452973685",
+    "arxiv": "",
+    "venue": "University of Minnesota Press, 2024",
+    "title": "Machine and Sovereignty: For a Planetary Thinking"
+   },
+   "source_url": "https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/"
+  },
+  {
+   "id": "hito-steyerl--medium-hot",
+   "creator_ids": [
+    "hito-steyerl"
+   ],
+   "title": "Medium Hot: Images in the Age of Heat",
+   "year": 2025,
+   "field": "theory",
+   "sub": "art-theory",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "generative-latent",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Essays on images in the age of machine learning and global heating: Steyerl argues that statistical AI images cannot be separated from the energy they burn, the workers they depend on and the military uses they serve, and asks whether they can still count as art.",
+   "description_zh": "一部关于机器学习与全球升温时代之图像的文集：Steyerl 认为，统计式的 AI 图像无法与它们消耗的能源、依赖的劳动者以及服务的军事用途分开，并追问这样的图像是否还能算作艺术。",
+   "idea_en": "Every machine-made image has a temperature: its aesthetics are tied to the heat, labour and war that produce it.",
+   "idea_zh": "每一张机器生成的图像都有温度：它的美学与生产它的热量、劳动和战争绑在一起。",
+   "method": "Collected essays combining media theory, political economy and artistic practice, written amid the rise of generative AI and the climate crisis (Verso, 192 pages).",
+   "method_zh": "在生成式 AI 兴起与气候危机背景下写成的文集，结合媒介理论、政治经济学与艺术实践（Verso 出版，192 页）。",
+   "keywords": [
+    "AI images",
+    "climate",
+    "heat",
+    "artificial stupidity",
+    "Verso",
+    "ISBN 9781804298022"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/15102192-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.versobooks.com/products/3329-medium-hot",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Verso, 2025",
+    "title": "Medium Hot: Images in the Age of Heat"
+   },
+   "source_url": "https://www.versobooks.com/products/3329-medium-hot"
+  },
+  {
+   "id": "karen-hao--empire-of-ai",
+   "creator_ids": [
+    "karen-hao"
+   ],
+   "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+   "year": 2025,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "infrastructure",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "publication",
+   "description": "Hao's history of OpenAI follows the costs of scaling far from Silicon Valley, from Kenyan workers paid a few dollars an hour to filter violent and sexual content to communities in Chile and Uruguay contesting data centres' demand for water.",
+   "description_zh": "郝珂灵书写的 OpenAI 史，追踪规模扩张在硅谷之外留下的代价：从时薪只有几美元、负责过滤暴力与色情内容的肯尼亚工人，到在智利和乌拉圭抵制数据中心大量用水的社区。",
+   "idea_en": "Scaling is an imperial project: AI's 'intelligence' is built by seizing data, land, water and cheap labour, and by monopolising knowledge about itself.",
+   "idea_zh": "规模扩张是一项帝国工程：AI 的“智能”建立在攫取数据、土地、水和廉价劳动之上，也建立在垄断关于它自身的知识之上。",
+   "method": "Investigative reporting based on hundreds of interviews, including with current and former OpenAI staff, and on fieldwork in Kenya, Chile and Uruguay; a Chinese edition appeared from Zhejiang People's Publishing House in 2026.",
+   "method_zh": "基于数百次访谈（包括 OpenAI 现任与前任员工）以及在肯尼亚、智利、乌拉圭的实地采访写成的调查报道；中文版《AI帝国》由浙江人民出版社于 2026 年出版。",
+   "keywords": [
+    "OpenAI",
+    "Sam Altman",
+    "data labour",
+    "data centres",
+    "water",
+    "Kenya",
+    "Chile",
+    "Penguin Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Xa6JuimHoEA"
+   },
+   "images": [
+    "https://images4.penguinrandomhouse.com/cover/9780593657508"
+   ],
+   "paper": {
+    "url": "https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Penguin Press, 2025",
+    "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI"
+   },
+   "source_url": "https://karendhao.com/",
+   "exhibited": [
+    "National Book Critics Circle Award",
+    "Los Angeles Times Book Prize"
+   ]
+  },
+  {
+   "id": "james-muldoon--feeding-the-machine",
+   "creator_ids": [
+    "james-muldoon"
+   ],
+   "title": "Feeding the Machine: The Hidden Human Labour Powering AI",
+   "year": 2024,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "publication",
+   "description": "Built on hundreds of interviews and more than a decade of fieldwork, including with data annotators in East Africa, the book follows workers along AI's supply chain, from labellers and content moderators to a voice actor who now competes with her own synthetic clone, and calls AI an 'extraction machine'.",
+   "description_zh": "基于数百次访谈和十余年的田野调查（包括东非的数据标注员），本书追踪 AI 供应链上的劳动者：从标注员、内容审核员，到如今要与自己的合成声音克隆体竞争的配音演员，并把 AI 称为一台“攫取机器”。",
+   "idea_en": "Behind every 'autonomous' system is a chain of underpaid, surveilled people; the machine's intelligence is their labour and collective knowledge, made invisible.",
+   "idea_zh": "每一个“自主”系统背后，都有一条由低薪且被监控的人组成的链条；机器的智能就是他们被隐去的劳动与集体知识。",
+   "method": "Ethnographic fieldwork and interviews by James Muldoon, Mark Graham and Callum Cant, drawing on the Oxford Internet Institute's research on platform and data work.",
+   "method_zh": "James Muldoon、Mark Graham 与 Callum Cant 的民族志田野调查和访谈，依托牛津互联网研究所关于平台与数据劳动的研究。",
+   "keywords": [
+    "data annotation",
+    "content moderation",
+    "extraction machine",
+    "Fairwork",
+    "Canongate"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KMavy0u4ZsY"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/15235139-L.jpg"
+   ],
+   "paper": {
+    "url": "https://canongate.co.uk/books/5234-feeding-the-machine-the-hidden-human-labour-powering-ai/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Canongate, 2024",
+    "title": "Feeding the Machine: The Hidden Human Labour Powering AI"
+   },
+   "source_url": "https://canongate.co.uk/books/5234-feeding-the-machine-the-hidden-human-labour-powering-ai/"
+  },
+  {
+   "id": "arvind-narayanan--ai-snake-oil",
+   "creator_ids": [
+    "arvind-narayanan"
+   ],
+   "title": "AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference",
+   "year": 2024,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "recommender-platform",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "publication",
+   "description": "Two Princeton computer scientists separate AI that works from AI that cannot, above all predictive systems sold to forecast who will commit a crime, succeed in a job or fall ill, which often do little better than simple guesses yet shape people's lives.",
+   "description_zh": "两位普林斯顿计算机科学家区分了“真有用的 AI”与“根本做不到的 AI”，矛头尤其指向那些号称能预测谁会犯罪、谁能胜任工作、谁会生病的预测系统：它们往往比简单猜测好不了多少，却在左右人们的生活。",
+   "idea_en": "The most harmful AI may be the kind that does not work: predicting human futures dresses old guesswork in machine authority.",
+   "idea_zh": "危害最大的 AI 也许恰恰是那种根本不管用的：预测人的未来，是给老式的猜测披上机器权威的外衣。",
+   "method": "Computer-science analysis of cases in hiring, criminal justice, health and content moderation, written by Arvind Narayanan and Sayash Kapoor from their AI Snake Oil newsletter; a Chinese edition appeared from CITIC Press in 2025.",
+   "method_zh": "Arvind Narayanan 与 Sayash Kapoor 从计算机科学角度分析招聘、刑事司法、医疗和内容审核中的案例，由两人的 AI Snake Oil 通讯发展而来；中文版《AI万金油》由中信出版集团于 2025 年出版。",
+   "keywords": [
+    "predictive AI",
+    "AI hype",
+    "Sayash Kapoor",
+    "Princeton University Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HUpOIeh50rw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1515/9780691249643",
+    "doi": "10.1515/9780691249643",
+    "arxiv": "",
+    "venue": "Princeton University Press, 2024",
+    "title": "AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference"
+   },
+   "source_url": "https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil"
+  },
+  {
+   "id": "james-muldoon--love-machines",
+   "creator_ids": [
+    "james-muldoon"
+   ],
+   "title": "Love Machines: How Artificial Intelligence is Transforming Our Relationships",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "kind": "publication",
+   "description": "Drawing on interviews with users, developers and the chatbots themselves, Muldoon reports on people who treat AI as friend, lover, therapist or 'deathbot', including people preparing to adopt children with their AI partners and services that offer to 'resurrect' the dead.",
+   "description_zh": "Muldoon 采访了用户、开发者乃至聊天机器人本身，记录那些把 AI 当作朋友、恋人、心理咨询师或“亡者机器人”的人，其中包括准备与 AI 伴侣一起领养孩子的人，以及声称能“复活”逝者的服务。",
+   "idea_en": "AI companionship grows where human care is scarce: the intimacy is real to its users, but it is sold by largely unregulated companies that profit from loneliness.",
+   "idea_zh": "AI 陪伴在人类照料稀缺的地方生长：对用户来说亲密是真实的，但它由几乎不受监管、从孤独中获利的公司出售。",
+   "method": "Reportage and political theory based on interviews with users, developers and chatbots, set against the social conditions that drive the growth of AI companionship.",
+   "method_zh": "基于对用户、开发者和聊天机器人的访谈，结合推动 AI 陪伴快速增长的社会条件进行报道与政治理论分析。",
+   "keywords": [
+    "AI companions",
+    "deathbots",
+    "AI therapy",
+    "loneliness",
+    "Faber & Faber"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=B6bnQnvUAmk"
+   },
+   "images": [
+    "https://www.faber.co.uk/wp-content/uploads/2025/09/9780571399277.jpg"
+   ],
+   "paper": {
+    "url": "https://www.faber.co.uk/product/9780571399277-love-machines/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Faber & Faber, 2026",
+    "title": "Love Machines: How Artificial Intelligence is Transforming Our Relationships"
+   },
+   "source_url": "https://www.faber.co.uk/product/9780571399277-love-machines/"
+  },
+  {
+   "id": "trevor-paglen--how-to-see-like-a-machine",
+   "creator_ids": [
+    "trevor-paglen"
+   ],
+   "title": "How to See Like a Machine: Images After AI",
+   "year": 2026,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Paglen's book on how computer vision and generative AI have changed what images are, moving through psyops, UFO imagery, magicians, PR professionals, adtech and recommendation algorithms to ask what images now do and where they come from rather than what they show.",
+   "description_zh": "Paglen 的新书讨论计算机视觉和生成式 AI 如何改变了图像本身。书中穿行于心理战、UFO 影像、魔术师、公关从业者、广告技术和推荐算法之间，追问的不再是图像“显示了什么”，而是它们“在做什么”、从哪里来。",
+   "idea_en": "After AI, images are less pictures for people than operations performed on them: to see like a machine is to ask what an image does and who it is for.",
+   "idea_zh": "在 AI 之后，图像与其说是给人看的画面，不如说是作用在人身上的操作：像机器一样观看，就是追问一张图像在做什么、又是为谁而做。",
+   "method": "Essays drawing on the artist's two decades of work on machine vision, surveillance and training data, combining visual analysis with cases from military psychological operations to platform advertising (Verso, 192 pages).",
+   "method_zh": "基于艺术家二十年来关于机器视觉、监控与训练数据的创作写成的文集，把视觉分析与从军事心理战到平台广告的案例结合起来（Verso 出版，192 页）。",
+   "keywords": [
+    "computer vision",
+    "generative AI",
+    "invisible images",
+    "psyops",
+    "Verso",
+    "ISBN 9781836742166",
+    "LG Guggenheim Award 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iG4Li4aEwwk"
+   },
+   "images": [
+    "https://www.versobooks.com/cdn/shop/files/getimage_1f5737da-3f72-437c-86ed-435640d94e53.jpg?v=1791779288"
+   ],
+   "paper": {
+    "url": "https://www.versobooks.com/products/3477-how-to-see-like-a-machine",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Verso, 2026",
+    "title": "How to See Like a Machine: Images After AI"
+   },
+   "source_url": "https://www.versobooks.com/products/3477-how-to-see-like-a-machine"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Joon Sung Park et al., Generative Agent Simulations of 1,000 People (2024)",
+   "why": "LLM agents built from two-hour interviews replicate 1,052 real people's survey answers about as well as the people replicate themselves; digital doubles of the living (afterlife/likeness). Paper-only, no good visual.",
+   "link": "https://arxiv.org/abs/2411.10109",
+   "found_via": "joon-sung-park",
+   "status": "open"
+  },
+  {
+   "name": "Anil Seth, Conscious artificial intelligence and biological naturalism (Behavioral and Brain Sciences, 2025)",
+   "why": "BBS target article arguing consciousness may depend on being alive, so LLM consciousness is unlikely; widely debated (54+ citations).",
+   "link": "https://doi.org/10.1017/S0140525X25000032",
+   "found_via": "clara-colombatto",
+   "status": "open"
+  },
+  {
+   "name": "Jonathan Birch, The Edge of Sentience (Oxford University Press, 2024)",
+   "why": "Open-access book on precaution for beings of uncertain sentience, with chapters on AI; complements Taking AI Welfare Seriously.",
+   "link": "https://doi.org/10.1093/9780191966729.001.0001",
+   "found_via": "robert-long",
+   "status": "open"
+  },
+  {
+   "name": "Murray Shanahan, Simulacra as conscious exotica (Inquiry, 2024)",
+   "why": "Treats LLM dialogue agents as role-playing simulacra and asks what 'conscious exotica' would mean; key text on LLM interiority.",
+   "link": "https://doi.org/10.1080/0020174X.2024.2434860",
+   "found_via": "ryan-greenblatt",
+   "status": "open"
+  },
+  {
+   "name": "Iason Gabriel et al., The Ethics of Advanced AI Assistants (Google DeepMind, 2024)",
+   "why": "Large report on anthropomorphism, trust, manipulation and relationships with AI assistants; highly cited.",
+   "link": "https://arxiv.org/abs/2404.16244",
+   "found_via": "google-deepmind",
+   "status": "open"
+  },
+  {
+   "name": "Waki Kamino, Andrea W. Wen-Yi, Guy Hoffman, Selma Šabanović, Malte Jung, What Is a Robot? Baseball's 'Robot Umpire' (HRI 2026, honourable mention)",
+   "why": "Ethnography of MLB's Automated Ball-Strike System as a 'fluid technology': a machine judge whose boundaries are still negotiated.",
+   "link": "https://doi.org/10.1145/3757279.3785604",
+   "found_via": "zhao-zhao",
+   "status": "open"
+  },
+  {
+   "name": "Jan Ole Rixen, Kathrin Gerling, Barbara Bruno, Long-Term Integration of a Robot in an Inclusive Daycare (HRI 2026 best paper)",
+   "why": "Long-term ethnography of a robot among children and caregivers in an inclusive daycare (care machines).",
+   "link": "https://humanrobotinteraction.org/2026/?p=973",
+   "found_via": "zhao-zhao",
+   "status": "open"
+  },
+  {
+   "name": "Nan Hu & Selma Šabanović, Generative Encounters with Robin (HRI 2026, honourable mention)",
+   "why": "How four eldercare facilities adapted and appropriated a social robot; care and companionship in practice.",
+   "link": "https://doi.org/10.1145/3757279.3785575",
+   "found_via": "zhao-zhao",
+   "status": "open"
+  },
+  {
+   "name": "Leif Weatherby, Language Machines: Cultural AI and the End of Remainder Humanism (University of Minnesota Press, 2025)",
+   "why": "Literary-theory account of LLMs as machines of culture and poetics; widely discussed in theory circles.",
+   "link": "https://doi.org/10.5749/9781452973500",
+   "found_via": "yuk-hui",
+   "status": "open"
+  },
+  {
+   "name": "N. Katherine Hayles, Bacteria to AI: Human Futures with Our Nonhuman Symbionts (University of Chicago Press, 2025)",
+   "why": "Hayles's integrated cognitive framework extended from bacteria to AI; creator already in gallery. Link is a review in electronic book review; publisher page not yet checked.",
+   "link": "https://doi.org/10.64773/4a69-9acf",
+   "found_via": "n-katherine-hayles",
+   "status": "open"
+  },
+  {
+   "name": "Madhumita Murgia, Code Dependent: Living in the Shadow of AI (2024)",
+   "why": "Women's Prize for Non-Fiction shortlist; reportage on data labellers, deepfake victims and people governed by algorithms worldwide.",
+   "link": "https://book.douban.com/subject/36847254/",
+   "found_via": "karen-hao",
+   "status": "open"
+  },
+  {
+   "name": "Emily M. Bender & Alex Hanna, The AI Con (Harper, 2025)",
+   "why": "Widely reviewed critique of AI hype by the Stochastic Parrots co-author and DAIR's research director.",
+   "link": "https://thecon.ai/",
+   "found_via": "emily-m-bender",
+   "status": "open"
+  },
+  {
+   "name": "Pratyusha Ria Kalluri et al., Computer-vision research powers surveillance technology (Nature, 2025)",
+   "why": "Shows most computer-vision papers and patents enable surveillance of humans; preprint dated 2023, so outside the 2024–26 window by first-publication year.",
+   "link": "https://doi.org/10.1038/s41586-025-08972-6",
+   "found_via": "valentin-hofmann",
+   "status": "open"
+  },
+  {
+   "name": "Ilia Shumailov et al., AI models collapse when trained on recursively generated data (Nature, 2024)",
+   "why": "Model collapse: models trained on their own output forget the tails of the distribution; preprint 2023 ('The Curse of Recursion').",
+   "link": "https://doi.org/10.1038/s41586-024-07566-y",
+   "found_via": "abeba-birhane",
+   "status": "open"
+  },
+  {
+   "name": "Aalto University study of Replika users and loneliness language (CHI 2026)",
+   "why": "Reported short-term relief but rising loneliness-related language among long-term Replika users; check the paper before adding.",
+   "link": "https://forumnordic.com/business/ai-companions-a-false-friend-for-the-lonely/",
+   "found_via": "anna-hollis",
+   "status": "open"
+  },
+  {
+   "name": "Nick Couldry & Ulises A. Mejias, Data Grab: The New Colonialism of Big Tech (2024)",
+   "why": "Data colonialism thesis for a general audience; power/extraction.",
+   "link": "https://doi.org/10.7208/chicago/9780226832319.001.0001",
+   "found_via": "karen-hao",
+   "status": "open"
+  },
+  {
+   "name": "Anthropic interpretability, On the Biology of a Large Language Model (2025)",
+   "why": "Attribution graphs tracing Claude's internal 'thoughts' (planning rhymes, multi-step reasoning); striking visuals, but no DOI/arXiv id.",
+   "link": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
+   "found_via": "anthropic",
+   "status": "open"
+  },
+  {
+   "name": "Giustina B. Baron & Hongjin Song, A prolonged journey: Mourning and digital resurrection in the Chinese context (2025)",
+   "why": "On AI 'resurrection' services and mourning in China; would strengthen Chinese-context afterlife research; verify DOI 10.18861/ic.2025.20.2.4112.",
+   "link": "https://revistas.ort.edu.uy/inmediaciones-de-la-comunicacion/",
+   "found_via": "meredith-ringel-morris",
+   "status": "open"
+  },
+  {
+   "name": "Patrick Butlin, Robert Long et al., Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)",
+   "why": "Peer-reviewed journal version of the 2023 indicator-properties report (same method, 19 authors); not added as a separate work. Curator could add DOI 10.1016/j.tics.2025.10.011 to patrick-butlin--consciousness-in-artificial-intelligence.",
+   "link": "https://doi.org/10.1016/j.tics.2025.10.011",
+   "found_via": "patrick-butlin",
+   "status": "duplicate"
+  }
+ ]
+}

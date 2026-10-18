@@ -36,6 +36,7 @@ MEDIA = ROOT / "data" / "media"
 ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
 APPROACH = ROOT / "data" / "lens"          # { work_id: [lens ids] } (overrides lenses written in the batches)
 TITLE_ZH = ROOT / "data" / "title_zh"      # { work_id: "中文标题" } (Chinese title layer)
+LEAD_STATUS = ROOT / "data" / "leads_status"  # { lead name: {"status", "work_ids"} } (outcomes from later passes)
 DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
 LEGACY: dict = {}  # (old field, old sub) -> (new field, new sub) for moved categories
@@ -345,7 +346,16 @@ def load_titles_zh(folder: Path, work_ids: set) -> dict:
     return out
 
 
-def classify_leads(leads: list, creators: dict) -> tuple[list, list]:
+def load_lead_status(folder: Path) -> dict:
+    """Merge lead outcomes from later passes ({lead name: {"status", "work_ids", "note"}}); later files win."""
+    out: dict = {}
+    for f in sorted(folder.glob("*.json")) if folder.exists() else []:
+        for k, v in json.loads(f.read_text()).items():
+            out[re.sub(r"[^a-z]", "", k.lower())] = v
+    return out
+
+
+def classify_leads(leads: list, creators: dict, done: dict) -> tuple[list, list]:
     names = {re.sub(r"[^a-z]", "", c.get("name", "").lower()) for c in creators.values()}
     open_, checked, seen = [], [], set()
     for lead in leads:
@@ -353,8 +363,10 @@ def classify_leads(leads: list, creators: dict) -> tuple[list, list]:
         if not key or key in seen:
             continue
         seen.add(key)
-        status = "covered" if key in names else lead.get("status", "open")
-        (open_ if status == "open" else checked).append({**lead, "status": status})
+        later = done.get(key, {})
+        status = "covered" if key in names or later.get("status") in ("added", "duplicate") else later.get("status") or lead.get("status", "open")
+        extra = {k: later[k] for k in ("work_ids", "note") if later.get(k)}
+        (open_ if status == "open" else checked).append({**lead, **extra, "status": status})
     return open_, checked
 
 
@@ -417,7 +429,7 @@ def main() -> None:
         if ds:
             w["disciplines"] = ds
     kept.sort(key=lambda w: (-(w.get("year") or 0), w.get("title", "")))
-    open_leads, checked_leads = classify_leads(leads, creators)
+    open_leads, checked_leads = classify_leads(leads, creators, load_lead_status(LEAD_STATUS))
 
     orgs = load_orgs(cache, {c["id"] for c in out_creators})
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))

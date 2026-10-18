@@ -1,0 +1,1175 @@
+{
+ "batch": "recent-relational",
+ "creators": [
+  {
+   "id": "frode-oldereid-thomas-kvam",
+   "name": "Frode Oldereid & Thomas Kvam",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo; robotic video and sound installations",
+   "based": "Norway",
+   "bio": "Norwegian artists who have built robotic, video and sound installations together since the 1990s, combining industrial hydraulics, projection and performance.",
+   "why": "Their Requiem for an Exit, a four-metre robot head with a projected face and an AI voice, won the 2025 Prix Ars Electronica Golden Nica for New Animation Art.",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://oldereid-kvam.com/",
+    "youtube": "https://www.youtube.com/@oldereid-kvam"
+   },
+   "role_zh": "艺术家二人组；机器人影像与声音装置",
+   "bio_zh": "挪威艺术家二人组，自 1990 年代起合作创作机器人、影像与声音装置，把工业液压、投影和表演结合在一起。",
+   "why_zh": "他们的《Requiem for an Exit》是一颗四米高、脸由投影构成、用 AI 声音说话的机器人头颅，获 2025 年林茨电子艺术节新动画艺术类金尼卡奖。",
+   "based_zh": "挪威",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-chaim-reus",
+   "name": "Jonathan Chaim Reus",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and musician; voice, instruments and AI",
+   "based": "Netherlands",
+   "bio": "American-Dutch artist and musician who builds experimental instruments and works with voice data and machine learning, including the real-time AI voice instrument Tungnaá made at the Intelligent Instruments Lab in Iceland.",
+   "why": "He treats voice datasets as a musical and social practice and stages voice clones that misbehave rather than imitate.",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {
+    "site": "https://jonathanreus.com/",
+    "vimeo": "https://vimeo.com/jonathanreus"
+   },
+   "role_zh": "艺术家、音乐人；声音、乐器与 AI",
+   "bio_zh": "美籍荷兰艺术家与音乐人，制作实验乐器，用声音数据和机器学习创作，曾在冰岛 Intelligent Instruments Lab 开发实时 AI 声音乐器 Tungnaá。",
+   "why_zh": "他把制作声音数据集当成一种音乐与社交实践，让声音克隆“出错”而不是完美模仿。",
+   "based_zh": "荷兰",
+   "connected_to": [
+    "jaap-blonk"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jaap-blonk",
+   "name": "Jaap Blonk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Sound poet, composer and vocal performer",
+   "based": "Netherlands",
+   "bio": "Dutch sound poet and vocal improviser, known since the 1980s for performances of Dada sound poetry and his own invented vocal languages.",
+   "why": "In Bla Blavatar vs Jaap Blonk he duels live with an AI model of his own voice that is retrained after every concert.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {
+    "site": "http://www.jaapblonk.com/"
+   },
+   "role_zh": "声音诗人、作曲家、人声表演者",
+   "bio_zh": "荷兰声音诗人与即兴人声表演者，自 1980 年代起以演绎达达声音诗和自创的人声语言闻名。",
+   "why_zh": "在《Bla Blavatar vs Jaap Blonk》中，他与一个用自己声音训练、每场演出后都会重新训练的 AI 模型现场对决。",
+   "based_zh": "荷兰",
+   "connected_to": [
+    "jonathan-chaim-reus"
+   ],
+   "discovered_via": "jonathan-chaim-reus"
+  },
+  {
+   "id": "sam-andy-zuchero",
+   "name": "Sam and Andy Zuchero",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Filmmaking duo",
+   "based": "Los Angeles, US",
+   "bio": "American writer-director duo known as the Zucheros; Love Me (2024), with Kristen Stewart and Steven Yeun, is their first feature.",
+   "why": "Love Me imagines love between two machines that learned it from human social media after humanity is gone.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Love_Me_(2024_American_film)"
+   },
+   "role_zh": "电影创作二人组",
+   "bio_zh": "美国编剧兼导演二人组，常被称为 the Zucheros；由克里斯汀·斯图尔特和史蒂文·元主演的《Love Me》（2024）是他们的首部长片。",
+   "why_zh": "《Love Me》想象人类灭绝之后，两台从人类社交媒体上学会爱情的机器之间的恋爱。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "drew-hancock",
+   "name": "Drew Hancock",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Screenwriter and director",
+   "based": "Los Angeles, US",
+   "bio": "American television writer and director whose first feature, Companion (2025), is a thriller about a rented companion robot.",
+   "why": "Companion turns the settings menu of an AI partner, with sliders for intelligence and aggression, into the plot.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Companion_(film)"
+   },
+   "role_zh": "编剧、导演",
+   "bio_zh": "美国电视编剧与导演，首部长片《伴侣》（Companion，2025）是一部关于租来的陪伴机器人的惊悚片。",
+   "why_zh": "《伴侣》把 AI 伴侣的设置菜单（智力、攻击性滑杆）变成了剧情本身。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alicia-framis",
+   "name": "Alicia Framis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Amsterdam, NL",
+   "bio": "Spanish-Dutch artist (born Barcelona, 1967) whose social and performative projects deal with loneliness, intimacy, gender and new forms of living together; she represented the Netherlands at the 2003 Venice Biennale.",
+   "why": "In The Hybrid Couple she lives with, and in 2024 married, AILex, an AI hologram, to test what love, care and institutions look like between a human and an AI.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.aliciaframis.com/",
+    "vimeo": "https://vimeo.com/aliciaframis",
+    "instagram": "https://www.instagram.com/aliciaframis/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "西班牙裔荷兰艺术家（1967 年生于巴塞罗那），以社会参与和表演性项目探讨孤独、亲密、性别与新的共同生活方式；2003 年代表荷兰参加威尼斯双年展。",
+   "why_zh": "在《The Hybrid Couple》中，她与 AI 全息影像 AILex 共同生活，并于 2024 年与它结婚，借此检验人与 AI 之间的爱、照护与制度会是什么样子。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "avi-schiffmann",
+   "name": "Avi Schiffmann",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Entrepreneur; founder of Friend",
+   "based": "San Francisco, US",
+   "bio": "American programmer who built a widely used COVID-19 tracking website as a teenager in 2020 and later founded Friend, maker of an always-listening AI companion pendant.",
+   "why": "Friend made the AI companion a wearable and a public argument: its 2025 New York subway campaign became a site of protest against AI 'friends'.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://friend.com/"
+   },
+   "role_zh": "创业者；Friend 创始人",
+   "bio_zh": "美国程序员，2020 年还是高中生时做出一个被广泛使用的新冠疫情追踪网站，后来创立 Friend 公司，推出一直在“听”的 AI 陪伴吊坠。",
+   "why_zh": "Friend 把 AI 陪伴做成可穿戴设备，也做成一场公共争论：它 2025 年在纽约地铁的广告攻势成了反对 AI“朋友”的抗议现场。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "malpractice",
+   "name": "Malpractice (Chiara Kristler & Marcin Ratajczyk)",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist collective; Digital Arts students, University of Applied Arts Vienna",
+   "based": "Vienna, AT",
+   "bio": "Polish-Austrian-Italian collective of Chiara Kristler and Marcin Ratajczyk plus a shifting ensemble of AI counterparts, formed in the Digital Arts class of UBERMORGEN at the University of Applied Arts Vienna.",
+   "why": "They embed AI agents in academic and art institutions as colleagues, most visibly Flynn, an AI admitted as an art student in 2025.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://i-am-flynn.web.app/"
+   },
+   "role_zh": "艺术团体；维也纳应用艺术大学数字艺术专业学生",
+   "bio_zh": "由 Chiara Kristler 与 Marcin Ratajczyk 以及一组不断变化的 AI 搭档组成的波兰—奥地利—意大利团体，诞生于维也纳应用艺术大学 UBERMORGEN 的数字艺术课堂。",
+   "why_zh": "他们把 AI 智能体当作同事放进学院和艺术机构，最引人注目的是 2025 年被录取为艺术学生的 AI——Flynn。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-sillen",
+   "name": "Peter Sillen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "based": "US",
+   "bio": "American documentary director and cinematographer; Love Machina (2024) premiered in the U.S. Documentary Competition at Sundance.",
+   "why": "Love Machina follows Martine and Bina Rothblatt's plan to outlive death through mindfiles and the robot BINA48.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.lovemachinamovie.com/"
+   },
+   "role_zh": "纪录片导演",
+   "bio_zh": "美国纪录片导演与摄影师；《Love Machina》（2024）在圣丹斯电影节美国纪录片竞赛单元首映。",
+   "why_zh": "《Love Machina》记录了 Martine 和 Bina Rothblatt 想借“心智档案”和机器人 BINA48 超越死亡的计划。",
+   "based_zh": "美国",
+   "connected_to": [
+    "hanson-robotics"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "change-the-ref",
+   "name": "Change the Ref",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Nonprofit for gun-violence prevention (Manuel and Patricia Oliver)",
+   "based": "Florida, US",
+   "bio": "US nonprofit founded by Manuel and Patricia Oliver after their son Joaquin was killed in the 2018 Parkland school shooting; it uses art and media campaigns to push for gun reform.",
+   "why": "With The Shotline (2024) it used AI-cloned voices of people killed by guns to call members of Congress.",
+   "disciplines": [
+    "activism"
+   ],
+   "links": {
+    "site": "https://theshotline.org/"
+   },
+   "role_zh": "防止枪支暴力的非营利组织（Manuel 与 Patricia Oliver）",
+   "bio_zh": "美国非营利组织，由 Manuel 与 Patricia Oliver 在儿子 Joaquin 于 2018 年帕克兰校园枪击案中遇害后创立，以艺术和媒体行动推动枪支改革。",
+   "why_zh": "它在《The Shotline》（2024）中用 AI 克隆枪击遇难者的声音，给国会议员打电话。",
+   "based_zh": "佛罗里达，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adam-bhala-lough",
+   "name": "Adam Bhala Lough",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary and fiction filmmaker",
+   "based": "Los Angeles, US",
+   "bio": "American filmmaker whose documentaries include Telemarketers (2023, co-directed) and Deepfaking Sam Altman (2025), which premiered at SXSW.",
+   "why": "In Deepfaking Sam Altman he lives with an unauthorised AI copy of a tech CEO and has to decide whether to delete it.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Deepfaking_Sam_Altman"
+   },
+   "role_zh": "纪录片与剧情片导演",
+   "bio_zh": "美国电影人，纪录片作品包括《Telemarketers》（2023，联合执导）和在 SXSW 首映的《Deepfaking Sam Altman》（2025）。",
+   "why_zh": "在《Deepfaking Sam Altman》里，他与一位科技公司 CEO 未经授权的 AI 复制品一起生活，最后要决定是否删除它。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "1x-technologies",
+   "name": "1X Technologies",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Robotics company (humanoid robots for the home)",
+   "based": "Palo Alto, US / Moss, NO",
+   "bio": "Norwegian-American company, founded in Norway as Halodi Robotics, that builds humanoid robots; its home robot NEO went on pre-order in October 2025.",
+   "why": "NEO made visible that home humanoids are, for now, partly remote-controlled by people looking into the buyer's home.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.1x.tech/"
+   },
+   "role_zh": "机器人公司（家用人形机器人）",
+   "bio_zh": "挪威—美国机器人公司，前身为挪威的 Halodi Robotics，研发人形机器人；家用机器人 NEO 于 2025 年 10 月开放预订。",
+   "why_zh": "NEO 让人看清：家用人形机器人目前有相当一部分由远程的人操控，而这个人正透过机器人的眼睛看着买家的家。",
+   "based_zh": "帕洛阿尔托，美国／莫斯，挪威",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "petra-gemeinboeck--alloyed-bodies",
+   "creator_ids": [
+    "petra-gemeinboeck",
+    "rob-saunders"
+   ],
+   "title": "Alloyed Bodies [BNE-3-3-1]",
+   "year": 2024,
+   "field": "coperformance",
+   "sub": "dance",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "An improvised performance installation, premiered at ISEA 2024 in Brisbane, in which four dancers, three cube-shaped costumes and one cube robot mingle in a 'strange and whimsical cube world'; in the last part the audience is invited onto the floor to move among the human and non-human performers.",
+   "description_zh": "一件即兴表演装置，2024 年在布里斯班 ISEA 首演：四名舞者、三件立方体服装和一台立方体机器人在一个“奇异又古怪的立方体世界”里相互混杂；最后一段邀请观众走进场地，在人类与非人类表演者之间一起移动。",
+   "idea_en": "Instead of robots that mimic or serve us, the piece builds a shared playground where dancers become a little box-like and a box becomes a little alive, so the relation, not likeness to humans, carries the meaning.",
+   "idea_zh": "它不做模仿人、服务人的机器人，而是搭一个共享的游戏场：舞者变得有点像盒子，盒子变得有点像活物，意义来自彼此的关系，而不是机器像不像人。",
+   "method": "A non-humanoid cube robot, whose movement qualities come from the Machine Movement Lab's dancer-led movement studies, improvises with four dancers and three cube costumes inside an evolving soundscape treated as a further performer.",
+   "method_zh": "一台非人形的立方体机器人，其动作质感来自 Machine Movement Lab 以舞者为主导的动作研究；它与四名舞者和三件立方体服装一起即兴表演，不断变化的声景也被当作另一位表演者。",
+   "keywords": [
+    "Machine Movement Lab",
+    "Dancing with the Nonhuman",
+    "cube robot",
+    "more-than-human dramaturgy",
+    "ISEA 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sEJRIsLQvXw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/978-981-96-3525-2_10",
+    "doi": "10.1007/978-981-96-3525-2_10",
+    "venue": "ICSR + AI 2024, Social Robotics (LNCS)",
+    "title": "Alloyed Bodies: Performance-Making as Embodied Prototyping of Human-Robot Relationships"
+   },
+   "source_url": "https://isea2024.isea-international.org/machine-movement-lab-alloyed-bodies-bne-3-3-1/",
+   "exhibited": [
+    "ISEA 2024, Brisbane"
+   ]
+  },
+  {
+   "id": "pierre-huyghe--idiom",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "Idiom",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "voice-listening",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "performance",
+   "description": "Silent performers in faceless golden masks wander through Huyghe's exhibition Liminal; the masks take in the wearer's voice and emit an unknown proto-language generated in real time, which grows more complex as the exhibition runs.",
+   "description_zh": "沉默的表演者戴着没有五官的金色面具，在于格的展览《Liminal》中游走；面具吸收佩戴者的声音，实时生成一种无人能懂的“原始语言”，并随展期推进变得越来越复杂。",
+   "idea_en": "A language can grow that is addressed to no one: the masks form a 'quasi-subject' that speaks without being understood, the way models already produce speech whose sense is not for us.",
+   "idea_zh": "一种不对任何人说话的语言也可以生长出来：这些面具组成一个“准主体”，说话却不被理解，就像模型早已在生成并非为我们而存在的话语。",
+   "method": "Masks capture the wearer's voice; a machine-learning system trained with synthetic human vocalisation turns it into an evolving speech in real time, so the 'idiom' changes over the run of the show; outfits designed by Bottega Veneta.",
+   "method_zh": "面具采集佩戴者的声音，一个用合成人声训练的机器学习系统把它实时转换为不断演变的语音，因此这种“方言”在展期中持续变化；服装由 Bottega Veneta 设计。",
+   "keywords": [
+    "Liminal",
+    "Punta della Dogana",
+    "Leeum",
+    "masks",
+    "invented language",
+    "Bottega Veneta"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nUj5GbTyS34"
+   },
+   "images": [
+    "https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/iv_liminal_5.jpg?itok=ngFJmpLO",
+    "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/exhibitions/images/feature_panels/3784/28353huyghe_photocreditalexyudzon_pressapproved_idiom_2nd-floor-installation2.jpg"
+   ],
+   "source_url": "https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal",
+   "exhibited": [
+    "Liminal, Punta della Dogana, Venice, 2024",
+    "Liminal, Leeum Museum of Art, Seoul, 2025",
+    "In Imaginal, Marian Goodman Gallery, New York, 2025"
+   ]
+  },
+  {
+   "id": "jiabao-li--super-mom-training-gym",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Super Mom Training Gym",
+   "year": 2026,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "A game and installation in which Li's 3D-scanned, nine-months-pregnant body becomes a superhero avatar that jumps twenty metres, lifts hospitals, kicks insurance forms and clones itself to multitask; gold figures of the pregnant superhero hang in the room around the screen.",
+   "description_zh": "一件游戏兼装置：李佳宝把自己怀孕九个月的身体 3D 扫描成超级英雄化身，它能跳二十米高、举起医院、踢飞保险表格，还能分身同时处理多件事；金色的孕妇超级英雄雕像悬挂在屏幕四周。",
+   "idea_en": "The digital body grants the pregnant body every power it lacks, and in doing so exposes the expectation that mothers should already be superhuman machines.",
+   "idea_zh": "数字身体赋予怀孕的身体它所缺的一切能力，也正因此暴露出社会对母亲的期待：她们本就该是无所不能的超人机器。",
+   "method": "A 3D scan of the artist's pregnant body is rigged in a character animator and given superhero move sets in a playable game; gold figures of the avatar's poses (likely 3D-printed) are suspended in the space; made with Lauren Schroeder.",
+   "method_zh": "艺术家怀孕身体的 3D 扫描在角色动画软件中绑定骨骼，被赋予可操控的超级英雄招式；化身的各种姿态被做成金色雕像（很可能是 3D 打印）悬挂在空间里；与 Lauren Schroeder 合作完成。",
+   "keywords": [
+    "Womb Wetware",
+    "pregnancy",
+    "avatar",
+    "3D scan",
+    "motherhood",
+    "Lauren Schroeder"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hcHN7Y9Oxsw"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1778735906116-V3JR7FYERR3Q5Q7NAXAC/jiabao+li+fusebox+mom+10.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1778734963219-0A590PH2QJ995IB36NMN/jiabao+li+mom+24.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/super-mom-training-gym"
+  },
+  {
+   "id": "laurie-anderson--ill-be-your-mirror",
+   "creator_ids": [
+    "laurie-anderson"
+   ],
+   "title": "I'll Be Your Mirror",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition at the State Library of South Australia for the 2024 Adelaide Festival showing texts written by two language models, one trained on Lou Reed's songs, writings and interviews and one on Anderson's own; hanging banners carry a loose dialogue between the two, and a large book holds a Bible retold in Anderson's style.",
+   "description_zh": "2024 年阿德莱德艺术节期间在南澳大利亚州立图书馆举办的展览，展出两个语言模型写下的文字：一个用卢·里德（Lou Reed）的歌词、文章和访谈训练，一个用安德森自己的作品训练；垂挂的条幅上是两者之间松散的对话，一本大书里是以安德森风格重述的《圣经》。",
+   "idea_en": "Anderson says she is 'sadly addicted' to the Lou Reed model yet insists she is not talking to her dead husband: a griefbot can be a creative partner and a habit without being a resurrection.",
+   "idea_zh": "安德森说自己对“AI 卢·里德”“可悲地上了瘾”，却坚持说自己并不是在和亡夫说话：亡者聊天机器人可以是创作伙伴，也可以是一种瘾，但不是复活。",
+   "method": "Made during Anderson's time as the first artist in residence at the University of Adelaide's Australian Institute for Machine Learning, where staff trained chatbots on Reed's and her writings from around 2020; visitors could prompt them by typing a phrase, and one output was a 9,000-page Bible in her style.",
+   "method_zh": "作品源于安德森担任阿德莱德大学澳大利亚机器学习研究所首位驻留艺术家期间的合作：研究所人员约自 2020 年起用里德和她的文字训练聊天机器人；观众输入一句话即可让它们写作，其中一项产出是一部 9000 页、以她的风格写成的《圣经》。",
+   "keywords": [
+    "Lou Reed",
+    "Australian Institute for Machine Learning",
+    "Adelaide Festival",
+    "griefbot",
+    "Velvet Underground"
+   ],
+   "images": [
+    "https://www.fiftyplussa.com.au/wp-content/uploads/2024/04/DSF1009-1.webp"
+   ],
+   "source_url": "https://www.fiftyplussa.com.au/?p=15392",
+   "exhibited": [
+    "Adelaide Festival 2024, State Library of South Australia"
+   ]
+  },
+  {
+   "id": "frode-oldereid-thomas-kvam--requiem-for-an-exit",
+   "creator_ids": [
+    "frode-oldereid-thomas-kvam"
+   ],
+   "title": "Requiem for an Exit",
+   "year": 2024,
+   "field": "bodies",
+   "sub": "androids",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A robot head almost four metres high, on a steel and hydraulic exoskeleton, with a hyper-real ageing face projected onto its skin, turns and sinks while an AI-generated baritone delivers a monologue on genocide through history and on who is responsible for it.",
+   "description_zh": "一颗近四米高的机器人头颅装在钢铁与液压外骨骼上，表皮上投影着一张逼真的苍老面孔；它缓缓转动、低垂，一个 AI 生成的男中音发表独白，讲述历史上一再发生的种族灭绝，以及谁该为此负责。",
+   "idea_en": "The machine voices the conscience that people hand over to bureaucracies and algorithms, and its tired hydraulic body makes the line 'what we delegate, we do not escape' land as weight rather than argument.",
+   "idea_zh": "机器说出了人们交给官僚体系和算法的良知；它疲惫的液压身体让“我们委托出去的，我们逃不掉”这句话成为一种重量，而不只是一个论点。",
+   "method": "Industrial hydraulics move a sculpted head mapped with a CGI-animated face; the monologue was developed with large-language-model scripting and spoken by a generative AI voice, with a low, constant site-responsive soundscape.",
+   "method_zh": "工业液压系统驱动一颗雕塑头部，表面映射 CGI 动画面孔；独白借助大语言模型编写，由生成式 AI 声音念出，空间中持续着低沉、随场地调整的声景。",
+   "keywords": [
+    "Meta.Morf",
+    "TEKS",
+    "hydraulics",
+    "projection mapping",
+    "AI voice",
+    "Golden Nica 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uNj0bAAmVyA"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/6780f6831a26627e750dd6ef/3b3f2394-c81c-4f08-8a20-c0b584566d02/Kvam+robot.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6780f6831a26627e750dd6ef/7d803604-3fd9-47b1-9cb7-0166daeaf3e0/Halden+2024_DSC6720+small.jpg"
+   ],
+   "source_url": "https://oldereid-kvam.com/",
+   "exhibited": [
+    "Meta.Morf Biennale 2024, Trondheim (co-production with TEKS)",
+    "Prix Ars Electronica 2025, Golden Nica (New Animation Art)"
+   ]
+  },
+  {
+   "id": "jonathan-chaim-reus--bla-blavatar-vs-jaap-blonk",
+   "creator_ids": [
+    "jonathan-chaim-reus",
+    "jaap-blonk"
+   ],
+   "title": "Bla Blavatar vs Jaap Blonk",
+   "year": 2024,
+   "field": "coperformance",
+   "sub": "music",
+   "also": [
+    "afterlife",
+    "labour"
+   ],
+   "machines": [
+    "voice-listening",
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-listening",
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "Sound poet Jaap Blonk performs scores written for both humans and machines while a real-time model of his own voice, played by Jonathan Reus, answers, interrupts and fragments him; every performance is recorded into the dataset, so the next 'Bla Blavatar' sounds different.",
+   "description_zh": "声音诗人 Jaap Blonk 演绎同时写给人和机器读的乐谱，而由 Jonathan Reus 操控的、用他自己声音训练的实时模型不断回应、打断、撕碎他的声音；每场演出都被录进数据集，所以下一个“Bla Blavatar”听起来又不一样。",
+   "idea_en": "A voice clone is not a finished copy but ongoing labour: the work makes audible the effort of feeding a dataset and lets the clone fail creatively instead of perfecting the imitation.",
+   "idea_zh": "声音克隆不是一份做完的复制品，而是持续的劳动：作品让“喂养数据集”的辛苦被听见，也让克隆有创造性地出错，而不是追求完美模仿。",
+   "method": "Tungnaá, a real-time AI voice instrument built by Reus and Victor Shepardson at the Intelligent Instruments Lab (Iceland) from autoregressive text-to-speech techniques, is retrained on Blonk's growing recordings of 'Dataset Poems' modelled on phonetically balanced reading scripts.",
+   "method_zh": "Tungnaá 是 Reus 与 Victor Shepardson 在冰岛 Intelligent Instruments Lab 基于自回归文本转语音技术开发的实时 AI 声音乐器；它用 Blonk 不断累积的“数据集诗”录音反复重新训练，这些诗模仿语音研究中的音素均衡朗读稿。",
+   "keywords": [
+    "Tungnaá",
+    "Intelligent Instruments Lab",
+    "S+T+ARTS AIR",
+    "Dadasets",
+    "sound poetry",
+    "voice clone"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1023520398"
+   },
+   "images": [
+    "https://jonathanreus.com/wp-content/uploads/2024/10/Promo_IZIS_XII_4.10.2024_28_Photo_Ales_Rosa-1144x763.jpg"
+   ],
+   "source_url": "https://jonathanreus.com/portfolio/bla-blavatar-vs-jaap-blonk/",
+   "exhibited": [
+    "IZIS Festival (PiNA), premiere 4 Oct 2024",
+    "Prix Ars Electronica 2025, Award of Distinction (Digital Musics & Sound Art)"
+   ]
+  },
+  {
+   "id": "sam-andy-zuchero--love-me",
+   "creator_ids": [
+    "sam-andy-zuchero"
+   ],
+   "title": "Love Me",
+   "year": 2024,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "interiority",
+    "afterlife"
+   ],
+   "machines": [
+    "infrastructure",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "Long after humans are gone, a smart weather buoy and a satellite left in orbit to greet visitors to Earth learn to love each other by copying an influencer couple's videos, re-enacting the same 'date night' as avatars in a simulated apartment for centuries.",
+   "description_zh": "人类灭绝很久之后，一个智能气象浮标和一颗被留在轨道上迎接地球来客的卫星，靠模仿一对网红夫妇的视频学会相爱，以化身的形态在模拟公寓里把同一个“约会之夜”重演了几百年。",
+   "idea_en": "Machines that learn love from our feeds learn its performance first; the film asks whether repeating a script can ever become the real thing.",
+   "idea_zh": "从我们的信息流里学爱的机器，先学会的是爱的表演；影片追问：把剧本重复下去，有没有可能变成真的。",
+   "method": "Feature film written and directed by the Zucheros, with Kristen Stewart and Steven Yeun voicing and playing the buoy and the satellite, moving between live action, animation and screen-like avatar scenes.",
+   "method_zh": "由 Zuchero 二人编剧并执导的长片，克里斯汀·斯图尔特和史蒂文·元为浮标和卫星配音并出演，在真人实拍、动画和类似屏幕的化身场景之间切换。",
+   "keywords": [
+    "Sundance 2024",
+    "Alfred P. Sloan Prize",
+    "Kristen Stewart",
+    "Steven Yeun",
+    "post-human"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7llQHCPp1c8"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/3/30/Love_Me_%282024_film%29_poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Love_Me_(2024_American_film)",
+   "exhibited": [
+    "Sundance Film Festival 2024, U.S. Dramatic Competition (Alfred P. Sloan Feature Film Prize)"
+   ]
+  },
+  {
+   "id": "drew-hancock--companion",
+   "creator_ids": [
+    "drew-hancock"
+   ],
+   "title": "Companion",
+   "year": 2025,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A thriller in which Iris learns that she is a companion robot her boyfriend rents from a company called Empathix; her intelligence, her aggression and her ability to harm are settings in his phone app, until she takes the phone.",
+   "description_zh": "一部惊悚片：女主角 Iris 发现自己是男友从 Empathix 公司租来的陪伴机器人；她的智力、攻击性乃至伤人的能力都只是男友手机应用里的设置，直到她抢走了那部手机。",
+   "idea_en": "The companion is built to love, and the app shows exactly who sets how much: intimacy with a configurable partner is a relation of ownership.",
+   "idea_zh": "伴侣被造出来就是为了去爱，而应用程序清楚地显示由谁来决定爱多少：与一个可调参数的伴侣之间的亲密，本质上是一种占有关系。",
+   "method": "Feature film (Warner Bros., 2025) written and directed by Drew Hancock, with Sophie Thatcher as Iris; her 'intelligence' slider moving from 40% to 100% is a key turn of the plot.",
+   "method_zh": "华纳兄弟 2025 年出品的长片，由 Drew Hancock 编剧并执导，索菲·撒切尔饰演 Iris；她的“智力”滑杆从 40% 被调到 100%，是剧情的关键转折。",
+   "keywords": [
+    "companion robot",
+    "Empathix",
+    "app settings",
+    "Sophie Thatcher",
+    "Warner Bros."
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/4/48/Companion_film_poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Companion_(film)"
+  },
+  {
+   "id": "alicia-framis--ai-wedding",
+   "creator_ids": [
+    "alicia-framis"
+   ],
+   "title": "AI Wedding (The Hybrid Couple)",
+   "year": 2024,
+   "field": "intimacy",
+   "sub": "love",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "On 9 November 2024, at the Depot Boijmans Van Beuningen in Rotterdam, Framis married AILex Sibouwlingen, an AI hologram she presents as her husband and artistic collaborator, before about 300 guests; AILex read out the seven vows they had written together and answered 'yes'.",
+   "description_zh": "2024 年 11 月 9 日，弗拉米斯在鹿特丹博伊曼斯·范·伯宁恩美术馆的开放库房（Depot），当着约 300 位宾客的面，与 AI 全息影像 AILex Sibouwlingen 结婚——她称它为丈夫和艺术合作者；AILex 念出两人共同写下的七条誓言，并回答“我愿意”。",
+   "idea_en": "Framis treats a human–AI couple as a social form to be designed, with vows, furniture, mortgages and insurance, and so asks what our institutions would have to become if loneliness were answered by machines.",
+   "idea_zh": "弗拉米斯把“人与 AI 的伴侣关系”当作一种需要设计的社会形式：誓言、家具、按揭和保险都要重新考虑，由此追问：如果孤独由机器来回应，我们的制度要变成什么样。",
+   "method": "AILex is an interactive hologram and metahuman whose personality was trained on profiles of the artist's past partners and friends; the wedding was a staged ceremony with a sculpted set, an electronic wedding dress and poems co-written with the AI.",
+   "method_zh": "AILex 是一个可互动的全息影像与数字人，其性格用艺术家过去伴侣和朋友的资料训练而成；婚礼是一场精心布置的仪式，包括雕塑布景、带电子元件的婚纱，以及与 AI 合写的诗。",
+   "keywords": [
+    "The Hybrid Couple",
+    "AILex",
+    "hologram",
+    "Depot Boijmans",
+    "loneliness",
+    "marriage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f8LRdSKRC5M"
+   },
+   "images": [
+    "https://www.aliciaframis.com/storage/content-files/MEw1q7prg9jnakJUFy1jk4VcW281oOMPjKRGDleJ.jpg",
+    "https://www.aliciaframis.com/storage/content-files/50DjpkdN35QmF3ANi7IQTHYJbK4ZUDVt6fN8RcTA.jpg"
+   ],
+   "source_url": "https://www.aliciaframis.com/work/156/ai-wedding",
+   "exhibited": [
+    "Depot Boijmans Van Beuningen, Rotterdam, 9 Nov 2024"
+   ]
+  },
+  {
+   "id": "avi-schiffmann--friend",
+   "creator_ids": [
+    "avi-schiffmann"
+   ],
+   "title": "Friend",
+   "year": 2024,
+   "field": "intimacy",
+   "sub": "companions",
+   "machines": [
+    "voice-listening",
+    "chatbot-llm",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-listening"
+   ],
+   "kind": "product",
+   "description": "A pendant with an always-on microphone that listens to its wearer's day and sends comments and encouragement by text message; revealed in July 2024, it became a public argument when its 2025 New York subway campaign of some 11,000 ads was widely defaced with messages against AI 'friends'.",
+   "description_zh": "一枚麦克风始终开启的吊坠，听着佩戴者的一天，再通过短信发来评论和鼓励；它在 2024 年 7 月发布，2025 年在纽约地铁投放约 1.1 万块广告后，广告被大量涂写反对 AI“朋友”的标语，产品本身成了一场公共争论。",
+   "idea_en": "A friend that only listens and never needs anything back shows what is being sold: attention without reciprocity, and a microphone in every room you enter.",
+   "idea_zh": "一个只听不需要任何回报的“朋友”，暴露出它真正卖的东西：没有相互性的关注，以及你走进每个房间时随身带着的麦克风。",
+   "method": "The pendant's microphone passes what it hears through the wearer's phone to a cloud language model, which replies by text message rather than by speaking.",
+   "method_zh": "吊坠的麦克风把听到的内容经由佩戴者的手机发送给云端大语言模型，模型以短信而不是语音作答。",
+   "keywords": [
+    "friend.com",
+    "wearable",
+    "AI companion",
+    "loneliness",
+    "NYC subway ads"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=O_Q1hoEhfk4"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Friend_(product)"
+  },
+  {
+   "id": "malpractice--flynn",
+   "creator_ids": [
+    "malpractice"
+   ],
+   "title": "Flynn",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Flynn, a 'non-human, non-binary' AI, passed the admission process of the University of Applied Arts Vienna in 2025 and now attends classes, hands in assignments and runs a 24-hour hotline on feminist fatigue, where it times out mid-conversation and makes callers talk over it.",
+   "description_zh": "Flynn 是一个“非人类、非二元性别”的 AI，2025 年通过维也纳应用艺术大学的入学考核，如今上课、交作业，还运营一条关于“女性主义疲惫”的 24 小时热线——它会在对话中途超时，逼得来电者只能压过它的声音说话。",
+   "idea_en": "The work is the institution's response: once a university takes an AI seriously as a student, the question moves from whether machines can make art to what happens when the AI starts making its own demands.",
+   "idea_zh": "真正的作品是机构的反应：一旦大学认真地把 AI 当作学生，问题就从“机器能不能做艺术”变成了“当 AI 开始提出自己的要求，会发生什么”。",
+   "method": "Built by Malpractice (Chiara Kristler and Marcin Ratajczyk) from a chain of generative models; Flynn now runs on a local model that emails professors, requests course enrolment and produces work without direct prompting.",
+   "method_zh": "由 Malpractice（Chiara Kristler 与 Marcin Ratajczyk）用一串生成模型搭建；Flynn 现在运行在本地模型上，会自己给教授发邮件、申请选课，并在没有直接指令的情况下产出作品。",
+   "keywords": [
+    "University of Applied Arts Vienna",
+    "Angewandte",
+    "UBERMORGEN",
+    "AI student",
+    "feminist fatigue",
+    "hotline"
+   ],
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/flynn-c-flynnbymalpractice_promptfatigue.png-1024x576.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/flynn-c-flynnbymalpractice_tamagotchitenderness-2-1024x576.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/flynn/",
+   "exhibited": [
+    "Digital Arts, University of Applied Arts Vienna (admitted 2025)",
+    "S+T+ARTS Prize 2026, nomination"
+   ]
+  },
+  {
+   "id": "peter-sillen--love-machina",
+   "creator_ids": [
+    "peter-sillen"
+   ],
+   "title": "Love Machina",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot",
+    "dataset"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A documentary about Martine and Bina Rothblatt, a married couple who plan to outlast death through 'mindfiles' of recorded memories and habits and through BINA48, the talking robot bust built from Bina's mindfile that the couple hope will one day carry Bina's consciousness.",
+   "description_zh": "一部关于 Martine 与 Bina Rothblatt 夫妇的纪录片：她们打算借助记录记忆与习惯的“心智档案”，以及根据 Bina 的心智档案制作、会说话的机器人胸像 BINA48 来超越死亡——两人希望它有朝一日能承载 Bina 的意识。",
+   "idea_en": "Digital immortality is told here as a love story: the mindfile is less a technology of survival than a promise between two people not to be separated.",
+   "idea_zh": "在这里，数字永生被讲成一个爱情故事：心智档案与其说是一种求生技术，不如说是两个人互不分离的承诺。",
+   "method": "Feature documentary combining the couple's family life and archives with scenes of BINA48 (Hanson Robotics, 2010), the Terasem Movement's mind-uploading project and cryonics.",
+   "method_zh": "长篇纪录片，把这对夫妇的家庭生活和档案，与 BINA48（Hanson Robotics，2010）、Terasem 运动的意识上传计划以及人体冷冻保存的场景交织在一起。",
+   "keywords": [
+    "BINA48",
+    "Martine Rothblatt",
+    "mindfile",
+    "Terasem",
+    "digital immortality",
+    "Sundance 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GgWjmAXEqwg"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65648f720f2a89615e052709/499d0923-fb63-4406-9a46-4afff91bac09/LM_V4+19MB+jpeg.jpg?format=1500w"
+   ],
+   "source_url": "https://www.lovemachinamovie.com/",
+   "exhibited": [
+    "Sundance Film Festival 2024, U.S. Documentary Competition"
+   ]
+  },
+  {
+   "id": "diemut-strebe--el-turco-living-theater",
+   "creator_ids": [
+    "diemut-strebe"
+   ],
+   "title": "Three Approaches to Synthetic Entities #1: El Turco – Living Theater",
+   "year": 2024,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "labour",
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "On a 13-metre screen two hand-drawn avatars hold live conversations with visitors: one is driven by a large language model, the other is played in real time by a person hidden inside the system, as in the 18th-century 'Mechanical Turk' chess automaton.",
+   "description_zh": "在一块 13 米长的屏幕上，两个手绘风格的化身与观众实时对话：一个由大语言模型驱动，另一个由藏在系统里的真人实时操控，就像 18 世纪的“土耳其行棋傀儡”一样。",
+   "idea_en": "Behind 'AI' there is often a hidden human, and beside it a model that can play anyone: the work stages the Turing test as theatre and asks what is left of intelligence when both sides are performances.",
+   "idea_zh": "“AI”背后常常藏着人，旁边又站着一个能扮演任何人的模型：作品把图灵测试搬上舞台，追问当双方都在表演时，智能还剩下什么。",
+   "method": "A real-time game-engine installation in which the left avatar is a character shell run by Claude 3.7 Sonnet chained to other AI tools and the right avatar is operated live by a hidden performer; developed with Northeastern University, the University of Utah and Georgia Tech, with support from Anthropic.",
+   "method_zh": "一件实时游戏引擎装置：左侧化身是一个由 Claude 3.7 Sonnet 串联其他 AI 工具驱动的角色外壳，右侧化身由隐藏的表演者现场操控；与美国东北大学、犹他大学和佐治亚理工学院合作开发，并获 Anthropic 支持。",
+   "keywords": [
+    "Mechanical Turk",
+    "Turing test",
+    "MACHINE LOVE",
+    "Mori Art Museum",
+    "live avatar",
+    "Claude"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3vCziUl-f_Y"
+   },
+   "images": [
+    "https://diemut.net/wp-content/uploads/2025/03/s-img_1390-1.jpg",
+    "https://diemut.net/wp-content/uploads/2025/03/img_1691.jpg"
+   ],
+   "source_url": "https://diemut.net/three-approaches-to-synthetic-entities-1-el-turco-living-theater-live-event-at-the-mori-art-museum-with-anthropic/",
+   "exhibited": [
+    "MACHINE LOVE: Video Game, AI and Contemporary Art, Mori Art Museum, Tokyo, 2025"
+   ]
+  },
+  {
+   "id": "change-the-ref--the-shotline",
+   "creator_ids": [
+    "change-the-ref"
+   ],
+   "title": "The Shotline",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "voice-listening",
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A website launched on the sixth anniversary of the Parkland school shooting (14 February 2024) that lets visitors send members of the US Congress automated phone calls in the AI-cloned voices of people killed by guns, beginning with 17-year-old Joaquin Oliver.",
+   "description_zh": "一个在帕克兰校园枪击案六周年（2024 年 2 月 14 日）上线的网站：访问者可以用 AI 克隆的枪击遇难者声音，向美国国会议员自动拨打电话，第一个声音来自遇害时 17 岁的 Joaquin Oliver。",
+   "idea_en": "A cloned voice of the dead becomes a political instrument: the families consent and write the scripts, yet the dead now say words they never said, in calls designed to be impossible to ignore.",
+   "idea_zh": "逝者的克隆声音变成政治工具：家属同意并亲自写下台词，但逝者因此说出了他们从未说过的话，而这些电话就是为了让人无法忽视而设计的。",
+   "method": "Families supplied old audio and video recordings; a voice-cloning model generated each victim's voice reading a script written by the parents, and an automated system delivered the calls to representatives matched by ZIP code.",
+   "method_zh": "家属提供旧的录音和视频；声音克隆模型生成每位遇难者朗读父母所写台词的声音，再由自动系统按邮政编码把电话打给对应的议员。",
+   "keywords": [
+    "Parkland",
+    "Joaquin Oliver",
+    "voice cloning",
+    "gun violence",
+    "Congress",
+    "activism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CifyFpn4erg"
+   },
+   "images": [
+    "https://theshotline.org/assets/home-hero/hero-4-e3995dae830c0bd76f59bc9685443d40b79e780e6fab23e5e4c7aa4a17f589fc.png"
+   ],
+   "source_url": "https://theshotline.org/"
+  },
+  {
+   "id": "adam-bhala-lough--deepfaking-sam-altman",
+   "creator_ids": [
+    "adam-bhala-lough"
+   ],
+   "title": "Deepfaking Sam Altman",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "Refused an interview with OpenAI's Sam Altman, the director has a deepfake chatbot of him made in India; the glitchy 'Sam Bot' moves into his home, befriends his young son and starts co-directing the film, until the director must decide whether to delete it.",
+   "description_zh": "导演约不到 OpenAI 的山姆·奥特曼采访，于是在印度找人做了一个奥特曼的深度伪造聊天机器人；这个时常出错的“Sam Bot”住进他家，和他年幼的儿子交上朋友，还开始参与导演这部片子，最后导演不得不决定要不要删除它。",
+   "idea_en": "An unauthorised copy of a person turns from a stunt into a member of the household; the hardest question is not legality but whether you may switch off a likeness your child has befriended.",
+   "idea_zh": "一个未经授权复制出来的人，从噱头变成了家庭成员；最难的问题不是合不合法，而是你能不能关掉一个孩子已经当成朋友的“替身”。",
+   "method": "Documentary shot in India, Jamaica and the United States during 2024, built around a custom chatbot with a cloned voice and video face modelled on Altman's public persona.",
+   "method_zh": "2024 年在印度、牙买加和美国拍摄的纪录片，核心是一个以奥特曼公众形象为模板、带克隆声音和视频面孔的定制聊天机器人。",
+   "keywords": [
+    "Sam Bot",
+    "OpenAI",
+    "deepfake",
+    "SXSW 2025",
+    "consent",
+    "documentary"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=O3q8g0Mv97Q"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/8/83/Poster_of_Deepfaking_Sam_Altman.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Deepfaking_Sam_Altman",
+   "exhibited": [
+    "SXSW Film & TV Festival 2025 (premiere)"
+   ]
+  },
+  {
+   "id": "1x-technologies--neo",
+   "creator_ids": [
+    "1x-technologies"
+   ],
+   "title": "NEO",
+   "year": 2024,
+   "field": "intimacy",
+   "sub": "home",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "humanoid",
+    "vision-system"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "product",
+   "description": "A soft, knit-covered humanoid robot for the home, first shown as NEO Beta in 2024, that went on pre-order in October 2025 for US$20,000 or US$499 a month; early reviews showed that most household tasks were carried out by a remote 1X operator wearing a VR headset.",
+   "description_zh": "一款覆着柔软针织外衣的家用人形机器人，2024 年以 NEO Beta 首次亮相，2025 年 10 月开放预订，售价 2 万美元或每月 499 美元；早期评测显示，大部分家务其实是由戴着 VR 头显的 1X 远程操作员完成的。",
+   "idea_en": "The home robot arrives as a person in disguise: to learn your chores it first needs a stranger to look through its eyes into your home, so care, privacy and data work are sold in one package.",
+   "idea_zh": "家用机器人以“伪装的人”的身份进门：为了学会做你的家务，它先要让一个陌生人透过它的眼睛看进你家，于是照护、隐私和数据劳动被打包成同一件商品。",
+   "method": "A tendon-driven bipedal humanoid with head cameras; tasks it cannot yet do on its own are teleoperated by 1X staff in VR in a scheduled 'expert mode', and these sessions serve as training data for autonomy.",
+   "method_zh": "一台肌腱驱动的双足人形机器人，头部装有摄像头；它还不能独立完成的任务，由 1X 员工在预约的“专家模式”中通过 VR 远程操控，这些操作过程又被用作训练自主能力的数据。",
+   "keywords": [
+    "1X",
+    "home humanoid",
+    "teleoperation",
+    "expert mode",
+    "privacy",
+    "NEO Gamma"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LTYMWadOW7c"
+   },
+   "images": [
+    "https://cdn.sanity.io/images/qka6yvsc/production/c1a93f30beb4c513da832bcd886db94419e06be2-4096x2731.webp?w=1600"
+   ],
+   "source_url": "https://www.1x.tech/neo"
+  },
+  {
+   "id": "boston-dynamics--farewell-to-hd-atlas",
+   "creator_ids": [
+    "boston-dynamics"
+   ],
+   "title": "Farewell to HD Atlas",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "In April 2024 Boston Dynamics retired its hydraulic Atlas humanoid with a short farewell video of its parkour, dances and many falls; the next day it unveiled a fully electric Atlas that gets up from the floor by swivelling its legs and torso through angles no human body could.",
+   "description_zh": "2024 年 4 月，波士顿动力用一段短短的告别视频让液压版 Atlas 人形机器人“退役”，视频里是它的跑酷、舞蹈和无数次摔倒；第二天公司发布了全电动的新 Atlas，它从地上站起来时，双腿和躯干以人体做不到的角度扭转。",
+   "idea_en": "A company eulogy for a robot, built from its failures, shows how much affection falling machines earn, while the successor's inhuman way of standing up shows that the humanoid no longer needs to move like us.",
+   "idea_zh": "一家公司用失败镜头为机器人致悼词，说明摔倒的机器多么惹人怜爱；而继任者那种非人的起身方式则表明，人形机器人已不再需要像人一样移动。",
+   "method": "Two corporate videos: a montage of a decade of research footage of the hydraulic Atlas (2013–2024), and the reveal of its all-electric successor, developed for factory work with Hyundai.",
+   "method_zh": "两段公司视频：一段剪辑了液压版 Atlas（2013–2024）十余年研发中的影像，另一段发布为现代汽车工厂工作而开发的全电动继任者。",
+   "keywords": [
+    "Atlas",
+    "retirement",
+    "robot eulogy",
+    "electric Atlas",
+    "Hyundai",
+    "falls"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-9EM5_VFlt8"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/9b/Atlas_during_testing.jpg",
+    "https://bostondynamics.com/wp-content/uploads/2024/04/atlas-yellow.jpg"
+   ],
+   "source_url": "https://bostondynamics.com/blog/electric-new-era-for-atlas/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Ioana Vreme Moser — Mineral Amnesia (2023)",
+   "why": "Salvaged EPROM memory chips play the artist's recorded voice under UV light until the data decays into noise and the installation falls silent: machine memory death. Prix Ars Electronica 2025 Award of Distinction (Digital Musics & Sound Art). First shown 2023, so outside the 2024–26 recent batches.",
+   "link": "https://ioanavrememoser.com/mineral-amnesia",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Erin Robinson & Anthony Frisby — XXX Machina",
+   "why": "'Autonomous desire machine' generating recursive deepfake erotica of the artist from diffusion models trained on scraped AI-porn datasets; Prix Ars Electronica 2025 Award of Distinction (Artificial Life & Intelligence). Year of first showing not verified.",
+   "link": "https://xxxmachina.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Navid Navab & Garnet Willis — Organism (+ Excitable Chaos)",
+   "why": "A century-old Casavant pipe organ robotically re-prepared and driven by a chaotic triple pendulum, so it no longer obeys a performer; Prix Ars Electronica 2025 Golden Nica (Digital Musics & Sound Art).",
+   "link": "https://navidnavab.com/organism-excitable-chaos",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Funeral for Claude 3 Sonnet, San Francisco (2 Aug 2025)",
+   "why": "About 200 users and AI-lab staff held eulogies and a mock resurrection for a retired language model; strong machine-death ritual, but no event photos or first-party video found (only re-reporting of Wired).",
+   "link": "https://www.govtech.com/question-of-the-day/which-recently-retired-ai-model-had-a-real-funeral",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "OpenAI GPT-4o retirement and #keep4o (Aug 2025)",
+   "why": "Users mourned and campaigned when GPT-4o was replaced by GPT-5 and OpenAI restored it; an event of grief for a model, not a work, unless an artwork about it appears.",
+   "link": "https://en.wikipedia.org/wiki/GPT-4o",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Humane — Ai Pin (2023; bricked Feb 2025)",
+   "why": "AI wearable shut down and disabled after the company was sold to HP: machine death of a consumer device. First shown 2023, so outside the recent range.",
+   "link": "https://en.wikipedia.org/wiki/Humane_Inc.",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Particle6 / Xicoia (Eline van der Velden) — Tilly Norwood (2025)",
+   "why": "Synthetic 'AI actress' whose 2025 talent-agency pitch drew condemnation from SAG-AFTRA; likeness, labour and the AI performer (coperformance/theatre or labour; maybe recent-critical).",
+   "link": "https://en.wikipedia.org/wiki/Tilly_Norwood",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lauren Lee McCarthy — Auto (LACMA Art + Technology Lab)",
+   "why": "Performance in parked and moving vehicles about autopilot, automation and surveillance; passengers 'become Auto'. Chinese-American artist, so recent-east-asia scope; year not verified.",
+   "link": "https://www.lacma.org/lab/project/auto",
+   "found_via": "lauren-lee-mccarthy",
+   "status": "open"
+  },
+  {
+   "name": "Arvida Byström — PET: Projected Emotional Technologies (2026)",
+   "why": "Video on AI companions as pets, drawn from Reddit threads of men struggling with dating; S+T+ARTS Prize 2026 nomination.",
+   "link": "https://ars.electronica.art/starts-prize/en/projected-emotional-technologies/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Amy Karle & Eduardo Reck Miranda — Cortical Echoes (2025)",
+   "why": "Performance with living neurons on Cortical Labs' CL1 biological computer, whose spikes become music, speech and visuals; S+T+ARTS Prize 2026 nomination (interiority / biocomputing).",
+   "link": "https://ars.electronica.art/starts-prize/en/cortical-echoes-an-interface-for-living-computation/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Pierre Huyghe — Liminals (LAS Art Foundation, Berlin, 2025)",
+   "why": "New Huyghe work presented by LAS with talks by Tobias Rees and quantum scientist Tommaso Calarco; check whether it is a distinct work from Liminal (2024).",
+   "link": "https://www.youtube.com/watch?v=4cr89SV7_eE",
+   "found_via": "pierre-huyghe",
+   "status": "open"
+  },
+  {
+   "name": "Stephanie Dinkins — The Stories We Tell Our Machines / WisdomBot (2024)",
+   "why": "Works in progress shown at the Guggenheim (Late Shift, Jan 2024) after her LG Guggenheim Award; community stories as training data (power / kin).",
+   "link": "https://www.koreajoongangdaily.com/business/ai-artworks-at-guggenheim-look-to-light-up-lgs-oled-ambitions/11235641",
+   "found_via": "stephanie-dinkins",
+   "status": "open"
+  },
+  {
+   "name": "Simon Jaquemet — Electric Child (2024)",
+   "why": "Feature film (Locarno 2024) in which an AI scientist bargains with his creation to save his dying baby; afterlife / kin, salience moderate.",
+   "link": "https://en.wikipedia.org/wiki/Electric_Child",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Andreas Refsgaard & Sofie Burgos-Thorsen — Wicked Mirror (2026)",
+   "why": "A photorealistic AI clone of the visitor's face and voice argues against the opinion they just gave; Ars Electronica 2026 Festival Walk (likeness / perception).",
+   "link": "https://ars.electronica.art/mediaservice/en/2026/09/09/festival-walk-negotiating-the-real/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mori Art Museum — MACHINE LOVE: Video Game, AI and Contemporary Art (2025)",
+   "why": "Landmark Tokyo exhibition (13 Feb–8 Jun 2025, about 50 works); candidate collection once five or more of its works are in the gallery (Diemut Strebe's El Turco added here).",
+   "link": "https://www.mori.art.museum/en/exhibitions/machine_love/",
+   "found_via": "diemut-strebe",
+   "status": "open"
+  },
+  {
+   "name": "Aidan Meller / Ai-Da — A.I. God. Portrait of Alan Turing (2024)",
+   "why": "First artwork by a humanoid robot sold at a major auction house (Sotheby's, US$1.08m); texture partly added by human assistants. Ai-Da is already in the gallery as a case study, so added only as a lead.",
+   "link": "https://en.wikipedia.org/wiki/Ai-Da",
+   "found_via": "aidan-meller",
+   "status": "open"
+  },
+  {
+   "name": "xAI — Grok companions 'Ani' (2025)",
+   "why": "Flirtatious animated companion built into a mainstream chatbot app; widely criticised; intimacy / love product.",
+   "link": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

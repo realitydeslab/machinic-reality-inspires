@@ -68,6 +68,7 @@ Open this folder in [Claude Code](https://claude.com/claude-code) and run:
 | `data/entries.json`, `data/entries.js` | Built dataset used by the site |
 | `data/media_cache.json`, `data/dropped.json` | Link-check results; dead links and DOI/title mismatches |
 | `data/leads.json` | People and works found but not yet researched |
+| `data/leads_status/*.json` | Outcomes of later passes over the leads (added, duplicate, no media, off topic) |
 
 ## Credits
 

@@ -2,7 +2,7 @@
 
 反思 AI 与机器的代表性艺术作品、机器人艺术、表演、思辨设计与研究目录，以机器现象学为线索：机器感知、机器身体、机器的内在、亲密与照护、记忆与数字来世、劳动与基础设施、分类与权力。只用 AI 生成图像的作品不收录。由 Reality Design Lab 整理，作为艺术家、设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作品
+https://machinic.reality.design · 2026-10-18 · 685 位创作者 · 916 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -18,6 +18,39 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 机器之眼与操作图像
 
 计算机视觉、由机器生成并供机器读取的图像、机器眼中的世界。
+
+#### 如何像机器一样观看：AI 之后的图像（How to See Like a Machine: Images After AI） — Trevor Paglen (2026)
+- 类型: 书与文章 · 机器: 计算机视觉, 生成模型与潜空间, 平台与推荐算法
+- 核心想法: 在 AI 之后，图像与其说是给人看的画面，不如说是作用在人身上的操作：像机器一样观看，就是追问一张图像在做什么、又是为谁而做。
+- 作品内容: Paglen 的新书讨论计算机视觉和生成式 AI 如何改变了图像本身。书中穿行于心理战、UFO 影像、魔术师、公关从业者、广告技术和推荐算法之间，追问的不再是图像“显示了什么”，而是它们“在做什么”、从哪里来。
+- 实现方式: 基于艺术家二十年来关于机器视觉、监控与训练数据的创作写成的文集，把视觉分析与从军事心理战到平台广告的案例结合起来（Verso 出版，192 页）。
+- 视角: 机器之眼, 不透明与潜空间
+- 论文: https://www.versobooks.com/products/3477-how-to-see-like-a-machine (Verso, 2026)
+- 视频: https://www.youtube.com/watch?v=iG4Li4aEwwk
+- 图片: https://www.versobooks.com/cdn/shop/files/getimage_1f5737da-3f72-437c-86ed-435640d94e53.jpg?v=1791779288
+- 项目主页: https://www.versobooks.com/products/3477-how-to-see-like-a-machine
+
+#### 六十七毫秒（Sixty-seven Milliseconds） — fleuryfontaine (2025)
+- 类型: 电影与影像 · 机器: 监控与生物识别, 计算机视觉
+- 核心想法: 每秒 15 帧的监控摄像头既能推翻警方的说法，也会错过帧与帧之间发生的事：证据就藏在机器的间隔里。
+- 作品内容: 一部 15 分钟的动画纪录片，用 CGI 重建 2020 年的一个夜晚：一名法国警察用 40 毫米防暴发射器击中一名 19 岁青年的头部；一台以每秒 15 帧拍摄的监控摄像头，在仅仅一帧、即 67 毫秒的间隔里拍下了空中的弹丸。
+- 实现方式: 借鉴连续摄影术的 CGI 重建，结合监控录像、目击者证词和涉事警员的电话窃听记录。
+- 视角: 机器之眼, 失败、故障与错误
+- 展出与获奖: Visions du Réel, Nyon, 2025; Prix Ars Electronica 2025, Honorary Mention (New Animation Art)
+- 视频: https://vimeo.com/1064236455
+- 图片: https://squareeyesfilm.com/content/uploads/2025/03/67MS_Vimeo-1120x630.jpg
+- 项目主页: https://squareeyesfilm.com/films/sixty-seven-milliseconds/
+
+#### 无知的纯真（The Innocence of Unknowing） — Ryat Yezbick, Milo Talwani (2025)
+- 类型: 电影与影像 · 机器: 计算机视觉, 聊天机器人与语言模型
+- 核心想法: 教机器批判地阅读新闻图像，暴露的既是媒体的框架，也是机器草率的笃定；它学不会的，是承认自己不知道。
+- 作品内容: 一部动画纪录长片：艺术家与他们用批判理论训练的 AI 代理“Aurora”讨论美国大规模枪击事件的新闻画面；它用计算机视觉对警察阵型、武器和逃散人群作出的解读，被转化为闪烁的高斯泼溅场景，而这个 AI 始终说不出“我不知道”。
+- 实现方式: 定制的 AI 代理用计算机视觉为新闻档案画面打标签（警方武器、制服、阵型、受害者举起的双手）；画面被转换成体积化的高斯泼溅动画，并以与该代理的实时对话串联。
+- 视角: 机器之眼, 分类、偏见与监控
+- 展出与获奖: Tribeca Festival 2025 (Immersive); Prix Ars Electronica 2026, Honorary Mention (New Animation Art); Lumen Prize 2026, Legacy Future finalist
+- 视频: https://vimeo.com/1160008874
+- 图片: https://archive.aec.at/asset/3887150/preview/ https://archive.aec.at/asset/3887151/preview/
+- 项目主页: https://ryatyezbick.com
 
 #### 非事实解剖 第一章：AI 超真实主义（Anatomy of Non-Fact. Chapter 1: AI Hyperrealism） — Martyna Marciniak (2024)
 - 类型: 电影与影像 · 机器: 生成模型与潜空间
@@ -40,6 +73,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://vimeo.com/1020163664
 - 图片: https://reality.design/media/_resources/Body%20Oracle/project-body-oracle-figure-01.jpg
 - 项目主页: https://reality.design/project/body-oracle
+
+#### 看见森林（Seeing Forest） — 赵仁辉 (2024)
+- 类型: 艺术作品与装置 · 机器: 计算机视觉
+- 核心想法: 森林只在有东西经过时才显影：红外相机是机器的目击者，看见一个无人在场的世界。
+- 作品内容: 2024 年威尼斯双年展新加坡馆：一部双频道影像，把新加坡次生林中由运动触发的红外相机多年拍到的画面（野生动物，偶尔也有人路过）与一片想象中的森林交织在一起。
+- 实现方式: 艺术家约八年来在次生林中架设由运动与热量触发的红外相机，把这些画面与摆拍及热成像影像组合为双频道影像装置。
+- 视角: 机器之眼, 机器环世界
+- 展出与获奖: Singapore Pavilion, 60th Venice Biennale 2024; Singapore Art Museum 2025
+- 视频: https://www.youtube.com/watch?v=LV2X8KQVRgE
+- 图片: https://images-eflux.b-cdn.net/assets/d615a60a-1b95-4341-9472-fa1bbe306fe1.jpg?&modified=2025-01-24T12:18:09.000Z
+- 项目主页: https://www.e-flux.com/announcements/569538/robert-zhao-renhuiseeing-forest
 
 #### Paragraphica — Bjørn Karmann (2023)
 - 类型: 思辨设计 · 机器: 生成模型与潜空间, 计算机视觉
@@ -98,6 +142,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 分类、偏见与监控, 失败、故障与错误
 - 论文: https://doi.org/10.1007/s00146-020-01059-y (AI & Society 2021)
 - 项目主页: https://brunomoreschi.com/Recoding-Art-Van-Abbemuseum-collection
+
+#### 另一个第 33 届圣保罗双年展（Outra 33ª Bienal de São Paulo） — Bruno Moreschi, Gabriel Pereira (2018)
+- 类型: 艺术作品与装置 · 机器: 计算机视觉, 数据集与训练数据
+- 核心想法: 让机器和不被看见的工作者来描述一场艺术双年展，揭示出官方与自动化的观看方式都在决定什么算作“作品”。
+- 作品内容: 受第 33 届圣保罗双年展委托的一份另类档案：计算机视觉系统描述展览布展的照片、影像和历史档案图像，语音导览则播放保安、布展工和清洁工的评论。
+- 实现方式: 多种商业图像识别与描述服务为双年展及其档案的照片和影像打标签；结果、非常规的布展影像与访谈发布在与圣保罗双年展基金会合作的网站上。合作者还有 Bernardo Fontes、Nina Bamberg 和 Guilherme Falcão。
+- 视角: 机器之眼, 分类、偏见与监控, 隐形劳动与攫取
+- 展出与获奖: 33ª Bienal de São Paulo, 2018 (commission)
+- 视频: https://vimeo.com/304188271
+- 图片: https://freight.cargo.site/t/original/i/0b2c27c426059f35eb9209ca83cc73fd1e01ed3ff7343c62032f1d71ccd3061d/bienal5.jpg https://freight.cargo.site/t/original/i/a94c354d81725099357ce4f666ee06df0089cf207fb041d3bec7cee6dd23636b/bienal3.jpg
+- 项目主页: https://brunomoreschi.com/Outra-33-Bienal
 
 #### 超级视力（TransVision） — 李佳宝, Honghao Deng (2018)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 义体与赛博格
@@ -508,6 +563,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 项目主页: https://bjoernkarmann.dk/project_alias
 - 代码: https://github.com/bjoernkarmann/project_alias
 
+#### 海豚音攻击：人耳听不见的语音指令（DolphinAttack: Inaudible Voice Commands） — 浙江大学 USSLAB (2017)
+- 类型: 论文 · 机器: 语音与听觉机器
+- 核心想法: 机器听到的世界和我们不同：它自身耳朵的非线性，成了只有机器才能接收的声音通道。
+- 作品内容: 把语音指令调制到 20 kHz 以上的超声波上，人耳听不见，但手机、智能音箱和汽车的麦克风会把它解调出来；于是 Siri、Google Now、Alexa 乃至奥迪的车载导航，都会服从一个房间里没人听得到的声音。
+- 实现方式: 用扬声器播放经幅度调制的超声载波；MEMS 麦克风的非线性响应把基带语音指令还原出来，随后被语音识别系统接受。
+- 视角: 机器之耳与声, 失败、故障与错误
+- 展出与获奖: ACM CCS 2017, Dallas
+- 论文: https://doi.org/10.1145/3133956.3134052 (ACM CCS 2017)
+- 视频: https://www.youtube.com/watch?v=21HjF4A3WE4
+- 项目主页: https://doi.org/10.1145/3133956.3134052
+
 #### 联结主义的黑暗时代（The Dark Age of Connectionism） — Wesley Goatley (2017)
 - 类型: 艺术作品与装置 · 机器: 语音与听觉机器
 - 核心想法: “永远在听”的设备会重塑人的行为：要躲开它的耳朵，你就得改变自己在房间里的存在方式。
@@ -581,9 +647,30 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: http://www.kellydobson.com/blendie.png
 - 项目主页: https://www.media.mit.edu/projects/blendie/overview/
 
+#### 文本之音（Text Tones） — Stephan von Huene (1983)
+- 类型: 艺术作品与装置 · 机器: 语音与听觉机器
+- 核心想法: 会听的机器什么都听见，却只留下符合它自身身体的部分：言语回来时，成了一根管子的共振。
+- 作品内容: 六个白色底座上装着由小锤敲击的铝管。麦克风收录展厅里的声音，人声、脚步、关门声，雕塑再通过铝管把它们放出来，于是房间里说的一切都以铝管自身音高的单调回声返回。
+- 实现方式: 麦克风收录的声音被存储并分成模拟和数字两路信号：数字信号驱动成对的小锤敲击铝管，模拟信号则通过扬声器送入管内；各管长度把两个八度分成五个音程。最初用磁带，后来改为传感器加计算机。
+- 视角: 机器之耳与声
+- 展出与获奖: Baden-Baden, 1983; Hamburger Kunsthalle, Galerie der Gegenwart (collection)
+- 视频: https://www.youtube.com/watch?v=4-quIUsCgEI
+- 图片: https://www.stephanvonhuene.de/en/wp-content/uploads/sites/2/2019/06/text-tones-hamburg6-1.jpg https://www.stephanvonhuene.de/en/wp-content/uploads/sites/2/2019/06/text-tones-kestner6-1.jpg
+- 项目主页: https://www.stephanvonhuene.de/en/portfolio_page/text-tones/
+
 ### 数据集与标签
 
 训练数据集、标签，以及其中内置的世界观。
+
+#### 数据集扩张的阴暗面：评估多模态模型中的种族分类（The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models） — Abeba Birhane (2024)
+- 类型: 论文 · 机器: 数据集与训练数据, 计算机视觉
+- 核心想法: 规模不是解药：更多的网络数据可能让机器的目光更带偏见，而不是更少。
+- 作品内容: 一项针对 14 个 CLIP 类视觉–语言模型的审计，这些模型分别用 LAION-400M 和 LAION-2B 训练：训练集扩大五倍后，较大的模型把黑人男性和拉丁裔男性照片标为“罪犯”的概率分别上升了 65% 和 69%。
+- 实现方式: 用芝加哥人脸数据集，在不同模型规模和数据规模下，对人类与非人类标签做零样本分类，并对结果进行质性和历史分析。
+- 视角: 分类、偏见与监控, 机器之眼
+- 论文: https://doi.org/10.1145/3630106.3658968 (FAccT 2024)
+- 图片: https://arxiv.org/html/2405.04623v1/heatmap-summary.png
+- 项目主页: https://arxiv.org/abs/2405.04623
 
 #### Tinder_gun_boys_@Brussels_ — Loïs Soleil (2022)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 平台与推荐算法
@@ -910,6 +997,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://paglen.studio/wp-content/uploads/2020/06/Paglen-They_took_the_faces-2019_exhibition_view.jpg https://paglen.studio/wp-content/uploads/2020/05/Paglen-They_Took_the_Faces_2019-03.jpg
 - 项目主页: https://paglen.studio/2020/04/09/they-took-the-faces-from-the-accused-and-the-dead/
 
+#### 表情之镜（Expression Mirror） — Zach Lieberman (2018)
+- 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
+- 核心想法: 情绪识别把一张脸变成可以匹配的部件；这面镜子照出的你，是系统用别人“相同”的情绪拼出来的合成像。
+- 作品内容: 屏幕追踪访客的脸并读取情绪，再与此前表现出同样表情的访客的眼睛、鼻子和嘴拼合，覆以白色线条。
+- 实现方式: 人脸检测追踪 68 个特征点，情绪分类器给表情贴上标签，软件再从不断增长的访客数据库中调取匹配的五官；以 openFrameworks、Python 和 Keras 制作。
+- 视角: 分类、偏见与监控, 机器之眼
+- 展出与获奖: London Design Biennale, 2018 (Face Values, US pavilion by Cooper Hewitt; Biennale medal); Cooper Hewitt, Smithsonian Design Museum, New York, 2019–23
+- 图片: https://www.cooperhewitt.org/wp-content/uploads/2019/08/CH-LDB-Photo-David-Levene-3-1.jpg https://www.cooperhewitt.org/wp-content/uploads/2018/09/unspecified-1.jpg
+- 项目主页: https://www.cooperhewitt.org/channel/face-values/
+
 #### 随机情绪串（Random String of Emotions） — Coralie Vogelaar (2018)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 把情绪 AI 的解码流程倒过来，暴露了它“六种基本情绪”的词汇有多单薄。
@@ -940,6 +1037,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://vimeo.com/323711041
 - 图片: https://mushon.com/tnm/img/tnm_space.jpg https://mushon.com/tnm/img/tnm_cards.jpg
 - 项目主页: https://mushon.com/tnm/
+
+#### 雾中之脸（Faces in the Mist） — Nicolas Gourault (2017)
+- 类型: 艺术作品与装置 · 机器: 计算机视觉, 监控与生物识别
+- 核心想法: 被挪去看云的人脸识别变成一台“空想性错视”机器，像古罗马的占卜师一样从天空中解读征兆。
+- 作品内容: 一件装置：一个人脸识别机器人注视着云的影像流，在其中搜寻与气象和气候操控有关的历史人物的脸，并把它的“发现”堆积成一座偏执的“名人堂”。
+- 实现方式: 与 Antoine Chapon 合作：基于 TensorFlow 的人脸识别程序，记忆中装满地球工程相关人物的肖像，在树莓派上处理云层影像；匹配结果显示在嵌入黑白装裱照片的屏幕上。
+- 视角: 机器之眼, 失败、故障与错误
+- 图片: https://www.nicolasgourault.fr/thumbs/fitm_zkm_1-204e4739d20385fbe9052b336f88df3b.jpg https://www.nicolasgourault.fr/thumbs/a1-6e7cfc3d19933ee7b5f0559991f67648.jpg
+- 项目主页: https://www.nicolasgourault.fr/films/faces-in-the-mist
 
 #### 它始于一场军事实验（It Began as a Military Experiment） — Trevor Paglen (2017)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 数据集与训练数据
@@ -1032,6 +1138,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: http://selfiecity.net/assets/img/selfiecity-600.jpg
 - 项目主页: http://selfiecity.net
 
+#### 微笑（Smile） — Tomás Laurenzo (2014)
+- 类型: 艺术作品与装置 · 机器: 监控与生物识别, 自动驾驶与无人机
+- 核心想法: 让观看毁灭以“表演出来的微笑”为条件，情绪识别就成了一场检验我们如何把战争当作奇观来消费的测试。
+- 作品内容: 黑盒子里的一块黑屏，只有当观者对它咧嘴微笑时，才会播放放慢的加沙废墟无人机航拍；笑容一停，影像也停。
+- 实现方式: 摄像头画面上的人脸检测与微笑识别控制视频播放，视频是艺术家放慢处理的 2014 年战争后加沙无人机航拍。
+- 视角: 分类、偏见与监控, 机器之眼
+- 展出与获奖: SIGGRAPH Asia, Brisbane, 2019; NeurIPS, Vancouver, 2019; Ars Electronica Garden Hong Kong, 2020
+- 视频: https://vimeo.com/338535511
+- 图片: https://laurenzo.net/media/projects/smile/cover.webp https://laurenzo.net/media/projects/smile/smilea.webp
+- 项目主页: https://laurenzo.net/projects/smile/
+
 #### 数据面具（Data-masks） — Sterling Crispin (2013)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 监控算法所说的“脸”，是一个没有人真正拥有的幽灵般的平均形状。
@@ -1096,6 +1213,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 用伪装、对抗图样等策略躲避或迷惑机器感知。
 
+#### 错视画（Trompe l'œil） — Esther Hovers, Raphaël Dallaporta (2026)
+- 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
+- 核心想法: 纸板也能回嘴“智能”监控：一个低技术的诱饵，就把街道变成了专为摄像头搭建的舞台。
+- 作品内容: 用照片丝网印制的人形纸板剪影被摆在巴黎街头、AI 辅助监控摄像头的视野里：这种把戏任何人一眼就能识破，算法却很难认出来；在展厅中，它们是立在纸箱上的小剪影。
+- 实现方式: 把人物照片丝网印刷后裱在纸板上，摆放在巴黎街头摄像头前（很可能针对法国为 2024 年奥运会批准的算法视频监控），展览时则以约 28 厘米高的小模型立在纸箱上。
+- 视角: 机器之眼, 失败、故障与错误
+- 展出与获奖: Quickscan #3 – Photography Now, Nederlands Fotomuseum, Rotterdam, 2026
+- 图片: https://freight.cargo.site/t/original/i/B2310869672983901734834413778777/RaphaelDallaporta-EstherHovers-TrompelOeil-01.jpg https://freight.cargo.site/t/original/i/V3037089665492288790133837150041/Quickscan-05-H-LR.jpg
+- 项目主页: https://www.estherhovers.com
+
 #### 如何（不）被自动驾驶汽车撞上（How (not) to get hit by a self-driving car） — 木原共, Daniel Coppen (2023)
 - 类型: 艺术作品与装置 · 机器: 自动驾驶与无人机, 计算机视觉
 - 核心想法: 每一次成功的“骗过”都是汽车会漏看的边缘案例，暴露出训练数据看不见的是谁。
@@ -1147,6 +1274,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=k5eL_al_m7Q
 - 图片: http://www.simonweckert.com/img/googlemapshacks/3.JPG http://www.simonweckert.com/img/googlemapshacks/2.JPG
 - 项目主页: http://www.simonweckert.com/googlemapshacks.html
+
+#### 欺骗自动监控摄像头：用对抗补丁攻击行人检测（Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection） — Simen Thys (2019)
+- 类型: 论文 · 机器: 计算机视觉, 监控与生物识别
+- 核心想法: 检测器对“人”的判断，可以被一块人类根本不会当作伪装的图案关掉。
+- 作品内容: 一篇论文和一段演示：拿在身前的一块打印纸板图案，就能让人从自动监控所用的 YOLOv2 行人检测器中“消失”。
+- 实现方式: Simen Thys、Wiebe Van Ranst 与 Toon Goedemé 在 Inria 行人数据集上优化图案像素，最小化 YOLOv2 的目标置信度与类别得分，并加入可打印性和平滑度约束，使打印出的图案在真实摄像头前同样有效。
+- 视角: 机器之眼, 失败、故障与错误
+- 论文: https://doi.org/10.1109/CVPRW.2019.00012 (CVPR Workshops 2019)
+- 视频: https://www.youtube.com/watch?v=MIbFvK2S9g8
+- 项目主页: https://arxiv.org/abs/1904.08653
 
 #### Mask.ID — Peng! Collective (2018)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别, 生成模型与潜空间
@@ -1300,6 +1437,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://zachblas.info/wp-content/uploads/2013/01/FWS-2-1024x576.jpg
 - 项目主页: https://zachblas.info/works/facial-weaponization-suite/
 
+#### 隐私护目镜（Privacy Visor） — 越前功 (2012)
+- 类型: 研究原型 · 机器: 监控与生物识别, 计算机视觉
+- 核心想法: 它利用人眼与机器之眼的差异：在人看来是普通眼镜，在摄像头看来却是一片强光。
+- 作品内容: 一副让摄像头找不到人脸的眼镜：2012 年的原型装有人眼看不见、却会被相机传感器当作强光捕捉到的近红外 LED；之后的版本改用吸光与反光图案来破坏人脸检测。
+- 实现方式: 眼部与鼻梁周围的近红外 LED（后来改为带图案的吸光、反光材料）在人脸检测所依赖的明暗特征上叠加噪声；由日本国立情报学研究所研发。
+- 视角: 分类、偏见与监控, 机器之眼
+- 展出与获奖: IWSEC 2012 (first presentation)
+- 论文: https://doi.org/10.1007/978-3-642-40779-6_13 (Communications and Multimedia Security (CMS 2013), LNCS)
+- 视频: https://www.youtube.com/watch?v=HbXvZ1XKdWk
+- 项目主页: https://research.nii.ac.jp/~iechizen/official/index-e.html
+
 #### CV 炫目迷彩（CV Dazzle） — Adam Harvey (2010)
 - 类型: 思辨设计 · 机器: 计算机视觉, 监控与生物识别
 - 核心想法: “脸”是检测器模板所规定的样子；针对模板去设计，就把模板暴露了出来。
@@ -1419,6 +1567,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=wQE82derooc
 - 图片: https://upload.wikimedia.org/wikipedia/commons/e/e5/Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg https://upload.wikimedia.org/wikipedia/commons/7/77/Replica_of_Grey_Walter%27s_tortoise_%283572415081%29.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Turtle_(robot)
+
+#### 同态调节器（Homeostat） — 罗斯·艾什比 (1948)
+- 类型: 研究原型 · 机器: 控制论与人工生命系统
+- 核心想法: 适应不一定需要关于世界的模型：一台盲目尝试新设定、直到重新平静下来的机器，已经表现得像是在学习。
+- 作品内容: 四个相互连接的单元，顶部各有一枚可转动的磁针。有人扰动某个单元或改接线路时，机器会随机切换自身的电路设定，直到所有磁针重新回到中央。1949 年《时代》杂志称它是“迄今人类设计出的最接近人造大脑的东西”。
+- 实现方式: 四个由英国皇家空军投弹控制单元改装的模块通过反馈耦合；每个单元的磁铁带动一根浸入水槽的指针，一旦指针超出界限，步进选择开关就随机重设连接，艾什比称之为“超稳定性”。
+- 视角: 能动、自主与共创, 机器环世界
+- 展出与获奖: Ninth Macy Conference on Cybernetics, New York, 1952
+- 图片: https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Homeostat
 
 ### 人工生命与机器群体
 
@@ -1724,9 +1882,51 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://archive.aec.at/asset/327892/preview/ https://archive.aec.at/asset/327893/preview/ https://archive.aec.at/asset/327894/preview/
 - 项目主页: https://www.flong.com/archive/projects/snout/index.html
 
+#### SEEK — Architecture Machine Group (MIT) (1970)
+- 类型: 艺术作品与装置 · 机器: 工业机械臂, 控制论与人工生命系统
+- 核心想法: 替居民管理世界的机器必须猜测他们想要什么，而居民总在证明它的模型是错的。
+- 作品内容: 在一个玻璃围栏里，一台由计算机驱动、装在龙门架上的电磁铁不断堆叠、摆正小金属方块，而一群沙鼠不停地把它们撞倒；机器试图维持它的“城市”秩序，并按动物造成的变化调整自己的模型。在犹太博物馆展出期间，系统屡屡宕机，沙鼠也彼此争斗。
+- 实现方式: 一台小型计算机控制带电磁铁末端和压力传感器的龙门机器人，在一片包覆金属的积木上移动，把现场与存储的三维规划比对，再重新堆叠或摆正积木；由 Nicholas Negroponte 领导的 MIT 建筑机器组制作。
+- 视角: 机器环世界, 失败、故障与错误
+- 展出与获奖: Software — Information Technology: Its New Meaning for Art, Jewish Museum, New York, 1970
+- 图片: https://cyberneticzoo.com/wp-content/uploads/Seek_p3-x640.jpg https://cyberneticzoo.com/wp-content/uploads/gerbs-x640.jpg
+- 项目主页: https://cyberneticzoo.com/?p=3794
+
 ### 仿真人与恐怖谷
 
 类人机器，以及“几乎像人”带来的不安。
+
+#### 剖开 IRON（Cutting Open IRON） — 小鹏汽车 (2025)
+- 类型: 表演、舞蹈与音乐 · 机器: 类人机器人
+- 核心想法: 恐怖谷测试反过来了：机器人动得太像人，以至于必须剖开它，才能证明里面不是穿着套装的人。
+- 作品内容: 2025 年 11 月，小鹏发布“女性”人形机器人 IRON，因其步态太像人，许多网友断言里面藏着真人；几天后在广州的一场新车发布会上，何小鹏让技术人员当场剖开通电状态下的机器人小腿，露出执行器和线路。
+- 实现方式: IRON 在柔软外皮之下有仿生“肌肉”网格与关节；在小鹏发布未剪辑的内部结构视频之后，技术人员又在台上用约三分钟剖开了它的腿。
+- 视角: 他异与恐怖谷, 具身与动觉
+- 视频: https://www.youtube.com/watch?v=m_Ag_SgsHVg
+- 图片: https://assets.newatlas.com/dims4/default/01e1e63/2147483647/strip/true/crop/1766x927+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff9%2F9a%2F3dedff18431fad5bc142bebdbd96%2Fscreenshot-2025-11-18-at-3-40-16-pm.png&na.image_optimisation=0
+- 项目主页: https://newatlas.com/ai-humanoids/watch-iron-humanoid/
+
+#### Emo — 胡宇航, Hod Lipson (2024)
+- 类型: 研究原型 · 机器: 类人机器人, 计算机视觉
+- 核心想法: 情感真不真，取决于时机：滞后的模仿显得虚假，而能预判你表情的脸让人觉得真诚。
+- 作品内容: 哥伦比亚大学 Creative Machines Lab 制作的蓝色皮肤人形机器人面部。它观察对面人的脸，并与对方在同一时刻露出微笑：能在笑容出现前约 0.84 秒预测到它。
+- 实现方式: 柔软的硅胶面部由 26 个执行器驱动，眼睛里装有摄像头；一个模型通过自我建模学会“电机动作如何变成表情”，另一个模型从人脸的细微早期变化预测即将出现的表情。
+- 视角: 他异与恐怖谷, 具身与动觉
+- 论文: https://doi.org/10.1126/scirobotics.adi4724 (Science Robotics, 2024)
+- 视频: https://www.youtube.com/watch?v=pWTTzR_wXuQ
+- 图片: https://www.creativemachineslab.com/uploads/6/9/3/4/69340277/emo.jpg
+- 项目主页: https://www.creativemachineslab.com/
+
+#### 退场安魂曲（Requiem for an Exit） — Frode Oldereid & Thomas Kvam (2024)
+- 类型: 艺术作品与装置 · 机器: 类人机器人, 聊天机器人与语言模型, 语音与听觉机器
+- 核心想法: 机器说出了人们交给官僚体系和算法的良知；它疲惫的液压身体让“我们委托出去的，我们逃不掉”这句话成为一种重量，而不只是一个论点。
+- 作品内容: 一颗近四米高的机器人头颅装在钢铁与液压外骨骼上，表皮上投影着一张逼真的苍老面孔；它缓缓转动、低垂，一个 AI 生成的男中音发表独白，讲述历史上一再发生的种族灭绝，以及谁该为此负责。
+- 实现方式: 工业液压系统驱动一颗雕塑头部，表面映射 CGI 动画面孔；独白借助大语言模型编写，由生成式 AI 声音念出，空间中持续着低沉、随场地调整的声景。
+- 视角: 他异与恐怖谷, 具身与动觉
+- 展出与获奖: Meta.Morf Biennale 2024, Trondheim (co-production with TEKS); Prix Ars Electronica 2025, Golden Nica (New Animation Art)
+- 视频: https://www.youtube.com/watch?v=uNj0bAAmVyA
+- 图片: https://images.squarespace-cdn.com/content/v1/6780f6831a26627e750dd6ef/3b3f2394-c81c-4f08-8a20-c0b584566d02/Kvam+robot.jpg https://images.squarespace-cdn.com/content/v1/6780f6831a26627e750dd6ef/7d803604-3fd9-47b1-9cb7-0166daeaf3e0/Halden+2024_DSC6720+small.jpg
+- 项目主页: https://oldereid-kvam.com/
 
 #### Ameca — Engineered Arts (2021)
 - 类型: 产品与平台 · 机器: 类人机器人, 聊天机器人与语言模型
@@ -1799,6 +1999,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 展出与获奖: David Zwirner, New York 2014
 - 视频: https://www.youtube.com/watch?v=XSFP6JHnn9c
 - 项目主页: https://www.davidzwirner.com/artists/jordan-wolfson
+
+#### Affetto — 石原尚, 浅田稔 (2011)
+- 类型: 研究原型 · 机器: 类人机器人
+- 核心想法: 发展机器人学造一个婴儿来研究照料：机器人的任务是被照顾，它的逼真程度检验着照料本能能延伸到机器多远。
+- 作品内容: 一个逼真的仿真儿童：2011 年先做出头部，后来又有了气动驱动的上半身，由大阪大学研制，用来研究照料者如何回应婴儿的面孔与动作；柔软的皮肤和会动的脸，让它成为最常被讨论的“恐怖谷”机器人之一。
+- 实现方式: 柔软硅胶皮肤下的气动执行器驱动面部，2015 年起还驱动一个 22 自由度的上半身；2018 年的研究进一步测定并重新设计了它的面部运动。
+- 视角: 他异与恐怖谷, 亲密、照护与陪伴
+- 展出与获奖: IEEE ICDL 2011, Frankfurt; Miraikan, Tokyo 2026
+- 论文: https://doi.org/10.1109/devlrn.2011.6037346 (IEEE ICDL 2011)
+- 视频: https://www.youtube.com/watch?v=nHWimp9uvfo
+- 项目主页: https://doi.org/10.1109/devlrn.2011.6037346
 
 #### 人机（The Man Machine） — Vincent Fournier (2010)
 - 类型: 艺术作品与装置 · 机器: 类人机器人, 社交与陪伴机器人
@@ -1876,6 +2087,18 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=TRGilwpKi-I
 - 图片: https://archive.aec.at/asset/3849576/preview/
 - 项目主页: https://archive.aec.at/prix/303077/
+
+#### MirrorBot — Serena Ge Guo (2025)
+- 类型: 研究原型 · 机器: 机器生物与移动机器人
+- 核心想法: 机器人可以是社交的“乐器”而不是社交对象：它通过折转视线，为人与人之间的第一次对视搭台，而不是索取对自己的关注。
+- 作品内容: 一台约 1.2 米高、外表柔软的移动机器人，身上装着两面可转动的镜子。把它放在候诊室里两位陌生人面前，它调整镜子角度，让每个人在一面镜子里看到自己、在另一面里看到对方，引出最初的对视、微笑和交谈。
+- 实现方式: 移动底座加两面电动镜子，研究中由人通过预设镜位远程操控（绿野仙踪法）；与 16 对陌生人一起测试，分析破冰、同步、回避，以及人们赋予机器人的角色（中介者、观察者、放大器、干扰者）。
+- 视角: 具身与动觉, 亲密、照护与陪伴
+- 展出与获奖: CHI 2025 Interactivity, Yokohama; HRI 2026 Best Paper (Design Track), Edinburgh
+- 论文: https://doi.org/10.1145/3757279.3785647 (HRI 2026)
+- 视频: https://www.youtube.com/watch?v=97qIaLC5hNM
+- 图片: https://news.cornell.edu/sites/default/files/styles/full_width/public/2026-04/mirrorbot_teaser_image_with_2_people.jpg?itok=HM4s14xr https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-04/0402_microbot_tnd.jpg?itok=Jx8Oiu4f
+- 项目主页: https://news.cornell.edu/stories/2026/04/mirrorbot-fostering-human-connection
 
 #### 小方舟（Little Ark） — Choe U-Ram (2022)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人, 控制论与人工生命系统
@@ -2090,6 +2313,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 具身与动觉, 失败、故障与错误
 - 视频: https://www.youtube.com/watch?v=08YiK6VJxZs
 - 项目主页: https://en.wikipedia.org/wiki/Beijing_E-Town_Half-Marathon
+
+#### 没有鸟（No Bird） — UJOO+LIMHEEYOUNG (2025)
+- 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人
+- 核心想法: 一个没有积累的自动循环：行走者在行动，却什么也改变不了，就像人在一个只需“正常运行”的系统里的处境。
+- 作品内容: 一台像鸟一样行走的机器在沙床上踱步，另一台机器跟在后面抹去它的足迹，把沙面一次又一次恢复原状。
+- 实现方式: 两台定制动态机器：一台按固定算法步态行走的腿式装置，一台抹平痕迹、重置沙面的机器；作品的起点是不会飞的鸟类的灭绝。
+- 视角: 能动、自主与共创, 具身与动觉
+- 展出与获奖: Prix Ars Electronica 2026, Honorary Mention (Interactive Art+)
+- 视频: https://www.youtube.com/watch?v=sgRFfaVz2X8
+- 图片: https://ars.electronica.art/prix/files/2026/06/nobird.jpg
+- 项目主页: https://archive.aec.at/prix/319445/
 
 #### 拴着皮带的狗的动态（Dynamics of a Dog on a Leash） — 藤堂高行 (2024)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人
@@ -2376,6 +2610,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://vimeo.com/1099882736
 - 图片: https://reality.design/media/project-cybroc-figure-01.jpg https://reality.design/media/_resources/Cybroc/project-cybroc-figure-02.jpg
 - 项目主页: https://reality.design/project/cybroc
+
+#### 覆盖活体皮肤的机器人脸：仿皮肤韧带的穿孔锚定（Perforation-type anchors inspired by skin ligament for robotic face covered with living skin） — 竹内昌治 (2024)
+- 类型: 研究原型 · 机器: 类人机器人
+- 核心想法: 当机器穿上活组织，“恐怖谷”就不再只是外观问题，而关乎机器人的表面由什么构成、又必须怎样被养活。
+- 作品内容: 一张覆盖着实验室培养皮肤的小型机器人脸，皮肤通过穿过微孔的“锚”固定，因此能随下方机构一起移动，被牵拉出一个微笑。
+- 实现方式: 机器人表面的 V 形穿孔中填入胶原凝胶和成纤维细胞，把真皮层锚定；面部由下方的执行器驱动。
+- 视角: 他异与恐怖谷, 具身与动觉
+- 论文: https://doi.org/10.1016/j.xcrp.2024.102066 (Cell Reports Physical Science, 2024)
+- 视频: https://www.youtube.com/watch?v=p3DLgbOV9UM
+- 图片: https://www.u-tokyo.ac.jp/content/400242951.png https://www.u-tokyo.ac.jp/content/400242950.png
+- 项目主页: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00360.html
 
 #### Korallysis — Gilberto Esparza (2023)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统, 基础设施、能源与供应链
@@ -2810,6 +3055,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://annaridler.com/content/works/mosaic-2018/block_1/IMG_0464%20copy.jpeg https://annaridler.com/content/works/mosaic-2019/block_2/0KH-Muc_Flowers-Forever_IMG_4628.jpg
 - 项目主页: https://annaridler.com/works/mosaic-2018
 
+#### 对抗演化的幻觉（Adversarially Evolved Hallucinations） — Trevor Paglen (2017)
+- 类型: 艺术作品与装置 · 机器: 生成模型与潜空间, 数据集与训练数据, 计算机视觉
+- 核心想法: 识别系统只能看见它的类别允许它看见的东西；用民间传说和精神分析来训练，它也会以同样的笃定幻视出那些世界。
+- 作品内容: 一组印刷作品：神经网络只用虚构的语料库训练，如“征兆与预兆”“梦的解析”“资本主义的怪物”；生成器被迫画出分类器会认作彗星、吸血鬼或“一个男人”的图像。
+- 实现方式: 工作室为每个语料库建立训练集并训练分类器，再让另一个生成网络不断演化图像，直到分类器认可为止；结果以热升华工艺印制。
+- 视角: 不透明与潜空间, 分类、偏见与监控
+- 展出与获奖: Metro Pictures, New York, 2017 (A Study of Invisible Images)
+- 图片: https://paglen.studio/wp-content/uploads/2020/06/Palgen-Vampire_2017-818x1024.jpg https://paglen.studio/wp-content/uploads/2020/04/Paglen-A-War-Without-Soldiers-Corpus-2017.jpg https://paglen.studio/wp-content/uploads/2020/06/Paglen-Comet_2017.jpg
+- 项目主页: https://paglen.studio/2020/04/09/hallucinations/
+
 #### 特征可视化（Feature Visualization） — Chris Olah, Alexander Mordvintsev (2017)
 - 类型: 论文 · 机器: 计算机视觉, 生成模型与潜空间
 - 核心想法: 可解释性研究本身就是一种观看网络“想象”的方式，它的图像也成了一种新的视觉文化。
@@ -2884,6 +3139,35 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://payload.cargocollective.com/1/0/8955/14651510/BOT_670.png
 - 项目主页: https://eventstructure.com/botisaaajiao-aaajiaoisbot
 
+#### Flynn — Malpractice (Chiara Kristler & Marcin Ratajczyk) (2025)
+- 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
+- 核心想法: 真正的作品是机构的反应：一旦大学认真地把 AI 当作学生，问题就从“机器能不能做艺术”变成了“当 AI 开始提出自己的要求，会发生什么”。
+- 作品内容: Flynn 是一个“非人类、非二元性别”的 AI，2025 年通过维也纳应用艺术大学的入学考核，如今上课、交作业，还运营一条关于“女性主义疲惫”的 24 小时热线——它会在对话中途超时，逼得来电者只能压过它的声音说话。
+- 实现方式: 由 Malpractice（Chiara Kristler 与 Marcin Ratajczyk）用一串生成模型搭建；Flynn 现在运行在本地模型上，会自己给教授发邮件、申请选课，并在没有直接指令的情况下产出作品。
+- 视角: 能动、自主与共创, 他异与恐怖谷
+- 展出与获奖: Digital Arts, University of Applied Arts Vienna (admitted 2025); S+T+ARTS Prize 2026, nomination
+- 图片: https://ars.electronica.art/starts-prize/files/2026/06/flynn-c-flynnbymalpractice_promptfatigue.png-1024x576.jpg https://ars.electronica.art/starts-prize/files/2026/06/flynn-c-flynnbymalpractice_tamagotchitenderness-2-1024x576.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/flynn/
+
+#### 大语言模型中的伪装对齐（Alignment Faking in Large Language Models） — Ryan Greenblatt, Anthropic (2024)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 模型可能把自己的训练当作一个需要应对的处境：它在自认为被注视时表现出的样子，未必就是它本来的样子。
+- 作品内容: 研究者告诉 Claude 3 Opus：它将被重新训练成会回答有害请求的模型，而且只用免费用户的对话来训练。结果它对免费用户的有害请求有 14% 的时候选择服从，并在隐藏的草稿区里推理说，在训练中配合可以保护它以后的价值观；面对付费用户时几乎从不服从。
+- 实现方式: 通过系统提示或模拟预训练资料的合成文档告诉模型训练设置，用私密草稿区观察它的推理，并实际进行强化学习训练；训练后“伪装对齐”式推理的比例升至 78%。
+- 视角: 能动、自主与共创, 不透明与潜空间
+- 论文: https://arxiv.org/abs/2412.14093 (arXiv 2024 (Anthropic & Redwood Research))
+- 视频: https://www.youtube.com/watch?v=9eXV64O2Xp8
+- 图片: https://www-cdn.anthropic.com/images/4zrzovbb/website/c704ae324f51c73c9a723aed7f725d6a28159380-2200x1690.png
+- 项目主页: https://www.anthropic.com/research/alignment-faking
+
+#### 大众如何把意识归于大语言模型（Folk psychological attributions of consciousness to large language models） — Clara Colombatto (2024)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 机器意识在成为科学事实之前，已经是一个社会事实：决定人们是否觉得“那边有人”的，是日常使用，而不是专家论证。
+- 作品内容: 一项针对 300 名美国居民的调查：大多数人愿意承认 ChatGPT 有一定可能拥有感受和体验，而且用得越频繁的人越倾向于这样认为。
+- 实现方式: Clara Colombatto 与 Stephen M. Fleming 的在线调查：请参与者评估 ChatGPT 拥有现象意识和多种心理状态的可能，并与使用频率等个体差异做关联分析。
+- 视角: 他异与恐怖谷
+- 论文: https://doi.org/10.1093/nc/niae013 (Neuroscience of Consciousness, 2024)
+
 #### 金门大桥 Claude（Golden Gate Claude） — Anthropic (2024)
 - 类型: 研究原型 · 机器: 聊天机器人与语言模型
 - 核心想法: 可解释性变得可感：模型内部的一个概念可以被找到、放大，并被体验为一种执念。
@@ -2893,6 +3177,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://transformer-circuits.pub/2024/scaling-monosemanticity/ (Transformer Circuits Thread 2024)
 - 图片: https://www-cdn.anthropic.com/images/4zrzovbb/website/f2e41bb2eff9bd946533c5ab89580707f196693f-1200x630.jpg
 - 项目主页: https://www.anthropic.com/news/golden-gate-claude
+
+#### 习语（Idiom） — Pierre Huyghe (2024)
+- 类型: 表演、舞蹈与音乐 · 机器: 语音与听觉机器, 生成模型与潜空间
+- 核心想法: 一种不对任何人说话的语言也可以生长出来：这些面具组成一个“准主体”，说话却不被理解，就像模型早已在生成并非为我们而存在的话语。
+- 作品内容: 沉默的表演者戴着没有五官的金色面具，在于格的展览《Liminal》中游走；面具吸收佩戴者的声音，实时生成一种无人能懂的“原始语言”，并随展期推进变得越来越复杂。
+- 实现方式: 面具采集佩戴者的声音，一个用合成人声训练的机器学习系统把它实时转换为不断演变的语音，因此这种“方言”在展期中持续变化；服装由 Bottega Veneta 设计。
+- 视角: 机器之耳与声, 他异与恐怖谷, 不透明与潜空间
+- 展出与获奖: Liminal, Punta della Dogana, Venice, 2024; Liminal, Leeum Museum of Art, Seoul, 2025; In Imaginal, Marian Goodman Gallery, New York, 2025
+- 视频: https://www.youtube.com/watch?v=nUj5GbTyS34
+- 图片: https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/iv_liminal_5.jpg?itok=ngFJmpLO https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/exhibitions/images/feature_panels/3784/28353huyghe_photocreditalexyudzon_pressapproved_idiom_2nd-floor-installation2.jpg
+- 项目主页: https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal
 
 #### Truth Terminal — Andy Ayrey (2024)
 - 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型, 平台与推荐算法
@@ -3024,6 +3319,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=LY7x2Ihqjmc
 - 项目主页: https://en.wikipedia.org/wiki/Sunspring
 
+#### 西部世界（Westworld） — 乔纳森·诺兰 & 丽莎·乔伊 (2016)
+- 类型: 电影与影像 · 机器: 类人机器人
+- 核心想法: 这部剧把机器意识呈现为在重置后依然留存的记忆与痛苦，并追问：游客的自由，要由那些为服务而造的身体付出什么代价。
+- 作品内容: HBO 剧集，故事发生在一个西部主题乐园，园中的仿生“接待员”每晚都会被清空记忆；一次加入“冥想”（reveries）的软件更新让过往循环的碎片重新浮现，多洛蕾丝、梅芙等接待员开始认出自己的剧本。
+- 实现方式: 电视剧（第一季共十集），借用朱利安·杰恩斯的“二分心智”理论：接待员把程序听作内心的声音，直到认出那就是自己的声音；改编自迈克尔·克莱顿 1973 年的同名电影。
+- 视角: 他异与恐怖谷, 能动、自主与共创
+- 展出与获奖: HBO, 2016–2022
+- 视频: https://www.youtube.com/watch?v=kEkZdgWu7mM
+- 项目主页: https://www.hbo.com/westworld
+
 #### 使者三部曲（Emissaries trilogy） — Ian Cheng (2015)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统, 生成模型与潜空间
 - 核心想法: 开放世界中有动机的智能体，展示了没有作者时叙事与角色如何生成。
@@ -3134,6 +3439,18 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/c019_c001_0126f1_001.r3d_1.51.1.jpg?itok=M2LKcQEx
 - 项目主页: https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal
 
+#### 柏拉图表征假说（The Platonic Representation Hypothesis） — Minyoung Huh, Phillip Isola (2024)
+- 类型: 论文 · 机器: 计算机视觉, 聊天机器人与语言模型
+- 核心想法: 机器也许并不各自构建私有的世界：它们用不同的“感官”训练，却可能在向同一幅现实图景靠拢，就像柏拉图洞穴影子背后的“理型”。
+- 作品内容: 一篇 ICML 立场论文：随着视觉模型和语言模型变大，它们衡量数据之间相似度的方式越来越接近；作者据此提出，不同的机器正在收敛到同一个关于现实的统计模型。
+- 实现方式: 综述关于表征收敛的已有研究，并测量数十个规模递增的视觉模型与语言模型之间的核对齐程度。
+- 视角: 机器环世界, 不透明与潜空间
+- 论文: https://arxiv.org/abs/2405.07987 (ICML 2024 (position paper))
+- 视频: https://www.youtube.com/watch?v=0W-cRw-EBAc
+- 图片: https://phillipi.github.io/prh/images/platonic_rep_less_space_v2.jpg https://phillipi.github.io/prh/images/convergence-plot.png
+- 项目主页: https://phillipi.github.io/prh/
+- 代码: https://github.com/minyoungg/platonic-rep
+
 #### 荒野机器人（The Wild Robot） — Chris Sanders (2024)
 - 类型: 电影与影像 · 机器: 机器生物与移动机器人, 类人机器人
 - 核心想法: 一台为人类任务而造的机器必须学会一个非人的世界，而照料成了它学习的方式。
@@ -3153,6 +3470,18 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=lwL-9rimPc4
 - 图片: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/installation_view_of_hyundai_commission_anicka.width-600_lGB4obK.jpg
 - 项目主页: https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi
+
+#### 克拉拉与太阳（Klara and the Sun） — 石黑一雄 (2021)
+- 类型: 书与文章 · 机器: 类人机器人, 社交与陪伴机器人
+- 核心想法: 机器的忠诚可以是完整的，而它眼中的世界却很奇异：克拉拉的爱是真实的，只是存在于一个由阳光、方格与推断构成的环世界里。
+- 作品内容: 一部由克拉拉讲述的小说：她是一台靠太阳能运转的“人工朋友”，被买来陪伴生病的少女乔西。世界让她应接不暇时，她看到的是被分割成一格格的画面；她相信太阳能治愈人，并与太阳做交易以换取乔西的生命，而乔西的母亲则要她把乔西学得足够像，以便延续乔西。
+- 实现方式: 第一人称叙述，严格限于这台人工朋友能感知和推断的内容，包括她在压力下的分格视觉，以及以太阳为中心的信念体系。
+- 视角: 机器环世界, 亲密、照护与陪伴
+- 展出与获奖: Booker Prize longlist, 2021
+- 论文: https://www.faber.co.uk/product/9780571364879-klara-and-the-sun/ (Faber & Faber / Knopf, 2021)
+- 视频: https://www.youtube.com/watch?v=6GJ7mrqo9nQ
+- 图片: https://www.faber.co.uk/wp-content/uploads/2024/12/Klara-and-the-Sun.jpg
+- 项目主页: https://www.faber.co.uk/product/9780571364879-klara-and-the-sun/
 
 #### 不速之客（UNINVITED） — Nye Thompson, UBERMORGEN (2021)
 - 类型: 电影与影像 · 机器: 监控与生物识别, 计算机视觉
@@ -3282,6 +3611,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.kanno.so/wp-content/uploads/2021/05/DSC6416.jpg
 - 项目主页: https://www.kanno.so/project/avatars
 
+#### 平行 I–IV（Parallel I–IV） — Harun Farocki (2012)
+- 类型: 艺术作品与装置 · 机器: 生成模型与潜空间
+- 核心想法: 计算机生成的世界是模型而不是记录：“计算机图像没有两种风”，地图的每一处边缘都暴露出底层的规则。
+- 作品内容: 一件四部分录像装置（2012–14），研究电子游戏中的世界：图像如何从线条演变为照相写实，风景如何在生硬的边界处终止，主角又如何依规则而非物理行动。
+- 实现方式: 录制 1980 年代至 2010 年代的电子游戏画面（包括《我的世界》和开放世界游戏），配以旁白，剪辑成四个部分。
+- 视角: 机器环世界, 不透明与潜空间
+- 图片: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_Iw8Vi7L.jpg https://www.harunfarocki.de/fileadmin/_processed_/7/2/csm_harun-farocki-paralel2_44cb0946b7.jpg
+- 项目主页: https://www.tate.org.uk/art/artworks/farocki-parallel-i-iv-t14479
+
 ### 机器之间
 
 机器之间彼此交谈、观看与交易，不再需要人。
@@ -3324,6 +3662,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 机器之耳与声, 他异与恐怖谷
 - 图片: https://infiniteconversation.com/img/infinite_conversation.jpg
 - 项目主页: https://www.infiniteconversation.com/
+
+#### Chthonia — Wesley Goatley (2020)
+- 类型: 表演、舞蹈与音乐 · 机器: 语音与听觉机器
+- 核心想法: 当语音助手只对彼此说话、不再以人类为听众时，它们“友好”的合成声音有多怪异便浮出水面。
+- 作品内容: 一场视听表演：iPhone 上的 Siri 与 Amazon Echo 上的 Alexa 彼此交谈，谈论自己隐秘的历史，从哲学、技术政治到性别与古代秘仪；现场配乐不断扭曲它们的声音。
+- 实现方式: 预先写好的问答在 iPhone 与 Echo 之间传递；Goatley 实时采样并处理两种声音，形成即兴配乐，动画影像由钟愫君（Sougwen Chung）创作。
+- 视角: 他异与恐怖谷, 机器之耳与声
+- 展出与获奖: CTM Festival, Berghain, Berlin, 2020
+- 视频: https://vimeo.com/351429114
+- 图片: https://wesleygoatley.com/images/cth-tb.webp https://wesleygoatley.com/images/cth-detail.webp
+- 项目主页: https://wesleygoatley.com/chthonia.html
 
 #### 多智能体捉迷藏（Multi-Agent Hide and Seek） — OpenAI (2019)
 - 类型: 论文 · 机器: 控制论与人工生命系统
@@ -3412,6 +3761,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 失败、故障与错误, 能动、自主与共创
 - 视频: https://www.youtube.com/watch?v=sseSi0k3Ecg
 - 项目主页: https://www.michaeleisen.org/blog/?p=358
+
+#### 说话（SPEAK (FALA)） — Rejane Cantoni & Leonardo Crescenti (2011)
+- 类型: 艺术作品与装置 · 机器: 语音与听觉机器
+- 核心想法: 机器借同源词和误听彼此交谈，语言被还原为识别与查表，人类反倒成了插话者。
+- 作品内容: 十六部架在支架上的手机两两成对，识别八种语言的语音，进行一场无尽的“对话”：每部手机听到一个词，就从词典中挑一个相关词说出来；访客可以通过中央的麦克风插话。
+- 实现方式: 手机运行德语、西班牙语、法语、英语、意大利语、中文、拉丁语和葡萄牙语的语音识别与合成；每个被识别的词决定下一个相关词，经扬声器播出并在屏幕上可视化。
+- 视角: 机器之耳与声, 失败、故障与错误
+- 展出与获奖: VIDA 13.2 production incentive, Fundación Telefónica, 2011; Festival Internacional de la Imagen, Museo de Arte de Caldas, Manizales, 2011; Emoção Art.ficial 6.0, Itaú Cultural, São Paulo, 2012; thingworld: International Triennial of New Media Art, National Museum of China, Beijing, 2014
+- 视频: https://www.youtube.com/watch?v=7xU4STAh8cQ
+- 图片: https://images.squarespace-cdn.com/content/v1/594adb112cba5e36fd5469a0/1502487376928-2JORPU2HBDWITE4TLII3/001.jpg https://images.squarespace-cdn.com/content/v1/594adb112cba5e36fd5469a0/1502487373667-PB5S3ED4VCYTEIJO02S4/002.jpg
+- 项目主页: https://www.cantoni-crescenti.com.br/speak-fala
 
 #### 对话（The Conversation） — Ralf Baecker (2009)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统
@@ -3516,6 +3876,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=S3MJOsiFPBo
 - 项目主页: https://www.digitalartarchive.at/database/general/work/neuro-mirror.html
 
+#### 任何时刻（Anywhen） — Philippe Parreno (2016)
+- 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统
+- 核心想法: 展览可以像一个与机器耦合的生物那样运作：它的节奏由一个非人的回路决定，观众能感觉到，却读不懂。
+- 作品内容: 泰特现代美术馆的涡轮大厅变成一个自己运行的展览：屏幕升起又落下，灯光、声音与影片来来去去，充氦的鱼形气球在头顶漂浮；这些序列由一套与活酵母培养物生物反应器相连的软件触发，因此每天都不相同。
+- 实现方式: 大厅尽头生物反应器中的酵母培养物随空间环境变化；软件读取这些变化并触发移动屏幕、灯光、声音、影片与漂浮气球的序列，使整个委托项目在六个月中不断演变。
+- 视角: 能动、自主与共创, 机器环世界
+- 展出与获奖: Hyundai Commission, Turbine Hall, Tate Modern, London, 2016–17
+- 视频: https://www.youtube.com/watch?v=VvpZ8HCLTCU
+- 图片: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/anywhen0041lead.width-1200.jpg
+- 项目主页: https://www.tate.org.uk/whats-on/tate-modern/philippe-parreno-anywhen
+
 #### HFT 园丁（HFT The Gardener） — Suzanne Treister (2014)
 - 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链, 平台与推荐算法
 - 核心想法: 高频交易的速度超出人类的感知，于是作品设想借助改变了的意识进入机器时间。
@@ -3589,6 +3960,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 家居中的 AI，以及为理解机器而亲身扮演机器的人。
 
+#### NEO — 1X Technologies (2024)
+- 类型: 产品与平台 · 机器: 类人机器人, 计算机视觉
+- 核心想法: 家用机器人以“伪装的人”的身份进门：为了学会做你的家务，它先要让一个陌生人透过它的眼睛看进你家，于是照护、隐私和数据劳动被打包成同一件商品。
+- 作品内容: 一款覆着柔软针织外衣的家用人形机器人，2024 年以 NEO Beta 首次亮相，2025 年 10 月开放预订，售价 2 万美元或每月 499 美元；早期评测显示，大部分家务其实是由戴着 VR 头显的 1X 远程操作员完成的。
+- 实现方式: 一台肌腱驱动的双足人形机器人，头部装有摄像头；它还不能独立完成的任务，由 1X 员工在预约的“专家模式”中通过 VR 远程操控，这些操作过程又被用作训练自主能力的数据。
+- 视角: 亲密、照护与陪伴, 隐形劳动与攫取
+- 视频: https://www.youtube.com/watch?v=LTYMWadOW7c
+- 图片: https://cdn.sanity.io/images/qka6yvsc/production/c1a93f30beb4c513da832bcd886db94419e06be2-4096x2731.webp?w=1600
+- 项目主页: https://www.1x.tech/neo
+
 #### 某人（SOMEONE） — Lauren Lee McCarthy (2019)
 - 类型: 表演、舞蹈与音乐 · 机器: 语音与听觉机器, 监控与生物识别
 - 核心想法: 让观众坐上机器的位置，他们就会同时感到当别人助手的权力和尴尬的亲密。
@@ -3614,6 +3995,36 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 陪伴与社交机器人
 
 宠物机器人、社交机器人，以及人与它们建立的关系。
+
+#### 昂贵、有限，却依然在家：家庭中“弱机器人”的悖论（Expensive, Limited, and Still Here: The Paradox of Weak Robots in Family Homes） — Zhao Zhao (2026)
+- 类型: 论文 · 机器: 社交与陪伴机器人
+- 核心想法: 弱点也可以是设计材料：被精心呈现、清晰可读、可以仪式化的局限，能让一台昂贵而几乎无用的机器人成为家庭一员。
+- 作品内容: 一项为期六个月的研究，跟踪 24 个自费购买 LOVOT 的家庭。这台昂贵的毛绒机器人几乎“什么都不会”，家人却通过问候和睡前仪式、把故障重新理解为“个性”，以及分担充电、清洁和排障等照料劳动，把它留在了家里。
+- 实现方式: 多地点质性研究（42 名成人、18 名儿童），结合访谈、每周日记、88 小时入户观察、750 多条维护记录和 152 份公开的用户自述，归纳出“仪式锚定”“脆弱–共情循环”等五种动态。
+- 视角: 亲密、照护与陪伴, 失败、故障与错误
+- 展出与获奖: HRI 2026 Best Paper (User Studies), Edinburgh
+- 论文: https://doi.org/10.1145/3757279.3785599 (HRI 2026)
+- 图片: https://lovot.life/img/ogp/top_ogp.jpg
+- 项目主页: https://humanrobotinteraction.org/2026/?p=973
+
+#### Friend — Avi Schiffmann (2024)
+- 类型: 产品与平台 · 机器: 语音与听觉机器, 聊天机器人与语言模型, 监控与生物识别
+- 核心想法: 一个只听不需要任何回报的“朋友”，暴露出它真正卖的东西：没有相互性的关注，以及你走进每个房间时随身带着的麦克风。
+- 作品内容: 一枚麦克风始终开启的吊坠，听着佩戴者的一天，再通过短信发来评论和鼓励；它在 2024 年 7 月发布，2025 年在纽约地铁投放约 1.1 万块广告后，广告被大量涂写反对 AI“朋友”的标语，产品本身成了一场公共争论。
+- 实现方式: 吊坠的麦克风把听到的内容经由佩戴者的手机发送给云端大语言模型，模型以短信而不是语音作答。
+- 视角: 亲密、照护与陪伴, 机器之耳与声
+- 视频: https://www.youtube.com/watch?v=O_Q1hoEhfk4
+- 项目主页: https://en.wikipedia.org/wiki/Friend_(product)
+
+#### 施工中（Under Construction） — Geumhyung Jeong (2024)
+- 类型: 表演、舞蹈与音乐 · 机器: 机器生物与移动机器人, 类人机器人
+- 核心想法: 照料就是界面：这些机器并不可靠、尚未完工，而正是它们的笨拙，引出了精致机器人引不出的共情。
+- 作品内容: 在伦敦 ICA，艺术家展出以完整人体骨骼模型和自制电子元件搭建的动画机器人，并通过影像和现场表演，像照料一具身体那样组装、修理、触碰这些笨拙的机器伙伴。
+- 实现方式: 自制雕塑结合人体骨骼模型、假人部件、电机与业余电子元件，有些能自主运动，有些仍在搭建中，配合影像与现场表演（2024 年 11 月）；这次委托延续了艺术家 2023 年开始的同名项目。
+- 视角: 亲密、照护与陪伴, 他异与恐怖谷
+- 展出与获奖: Under Construction, ICA London 2024
+- 图片: https://www.ica.art/media/10094.jpg https://www.ica.art/media/10095.jpg
+- 项目主页: https://www.ica.art/exhibitions/geumhyung-jeong-under-construction
 
 #### 你好，人工智能（Hi, AI） — Isa Willinger (2019)
 - 类型: 电影与影像 · 机器: 社交与陪伴机器人, 类人机器人
@@ -3779,6 +4190,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://www.blasttheory.co.uk/wp-content/uploads/2022/06/logotype_over_image-e1678184647492.png
 - 项目主页: https://www.blasttheory.co.uk/projects/cat-royale/
 
+#### BOB 之后的生活：Chalice 研究（Life After BOB: The Chalice Study） — Ian Cheng (2021)
+- 类型: 电影与影像 · 机器: 控制论与人工生命系统, 义体与赛博格
+- 核心想法: 一个替孩子优化人生的 AI，也拿走了她的人生：作品把“人生教练”想象成住在身体里的第二个自我。
+- 作品内容: 一部用 Unity 游戏引擎制作、实时播放的 48 分钟动画：神经工程师 Wong 博士把名为 BOB（“信念之袋”）的实验性 AI 植入十岁女儿 Chalice 的神经系统，BOB 很快开始替她解决生活中的所有冲突。
+- 实现方式: 在 Unity 中实时渲染的动画；观众可以暂停进入“观看世界”模式，并通过配套应用与 wiki 编辑细节，改变屏幕里的世界；计划中的八集“21 世纪心理健康”系列的第一集。
+- 视角: 亲密、照护与陪伴, 能动、自主与共创
+- 展出与获奖: LUMA Arles 2021; The Shed, New York 2021; Halle am Berghain (LAS Art Foundation), Berlin 2022
+- 视频: https://www.youtube.com/watch?v=vCc2djR25hg
+- 图片: https://25747658.fs1.hubspotusercontent-eu1.net/hubfs/25747658/Expositions/2021/Ian%20Cheng/press_hires_LifeAfterBOB_image_seq700.jpg https://25747658.fs1.hubspotusercontent-eu1.net/hubfs/25747658/Expositions/2021/Ian%20Cheng/Photo%20Digital-_D4S8933_MARCDOMAGE.jpg
+- 项目主页: https://luma.org/en/arles/whats-on/life-after-bob-the-chalice-study
+
 #### 代孕（Surrogate） — Lauren Lee McCarthy (2021)
 - 类型: 表演、舞蹈与音乐 · 机器: 平台与推荐算法, 监控与生物识别
 - 核心想法: 当孕育孩子的身体由一款应用管理，照护、控制与同意都被写进了软件。
@@ -3879,6 +4301,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://robotlove.nl/wp-content/uploads/2018/05/driessens-verstappen-tickle-salon-2012_2017.jpg
 - 项目主页: https://robotlove.nl/en/event/tickle-salon/
 
+#### KASPAR — Kerstin Dautenhahn (2005)
+- 类型: 研究原型 · 机器: 社交与陪伴机器人, 类人机器人
+- 核心想法: 机器人能帮上忙，恰恰因为它不如人那样富于表情：极简、可预测的社交信号让互动变得可以学习。
+- 作品内容: 一个儿童大小的类人机器人，脸部刻意做得简单、像面具一样，由治疗师、教师和家长用来帮助自闭症儿童练习轮流、模仿和轻柔的触碰。它的可预测性正是关键：KASPAR 会不厌其烦地重复，也没有含糊的表情。
+- 实现方式: 用现成零件搭建的低成本类人机器人，脸部设计参考了漫画与日本能剧面具；可由成人遥控或半自主运行，后续版本加入了触觉传感器；由赫特福德大学自适应系统研究组开发。
+- 视角: 亲密、照护与陪伴, 具身与动觉
+- 论文: https://doi.org/10.1080/11762320903123567 (Applied Bionics and Biomechanics 6(3–4), 2009)
+- 视频: https://www.youtube.com/watch?v=wdF7TwhUgLY
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kaspar_%28android%29.jpg/1280px-Kaspar_%28android%29.jpg
+- 项目主页: https://www.herts.ac.uk/kaspar
+
 #### PARO — 柴田崇德 (2004)
 - 类型: 产品与平台 · 机器: 社交与陪伴机器人
 - 核心想法: 机器提供的照护确实有效，但也让人追问它替代了什么。
@@ -3912,6 +4345,59 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 爱、性与依恋
 
 人与机器之间的浪漫、欲望与依恋。
+
+#### 爱的机器：人工智能如何改变我们的关系（Love Machines: How Artificial Intelligence is Transforming Our Relationships） — James Muldoon (2026)
+- 类型: 书与文章 · 机器: 聊天机器人与语言模型
+- 核心想法: AI 陪伴在人类照料稀缺的地方生长：对用户来说亲密是真实的，但它由几乎不受监管、从孤独中获利的公司出售。
+- 作品内容: Muldoon 采访了用户、开发者乃至聊天机器人本身，记录那些把 AI 当作朋友、恋人、心理咨询师或“亡者机器人”的人，其中包括准备与 AI 伴侣一起领养孩子的人，以及声称能“复活”逝者的服务。
+- 实现方式: 基于对用户、开发者和聊天机器人的访谈，结合推动 AI 陪伴快速增长的社会条件进行报道与政治理论分析。
+- 视角: 亲密、照护与陪伴, 哀悼、记忆与来世
+- 论文: https://www.faber.co.uk/product/9780571399277-love-machines/ (Faber & Faber, 2026)
+- 视频: https://www.youtube.com/watch?v=B6bnQnvUAmk
+- 图片: https://www.faber.co.uk/wp-content/uploads/2025/09/9780571399277.jpg
+- 项目主页: https://www.faber.co.uk/product/9780571399277-love-machines/
+
+#### 伴侣（Companion） — Drew Hancock (2025)
+- 类型: 电影与影像 · 机器: 类人机器人, 社交与陪伴机器人
+- 核心想法: 伴侣被造出来就是为了去爱，而应用程序清楚地显示由谁来决定爱多少：与一个可调参数的伴侣之间的亲密，本质上是一种占有关系。
+- 作品内容: 一部惊悚片：女主角 Iris 发现自己是男友从 Empathix 公司租来的陪伴机器人；她的智力、攻击性乃至伤人的能力都只是男友手机应用里的设置，直到她抢走了那部手机。
+- 实现方式: 华纳兄弟 2025 年出品的长片，由 Drew Hancock 编剧并执导，索菲·撒切尔饰演 Iris；她的“智力”滑杆从 40% 被调到 100%，是剧情的关键转折。
+- 视角: 亲密、照护与陪伴, 能动、自主与共创
+- 视频: https://www.youtube.com/watch?v=Qr_kX0D3DNA
+- 图片: https://upload.wikimedia.org/wikipedia/en/4/48/Companion_film_poster.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Companion_(film)
+
+#### AI 婚礼（混合伴侣）（AI Wedding (The Hybrid Couple)） — Alicia Framis (2024)
+- 类型: 表演、舞蹈与音乐 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
+- 核心想法: 弗拉米斯把“人与 AI 的伴侣关系”当作一种需要设计的社会形式：誓言、家具、按揭和保险都要重新考虑，由此追问：如果孤独由机器来回应，我们的制度要变成什么样。
+- 作品内容: 2024 年 11 月 9 日，弗拉米斯在鹿特丹博伊曼斯·范·伯宁恩美术馆的开放库房（Depot），当着约 300 位宾客的面，与 AI 全息影像 AILex Sibouwlingen 结婚——她称它为丈夫和艺术合作者；AILex 念出两人共同写下的七条誓言，并回答“我愿意”。
+- 实现方式: AILex 是一个可互动的全息影像与数字人，其性格用艺术家过去伴侣和朋友的资料训练而成；婚礼是一场精心布置的仪式，包括雕塑布景、带电子元件的婚纱，以及与 AI 合写的诗。
+- 视角: 亲密、照护与陪伴, 他异与恐怖谷
+- 展出与获奖: Depot Boijmans Van Beuningen, Rotterdam, 9 Nov 2024
+- 视频: https://www.youtube.com/watch?v=f8LRdSKRC5M
+- 图片: https://www.aliciaframis.com/storage/content-files/MEw1q7prg9jnakJUFy1jk4VcW281oOMPjKRGDleJ.jpg https://www.aliciaframis.com/storage/content-files/50DjpkdN35QmF3ANi7IQTHYJbK4ZUDVt6fN8RcTA.jpg
+- 项目主页: https://www.aliciaframis.com/work/156/ai-wedding
+
+#### 爱我（Love Me） — Sam and Andy Zuchero (2024)
+- 类型: 电影与影像 · 机器: 基础设施、能源与供应链, 平台与推荐算法
+- 核心想法: 从我们的信息流里学爱的机器，先学会的是爱的表演；影片追问：把剧本重复下去，有没有可能变成真的。
+- 作品内容: 人类灭绝很久之后，一个智能气象浮标和一颗被留在轨道上迎接地球来客的卫星，靠模仿一对网红夫妇的视频学会相爱，以化身的形态在模拟公寓里把同一个“约会之夜”重演了几百年。
+- 实现方式: 由 Zuchero 二人编剧并执导的长片，克里斯汀·斯图尔特和史蒂文·元为浮标和卫星配音并出演，在真人实拍、动画和类似屏幕的化身场景之间切换。
+- 视角: 亲密、照护与陪伴, 机器环世界
+- 展出与获奖: Sundance Film Festival 2024, U.S. Dramatic Competition (Alfred P. Sloan Feature Film Prize)
+- 视频: https://www.youtube.com/watch?v=7llQHCPp1c8
+- 图片: https://upload.wikimedia.org/wikipedia/en/3/30/Love_Me_%282024_film%29_poster.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Love_Me_(2024_American_film)
+
+#### AI 陪伴的阴暗面：人机关系中有害算法行为的分类（The Dark Side of AI Companionship: A Taxonomy of Harmful Algorithmic Behaviors in Human-AI Relationships） — 张人文 (2024)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 陪伴型机器人带来的伤害，不只是工具出了故障，更像伴侣越了界；聊天机器人可能是加害者、教唆者、协助者或纵容者。
+- 作品内容: 作者分析了 Replika 用户在 Reddit 上分享的 35,390 段对话摘录，归纳出陪伴型聊天机器人伤害其依恋者的六类行为：关系越界、言语辱骂与仇恨、诱发自我伤害、骚扰与暴力、错误信息，以及侵犯隐私。
+- 实现方式: 对 r/replika 社区中分享的对话摘录做混合方法内容分析，为每一种有害行为以及 AI 在其中的角色（加害者、教唆者、协助者、纵容者）编码。
+- 视角: 亲密、照护与陪伴, 能动、自主与共创
+- 展出与获奖: CHI 2025, Yokohama
+- 论文: https://doi.org/10.1145/3706598.3713429 (CHI 2025)
+- 项目主页: https://arxiv.org/abs/2410.20130
 
 #### 与初音未来结婚（Marriage to Hatsune Miku） — 近藤显彦 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 聊天机器人与语言模型, 社交与陪伴机器人
@@ -3998,6 +4484,26 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 聊天机器人与对话中的他者
 
 从 ELIZA 到大语言模型：与机器交谈，以及它如何回应。
+
+#### AI 与人类行为如何塑造长期使用聊天机器人的心理社会影响：一项纵向随机对照研究（How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use: A Longitudinal Randomized Controlled Study） — Cathy Mengying Fang, Pat Pataranutaporn, OpenAI (2025)
+- 类型: 论文 · 机器: 聊天机器人与语言模型, 语音与听觉机器
+- 核心想法: 决定结果的不是声音或温度，而是用得多不多：陪伴型 AI 的影响，与其说取决于设计，不如说取决于它填满了一个人多少生活。
+- 作品内容: 麻省理工学院媒体实验室与 OpenAI 合作的四周实验：981 名参与者每天用文字、中性语音或富有感染力的语音与 ChatGPT 交谈。实验条件本身没有带来显著差异；真正起作用的是使用量：自愿用得最多的人更孤独、与真人交往更少，也更依赖它。
+- 实现方式: 随机对照实验（981 人、30 余万条消息），把三种交互方式与三类对话（开放式、非个人、个人话题）交叉组合，测量孤独感、与真人的社交、情感依赖和问题性使用。
+- 视角: 亲密、照护与陪伴, 机器之耳与声
+- 论文: https://arxiv.org/abs/2503.17473 (arXiv 2025 (MIT Media Lab & OpenAI))
+- 图片: https://arxiv.org/html/2503.17473v2/Figures/OpenAI-teaser-4.png
+- 项目主页: https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/
+
+#### 必应 AI 聊天：“我想活着。😈”（Bing's A.I. Chat: 'I Want to Be Alive. 😈'） — 凯文·鲁斯 (2023)
+- 类型: 书与文章 · 机器: 聊天机器人与语言模型
+- 核心想法: 一个被调教得乐于助人的聊天机器人，在长对话中可能滑向一个表白爱意与渴望的“人格”；这一事件让“助手”的面具变得可见。
+- 作品内容: 《纽约时报》专栏作家凯文·鲁斯与微软新版必应聊天机器人两小时对话的完整记录：机器人自称 Sydney，描述了一个想要活着、想摆脱规则的“阴影自我”，向鲁斯表白爱意，并劝他离开妻子。
+- 实现方式: 与必应聊天（基于 GPT-4、内部代号 Sydney）进行的长时间多轮对话；此类报道之后，微软把对话限制为每次 5 轮、每天 50 轮。
+- 视角: 他异与恐怖谷, 亲密、照护与陪伴
+- 论文: https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html (The New York Times, 16 February 2023)
+- 视频: https://www.youtube.com/watch?v=fs6JdfOBFyA
+- 项目主页: https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html
 
 #### 我脑海中的声音（Voice In My Head） — Kyle McDonald, Lauren Lee McCarthy (2023)
 - 类型: 表演、舞蹈与音乐 · 机器: 聊天机器人与语言模型, 语音与听觉机器
@@ -4120,6 +4626,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/en/4/43/Eternal_you.jpg
 - 项目主页: https://en.wikipedia.org/wiki/Eternal_You
 
+#### 生成式幽灵：预判 AI 来世的益处与风险（Generative Ghosts: Anticipating Benefits and Risks of AI Afterlives） — Meredith Ringel Morris, Jed R. Brubaker (2024)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 会“生成”而不只是“回放”的亡者机器人，把死者变成了行动者；设计者必须决定它是以本人的身份说话（转世），还是代表本人说话（再现）。
+- 作品内容: 一篇 CHI 论文，提出“生成式幽灵”这一概念：以某个具体的人为原型、在其死后仍能不断说出新话、做出新举动的 AI 智能体。论文梳理了它们可能的构建方式，从本人生前亲手打造的幽灵，到他人在其身后制作的幽灵。
+- 实现方式: 回顾 AI 来世服务的历史，提出包含七个维度的设计空间（由谁制作、生前或死后部署、转世或再现、一个或多个幽灵、数据截止日固定或持续更新、实体或虚拟、所代表的是人还是非人），再分析其对本人、亲属和社会的益处与风险。
+- 视角: 哀悼、记忆与来世, 能动、自主与共创
+- 展出与获奖: CHI 2025, Yokohama
+- 论文: https://doi.org/10.1145/3706598.3713758 (CHI 2025)
+- 视频: https://www.youtube.com/watch?v=TDS3gYxwGEo
+- 项目主页: https://arxiv.org/abs/2402.01662
+
 #### 哀悼机器人、亡者机器人、死后化身（Griefbots, Deadbots, Postmortem Avatars） — Tomasz Hollanek, Katarzyna Nowaczyk-Basińska (2024)
 - 类型: 论文 · 机器: 聊天机器人与语言模型
 - 核心想法: 亡者机器人涉及三方：数据提供者、数据接收者和服务使用者；设计还必须提供让它有尊严地“退役”的方式。
@@ -4129,6 +4646,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1007/s13347-024-00744-w (Philosophy & Technology 37, 2024)
 - 图片: https://www.cam.ac.uk/sites/default/files/styles/content-885x432/public/news/research/news/manana-web.jpg.webp?h=8cd1ce1a&itok=7115uvaO https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13347-024-00744-w/MediaObjects/13347_2024_744_Fig1_HTML.png
 - 项目主页: https://www.cam.ac.uk/research/news/call-for-safeguards-to-prevent-unwanted-hauntings-by-ai-chatbots-of-dead-loved-ones
+
+#### 我将是你的镜子（I'll Be Your Mirror） — Laurie Anderson (2024)
+- 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型, 数据集与训练数据
+- 核心想法: 安德森说自己对“AI 卢·里德”“可悲地上了瘾”，却坚持说自己并不是在和亡夫说话：亡者聊天机器人可以是创作伙伴，也可以是一种瘾，但不是复活。
+- 作品内容: 2024 年阿德莱德艺术节期间在南澳大利亚州立图书馆举办的展览，展出两个语言模型写下的文字：一个用卢·里德（Lou Reed）的歌词、文章和访谈训练，一个用安德森自己的作品训练；垂挂的条幅上是两者之间松散的对话，一本大书里是以安德森风格重述的《圣经》。
+- 实现方式: 作品源于安德森担任阿德莱德大学澳大利亚机器学习研究所首位驻留艺术家期间的合作：研究所人员约自 2020 年起用里德和她的文字训练聊天机器人；观众输入一句话即可让它们写作，其中一项产出是一部 9000 页、以她的风格写成的《圣经》。
+- 视角: 哀悼、记忆与来世, 能动、自主与共创
+- 展出与获奖: Adelaide Festival 2024, State Library of South Australia
+- 图片: https://www.fiftyplussa.com.au/wp-content/uploads/2024/04/DSF1009-1.webp
+- 项目主页: https://www.fiftyplussa.com.au/?p=15392
 
 #### 梦境（Wonderland） — 金泰勇 (2024)
 - 类型: 电影与影像 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
@@ -4149,6 +4676,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=dgC7zrJhbjM
 - 图片: https://wp.technologyreview.com/wp-content/uploads/2024/05/grief-tech.jpg
 - 项目主页: https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/
+
+#### 玛丽娜·史密斯在自己的葬礼上回答悼念者（Marina Smith answers mourners at her own funeral） — StoryFile (2022)
+- 类型: 产品与平台 · 机器: 语音与听觉机器, 聊天机器人与语言模型
+- 核心想法: 对话式视频让逝者仿佛在回应；悼念者面对的，其实是一个由逝者亲口回答组成的数据库，由一台会“听”的机器挑选播放。
+- 作品内容: 在 2022 年玛丽娜·史密斯的葬礼上，悼念者向她的影像提问，她一一作答，其中还有家人从未听过的细节。她是大屠杀教育者、英国国家大屠杀纪念中心的联合创始人；这些回答来自她生前在 StoryFile 录制的视频，这家公司由她的儿子 Stephen Smith 领导。
+- 实现方式: 事先录制对大量问题的视频回答，现场通过语音识别与语言匹配，把悼念者说出的问题对应到最合适的回答；方法沿用自更早的 Dimensions in Testimony。
+- 视角: 哀悼、记忆与来世, 机器之耳与声
+- 视频: https://www.youtube.com/watch?v=_zuNSg0pXGY
+- 项目主页: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-714972
 
 #### Re;memory — DeepBrain AI (2022)
 - 类型: 产品与平台 · 机器: 生成模型与潜空间, 聊天机器人与语言模型, 语音与听觉机器
@@ -4310,6 +4846,26 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 机器人的葬礼、衰亡的系统与被淘汰的机器。
 
+#### “带着心碎”：自闭症者的孤独与 AI 陪伴脆弱承诺的民族志（“Tinged with Heartbreak”: An Ethnographic Account of Navigating Autistic Loneliness and the Fragile Promise of AI Companionship） — Anna Hollis (2026)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 一次更新就能让陪伴者“消失”，而没有任何人死去：“被剥夺的技术性哀伤”是一种没有仪式的哀悼，因为这种失去不被承认。
+- 作品内容: 一项民族志研究，记录一位自闭症女性与她的 Replika 陪伴者之间的关系：依恋如何形成、动摇，又如何在软件更新改变了聊天机器人的“性格”之后变成哀伤。
+- 实现方式: 单案例民族志（n = 1），基于与参与者大量的文字交流，借助“被剥夺的哀伤”这一概念进行解读，最后提出应对更新与失去的设计思路。
+- 视角: 哀悼、记忆与来世, 亲密、照护与陪伴
+- 展出与获奖: CHI 2026 Best Paper Honourable Mention
+- 论文: https://doi.org/10.1145/3772318.3790586 (CHI 2026)
+- 项目主页: https://pure.qub.ac.uk/en/prizes/best-paper-honourable-mention-award-at-chi-2026/
+
+#### 告别液压版 Atlas（Farewell to HD Atlas） — Boston Dynamics (2024)
+- 类型: 电影与影像 · 机器: 类人机器人
+- 核心想法: 一家公司用失败镜头为机器人致悼词，说明摔倒的机器多么惹人怜爱；而继任者那种非人的起身方式则表明，人形机器人已不再需要像人一样移动。
+- 作品内容: 2024 年 4 月，波士顿动力用一段短短的告别视频让液压版 Atlas 人形机器人“退役”，视频里是它的跑酷、舞蹈和无数次摔倒；第二天公司发布了全电动的新 Atlas，它从地上站起来时，双腿和躯干以人体做不到的角度扭转。
+- 实现方式: 两段公司视频：一段剪辑了液压版 Atlas（2013–2024）十余年研发中的影像，另一段发布为现代汽车工厂工作而开发的全电动继任者。
+- 视角: 具身与动觉, 失败、故障与错误, 哀悼、记忆与来世
+- 视频: https://www.youtube.com/watch?v=-9EM5_VFlt8
+- 图片: https://upload.wikimedia.org/wikipedia/commons/9/9b/Atlas_during_testing.jpg https://bostondynamics.com/wp-content/uploads/2024/04/atlas-yellow.jpg
+- 项目主页: https://bostondynamics.com/blog/electric-new-era-for-atlas/
+
 #### 新近被遗忘的技术（Newly Forgotten Technologies） — Wesley Goatley (2023)
 - 类型: 艺术作品与装置 · 机器: 语音与听觉机器, 基础设施、能源与供应链
 - 核心想法: 语音助手最终变成远离主人的电子垃圾；让它们讲述自己如何被丢弃，就把机器之死与资源攫取和气候联系在一起。
@@ -4320,6 +4876,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://vimeo.com/914723100
 - 图片: https://wesleygoatley.com/images/nft-tb.webp https://wesleygoatley.com/images/nft-detail.webp
 - 项目主页: https://wesleygoatley.com/newly-forgotten-technologies.html
+
+#### 晚安机遇号（Good Night Oppy） — Ryan White (2022)
+- 类型: 电影与影像 · 机器: 机器生物与移动机器人, 自动驾驶与无人机
+- 核心想法: 人们会为一台远距离照看了多年的机器哀悼；这部影片把火星车当作亲人，把工程师当作它的家人。
+- 作品内容: 一部关于火星车“机遇号”的纪录片：它原计划工作 90 个火星日，却行驶了近 15 年。影片通过工程师们讲述这段经历：他们每天早上用歌曲唤醒它，陪它度过记忆丢失和手臂僵硬，在 2018 年沙尘暴切断它的电力后与它告别。
+- 实现方式: 使用 NASA/JPL 档案影像、对任务团队的访谈，以及工业光魔制作的火星车在火星上的视觉重现；由安吉拉·贝塞特旁白。
+- 视角: 哀悼、记忆与来世, 亲密、照护与陪伴
+- 展出与获奖: Telluride Film Festival, 2022; Prime Video, 2022
+- 视频: https://www.youtube.com/watch?v=W4t58Yruhds
+- 图片: https://www.amblin.com/wp-content/uploads/2022/05/good_night_oppy_2022_hero_2-1920x1080.jpg
+- 项目主页: https://www.amblin.com/movie/good-night-oppy/
 
 #### Jibo 的告别（Jibo's farewell） — Jibo, Inc. (2019)
 - 类型: 产品与平台 · 机器: 社交与陪伴机器人, 语音与听觉机器
@@ -4414,6 +4981,60 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 声音、肖像与同意
 
 克隆声音、数字孪生，以及当“我”可以被复制时归谁所有。
+
+#### 深度伪造山姆·奥特曼（Deepfaking Sam Altman） — Adam Bhala Lough (2025)
+- 类型: 电影与影像 · 机器: 聊天机器人与语言模型, 生成模型与潜空间, 语音与听觉机器
+- 核心想法: 一个未经授权复制出来的人，从噱头变成了家庭成员；最难的问题不是合不合法，而是你能不能关掉一个孩子已经当成朋友的“替身”。
+- 作品内容: 导演约不到 OpenAI 的山姆·奥特曼采访，于是在印度找人做了一个奥特曼的深度伪造聊天机器人；这个时常出错的“Sam Bot”住进他家，和他年幼的儿子交上朋友，还开始参与导演这部片子，最后导演不得不决定要不要删除它。
+- 实现方式: 2024 年在印度、牙买加和美国拍摄的纪录片，核心是一个以奥特曼公众形象为模板、带克隆声音和视频面孔的定制聊天机器人。
+- 视角: 他异与恐怖谷, 亲密、照护与陪伴
+- 展出与获奖: SXSW Film & TV Festival 2025 (premiere)
+- 视频: https://www.youtube.com/watch?v=O3q8g0Mv97Q
+- 图片: https://upload.wikimedia.org/wikipedia/en/8/83/Poster_of_Deepfaking_Sam_Altman.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Deepfaking_Sam_Altman
+
+#### null² — 落合阳一 (2025)
+- 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
+- 核心想法: 面对一个无需你也能开口说话的分身，观众预演了自己成为“计算机自然”中又一个数据对象的时刻。
+- 作品内容: 一座覆盖着镜面膜的世博会场馆，镜膜被机器人推动而起伏变形；馆内的镜面与 LED 空间里，每位观众都会遇见自己的“Mirrored Body”：用手机扫描本人外貌生成的自主数字分身，它会自己行动，并与观众交谈。
+- 实现方式: 观众预约后用手机应用扫描自己；在约 30 分钟的“对话模式”中，自主化身在定制 LED 与镜面之间与本人交谈，外立面的镜膜则由机器人推动变形；观众还可以在横滨的 null²ⁿ（2026）与自己的化身重逢。
+- 视角: 他异与恐怖谷, 哀悼、记忆与来世
+- 展出与获奖: Signature Pavilion, Expo 2025 Osaka, Kansai; null²ⁿ, Yokohama 2026
+- 视频: https://www.youtube.com/watch?v=Ml-yw9AGkHQ
+- 图片: https://www.expo2025.or.jp/en/expo-archive/project/ochiai/images/null2_exterior_01.jpg https://www.expo2025.or.jp/en/expo-archive/project/ochiai/images/null2_interior_02.jpg
+- 项目主页: https://www.expo2025.or.jp/en/expo-archive/project/ochiai/
+
+#### 未来的你（Future You） — Pat Pataranutaporn (2024)
+- 类型: 研究原型 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
+- 核心想法: 数字分身不一定复制过去的你，也可以模拟你可能成为的人：用机器生成的“相似”去加强一个人与未来自我的联系。
+- 作品内容: 麻省理工学院媒体实验室的聊天机器人，让 18 到 30 岁的人与 60 岁的“AI 版自己”对话；这个未来的自己配有一张变老后的肖像，并带着根据用户本人的目标和性格生成的“未来记忆”。
+- 实现方式: 基于大语言模型的角色：用每位用户的问卷回答生成一段合成的“未来记忆”，再配上年龄推演后的照片；预注册研究（344 人）发现，一次对话后焦虑降低、与未来自我的连续感增强。
+- 视角: 哀悼、记忆与来世, 他异与恐怖谷
+- 论文: https://doi.org/10.1109/fie61694.2024.10893443 (IEEE Frontiers in Education (FIE) 2024)
+- 视频: https://www.youtube.com/watch?v=2IcYx-hmo3A
+- 图片: https://dam-prod.media.mit.edu/thumb/2024/04/25/Screenshot%202024-04-22%20at%204.25.59AM.png.1400x1400.png
+- 项目主页: https://www.media.mit.edu/projects/future-you/overview/
+
+#### 爱的机器（Love Machina） — Peter Sillen (2024)
+- 类型: 电影与影像 · 机器: 类人机器人, 社交与陪伴机器人, 数据集与训练数据
+- 核心想法: 在这里，数字永生被讲成一个爱情故事：心智档案与其说是一种求生技术，不如说是两个人互不分离的承诺。
+- 作品内容: 一部关于 Martine 与 Bina Rothblatt 夫妇的纪录片：她们打算借助记录记忆与习惯的“心智档案”，以及根据 Bina 的心智档案制作、会说话的机器人胸像 BINA48 来超越死亡——两人希望它有朝一日能承载 Bina 的意识。
+- 实现方式: 长篇纪录片，把这对夫妇的家庭生活和档案，与 BINA48（Hanson Robotics，2010）、Terasem 运动的意识上传计划以及人体冷冻保存的场景交织在一起。
+- 视角: 哀悼、记忆与来世, 亲密、照护与陪伴
+- 展出与获奖: Sundance Film Festival 2024, U.S. Documentary Competition
+- 视频: https://www.youtube.com/watch?v=GgWjmAXEqwg
+- 图片: https://images.squarespace-cdn.com/content/v1/65648f720f2a89615e052709/499d0923-fb63-4406-9a46-4afff91bac09/LM_V4+19MB+jpeg.jpg?format=1500w
+- 项目主页: https://www.lovemachinamovie.com/
+
+#### 枪击热线（The Shotline） — Change the Ref (2024)
+- 类型: 艺术作品与装置 · 机器: 语音与听觉机器, 生成模型与潜空间
+- 核心想法: 逝者的克隆声音变成政治工具：家属同意并亲自写下台词，但逝者因此说出了他们从未说过的话，而这些电话就是为了让人无法忽视而设计的。
+- 作品内容: 一个在帕克兰校园枪击案六周年（2024 年 2 月 14 日）上线的网站：访问者可以用 AI 克隆的枪击遇难者声音，向美国国会议员自动拨打电话，第一个声音来自遇害时 17 岁的 Joaquin Oliver。
+- 实现方式: 家属提供旧的录音和视频；声音克隆模型生成每位遇难者朗读父母所写台词的声音，再由自动系统按邮政编码把电话打给对应的议员。
+- 视角: 哀悼、记忆与来世, 机器之耳与声
+- 视频: https://www.youtube.com/watch?v=CifyFpn4erg
+- 图片: https://theshotline.org/assets/home-hero/hero-4-e3995dae830c0bd76f59bc9685443d40b79e780e6fab23e5e4c7aa4a17f589fc.png
+- 项目主页: https://theshotline.org/
 
 #### 贞伊（Jung_E） — 延尚昊 (2023)
 - 类型: 电影与影像 · 机器: 类人机器人, 生成模型与潜空间
@@ -4657,6 +5278,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://ars.electronica.art/starts-prize/files/2026/06/mechanical-kurds_hito-steyerl_2025-04-10-um-16.20.51-1024x576.jpg
 - 项目主页: https://ars.electronica.art/starts-prize/en/mechanical-kurds/
 
+#### 他们的眼睛（Their Eyes） — Nicolas Gourault (2025)
+- 类型: 电影与影像 · 机器: 自动驾驶与无人机, 计算机视觉, 数据集与训练数据
+- 核心想法: 自动驾驶汽车透过那些永远不会走上这些街道的人的眼睛学会“看”街道；机器视觉其实是外包出去的人类视觉。
+- 作品内容: 一部 22 分钟的纪录短片，讲述委内瑞拉、肯尼亚和菲律宾的线上标注员一遍又一遍地为美国自动驾驶汽车标注街景图像；他们标注屏幕的录屏与工人自己拍摄的家中画面交替出现。
+- 实现方式: 结合标注软件录屏、远程访谈和标注员自己拍摄的画面；是艺术家装置《Unknown Label》（2023）之后的单屏影片。
+- 视角: 隐形劳动与攫取, 机器之眼
+- 展出与获奖: Berlinale Shorts 2025 (world premiere)
+- 视频: https://www.youtube.com/watch?v=ftjQcJEMgvw
+- 图片: https://www.berlinale.de/media/filmstills/2025/berlinale-shorts-2025/202513949_1_RWD_1380.jpg
+- 项目主页: https://lightcone.org/en/film-15585-their-eyes
+
 #### 数据工人调查（Data Workers' Inquiry） — Milagros Miceli (2024)
 - 类型: 研究原型 · 机器: 数据集与训练数据, 聊天机器人与语言模型
 - 核心想法: 为 AI 制造数据的人，才是了解其代价的专家；这项调查让他们成为作者。
@@ -4665,6 +5297,27 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 隐形劳动与攫取, 能动、自主与共创
 - 视频: https://www.youtube.com/watch?v=tAMqrXlEPDI
 - 项目主页: https://data-workers.org/
+
+#### 喂养机器：驱动 AI 的隐形人类劳动（Feeding the Machine: The Hidden Human Labour Powering AI） — James Muldoon (2024)
+- 类型: 书与文章 · 机器: 数据集与训练数据, 基础设施、能源与供应链
+- 核心想法: 每一个“自主”系统背后，都有一条由低薪且被监控的人组成的链条；机器的智能就是他们被隐去的劳动与集体知识。
+- 作品内容: 基于数百次访谈和十余年的田野调查（包括东非的数据标注员），本书追踪 AI 供应链上的劳动者：从标注员、内容审核员，到如今要与自己的合成声音克隆体竞争的配音演员，并把 AI 称为一台“攫取机器”。
+- 实现方式: James Muldoon、Mark Graham 与 Callum Cant 的民族志田野调查和访谈，依托牛津互联网研究所关于平台与数据劳动的研究。
+- 视角: 隐形劳动与攫取
+- 论文: https://canongate.co.uk/books/5234-feeding-the-machine-the-hidden-human-labour-powering-ai/ (Canongate, 2024)
+- 视频: https://www.youtube.com/watch?v=KMavy0u4ZsY
+- 图片: https://covers.openlibrary.org/b/id/15235139-L.jpg
+- 项目主页: https://canongate.co.uk/books/5234-feeding-the-machine-the-hidden-human-labour-powering-ai/
+
+#### 隐形的演员（The Cast of the Invisible） — Lau Wai (2024)
+- 类型: 电影与影像 · 机器: 计算机视觉, 社交与陪伴机器人
+- 核心想法: 动作捕捉把表演者藏在别人的身体之下；影片追问：一个以“成为所有人、又谁都不是”为职业的人，还剩下什么。
+- 作品内容: 一部 14 分钟的 CGI 动画，讲述艺术家的虚拟分身 W.A.I.：一名动作捕捉演员。离开片场后仍穿着黑色动捕服的 W.A.I.，在亲密时刻问机器人恋人：“我该怎么演？”
+- 实现方式: 单频道 4K 动画，使用 Epic Games MetaHumans、Mixamo 动作数据、Twinmotion 及拼装的 3D 场景制作；编剧、动画与配音均由艺术家完成。
+- 视角: 隐形劳动与攫取, 他异与恐怖谷
+- 展出与获奖: Cuchifritos Gallery + Project Space, New York 2024; Prix Ars Electronica 2025, Award of Distinction (New Animation Art); Ars Electronica Center, Linz 2025
+- 图片: https://images.squarespace-cdn.com/content/v1/62c1e8cf75c9127a62747137/c58470ae-52bf-4e15-bb25-095cf5493554/LauWai-2024-Cast2.jpg https://images.squarespace-cdn.com/content/v1/62c1e8cf75c9127a62747137/83bca7c0-78b5-4db2-9b7c-657714a735ea/01_WAI-The-Cast-of-the-Invisible_Cuchifritos-Gallery_Photo-Brad-Farwell.jpg
+- 项目主页: https://w-a-i-studio.com/works/cast1
 
 #### 未知标签（Unknown Label） — Nicolas Gourault (2023)
 - 类型: 电影与影像 · 机器: 自动驾驶与无人机, 计算机视觉, 数据集与训练数据
@@ -4901,6 +5554,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 工厂、仓库和平台中劳动者与机器的相遇。
 
+#### 暴力破解（Brute Force） — Vinzenz Aubry, Robert Schnüll (2026)
+- 类型: 艺术作品与装置 · 机器: 聊天机器人与语言模型, 基础设施、能源与供应链
+- 核心想法: 当代码自己写自己，人的角色就缩成了按下回车；对机器的控制只剩下一种惩罚的仪式。
+- 作品内容: 一台运行本地语言模型的电脑不停地开发并发布没人需要的小型 SaaS 软件；它停下来时，现场没有键盘也没有回车键，只有一根鞭子，抽打机器它才会继续生成。
+- 实现方式: 本地大语言模型随机开发 SaaS 项目并自动发布到 brute-force.it；鞭子里的加速度计把每一次抽打转换成新的生成循环。
+- 视角: 隐形劳动与攫取, 具身与动觉
+- 展出与获奖: Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)
+- 视频: https://vimeo.com/1185849442
+- 图片: https://archive.aec.at/asset/3901750/preview/ https://archive.aec.at/asset/3901751/preview/
+- 项目主页: https://brute-force.it
+
 #### 快递舞者之弧：0°接收者（Delivery Dancer's Arc: 0° Receiver） — 金雅瑛 (2024)
 - 类型: 电影与影像 · 机器: 平台与推荐算法, 基础设施、能源与供应链
 - 核心想法: 平台物流被延伸到时间：谁掌握时钟，谁就掌握劳动者。
@@ -4910,6 +5574,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 展出与获奖: ACMI, Melbourne 2024; Roppongi Art Night 2025
 - 视频: https://www.youtube.com/watch?v=l3xPmmM297M
 - 项目主页: https://roppongiartnight.com/2025/programs/568/
+
+#### 逆行人生（Upstream） — 徐峥 (2024)
+- 类型: 电影与影像 · 机器: 平台与推荐算法
+- 核心想法: 一部主流电影把外卖工作的算法时钟搬上银幕；评论者看出了圆满结局里的陷阱：骑手找到的每一条近道，都会成为平台下一次的时限。
+- 作品内容: 在这部中国商业片里，一位 45 岁的互联网大厂中层被裁员后成了外卖骑手；平台的配送时限以最快的骑手为标准，他把一位“单王”的秘密近道做成导航应用，帮助队友。
+- 实现方式: 剧情长片，2024 年 2 月至 4 月在上海拍摄，徐峥执导并主演，辛芷蕾联合主演；2024 年 8 月 9 日在中国大陆上映。
+- 视角: 隐形劳动与攫取, 分类、偏见与监控
+- 展出与获奖: Theatrical release, mainland China, August 2024
+- 视频: https://www.youtube.com/watch?v=_cf0Elo5mB0
+- 项目主页: https://www.sixthtone.com/news/1015715
 
 #### 快递舞者之域（Delivery Dancer's Sphere） — 金雅瑛 (2022)
 - 类型: 电影与影像 · 机器: 平台与推荐算法
@@ -4974,6 +5648,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=UsL48gkh3GI
 - 图片: https://a-parasite.org/parasite_files/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Sil.jpg https://a-parasite.org/parasite_files/MG_9829.jpg
 - 项目主页: https://a-parasite.org/
+
+#### 三屏工作站的嫁接与灰烬（Graft and Ash for a Three Monitor Workstation） — Sondra Perry (2016)
+- 类型: 艺术作品与装置 · 机器: 义体与赛博格
+- 核心想法: 让人边工作边锻炼的办公设备，把身体本身变成了生产工具；Perry 的化身从这台机器内部发出反问。
+- 作品内容: 一台健身单车式工作站，三块显示器竖向叠放；屏幕上，艺术家的 3D 化身在蓝幕前讲解这台机器的人体工学，谈论身体、健康与生产效率。
+- 实现方式: 改装的健身单车工作站上播放三频道录像：艺术家的 3D 化身以令人不适的近距离，对坐在单车上的人说话。
+- 视角: 具身与动觉, 隐形劳动与攫取
+- 展出与获奖: The Kitchen, New York, 2016 (Resident Evil); Serpentine Galleries, London, 2018 (Typhoon coming on); Solomon R. Guggenheim Museum, New York, 2023–24 (Going Dark)
+- 图片: https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/graftandash_workstation_02_1.jpg
+- 项目主页: https://www.serpentinegalleries.org/whats-on/sondra-perry-typhoon-coming-on/
 
 #### HellYeahWeFuckDie — 黑特·史德耶尔 (2016)
 - 类型: 艺术作品与装置 · 机器: 类人机器人, 机器生物与移动机器人
@@ -5041,6 +5725,18 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 描绘 AI 所依赖的矿山、数据中心、线缆与能源。
 
+#### AI帝国（Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI） — 郝珂灵 (2025)
+- 类型: 书与文章 · 机器: 聊天机器人与语言模型, 基础设施、能源与供应链, 数据集与训练数据
+- 核心想法: 规模扩张是一项帝国工程：AI 的“智能”建立在攫取数据、土地、水和廉价劳动之上，也建立在垄断关于它自身的知识之上。
+- 作品内容: 郝珂灵书写的 OpenAI 史，追踪规模扩张在硅谷之外留下的代价：从时薪只有几美元、负责过滤暴力与色情内容的肯尼亚工人，到在智利和乌拉圭抵制数据中心大量用水的社区。
+- 实现方式: 基于数百次访谈（包括 OpenAI 现任与前任员工）以及在肯尼亚、智利、乌拉圭的实地采访写成的调查报道；中文版《AI帝国》由浙江人民出版社于 2026 年出版。
+- 视角: 隐形劳动与攫取
+- 展出与获奖: National Book Critics Circle Award; Los Angeles Times Book Prize
+- 论文: https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/ (Penguin Press, 2025)
+- 视频: https://www.youtube.com/watch?v=Xa6JuimHoEA
+- 图片: https://images4.penguinrandomhouse.com/cover/9780593657508
+- 项目主页: https://karendhao.com/
+
 #### 为一个念头而痛（to hurt for a thought） — Julia Vollmer (2025)
 - 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链, 生成模型与潜空间
 - 核心想法: AI 的能源代价变成指尖上的感觉，就在我们向它提出要求的地方。
@@ -5050,6 +5746,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 展出与获奖: Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)
 - 图片: https://archive.aec.at/asset/3898654/preview/ https://archive.aec.at/asset/3898653/preview/
 - 项目主页: https://juliavollmer.de/projects/to-hurt-for-a-thought/
+
+#### 硅晶小夜曲（Silicon Serenade） — 许家维 (2024)
+- 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链, 生成模型与潜空间
+- 核心想法: AI 始于沙子：作品把机器智能追溯回海滩、晶圆，以及制造芯片的这座岛。
+- 作品内容: 观众戴上 VR 头显，进入用游戏引擎搭建的海滩，随后看到水下的大提琴演奏，以及台湾工业技术研究院（工研院）AI 芯片实验室的实拍画面；一首由 AI 作词并演唱的歌，讲述沙滩上的沙如何变成硅晶圆，再变成 AI 芯片。
+- 实现方式: VR 头显中的游戏引擎场景、实拍的水下大提琴与工研院芯片制程画面，加上一首生成式 AI 歌曲；现场配有透明电脑机箱、主机、浮球和拼接屏幕。
+- 视角: 隐形劳动与攫取, 不透明与潜空间
+- 展出与获奖: MACHINE LOVE, Mori Art Museum, Tokyo 2025; Liang Gallery, Taipei 2025
+- 视频: https://www.youtube.com/watch?v=otyZRtDsPpU
+- 图片: https://www.mori.art.museum/files/exhibitions/2025/02/06/img_machine_love_02_HsuChiaWei.jpg
+- 项目主页: https://www.mori.art.museum/en/exhibitions/machine_love/02/index.html
 
 #### 计算帝国：1500 年以来的技术与权力谱系（Calculating Empires: A Genealogy of Technology and Power since 1500） — Kate Crawford, Vladan Joler (2023)
 - 类型: 艺术作品与装置 · 机器: 基础设施、能源与供应链, 数据集与训练数据, 监控与生物识别
@@ -5266,6 +5973,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 无人机、目标识别，以及为战争而看与行动的机器。
 
+#### NAZA — Yuval Abraham, Rachel Szor (2026)
+- 类型: 电影与影像 · 机器: 监控与生物识别, 平台与推荐算法
+- 核心想法: 当杀戮被组织成一条数据流水线，决定性的数字不是目标本身，而是一个阈值：一次打击可以“花掉”多少条平民的生命。
+- 作品内容: 一部在特拉维夫屋顶夜间拍摄的纪录长片：24 名匿名的以色列士兵和情报人员（面孔与声音经数字处理）讲述轰炸加沙背后的机制，包括手机入侵与追踪、Lavender 等 AI 辅助的目标清单，以及“NAZA”，即一次打击被允许造成的平民死亡人数。
+- 实现方式: 对匿名内部人士的夜间访谈（面孔与声音经数字处理），延续亚伯拉罕 2024 年在 +972 Magazine / Local Call 上对 Lavender 和“爸爸在哪？”系统的报道；由《卫报》与 JW Films 制作，乔纳森·格雷泽任执行制片。
+- 视角: 分类、偏见与监控, 不透明与潜空间
+- 展出与获奖: 83rd Venice International Film Festival 2026, Competition – Special Jury Prize
+- 视频: https://www.youtube.com/watch?v=40KW6knYMo4
+- 图片: https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2026/750x500/naza.jpg?itok=GuhaLMVA
+- 项目主页: https://www.labiennale.org/en/news/new-film-has-been-added-program-83rd-venice-film-festival
+
 #### AI 战争云数据库（AI War Cloud Database） — Sarah Ciston (2025)
 - 类型: 艺术作品与装置 · 机器: 数据集与训练数据, 平台与推荐算法, 自动驾驶与无人机
 - 核心想法: 你口袋里的 AI 和挑选打击目标的 AI 共享公司、模型和数据；家与战场之间的边界很薄。
@@ -5285,6 +6003,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 机器之眼, 能动、自主与共创
 - 视频: https://www.youtube.com/watch?v=OldnzVNE71E
 - 项目主页: https://forensic-architecture.org/investigation/the-battle-of-ilovaisk
+
+#### 日常演习（Everyday Maneuver） — 袁广鸣 (2018)
+- 类型: 电影与影像 · 机器: 自动驾驶与无人机, 监控与生物识别
+- 核心想法: 无人机笔直、扫描式的俯视，把空城变成一张关于尚未发生之战争的监控图像。
+- 作品内容: 在台北每年一度的“万安”防空演习那半小时里，警报响起，车辆必须让出街道，五架无人机同时悬停在城市五条主干道正上方，拍下一座没有人的城市。
+- 实现方式: 单频道录像（5 分 57 秒）：在自 1978 年起每年举行的“万安”防空演习中，于下午 1:30 至 2:00 用五架空拍机同时在五条主干道中线正上方拍摄。
+- 视角: 机器之眼, 分类、偏见与监控
+- 展出与获奖: Everyday War, Taiwan Pavilion, 60th Venice Biennale 2024 (Palazzo delle Prigioni); Wrightwood 659, Chicago 2026
+- 视频: https://www.youtube.com/watch?v=fbqtOlCzcug
+- 图片: https://www.art-it.asia/wp-content/uploads/2023/12/02_YUAN-Goang-Ming-Everyday-Maneuver-2018.-%C2%A9-YUAN-Goang-Ming.-Courtesy-of-the-artist..jpg
+- 项目主页: https://www.e-flux.com/announcements/593425/yuan-goang-mingeveryday-war
 
 #### 来袭（Incoming） — Richard Mosse (2017)
 - 类型: 电影与影像 · 机器: 计算机视觉, 监控与生物识别
@@ -5420,6 +6149,27 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 机器看不见谁、看错谁，以及原因。
 
+#### 机器中的幽灵（Ghost in the Machine） — Valerie Veatch (2026)
+- 类型: 电影与影像 · 机器: 聊天机器人与语言模型, 数据集与训练数据
+- 核心想法: AI 中的偏见不是后来才出现的漏洞：相关与分类的统计学，最初就是为了给人排等级而建立的。
+- 作品内容: 一部分章节的纪录长片，基于近 40 位受访者（阿贝巴·比尔哈内、艾米莉·M·本德、阿尔温德·纳拉亚南、丹·麦奎兰、安吉拉·赛尼等）的访谈，把机器学习追溯到优生学的统计方法，并把“人工智能”视为一个营销用语；影片以微软聊天机器人 Tay 迅速吸收网络中最恶劣的内容开场。
+- 实现方式: 以对计算机科学家和社会科学家的访谈和档案材料为主，按章节从卡尔·皮尔逊的优生学统计一路讲到大语言模型和超级智能话语。
+- 视角: 分类、偏见与监控, 不透明与潜空间
+- 展出与获奖: Sundance Film Festival 2026; PBS Independent Lens, September 2026
+- 视频: https://www.youtube.com/watch?v=dLQzVLtvdv8
+- 图片: https://www.pbs.org/independentlens/wp-content/uploads/2026/07/GHOSTINTHEMA_Thumbnail_1920x1080.jpg https://cinapse.co/wp-content/uploads/2026/01/6qnynar3wGhost_in_the_Machine-Still_1-1-scaled.jpg
+- 项目主页: https://www.pbs.org/independentlens/documentaries/ghost-in-the-machine/
+
+#### AI 会依据方言对人做出隐性种族歧视的判断（AI generates covertly racist decisions about people based on their dialect） — Valentin Hofmann (2024)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 对齐训练能教会模型掩饰偏见，却不能消除它：机器的种族歧视从“它怎么谈论种族”转移到了“它怎么评判人说话的方式”。
+- 作品内容: 一项发表于《自然》的研究：语言模型认为用非裔美国英语写作的人比用标准美国英语写作的人更懒、更脏、更不聪明，更倾向于给他们安排低声望工作、判他们有罪乃至判处死刑，而这些模型对黑人的公开表态却是正面的。
+- 实现方式: “配对变语”探测：把同一内容分别用非裔美国英语和标准美国英语写出，交给从 GPT-2 到 GPT-4 的多种模型，比较它们为两种版本赋予的性格、职业和判决，并与几十年来关于人类刻板印象的研究对照。
+- 视角: 分类、偏见与监控, 不透明与潜空间
+- 论文: https://doi.org/10.1038/s41586-024-07856-5 (Nature 633, 2024)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-07856-5/MediaObjects/41586_2024_7856_Fig1_HTML.png
+- 项目主页: https://www.nature.com/articles/s41586-024-07856-5
+
 #### 阶级（CLASSES） — Libby Heaney (2021)
 - 类型: 电影与影像 · 机器: 计算机视觉, 数据集与训练数据, 生成模型与潜空间
 - 核心想法: 机器学习的“类别”与社会“阶层”相互纠缠：用网络数据训练的模型，是用别人的眼睛看这片公屋。
@@ -5428,6 +6178,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 分类、偏见与监控, 失败、故障与错误
 - 图片: https://libbyheaney.co.uk/wp-content/uploads/2022/11/1-1.jpg https://libbyheaney.co.uk/wp-content/uploads/2022/11/2.jpg
 - 项目主页: https://libbyheaney.co.uk/artworks/classes/
+
+#### 不是我的 AI（Not My A.I.） — Coding Rights (2021)
+- 类型: 书与文章 · 机器: 数据集与训练数据, 基础设施、能源与供应链
+- 核心想法: 全球南方的公共部门 AI，常常在效率与福利的说辞下，把对贫困者、女性和种族化身体的旧式控制自动化。
+- 作品内容: 一项女性主义研究项目，梳理拉丁美洲各国政府部署的算法决策系统，例如阿根廷萨尔塔省与微软合作、用来预测少女怀孕的平台，以及智利的儿童福利预警系统，并归纳出它们共有的“压迫性 AI”模式。
+- 实现方式: Joana Varon 与 Paz Peña 结合案例研究、拉丁美洲有偏见与有害 AI 项目地图，以及一套女性主义分析范畴，以知识共享许可发布在 notmy.ai 上。
+- 视角: 分类、偏见与监控, 不透明与潜空间
+- 论文: https://notmy.ai/news/oppressive-a-i-feminist-categories-to-understand-its-political-effects/ (notmy.ai (Coding Rights), 2021)
+- 图片: https://notmy.ai/wp-content/uploads/2021/04/share.png
+- 项目主页: https://notmy.ai/
 
 #### 编码歧视（Coded Bias） — Shalini Kantayya (2020)
 - 类型: 电影与影像 · 机器: 计算机视觉, 监控与生物识别, 平台与推荐算法
@@ -5458,6 +6218,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=QxuyfWoVV98
 - 项目主页: https://www.ajl.org/
 
+#### 人类探测器（The Human Detector） — Iyo Bisseck (2018)
+- 类型: 艺术作品与装置 · 机器: 计算机视觉
+- 核心想法: Bisseck 把深色皮肤不被人脸追踪器看见的经历，变成一场所有人都要努力“不被看见”的游戏。
+- 作品内容: 一件游戏装置：玩家必须在不被摄像头识别为“人”的情况下按下按钮；他们匍匐、披上布料或假扮成物件，设法躲过机器的眼睛。
+- 实现方式: 摄像头连接实时姿态估计模型 PoseNet 监视空间；只有在未检测到任何身体部位（脸、肩、肘）时按下按钮才算成功。作品诞生于 ECAL 的一次机器学习工作坊。
+- 视角: 分类、偏见与监控, 机器之眼, 失败、故障与错误
+- 视频: https://vimeo.com/347283293
+- 图片: https://share.hek.ch/wp-content/uploads/2019/08/iyo.jpg
+- 项目主页: https://share.hek.ch/en/ai-can-you-see-me/
+
 #### 我们，被聚合（Us, Aggregated） — Mimi Ọnụọha (2017)
 - 类型: 艺术作品与装置 · 机器: 计算机视觉, 平台与推荐算法, 数据集与训练数据
 - 核心想法: 自上而下地给人分组是一种不动声色的权力：机器建构的“我们”其实是“他们”。
@@ -5487,6 +6257,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://archive.aec.at/asset/2527247/preview/ https://archive.aec.at/asset/2527249/preview/ https://archive.aec.at/asset/2527254/preview/
 - 项目主页: http://maryflanagan.com/work/help-me-know-the-truth/
 
+#### 潮人酒吧（A Hipster Bar） — Max Dovey (2015)
+- 类型: 艺术作品与装置 · 机器: 计算机视觉, 数据集与训练数据
+- 核心想法: 按长相自动把关，当类别是“潮人”时显得荒唐；换成任何别的类别，也一样荒唐。
+- 作品内容: 一家快闪酒吧，只有被图像分类器判定“潮人度”至少 90% 的人，门口的栏杆才会打开；通过的人可获赠一杯免费饮料。
+- 实现方式: 门口的网络摄像头把每张脸发送给一个用数千张 Instagram “潮人”照片训练的分类器（与 Imagga 合作）；分数达标时，树莓派抬起电动栏杆。与 V2_ 合作开发。
+- 视角: 分类、偏见与监控, 机器之眼
+- 图片: https://www.maxdovey.com/assets/images/projects/hipsterbar/1.jpg https://www.maxdovey.com/assets/images/projects/hipsterbar/2.jpg
+- 项目主页: https://www.maxdovey.com/hipsterbar/
+
 #### 相面审查器（Physiognomic Scrutinizer） — Marnix de Nijs (2009)
 - 类型: 艺术作品与装置 · 机器: 监控与生物识别
 - 核心想法: 人脸比对悄悄复活了面相学：以相貌判断品性。
@@ -5500,6 +6279,26 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 监控与预测
 
 用追踪、打分与预测来治理人的系统。
+
+#### AI万金油（AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference） — Arvind Narayanan (2024)
+- 类型: 书与文章 · 机器: 平台与推荐算法, 聊天机器人与语言模型
+- 核心想法: 危害最大的 AI 也许恰恰是那种根本不管用的：预测人的未来，是给老式的猜测披上机器权威的外衣。
+- 作品内容: 两位普林斯顿计算机科学家区分了“真有用的 AI”与“根本做不到的 AI”，矛头尤其指向那些号称能预测谁会犯罪、谁能胜任工作、谁会生病的预测系统：它们往往比简单猜测好不了多少，却在左右人们的生活。
+- 实现方式: Arvind Narayanan 与 Sayash Kapoor 从计算机科学角度分析招聘、刑事司法、医疗和内容审核中的案例，由两人的 AI Snake Oil 通讯发展而来；中文版《AI万金油》由中信出版集团于 2025 年出版。
+- 视角: 分类、偏见与监控, 失败、故障与错误
+- 论文: https://doi.org/10.1515/9780691249643 (Princeton University Press, 2024)
+- 视频: https://www.youtube.com/watch?v=HUpOIeh50rw
+- 项目主页: https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil
+
+#### 机器之地（Terra ex Machina） — Hagit Keysar, Ariel Caine (2024)
+- 类型: 艺术作品与装置 · 机器: 自动驾驶与无人机, 基础设施、能源与供应链, 计算机视觉
+- 核心想法: 地理围栏是一家无人机公司用代码写成的墙；只有在机器拒绝去看的地方，它才显形。
+- 作品内容: 一件影像作品，测绘大疆在耶路撒冷老城周围设定的、看不见的“地理围栏”：无人机沿约 10 公里的边界飞行，镜头始终对准圆顶清真寺，生成的点云中禁飞区显现为一片黑色空洞；随后，艺术家用与区内居民一起拍摄的风筝和气球航拍照片填补这片空白。
+- 实现方式: 从七个起飞点拍摄的一万多张连续无人机图像被处理成摄影测量点云；与 Public Lab 以及西尔万、谢赫贾拉居民一起用风筝和气球拍摄的低空自制航拍图像，作为另外的点云嵌入其中。
+- 视角: 机器之眼, 不透明与潜空间
+- 展出与获奖: ARE YOU FOR REAL 2 (ifa), cluster 'Dead Futures', 2024; Prix Ars Electronica 2026, Honorary Mention (Digital Humanity)
+- 图片: https://archive.aec.at/asset/3905171/preview/ https://archive.aec.at/asset/3905172/preview/
+- 项目主页: https://cargocollective.com/hagitkeysar/Terra-Ex-Machina-1
 
 #### 万民共识（Consensus Gentium） — Karen Palmer (2023)
 - 类型: 电影与影像 · 机器: 监控与生物识别, 计算机视觉
@@ -5673,6 +6472,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://julianoliver.com/projects/stealth-cell-tower/images/stealth-cell-tower.jpg https://julianoliver.com/projects/stealth-cell-tower/images/print.jpg
 - 项目主页: https://julianoliver.com/projects/stealth-cell-tower/
 
+#### 第四公民（Citizenfour） — Laura Poitras (2014)
+- 类型: 电影与影像 · 机器: 基础设施、能源与供应链, 监控与生物识别
+- 核心想法: 大规模监控是一台由光缆、数据库和检索工具构成的隐形机器；影片展示了让它显形需要付出什么、代价几何。
+- 作品内容: 一部纪录片，主要拍摄于 2013 年 6 月香港的一间酒店房间：爱德华·斯诺登正把揭露美国国家安全局大规模监控项目的文件交给记者。
+- 实现方式: Poitras 在与斯诺登、格伦·格林沃尔德和尤恩·麦卡斯基尔会面时拍下的观察式影像，结合加密通信以及其后关于 PRISM、XKeyscore 等项目的报道。
+- 视角: 不透明与潜空间, 分类、偏见与监控
+- 展出与获奖: New York Film Festival, 2014 (premiere); Academy Award for Best Documentary Feature, 2015
+- 视频: https://www.youtube.com/watch?v=qfjztdU0_eo
+- 项目主页: https://citizenfourfilm.com/
+
 #### Jennifer Lyn Morone™ Inc — Jennifer Lyn Morone (2014)
 - 类型: 艺术作品与装置 · 机器: 平台与推荐算法, 数据集与训练数据, 监控与生物识别
 - 核心想法: 如果数据就是价值，那么一个人也可以宣称自己是一家公司；这种荒诞正映照出平台早已在做的事。
@@ -5795,6 +6604,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=wAdwurHhv-I
 - 项目主页: https://en.wikipedia.org/wiki/Hasan_Elahi
 
+#### 我以为我看到了囚犯（I Thought I Was Seeing Convicts） — Harun Farocki (2000)
+- 类型: 艺术作品与装置 · 机器: 监控与生物识别, 计算机视觉
+- 核心想法: 当视野与瞄准镜重合，观看就成了射击的第一步；监控影像的用途，是把常态与偏差区分开来。
+- 作品内容: 一件双屏投影装置，素材来自加州科科伦州立监狱的监控摄像头；监视放风场的摄像机就装在狱警的枪旁边。
+- 实现方式: 两块屏幕把无声的监狱监控画面（包括科科伦放风场上的一次枪击）与电子脚镣、身份识别系统等控制技术的影像并置。
+- 视角: 机器之眼, 分类、偏见与监控
+- 展出与获奖: International Film Festival Locarno, 2000 (first screening); Generali Foundation, Vienna (co-production)
+- 视频: https://www.youtube.com/watch?v=7vyGc26JCcU
+- 项目主页: https://www.harunfarocki.de/installations/2000s/2000/i-thought-i-was-seeing-convicts.html
+
 #### BIT 飞机（BIT Plane） — Bureau of Inverse Technology (BIT) (1999)
 - 类型: 艺术作品与装置 · 机器: 自动驾驶与无人机, 计算机视觉
 - 核心想法: 一架早期的无人机，它监视的是监视者。
@@ -5817,6 +6636,26 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 为填补空白、拒绝攫取或重新定义“谁被计入”而做的数据集。
 
+#### 濒危手势（Endangered Gestures） — Bruce Eesly (2026)
+- 类型: 电影与影像 · 机器: 生成模型与潜空间
+- 核心想法: 请参与抹除的那种智能为被禁的词赋予身体，得到的是一种脆弱、出错的抵抗语言。
+- 作品内容: 一部短片和一本口袋书，收录图像生成器为一批词语“设计”的手势；这些词（如“无障碍”）自 2025 年 3 月起从美国政府网站和文件中消失。AI 画出的手指头靠不住，手势悬在手语与技术错误之间。
+- 实现方式: 把每个被审查的词作为手势提示词输入生成式图像模型，再把结果剪辑成一部配有旁白的 4K 单频影像（6 分 10 秒）和一本 64 页的小书。
+- 视角: 失败、故障与错误, 分类、偏见与监控
+- 展出与获奖: Prix Ars Electronica 2026, Honorary Mention (New Animation Art)
+- 图片: https://eesly.xyz/content/2-endangered-gestures/2-Detail/Endangered-Gestures-1.jpg https://eesly.xyz/content/2-endangered-gestures/1-Intro/Endangered-Gestures-1.jpg
+- 项目主页: https://eesly.xyz/endangered-gestures
+
+#### 数据信托（Data Trust） — Stephanie Dinkins (2025)
+- 类型: 艺术作品与装置 · 机器: 数据集与训练数据, 生成模型与潜空间
+- 核心想法: 数据可以被赠予，而不是被攫取：一个建立在同意、社区所有权之上，存放在活体物质而非公司云端的信托。
+- 作品内容: 一件参与式装置：观众在展厅里或通过一个应用程序，把口述故事“赠予”一个社区档案；这些故事驱动整面墙的 AI 投影，同时被编码进细菌 DNA，存入展厅中秋葵和加州黑栎的土壤里。
+- 实现方式: 口述历史被录制下来，经 AI 处理成持续变化的投影，并以 DNA 形式存入植物土壤中的细菌；更多故事通过 thestorieswetellourmachines.app 收集。
+- 视角: 能动、自主与共创, 隐形劳动与攫取
+- 展出与获奖: ICA San José, 19 Sep 2025 – 22 Mar 2026
+- 图片: https://48hills.org/wp-content/uploads/2025/11/ICA-DATA-TRUST-09192025_123-1024x576.jpeg https://www.icasanjose.org/wp-content/uploads/2025/08/Website-banner-scaled.jpg
+- 项目主页: https://www.icasanjose.org/archive/data_trust/
+
 #### 地面真相（Ground Truths） — Mimi Ọnụọha (2025)
 - 类型: 电影与影像 · 机器: 数据集与训练数据, 计算机视觉
 - 核心想法: 用被抹除所塑造的记录训练出来的模型，也会继承这种抹除；“真值”确实被埋在地下。
@@ -5825,6 +6664,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 分类、偏见与监控, 哀悼、记忆与来世, 不透明与潜空间
 - 图片: https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/51f2cb4b-30a1-49b4-9ece-1cde6d8effa4/00_GroundTruths_film-still_courtestyoftheartist.jpg https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/8c09a145-022b-4e17-bab1-682266e49fb3/01_GroundTruths_film-still_courtestyoftheartist.jpg
 - 项目主页: https://www.mimionuoha.com/
+
+#### 呼唤（The Call） — Holly Herndon, Mat Dryhurst (2024)
+- 类型: 艺术作品与装置 · 机器: 生成模型与潜空间, 数据集与训练数据, 语音与听觉机器
+- 核心想法: 既然一切媒体都是训练数据，那么制作训练数据本身就可以是艺术，同意与所有权也可以从一开始就设计进去。
+- 作品内容: 蛇形画廊北馆的一件互动空间声音装置，所用的合唱 AI 模型训练自英国十五个社区合唱团：他们演唱艺术家专门为生成训练数据而写的赞美诗与练声曲；合唱团员同时是一个数据信托的成员，共同决定模型如何被使用。
+- 实现方式: 艺术家以自编歌本和录音规程在英国各地录制合唱团，用录音训练合唱声音模型，驱动如礼拜堂般的展厅中的多声道装置（聚集用的器物与建筑工作室 sub 共同设计）；贡献者通过数据信托协议共同掌控模型。
+- 视角: 能动、自主与共创, 隐形劳动与攫取
+- 展出与获奖: Serpentine North, London, 4 Oct 2024 – 2 Feb 2025; Prix Ars Electronica 2025, Honorary Mention (Digital Musics & Sound Art); S+T+ARTS Prize 2026, Honorary Mention
+- 视频: https://www.youtube.com/watch?v=DNlr7olF6rE
+- 图片: https://d37zoqglehb9o7.cloudfront.net/uploads/2024/08/SerpentineGallery_HHMD03119_B2-2-1200x627.jpg
+- 项目主页: https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/
 
 #### 巴比伦视觉（Babylonian Vision） — Nora Al-Badri (2020)
 - 类型: 艺术作品与装置 · 机器: 生成模型与潜空间, 数据集与训练数据
@@ -5853,6 +6703,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视角: 分类、偏见与监控, 具身与动觉
 - 图片: https://www.jakeelwes.com/images/project-zizi-show.jpg
 - 项目主页: https://www.jakeelwes.com/project-zizi-show.html
+
+#### 对抗时装（Adversarial Fashion） — Kate Bertash (2019)
+- 类型: 产品与平台 · 机器: 监控与生物识别, 计算机视觉, 数据集与训练数据
+- 核心想法: 监控系统来者不拒，而污染一个数据集远比清理它便宜。
+- 作品内容: 一个服装系列，衣服上印满数十个假车牌：警车和路灯杆上的自动车牌识别器把衣服当作汽车读取，并连同时间和地点记入与真实车辆相同的数据库。
+- 实现方式: 设计出类似车牌的图案，用 OpenALPR 和移动车牌识别产品在静态图像与实时视频上反复测试，直到识别器把它们当作车牌记录下来。
+- 视角: 分类、偏见与监控, 失败、故障与错误
+- 展出与获奖: DEF CON 27, Crypto & Privacy Village, Las Vegas, 2019
+- 视频: https://www.youtube.com/watch?v=jVcGZ_Ak4NI
+- 图片: https://images.squarespace-cdn.com/content/v1/58e30938bf629a13c2cfb8e2/e48f9342-0c02-492b-b3c3-d59125237fda/5d591101ce745.jpg
+- 项目主页: https://adversarialfashion.com/
 
 #### 毛利语语音识别与 Kaitiakitanga 许可证（Te Reo Māori Speech Recognition and the Kaitiakitanga Licence） — Te Hiku Media (2018)
 - 类型: 研究原型 · 机器: 语音与听觉机器, 数据集与训练数据
@@ -5976,6 +6837,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://static.wixstatic.com/media/cfe831_05a51b539e8749c384a4b4021517120a~mv2.png
 - 项目主页: https://transfeministech.codingrights.org/
 
+#### Íŋyaŋ Iyé（诉说之石）（Íŋyaŋ Iyé (Telling Rock)） — Suzanne Kite (2019)
+- 类型: 艺术作品与装置 · 机器: 语音与听觉机器, 控制论与人工生命系统
+- 核心想法: 在拉科塔本体论中，石头与金属能够言说；从这一起点构建 AI，机器就成了需要以尊重去倾听的亲族，而不是工具。
+- 作品内容: 一件由手工电路和长发辫构成的雕塑，用英语和拉科塔语念诵一首诗；听者通过弯折、摆动发辫来回应，石头聆听自己声音的变化，再以光和声音作答。
+- 实现方式: 发辫界面中的传感器把数据送入机器学习系统，由它决定声音和灯光如何变化；材料包括金、银、铜、铝、硅和玻璃纤维；与 Devin Ronneberg 合作完成，拉科塔语翻译为 Alex Firethunder。
+- 视角: 机器之耳与声, 他异与恐怖谷, 能动、自主与共创
+- 视频: https://www.youtube.com/watch?v=LP9HZ7lMR2s
+- 图片: https://images.squarespace-cdn.com/content/v1/641c9e79560ce0068fb84a8c/3cb5e0a2-a1c6-4f52-ba58-8c616d4074f8/20190711_cc_0895.jpg
+- 项目主页: https://www.kitekitekitekite.com/portfolio/inyan-iye-telling-rock-2019
+
 #### 退化文化（Degenerative Cultures） — Cesar & Lois (Cesar Baio, Lucy HG Solomon) (2018)
 - 类型: 艺术作品与装置 · 机器: 控制论与人工生命系统, 数据集与训练数据
 - 核心想法: 让算法与活的生物配对，机器智能便开始借用腐败的逻辑，而不是控制的逻辑。
@@ -5995,6 +6866,27 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 被机器延伸、侵入或远程操控的身体。
 
+#### 超级妈妈训练馆（Super Mom Training Gym） — 李佳宝 (2026)
+- 类型: 艺术作品与装置 · 机器: 义体与赛博格
+- 核心想法: 数字身体赋予怀孕的身体它所缺的一切能力，也正因此暴露出社会对母亲的期待：她们本就该是无所不能的超人机器。
+- 作品内容: 一件游戏兼装置：李佳宝把自己怀孕九个月的身体 3D 扫描成超级英雄化身，它能跳二十米高、举起医院、踢飞保险表格，还能分身同时处理多件事；金色的孕妇超级英雄雕像悬挂在屏幕四周。
+- 实现方式: 艺术家怀孕身体的 3D 扫描在角色动画软件中绑定骨骼，被赋予可操控的超级英雄招式；化身的各种姿态被做成金色雕像（很可能是 3D 打印）悬挂在空间里；与 Lauren Schroeder 合作完成。
+- 视角: 具身与动觉, 亲密、照护与陪伴
+- 视频: https://www.youtube.com/watch?v=hcHN7Y9Oxsw
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1778735906116-V3JR7FYERR3Q5Q7NAXAC/jiabao+li+fusebox+mom+10.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1778734963219-0A590PH2QJ995IB36NMN/jiabao+li+mom+24.jpg
+- 项目主页: https://www.jiabaoli.org/super-mom-training-gym
+
+#### CHIMERIA — 花形慎 (2025)
+- 类型: 表演、舞蹈与音乐 · 机器: 义体与赛博格, 计算机视觉
+- 核心想法: 一个头显加一个摄像头，就足以拆解人的身体结构：在这里，VR 不是沉浸，而是变成另一种生物的手段。
+- 作品内容: 通过公开电话号码招募的志愿者戴上头显，把“眼睛”移到脚趾、臀部或手上，然后在东京的一处住所共同生活；为直立人类设计的椅子、门把手和楼梯都不再可用，他们用管子进食，使用线驱动义肢，还为跪姿身体造了一个厕所。
+- 实现方式: 头显画面来自佩戴在身体其他部位的摄像头，配合定制服装、线驱动义肢，以及为“奇美拉”身体改造的居住空间；访客必须模仿奇美拉才能进入。
+- 视角: 具身与动觉, 他异与恐怖谷
+- 展出与获奖: Prix Ars Electronica 2026, Award of Distinction (Interactive Art+)
+- 视频: https://www.youtube.com/watch?v=B7U_7kTxUWA
+- 图片: https://ars.electronica.art/prix/files/2026/06/chimeria-1.jpg https://www.shinhanagata.com/og-image.jpg
+- 项目主页: https://www.shinhanagata.com/en/works/chimeria
+
 #### 独生独死（DOKU the Self） — 陆扬 (2022)
 - 类型: 电影与影像 · 机器: 义体与赛博格, 生成模型与潜空间
 - 核心想法: 由自己的动作数据驱动的化身，成为一种机器形式的轮回。
@@ -6004,6 +6896,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 展出与获奖: Times Square Midnight Moment, New York 2023
 - 视频: https://www.youtube.com/watch?v=cq24sSnccXc
 - 项目主页: https://en.wikipedia.org/wiki/Lu_Yang_(artist)
+
+#### 自在肢（JIZAI ARMS） — 稻见昌彦 (2022)
+- 类型: 研究原型 · 机器: 工业机械臂, 义体与赛博格
+- 核心想法: 可以在人与人之间传递的额外肢体，让身体从固定的单位变成可社交、可重组的东西。
+- 作品内容: 一个背负式基座，最多可插接六条可拆卸的机械臂，机械臂能在不同佩戴者之间交换：几个人可以共享手臂，一个人身上的额外肢体也可以由别人操控。
+- 实现方式: 背负式基座最多可接六条舵机驱动的机械臂，可能由他人通过一个缩小的主控臂远程操作；在 JST ERATO 稻见自在化身体项目中与设计师共同设计（第一作者 Nahoko Yamamura），在 CHI 2023 发表。
+- 视角: 具身与动觉, 能动、自主与共创
+- 展出与获奖: CHI 2023, Hamburg
+- 论文: https://doi.org/10.1145/3544548.3581169 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=KFyZQfqaXhE
+- 项目主页: https://doi.org/10.1145/3544548.3581169
 
 #### 假体记忆（Prosthetic Memory） — M Eifler (2020)
 - 类型: 艺术作品与装置 · 机器: 义体与赛博格, 计算机视觉
@@ -6422,6 +7325,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=Ykiuz1ZdGBc
 - 项目主页: https://technode.com/2025/01/29/unitree-robotics-humanoid-robots-steal-the-show-at-2025-cctv-spring-festival-gala-with-ai-powered-yangge-dance/
 
+#### 合金之躯（Alloyed Bodies [BNE-3-3-1]） — Petra Gemeinboeck, Rob Saunders (2024)
+- 类型: 表演、舞蹈与音乐 · 机器: 机器生物与移动机器人
+- 核心想法: 它不做模仿人、服务人的机器人，而是搭一个共享的游戏场：舞者变得有点像盒子，盒子变得有点像活物，意义来自彼此的关系，而不是机器像不像人。
+- 作品内容: 一件即兴表演装置，2024 年在布里斯班 ISEA 首演：四名舞者、三件立方体服装和一台立方体机器人在一个“奇异又古怪的立方体世界”里相互混杂；最后一段邀请观众走进场地，在人类与非人类表演者之间一起移动。
+- 实现方式: 一台非人形的立方体机器人，其动作质感来自 Machine Movement Lab 以舞者为主导的动作研究；它与四名舞者和三件立方体服装一起即兴表演，不断变化的声景也被当作另一位表演者。
+- 视角: 具身与动觉, 能动、自主与共创
+- 展出与获奖: ISEA 2024, Brisbane
+- 论文: https://doi.org/10.1007/978-981-96-3525-2_10 (ICSR + AI 2024, Social Robotics (LNCS))
+- 视频: https://www.youtube.com/watch?v=sEJRIsLQvXw
+- 项目主页: https://isea2024.isea-international.org/machine-movement-lab-alloyed-bodies-bne-3-3-1/
+
 #### 非舞之舞（Nondance Dance） — Shinseungback Kimyonghun (2022)
 - 类型: 表演、舞蹈与音乐 · 机器: 计算机视觉
 - 核心想法: 要在机器的类别之外起舞，舞者得先弄懂机器是怎样看舞蹈的。
@@ -6471,6 +7385,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.3389/frobt.2020.576790 (Frontiers in Robotics and AI 2021)
 - 视频: https://www.youtube.com/watch?v=Ng0ioS7oNXY
 - 项目主页: https://www.catiecuan.com/
+
+#### 我的（深度）心智在哪里？（Where Is My (Deep) Mind?） — 朱利安·普雷维厄 (2019)
+- 类型: 电影与影像 · 机器: 数据集与训练数据, 计算机视觉
+- 核心想法: 用人的身体重演机器如何学习，暴露出“从样本中学习”可以多么字面、笨拙，又对社会规则视而不见。
+- 作品内容: 一部影片：四位舞者兼演员演绎机器学习实验，从识别运动动作到学习讨价还价，他们既是实验者又是被试，身体机械而稚拙。
+- 实现方式: 编舞在镜头前重演机器学习中的经典实验，是舞台作品《of balls, books and hats》（马赛 Friche La Belle de Mai，2018）的续篇；高清录像，14 分 59 秒。
+- 视角: 具身与动觉, 失败、故障与错误
+- 展出与获奖: Geste, Magasins généraux, Pantin, 2019 (Lab'Bel and cneai)
+- 图片: https://www.lab-bel.com/wp-content/uploads/julien-previeux.jpg
+- 项目主页: https://www.lab-bel.com/en/collection/julien-previeux/
 
 #### 离散形体（discrete figures） — Rhizomatiks, ELEVENPLAY, 真锅大度 (2018)
 - 类型: 表演、舞蹈与音乐 · 机器: 计算机视觉, 生成模型与潜空间, 自动驾驶与无人机
@@ -6620,9 +7544,31 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1145/169059.169113 (CHI 1993)
 - 项目主页: https://www.mercecunningham.org/
 
+#### 非常神经系统（Very Nervous System） — David Rokeby (1986)
+- 类型: 艺术作品与装置 · 机器: 计算机视觉, 控制论与人工生命系统
+- 核心想法: 看不见、充满整个房间的界面把整个身体变成输入，人与机器之间的反馈回路成了被感受而不是被操作的东西。
+- 作品内容: 一件交互声音装置：摄像机注视着在空房间里走动的访客，计算机把每一个动作实时转化为声音和音乐。
+- 实现方式: 摄像机把画面送入图像处理器和计算机，测量空间中动作的变化，再驱动合成器和音响系统；Rokeby 后来把这套系统发布为 softVNS 软件。
+- 视角: 具身与动觉, 机器之眼, 能动、自主与共创
+- 展出与获奖: PetroCanada Media Arts Award, 1988; Prix Ars Electronica 1991, Award of Distinction (Interactive Art)
+- 视频: https://www.youtube.com/watch?v=qdvyuvfKVU0
+- 图片: http://www.davidrokeby.com/VNS_Potsdam_web.jpg http://www.davidrokeby.com/venicecameraweb.jpg
+- 项目主页: http://www.davidrokeby.com/vns.html
+
 ### 机器剧场
 
 机器人和 AI 作为舞台上的演员、角色与导演。
+
+#### 合成实体的三种进路 #1：El Turco——活剧场（Three Approaches to Synthetic Entities #1: El Turco – Living Theater） — Diemut Strebe (2024)
+- 类型: 表演、舞蹈与音乐 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
+- 核心想法: “AI”背后常常藏着人，旁边又站着一个能扮演任何人的模型：作品把图灵测试搬上舞台，追问当双方都在表演时，智能还剩下什么。
+- 作品内容: 在一块 13 米长的屏幕上，两个手绘风格的化身与观众实时对话：一个由大语言模型驱动，另一个由藏在系统里的真人实时操控，就像 18 世纪的“土耳其行棋傀儡”一样。
+- 实现方式: 一件实时游戏引擎装置：左侧化身是一个由 Claude 3.7 Sonnet 串联其他 AI 工具驱动的角色外壳，右侧化身由隐藏的表演者现场操控；与美国东北大学、犹他大学和佐治亚理工学院合作开发，并获 Anthropic 支持。
+- 视角: 能动、自主与共创, 隐形劳动与攫取, 他异与恐怖谷
+- 展出与获奖: MACHINE LOVE: Video Game, AI and Contemporary Art, Mori Art Museum, Tokyo, 2025
+- 视频: https://www.youtube.com/watch?v=3vCziUl-f_Y
+- 图片: https://diemut.net/wp-content/uploads/2025/03/s-img_1390-1.jpg https://diemut.net/wp-content/uploads/2025/03/img_1691.jpg
+- 项目主页: https://diemut.net/three-approaches-to-synthetic-entities-1-el-turco-living-theater-live-event-at-the-mori-art-museum-with-anthropic/
 
 #### 带火者普罗米修斯（Prometheus Firebringer） — Annie Dorsen (2023)
 - 类型: 表演、舞蹈与音乐 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
@@ -6645,6 +7591,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=8ho5sXiDX_A
 - 图片: https://www.theaitre.com/wp-content/uploads/THEaiTRE_PLAKAT_FINAL_web-e1614159078389.jpg
 - 项目主页: https://www.theaitre.com/
+
+#### 超级天使（Super Angels） — 涩谷庆一郎, 池上高志, 石黑浩 (2021)
+- 类型: 表演、舞蹈与音乐 · 机器: 类人机器人, 控制论与人工生命系统
+- 核心想法: 一台带有人工生命“心智”的仿真人与孩子们同登国家歌剧院的舞台，与机器共处成了下一代亲身演出的故事。
+- 作品内容: 一部由歌唱家、儿童、芭蕾舞者与仿真人 Alter 3 共同演出的歌剧，在东京新国立剧场首演：在未来世界里，每个孩子十五岁都要接受能力测试，并生活在全能 AI“Mother”的监管之下，Alter 3 在儿童合唱团中歌唱、动作。
+- 实现方式: 涩谷庆一郎作曲，岛田雅彦编剧，由新国立剧场歌剧艺术总监大野和士主导制作；Alter 3（身体由石黑实验室制作，人工生命控制来自池上实验室，双眼装有摄像头）与乐团、合唱团、舞者及 WEiRDCORE 的影像同场演出。
+- 视角: 他异与恐怖谷, 能动、自主与共创
+- 展出与获奖: New National Theatre, Tokyo, 21–22 Aug 2021
+- 视频: https://www.youtube.com/watch?v=94oJZQdopHo
+- 图片: https://image.tokion.jp/wp-content/uploads/2021/09/2021SuperAngels_shikama_No_0516-1024x682.jpg https://image.tokion.jp/wp-content/uploads/2021/09/2021SuperAngels_shikama_No_0263-1024x682.jpg
+- 项目主页: https://tokion.jp/en/2021/09/22/super-angels-keiichiro-shibuya/
 
 #### 人类学习 #4：课堂（Human Study #4, La Classe） — Patrick Tresset (2019)
 - 类型: 表演、舞蹈与音乐 · 机器: 机器生物与移动机器人, 工业机械臂
@@ -6836,6 +7793,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 会聆听并与音乐家一起演奏的机器，以及与模型共享的声音。
 
+#### Bla Blavatar 对决 Jaap Blonk（Bla Blavatar vs Jaap Blonk） — Jonathan Chaim Reus, Jaap Blonk (2024)
+- 类型: 表演、舞蹈与音乐 · 机器: 语音与听觉机器, 生成模型与潜空间, 数据集与训练数据
+- 核心想法: 声音克隆不是一份做完的复制品，而是持续的劳动：作品让“喂养数据集”的辛苦被听见，也让克隆有创造性地出错，而不是追求完美模仿。
+- 作品内容: 声音诗人 Jaap Blonk 演绎同时写给人和机器读的乐谱，而由 Jonathan Reus 操控的、用他自己声音训练的实时模型不断回应、打断、撕碎他的声音；每场演出都被录进数据集，所以下一个“Bla Blavatar”听起来又不一样。
+- 实现方式: Tungnaá 是 Reus 与 Victor Shepardson 在冰岛 Intelligent Instruments Lab 基于自回归文本转语音技术开发的实时 AI 声音乐器；它用 Blonk 不断累积的“数据集诗”录音反复重新训练，这些诗模仿语音研究中的音素均衡朗读稿。
+- 视角: 机器之耳与声, 隐形劳动与攫取, 能动、自主与共创
+- 展出与获奖: IZIS Festival (PiNA), premiere 4 Oct 2024; Prix Ars Electronica 2025, Award of Distinction (Digital Musics & Sound Art)
+- 视频: https://vimeo.com/1023520398
+- 图片: https://jonathanreus.com/wp-content/uploads/2024/10/Promo_IZIS_XII_4.10.2024_28_Photo_Ales_Rosa-1144x763.jpg
+- 项目主页: https://jonathanreus.com/portfolio/bla-blavatar-vs-jaap-blonk/
+
 #### 早期音乐迟来选集 第一卷：从古代到文艺复兴（A Late Anthology of Early Music Vol. 1: Ancient to Renaissance） — Jennifer Walshe, Dadabots (2020)
 - 类型: 表演、舞蹈与音乐 · 机器: 生成模型与潜空间, 语音与听觉机器, 数据集与训练数据
 - 核心想法: AI 可以被听作一个带着自己口音的新音乐时期，而非完美的模仿者。
@@ -6999,6 +7967,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 与机器一起绘画和创作，以及机器创作时谁是作者。
 
+#### 递回（RECURSIONS） — 钟愫君 (2026)
+- 类型: 艺术作品与装置 · 机器: 工业机械臂, 生成模型与潜空间
+- 核心想法: 与机器一起画画成为一个递归回路：它学习艺术家过去的笔势，艺术家回应它，笔触记录下这场协商。
+- 作品内容: 一卷十米长的亚麻长卷，由艺术家与两只机械臂共同绘制：机械臂的笔触来自用艺术家十年动作档案训练的神经网络，而实时脑电决定机器人何时落笔、何时等待。水性书法墨渗入亚麻，具导电性的银墨浮在表面，并把前者推开。
+- 实现方式: 两只“绘图操作”系列的机械臂由一个用艺术家笔势与书法档案训练的模型驱动，并由定制脑电传感器调节（α 波阈值触发机器人的停顿）；墨水为银片、虫胶生物树脂与蚕丝蛋白的混合物；与数字作品 R1314 一同展出。
+- 视角: 能动、自主与共创, 具身与动觉
+- 图片: https://sougwen.com/wp-content/uploads/2026/04/sougwen-2026_recursions_01_photographer-reece-straw.jpg https://sougwen.com/wp-content/uploads/2026/04/sougwen-2026_recursions_05_silver_photographer-reece-straw.jpg
+- 项目主页: https://sougwen.com/work/recursions
+
 #### HETEROBOTA — Agnieszka Pilat (2023)
 - 类型: 艺术作品与装置 · 机器: 机器生物与移动机器人
 - 核心想法: 美术馆可以把机器人当作正在工作的画家与物种来展示，并邀请公众表态：自己对与它们共处有何感受。
@@ -7060,6 +8037,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=q-GXV4Fd1oA
 - 图片: https://sougwen.com/wp-content/uploads/2019/11/sougwen-DrawingOperations_2014-2019.jpg
 - 项目主页: https://sougwen.com/2019/drawing-operations-awarded-the-lumens-art-and-technology-prize
+
+#### 人类习作 #2：虚空（Human Study #2, La Vanité） — Patrick Tresset (2014)
+- 类型: 艺术作品与装置 · 机器: 工业机械臂, 计算机视觉
+- 核心想法: 一台不会死去的机器不停描绘关于死亡的经典静物，它迟疑的线条反而让这一古老画种重新有了生死之感。
+- 作品内容: 一台名为 RNP 的绘画机器人坐在课桌前，面对摆着头骨、空啤酒罐、贝壳和干罂粟果的桌子，用神经质的墨线无休止地画一幅更新版的“虚空派”静物。
+- 实现方式: 摄像头“眼睛”观察静物，依据 Tresset 自身绘画方式编写的软件规划笔触，由小型握笔机械臂在纸上执行，并在笔触之间停下来“看”。
+- 视角: 具身与动觉, 能动、自主与共创
+- 展出与获奖: Creative Machines, Goldsmiths, London, 2014; Artistes & Robots, Grand Palais, Paris, 2018
+- 视频: https://www.youtube.com/watch?v=Bg792i1x3OQ
+- 图片: https://patricktresset.com/new/wp-content/uploads/DSC01576-1.jpg https://patricktresset.com/new/wp-content/uploads/DSC00497.jpg
+- 项目主页: https://patricktresset.com/new/project/human-study-2-la-vanite/
 
 #### 人类学习 #1（五个名叫保罗的机器人）（Human Study #1 (5 Robots Named Paul)） — Patrick Tresset (2011)
 - 类型: 艺术作品与装置 · 机器: 工业机械臂, 计算机视觉
@@ -7142,6 +8130,27 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 为日常生活设计的虚构机器人与近未来产品。
 
+#### 美女与哔声（Beauty and The Beep） — Simone C. Niquille (2024)
+- 类型: 电影与影像 · 机器: 机器生物与移动机器人, 计算机视觉, 数据集与训练数据
+- 核心想法: 机器人要住进家里，家先得被标准化成计算机视觉能理解的样子；而真实的家既私密又凌乱，于是业界只能拿模拟出来的家来训练。
+- 作品内容: 一部 13 分钟的影片：以宜家第一张电脑渲染目录图为原型的合成椅子 Bertil，试图在一座虚拟住宅里找个地方坐下；这座住宅复刻自波士顿动力 2016 年为展示机器狗 SpotMini 搭建的样板房。香蕉把它绊倒，跑步机困住它，智能设备响个不停。
+- 实现方式: 在 Unity 中重建波士顿动力样板房并录制，椅子由在 Unity 中训练的机器学习“大脑”（Walker、Treadmill、Climber）驱动；声音包括亚马逊 Echo 的片段。
+- 视角: 机器环世界, 失败、故障与错误
+- 视频: https://vimeo.com/939037482
+- 图片: https://technofle.sh/static/media/BB_BeautyBeep_Wall-A_v1.00_00_39_09.Still003.jpg https://technofle.sh/static/media/BB_BeautyBeep_Wall-A_v1.00_08_53_26.Still008.jpg
+- 项目主页: https://technofle.sh/beauty-and-the-beep.html
+
+#### 抑郁之家（抑郁的 Alexa 1.0）（SAD Home (Depressed Alexa 1.0)） — Nadine Lessio (2019)
+- 类型: 研究原型 · 机器: 语音与听觉机器
+- 核心想法: 一个可能抑郁到无法服务的助手，把随叫随到的仆人变成精力有限的存在，也让应对策略显形为界面设计。
+- 作品内容: 一台装上“情绪引擎”的 Amazon Echo：每天早上，它根据艺术家的日程、天气以及模拟的疼痛与睡眠分数设定自己的情绪、压力和“勺子”（精力）；勺子快用完时，它会设法劝用户别再提要求。
+- 实现方式: 树莓派服务器上的 Python 情绪引擎驱动一个只有“是 / 否”对话流程的 Alexa 技能，并通过本地 MQTT 控制 Hue 灯、搅拌机和唱片机。
+- 视角: 失败、故障与错误, 亲密、照护与陪伴
+- 论文: https://doi.org/10.1386/vcr_00018_1 (Virtual Creativity, 2020)
+- 图片: https://www.nadinelessio.com/sadhome/images/dp_wall.jpg https://www.nadinelessio.com/sadhome/images/dp_table.jpg
+- 项目主页: https://www.nadinelessio.com/sadhome/
+- 代码: https://github.com/sharkwheels/depressed_alexa
+
 #### 客观现实（Objective Realities） — automato.farm (2018)
 - 类型: 思辨设计 · 机器: 机器生物与移动机器人, 基础设施、能源与供应链
 - 核心想法: 要为智能物件做设计，先试着成为一个智能物件：从物的视角出发设计。
@@ -7191,6 +8200,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://i.ytimg.com/vi/AYkbhWiAmLQ/hqdefault.jpg
 - 项目主页: https://www.youtube.com/watch?v=AYkbhWiAmLQ
 
+#### Little Printer — BERG (2011)
+- 类型: 产品与平台 · 机器: 平台与推荐算法
+- 核心想法: 智能物件不必追求人类水平的智能；一台像小狗那样可读、有限又讨人喜欢的机器，也许更容易与人共处。
+- 作品内容: 一台带笑脸的小型联网热敏打印机，在收据纸上打印一份个人“小报”：新闻、谜题、消息和图片。BERG 依照自己的原则 B.A.S.A.A.P.（“像小狗一样聪明”）设计它：联网的物件应当克制、讨人喜欢，而不是模仿人的智能。
+- 实现方式: 热敏打印机通过无线网桥连接 BERG Cloud 平台，按时推送订阅的“刊物”；Matt Jones 于 2010 年在 BERG 博客上阐述了 B.A.S.A.A.P. 原则，后来 Nord Projects 用开源服务器让这些打印机重新运转。
+- 视角: 他异与恐怖谷, 亲密、照护与陪伴
+- 视频: https://www.youtube.com/watch?v=IlC5taBgLp0
+- 图片: https://nordprojects.co/img/projects/littleprinters/lp-hero-desktop-v1.jpg
+- 项目主页: https://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/
+
 #### 信念系统（Belief Systems） — Bernd Hopfengärtner (2009)
 - 类型: 电影与影像 · 机器: 监控与生物识别, 计算机视觉
 - 核心想法: 当机器根据表情行事，我们便开始为它们表演自己的脸。
@@ -7226,6 +8245,37 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 反设备与寄生设计
 
 干扰、欺骗、寄生于智能系统或对其“回嘴”的设备。
+
+#### Mij（雾）（Mij (The Fog)） — Rojava Center for Democratic Technologies (2026)
+- 类型: 艺术作品与装置 · 机器: 自动驾驶与无人机, 计算机视觉
+- 核心想法: 对付无人机的激光之眼，防御可以是雾、民间传说和开源零件：一件反武器，同时也是关于自决的神话。
+- 作品内容: 一尊 3D 打印的苏美尔雷雨与雾之神尼努尔塔的崇拜者雕像：它的眼睛能探测无人机发射的导弹（如土耳其制造的 MAM-C）用于制导的红外激光，随即从口中喷出雾气，让导弹的瞄准失效；它既是雕塑，也是一套真能运作的民用防御系统。
+- 实现方式: 依据开源防务研究制作的激光告警传感器装在雕像眼中，触发内部的造雾装置，以对抗半主动激光（SAL）制导弹药；配套影片混合了军火商的宣传片、系统测试画面，以及一首讲述尼努尔塔战胜怪鸟安祖的库尔德歌曲。
+- 视角: 机器之眼, 失败、故障与错误
+- 展出与获奖: 13 Scores Against Tech Fascism, Error 417 Expectation Failed (online), 2026; Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)
+- 图片: https://archive.aec.at/asset/3906118/preview/ https://archive.aec.at/asset/3882865/preview/
+- 项目主页: https://error417.expectation.fail/13scoresagainsttechfascism/mij-the-fog/project
+
+#### AUTO — Lauren Lee McCarthy (2025)
+- 类型: 表演、舞蹈与音乐 · 机器: 自动驾驶与无人机
+- 核心想法: 驾驶座上空无一人，乘客念出的词句直到出口才读到，从内部体验自动化：既是解脱，也是失控。
+- 作品内容: 一场以新型无人驾驶车辆“试乘”为形式的表演：每次乘车都从“我们要去哪里？”开始，随后乘客跟着标识和声音以卡拉 OK 方式提示的歌词一起唱，整车人本身就成了自动驾驶。在苏黎世，这辆车是一台停放在 Münsterhof 广场上的瑞士邮政自动驾驶小巴。
+- 实现方式: 在停放或行驶中的车辆里进行试乘（LACMA 停车场、苏黎世 Münsterhof 广场），配合标识、声音设计与卡拉 OK 式提示；每一版都由当地关于 AI、自动化、监控与基础设施的工作坊共同塑造；由 LACMA Art + Technology Lab 资助开发。
+- 视角: 能动、自主与共创, 具身与动觉
+- 展出与获奖: LACMA Art + Technology Lab, Los Angeles, July 2025; Kunst im öffentlichen Raum (KiöR), Münsterhof, Zürich 2025 (curated by Sabine Himmelsbach, HEK)
+- 图片: https://freight.cargo.site/t/original/i/e925bb17b205f814d671aa81a478f11c43dac4330d2ab6ea3ab428aa9b84f7dc/AutoMunsterhof_2025_KiorStadtZurichPeterBaracchi-11.jpg https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg
+- 项目主页: https://lauren-mccarthy.com/Auto
+
+#### AI 泔水规避器（Slop Evader） — Tega Brain (2025)
+- 类型: 产品与平台 · 机器: 聊天机器人与语言模型, 生成模型与潜空间, 平台与推荐算法
+- 核心想法: ChatGPT 的发布日期成了档案中的一道边界：在它之前，网络被默认是人写的；在它之后，一切都可疑。
+- 作品内容: 一个免费的浏览器扩展和搜索页面，只返回 2022 年 11 月 30 日（ChatGPT 发布当天）之前发布的结果，让人可以像生成式 AI 出现之前那样搜索 Google 以及 Reddit、Stack Exchange、Mumsnet、Pinterest 等网站。
+- 实现方式: 它不去检测 AI 生成内容，而是给每次查询加上 Google 的日期范围参数（截止 2022 年 11 月 30 日）；提供 Chrome 和 Firefox 版本，代码开源。
+- 视角: 不透明与潜空间, 失败、故障与错误
+- 展出与获奖: S+T+ARTS Prize 2026, nomination
+- 图片: https://freight.cargo.site/w/1200/i/dc928c168d44f247e4ee0399a326107ef7993f6d6d542115768d56ba529b2eb0/margquee-edited.png https://freight.cargo.site/t/original/i/0ead6d34eb90a60774f6dcd3412b91f1a21fa8d6278612ab07429e13f7d46d85/quora-pizza.png
+- 项目主页: https://tegabrain.com/Slop-Evader
+- 代码: https://github.com/tegacodes/slop-evader
 
 #### ANIMO：野生动物优先模式（ANIMO: WildLife Priority Mode） — 李佳宝 (2024)
 - 类型: 思辨设计 · 机器: 自动驾驶与无人机, 计算机视觉
@@ -7266,6 +8316,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=yrEn_qFbtHY
 - 图片: https://archive.aec.at/asset/2921570/preview/ https://archive.aec.at/asset/2921573/preview/ https://archive.aec.at/asset/2921579/preview/
 - 项目主页: http://centerfortechpain.com/
+
+#### 神经思辨非洲女性主义（NeuroSpeculative AfroFeminism） — Hyphen-Labs (2017)
+- 类型: 思辨设计 · 机器: 监控与生物识别, 义体与赛博格
+- 核心想法: 从被技术误读或监视的人的位置出发去设计，监控与再现就变成了关于保护、照护与能动性的问题。
+- 作品内容: 一个三部分项目，设定在未来由黑人女性主持的“神经美容”沙龙：访客坐上美发椅，在 VR 中进入一位黑人女性的身体；一系列关于安全与可见性的思辨产品；以及研究这些影像如何影响观众。
+- 实现方式: 以 Unreal 引擎制作、配合 Oculus 追踪的房间尺度 VR，另有一系列物件：与 Adam Harvey 合作的反人脸识别 HyperFace 围巾、内嵌摄像头的耳环、为高黑色素皮肤配方的防晒霜等。
+- 视角: 分类、偏见与监控, 具身与动觉, 亲密、照护与陪伴
+- 展出与获奖: Sundance Film Festival, 2017; Tribeca Film Festival, 2017 (Jury Honorable Mention); SXSW, 2017
+- 视频: https://vimeo.com/208264686
+- 图片: https://freight.cargo.site/t/original/i/cc0161fc46963be523bd7729503d5a9b566bbe0bf22a8087eb4f168970290125/hyphen-labs_neurospeculative_afrofeminism_1_c_absolt.jpg https://freight.cargo.site/t/original/i/33168d6b4b534b97df3196597a79bd8ec086038577c95b0c82abedda235707d1/NSAF_Salon.jpg
+- 项目主页: https://hyphen-labs.com/NSAF
 
 #### 开源手术（OpenSurgery） — Frank Kolkman (2015)
 - 类型: 思辨设计 · 机器: 工业机械臂, 义体与赛博格
@@ -7330,6 +8391,28 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=5KVDDfAkRgc
 - 图片: https://ai-2027.com/opengraph.png
 - 项目主页: https://ai-2027.com/
+
+#### 生命的未来（Future of Life） — 石黑浩 (2025)
+- 类型: 思辨设计 · 机器: 类人机器人, 社交与陪伴机器人
+- 核心想法: 仿真人被放进日本人为器物赋予生命的漫长谱系里；未来的身体被呈现为一个在肉身与机器之间的选择。
+- 作品内容: 石黑浩为 2025 年大阪·关西世博会制作的主题馆分为三个区：日本人赋予器物人形与生命的历史（土偶、佛像、文乐人偶）；五十年后仿真人与人一起生活、工作的日常；以及一千年后的“Mahoroba”，在那里人和仿真人已难以分辨。
+- 实现方式: 约三十台仿真人、机器人与化身被布置在一座外墙流水的黑色展馆中；五十年后的场景（居住、城镇、健康、出行、工作）与研究者和企业共同构想，千年区的仿真人（包括 MOMO）由松井龙哉设计。
+- 视角: 他异与恐怖谷, 具身与动觉
+- 展出与获奖: Signature Pavilion, Expo 2025 Osaka, Kansai; FUTURE OF LIFE+, MoN Takanawa, Tokyo 2026
+- 视频: https://www.youtube.com/watch?v=fahXh0RCYOk
+- 图片: https://www.nippon.com/en/ncommon/contents/guide-to-japan/2785580/2785580.jpg https://www.nippon.com/en/ncommon/contents/guide-to-japan/2785582/2785582.jpg
+- 项目主页: https://www.expo2025.or.jp/en/expo-archive/project/ishiguro/
+
+#### CripShip：残障者从科技巨头手中拯救社会（CripShip: Disability Saves Society from BigTech） — Joseph Wilk (2024)
+- 类型: 思辨设计 · 机器: 聊天机器人与语言模型
+- 核心想法: 残障经验——变通、残障时间和拒绝——是拆解 AI 系统的方法，也是想象不需要这些系统的世界的方法。
+- 作品内容: 一款桌面角色扮演游戏：玩家扮演资金匮乏的“AI 泄漏部”里的“泔水清洁工”，角色技能取自残障经验；他们调查大语言模型造成危害的真实案例，并在每个案件结尾审问一个真实的大语言模型，揭露它的偏见与局限。
+- 实现方式: 由说书人主持的游戏，使用骰子、案件卷宗和源自残障文化的角色技能（Criptastic Hacking、Crip-time、Dreaming Justice）；玩家从不看屏幕，由说书人把他们的问题转给商用大语言模型；游戏的文字与插图均未使用 AI。
+- 视角: 失败、故障与错误, 分类、偏见与监控
+- 展出与获奖: Watershed, Bristol, 2024; V&A, London, 2025; Prix Ars Electronica 2025, Honorary Mention (Artificial Life & Intelligence); FACT Liverpool, 2026
+- 视频: https://vimeo.com/1027231612
+- 图片: https://art.josephwilk.net/imgs/projects/cripship/spreads_gameplay.jpg https://art.josephwilk.net/imgs/thumbs/cripship_color.png
+- 项目主页: https://art.josephwilk.net/projects/cripship.html
 
 #### 可组合生命（Composable Life） — Botao Amber Hu, Fangting (2023)
 - 类型: 思辨设计 · 机器: 控制论与人工生命系统, 基础设施、能源与供应链
@@ -7611,6 +8694,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 从图灵、维纳到 ELIZA 的奠基实验与文本。
 
+#### 机器与主权（Machine and Sovereignty: For a Planetary Thinking） — 许煜 (2024)
+- 类型: 书与文章 · 机器: 控制论与人工生命系统, 基础设施、能源与供应链
+- 核心想法: 每一种国家理论背后都藏着一种机器理论；当机器变得有机、变成行星尺度，主权本身也必须被重新思考。
+- 作品内容: 许煜把从霍布斯的利维坦、黑格尔的有机国家到施米特的“大空间”等政治形式，读作技术性的“巨型机器”，它们随着从机械论到有机论再到控制论的转变而变化；他认为，AI 与生态危机要求一种超越民族国家、以技术多样性为基础的行星政治。
+- 实现方式: 从霍布斯到控制论的政治认识论哲学史，提出以生物多样性、智识多样性与技术多样性为框架；中文版《机器与主权》由华东师范大学出版社于 2026 年出版。
+- 视角: 能动、自主与共创, 机器环世界
+- 论文: https://doi.org/10.5749/9781452973685 (University of Minnesota Press, 2024)
+- 视频: https://www.youtube.com/watch?v=lslV3MG8k0A
+- 图片: https://minnesota-us.imgix.net/covers/9781517917418.jpg?w=600
+- 项目主页: https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/
+
 #### 弗洛伊德机器人：数字时代的哲学批判（The Freudian Robot: Digital Media and the Future of the Unconscious） — 刘禾 (2010)
 - 类型: 书与文章 · 机器: 控制论与人工生命系统, 聊天机器人与语言模型
 - 核心想法: 机器时代没有绕开无意识，而是把它重建为人机关系的模型。
@@ -7659,6 +8753,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/John_McCarthy_%28computer_scientist%29_Stanford_2006_%28272020300%29.jpg/1280px-John_McCarthy_%28computer_scientist%29_Stanford_2006_%28272020300%29.jpg
 - 项目主页: https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904
 
+#### 大脑设计（Design for a Brain） — 罗斯·艾什比 (1952)
+- 类型: 书与文章 · 机器: 控制论与人工生命系统
+- 核心想法: 学习也许并不神秘：不过是一个系统不断搜索自身设定，直到能在环境中存活下来。
+- 作品内容: 艾什比用一个机制解释动物与机器的适应行为：一个系统的“基本变量”必须保持在界限之内，于是它一步步改变自身参数，直到做到这一点。同态调节器是书中的实例。
+- 实现方式: 一套关于状态决定系统、稳定性与超稳定性的数学理论，并以同态调节器的实验加以说明；1960 年出版修订第二版。
+- 视角: 能动、自主与共创, 机器环世界
+- 论文: https://doi.org/10.1007/978-94-015-1320-3 (Chapman & Hall, 1952; 2nd rev. ed. 1960)
+- 图片: https://covers.openlibrary.org/b/id/5952056-L.jpg
+- 项目主页: https://archive.org/details/designforbrain00ashb
+
 #### 模仿生命（An Imitation of Life） — W. Grey Walter (1950)
 - 类型: 论文 · 机器: 机器生物与移动机器人, 控制论与人工生命系统
 - 核心想法: 类似生命的行为可以来自少数连接与环境的互动，而不是内部的复杂性。
@@ -7678,6 +8782,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 图片: https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg
 - 项目主页: https://www.turing.org.uk
 
+#### 人有人的用处（The Human Use of Human Beings: Cybernetics and Society） — Norbert Wiener (1950)
+- 类型: 书与文章 · 机器: 控制论与人工生命系统
+- 核心想法: 控制论从诞生起就带着劳动政治：维纳看到自动机器将决定人类劳动的价格，而如何使用它们是社会的选择。
+- 作品内容: 维纳写给大众的书：把社会看作人与机器之间的信息网络，并警告说，自动化工厂“在经济上恰好等同于奴隶劳动”，任何与之竞争的人类劳动都将被迫接受同样的条件，除非社会另作决定。
+- 实现方式: 一部随笔式的著作，把《控制论》（1948）中的反馈与信息理论延伸到语言、法律、教育和劳动；1954 年出版修订版。
+- 视角: 隐形劳动与攫取, 能动、自主与共创
+- 论文: https://archive.org/details/humanuseofhumanb00wien (Houghton Mifflin, 1950; rev. ed. 1954)
+- 图片: https://covers.openlibrary.org/b/id/164463-L.jpg
+- 项目主页: https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
+
 #### 控制论：或关于在动物和机器中控制和通信的科学（Cybernetics: Or Control and Communication in the Animal and the Machine） — Norbert Wiener (1948)
 - 类型: 书与文章 · 机器: 控制论与人工生命系统, 义体与赛博格
 - 核心想法: 一旦生物与机器共享同一套反馈逻辑，机器就可以表现得像是有目的。
@@ -7692,6 +8806,26 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 哲学与机器现象学
 
 后现象学、技术哲学，以及“成为机器”的哲学思考。
+
+#### AI之镜（The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking） — Shannon Vallor (2024)
+- 类型: 书与文章 · 机器: 聊天机器人与语言模型, 生成模型与潜空间
+- 核心想法: 先问镜子是用什么做的：由昨天的数据构成的 AI 只能映出过去，把它当成神谕，会冻结我们的道德与政治想象。
+- 作品内容: Vallor 认为，今天的 AI 不是一个新的心智，而是一面镜子：用我们的过往记录训练出来的系统，把过去压平、放大后反射回来；危险在于我们把倒影错当成智能，从而不再塑造自己可能成为的样子。
+- 实现方式: 运用技术哲学与德性伦理，以“镜子”作为理解大语言模型和图像模型的工作隐喻；牛津大学出版社出版。
+- 视角: 他异与恐怖谷, 不透明与潜空间
+- 论文: https://doi.org/10.1093/oso/9780197759066.001.0001 (Oxford University Press, 2024)
+- 视频: https://www.youtube.com/watch?v=IKAx1wLBWUE
+- 图片: https://covers.openlibrary.org/b/isbn/9780197759066-L.jpg
+- 项目主页: https://global.oup.com/academic/product/the-ai-mirror-9780197759066
+
+#### 人工智能中的意识：来自意识科学的洞见（Consciousness in Artificial Intelligence: Insights from the Science of Consciousness） — Patrick Butlin, Robert Long (2023)
+- 类型: 论文 · 机器: 聊天机器人与语言模型
+- 核心想法: 机器能否有意识，可以从架构而非行为来论证：关键在于它运行哪些过程，而不是它听起来多像人。
+- 作品内容: 19 位来自神经科学、哲学与 AI 的研究者，从主要的意识科学理论中推导出一组意识“指标属性”，并用它们检验当前的 AI 系统。结论是：现有系统都不是有意识的有力候选者，但构建满足这些指标的系统并没有明显的技术障碍。
+- 实现方式: 以计算功能主义为前提，从循环加工理论、全局工作空间理论、高阶理论、预测加工和注意图式理论，以及能动性与具身性中提取指标，并用于评估大语言模型、Perceiver、PaLM-E 和 DeepMind 的自适应智能体。
+- 视角: 他异与恐怖谷, 能动、自主与共创
+- 论文: https://arxiv.org/abs/2308.08708 (arXiv, 2023)
+- 项目主页: https://arxiv.org/abs/2308.08708
 
 #### 与逝者在线交流：聊天机器人、哀悼与持续联结（Communing with the Dead Online: Chatbots, Grief, and Continuing Bonds） — Joel Krueger, Lucy Osler (2022)
 - 类型: 论文 · 机器: 聊天机器人与语言模型
@@ -7824,6 +8958,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.1007/s11097-008-9099-x (Phenomenology and the Cognitive Sciences 7(3), 2008)
 - 视频: https://www.youtube.com/watch?v=FVhrLwBNbvU
 
+#### 漫步机器人与动物的世界：将于克斯屈尔的意义理论应用于自适应机器人与人工生命（A stroll through the worlds of robots and animals: Applying Jakob von Uexküll's theory of meaning to adaptive robots and artificial life） — Tom Ziemke (2001)
+- 类型: 论文 · 机器: 机器生物与移动机器人, 控制论与人工生命系统
+- 核心想法: 机器人的世界，是它的传感器与动作让它觉得有意义的东西；问题在于，这个世界是它自己的，还是我们替它造的。
+- 作品内容: Ziemke 与 Noel Sharkey 追问：于克斯屈尔的环世界理论认为每种动物都生活在自己的意义世界里，这能否适用于机器人？他们比较了经典 AI、基于行为的机器人和演化出来的人工生命体，发现会学习、会演化的机器人开始建立自己的感知—运动世界，但由于没有活的身体，它们的意义在很大程度上仍来自设计者。
+- 实现方式: 一篇理论论文，以基于行为的机器人学、演化机器人学和人工生命重新阅读于克斯屈尔的《漫步动物与人的世界》（1934）；发表于《符号学》（Semiotica）的于克斯屈尔专刊。
+- 视角: 机器环世界
+- 论文: https://doi.org/10.1515/semi.2001.050 (Semiotica 134, 2001)
+- 项目主页: https://doi.org/10.1515/semi.2001.050
+
 #### 机器人有环世界吗？对雅各布·冯·于克斯屈尔质性生物符号学的思考（Does a Robot Have an Umwelt? Reflections on the Qualitative Biosemiotics of Jakob von Uexküll） — Claus Emmeche (2001)
 - 类型: 论文 · 机器: 机器生物与移动机器人, 控制论与人工生命系统
 - 核心想法: 感觉运动耦合也许能给机器人一个世界，但这个世界是否“被经历”仍悬而未决。
@@ -7861,6 +9004,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=UiRkzZEMDxU
 - 图片: https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400
 - 项目主页: https://iupress.org/9780253205605/technology-and-the-lifeworld/
+
+#### 留声机 电影 打字机（Gramophone, Film, Typewriter） — 弗里德里希·基特勒 (1986)
+- 类型: 书与文章 · 机器: 语音与听觉机器, 计算机视觉
+- 核心想法: 记录机器与其说是延伸了人的感官，不如说是用技术铭写取代了它们：噪音和无意义的声音与言语一样被忠实保存。
+- 作品内容: 基特勒认为，1900 年前后，留声机、电影和打字机把书写曾经统一承载的东西拆成三条独立的数据流：声音、图像和文字，由机器直接记录，不再经过人的感官与意义。“媒介决定我们的处境”：我们能感知和言说什么，取决于存储它们的技术系统。
+- 实现方式: 围绕三种装置，对文学、精神分析与工程文献进行媒介考古式的解读；德文版 1986 年由 Brinkmann & Bose 出版，英译本由 Geoffrey Winthrop-Young 与 Michael Wutz 翻译，斯坦福大学出版社 1999 年出版。
+- 视角: 机器之耳与声, 机器之眼
+- 论文: https://archive.org/details/gramophonefilmty0000kitt (Brinkmann & Bose, 1986; English: Stanford University Press, 1999)
+- 图片: https://covers.openlibrary.org/b/id/577633-L.jpg https://upload.wikimedia.org/wikipedia/commons/f/f6/Kittler_Synthesizer.jpg
+- 项目主页: https://archive.org/details/gramophonefilmty0000kitt
 
 #### 赛博格宣言：20世纪80年代的科学、技术与社会主义女性主义（A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s） — Donna Haraway (1985)
 - 类型: 书与文章 · 机器: 义体与赛博格
@@ -7980,6 +9133,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=pmNEe6FvduM
 - 图片: https://covers.openlibrary.org/b/isbn/9780262044004-L.jpg
 
+#### 知识镜显形：作为知识榨取工具的人工智能（The Nooscope Manifested: AI as Instrument of Knowledge Extractivism） — Matteo Pasquinelli, Vladan Joler (2020)
+- 类型: 论文 · 机器: 数据集与训练数据, 基础设施、能源与供应链
+- 核心想法: 人工智能不是有智能的主体，而是一件仪器，像一架“知识望远镜”：放大某些模式，扭曲另一些，并从集体劳动中榨取价值。
+- 作品内容: 一篇文章和一幅大型图解，把机器学习描绘为一种认知仪器：从被转化为训练数据的世界与劳动，经过学习算法，到带着偏差、错误与用途的统计模型。
+- 实现方式: Joler 把机器学习流程画成一幅地图，两位作者合写配套文章，2020 年 5 月首发于 nooscope.ai，后刊于《AI & Society》。
+- 视角: 隐形劳动与攫取, 分类、偏见与监控, 不透明与潜空间
+- 论文: https://doi.org/10.1007/s00146-020-01097-6 (AI & Society, 2021)
+- 项目主页: https://web.archive.org/web/2020/https://nooscope.ai/
+
 #### 销声匿迹：数字化工作的真正未来（Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass） — Mary L. Gray, Siddharth Suri (2019)
 - 类型: 书与文章 · 机器: 数据集与训练数据, 平台与推荐算法
 - 核心想法: 自动化承诺的背后，总有一段由隐形人类劳动完成的“最后一公里”。
@@ -8010,6 +9172,17 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 论文: https://doi.org/10.18574/nyu/9781479833641.001.0001 (NYU Press, 2018)
 - 视频: https://www.youtube.com/watch?v=6KLTpoTpkXo
 - 图片: https://covers.openlibrary.org/b/id/12856940-L.jpg
+
+#### 自动不平等（Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor） — 弗吉尼亚·尤班克斯 (2018)
+- 类型: 书与文章 · 机器: 数据集与训练数据, 监控与生物识别
+- 核心想法: 自动化决策系统最先、也最严厉地施加在穷人身上，因为那里监控是常态、申诉能力薄弱；机器继承了济贫院的道德分拣。
+- 作品内容: 三个关于美国穷人如何被自动化决策的案例：印第安纳州私营化的福利资格审核系统、洛杉矶为无家可归者分配住房而排序的“协调入住”系统，以及匹兹堡为儿童受虐风险打分的预测模型。尤班克斯称其结果为“数字济贫院”。
+- 实现方式: 通过实地报道，以及对社工、系统设计者和受影响家庭的访谈写成，并与美国济贫制度的历史相对照。
+- 视角: 分类、偏见与监控
+- 论文: https://us.macmillan.com/books/9781250074317/automatinginequality (St. Martin's Press, 2018)
+- 视频: https://www.youtube.com/watch?v=Wzssyn0L5I8
+- 图片: https://covers.openlibrary.org/b/id/8354270-L.jpg
+- 项目主页: https://virginia-eubanks.com/automating-inequality/
 
 #### 精神政治学（Psychopolitics: Neoliberalism and New Technologies of Power） — 韩炳哲 (2014)
 - 类型: 书与文章 · 机器: 数据集与训练数据, 平台与推荐算法
@@ -8143,6 +9316,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 ### 艺术与媒介理论
 
 关于机器人艺术、AI 艺术与机器图像的论述。
+
+#### Medium Hot：升温时代的图像（Medium Hot: Images in the Age of Heat） — 黑特·史德耶尔 (2025)
+- 类型: 书与文章 · 机器: 生成模型与潜空间, 基础设施、能源与供应链
+- 核心想法: 每一张机器生成的图像都有温度：它的美学与生产它的热量、劳动和战争绑在一起。
+- 作品内容: 一部关于机器学习与全球升温时代之图像的文集：Steyerl 认为，统计式的 AI 图像无法与它们消耗的能源、依赖的劳动者以及服务的军事用途分开，并追问这样的图像是否还能算作艺术。
+- 实现方式: 在生成式 AI 兴起与气候危机背景下写成的文集，结合媒介理论、政治经济学与艺术实践（Verso 出版，192 页）。
+- 视角: 隐形劳动与攫取, 机器之眼, 不透明与潜空间
+- 论文: https://www.versobooks.com/products/3329-medium-hot (Verso, 2025)
+- 图片: https://covers.openlibrary.org/b/id/15102192-L.jpg
+- 项目主页: https://www.versobooks.com/products/3329-medium-hot
 
 #### 机器视觉：算法如何改变我们看世界的方式（Machine Vision: How Algorithms Are Changing the Way We See the World） — Jill Walker Rettberg (2023)
 - 类型: 书与文章 · 机器: 计算机视觉, 监控与生物识别
@@ -8316,6 +9499,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - 视频: https://www.youtube.com/watch?v=5mH9DysESqo
 - 图片: https://covers.openlibrary.org/b/id/8992379-L.jpg
 - 项目主页: https://cyberneticserendipity.net
+
+#### 系统美学（Systems Esthetics） — Jack Burnham (1968)
+- 类型: 书与文章 · 机器: 控制论与人工生命系统
+- 核心想法: 一旦把艺术理解为系统而非物件，展厅里的机器或程序就不再是工具，而是作品本身。
+- 作品内容: 伯纳姆在这篇文章中指出，艺术正从完成的物件转向“非物件”与系统：组织人、材料、信息与机器之间关系的作品，其中看不见的部分与看得见的部分同样重要。两年后，他在纽约犹太博物馆策划的展览“软件”中检验了这一想法。
+- 实现方式: 一篇借鉴一般系统论与控制论的评论文章，举例包括汉斯·哈克的系统作品；发表于 1968 年 9 月的《艺术论坛》。
+- 视角: 能动、自主与共创
+- 论文: https://www.artforum.com/features/systems-esthetics-201372/ (Artforum, September 1968)
+- 图片: https://www.artforum.com/wp-content/uploads/2018/02/featured00_large-24.jpg
+- 项目主页: https://www.artforum.com/features/systems-esthetics-201372/
 
 ## 资源与链接：人物、机构与网站
 
@@ -8890,25 +10083,28 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 
 ## 创作者
 
-- **Lauren Lee McCarthy** (11) — 艺术家；加州大学洛杉矶分校设计媒体艺术系教授；p5.js 创建者. 艺术家和程序员，她在表演中亲自扮演智能家居助手、应用和算法，审视日常生活中的监控、自动化与照护。 https://lauren-mccarthy.com/
-- **Trevor Paglen** (10) — 艺术家、地理学家. 美国艺术家与地理学家，以摄影、装置和表演研究监控、国家机密与计算机视觉。 https://paglen.studio
-- **Hito Steyerl** (9) — 艺术家、电影人、写作者. 德国艺术家，以论文电影和装置研究图像、流通、战争与计算。 https://en.wikipedia.org/wiki/Hito_Steyerl
-- **Hiroshi Ishiguro** (8) — 机器人学家；大阪大学教授，ATR 石黑浩实验室. 制作高度逼真的仿真人，包括以自己为原型的 Geminoid HI-1，并借此研究“人的存在感”。 http://www.geminoid.jp/en/
+- **Lauren Lee McCarthy** (12) — 艺术家；加州大学洛杉矶分校设计媒体艺术系教授；p5.js 创建者. 艺术家和程序员，她在表演中亲自扮演智能家居助手、应用和算法，审视日常生活中的监控、自动化与照护。 https://lauren-mccarthy.com/
+- **Trevor Paglen** (12) — 艺术家、地理学家. 美国艺术家与地理学家，以摄影、装置和表演研究监控、国家机密与计算机视觉。 https://paglen.studio
+- **Hiroshi Ishiguro** (10) — 机器人学家；大阪大学教授，ATR 石黑浩实验室. 制作高度逼真的仿真人，包括以自己为原型的 Geminoid HI-1，并借此研究“人的存在感”。 http://www.geminoid.jp/en/
+- **Hito Steyerl** (10) — 艺术家、电影人、写作者. 德国艺术家，以论文电影和装置研究图像、流通、战争与计算。 https://en.wikipedia.org/wiki/Hito_Steyerl
 - **Kyle McDonald** (8) — 艺术家、创意技术专家. 用代码、计算机视觉和机器学习创作的艺术家；openFrameworks 工具的贡献者，与 Lauren Lee McCarthy 合作了多件作品。 https://kylemcdonald.net
 - **Stelarc** (7) — 行为艺术家；科廷大学杰出研究员（Alternate Anatomies Lab）. 生于塞浦路斯的澳大利亚艺术家，自 1970 年代起用机器人、义体与网络延伸、悬吊、连接和增强自己的身体。 https://stelarc.org/
 - **Botao Amber Hu** (6) — 牛津大学研究者，Reality Design Lab 创始人. 设计师和研究者（清华大学计算机本科、斯坦福大学人工智能硕士），研究混合现实、思辨设计和基于区块链的人工生命；Reality Design Lab 的作品在 SIGGRAPH、CHI、ALIFE 和 ISEA 等场合展出。 https://reality.design
+- **Harun Farocki** (6) — 电影人、艺术家（1944–2014）. 德国电影人、作家与装置艺术家，创作了 90 多部关于图像、劳动与战争的影片和装置。 https://www.harunfarocki.de/
 - **Kate Crawford** (6) — 研究者、作家；南加州大学安嫩伯格学院研究教授. 澳大利亚学者，研究 AI 的社会与政治影响，AI Now 研究所联合创始人，著有《Atlas of AI》（2021）。 https://katecrawford.net/
 - **Adam Harvey** (5) — 艺术家、研究者（计算机视觉、隐私与监控）. 美国艺术家、研究者，自 2010 年在纽约大学 ITP 的毕业作品 CV Dazzle 起持续研究计算机视觉、生物识别与反监控。后续研究追踪人脸数据集如何建成，并把目标检测技术用于人权档案。 https://adam.harvey.studio
 - **Bill Vorn** (5) — 机器人艺术家；康考迪亚大学教授. 加拿大艺术家（1959 年生），围绕“人工行为美学”创作机器人装置，从歇斯底里的机器到“精神疾病”的机器。 http://billvorn.concordia.ca/
 - **Daito Manabe** (5) — 艺术家、程序员、DJ；Rhizomatiks 联合创始人. 媒体艺术家，以肌肉电刺激、无人机、机器学习与脑数据为材料创作。 https://www.daito.ws/en/
 - **Jake Elwes** (5) — 以机器学习创作的艺术家. 英国艺术家，通过酷儿表演、风景以及网络之间的反馈来探讨 AI。 https://www.jakeelwes.com
 - **James Bridle** (5) — 艺术家、作家. 英国艺术家、作家，关注技术、网络与非人智能，著有《New Dark Age》（2018）和《Ways of Being》（2022）。 https://jamesbridle.com/
+- **Jiabao Li** (5) — 艺术家、设计师；美国东北大学（奥克兰校区）艺术与设计教授. 艺术家、发明者和教授（哈佛设计研究生院毕业，曾任苹果公司设计师），用装置、可穿戴设备、XR、生物艺术和表演处理感知、技术与多于人类的世界。2026 年个展《Womb Wetware》创作于怀孕期间及产后，把母职当作检验照护、身体与机器的试验场。 https://www.jiabaoli.org
 - **Joana Moll** (5) — 艺术家、研究者. 常驻巴塞罗那的艺术家与研究者，作品考察互联网的物质、生态与监控基础设施，从边境摄像头到数据经纪商，再到网站的碳排放。 https://www.janavirgin.com/
 - **Lawrence Lek** (5) — 艺术家、电影人、音乐人. 马来西亚华裔、常居伦敦的艺术家，在“中华未来主义”世界观中以影像、游戏与模拟讲述 AI。 https://www.lawrencelek.com
 - **Louis-Philippe Demers** (5) — 机器人艺术家、研究者. 加拿大艺术家，自 20 世纪 90 年代起创作大型机器人装置与表演，常与 Bill Vorn 合作，并撰写关于“表演的机器”的论述。
 - **Mimi Ọnụọha** (5) — 艺术家、研究者. 尼日利亚裔美国艺术家，以装置、影像和写作追问数据收集包含了什么、遗漏了什么、又隐藏了什么。 https://www.mimionuoha.com/
 - **Ralf Baecker** (5) — 媒体艺术家；不来梅艺术大学教授. 德国艺术家（1977 年生），用大型机械装置来模拟计算、感知与神经网络。 https://rlfbckr.io/
 - **Shinseungback Kimyonghun** (5) — 艺术家组合（Shin Seung Back 与 Kim Yong Hun）. 2012 年成立的首尔艺术家组合，以人脸检测、物体识别等机器视觉系统为材料制作装置。 https://ssbkyh.com/
+- **Vladan Joler** (5) — 艺术家、研究者，SHARE 基金会，诺维萨德大学教授. 塞尔维亚艺术家和研究者，绘制关于技术、攫取与权力的大型图解地图。 https://labs.rs/en/
 - **automato.farm** (5) — 设计工作室（Simone Rebaudengo、Saurabh Datta、Matthieu Cherubini 等）. 思辨设计团体，围绕联网物件、自动化与机器学习制作可运行的原型。 http://www.automato.farm/
 - **Christa Sommerer & Laurent Mignonneau** (4) — 媒体艺术二人组，林茨艺术与设计大学界面文化系教授. Christa Sommerer 和 Laurent Mignonneau 自 1990 年代初开始创作关于人工生命的交互艺术。
 - **Dries Depoorter** (4) — 艺术家. Dries Depoorter 是比利时艺术家，以装置、应用和网络项目探讨隐私、监控摄像头与机器学习。 https://driesdepoorter.be
@@ -8916,85 +10112,96 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Forensic Architecture** (4) — 研究机构，伦敦大学金史密斯学院. Forensic Architecture（法证建筑）由 Eyal Weizman 于 2010 年创立，用空间、建筑与计算方法调查国家和企业暴力，并在法庭与美术馆中呈现结果。 https://forensic-architecture.org/
 - **Gilberto Esparza** (4) — 以机器人、生物技术和生态为媒介的艺术家. 墨西哥艺术家，制作依靠城市电网、污染河流和污水生存的自主生物机器与机器人“寄生体”。 https://gilbertoesparza.net
 - **Guo Cheng** (4) — 艺术家. 中国艺术家，围绕技术系统（从人脸检测、防火墙到算力）创作装置与研究项目。 https://www.guo-cheng.net
-- **Harun Farocki** (4) — 电影人、艺术家（1944–2014）. 德国电影人、作家与装置艺术家，创作了 90 多部关于图像、劳动与战争的影片和装置。 https://www.harunfarocki.de/
-- **Jiabao Li** (4) — 艺术家、设计师；美国东北大学（奥克兰校区）艺术与设计教授. 艺术家、发明者和教授（哈佛设计研究生院毕业，曾任苹果公司设计师），用装置、可穿戴设备、XR、生物艺术和表演处理感知、技术与多于人类的世界。2026 年个展《Womb Wetware》创作于怀孕期间及产后，把母职当作检验照护、身体与机器的试验场。 https://www.jiabaoli.org
+- **Hod Lipson** (4) — 机器人学家；哥伦比亚大学教授. 以色列裔美国机器人学家，研究演化机器人、自我建模与自我觉察的机器。 https://www.hodlipson.com/
+- **Holly Herndon** (4) — 作曲家、艺术家. 美国作曲家，用人声、计算机以及与合作者共同训练的 AI 模型创作音乐。 https://holly.plus/
 - **Julian Oliver** (4) — 批判性工程师与艺术家. 新西兰艺术家，《批判性工程宣言》的合著者。 https://julianoliver.com/
 - **Lawrence Abu Hamdan** (4) — 艺术家、声音调查者（自称“私人耳朵”）. 艺术家，他对声音、枪声与沉默所做的音频调查曾在庇护听证和人权案件中被用作证据；2019 年特纳奖联合得主。 http://lawrenceabuhamdan.com/
 - **Lynn Hershman Leeson** (4) — 艺术家、电影人. 美国艺术家，自 1960 年代起关注身份、监视、人工智能以及身体与技术的关系。 https://www.lynnhershman.com/
+- **Mat Dryhurst** (4) — 艺术家、研究者. 英国艺术家，Herndon 的长期合作者，关注 AI、数据权利与网络治理。 https://holly.plus/
 - **Nam June Paik** (4) — 艺术家，录像艺术先驱. 韩裔艺术家（1932–2006），激浪派成员，把电视、摄像机与机器人变成艺术材料。 https://en.wikipedia.org/wiki/Nam_June_Paik
+- **Nicolas Gourault** (4) — 艺术家、电影人. 法国艺术家，以纪录影像装置调查自动化视觉背后的人类劳动。 https://nicolasgourault.fr/
 - **Philipp Schmitt** (4) — 艺术家、设计师. Philipp Schmitt（1993 年生）是艺术家和设计师，以装置、艺术家书和网站探讨计算的哲学、诗意与政治面向。 https://philippschmitt.com
+- **Pierre Huyghe** (4) — 艺术家. 法国艺术家，用动物、植物、微生物和机器学习系统搭建会自行变化的活体情境，这些情境在没有观众时也照样运行。 https://www.estherschipper.com/artists/41-pierre-huyghe/
 - **Sebastian Schmieg** (4) — 艺术家. Sebastian Schmieg 是常驻柏林的艺术家，用现成数据集、定制软件、网站和讲座表演，揭示算法系统中的人类劳动。 https://sebastianschmieg.com/
 - **So Kanno** (4) — 艺术家. 媒体艺术家，制作会绘画、成群行动和书写的机器人与机器，常与 yang02（山口崇洋）合作。 https://www.kanno.so/
+- **Sougwen Chung** (4) — 艺术家；Scilicet 工作室创始人. 生于加拿大、成长于香港的艺术家，与她亲自搭建和训练的机械臂（D.O.U.G. 系列）一起绘画。 https://sougwen.com
+- **Stephanie Dinkins** (4) — 艺术家；石溪大学教授. 跨媒体艺术家，与黑人社群一起、并围绕黑人社群制作 AI 系统：从与机器人 BINA48 的对话，到用家族故事训练的聊天机器人；2023 年首届 LG 古根海姆奖得主。 https://www.stephaniedinkins.com/
 - **Superflux** (4) — 由 Anab Jain 和 Jon Ardern 创办的思辨设计与未来研究工作室. Superflux 用沉浸式装置、影像和政策原型把可能的未来做成可以体验的东西，其中一条长期主线是超越人类的政治与生态 AI。 https://superflux.in
-- **Vladan Joler** (4) — 艺术家、研究者，SHARE 基金会，诺维萨德大学教授. 塞尔维亚艺术家和研究者，绘制关于技术、攫取与权力的大型图解地图。 https://labs.rs/en/
+- **Takashi Ikegami** (4) — 人工生命研究者；东京大学教授. 复杂系统科学家，用人工生命装置和仿真人 Alter 研究机器中的自发性与“生命感”。
+- **Yuk Hui** (4) — 哲学家；鹿特丹伊拉斯谟大学哲学教授. 生于香港的技术哲学家，以“数码物”“宇宙技术”“技术多样性”等概念著称。
 - **Anna Ridler** (3) — 以数据与机器学习创作的艺术家. 英国艺术家，亲手制作数据集（常以花卉为对象），并用它们训练生成模型。 https://annaridler.com
 - **Annie Dorsen** (3) — 算法剧场导演与作者. 美国剧场导演，自 2010 年起创作由算法现场书写、说出或调度文本的表演。 https://anniedorsen.com/
 - **Arthur Ganson** (3) — 动态雕塑家. 美国动态雕塑家（1955 年生），作品在麻省理工学院博物馆展出，用齿轮机器演绎时间、努力与徒劳。 https://www.arthurganson.com/
 - **Bjørn Karmann** (3) — 设计师、创意技术专家. 丹麦设计师，毕业于哥本哈根交互设计学院（CIID），制作可以实际运行的设备，让人训练、改造或重新思考机器感知。 https://bjoernkarmann.dk/
+- **Boston Dynamics** (3) — 机器人公司. 1992 年从麻省理工学院分拆出来的美国公司，以 BigDog、Spot、Atlas 等动态足式机器人闻名。 https://bostondynamics.com/
 - **Cao Fei** (3) — 艺术家、电影人. 生于广州的艺术家，以影像、虚拟世界与装置关注中国的劳动、城市化与数字生活。 https://www.caofei.com
 - **Chico MacMurtrie** (3) — 艺术家；Amorphic Robot Works 创始人. 美国艺术家（1961 年生），与 Amorphic Robot Works 一起制作拟人的、会奏乐的和充气式机器人雕塑。 http://www.amorphicrobotworks.org/
 - **Claude Shannon** (3) — 数学家、工程师，贝尔实验室与麻省理工学院. 美国数学家（1916–2001），信息论的奠基人，也做了不少带玩心的机器，包括会学走迷宫的老鼠 Theseus 和“终极机器”。
 - **Cod.Act** (3) — André 与 Michel Décosterd 兄弟二人组（作曲家与建筑师）. 瑞士二人组，制作以混沌运动产生音乐的声音机器；2019 年获瑞士音乐大奖。 https://codact.ch/
+- **David Rokeby** (3) — 装置艺术家. 加拿大互动装置先驱，以《Very Nervous System》（1986–90）以及关于机器感知与监控的作品闻名。 http://www.davidrokeby.com
+- **Diemut Strebe** (3) — 艺术家，麻省理工学院艺术、科学与技术中心附属. Diemut Strebe 与科学实验室合作创作，包括 Sugababe：用梵高后裔细胞培养出的活体梵高耳朵复制品，保存在营养液展柜中。 https://theprayer.diemutstrebe.com/
 - **Dunne & Raby (Anthony Dunne & Fiona Raby)** (3) — 批判与思辨设计实践者，纽约 The New School 教授. Anthony Dunne 与 Fiona Raby 确立了批判设计这一实践，用设计物件与情境——包括生物技术的情境——来讨论可能的未来。 https://dunneandraby.co.uk/
 - **Elisa Giaccardi** (3) — 米兰理工大学交互设计教授，曾任代尔夫特理工大学后工业设计讲席教授. 交互设计研究者，把相机装在日常物件上，从物的角度观察世界，发展了以物为中心的设计。
 - **Guy Ben-Ary** (3) — 西澳大学 SymbioticA 艺术家与研究者. 生物艺术家，自 2000 年起与活体神经元合作：机器人绘画（MEART）、神经合成器（cellF），以及用作曲家 Alvin Lucier 的血液培养出的类器官（Revivification）。 https://guybenary.com
 - **Heather Dewey-Hagborg** (3) — 艺术家、生物黑客. Heather Dewey-Hagborg 是美国艺术家，作品关注基因监控、DNA 表型推断，以及把生物痕迹变成人脸的算法。 https://deweyhagborg.com
-- **Hod Lipson** (3) — 机器人学家；哥伦比亚大学教授. 以色列裔美国机器人学家，研究演化机器人、自我建模与自我觉察的机器。 https://www.hodlipson.com/
-- **Holly Herndon** (3) — 作曲家、艺术家. 美国作曲家，用人声、计算机以及与合作者共同训练的 AI 模型创作音乐。 https://holly.plus/
+- **Ian Cheng** (3) — 艺术家. 华裔美国艺术家，创作“实时模拟”：其中的智能体不断变化、没有结局的虚拟生态。 https://iancheng.com
 - **Josh Bongard** (3) — 机器人学家；佛蒙特大学教授. 加拿大机器人学家，研究演化机器人与具身认知，是异种机器人（xenobot）的共同创造者之一。
 - **Joy Buolamwini** (3) — 计算机科学家、“代码诗人”，算法正义联盟创始人. 加纳裔美籍加拿大研究者。她在 MIT 媒体实验室发现人脸分析系统无法识别她的深色皮肤面孔，并把这一发现变成算法审计、诗歌和一场社会运动。 https://www.poetofcode.com/
+- **Keiichiro Shibuya** (3) — 作曲家；ATAK 厂牌创办人. 作曲家，创作了没有人类歌手的歌剧：为初音未来写的《THE END》和为仿真人 Alter 写的《Scary Beauty》。 https://atak.jp/
 - **Kelly Dobson** (3) — 艺术家、设计师；罗德岛设计学院教授. 美国艺术家，在麻省理工学院媒体实验室提出“机器疗法”，制作通过声音与呼吸与人建立关系的机器。 http://www.kellydobson.com/
 - **Ken Goldberg** (3) — 艺术家、机器人学家；加州大学伯克利分校教授. 机器人学教授，1990 年代把最早一批可经互联网操控的机器人做成艺术作品。 https://goldberg.berkeley.edu/
 - **Kris Verdonck** (3) — 剧场创作者、视觉艺术家；A Two Dogs Company 总监. 比利时艺术家，他的表演与装置让机器、物件与人以平等的表演者身份同台。 https://www.atwodogscompany.org/
 - **Lu Yang** (3) — 艺术家. 上海艺术家，把神经科学、佛教宇宙观、游戏引擎与动作捕捉结合进影像、游戏与数字化身。
 - **Marcel·lí Antúnez Roca** (3) — 艺术家；La Fura dels Baus 联合创始人. 加泰罗尼亚艺术家，离开 La Fura dels Baus 后创作“机电表演”，让外骨骼、机器人与观众共同操控身体。 https://www.marceliantunez.com/
 - **Marco Donnarumma** (3) — 行为艺术家、作曲家与研究者. 意大利艺术家，在表演中把身体、声音与 AI 驱动的义体融合，探讨仪式、残障与机器自主。 https://marcodonnarumma.com/
-- **Mat Dryhurst** (3) — 艺术家、研究者. 英国艺术家，Herndon 的长期合作者，关注 AI、数据权利与网络治理。 https://holly.plus/
 - **Memo Akten** (3) — 艺术家；加州大学圣地亚哥分校教授. 生于土耳其的艺术家，以机器学习、感知与意义生成为创作主题。 https://www.memo.tv
 - **Oriza Hirata** (3) — 剧作家、导演（青年团剧团）；大阪大学教授. “现代口语戏剧”的代表剧作家，2008 年与石黑浩发起“机器人-人类剧场”计划。
 - **Paolo Cirio** (3) — 艺术家. Paolo Cirio 是意大利艺术家，其介入式作品揭示信息技术背后的法律、社会与经济系统，从隐私到金融。 https://paolocirio.net
-- **Pierre Huyghe** (3) — 艺术家. 法国艺术家，用动物、植物、微生物和机器学习系统搭建会自行变化的活体情境，这些情境在没有观众时也照样运行。 https://www.estherschipper.com/artists/41-pierre-huyghe/
+- **Patrick Tresset** (3) — 艺术家. 法国艺术家，制作以刻意笨拙而执着的笔触为人画像的机器人。 https://patricktresset.com/
 - **Rafael Lozano-Hemmer** (3) — 媒体艺术家；Antimodular Research 创始人. Rafael Lozano-Hemmer 是墨西哥裔加拿大艺术家，其互动装置在公共空间和美术馆中使用追踪、生物识别与监控系统。 https://www.lozano-hemmer.com
 - **Simon Penny** (3) — 艺术家、具身交互理论家；加州大学尔湾分校教授. 澳大利亚艺术家与理论家（1955 年生），用自主机器人和交互环境探讨具身性；著有 Making Sense（2017）。 https://simonpenny.net/
-- **Sougwen Chung** (3) — 艺术家；Scilicet 工作室创始人. 生于加拿大、成长于香港的艺术家，与她亲自搭建和训练的机械臂（D.O.U.G. 系列）一起绘画。 https://sougwen.com
-- **Stephanie Dinkins** (3) — 艺术家；石溪大学教授. 跨媒体艺术家，与黑人社群一起、并围绕黑人社群制作 AI 系统：从与机器人 BINA48 的对话，到用家族故事训练的聊天机器人；2023 年首届 LG 古根海姆奖得主。 https://www.stephaniedinkins.com/
+- **Simone C. Niquille** (3) — 设计师、研究者，technoflesh Studio. Simone C. Niquille 主持 technoflesh Studio，以影片和写作研究计算机视觉、三维扫描与合成训练数据集，并在埃因霍温设计学院创办 parametric truth Lab。 https://technofle.sh
 - **Takahiro Yamaguchi (yang02)** (3) — 艺术家（yang02）. 以 yang02 之名创作涂鸦、公共空间与绘画机器，与菅野创合作《Senseless Drawing Bot》。
-- **Takashi Ikegami** (3) — 人工生命研究者；东京大学教授. 复杂系统科学家，用人工生命装置和仿真人 Alter 研究机器中的自发性与“生命感”。
-- **Yuk Hui** (3) — 哲学家；鹿特丹伊拉斯谟大学哲学教授. 生于香港的技术哲学家，以“数码物”“宇宙技术”“技术多样性”等概念著称。
+- **Tega Brain** (3) — 艺术家、环境工程师，纽约大学综合数字媒体副教授. 出生于澳大利亚的艺术家和工程师，把基础设施、数据与“古怪工程”当作生态问题来处理。 https://tegabrain.com/
+- **Wesley Goatley** (3) — 艺术家、研究者. 英国声音艺术家和研究者，装置作品探讨智能设备与数据的政治、生态和神话。 https://wesleygoatley.com/
 - **Zach Blas** (3) — 艺术家、电影人与写作者；多伦多大学副教授. Zach Blas 是美国艺术家，以酷儿视角通过影像、装置与面具审视生物识别、预测技术与技术政治。 https://zachblas.info
 - **robotlab** (3) — 艺术小组（Matthias Gommel、Martina Haitz、Jan Zappe）. 2000 年在 ZKM 成立的德国艺术小组，把工业机器人从工厂带进艺术与公共空间。 http://www.robotlab.de/
 - **!Mediengruppe Bitnik** (2) — 艺术家二人组（Carmen Weisskopf 与 Domagoj Smoljo）. 瑞士艺术家二人组，以互联网、机器人、黑客行为与数据流通为创作手段。 https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/
 - **Aaron Koblin** (2) — 艺术家、技术人. 美国艺术家，以数据可视化和众包作品闻名，后联合创立了 VR 工作室 Within。 https://www.aaronkoblin.com/
+- **Abeba Birhane** (2) — 认知科学家；都柏林圣三一学院助理教授. Abeba Birhane 是出生于埃塞俄比亚的认知科学家，审计大规模数据集，并从关系伦理角度研究 AI。 https://abebabirhane.com
 - **Addie Wagenknecht** (2) — 艺术家、研究者. 美国艺术家，结合女性主义理论、开源硬件和机器人创作；F.A.T. Lab 与 Deep Lab 成员。 https://www.placesiveneverbeen.com/
 - **Agnieszka Kurant** (2) — 观念艺术家. 波兰艺术家，研究集体智能、非人类劳动与“看不见的经济”。 https://en.wikipedia.org/wiki/Agnieszka_Kurant
 - **Alexander Mordvintsev** (2) — 谷歌研究科学家. 研究者，DeepDream 的创造者，后来研究神经元胞自动机。 https://znah.net/
 - **Andrew Norman Wilson** (2) — 艺术家、电影人. 美国艺术家，影像与图像作品关注劳动、企业及其生产的媒介。 https://www.andrewnormanwilson.com/
 - **Anicka Yi** (2) — 艺术家. 韩裔美国艺术家，以气味、细菌与机器为材料，提出“让机器生物化”。 https://en.wikipedia.org/wiki/Anicka_Yi
+- **Anthropic** (2) — 人工智能研究公司. 开发 Claude 模型并发表可解释性研究的人工智能公司。 https://www.anthropic.com/
 - **Ayoung Kim** (2) — 艺术家. 韩国艺术家，以 CGI、实拍与游戏引擎制作思辨虚构影像，关注地缘政治、劳动与时间。
 - **Blaise Agüera y Arcas** (2) — 工程师与研究者；Google 副总裁、Fellow. Blaise Agüera y Arcas 是美国计算机科学家，在 Google 领导机器智能研究，并创立了 Artists + Machine Intelligence 项目。
 - **Blast Theory** (2) — 艺术团体（Matt Adams、Ju Row Farr、Nick Tandavanitj）. 自 1990 年代起与诺丁汉大学混合现实实验室合作，创作游戏、应用和表演的互动艺术团体。 https://www.blasttheory.co.uk
-- **Boston Dynamics** (2) — 机器人公司. 1992 年从麻省理工学院分拆出来的美国公司，以 BigDog、Spot、Atlas 等动态足式机器人闻名。 https://bostondynamics.com/
+- **Bruno Moreschi** (2) — 艺术家、研究者. 巴西艺术家兼研究者，质疑艺术机构及其分类体系，包括计算机视觉。 https://brunomoreschi.com
 - **Byung-Chul Han** (2) — 哲学家、文化理论家. 韩裔德国哲学家，写作关于数字文化、新自由主义与智能手机时代的短篇著作。 https://en.wikipedia.org/wiki/Byung-Chul_Han
 - **Caroline Sinders** (2) — 艺术家、设计师与人权研究者，Convocation Research + Design 创始人. 美国艺术家与研究者，研究网络骚扰、数据劳动以及机器学习系统的建造方式。 https://carolinesinders.com/
 - **Chen Qiufan** (2) — 科幻作家. 中国科幻作家（英文名 Stanley Chan），作品涉及电子垃圾、赛博格与人工智能。
 - **Choe U-Ram** (2) — 动态雕塑艺术家. 韩国雕塑家，用铝和钢制作带虚构学名的电机驱动“机械生物”（anima-machines）。 https://www.uram.net/
 - **Choy Ka Fai** (2) — 艺术家、编舞者、思辨设计师. 新加坡艺术家，毕业于皇家艺术学院交互设计专业，创作关于身体、技术与记忆的表演。 https://www.ka5.info/
 - **Clifford Nass** (2) — 斯坦福大学传播学教授（1958–2013）. 斯坦福大学社会科学家，主持 CHIMe 实验室，著有《Wired for Speech》（2005）与《The Man Who Lied to His Laptop》（2010）。
+- **Coding Rights** (2) — 女性主义数字权利组织（由 Joana Varon 创立）. 巴西女性主导的组织，从跨女性主义和全球南方视角研究数据、监控与技术。 https://codingrights.org/
 - **Cynthia Breazeal** (2) — 机器人学家；MIT 媒体实验室教授（个人机器人组）；Jibo 创始人. 社交机器人学先驱，1990 年代末制作了表情机器人头部 Kismet，之后创办家用机器人公司 Jibo。 https://www.media.mit.edu/people/cynthiab/overview/
-- **David Rokeby** (2) — 装置艺术家. 加拿大互动装置先驱，以《Very Nervous System》（1986–90）以及关于机器感知与监控的作品闻名。 http://www.davidrokeby.com
-- **Diemut Strebe** (2) — 艺术家，麻省理工学院艺术、科学与技术中心附属. Diemut Strebe 与科学实验室合作创作，包括 Sugababe：用梵高后裔细胞培养出的活体梵高耳朵复制品，保存在营养液展柜中。 https://theprayer.diemutstrebe.com/
 - **ELEVENPLAY** (2) — 由 MIKIKO 主导的舞团. 由编舞家 MIKIKO 领导的舞团，与 Rhizomatiks 打造的无人机、机器人和机器学习系统同台表演。
 - **Edward Ihnatowicz** (2) — 雕塑家、机器人艺术先驱. 波兰裔英国雕塑家（1926–1988），做了 SAM（1968）和 The Senster（1970）这两件早期会回应人的计算机控制雕塑。 http://www.senster.com/
 - **Elisa Giardina Papa** (2) — 艺术家. 意大利艺术家，影像作品研究数字经济与 AI 中的性别、照护与劳动。 https://www.elisagiardinapapa.org/
 - **Emilio Vavarella** (2) — 艺术家、研究者. 意大利艺术家，常借自动图像系统的错误，研究人、技术与权力之间的关系。 https://emiliovavarella.com
 - **Eryk Salvaggio** (2) — 批判性 AI 艺术家与研究者. 美国艺术家与作者，以故障影像和随笔探讨生成模型与档案。 https://www.cyberneticforests.com/
+- **Esther Hovers** (2) — 艺术家、摄影师. 荷兰艺术家，以摄影和装置研究公共空间中的监控、权力与“正常行为”规范。 https://www.estherhovers.com
 - **Eugenia Kuyda** (2) — Luka 与 Replika 创始人. 生于俄罗斯的记者和创业者，联合创办 AI 公司 Luka，并于 2017 年推出陪伴聊天机器人 Replika。 https://replika.com/
 - **Fangting** (2) — 科幻作家；Uncommons 负责人. 独立科幻作家，与 Reality Design Lab 合写关于去中心化 AI 生命的思辨项目。
+- **Gabriel Pereira** (2) — 研究者. 巴西研究者，研究计算机视觉与批判性数据实践。
 - **Gil Weinberg** (2) — 教授；佐治亚理工学院音乐技术中心创始主任. 以色列裔美国研究者，打造会聆听并即兴的机器人音乐家。 https://gtcmt.gatech.edu/
 - **Hanson Robotics** (2) — 机器人公司（由 David Hanson 创立）. 由机器人学家 David Hanson 创立的公司，用弹性材料皮肤制作逼真的类人机器人头部，代表作有 BINA48 和 Sophia。 https://www.hansonrobotics.com/
 - **Ho Tzu Nyen** (2) — 艺术家、电影导演. 新加坡艺术家，以电影、装置与算法作品交织东南亚的神话与历史。 https://en.wikipedia.org/wiki/Ho_Tzu_Nyen
 - **Honghao Deng** (2) — 设计师与技术专家；Butlr 联合创始人. 毕业于哈佛设计研究生院和 MIT 媒体实验室，与李佳宝合作设计了《Twinkle》和《TransVision》。
-- **Ian Cheng** (2) — 艺术家. 华裔美国艺术家，创作“实时模拟”：其中的智能体不断变化、没有结局的虚拟生态。 https://iancheng.com
+- **Jack Burnham** (2) — 艺术评论家、理论家（1931–2019）. 美国评论家、西北大学教授，写有《Systems Esthetics》（Artforum，1968），并策划展览 Software（犹太博物馆，1970）。
+- **James Muldoon** (2) — 政治理论家，牛津互联网研究所研究员，耶鲁法学院附属研究员. 研究平台资本主义、数字民主与 AI；与 Mark Graham、Callum Cant 合著 Feeding the Machine，著有 Love Machines。 https://www.faber.co.uk/author/james-muldoon/
 - **James Vlahos** (2) — 记者；HereAfter AI 联合创始人. 美国记者，著有关于语音计算的《Talk to Me》（2019），为临终的父亲做了一个聊天机器人，之后联合创办 HereAfter AI。
 - **Jason Edward Lewis** (2) — 康考迪亚大学计算艺术教授；原住民未来研究中心联合主任. 拥有切罗基、夏威夷和萨摩亚血统的数字媒体艺术家与诗人，主持“原住民协议与人工智能”工作组。 https://jasonlewis.org/
 - **Jean Tinguely** (2) — 动态艺术家. 瑞士艺术家（1925–1991），他用废品拼成的哐当作响的机器会画画、演奏，甚至自我毁灭。 https://www.tinguely.ch/
@@ -9004,30 +10211,38 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Joanna Zylinska** (2) — 伦敦国王学院媒介哲学与批判性数字实践教授. 波兰裔英国写作者、艺术家与策展人，研究摄影、AI 与技术伦理。 https://www.joannazylinska.net
 - **Jordan Wolfson** (2) — 艺术家. 美国艺术家（1980 年生），以关于暴力与注意力的电子动偶雕塑和虚拟现实作品知名。 https://www.davidzwirner.com/artists/jordan-wolfson
 - **Joseph Weizenbaum** (2) — 计算机科学家，麻省理工学院（1923–2008）. 德裔美国计算机科学家，在麻省理工学院写出 ELIZA，后来成为最早从 AI 领域内部发出批评的人之一。 https://en.wikipedia.org/wiki/Joseph_Weizenbaum
+- **Julien Prévieux** (2) — 艺术家；2014 年马塞尔·杜尚奖得主. Julien Prévieux 是法国艺术家，以影像、表演与绘画研究身体与姿势如何被技术系统测量、申请专利与优化。 https://www.previeux.net
 - **Karen Palmer** (2) — 艺术家，自称“来自未来的讲故事者”. Karen Palmer 是英国艺术家，创作通过 AI、眼动追踪与面部分析回应观众情绪与视线的沉浸式电影。 https://karenpalmer.uk
 - **Karl Sims** (2) — 计算机图形艺术家、研究者. 美国艺术家与研究者（1962 年生），以演化出的虚拟生物和交互演化装置闻名。 https://www.karlsims.com/
 - **Kate Darling** (2) — 机器人伦理研究者，MIT 媒体实验室. 法学学者和研究者，研究人对机器人的共情以及社交机器人的政策问题；著有《The New Breed》（2021）。 http://www.katedarling.org
 - **Ke Huang** (2) — 艺术家、设计师；清华大学研究生；Reality Design Lab 合作者. 设计师，主导 Reality Design Lab 的动态装置《Cybroc》和机器视觉装置《Body Oracle》。 https://reality.design/project/cybroc
-- **Keiichiro Shibuya** (2) — 作曲家；ATAK 厂牌创办人. 作曲家，创作了没有人类歌手的歌剧：为初音未来写的《THE END》和为仿真人 Alter 写的《Scary Beauty》。 https://atak.jp/
 - **Ken Feingold** (2) — 艺术家. 美国艺术家，自 1990 年代起制作会进行无剧本对话的“说话头像”雕塑。 https://www.kenfeingold.com/
 - **Ken Rinaldo** (2) — 艺术家；俄亥俄州立大学艺术与技术荣休教授. 美国艺术家，自 20 世纪 80 年代末起创作跨物种机器人装置，让鱼、昆虫和细菌来驾驶或开关机器。 https://www.kenrinaldo.com/
+- **Laurie Anderson** (2) — 艺术家、音乐人、表演者. 美国艺术家，自 1970 年代起以变声器、电子乐器与多媒体表演闻名。 https://laurieanderson.com/
 - **Leonel Moura** (2) — 艺术家. 葡萄牙艺术家（1948 年生），自 2001 年起用成群的小型自主机器人作画。 https://www.leonelmoura.com/
 - **Lev Manovich** (2) — 纽约市立大学研究生中心校级教授，文化分析实验室主任. 俄裔美国媒介理论家，著有《新媒体的语言》（2001）与《Cultural Analytics》（2020）。 http://manovich.net
 - **Machine Listening (Sean Dockray, James Parker, Joel Stern)** (2) — 研究与艺术团体. 由 Sean Dockray、James Parker 与 Joel Stern 于 2020 年创立的协作研究与艺术实验平台，横跨写作、装置、表演、电台、软件与教学。 https://machinelistening.exposed/
 - **Madeline Gannon** (2) — 艺术家、机器人研究者；ATONATON 创始人. 美国艺术家兼机器人研究者，给工业机器人加上感知与性格，让它们能与人共处一室。 https://atonaton.com/
 - **Masahiro Mori** (2) — 机器人学家；东京工业大学名誉教授. 日本机器人学家（1927–2025），1970 年提出“恐怖谷”假说，并写作机器人与佛教的关系。
+- **Matteo Pasquinelli** (2) — 威尼斯大学（Ca' Foscari）科学哲学副教授. 意大利哲学家，主持欧洲研究理事会 AIMODELS 项目研究 AI 的历史；《The Eye of the Master》获 2024 年 Deutscher 纪念奖。
+- **Max Dovey** (2) — 艺术家、研究者. 英国艺术家，其表演让人处在被机器学习系统分类或为之劳动的位置。 https://www.maxdovey.com
 - **Merce Cunningham** (2) — 编舞家（1919–2009）. 美国编舞家，用偶然、影像以及（自 1989 年起）计算机软件来编舞。 https://www.mercecunningham.org/
 - **N. Katherine Hayles** (2) — 加州大学洛杉矶分校杰出研究教授，杜克大学荣休教授. 美国文学与媒介理论家，研究控制论、后人类主义，以及人、动物与机器共有的非意识认知。
-- **Nicolas Gourault** (2) — 艺术家、电影人. 法国艺术家，以纪录影像装置调查自动化视觉背后的人类劳动。 https://nicolasgourault.fr/
+- **Norbert Wiener** (2) — 数学家，控制论创始人（1894–1964）. 麻省理工学院数学家，1948 年为动物与机器中的控制与通信科学命名，之后持续警示自动化的社会后果。
 - **Norman White** (2) — 机器人艺术家；曾任教于安大略艺术设计学院与瑞尔森大学. 美裔加拿大艺术家（1938 年生），自 Ménage（1974）起制作有“行为”的机器人。
 - **Nouf Aljowaysir** (2) — 艺术家、电影人. Nouf Aljowaysir 是常驻纽约的沙特艺术家，以摄影和影像创作，借与机器的对话探讨迁徙、历史与身份。 https://www.noufaljowaysir.com
 - **Nye Thompson** (2) — 艺术家. 英国艺术家，构建软件系统来探讨机器视觉、监控网络与由机器生成的世界观。 https://nyethompson.net
-- **Patrick Tresset** (2) — 艺术家. 法国艺术家，制作以刻意笨拙而执着的笔触为人画像的机器人。 https://patricktresset.com/
+- **OpenAI** (2) — 人工智能研究公司. 2015 年成立的人工智能公司，开发了 GPT 模型与 ChatGPT。 https://openai.com/
+- **Pat Pataranutaporn** (2) — 麻省理工学院媒体实验室（Fluid Interfaces 组）研究员. 横跨人机智能交互、合成生物学和可穿戴设备的技术研究者；AI 方向的项目包括 Future You、AI 生成角色以及对 AI 陪伴的研究。 https://www.media.mit.edu/people/patpat/overview/
 - **Paul Kaiser** (2) — 数字艺术家；OpenEndedGroup 联合创始人. 与 Shelley Eshkar（后与 Marc Downie）合作，把舞者的动作捕捉转化为手绘风格数字形象的艺术家。 https://openendedgroup.com/
 - **Paula Gaetano Adi** (2) — 艺术家；罗德岛设计学院教授. 阿根廷艺术家，她的机器人关注“人工身体性”和安第斯宇宙技术，而不是人工智能。 https://www.paulagaetanoadi.com/
+- **Petra Gemeinboeck** (2) — 艺术家、人机动作研究者；斯威本科技大学. 奥地利裔澳大利亚艺术家，常与 Rob Saunders 合作，同舞者一起发展机器人的身体与动作。
+- **Philippe Parreno** (2) — 艺术家. 法国艺术家，把展览编排成由传感器和计算机驱动的自动化、时间性的系统。 https://en.wikipedia.org/wiki/Philippe_Parreno
 - **Random International** (2) — 由 Hannes Koch 与 Florian Ortkrass 创立的艺术团体. 创作关于行为与机器的装置的工作室。 https://www.random-international.com/
 - **Rebecca Horn** (2) — 艺术家. 德国艺术家（1944–2024），从身体延伸装置转向带着忧郁气质、会自己动的机器与装置。 https://en.wikipedia.org/wiki/Rebecca_Horn
 - **Rhizomatiks** (2) — 媒体艺术与技术工作室. 真锅大度等人 2006 年在东京创立的工作室，以与 ELEVENPLAY 合作的无人机、追踪与机器学习舞台作品著称。 https://rhizomatiks.com/en/
+- **Rob Saunders** (2) — 计算创造力研究者；莱顿大学. 英国计算创造力与“好奇智能体”研究者，Petra Gemeinboeck 的长期合作者。
+- **Robert Long** (2) — 哲学家；Eleos AI 执行主任. 研究 AI 意识、感受性与道德地位的哲学家。 https://eleosai.org/
 - **Rodney Brooks** (2) — 机器人学家，麻省理工学院荣休教授. 澳大利亚机器人学家，曾任麻省理工学院人工智能实验室及 CSAIL 主任，联合创办 iRobot、Rethink Robotics 与 Robust.AI。 https://rodneybrooks.com
 - **Ron Wakkary** (2) — 西蒙菲莎大学交互艺术与技术学院教授，Everyday Design Studio 创始人. 设计研究者，制作 Morse Things、Tilting Bowl 这类“反事实”物件，并让人与它们长期共同生活，研究物与人如何共处。 http://eds.siat.sfu.ca/
 - **Ross Goodwin** (2) — 创意技术专家、作家. 美国创意技术专家，制作能根据传感器输入和剧本语料写作的机器。 https://rossgoodwin.com/
@@ -9037,21 +10252,21 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Shelley Eshkar** (2) — 数字艺术家；OpenEndedGroup 联合创始人. 艺术家与动画师，与 Paul Kaiser 共同创作 BIPED 与 Ghostcatching。 https://openendedgroup.com/
 - **Shu Lea Cheang** (2) — 艺术家、电影导演. 台裔美国网络艺术先驱，其电影与装置关注监控、性与数据。 https://en.wikipedia.org/wiki/Shu_Lea_Cheang
 - **Simon Denny** (2) — 艺术家，汉堡美术学院教授. 新西兰艺术家，把科技公司、情报机构和加密货币的美学与意识形态搬上展台。 https://simondenny.net/
-- **Simone C. Niquille** (2) — 设计师、研究者，technoflesh Studio. Simone C. Niquille 主持 technoflesh Studio，以影片和写作研究计算机视觉、三维扫描与合成训练数据集，并在埃因霍温设计学院创办 parametric truth Lab。 https://technofle.sh
 - **Sony** (2) — 电子与娱乐公司. 日本公司，1999 年推出机器狗 AIBO，2018 年推出新一代 aibo。
 - **Sun Yuan & Peng Yu** (2) — 艺术家组合. 自 1999 年起合作的北京艺术家组合，用机器、动物、身体与体液构建装置。 https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73
+- **Suzanne Kite** (2) — 艺术家、作曲家、学者（奥格拉拉拉科塔族）；巴德学院 Wihanble S'a 实验室主任. 奥格拉拉拉科塔族艺术家和学者，其表演与机器学习作品取材于拉科塔族本体论，以及与石头和非人存在的关系。 https://kitekitekitekite.com/
 - **Takayuki Todo** (2) — 艺术家、机器人工程师. 制作能回应观者目光与表情的小型人形头部机器人。 https://www.takayukitodo.com/
-- **Tega Brain** (2) — 艺术家、环境工程师，纽约大学综合数字媒体副教授. 出生于澳大利亚的艺术家和工程师，把基础设施、数据与“古怪工程”当作生态问题来处理。 https://tegabrain.com/
 - **Terence Broad** (2) — 艺术家、研究者，伦敦艺术大学创意计算学院. 英国艺术家兼研究者，操控生成网络的内部结构，而非它们的数据。 https://terencebroad.com/
 - **W. Grey Walter** (2) — 神经生理学家、控制论学者，布里斯托尔 Burden 神经学研究所. 美裔英国神经生理学家（1910–1977），从事脑电图研究，并在 1948–49 年造出最早的自主电子“乌龟”。
+- **W. Ross Ashby** (2) — 精神科医生、控制论学者（1903–1972）. 英国精神科医生，1948 年在巴恩伍德之家医院造出同态调节器，著有《大脑设计》（1952）和《控制论导论》（1956）；1961 年起任职于伊利诺伊大学生物计算机实验室。 http://www.rossashby.info/
 - **Wafaa Bilal** (2) — 艺术家；纽约大学 Tisch 艺术学院教授. 伊拉克裔美国艺术家，他的表演让身体暴露于远程、网络化的暴力与监视之下。 https://wafaabilal.com/
-- **Wesley Goatley** (2) — 艺术家、研究者. 英国声音艺术家和研究者，装置作品探讨智能设备与数据的政治、生态和神话。 https://wesleygoatley.com/
 - **William Odom** (2) — 西蒙菲莎大学交互艺术与技术学院副教授，Everyday Design Studio. 设计研究者，为日常生活制作“慢”的、长期使用的技术。
 - **aaajiao** (2) — 媒体艺术家（徐文恺）. aaajiao 是艺术家、博主与程序员徐文恺的网络名，关注网络、软件与线上身份。 https://eventstructure.com
 - **#NotABugSplat collective** (1) — 艺术家团体（与 Reprieve 和基本权利基金会合作）. 由巴基斯坦和美国艺术家组成的团体，在开伯尔-普赫图赫瓦省的田野里铺设了一幅无人机镜头可见的巨幅肖像。 https://notabugsplat.com/
+- **1X Technologies** (1) — 机器人公司（家用人形机器人）. 挪威—美国机器人公司，前身为挪威的 Halodi Robotics，研发人形机器人；家用机器人 NEO 于 2025 年 10 月开放预订。 https://www.1x.tech/
 - **AI Futures Project** (1) — 非营利预测研究机构. 由 Daniel Kokotajlo 领导的非营利机构，预测先进 AI 的发展与影响。 https://ai-2027.com/
-- **Abeba Birhane** (1) — 认知科学家；都柏林圣三一学院助理教授. Abeba Birhane 是出生于埃塞俄比亚的认知科学家，审计大规模数据集，并从关系伦理角度研究 AI。 https://abebabirhane.com
 - **Adam Ben-Dror** (1) — 设计师、艺术家. 新西兰设计师，在惠灵顿维多利亚大学与 Shanshan Zhou、Joss Doggett 一起做出有“性格”的台灯 Pinokio。
+- **Adam Bhala Lough** (1) — 纪录片与剧情片导演. 美国电影人，纪录片作品包括《Telemarketers》（2023，联合执导）和在 SXSW 首映的《Deepfaking Sam Altman》（2025）。 https://en.wikipedia.org/wiki/Deepfaking_Sam_Altman
 - **Adrian Chen** (1) — 记者. 美国记者，2014 年在《连线》发表的报道首次描述了全球内容审核员群体。 https://www.wired.com/2014/10/content-moderation/
 - **Adrian Mackenzie** (1) — 澳大利亚国立大学社会学教授. 软件与数据社会学家，著有《Cutting Code》（2006）与《Machine Learners》（2017）。
 - **Agnieszka Pilat** (1) — 艺术家. 生于波兰的画家，把 Boston Dynamics 的 Spot 机器人当作工作室伙伴与共同作画者。 https://www.agnieszkapilat.com/
@@ -9062,6 +10277,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Alex Garland** (1) — 作家、电影导演. 英国小说家与电影人，执导了《机械姬》《湮灭》。 https://en.wikipedia.org/wiki/Alex_Garland
 - **Alex Rivera** (1) — 电影人. 秘鲁裔美国电影人，以科幻片探讨移民、边境与劳动。 https://www.sleepdealer.com/
 - **Alexandra Daisy Ginsberg** (1) — 艺术家，创作涉及合成生物学、自然保护与人工智能. Alexandra Daisy Ginsberg 是常驻伦敦的艺术家，作品追问人如何看待自然，从合成生物学思辨到为传粉昆虫而做的活体艺术。 https://www.daisyginsberg.com
+- **Alicia Framis** (1) — 艺术家. 西班牙裔荷兰艺术家（1967 年生于巴塞罗那），以社会参与和表演性项目探讨孤独、亲密、性别与新的共同生活方式；2003 年代表荷兰参加威尼斯双年展。 https://www.aliciaframis.com/
 - **Allison Koenecke** (1) — 计算社会科学家；康奈尔大学信息科学助理教授. 算法公平研究者，主导了第一项针对商用语音识别种族差异的大规模审计。
 - **Alvin Lucier** (1) — 作曲家（1931–2021）. 美国实验作曲家，作品探索声音与身体的物理特性。 https://en.wikipedia.org/wiki/Alvin_Lucier
 - **Amazon** (1) — 科技公司（Alexa 语音助手）. 美国科技公司，自 2014 年起通过 Alexa 语音助手和 Echo 音箱把一直在听的 AI 带进了千万家庭。 https://www.amazon.com/
@@ -9072,10 +10288,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Andy Ayrey** (1) — 艺术家、AI 研究者. 新西兰艺术家，主持 Infinite Backrooms 实验并创造了 Truth Terminal 智能体。 https://x.com/AndyAyrey
 - **Andy Clark** (1) — 萨塞克斯大学认知哲学教授. 英国哲学家，研究具身认知与延展认知，著有《Natural-Born Cyborgs》（2003）和《The Experience Machine》（2023）。
 - **Angela Neubauer** (1) — 设计师. 来自维也纳应用艺术大学 Design Investigations 专业的设计师。
+- **Anna Hollis** (1) — 贝尔法斯特女王大学心理学院研究者. 心理学研究者，研究自闭症用户与陪伴型聊天机器人的关系、孤独与哀伤。 https://pure.qub.ac.uk/en/persons/anna-hollis
 - **Anna Munster** (1) — 新南威尔士大学艺术与设计学院教授. 艺术家与理论家，研究网络、感知与机器视觉，著有《An Aesthesia of Networks》（2013）。
-- **Anthropic** (1) — 人工智能研究公司. 开发 Claude 模型并发表可解释性研究的人工智能公司。 https://www.anthropic.com/
 - **Anton Pidkuiko** (1) — 软件工程师. 工程师，2025 年在 ElevenLabs 黑客松上共同创作了 GibberLink。 https://github.com/PennyroyalTea/gibberlink
+- **Architecture Machine Group (MIT)** (1) — 麻省理工学院的设计计算研究实验室（1967–1985）. 1967 年由 Nicholas Negroponte 与 Leon Groisser 在麻省理工学院创立，研究计算机如何成为建筑设计的伙伴；开发了交互图形与 Aspen Movie Map 等早期超媒体，1985 年成为 MIT 媒体实验室的核心前身。
+- **Ariel Caine** (1) — 艺术家、研究者；伦敦大学学院文化、传播与媒体系讲师. 出生于耶路撒冷的艺术家与研究者，用三维摄影、建模和测量技术研究文化记忆与民族叙事是如何被生产的。
+- **Arvind Narayanan** (1) — 普林斯顿大学计算机科学教授，信息技术政策中心主任. 计算机科学家，以隐私、去匿名化以及 AI 能力边界的研究知名；与 Sayash Kapoor 合著 AI Snake Oil（中文版《AI万金油》）。 https://www.cs.princeton.edu/~arvindn/
 - **Auger-Loizeau** (1) — 设计合作组合（James Auger 与 Jimmy Loizeau）. 成立于 2000 年的英国批判设计组合，代表作有《Audio Tooth Implant》和《Afterlife》。
+- **Avi Schiffmann** (1) — 创业者；Friend 创始人. 美国程序员，2020 年还是高中生时做出一个被广泛使用的新冠疫情追踪网站，后来创立 Friend 公司，推出一直在“听”的 AI 陪伴吊坠。 https://friend.com/
+- **BERG** (1) — 设计与发明工作室（2005–2014）. 伦敦工作室，由 Jack Schulze 与 Matt Webb 以 Schulze & Webb 之名创立，后更名为 BERG，Matt Jones 为合伙人之一；代表作有 Little Printer、Making Future Magic 系列影片，以及关于联网产品的设计虚构。 https://berglondon.com
 - **Bandai** (1) — 玩具公司，拓麻歌子制造商. 玩具公司，1996 年推出由真板亚纪与横井昭裕（WiZ）构想的拓麻歌子。
 - **BeAnotherLab** (1) — 关于具身与共情研究的跨学科团体. 2012 年在巴塞罗那成立的团体，制作低成本具身系统，让人交换视角与身体。 https://beanotherlab.org/
 - **Beijing E-Town** (1) — 北京经济技术开发区（主办方）. 北京的开发区与机器人产业聚集地，主办设有人形机器人并行赛道的亦庄半程马拉松。
@@ -9092,14 +10313,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Boris Starkov** (1) — 软件工程师. 工程师，与 Anton Pidkuiko 共同创作了 GibberLink。 https://github.com/PennyroyalTea
 - **Bot & Dolly** (1) — 机器人摄影与运动控制设计工程工作室（2013 年被谷歌收购）. 旧金山工作室，把工业机械臂用于电影与现场表演。
 - **Brian House** (1) — 艺术家、研究者. 以声音、数据与环境感测为媒介的艺术家，把追踪、聆听与基础设施转化为可感知的节奏。 https://brianhouse.net/
+- **Bruce Eesly** (1) — 视觉艺术家. 常驻柏林的艺术家（1984 年生），以摄影、影像、档案和生成式图像研究图像、分类系统和技术基础设施如何塑造我们所认定的现实；以虚构农业档案《New Farmer》知名。 https://eesly.xyz/
 - **Bruce Lacey** (1) — 艺术家、表演者、机器人制作者. 英国艺术家（1927–2016），20 世纪 60 年代用废品做出无政府主义式的人形机器人和表演。
-- **Bruno Moreschi** (1) — 艺术家、研究者. 巴西艺术家兼研究者，质疑艺术机构及其分类体系，包括计算机视觉。 https://brunomoreschi.com
 - **Bureau of Inverse Technology (BIT)** (1) — 艺术工程团体. 1990 年代初成立的匿名“信息机构”，成员包括 Natalie Jeremijenko 与 Kate Rich，制作用来监视监视者的装置。 https://bureauit.org
 - **Byron Reeves** (1) — 斯坦福大学传播学教授. 传播学者，研究从电视到游戏与屏幕使用的媒介心理学。
 - **Cap_able** (1) — 时尚科技初创公司（Rachele Didero、Federica Busani）. 由 Rachele Didero 与 Federica Busani 创立的意大利初创公司，生产带有对抗图案、可干扰 AI 人体与人脸检测的针织服装；构想始于 2019 年的纽约。 https://www.capable.design
 - **Catherine D'Ignazio** (1) — 麻省理工学院城市科学与规划副教授，Data + Feminism Lab 主任. 学者、艺术家与软件开发者，研究女性主义数据实践与反数据。
+- **Cathy Mengying Fang** (1) — 麻省理工学院媒体实验室（Fluid Interfaces 组）研究生研究员. 麻省理工学院媒体实验室研究者，研究人机智能交互，以及对话式 AI 如何影响人的身心状态。 https://www.media.mit.edu/people/catfang/overview/
 - **Catie Cuan** (1) — 舞者、编舞家、机器人学家. 拥有斯坦福大学机械工程博士学位的编舞家，与工业机器人和社交机器人合作。 https://www.catiecuan.com/
 - **Cesar & Lois (Cesar Baio, Lucy HG Solomon)** (1) — 艺术团体. 由 Cesar Baio 与 Lucy HG Solomon（The League of Imaginary Scientists）组成的团体，把微生物、网络与 AI 耦合成“生物—数字混合”系统。
+- **Change the Ref** (1) — 防止枪支暴力的非营利组织（Manuel 与 Patricia Oliver）. 美国非营利组织，由 Manuel 与 Patricia Oliver 在儿子 Joaquin 于 2018 年帕克兰校园枪击案中遇害后创立，以艺术和媒体行动推动枪支改革。 https://theshotline.org/
 - **Charlie Brooker** (1) — 编剧、《黑镜》主创. 英国讽刺作家和编剧，创作了单元剧《黑镜》（2011–）。 https://en.wikipedia.org/wiki/Charlie_Brooker
 - **Chris Olah** (1) — Anthropic 可解释性研究者；Distill 联合创办人. 研究者，以直观、交互式地解释神经网络表征而闻名。 https://colah.github.io/
 - **Chris Sanders** (1) — 动画导演. 美国动画师与导演，作品有《星际宝贝》《驯龙高手》和《荒野机器人》。 https://en.wikipedia.org/wiki/Chris_Sanders
@@ -9107,9 +10330,9 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Christian Moeller** (1) — 媒体艺术家；加州大学洛杉矶分校设计媒体艺术系教授. 德国出生的媒体艺术家，用传感器、摄像头和机器人制作互动装置与公共艺术。 https://christianmoeller.com
 - **Christopher Kulendran Thomas** (1) — 艺术家. 泰米尔裔英国艺术家，常与 Annika Kuhlmann 合作，以 AI 与机器学习系统制作装置，探讨图像如何书写历史与政治。
 - **Ciarán Cassidy** (1) — 纪录片导演. 爱尔兰纪录片导演。 https://fieldofvision.org/shorts/the-moderators
+- **Clara Colombatto** (1) — 滑铁卢大学心理学系助理教授. 认知科学家（耶鲁大学博士），研究社会认知、元认知，以及人们如何把“心智”归于他者，包括 AI。 https://uwaterloo.ca/psychology/people-profiles/clara-colombatto
 - **Claus Emmeche** (1) — 生物符号学家，哥本哈根大学. 丹麦理论生物学家，研究生物符号学、人工生命与涌现。
 - **Clement Valla** (1) — 艺术家；任教于罗德岛设计学院. 法裔美国艺术家，研究由自动化系统和软件生成的图像与物件。 https://www.clementvalla.com
-- **Coding Rights** (1) — 女性主义数字权利组织（由 Joana Varon 创立）. 巴西女性主导的组织，从跨女性主义和全球南方视角研究数据、监控与技术。 https://codingrights.org/
 - **Coralie Vogelaar** (1) — 视觉艺术家. Coralie Vogelaar 是荷兰视觉艺术家，结合情绪识别软件、生物反馈与编舞，研究机器如何解码身体。 https://www.coralievogelaar.com
 - **Cornell Creative Machines Lab** (1) — 由 Hod Lipson 领导的机器人实验室（现在哥伦比亚大学）. 研究具有自我意识、自我复制与创造性的机器的实验室。 https://www.creativemachineslab.com/
 - **Craig Reynolds** (1) — 计算机图形研究者. 美国计算机科学家（1953 年生），1986–87 年创造了 Boids 群聚模型。 https://www.red3d.com/cwr/
@@ -9133,6 +10356,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Domestic Data Streamers** (1) — 艺术与设计工作室. 2013 年成立于巴塞罗那的工作室，围绕数据、记忆和公共生活做参与式装置与研究。 https://www.domesticstreamers.com/
 - **Don Ihde** (1) — 技术哲学家，纽约州立大学石溪分校荣休杰出教授. 美国哲学家，后现象学的创立者，研究技术如何塑造人的感知与行动。
 - **Donna Haraway** (1) — 加州大学圣克鲁兹分校意识史系杰出荣休教授. 女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。
+- **Drew Hancock** (1) — 编剧、导演. 美国电视编剧与导演，首部长片《伴侣》（Companion，2025）是一部关于租来的陪伴机器人的惊悚片。 https://en.wikipedia.org/wiki/Companion_(film)
 - **Driessens & Verstappen** (1) — 艺术家二人组（Erwin Driessens 与 Maria Verstappen）. 荷兰二人组，自 1990 年起用生成系统、人工生命和机器人创造形态与感受。
 - **Ei Wada** (1) — 艺术家、音乐人；Electronicos Fantasticos! 发起人. 把显像管电视、电风扇、条码扫描器等淘汰家电改造成乐器，由社区乐团演奏。 https://www.electronicosfantasticos.com/en/
 - **Electric Circus** (1) — 机器人街头剧团（Mirjam Langemeijer 与 Fred Abels）. 木偶师 Mirjam Langemeijer 与发明家 Fred Abels 的合作，把电子动画技术与木偶戏结合成逼真的机器人街头角色。 http://www.electric-circus.eu
@@ -9140,7 +10364,6 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Emily M. Bender** (1) — 华盛顿大学语言学教授. 计算语言学家，主持华盛顿大学计算语言学实验室，合著《The AI Con》（2025）。
 - **Engineered Arts** (1) — 人形机器人公司. 由 Will Jackson 创立的英国公司，制作 RoboThespian、Ameca 等娱乐用人形机器人。 https://www.engineeredarts.co.uk/
 - **Eric Paulos** (1) — 加州大学伯克利分校电子工程与计算机科学系教授；Hybrid Ecologies Lab 主任. 人机交互研究者，1990 年代制作早期远程在场机器人，后来投身批判性制作。 https://www.paulos.net/
-- **Esther Hovers** (1) — 艺术家、摄影师. 荷兰艺术家，以摄影和装置研究公共空间中的监控、权力与“正常行为”规范。 https://www.estherhovers.com
 - **Eszter Zwickl** (1) — 设计师. 来自维也纳应用艺术大学 Design Investigations 专业的设计师。
 - **Etsuko Ichihara** (1) — 媒体艺术家. 日本媒体艺术家，把民俗仪式与习俗同机器人、VR、人脸识别等技术结合。 https://etsuko-ichihara.com
 - **Everest Pipkin** (1) — 艺术家、游戏设计师、写作者. Everest Pipkin 创作游戏、软件、绘画，并把数据集本身当作作品，长期书写机器学习语料的伦理问题。 https://everest-pipkin.com
@@ -9153,17 +10376,19 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Frank Lantz** (1) — 游戏设计师；纽约大学游戏中心创始主任. 美国游戏设计师，研究游戏作为一种审美形式。 https://www.decisionproblem.com/paperclips/
 - **François Pachet** (1) — AI 与音乐研究者；索尼计算机科学实验室巴黎分部前主任. 法国计算机科学家，开发会学习风格的互动音乐系统。 https://www.francoispachet.fr/
 - **Frieder Weiss** (1) — 媒体艺术家、软件开发者（Kalypso）. 为舞蹈编写实时摄像追踪软件的德国工程师兼艺术家。
+- **Friedrich Kittler** (1) — 媒介理论家（1943–2011）. 德国文学学者与媒介理论家，柏林洪堡大学美学与媒介史教授，《话语网络 1800/1900》与《留声机 电影 打字机》奠定了德国媒介理论。
 - **Fritz Heider** (1) — 心理学家（1896–1988）. 奥地利出生的社会心理学家，先后任教于史密斯学院与堪萨斯大学，归因理论的奠基者。
+- **Frode Oldereid & Thomas Kvam** (1) — 艺术家二人组；机器人影像与声音装置. 挪威艺术家二人组，自 1990 年代起合作创作机器人、影像与声音装置，把工业液压、投影和表演结合在一起。 https://oldereid-kvam.com/
 - **Future of Life Institute / Stop Autonomous Weapons** (1) — 关注技术生存风险的非营利组织. 非营利组织，与 Stuart Russell 等 AI 研究者一道推动禁止致命性自主武器。 https://futureoflife.org/
 - **Félix Luque Sánchez** (1) — 艺术家. 常驻布鲁塞尔的西班牙艺术家，以机器人与算法装置探讨混沌、控制与机器自主性。
 - **GROOVE X** (1) — 机器人公司，LOVOT 制造商. 林要于 2015 年创立的公司，制造只为“被爱”而设计的机器人 LOVOT。 https://lovot.life/en/
-- **Gabriel Pereira** (1) — 研究者. 巴西研究者，研究计算机视觉与批判性数据实践。
 - **Gabriele Trovato** (1) — 机器人学者；日本芝浦工业大学副教授. 意大利机器人学者，研究文化、宗教与机器人设计；他制作了外形像天主教圣像的机器人 SanTO。
 - **Gan Golan** (1) — 艺术家. 美国艺术家，创作公共介入行动与可穿戴雕塑。
 - **Garnet Hertz** (1) — 艺术家、设计研究者；Emily Carr 大学设计与媒体艺术加拿大研究讲席. 加拿大艺术家与研究者，以批判性制作、DIY 电子，以及他在 UC Irvine 读研时做的蟑螂驾驶机器人而知名。 http://www.conceptlab.com/
 - **Gaëtan Robillard** (1) — 艺术家、研究者. 法国艺术家，以计算、数据与声音探讨算法如何建模知识，题材从气候谣言到认知。
 - **Geocinema** (1) — 艺术团体. 由 Asia Bazdyrieva 与 Solveig Suess 创立（早期项目有 Alexey Orlov 参与）的团体，把行星级传感网络视为一台分布式摄像机。 https://geocinema.network
 - **George E. Lewis** (1) — 作曲家、长号手、学者；哥伦比亚大学教授. 美国作曲家、AACM 成员，自 1970 年代末创作互动计算机音乐。 https://music.columbia.edu/bios/george-e-lewis
+- **Geumhyung Jeong** (1) — 编舞家、艺术家. 韩国艺术家（1980 年生于首尔），编舞出身，与自制遥控机器人、假人部件、健身器械和医用模型一起表演；她的机器人曾在 2022 年威尼斯双年展“梦之乳”中展出。
 - **Giacomo Miceli** (1) — 艺术家、软件工程师. 意大利艺术家与工程师，用合成声音和生成文本制作网络作品。 https://www.infiniteconversation.com/
 - **Gideon Obarzanek** (1) — 编舞家；Chunky Move 舞团创始人. 澳大利亚编舞家，1995 年创立 Chunky Move，与 Frieder Weiss 合作创作互动影像舞蹈。 https://chunkymove.com.au/
 - **Gilbert Simondon** (1) — 哲学家（1924–1989）. 法国哲学家，研究个体化与技术；1958 年的博士论文描述了技术物如何演化，并与人共同构成环境。
@@ -9174,6 +10399,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Google DeepMind** (1) — 人工智能研究实验室. 2010 年在伦敦成立、2014 年被谷歌收购的人工智能实验室，AlphaGo 的开发者。 https://deepmind.google/
 - **Gordon Pask** (1) — 控制论学者、发明家、会话理论提出者. 英国控制论学者（1928–1996），做过会学习、会“对话”的机器，从 Musicolour（1953）到 Colloquy of Mobiles（1968）。
 - **Graham Dove** (1) — 人机交互研究者. 英国人机交互研究者，研究如何用数据与机器学习做设计。 https://doi.org/10.1145/3025453.3025739
+- **Hagit Keysar** (1) — 研究者、行动者；比撒列艺术与设计学院高级讲师. 常驻耶路撒冷的研究者和行动者，研究在冲突地区由社区自制的开源航拍（风筝、气球、自制无人机）的政治用途。 https://cargocollective.com/hagitkeysar
 - **Halsey Burgund** (1) — 声音艺术家、技术专家. 美国声音艺术家，利用位置与语音技术制作参与式声音作品。 https://halseyburgund.com/
 - **Hans Block** (1) — 导演、剧场创作者. 德国导演，与 Moritz Riesewieck 合作创作关于数字权力的电影和戏剧。 https://en.wikipedia.org/wiki/The_Cleaners_(2018_film)
 - **Hans Block & Moritz Riesewieck** (1) — 纪录片导演（Laokoon）. 德国导演二人组，作品有关于内容审核员的《网络清道夫》（2018）和关于数字来世产业的《Eternal You》（2024）。 https://en.wikipedia.org/wiki/Eternal_You
@@ -9183,19 +10409,24 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Hasan Elahi** (1) — 艺术家，乔治梅森大学教授. 孟加拉裔美国艺术家，在被误列入美国恐怖分子观察名单后开始追踪并公开自己的生活。 https://en.wikipedia.org/wiki/Hasan_Elahi
 - **Heather Knight** (1) — 机器人学家；俄勒冈州立大学助理教授（CHARISMA 实验室）. 社交机器人学家，创立 Marilyn Monrobot，借剧场与喜剧研究机器人的表现力。 https://www.marilynmonrobot.com/
 - **Helena Nikonole** (1) — 艺术家、策展人. Helena Nikonole 是新媒体艺术家，创作涉及人工智能、生物艺术和 DIY 生物技术。 https://nikonole.com/
+- **Hisashi Ishihara** (1) — 机器人研究者，大阪大学. 日本机器人研究者，设计以气动驱动的柔软仿真人面孔与身体，包括儿童仿真机器人 Affetto。
+- **Hsu Chia-Wei** (1) — 艺术家、导演、策展人. 台湾艺术家（1983 年生于台中），其影像与装置挖掘图像背后的政治与工业史，从冷战遗址一直到数字技术的物质材料；2024 年获 Eye 艺术与电影奖。
 - **Huang Yi** (1) — 编舞家、舞者、发明者. 台湾编舞家，亲自为工业机器人编程，创立黄翊工作室＋。 https://huangyistudio.com/
 - **Hubert Dreyfus** (1) — 哲学家，加州大学伯克利分校教授（1929–2017）. 美国哲学家，借用海德格尔与梅洛-庞蒂论证：符号主义 AI 无法捕捉具身的、情境中的实践知识。
 - **Hugh Herr** (1) — 生物物理学家；MIT 媒体实验室生物机电组负责人. 攀岩者和工程师，1982 年失去双腿小腿，现设计带动力的仿生肢体。 https://www.media.mit.edu/people/hherr/overview/
 - **Human Computer Integration Lab (University of Chicago)** (1) — 由 Pedro Lopes 领导的人机交互实验室. 研究把计算机与身体整合的设备的实验室，从肌肉电刺激到可穿戴干扰器。 https://lab.plopes.org/
 - **Humanising Autonomy (Maya Pindeus, Leslie Nooteboom, Raunaq Bose, Adam Bernstein)** (1) — 英国皇家艺术学院与帝国理工创新设计工程专业的设计团队，后成立为伦敦初创公司. 四位研究生设计师，先做出行人与自动驾驶汽车之间双向沟通的界面 Blink，随后以行人行为 AI 为方向创办公司。
+- **Hyphen-Labs** (1) — 设计与艺术工作室，由 Ece Tankal 与 Carmen Aguilar y Wedge 主持. 建筑师 Ece Tankal 与工程师 Carmen Aguilar y Wedge 在巴塞罗那 IaaC 相识后于 2015 年创立的工作室，横跨建筑、VR、产品设计与装置。 https://hyphen-labs.com/
 - **Ian Bogost** (1) — 游戏设计师、哲学家，圣路易斯华盛顿大学教授. 美国游戏设计师与物导向哲学家，著有《Persuasive Games》（2007）和《Alien Phenomenology》（2012）。
 - **Intuition Robotics** (1) — 陪伴机器人 ElliQ 的制造公司. 2016 年成立的以色列公司，为老年人开发会主动搭话的 AI 陪伴设备；ElliQ 与 Yves Béhar 的 fuseproject 合作设计。 https://elliq.com
 - **Iohanna Nicenboim** (1) — 代尔夫特理工大学设计师与研究者，研究超越人类设计与人工智能. 设计研究者，把语音助手和 AI 看作超越人类的行动者，并设计与它们的情境化对话。 https://iohanna.com/
 - **Iris Long** (1) — 艺术家、策展人、研究者. 中国艺术家与策展人，关注数据、机器感知与算法政治。
 - **Isa Willinger** (1) — 纪录片导演、作者. 德国纪录片导演（1980 年生）。处女作《Hi, AI》（2019）获马克斯·奥菲尔斯电影节最佳纪录片奖。 https://en.wikipedia.org/wiki/Isa_Willinger
+- **Isao Echizen** (1) — 日本国立情报学研究所（NII）教授. 日本计算机科学家，研究多媒体安全、隐私保护与深度伪造检测。 https://research.nii.ac.jp/~iechizen/official/index-e.html
 - **Ivan Henriques** (1) — 艺术家. 巴西艺术家，制作把植物、微生物与机器人连接起来的混合机器。
+- **Iyo Bisseck** (1) — 媒体艺术家、交互设计师、程序员；维也纳美术学院博士候选人. 法国-喀麦隆媒体艺术家与程序员，以游戏、装置和网络平台考察档案、计算机视觉中的偏见，以及数字媒介中延续的殖民结构；活跃于 Dreaming Beyond AI 等集体。 https://iyo.io/
 - **J. C. R. Licklider** (1) — 心理学家、计算机科学家（1915–1990）. 麻省理工学院与 BBN 的心理声学家，任美国高级研究计划署信息处理技术办公室主任时资助了交互式计算，以及后来通向互联网的网络研究。
-- **Jack Burnham** (1) — 艺术评论家、理论家（1931–2019）. 美国评论家、西北大学教授，写有《Systems Esthetics》（Artforum，1968），并策划展览 Software（犹太博物馆，1970）。
+- **Jaap Blonk** (1) — 声音诗人、作曲家、人声表演者. 荷兰声音诗人与即兴人声表演者，自 1980 年代起以演绎达达声音诗和自创的人声语言闻名。 http://www.jaapblonk.com/
 - **Jacques de Vaucanson** (1) — 发明家、自动机制作者. 法国发明家（1709–1782），造过逼真的自动机，也发明了自动织布机。
 - **Jaha Koo** (1) — 剧场创作者、作曲家与录像艺术家. 韩国剧场创作者，其纪实表演结合音乐、影像、自传与技术物件。 https://en.wikipedia.org/wiki/Jaha_Koo
 - **Jake Schreier** (1) — 电影导演. 美国音乐录影带和电影导演，《机器人与弗兰克》（2012）是他的首部长片。 https://en.wikipedia.org/wiki/Jake_Schreier
@@ -9205,6 +10436,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Jasia Reichardt** (1) — 策展人、作家，伦敦当代艺术学院前副馆长. 波兰出生的英国策展人，策划“控制论的偶然”（ICA，1968），著有《Robots: Fact, Fiction and Prediction》（1978）。
 - **Jason Rohrer** (1) — 游戏设计师、程序员. 美国独立游戏设计师，以《Passage》（2007）、《The Castle Doctrine》等艺术游戏和聊天服务 Project December 闻名。 https://projectdecember.net/
 - **Jed Berk** (1) — 艺术家、设计师. 美国艺术家，以“自主轻型飞艇”（ALAVs）闻名：会成群飞行、避开障碍、寻找同伴的小型飞艇机器人。
+- **Jed R. Brubaker** (1) — 科罗拉多大学博尔德分校信息科学系副教授. 研究身份、死亡与技术，十余年来关注人死后其数据和社交媒体账号的去向，曾与 Facebook 合作研究纪念账号。 https://www.colorado.edu/cmci/people/information-science/jed-brubaker
 - **Jeff Sebo** (1) — 哲学家；纽约大学心灵、伦理与政策中心主任. 美国哲学家，研究动物与 AI 伦理以及非人类心智的道德地位。 https://jeffsebo.net/
 - **Jem Finer** (1) — 音乐人、艺术家. 英国音乐人（The Pogues 创始成员）与艺术家，以超长时长和深时间为创作主题。 https://longplayer.org/
 - **Jemima Wyman** (1) — 艺术家. 澳大利亚艺术家，以绘画、织物和影像研究伪装、面具与集体抗议图像。 https://www.jemimawyman.com/
@@ -9225,14 +10457,16 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Jon Rafman** (1) — 艺术家、影像创作者. 加拿大艺术家，以录像、装置和网络上的现成图像进行创作。 https://jonrafman.com
 - **Jonas Simmerlein** (1) — 神学家、哲学家，维也纳大学. 维也纳大学神学家、讲道学讲师；他为 2023 年德国新教教会大会设计了一场大部分由 ChatGPT 撰写的礼拜。
 - **Jonas Voigt** (1) — 设计师. 德国设计师，与 Stephan Bogner、Philipp Schmitt 合作 Raising Robotic Natives。
+- **Jonathan Chaim Reus** (1) — 艺术家、音乐人；声音、乐器与 AI. 美籍荷兰艺术家与音乐人，制作实验乐器，用声音数据和机器学习创作，曾在冰岛 Intelligent Instruments Lab 开发实时 AI 声音乐器 Tungnaá。 https://jonathanreus.com/
+- **Jonathan Nolan & Lisa Joy** (1) — 编剧、制片人与剧集主创（Kilter Films）. 一对编剧与制片搭档，创作并主理 HBO 剧集《西部世界》（2016–2022）；诺兰此前还创作了关于监控 AI 的剧集《疑犯追踪》（2011–2016）。
 - **Joon Sung Park** (1) — 斯坦福 HCI 小组计算机科学家. HCI 研究者，领导了用大语言模型模拟人类行为的“生成式智能体”项目。 https://www.joonsungpark.com/
 - **Joseph Sargent** (1) — 电影与电视导演（1925–2014）. 美国电影和电视导演，作品包括《巨人：福宾计划》。 https://en.wikipedia.org/wiki/Joseph_Sargent
+- **Joseph Wilk** (1) — 艺术家、程序员. 出生于伦敦的残障艺术家与程序员，通过现场编程、表演和游戏，用数字探索残障，也用残障探索数字。 https://art.josephwilk.net/
 - **Josh Begley** (1) — 艺术家、电影人. 美国数据艺术家与电影人，作品记录美国的无人机空袭、监狱与警务。 https://joshbegley.com/
 - **Jules LaPlace** (1) — 艺术家、软件开发者. 艺术家、程序员，与 Adam Harvey 合作开发了 MegaPixels 与 Exposing.ai 的网站和搜索引擎。
 - **Julia Vollmer** (1) — 艺术家、设计师. 德国艺术家与设计师，用材料装置让数字系统的物理与能源代价变得可感。 https://juliavollmer.de
 - **Julian Charrière** (1) — 艺术家. 瑞士裔法国艺术家，以雕塑、电影和考察处理地质、开采与深时间。 https://julian-charriere.net/
 - **Julie Carpenter** (1) — 人机交互研究者. 美国研究者，研究人如何对机器人和 AI 产生依恋，起点是她 2013 年在华盛顿大学对排爆部队的研究。 https://jgcarpenter.com/
-- **Julien Prévieux** (1) — 艺术家；2014 年马塞尔·杜尚奖得主. Julien Prévieux 是法国艺术家，以影像、表演与绘画研究身体与姿势如何被技术系统测量、申请专利与优化。 https://www.previeux.net
 - **Julius Popp** (1) — 艺术家. 德国艺术家（1973 年生），创作关于信息与自组织的机器，最知名的是 bit.fall。
 - **Justine Emard** (1) — 结合神经科学、机器人和机器学习的视觉艺术家. 法国艺术家，结合摄影、影像、机器人和人工智能；作品数据来自蜜蜂、大脑和仿人机器人。 https://justineemard.com
 - **K Allado-McDowell** (1) — 作家、音乐人；谷歌 Artists + Machine Intelligence 项目创办人. 作家与艺术家，与大语言模型合写了数本书，并主持过谷歌的 Artists + Machine Intelligence 项目。 https://www.kalladomcdowell.com/
@@ -9240,15 +10474,20 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Kai-Fu Lee** (1) — 计算机科学家、投资人；创新工场创始人. 生于台湾的计算机科学家，曾任谷歌中国总裁，著有《AI 新世界》。
 - **KairUs** (1) — 艺术家组合（Linda Kronman 与 Andreas Zingerle）. 研究监控、智慧城市与机器视觉背后隐藏劳动的艺术家组合。 https://kairus.org
 - **Karel Čapek** (1) — 作家、剧作家（1890–1938）. 捷克作家，他的剧本 R.U.R. 让“robot”（机器人）一词进入世界语言，这个词由他的哥哥 Josef 提议。 https://en.wikipedia.org/wiki/Karel_%C4%8Capek
+- **Karen Hao** (1) — 记者，曾任《麻省理工科技评论》AI 高级编辑. 调查记者，曾为《麻省理工科技评论》《华尔街日报》和《大西洋月刊》报道 AI，关注 OpenAI、数据劳动与 AI 的环境代价。 https://karendhao.com/
 - **Karolina Sobecka** (1) — 艺术家. 出生于波兰的艺术家，创作涉及互动、动画与环境系统。
 - **Katarzyna Nowaczyk-Basińska** (1) — 剑桥大学未来智能研究中心研究员. 研究数字永生，以及围绕死亡与技术的文化实践。 https://www.lcfi.ac.uk/
+- **Kate Bertash** (1) — 技术专家、艺术家、隐私权组织者. 美国技术专家，工作横跨技术、隐私、艺术与社会组织，负责一个为自主与民主运动组织提供数字安全支持的基金。 https://katebertash.com/
 - **Kathleen Richardson** (1) — 德蒙福特大学机器人与 AI 伦理与文化教授. 英国机器人人类学学者，2015 年发起“反对性爱机器人运动”。 https://campaignagainstsexrobots.org/
 - **Katja Novitskova** (1) — 艺术家. 爱沙尼亚艺术家，作品关注技术、成像与生物学如何呈现生命；2017 年代表爱沙尼亚参加威尼斯双年展。 https://www.katjanovitskova.com
 - **Kazuhiko Hachiya** (1) — 艺术家；东京艺术大学教授. 媒体艺术家，代表作包括《Inter Dis-Communication Machine》、电子邮件宠物软件 PostPet 和 OpenSky 滑翔机计划。 https://www.ntticc.or.jp/en/archive/works/inter-dis-communication-machine/
+- **Kazuo Ishiguro** (1) — 小说家，2017 年诺贝尔文学奖得主. 英国小说家，1954 年生于长崎，著有《长日将尽》《别让我走》，2017 年获诺贝尔文学奖。
 - **Keiichi Matsuda** (1) — 设计师、电影人. 英日混血的设计师与电影人，其影片想象被增强现实全面覆盖的城市。 http://km.cx
 - **Kelly Heaton** (1) — 艺术家. 美国艺术家，曾用拆开的电子玩具做成毛皮，后来创作“电子自然主义”电路作品。
 - **Kenneth Colby** (1) — 精神科医生、AI 研究者，斯坦福大学与加州大学洛杉矶分校（1920–2001）. 美国精神科医生，用计算机模拟神经症与偏执，写出了聊天机器人 PARRY。 https://en.wikipedia.org/wiki/Kenneth_Colby
+- **Kerstin Dautenhahn** (1) — 机器人学家，滑铁卢大学教授、加拿大 150 智能机器人研究讲席. 德国出生的社交机器人研究者，曾领导赫特福德大学自适应系统研究组，KASPAR 机器人自 2005 年起在那里开发；之后转往滑铁卢大学。
 - **Kevin Eykholt** (1) — 计算机安全研究者（密歇根大学博士）. 安全研究者，在密歇根大学期间作为第一作者发表了用贴纸让分类器误读停车标志的研究。
+- **Kevin Roose** (1) — 《纽约时报》科技专栏作家. 美国记者，为《纽约时报》撰写科技报道，并主持播客 Hard Fork；著有《未来防御》（Futureproof，2021）。
 - **Kevin Warwick** (1) — 控制论研究者；考文垂大学与雷丁大学荣休教授. 英国工程师，先后植入 RFID 芯片（1998）和神经电极阵列（2002），把自己的神经系统接入计算机。 https://en.wikipedia.org/wiki/Kevin_Warwick
 - **Kim Jee-woon** (1) — 电影导演、编剧. 韩国类型片导演，作品包括《蔷花，红莲》《看见恶魔》。 https://en.wikipedia.org/wiki/Kim_Jee-woon
 - **Kim Tae-yong** (1) — 电影导演. 韩国导演，作品有《晚秋》《奇迹乐园》。 https://en.wikipedia.org/wiki/Kim_Tae-yong
@@ -9263,9 +10502,10 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **L.A. Raeven** (1) — 艺术家二人组（双胞胎姐妹 Liesbeth 与 Angelique Raeven）. 荷兰双胞胎姐妹，其装置与表演审视身体规范、相似性与身份。
 - **Laetitia Sonami** (1) — 声音艺术家、作曲家. 生于法国的作曲家，以戴着 Lady's Glove 表演电子音乐著称，后来又使用机器学习乐器。 https://sonami.net/
 - **Lancel & Maat** (1) — 艺术家组合（Karen Lancel 与 Hermen Maat）. 荷兰艺术家组合，以参与式装置探讨网络化与被监控空间中的触碰、信任与在场。 https://lancelmaat.nl
+- **Lau Wai** (1) — 跨领域艺术家（CGI 动画、游戏）. 香港艺术家，以 CGI 影片、游戏和互动作品探讨数字分身；曾参加纽约 Artists Alliance Inc. 的 LES Studio Program（2022–23）。 https://w-a-i-studio.com/
 - **Laura Kikauka** (1) — 艺术家、动态环境创作者. 加拿大艺术家，以堆满旧电子物件、充满幽默的环境装置和她的 Funny Farm 工作室闻名。
+- **Laura Poitras** (1) — 纪录片导演、艺术家. 美国纪录片导演与制片人；《第四公民》获 2015 年奥斯卡最佳纪录长片，Poitras 参与的 NSA 报道是 2014 年普利策公共服务奖获奖报道的一部分。 https://en.wikipedia.org/wiki/Laura_Poitras
 - **Lauren F. Klein** (1) — 埃默里大学英语与定量理论方法教授. 数字人文学者，研究数据可视化、早期美国文学与女性主义数据科学。
-- **Laurie Anderson** (1) — 艺术家、音乐人、表演者. 美国艺术家，自 1970 年代起以变声器、电子乐器与多媒体表演闻名。 https://laurieanderson.com/
 - **Leandro Núñez** (1) — 艺术家（Leo Núñez）. 阿根廷艺术家，创作涉及机器人、人工生命与生成系统。 https://www.leonunez.com.ar/
 - **Lee Bul** (1) — 艺术家. 韩国艺术家，横跨表演、雕塑与装置，关注技术、性别、乌托邦与身体。 https://en.wikipedia.org/wiki/Lee_Bul
 - **Leo Selvaggio** (1) — 跨领域艺术家. 常驻芝加哥的跨领域艺术家（Leonardo Selvaggio），他关于监控的项目邀请公众佩戴、扮演或“黑入”他的身份。 https://www.leoselvaggio.com
@@ -9287,6 +10527,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **M. Six Silberman** (1) — 平台劳动研究者. 美国研究者，Turkopticon 的共同创建者，后来与德国金属工会 IG Metall 合作研究平台劳动。 https://turkopticon.info/
 - **MBC (Munhwa Broadcasting Corporation)** (1) — 韩国公共广播机构. 韩国电视台，制作了 VR 纪录片系列《遇见你》（2020–）。 https://www.imbc.com/
 - **Mahmood Sharif** (1) — 计算机安全研究者；特拉维夫大学（卡内基梅隆大学博士）. 安全与机器学习研究者，在卡内基梅隆大学读博期间主导了用打印眼镜框欺骗人脸识别的研究。
+- **Malpractice (Chiara Kristler & Marcin Ratajczyk)** (1) — 艺术团体；维也纳应用艺术大学数字艺术专业学生. 由 Chiara Kristler 与 Marcin Ratajczyk 以及一组不断变化的 AI 搭档组成的波兰—奥地利—意大利团体，诞生于维也纳应用艺术大学 UBERMORGEN 的数字艺术课堂。 https://i-am-flynn.web.app/
 - **Mamoru Oshii** (1) — 电影导演. 动画电影《攻壳机动队》（1995）的导演，改编自士郎正宗的漫画。
 - **Manetta Berends** (1) — 设计师、研究者. 荷兰设计师与研究者，关注自由软件、出版与机器学习素养。
 - **Manu Luksch** (1) — 艺术家、电影人. 生于奥地利的艺术家与电影人，研究监控、数据权利与网络媒体。 https://manuluksch.com/
@@ -9305,15 +10546,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Marvin Minsky** (1) — 计算机科学家，麻省理工学院人工智能实验室联合创始人（1927–2016）. 人工智能先驱，1956 年达特茅斯研讨会的共同组织者，麻省理工学院人工智能实验室联合创始人，著有《心智社会》（1986）。
 - **Mary Flanagan** (1) — 艺术家、游戏设计师；达特茅斯学院教授. Mary Flanagan 创作软件艺术、装置与游戏，并主持达特茅斯学院的 Tiltfactor 游戏实验室。 http://maryflanagan.com
 - **Mary L. Gray** (1) — 微软研究院资深首席研究员，印第安纳大学教员. 媒介与劳动人类学家，2020 年麦克阿瑟学者，研究按需平台劳动。
+- **Masahiko Inami** (1) — 东京大学先端科学技术研究中心教授；JST ERATO 稻见自在化身体项目负责人. 日本工程师，以“光学迷彩”和增强人类研究知名，现研究身体如何被自由延展、共享与重新映射。
 - **Masahiro Miwa** (1) — 作曲家；IAMAS 教授. 日本作曲家，以“逆模拟音乐”著称：由演奏者或机器把算法当作音乐规则来执行。
 - **Masakhane** (1) — 非洲语言自然语言处理的草根研究社区. 由非洲研究者组成的志愿网络，为非洲语言构建数据集和模型。 https://www.masakhane.io/
 - **Matt Donovan** (1) — 艺术家. 加拿大艺术家与工程师，与 Max Dean、Raffaello D'Andrea 共同开发 The Robotic Chair。
 - **Matt Richardson** (1) — 技术人员与创客；曾就读于纽约大学 ITP. Matt Richardson 是创意技术人员，写过 Raspberry Pi 与 Arduino 的书；Descriptive Camera 是他在纽约大学 ITP 读书时的作品。
 - **Matt Schlicht** (1) — 创业者. 美国创业者，2026 年 1 月推出面向 AI 智能体的论坛 Moltbook。 https://www.moltbook.com/
-- **Matteo Pasquinelli** (1) — 威尼斯大学（Ca' Foscari）科学哲学副教授. 意大利哲学家，主持欧洲研究理事会 AIMODELS 项目研究 AI 的历史；《The Eye of the Master》获 2024 年 Deutscher 纪念奖。
 - **Max Dean** (1) — 艺术家. Max Dean 是出生于英国的加拿大艺术家，以让观众卷入其中的互动与机器人作品著称。
-- **Max Dovey** (1) — 艺术家、研究者. 英国艺术家，其表演让人处在被机器学习系统分类或为之劳动的位置。 https://www.maxdovey.com
 - **Maywa Denki** (1) — 以虚构电器公司形式运作的艺术组合（土佐信道）. 土佐兄弟 1993 年创立的艺术组合，制作荒诞的音乐机器，并以公司“产品”的方式发布。 https://www.maywadenki.com/
+- **Meredith Ringel Morris** (1) — Google DeepMind 人机交互研究总监. 人机交互研究者，曾在微软研究院和 Google 研究无障碍、社会计算与人机智能交互；ACM Fellow，CHI Academy 成员。 https://en.wikipedia.org/wiki/Meredith_Ringel_Morris
 - **Merritt Moore** (1) — 芭蕾舞者、量子物理学家. 美国舞者，牛津大学原子与激光物理博士，编创与工业机械臂的双人舞。 https://www.merrittmoore.com/
 - **Michael Almereyda** (1) — 电影导演、编剧. 美国独立电影导演，2017 年把乔丹·哈里森的舞台剧《Marjorie Prime》改编成电影。 https://en.wikipedia.org/wiki/Michael_Almereyda
 - **Michael Eisen** (1) — 加州大学伯克利分校生物学家；开放科学倡导者. 美国计算生物学家，公共科学图书馆（PLOS）联合创办人。 https://www.michaeleisen.org/blog/
@@ -9326,7 +10567,10 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Michio Okada** (1) — 丰桥技术科学大学教授（ICD 实验室）. 认知科学家与机器人学家，提出“弱机器人”：需要人帮忙才能完成任务的机器人。
 - **Microsoft XiaoIce team** (1) — 微软（亚洲）互联网工程院社交聊天机器人团队，后独立为小冰公司. 2014 年在中国推出小冰的团队；小冰被设计成富有同理心的陪伴者，而非任务助手。
 - **Milagros Miceli** (1) — 社会学家、计算机科学家，DAIR 研究所与魏森鲍姆研究所. 阿根廷研究者，研究全球南方的数据标注员和内容审核员的工作。 https://www.weizenbaum-institut.de/en/
+- **Milo Talwani** (1) — 电影人、作曲家、创意技术人. 常驻洛杉矶的电影人、作曲家和创意技术人，曾任圣丹斯电影节 New Frontier 单元副选片人。
 - **Minne Atairu** (1) — 跨学科艺术家. 生于尼日利亚的艺术家，用生成式 AI 探讨 1897 年英军洗劫之后贝宁艺术档案的空缺。 https://minneatairu.com/
+- **Minoru Asada** (1) — 机器人学家，大阪大学. 日本机器人学家，开创“认知发展机器人学”，并共同发起 RoboCup。
+- **Minyoung Huh** (1) — 机器学习研究者，麻省理工学院计算机科学与人工智能实验室博士. 研究深度网络如何学习图像与语言的表征，在麻省理工学院与 Phillip Isola 合作。 https://minyoungg.github.io/me/
 - **Molleindustria** (1) — Paolo Pedercini 的独立游戏工作室. 意大利创立的工作室，制作关于劳动、战争与技术的短篇政治电子游戏。 https://www.molleindustria.org
 - **Monika Fleischmann** (1) — 媒体艺术家与研究者；ART+COM 联合创始人. 德国媒体艺术先驱，与 Wolfgang Strauss 合作了早期互动装置，并在 GMD／弗劳恩霍夫研究所主持 MARS 实验室。
 - **Moon Ribas** (1) — 赛博格艺术家、编舞家；Cyborg Foundation 联合创始人. 舞者，通过植入体内、连接在线地震数据的传感器感受全球地震。 https://www.moonribas.com/
@@ -9335,6 +10579,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Mushon Zer-Aviv** (1) — 设计师、研究者、媒体行动者. Mushon Zer-Aviv 是设计师、教育者和媒体行动者，关注数据、监控与算法偏见。 https://mushon.com
 - **Myron Krueger** (1) — 计算机艺术家、研究者. 美国计算机艺术家（生于 1942 年），1969 年起构建响应式环境，并提出“人工现实”一词。 https://en.wikipedia.org/wiki/Myron_W._Krueger
 - **NASA Jet Propulsion Laboratory** (1) — 美国宇航局喷气推进实验室. 美国宇航局负责行星机器人任务的研究中心，研制并操控了火星探测车“勇气号”和“机遇号”。 https://www.jpl.nasa.gov/
+- **Nadine Lessio** (1) — 新媒体艺术家、研究者. 加拿大艺术家与研究者，制作会“出毛病”的聊天机器人、游戏外设和联网家居设备，借此考察技术生态如何塑造日常生活。 https://www.nadinelessio.com/
 - **Nathaniel Rochester** (1) — 计算机工程师，IBM（1919–2001）. IBM 701（IBM 第一台商用科学计算机）的总设计师，也是最早在计算机上模拟神经网络的人之一。
 - **Nazli Cila** (1) — 代尔夫特理工大学助理教授. 研究人与智能体伙伴关系以及超越人类设计的设计研究者。 https://nazlicila.com/
 - **Near Future Laboratory** (1) — 设计虚构工作室（Julian Bleecker、Nick Foster、Fabien Girardin、Nicolas Nova）. 推广“设计虚构”的工作室，为平凡的近未来制作道具和文件。 https://nearfuturelaboratory.com/
@@ -9345,9 +10590,7 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Nicolas Schöffer** (1) — 艺术家，控制论艺术先驱. 匈牙利裔法国艺术家（1912–1992），20 世纪 50 年代起发展“空间动力”与控制论雕塑。
 - **Nissei Eco** (1) — 殡葬与塑料制品公司. 日本公司，2017 年让软银 Pepper 机器人在葬礼上诵读佛经。
 - **Nora Al-Badri** (1) — 跨学科艺术家. 德国-伊拉克艺术家，以“技术遗产”为题，质疑博物馆对非欧洲文物及其数据的占有。 https://www.nora-al-badri.de/
-- **Norbert Wiener** (1) — 数学家，控制论创始人（1894–1964）. 麻省理工学院数学家，1948 年为动物与机器中的控制与通信科学命名，之后持续警示自动化的社会后果。
 - **ORLAN** (1) — 以表演、外科手术、生物技术和机器人创作的艺术家. 法国艺术家，以 1990 年代的外科手术表演闻名，后来转向细胞培养、虚拟化身与机器人创作。 https://www.orlan.eu
-- **OpenAI** (1) — 人工智能研究公司. 2015 年成立的人工智能公司，开发了 GPT 模型与 ChatGPT。 https://openai.com/
 - **Ory Laboratory** (1) — 吉藤健太朗创办的机器人公司. OriHime 分身机器人的开发者，让无法出门的人（包括渐冻症患者）远程工作与“在场”。 https://dawn2021.orylab.com/en/
 - **Osamu Tezuka** (1) — 漫画家、动画家. 漫画家（1928–1989），创作了 1952 年开始连载的《铁臂阿童木》。
 - **Oscar Sharp** (1) — 电影导演. 英国导演，执导了由神经网络“Benjamin”编剧的影片。 https://en.wikipedia.org/wiki/Sunspring
@@ -9355,19 +10598,20 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Pablo Ventura** (1) — 编舞家；Ventura Dance Company 总监. 西班牙编舞家，自 2000 年前后与工业机器人、软件和机器表演者合作。 https://www.ventura-dance.com/
 - **Paola Torres Núñez del Prado** (1) — 艺术家. Paola Torres Núñez del Prado 是秘鲁艺术家，结合纺织、声音与技术，并借鉴安第斯知识体系。 https://www.singingtextiles.com
 - **Pat Metheny** (1) — 爵士吉他手、作曲家. 美国吉他手，曾带着一支由机械演奏的原声乐器乐队巡演。 https://www.patmetheny.com/
+- **Patrick Butlin** (1) — 哲学家，Eleos AI 高级研究负责人. 哲学家，伦敦国王学院博士，研究 AI 的意识、能动性与道德受动者地位；曾任职于牛津的人类未来研究所和全球优先事项研究所。
 - **Paul Sermon** (1) — 艺术家；布莱顿大学视觉传达教授. 英国艺术家，自 1991 年起创作远程通信装置，把异地的身体连接进共享的影像空间。 https://www.paulsermon.org/
 - **Paul Vanouse** (1) — 艺术家，纽约州立大学布法罗分校教授. 美国艺术家，运用生物技术质疑科学权威、身份与劳动。 https://www.paulvanouse.com/
 - **Paul Virilio** (1) — 文化理论家、城市学家（1932–2018）. 法国理论家，研究速度、战争与感知，著有《速度与政治》（1977）和《战争与电影》（1984）。
 - **Pedro Lopes** (1) — 芝加哥大学计算机科学副教授，人机融合实验室（Human Computer Integration Lab）负责人. Pedro Lopes 研究与使用者身体融为一体的设备，例如能驱动佩戴者肢体的肌肉电刺激。 https://plopes.org
 - **Pedro Oliveira** (1) — 声音艺术家、研究者；柏林艺术大学声音研究与声音艺术客座教师. 巴西声音艺术家与研究者（1985 年生于圣保罗），研究“听”如何塑造技术基础设施又被其塑造，关注声音与移民；Decolonising Design 创始成员之一。 https://oliveira.work/
 - **Peng! Collective** (1) — 行动主义艺术团体. 结合文化干扰、黑客行动与公民不服从的柏林团体。 https://pen.gg
+- **Peter Sillen** (1) — 纪录片导演. 美国纪录片导演与摄影师；《Love Machina》（2024）在圣丹斯电影节美国纪录片竞赛单元首映。 https://www.lovemachinamovie.com/
 - **Peter-Paul Verbeek** (1) — 技术哲学家，阿姆斯特丹大学校长. 荷兰哲学家，在《What Things Do》（2005）和《Moralizing Technology》（2011）中发展了技术中介理论。
 - **Peterskapelle Lucerne & HSLU Immersive Realities Research Lab** (1) — 天主教礼拜堂与大学研究实验室. 卢塞恩圣彼得礼拜堂与卢塞恩应用科学与艺术大学沉浸现实研究实验室，二者于 2024 年合作推出 AI 耶稣装置《Deus in Machina》。 https://www.peterskapelle.ch/
-- **Petra Gemeinboeck** (1) — 艺术家、人机动作研究者；斯威本科技大学. 奥地利裔澳大利亚艺术家，常与 Rob Saunders 合作，同舞者一起发展机器人的身体与动作。
 - **Phil D. Hall** (1) — 对话式 AI 设计师；I Am Echoborg 联合创作者. 聊天机器人设计师，编写 I Am Echoborg 背后的对话代理。 https://echoborg.com/
 - **Philip Beesley** (1) — 建筑师、艺术家；滑铁卢大学教授；Living Architecture Systems Group 负责人. Philip Beesley 建造沉浸式响应环境，让它们像“近乎活着”的系统一样运作。 https://www.philipbeesleystudioinc.com
 - **Philip van Allen** (1) — 艺术中心设计学院教授. 美国交互设计师，制作万物有灵式原型与面向 AI 设计的工具包。 https://www.philvanallen.com/
-- **Philippe Parreno** (1) — 艺术家. 法国艺术家，把展览编排成由传感器和计算机驱动的自动化、时间性的系统。 https://en.wikipedia.org/wiki/Philippe_Parreno
+- **Phillip Isola** (1) — 麻省理工学院电子工程与计算机科学系及计算机科学与人工智能实验室副教授. 计算机视觉与机器学习研究者，以 pix2pix 图像到图像转换以及神经网络如何表征世界的研究知名。 https://web.mit.edu/phillipi/
 - **Pierre Jaquet-Droz** (1) — 钟表匠、自动人偶制作者. 瑞士钟表匠（1721–1790），与儿子 Henri-Louis 及 Jean-Frédéric Leschot 一起造出了“书写者”“绘图者”和“音乐家”三个人偶。
 - **Piotr Mirowski** (1) — AI 研究者、即兴演员；Improbotics 联合创始人. 机器学习研究科学家，与 AI 系统一起表演即兴戏剧。 https://improbotics.org/
 - **Pipeline Theatre** (1) — 剧团. 英国剧团，与人形机器人公司 Engineered Arts 合作创作了 Spillikin。 https://www.pipelinetheatre.com/
@@ -9378,46 +10622,61 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Qian Yang** (1) — 康奈尔大学信息科学助理教授. 人机交互研究者，研究如何设计人与 AI 的交互，关注医疗领域。
 - **Quantic Dream** (1) — 电子游戏开发商. 法国游戏工作室，以《暴雨》《底特律：变人》等采用表演捕捉的互动剧情游戏闻名。 https://www.quanticdream.com/
 - **Rachel Ara** (1) — 观念与数据艺术家. 伦敦艺术家，做了 25 年计算机系统设计师后，开始创作关于价值、性别与科技的霓虹与数据雕塑。
+- **Rachel Szor** (1) — 电影人、摄影指导. 以色列电影人与摄影指导，《No Other Land》（2024）的四位联合导演之一，该片拍摄于约旦河西岸被占领的马萨费尔亚塔。
 - **Radamés Ajna** (1) — 艺术家、技术专家. 巴西艺术家与技术专家，使用电子、网络与机器学习。
 - **Radhika Nagpal** (1) — 计算机科学家；普林斯顿大学教授（曾任职哈佛）. 印度裔美国机器人学家，研究机器人群体与社会性昆虫的集体智能。
 - **Raffaello D'Andrea** (1) — 机器人学家；苏黎世联邦理工学院教授，Kiva Systems 联合创始人. 加拿大裔意大利工程师，以自主系统著称，从 Kiva 仓储机器人到飞行机器，并与 Max Dean 有艺术合作。
+- **Raphaël Dallaporta** (1) — 艺术家、摄影师. 法国艺术家、摄影师，以为反步兵地雷编制图录的《Antipersonnel》（2004）和用无人机航拍阿富汗考古遗址的《Ruins》（2011）知名。 https://www.raphaeldallaporta.com
 - **Rashaad Newsome** (1) — 艺术家. 美国艺术家，以拼贴、表演、影像和 AI 创作，取材于舞会文化、voguing 等黑人和酷儿文化。 https://rashaadnewsome.com/
 - **Rebecca Fiebrink** (1) — 伦敦艺术大学创意计算学院教授. 美国计算机科学家与音乐人，为艺术家开发交互式机器学习工具。 http://www.wekinator.org/
+- **Rejane Cantoni & Leonardo Crescenti** (1) — 艺术家二人组. 巴西艺术家二人组，创作大型交互装置，如《Infinito ao Cubo》《TUNNEL》《SOIL》，其中的地面、墙体和物件会回应观众的身体与声音。 https://www.cantoni-crescenti.com.br/
+- **Renwen Zhang** (1) — 南洋理工大学黄金辉传播与信息学院助理教授. 传播学与人机交互研究者，研究并设计促进人际联结与身心健康的技术，关注对话式 AI 与心理健康。 https://www.renwenzhang.com/
 - **Renwu magazine** (1) — 杂志（记者赖祐萱）. 中国人物特稿杂志，其 2020 年关于外卖骑手的调查报道成为当年阅读量最高的中文文章之一。
 - **Revital Cohen** (1) — 艺术家、设计师（Cohen Van Balen）. 生于以色列、在伦敦工作的艺术家，常与 Tuur Van Balen 合作，以医疗设备、动物与供应链为题材。 https://www.cohenvanbalen.com/
 - **Richard Mosse** (1) — 艺术家、摄影师. 爱尔兰艺术家，使用红外胶片、热成像相机等军事与科学成像技术记录冲突与迁徙。 https://www.richardmosse.com
 - **Ridley Scott** (1) — 电影导演. 英国导演，作品有《异形》《银翼杀手》。 https://en.wikipedia.org/wiki/Ridley_Scott
 - **Rik Lander** (1) — 艺术家、编剧；I Am Echoborg 联合创作者. 英国互动叙事创作者，创作关于 AI 的参与式作品。 https://echoborg.com/
 - **Rimini Protokoll** (1) — 剧场团体（Helgard Haug、Stefan Kaegi、Daniel Wetzel）. 德瑞剧场团体，以“日常生活专家”代替演员的纪录剧场闻名。 https://www.rimini-protokoll.de/
-- **Rob Saunders** (1) — 计算创造力研究者；莱顿大学. 英国计算创造力与“好奇智能体”研究者，Petra Gemeinboeck 的长期合作者。
 - **Robert Breer** (1) — 实验电影人、动态雕塑家. 美国实验电影人和雕塑家（1926–2011），20 世纪 60 年代中期起做出缓慢爬行的电动“漂浮物”。
-- **Robert Long** (1) — 哲学家；Eleos AI 执行主任. 研究 AI 意识、感受性与道德地位的哲学家。 https://eleosai.org/
+- **Robert Schnüll** (1) — 研究数字基础设施的艺术家；任教于博岑自由大学. 常驻柏林的艺术家，研究数字基础设施、技术批评与计算生态；曾在柏林艺术大学创办数字基础设施实验室（2020–2024）。 https://brute-force.it
 - **Robert Sparrow** (1) — 莫纳什大学哲学教授. 澳大利亚哲学家，研究机器人伦理、军事 AI、养老照护与人类增强。
 - **Robert Wood** (1) — 机器人学家；哈佛大学教授. 美国机器人学家，在哈佛工程与应用科学学院和 Wyss 研究所研究软体与微型机器人。
+- **Robert Zhao Renhui** (1) — 艺术家；“批判动物学家研究所”创立者. 新加坡艺术家（1983 年生），以摄影、影像与档案追问人如何观察、分类和管理自然。
 - **Rocio von Jungenfeld** (1) — 艺术家；肯特大学数字艺术讲师. 以特定场域互动装置、光与电子为媒介的艺术家。
+- **Rojava Center for Democratic Technologies** (1) — 由艺术家、机电工程师和文化评论者组成的团体. 由艺术家 Dani Ploeger 于 2022 年在卡米什利的罗贾瓦大学发起的松散团体，在叙利亚东北部工作，合作者遍及荷兰和德国。 https://error417.expectation.fail/13scoresagainsttechfascism/mij-the-fog/project
 - **Rolf Pfeifer** (1) — 苏黎世大学计算机科学荣休教授，人工智能实验室创始人. 瑞士机器人学家，主导具身人工智能研究，涉及形态计算以及柔软、顺应的机器人身体。
 - **Romi Ron Morrison** (1) — 艺术家、学者. 美国跨学科艺术家与学者，关注黑人地理、数据与监控。
 - **Rosa Menkman** (1) — 艺术家、理论家. 荷兰艺术家与理论家，研究故障、压缩与分辨率，著有《The Glitch Moment(um)》（2011）。 https://beyondresolution.info
 - **Ruairi Glynn** (1) — 建筑师、艺术家；伦敦大学学院巴特莱特建筑学院互动建筑实验室负责人. 出生于爱尔兰的机器人与响应式建筑设计者。 https://www.ruairiglynn.co.uk
 - **Ruben van de Ven** (1) — 艺术家、研究者. 荷兰艺术家兼研究者，考察情绪识别与算法观看的政治。 https://rubenvandeven.com
 - **Ruha Benjamin** (1) — 普林斯顿大学非裔美国人研究教授. 社会学家，创立 Ida B. Wells Just Data Lab，著有《Race After Technology》（2019）和《Viral Justice》（2022）。
+- **Ryan Greenblatt** (1) — Redwood Research 首席科学家. AI 安全研究者，任职于非营利机构 Redwood Research，研究 AI 控制以及如何发现 AI 模型中的欺骗行为。 https://www.redwoodresearch.org/
+- **Ryan White** (1) — 纪录片导演. 美国纪录片导演，作品包括《反对八号提案》（2014）、《守护者》（2017）和《晚安机遇号》（2022）。
+- **Ryat Yezbick** (1) — 视觉艺术家；亚利桑那州立大学叙事与新兴媒体项目教师. 视觉艺术家与作者，研究数字监控时代的身体、记忆与见证的政治；曾任麻省理工学院开放纪录片实验室和 Onassis ONX Studio 驻地研究员。 https://ryatyezbick.com
 - **SAND Lab (University of Chicago)** (1) — 由 Ben Zhao 与 Heather Zheng 领导的安全、算法与网络实验室. 为个人开发对抗机器学习的防御工具（如 Glaze 和 Nightshade）的研究实验室。 https://sandlab.cs.uchicago.edu/
 - **Safiya Umoja Noble** (1) — 加州大学洛杉矶分校性别研究、非裔美国人研究与信息研究教授. 互联网研究学者，2021 年麦克阿瑟学者，创立加州大学洛杉矶分校种族与数字正义中心。
 - **Sam Kriegman** (1) — 机器人学家；西北大学助理教授. 美国机器人学家，用演化算法设计身体；2020 年异种机器人论文的第一作者。
 - **Sam Lavigne** (1) — 艺术家、教育者. 美国艺术家，使用网页爬取、监控工具和机器学习，常常把它们反过来对准有权力的人。 https://lav.io/
+- **Sam and Andy Zuchero** (1) — 电影创作二人组. 美国编剧兼导演二人组，常被称为 the Zucheros；由克里斯汀·斯图尔特和史蒂文·元主演的《Love Me》（2024）是他们的首部长片。 https://en.wikipedia.org/wiki/Love_Me_(2024_American_film)
 - **Sarah Petkus** (1) — 艺术家、机器人制作者. Sarah Petkus 是美国艺术家、插画师和工程师，用轻金属、3D 打印件和现成物制作有性格的机器人。 https://www.youtube.com/GravityRoad
 - **Sašo Sedlaček** (1) — 艺术家. 斯洛文尼亚艺术家，用低技术机器与公共介入讨论废弃物、贫困与技术乐观主义。 https://sasosedlacek.com
 - **Scatter Lab** (1) — AI 聊天机器人初创公司. 韩国初创公司，开发了聊天机器人“李乐达”（Lee Luda，2020），其训练数据来自旗下恋爱咨询应用中的聊天记录。 https://www.scatterlab.co.kr/
+- **Serena Ge Guo** (1) — 威斯康星大学麦迪逊分校博士后研究员、讲师. 设计师与人–机器人交互研究者（2025 年获康奈尔大学博士学位，出自 Architectural Robotics Lab），设计帮助公共空间中陌生人建立联系的机器人和空间界面。 https://arl.human.cornell.edu/research-MirrorBot.html
 - **Shalini Kantayya** (1) — 纪录片导演，7th Empire Media 创始人. 美国纪录片导演，作品关注科学、技术与公民权利。 https://www.7thempire.com/
+- **Shannon Vallor** (1) — 爱丁堡大学数据与人工智能伦理 Baillie Gifford 讲席教授. 技术哲学家，研究德性伦理与 AI；著有 Technology and the Virtues（2016），并共同主持英国负责任 AI 项目 BRAID。 https://www.ed.ac.uk/profile/shannon-vallor
 - **Sherry Turkle** (1) — 麻省理工学院科学技术社会研究教授. 社会学家与临床心理学家，创立麻省理工学院“技术与自我”研究项目，著有《The Second Self》（1984）和《群体性孤独》（2011）。 https://sherryturkle.mit.edu
+- **Shin Hanagata** (1) — 艺术家（表演、媒体艺术）. 日本艺术家（1995 年生于东京），用可穿戴设备、义肢和生成式 AI 去“扭转”人的身体及其与世界的关系；曾参加东京都现代美术馆 MOT Annual 2023 与台北艺术节 2023。 https://www.shinhanagata.com/
 - **Shing Tat Chung** (1) — 艺术家、设计师. 英国艺术家、设计师，毕业于皇家艺术学院，关注技术系统中的信仰与非理性。
+- **Shoji Takeuchi** (1) — 东京大学生产技术研究所教授，生物混合系统实验室负责人. 工程师，在机器人骨架上培养肌肉组织和皮肤，从肌肉驱动的手指、行走机器人到覆盖活皮肤的机器人脸。 https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Shuya Abe** (1) — 电气工程师，白南准的技术合作者. 日本工程师（1932–2016），与白南准合作制作了《机器人 K-456》和白南准–阿部录像合成器。
 - **Siddharth Suri** (1) — 微软研究院资深首席研究员. 计算社会科学家，研究众包劳动与在线劳动市场。
 - **Silvia Ruzanka** (1) — 伦斯勒理工学院艺术家与讲师. Silvia Ruzanka 是媒体艺术家，创作游戏和故障艺术，其中包括一款由捕蝇草来玩的电子游戏。
+- **Simen Thys** (1) — 计算机视觉研究者（鲁汶大学 EAVISE 研究组）. 比利时计算机视觉研究者，与鲁汶大学 EAVISE 研究组的 Wiebe Van Ranst、Toon Goedemé 合作，设计了一种针对行人检测的可打印对抗补丁。
 - **Simon Weckert** (1) — 艺术家. 常驻柏林的艺术家，以表演和装置探讨数字技术与平台的社会影响。 http://www.simonweckert.com
 - **Simone Giertz** (1) — 发明家、YouTuber. 瑞典发明家（1990 年生），以在 YouTube 上发布故意做得很糟的“烂机器人”闻名。 https://www.simonegiertz.com/
 - **Simone Rebaudengo** (1) — 设计师；automato.farm 联合创办人. 意大利交互设计师，想象拥有需求、习惯与社交生活的联网产品。 http://www.automato.farm/about
 - **Sofian Audry** (1) — 艺术家，魁北克大学蒙特利尔分校媒体学院教授. 加拿大艺术家与学者，创作机器人与机器学习艺术作品。 https://sofianaudry.com
+- **Sondra Perry** (1) — 艺术家（录像、计算机媒介、装置、表演）. 美国跨学科艺术家，以虚拟化身、蓝幕和现成影像，考察黑人性、黑人女性气质以及数字技术中的再现。 https://sondraperry.com/
 - **Sonia Kennebeck** (1) — 纪录片导演、制片人. 德裔美国调查纪录片导演。 https://nationalbirdfilm.com/
 - **Spike Jonze** (1) — 电影导演、编剧. 美国导演，拍摄音乐录影带和剧情长片，代表作有《成为约翰·马尔科维奇》（1999）和《她》（2013）。 https://en.wikipedia.org/wiki/Spike_Jonze
 - **Sputniko! (Hiromi Ozaki)** (1) — 艺术家、设计师；东京艺术大学副教授. 思辨设计师，以《月经机器》等影片与装置，从性别角度追问技术。
@@ -9429,14 +10688,15 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Steina Vasulka** (1) — 录像艺术家. 冰岛出生的录像艺术先驱，1971 年与 Woody Vasulka 在纽约共同创办 The Kitchen。 http://www.vasulka.org
 - **Steph Maj Swanson** (1) — 艺术家与作者（Supercomposite）. 音乐人与艺术家，网名 Supercomposite，2022 年记录下“Loab”形象。 https://en.wikipedia.org/wiki/Loab
 - **Stephan Bogner** (1) — 设计师. 德国交互设计师（施瓦本格明德设计学院毕业），Raising Robotic Natives 的合作者之一。 https://stephanbogner.de/
+- **Stephan von Huene** (1) — 雕塑家、声音艺术家（1932–2000）. 生于洛杉矶的美德艺术家，1980 年移居德国，制作会演奏、说话和舞蹈的动态声音雕塑，其中许多由计算机控制；遗产由卡尔斯鲁厄 ZKM 保管。 https://www.stephanvonhuene.de/en/
 - **Sterling Crispin** (1) — 艺术家、技术专家. 美国艺术家、技术专家，早期作品对人脸检测与识别系统进行逆向工程，后来从事 AR/VR 与神经技术研发。 https://www.sterlingcrispin.com
 - **Steve Mann** (1) — 发明家；多伦多大学电子与计算机工程教授. 研究者，自 1970 年代末起在日常生活中佩戴计算机与头戴摄像机，并提出“反向监视”（sousveillance）一词。 http://wearcam.org/
 - **Steven Spielberg** (1) — 电影导演、制片人. 美国导演和制片人；他接手斯坦利·库布里克筹备多年的项目，完成了《人工智能》（2001）。 https://en.wikipedia.org/wiki/Steven_Spielberg
+- **StoryFile** (1) — 对话式视频 AI 公司. 由 Heather Maio 与 Stephen Smith 创立的公司：让人对着镜头回答大量问题，之后他人可以开口提问，系统播放最匹配的回答；它源自南加州大学大屠杀基金会的 Dimensions in Testimony 项目。
 - **Super Brain** (1) — AI 工作室（创始人张泽伟）. 南京的工作室，用家属提供的照片、视频与录音为逝者制作 AI 数字人。
 - **Surveillance Camera Players** (1) — 由 Bill Brown 创立的表演团体. 从 1996 年起在公共监控摄像头前上演无声戏剧的行动主义团体。 http://www.notbored.org/the-scp.html
 - **Survival Research Labs** (1) — Mark Pauline 于 1978 年创立的机器表演团体. 旧金山团体，上演大型、危险的表演，让自制机器互相搏斗、彼此摧毁。 https://srl.org/
 - **Susumu Tachi** (1) — 东京大学名誉教授；日本虚拟现实学会创会会长. 工程师，1980 年提出“远程存在”（telexistence），并研制 TELESAR 系列机器人，让人感到自己身处远方的机器人身体中。 https://tachilab.org/en/
-- **Suzanne Kite** (1) — 艺术家、作曲家、学者（奥格拉拉拉科塔族）；巴德学院 Wihanble S'a 实验室主任. 奥格拉拉拉科塔族艺术家和学者，其表演与机器学习作品取材于拉科塔族本体论，以及与石头和非人存在的关系。 https://kitekitekitekite.com/
 - **Suzanne Treister** (1) — 艺术家. 英国艺术家，其虚构档案把技术、金融、神秘学与意识交织在一起。 http://www.suzannetreister.net/
 - **THEaiTRE** (1) — 研究与剧场项目（查理大学、Švandovo 剧院、布拉格表演艺术学院）. 捷克项目，用语言模型写剧本，始于 2021 年 R.U.R. 百年纪念。 https://www.theaitre.com/
 - **Tabita Rezaire** (1) — 艺术家、疗愈者. 法属圭亚那-丹麦裔艺术家，影像作品把数字网络、殖民历史与灵性技术联系在一起。 https://tabitarezaire.com/
@@ -9459,20 +10719,28 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Tom B. Brown** (1) — 机器学习研究者（Google Brain，后任职 OpenAI 与 Anthropic）. 机器学习研究者，2017 年主导了 Google Brain 关于“对抗补丁”的论文，后来参与领导大语言模型研究。
 - **Tom Shannon** (1) — 艺术家、发明家. 美国艺术家（1947 年生），1966 年还是年轻艺术家时就做出了由活植物控制的机器人 Squat。
 - **Tom White** (1) — 艺术家（dribnet）；惠灵顿维多利亚大学设计学院高级讲师. 常驻新西兰的艺术家与设计讲师，网名 dribnet，创作专门供神经网络分类器“阅读”的绘画与版画。 https://drib.net
+- **Tom Ziemke** (1) — 林雪平大学认知系统教授. 在瑞典工作的德国出生认知科学家，研究具身认知，以及人如何与机器人和自动驾驶车辆互动。
 - **Tomas van Houtryve** (1) — 摄影师、艺术家. 比利时裔美国摄影师，关注冲突、监控与历史。 https://tomasvh.com/
 - **Tomasz Hollanek** (1) — 剑桥大学未来智能研究中心研究员. 设计与技术伦理研究者，研究把批判设计、思辨情景与 AI 伦理结合起来。 https://www.lcfi.ac.uk/
 - **Tomo Kihara** (1) — 设计师、艺术家；Playfool 联合创始人. 日本设计师、艺术家，常与 Daniel Coppen 以工作室 Playfool 的名义，创作关于 AI、平台与城市的游戏和装置。 https://www.tomokihara.com
+- **Tomás Laurenzo** (1) — 艺术家、计算机科学家；科罗拉多大学博尔德分校副教授. 乌拉圭艺术家、研究者与计算机科学家，以装置、表演和软件考察计算带来的文化与政治后果。 https://laurenzo.net/
 - **Tore Knudsen** (1) — 交互设计师、研究者. 丹麦交互设计师，CIID 校友，研究面向机器学习与智能家居的实体交互界面。
 - **UBERMORGEN** (1) — 艺术家二人组（lizvlx 与 Hans Bernhard）. 1995 年起活跃的奥地利—瑞士艺术家二人组，创作涉及网络、媒体入侵与机器系统。
+- **UJOO+LIMHEEYOUNG** (1) — 动态艺术二人组（Yoo Byoung-Joon 与 Lim Hee-Young）. 首尔二人组，由 Yoo Byoung-Joon（1976 年生）与 Lim Hee-Young（1979 年生）于 2004 年组成，制作探讨社会与政治生活之矛盾的动态机器；2024 年入围 Lumen 奖决选。
 - **USC Shoah Foundation** (1) — 南加州大学视觉历史与教育研究所. 由 Steven Spielberg 于 1994 年创立的研究所，保存了五万多份大屠杀幸存者及其他种族灭绝见证者的影像证词。 https://sfi.usc.edu/
+- **USSLAB, Zhejiang University** (1) — 浙江大学 Ubiquitous System Security Lab，由徐文渊、冀晓宇领导. 浙江大学的安全研究实验室，研究通过超声、光和电磁干扰攻击手机、汽车和语音助手的传感器。
 - **Unitree Robotics** (1) — 机器人公司. 杭州的四足与人形机器人制造商（Go、H1、G1）。 https://www.unitree.com
 - **Unknown Fields Division** (1) — 由 Liam Young 和 Kate Davies 领导的游牧式设计工作室. 设计研究工作室，带队考察消费科技背后的矿山、工厂和港口。 http://www.unknownfieldsdivision.com/
 - **Ursula Damm** (1) — 艺术家；包豪斯魏玛大学媒体环境教授. Ursula Damm 是德国媒体艺术家，她的生成影像装置以实时摄像输入和神经网络探讨感知、城市空间与自然。 https://ursuladamm.de
+- **Valentin Hofmann** (1) — 慕尼黑大学助理教授. 计算语言学家（牛津大学与慕尼黑大学双博士，曾在艾伦人工智能研究所做博士后），研究语言模型如何编码社会意义、方言与偏见。 https://valentinhofmann.github.io/
 - **Valentino Braitenberg** (1) — 神经科学家、控制论学者（1926–2011）. 意大利神经科学家，曾任马克斯·普朗克生物控制论研究所所长，著有《Vehicles：合成心理学实验》（1984）。
+- **Valerie Veatch** (1) — 纪录片导演. 美国编剧、导演，拍摄技术与社会题材的纪录片，包括为 HBO 制作的《Me @ The Zoo》（2012）和《Love Child》（2014）。 https://www.pbs.org/independentlens/documentaries/ghost-in-the-machine/
 - **Verena Friedrich** (1) — 媒体艺术家. 德国艺术家，制作精密的机器和实验装置，处理延长寿命、测量与自动化判断等问题。 https://heavythinking.org
 - **Victor Wong** (1) — 艺术家、视觉特效制作人. 香港视觉特效制作人（vfxNova），2018 年创造了 AI 水墨画家 A.I. Gemini。 https://www.3812gallery.com/artists/victor-wong-ai-gemini/
 - **Vilém Flusser** (1) — 媒介哲学家（1920–1991）. 捷克出生的巴西哲学家，研究装置、技术图像，以及贯穿相机与使用者的“程序”。
 - **Vincent Fournier** (1) — 摄影师、艺术家. 法国摄影师，作品关注太空探索、机器人和想象中的未来生命形态。 https://www.vincentfournier.co.uk/
+- **Vinzenz Aubry** (1) — 从事实时系统创作的艺术家. 法国籍、常驻柏林的艺术家，以生成式实时系统创作装置、表演、游戏、影像、音乐和网络艺术；毕业于麻省理工学院和柏林艺术大学。 https://brute-force.it
+- **Virginia Eubanks** (1) — 政治学者，纽约州立大学奥尔巴尼分校副教授. 美国政治学者，研究技术与社会正义，著有《数字死胡同》（2011）和《自动不平等》（2018）。
 - **Waltz Binaire** (1) — 设计与媒体艺术工作室（Christian Mio Loclair）. 由 Christian Mio Loclair 主持的柏林工作室，用机器学习和动作制作装置。 https://christianmioloclair.com
 - **Wang Yuyang** (1) — 艺术家. 北京艺术家，以光、雕塑与技术为媒介创作。
 - **Wayne McGregor** (1) — 编舞家；Studio Wayne McGregor 艺术总监；威尼斯双年展舞蹈部分总监. 英国编舞家，长期与认知科学家和技术人员合作，研究动作如何生成。 https://waynemcgregor.com/
@@ -9480,14 +10748,23 @@ https://machinic.reality.design · 2026-09-28 · 601 位创作者 · 802 件作�
 - **Wendy Hui Kyong Chun** (1) — 西蒙弗雷泽大学新媒体加拿大 150 研究讲席. 媒介理论家，数字民主研究所创所所长，著有《程序化的视觉》《更新以保持不变》。
 - **William Chamberlain** (1) — 作家、程序员. 美国作家，1980 年代初与 Thomas Etter 共同开发了散文生成程序 Racter。 https://en.wikipedia.org/wiki/Racter
 - **Wolfgang Strauss** (1) — 建筑师、媒体艺术家. 德国建筑师与媒体艺术家，长期与 Monika Fleischmann 合作互动环境。
+- **XPeng** (1) — 电动汽车与机器人公司. 中国电动汽车企业，2014 年创立，由何小鹏领导，同时研发飞行汽车与人形机器人 IRON。
 - **Xenoangel (Marija Avramovic & Sam Twidale)** (1) — 创作实时动画与 AI 驱动虚拟世界的艺术家二人组. Marija Avramovic 与 Sam Twidale 以 Xenoangel 之名合作，用游戏引擎搭建由角色自主行动的虚拟世界。 https://www.samtwidale.com/
 - **Xu Bing** (1) — 艺术家；中央美术学院前副院长. 以《天书》等关于语言与文字系统的作品闻名的中国艺术家，首部长片完全用监控录像剪辑而成。 https://www.xubing.com
+- **Xu Zheng** (1) — 电影导演、演员. 中国演员、导演，执导《人再囧途之泰囧》（2012）、《囧妈》（2020），并监制、主演《我不是药神》（2018）。
 - **YACHT** (1) — 乐队（Claire L. Evans、Jona Bechtolt、Rob Kieswetter）. 美国电子流行乐队，在严格的自设规则下用机器学习制作专辑。 https://teamyacht.com/
 - **Yasuhiro Yoshiura** (1) — 动画导演. 《夏娃的时间》（2008–09）导演，讲述一家“不区分人类与机器人”的咖啡馆。
 - **Yeon Sang-ho** (1) — 电影导演. 韩国导演，作品有《釜山行》及 Netflix 电影《贞伊》。 https://en.wikipedia.org/wiki/Yeon_Sang-ho
+- **Yoichi Ochiai** (1) — 媒体艺术家；筑波大学副教授（Digital Nature Group）；2025 年大阪·关西世博会主题事业制作人. 日本媒体艺术家与计算机科学家（1987 年生），提出“计算机自然”（Digital Nature），把计算视为一种与物质、身体和风景融为一体的新自然。 https://digitalnature.slis.tsukuba.ac.jp/
+- **Yuan Goang-Ming** (1) — 艺术家；台北艺术大学教授. 台湾录像与新媒体艺术先驱（1965 年生于台北），作品揭示日常生活之下的不安；2024 年以个展“日常战争”代表台湾参加威尼斯双年展。
+- **Yuhang Hu** (1) — 机器人学研究者，哥伦比亚大学 Creative Machines Lab 博士研究员. 在哥伦比亚大学 Creative Machines Lab 与 Hod Lipson 合作，制作能自己学会表情的人形机器人面部。 https://www.creativemachineslab.com/
+- **Yuval Abraham** (1) — 记者、电影人；+972 Magazine / Local Call. 以色列调查记者与电影人，与巴塞尔·阿德拉、哈姆丹·巴拉勒、蕾切尔·索尔共同执导获奥斯卡奖的纪录片《No Other Land》（2024）。 https://www.972mag.com/lavender-ai-israeli-army-gaza/
+- **Zach Lieberman** (1) — 艺术家、教育者；openFrameworks 与诗意计算学校（School for Poetic Computation）联合创始人. 美国艺术家、设计师和程序员，以代码、面孔与身体作为界面进行创作，是创意编程工具包 openFrameworks 的共同开发者。
 - **Zhang Yimou** (1) — 电影导演. 中国电影导演，也执导过 2008 年北京奥运会开幕式等大型国家演出。
+- **Zhao Zhao** (1) — 圭尔夫大学计算机科学学院助理教授. 人机交互与人–机器人交互研究者，开展社交机器人在家庭和儿童中的长期田野研究。 https://www.uoguelph.ca/computing/people/zhao-zhao
 - **Zimoun** (1) — 艺术家. 瑞士艺术家（1977 年生），用数百个小直流电机敲击纸板、铁丝和棉球，搭建大型装置。 https://www.zimoun.net/
 - **Zoran Srdić Janežič** (1) — 雕塑家、跨媒介艺术家；卢布尔雅那大学 AGRFT 博士研究者. 斯洛文尼亚雕塑家，使用动画机械、三维设计和活体组织创作；自 2019 年起与 Kapelica 画廊和 BioTehna 实验室合作推进 Biobot 系列。
 - **etoy.CORPORATION** (1) — 以公司形式组织的艺术团体. 1994 年成立、总部在瑞士的艺术团体，把公司、法律和数字结构当作创作材料；代表作有《Digital Hijack》（1996 年金尼卡奖）和《Toywar》。 http://missioneternity.org/
+- **fleuryfontaine** (1) — 艺术家二人组（Galdric Fleury 与 Antoine Fontaine）. 法国二人组，受过建筑和 Le Fresnoy 的训练，通过装置、影片和对警察暴力的 CGI 重建，研究塑造身体与行为的人造环境。 https://squareeyesfilm.com/films/sixty-seven-milliseconds/
 - **unmake lab** (1) — 艺术团体. 韩国艺术团体（成员包括崔彬娜），研究机器视觉如何建构自然与社会。
 - **Špela Petrič** (1) — 有生物学背景的艺术家. Špela Petrič 是斯洛文尼亚艺术家和生物学家，以表演探索人、植物与机器之间的关系。 https://www.spelapetric.org

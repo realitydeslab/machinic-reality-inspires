@@ -1,0 +1,1258 @@
+{
+  "batch": "recent-east-asia",
+  "creators": [
+    {
+      "id": "hsu-chia-wei",
+      "name": "Hsu Chia-Wei",
+      "name_zh": "许家维",
+      "kind": "person",
+      "role": "Artist, filmmaker and curator",
+      "role_zh": "艺术家、导演、策展人",
+      "based": "Taipei, TW",
+      "based_zh": "台北，台湾",
+      "bio": "Taiwanese artist (b. 1983, Taichung) whose films and installations dig into the political and industrial histories behind images, from Cold War sites to the materials of digital technology; he won the Eye Art & Film Prize in 2024.",
+      "bio_zh": "台湾艺术家（1983 年生于台中），其影像与装置挖掘图像背后的政治与工业史，从冷战遗址一直到数字技术的物质材料；2024 年获 Eye 艺术与电影奖。",
+      "why": "He looks at AI from the level of its materials: the sand, silicon wafers and chip laboratories of Taiwan.",
+      "why_zh": "他从材料层面观看 AI：沙滩、硅晶圆，以及台湾的芯片实验室。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yoichi-ochiai",
+      "name": "Yoichi Ochiai",
+      "name_zh": "落合阳一",
+      "kind": "person",
+      "role": "Media artist; Associate Professor, University of Tsukuba (Digital Nature Group); theme producer of Expo 2025",
+      "role_zh": "媒体艺术家；筑波大学副教授（Digital Nature Group）；2025 年大阪·关西世博会主题事业制作人",
+      "based": "Tsukuba / Tokyo, JP",
+      "based_zh": "筑波 / 东京，日本",
+      "bio": "Japanese media artist and computer scientist (b. 1987) whose idea of 'Digital Nature' treats computation as a new nature that merges with matter, bodies and landscape.",
+      "bio_zh": "日本媒体艺术家与计算机科学家（1987 年生），提出“计算机自然”（Digital Nature），把计算视为一种与物质、身体和风景融为一体的新自然。",
+      "why": "His Expo pavilion null² had about half a million visitors talk with an autonomous digital copy of themselves.",
+      "why_zh": "他的世博会场馆 null² 让约五十万观众与自己的自主数字分身对话。",
+      "disciplines": [
+        "art",
+        "hci"
+      ],
+      "links": {
+        "site": "https://digitalnature.slis.tsukuba.ac.jp/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "robert-zhao-renhui",
+      "name": "Robert Zhao Renhui",
+      "name_zh": "赵仁辉",
+      "kind": "person",
+      "role": "Artist; founder of the Institute of Critical Zoologists",
+      "role_zh": "艺术家；“批判动物学家研究所”创立者",
+      "based": "Singapore",
+      "based_zh": "新加坡",
+      "bio": "Singaporean artist (b. 1983) whose photographs, videos and archives question how people observe, classify and manage nature.",
+      "bio_zh": "新加坡艺术家（1983 年生），以摄影、影像与档案追问人如何观察、分类和管理自然。",
+      "why": "His camera-trap works let a machine witness the life of a forest when no person is there.",
+      "why_zh": "他的红外相机作品让机器在无人在场时见证森林里的生命。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lau-wai",
+      "name": "Lau Wai",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Multidisciplinary artist (CGI animation, games)",
+      "role_zh": "跨领域艺术家（CGI 动画、游戏）",
+      "based": "Hong Kong / New York, US",
+      "based_zh": "香港 / 纽约，美国",
+      "bio": "Hong Kong artist who makes CGI films, games and interactive works about digital doubles; alum of the Artists Alliance Inc. LES Studio Program in New York (2022–23).",
+      "bio_zh": "香港艺术家，以 CGI 影片、游戏和互动作品探讨数字分身；曾参加纽约 Artists Alliance Inc. 的 LES Studio Program（2022–23）。",
+      "why": "The Cast of the Invisible looks at the motion-capture performer who disappears beneath the digital character.",
+      "why_zh": "《隐形的演员》关注那些消失在数字角色之下的动作捕捉演员。",
+      "disciplines": [
+        "film",
+        "art"
+      ],
+      "links": {
+        "site": "https://w-a-i-studio.com/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "shin-hanagata",
+      "name": "Shin Hanagata",
+      "name_zh": "花形慎",
+      "kind": "person",
+      "role": "Artist (performance, media art)",
+      "role_zh": "艺术家（表演、媒体艺术）",
+      "based": "Tokyo, JP",
+      "based_zh": "东京，日本",
+      "bio": "Japanese artist (b. 1995, Tokyo) who uses wearables, prostheses and generative AI to 'twist' the human body and its relation to the world; shown at MOT Annual 2023 (Museum of Contemporary Art Tokyo) and Taipei Arts Festival 2023.",
+      "bio_zh": "日本艺术家（1995 年生于东京），用可穿戴设备、义肢和生成式 AI 去“扭转”人的身体及其与世界的关系；曾参加东京都现代美术馆 MOT Annual 2023 与台北艺术节 2023。",
+      "why": "CHIMERIA uses a simple headset to take apart the upright human body plan instead of enhancing it.",
+      "why_zh": "《CHIMERIA》用一个简单的头显拆解直立人的身体结构，而不是增强它。",
+      "disciplines": [
+        "performance",
+        "art"
+      ],
+      "links": {
+        "site": "https://www.shinhanagata.com/"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ujoo-limheeyoung",
+      "name": "UJOO+LIMHEEYOUNG",
+      "name_zh": "",
+      "kind": "studio",
+      "role": "Kinetic art duo (Yoo Byoung-Joon and Lim Hee-Young)",
+      "role_zh": "动态艺术二人组（Yoo Byoung-Joon 与 Lim Hee-Young）",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Seoul duo formed in 2004 by Yoo Byoung-Joon (b. 1976) and Lim Hee-Young (b. 1979), who build kinetic machines about the contradictions of social and political life; Lumen Prize finalists in 2024.",
+      "bio_zh": "首尔二人组，由 Yoo Byoung-Joon（1976 年生）与 Lim Hee-Young（1979 年生）于 2004 年组成，制作探讨社会与政治生活之矛盾的动态机器；2024 年入围 Lumen 奖决选。",
+      "why": "Their machines make automation visible as endless, purposeless repetition.",
+      "why_zh": "他们的机器把自动化呈现为无尽而无目的的重复。",
+      "disciplines": [
+        "art"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "xu-zheng",
+      "name": "Xu Zheng",
+      "name_zh": "徐峥",
+      "kind": "person",
+      "role": "Film director and actor",
+      "role_zh": "电影导演、演员",
+      "based": "Shanghai, China",
+      "based_zh": "上海，中国",
+      "bio": "Chinese actor and director of the comedies Lost in Thailand (2012) and Lost in Russia (2020), and producer and lead actor of Dying to Survive (2018).",
+      "bio_zh": "中国演员、导演，执导《人再囧途之泰囧》（2012）、《囧妈》（2020），并监制、主演《我不是药神》（2018）。",
+      "why": "Upstream brought the algorithmic time pressure of food-delivery work into a mainstream Chinese feature.",
+      "why_zh": "《逆行人生》把外卖工作中由算法施加的时间压力带进了中国主流商业片。",
+      "disciplines": [
+        "film"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "xpeng",
+      "name": "XPeng",
+      "name_zh": "小鹏汽车",
+      "kind": "company",
+      "role": "Electric-vehicle and robotics company",
+      "role_zh": "电动汽车与机器人公司",
+      "based": "Guangzhou, China",
+      "based_zh": "广州，中国",
+      "bio": "Chinese electric-vehicle maker founded in 2014 and led by He Xiaopeng, which also develops flying cars and the humanoid robot IRON.",
+      "bio_zh": "中国电动汽车企业，2014 年创立，由何小鹏领导，同时研发飞行汽车与人形机器人 IRON。",
+      "why": "It had to cut open its own humanoid on stage to convince the public that no person was inside.",
+      "why_zh": "它不得不在台上剖开自家的人形机器人，向公众证明里面没有人。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "geumhyung-jeong",
+      "name": "Geumhyung Jeong",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Choreographer and artist",
+      "role_zh": "编舞家、艺术家",
+      "based": "Seoul, KR",
+      "based_zh": "首尔，韩国",
+      "bio": "Korean artist (b. 1980, Seoul) trained in choreography who performs with self-built remote-controlled robots, mannequin parts, exercise machines and medical dummies; her robots were shown in The Milk of Dreams at the 2022 Venice Biennale.",
+      "bio_zh": "韩国艺术家（1980 年生于首尔），编舞出身，与自制遥控机器人、假人部件、健身器械和医用模型一起表演；她的机器人曾在 2022 年威尼斯双年展“梦之乳”中展出。",
+      "why": "Her work treats intimacy and care as the way people actually live with machines.",
+      "why_zh": "她的作品把亲密与照料视为人与机器真正相处的方式。",
+      "disciplines": [
+        "performance",
+        "art"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yuan-goang-ming",
+      "name": "Yuan Goang-Ming",
+      "name_zh": "袁广鸣",
+      "kind": "person",
+      "role": "Artist; Professor, Taipei National University of the Arts",
+      "role_zh": "艺术家；台北艺术大学教授",
+      "based": "Taipei, TW",
+      "based_zh": "台北，台湾",
+      "bio": "Pioneer of Taiwanese video and new-media art (b. 1965, Taipei) whose works show the unease beneath everyday life; his exhibition Everyday War represented Taiwan at the 2024 Venice Biennale.",
+      "bio_zh": "台湾录像与新媒体艺术先驱（1965 年生于台北），作品揭示日常生活之下的不安；2024 年以个展“日常战争”代表台湾参加威尼斯双年展。",
+      "why": "Everyday Maneuver uses drones and surveillance cameras to show a city emptied by an air-raid drill.",
+      "why_zh": "《日常演习》用无人机与监控摄像头呈现一座因防空演习而清空的城市。",
+      "disciplines": [
+        "art",
+        "film"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "isao-echizen",
+      "name": "Isao Echizen",
+      "name_zh": "越前功",
+      "kind": "person",
+      "role": "Professor, National Institute of Informatics (NII), Tokyo",
+      "role_zh": "日本国立情报学研究所（NII）教授",
+      "based": "Tokyo, JP",
+      "based_zh": "东京，日本",
+      "bio": "Japanese computer scientist working on multimedia security, privacy protection and deepfake detection.",
+      "bio_zh": "日本计算机科学家，研究多媒体安全、隐私保护与深度伪造检测。",
+      "why": "His Privacy Visor is an early wearable designed to blind face detection while leaving human sight untouched.",
+      "why_zh": "他的“隐私护目镜”是早期专门用来“蒙住”人脸检测、却不妨碍人眼的可穿戴设备。",
+      "disciplines": [
+        "hci",
+        "activism"
+      ],
+      "links": {
+        "site": "https://research.nii.ac.jp/~iechizen/official/index-e.html"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "zju-usslab",
+      "name": "USSLAB, Zhejiang University",
+      "name_zh": "浙江大学 USSLAB",
+      "kind": "lab",
+      "role": "Ubiquitous System Security Lab, led by Wenyuan Xu and Xiaoyu Ji",
+      "role_zh": "浙江大学 Ubiquitous System Security Lab，由徐文渊、冀晓宇领导",
+      "based": "Hangzhou, China",
+      "based_zh": "杭州，中国",
+      "bio": "Security research lab at Zhejiang University that studies attacks on the sensors of phones, cars and voice assistants through ultrasound, light and electromagnetic interference.",
+      "bio_zh": "浙江大学的安全研究实验室，研究通过超声、光和电磁干扰攻击手机、汽车和语音助手的传感器。",
+      "why": "DolphinAttack showed that voice assistants can be commanded by sounds humans cannot hear.",
+      "why_zh": "“海豚音攻击”证明语音助手可以被人类听不到的声音操控。",
+      "disciplines": [
+        "hci"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "hisashi-ishihara",
+      "name": "Hisashi Ishihara",
+      "name_zh": "石原尚",
+      "kind": "person",
+      "role": "Robotics researcher, Osaka University",
+      "role_zh": "机器人研究者，大阪大学",
+      "based": "Osaka, Japan",
+      "based_zh": "大阪，日本",
+      "bio": "Japanese roboticist who designs soft, pneumatically driven android faces and bodies, including the child android Affetto.",
+      "bio_zh": "日本机器人研究者，设计以气动驱动的柔软仿真人面孔与身体，包括儿童仿真机器人 Affetto。",
+      "why": "Affetto made the child android a research instrument for studying caregiving.",
+      "why_zh": "Affetto 让儿童仿真机器人成为研究照料行为的科研工具。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [
+        "minoru-asada"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "minoru-asada",
+      "name": "Minoru Asada",
+      "name_zh": "浅田稔",
+      "kind": "person",
+      "role": "Roboticist, Osaka University",
+      "role_zh": "机器人学家，大阪大学",
+      "based": "Osaka, Japan",
+      "based_zh": "大阪，日本",
+      "bio": "Japanese roboticist who founded cognitive developmental robotics and co-founded RoboCup.",
+      "bio_zh": "日本机器人学家，开创“认知发展机器人学”，并共同发起 RoboCup。",
+      "why": "He builds robot children to study how minds develop through bodies and care.",
+      "why_zh": "他通过制造机器人儿童，研究心智如何经由身体与照料而发展。",
+      "disciplines": [
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [
+        "hisashi-ishihara"
+      ],
+      "discovered_via": "hisashi-ishihara"
+    },
+    {
+      "id": "masahiko-inami",
+      "name": "Masahiko Inami",
+      "name_zh": "稻见昌彦",
+      "kind": "person",
+      "role": "Professor, RCAST, University of Tokyo; director, JST ERATO Inami JIZAI Body Project",
+      "role_zh": "东京大学先端科学技术研究中心教授；JST ERATO 稻见自在化身体项目负责人",
+      "based": "Tokyo, JP",
+      "based_zh": "东京，日本",
+      "bio": "Japanese engineer known for optical camouflage and augmented-human research, who now studies how bodies can be freely extended, shared and remapped.",
+      "bio_zh": "日本工程师，以“光学迷彩”和增强人类研究知名，现研究身体如何被自由延展、共享与重新映射。",
+      "why": "His lab's extra limbs ask what a body becomes when its parts are detachable and shared.",
+      "why_zh": "他的实验室制作的额外肢体追问：当身体部件可拆卸、可共享时，身体会变成什么。",
+      "disciplines": [
+        "hci",
+        "robotics"
+      ],
+      "links": {},
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "hsu-chia-wei--silicon-serenade",
+      "creator_ids": [
+        "hsu-chia-wei"
+      ],
+      "title": "Silicon Serenade",
+      "year": 2024,
+      "field": "labour",
+      "sub": "planetary",
+      "machines": [
+        "infrastructure",
+        "generative-latent"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "opacity-latent"
+      ],
+      "kind": "artwork",
+      "description": "A VR seaside built in a game engine leads to an underwater cello performance and to footage from the AI-chip laboratories of Taiwan's Industrial Technology Research Institute (ITRI), while a song written and sung by AI traces how beach sand becomes a silicon wafer and then an AI chip.",
+      "description_zh": "观众戴上 VR 头显，进入用游戏引擎搭建的海滩，随后看到水下的大提琴演奏，以及台湾工业技术研究院（工研院）AI 芯片实验室的实拍画面；一首由 AI 作词并演唱的歌，讲述沙滩上的沙如何变成硅晶圆，再变成 AI 芯片。",
+      "idea_en": "AI begins as sand: the work follows machine intelligence back to the beach, the wafer and the island that makes the chips.",
+      "idea_zh": "AI 始于沙子：作品把机器智能追溯回海滩、晶圆，以及制造芯片的这座岛。",
+      "method": "VR headset with game-engine scenes, filmed underwater cello and ITRI chip-fabrication footage, and a generative-AI song, installed with a transparent computer case, host computer, buoyant ball and spliced screens.",
+      "method_zh": "VR 头显中的游戏引擎场景、实拍的水下大提琴与工研院芯片制程画面，加上一首生成式 AI 歌曲；现场配有透明电脑机箱、主机、浮球和拼接屏幕。",
+      "keywords": [
+        "silicon",
+        "semiconductor",
+        "ITRI",
+        "VR",
+        "Taiwan",
+        "AI chip"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=otyZRtDsPpU"
+      },
+      "images": [
+        "https://www.mori.art.museum/files/exhibitions/2025/02/06/img_machine_love_02_HsuChiaWei.jpg"
+      ],
+      "source_url": "https://www.mori.art.museum/en/exhibitions/machine_love/02/index.html",
+      "exhibited": [
+        "MACHINE LOVE, Mori Art Museum, Tokyo 2025",
+        "Liang Gallery, Taipei 2025"
+      ]
+    },
+    {
+      "id": "hiroshi-ishiguro--future-of-life",
+      "creator_ids": [
+        "hiroshi-ishiguro"
+      ],
+      "title": "Future of Life",
+      "year": 2025,
+      "field": "speculative",
+      "sub": "worldbuilding",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "humanoid",
+        "social-robot"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "speculative",
+      "description": "Ishiguro's signature pavilion at Expo 2025 Osaka led visitors through three zones: the Japanese history of objects given human form and life (clay dogū figures, Buddhist statues, bunraku puppets), a daily life 50 years ahead in which androids live and work among people, and 'Mahoroba', a world 1,000 years on where humans and androids are hard to tell apart.",
+      "description_zh": "石黑浩为 2025 年大阪·关西世博会制作的主题馆分为三个区：日本人赋予器物人形与生命的历史（土偶、佛像、文乐人偶）；五十年后仿真人与人一起生活、工作的日常；以及一千年后的“Mahoroba”，在那里人和仿真人已难以分辨。",
+      "idea_en": "The android is placed in a long line of things Japanese people have given life, and the future body is staged as a choice between staying flesh and becoming machine.",
+      "idea_zh": "仿真人被放进日本人为器物赋予生命的漫长谱系里；未来的身体被呈现为一个在肉身与机器之间的选择。",
+      "method": "About thirty androids, robots and avatars staged in a black pavilion with water running down its walls; the 50-year scenarios (living, towns, health, mobility, work) were developed with researchers and companies, and the androids of the 1,000-year zone, including MOMO, were designed by Tatsuya Matsui.",
+      "method_zh": "约三十台仿真人、机器人与化身被布置在一座外墙流水的黑色展馆中；五十年后的场景（居住、城镇、健康、出行、工作）与研究者和企业共同构想，千年区的仿真人（包括 MOMO）由松井龙哉设计。",
+      "keywords": [
+        "Expo 2025",
+        "android",
+        "いのちの未来",
+        "Mahoroba",
+        "MOMO"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=fahXh0RCYOk"
+      },
+      "images": [
+        "https://www.nippon.com/en/ncommon/contents/guide-to-japan/2785580/2785580.jpg",
+        "https://www.nippon.com/en/ncommon/contents/guide-to-japan/2785582/2785582.jpg"
+      ],
+      "source_url": "https://www.expo2025.or.jp/en/expo-archive/project/ishiguro/",
+      "exhibited": [
+        "Signature Pavilion, Expo 2025 Osaka, Kansai",
+        "FUTURE OF LIFE+, MoN Takanawa, Tokyo 2026"
+      ]
+    },
+    {
+      "id": "yoichi-ochiai--null2",
+      "creator_ids": [
+        "yoichi-ochiai"
+      ],
+      "title": "null²",
+      "year": 2025,
+      "field": "afterlife",
+      "sub": "likeness",
+      "also": [
+        "speculative"
+      ],
+      "machines": [
+        "chatbot-llm",
+        "generative-latent"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "grief-afterlife"
+      ],
+      "kind": "artwork",
+      "description": "An Expo 2025 pavilion wrapped in a mirror membrane that robots bend and ripple; inside, in a room of mirrors and LEDs, each visitor meets a 'Mirrored Body', an autonomous digital twin made from a phone scan of their own appearance, which moves by itself and talks with them.",
+      "description_zh": "一座覆盖着镜面膜的世博会场馆，镜膜被机器人推动而起伏变形；馆内的镜面与 LED 空间里，每位观众都会遇见自己的“Mirrored Body”：用手机扫描本人外貌生成的自主数字分身，它会自己行动，并与观众交谈。",
+      "idea_en": "Facing a double that can speak without you, the visitor rehearses becoming one more data object in Digital Nature.",
+      "idea_zh": "面对一个无需你也能开口说话的分身，观众预演了自己成为“计算机自然”中又一个数据对象的时刻。",
+      "method": "Visitors scanned themselves with a smartphone app after booking; in the 30-minute 'Dialog Mode' the autonomous avatar talks with its original among custom LEDs and mirrors, while robots deform the mirror membrane of the facade; visitors can meet their avatar again at null²ⁿ in Yokohama (2026).",
+      "method_zh": "观众预约后用手机应用扫描自己；在约 30 分钟的“对话模式”中，自主化身在定制 LED 与镜面之间与本人交谈，外立面的镜膜则由机器人推动变形；观众还可以在横滨的 null²ⁿ（2026）与自己的化身重逢。",
+      "keywords": [
+        "Expo 2025",
+        "digital twin",
+        "Digital Nature",
+        "Mirrored Body",
+        "ヌルヌル"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Ml-yw9AGkHQ"
+      },
+      "images": [
+        "https://www.expo2025.or.jp/en/expo-archive/project/ochiai/images/null2_exterior_01.jpg",
+        "https://www.expo2025.or.jp/en/expo-archive/project/ochiai/images/null2_interior_02.jpg"
+      ],
+      "source_url": "https://www.expo2025.or.jp/en/expo-archive/project/ochiai/",
+      "exhibited": [
+        "Signature Pavilion, Expo 2025 Osaka, Kansai",
+        "null²ⁿ, Yokohama 2026"
+      ]
+    },
+    {
+      "id": "robert-zhao-renhui--seeing-forest",
+      "creator_ids": [
+        "robert-zhao-renhui"
+      ],
+      "title": "Seeing Forest",
+      "year": 2024,
+      "field": "perception",
+      "sub": "seeing",
+      "also": [
+        "interiority"
+      ],
+      "machines": [
+        "vision-system"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "machine-umwelt"
+      ],
+      "kind": "artwork",
+      "description": "Singapore's pavilion at the 2024 Venice Biennale: a two-channel video that mixes years of footage from motion-triggered camera traps in Singapore's secondary forests, where wild animals and the occasional human pass by, with scenes of an imagined forest.",
+      "description_zh": "2024 年威尼斯双年展新加坡馆：一部双频道影像，把新加坡次生林中由运动触发的红外相机多年拍到的画面（野生动物，偶尔也有人路过）与一片想象中的森林交织在一起。",
+      "idea_en": "The forest appears only when something moves: the camera trap is a machine witness to a world no person was there to see.",
+      "idea_zh": "森林只在有东西经过时才显影：红外相机是机器的目击者，看见一个无人在场的世界。",
+      "method": "Camera traps triggered by motion and heat, set by the artist in secondary forests over about eight years, combined with staged and thermal-camera footage in a two-channel video installation.",
+      "method_zh": "艺术家约八年来在次生林中架设由运动与热量触发的红外相机，把这些画面与摆拍及热成像影像组合为双频道影像装置。",
+      "keywords": [
+        "camera trap",
+        "secondary forest",
+        "Singapore",
+        "Venice Biennale",
+        "thermal imaging"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=LV2X8KQVRgE"
+      },
+      "images": [
+        "https://images-eflux.b-cdn.net/assets/d615a60a-1b95-4341-9472-fa1bbe306fe1.jpg?&modified=2025-01-24T12:18:09.000Z"
+      ],
+      "source_url": "https://www.e-flux.com/announcements/569538/robert-zhao-renhuiseeing-forest",
+      "exhibited": [
+        "Singapore Pavilion, 60th Venice Biennale 2024",
+        "Singapore Art Museum 2025"
+      ]
+    },
+    {
+      "id": "sougwen-chung--recursions",
+      "creator_ids": [
+        "sougwen-chung"
+      ],
+      "title": "RECURSIONS",
+      "year": 2026,
+      "field": "coperformance",
+      "sub": "drawing",
+      "machines": [
+        "robot-arm",
+        "generative-latent"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "A ten-metre linen scroll painted by the artist alongside two robotic arms: the arms draw from a neural network trained on the artist's own decade of gestures, and live EEG brainwaves decide when the robot acts or waits. A water-based calligraphic ink sinks into the linen while a conductive silver ink sits on top and pushes it away.",
+      "description_zh": "一卷十米长的亚麻长卷，由艺术家与两只机械臂共同绘制：机械臂的笔触来自用艺术家十年动作档案训练的神经网络，而实时脑电决定机器人何时落笔、何时等待。水性书法墨渗入亚麻，具导电性的银墨浮在表面，并把前者推开。",
+      "idea_en": "Drawing with a machine becomes a recursive loop: it learns from the artist's past gestures, the artist answers, and the stroke records the negotiation.",
+      "idea_zh": "与机器一起画画成为一个递归回路：它学习艺术家过去的笔势，艺术家回应它，笔触记录下这场协商。",
+      "method": "Two robotic arms of the Drawing Operations series driven by a model trained on the artist's gesture and calligraphy archive and modulated by a custom EEG sensor (an alpha-wave threshold triggers the robot's pause); the ink is silver flake in shellac bioresin with silk fibroin; shown with the digital work R1314.",
+      "method_zh": "两只“绘图操作”系列的机械臂由一个用艺术家笔势与书法档案训练的模型驱动，并由定制脑电传感器调节（α 波阈值触发机器人的停顿）；墨水为银片、虫胶生物树脂与蚕丝蛋白的混合物；与数字作品 R1314 一同展出。",
+      "keywords": [
+        "robotic drawing",
+        "EEG",
+        "calligraphy",
+        "Drawing Operations",
+        "D.O.U.G."
+      ],
+      "images": [
+        "https://sougwen.com/wp-content/uploads/2026/04/sougwen-2026_recursions_01_photographer-reece-straw.jpg",
+        "https://sougwen.com/wp-content/uploads/2026/04/sougwen-2026_recursions_05_silver_photographer-reece-straw.jpg"
+      ],
+      "source_url": "https://sougwen.com/work/recursions"
+    },
+    {
+      "id": "lau-wai--the-cast-of-the-invisible",
+      "creator_ids": [
+        "lau-wai"
+      ],
+      "title": "The Cast of the Invisible",
+      "year": 2024,
+      "field": "labour",
+      "sub": "ghost-work",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "vision-system",
+        "social-robot"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "alterity-uncanny"
+      ],
+      "kind": "film",
+      "description": "A 14-minute CGI film that follows W.A.I., a virtual clone of the artist who works as a motion-capture actor; after leaving the studio, still in the black capture suit, W.A.I. asks a robot lover how they should act.",
+      "description_zh": "一部 14 分钟的 CGI 动画，讲述艺术家的虚拟分身 W.A.I.：一名动作捕捉演员。离开片场后仍穿着黑色动捕服的 W.A.I.，在亲密时刻问机器人恋人：“我该怎么演？”",
+      "idea_en": "Motion capture hides a performer under someone else's body; the film asks what is left of a person whose job is to be everyone and no one.",
+      "idea_zh": "动作捕捉把表演者藏在别人的身体之下；影片追问：一个以“成为所有人、又谁都不是”为职业的人，还剩下什么。",
+      "method": "Single-channel 4K animation built with Epic Games MetaHumans, Mixamo motion data, Twinmotion and kitbashed 3D environments; written, animated and voiced by the artist.",
+      "method_zh": "单频道 4K 动画，使用 Epic Games MetaHumans、Mixamo 动作数据、Twinmotion 及拼装的 3D 场景制作；编剧、动画与配音均由艺术家完成。",
+      "keywords": [
+        "motion capture",
+        "digital double",
+        "CGI",
+        "Prix Ars Electronica"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/62c1e8cf75c9127a62747137/c58470ae-52bf-4e15-bb25-095cf5493554/LauWai-2024-Cast2.jpg",
+        "https://images.squarespace-cdn.com/content/v1/62c1e8cf75c9127a62747137/83bca7c0-78b5-4db2-9b7c-657714a735ea/01_WAI-The-Cast-of-the-Invisible_Cuchifritos-Gallery_Photo-Brad-Farwell.jpg"
+      ],
+      "source_url": "https://w-a-i-studio.com/works/cast1",
+      "exhibited": [
+        "Cuchifritos Gallery + Project Space, New York 2024",
+        "Prix Ars Electronica 2025, Award of Distinction (New Animation Art)",
+        "Ars Electronica Center, Linz 2025"
+      ]
+    },
+    {
+      "id": "shin-hanagata--chimeria",
+      "creator_ids": [
+        "shin-hanagata"
+      ],
+      "title": "CHIMERIA",
+      "year": 2025,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "also": [
+        "perception",
+        "bodies"
+      ],
+      "machines": [
+        "prosthesis-cyborg",
+        "vision-system"
+      ],
+      "lenses": [
+        "embodiment",
+        "alterity-uncanny"
+      ],
+      "kind": "performance",
+      "description": "Volunteers recruited through a public phone number wore head-mounted displays that moved their eyes to their toes, hips or hands, then lived together in a Tokyo residence where chairs, doorknobs and stairs made for upright humans no longer worked; they ate through tubes, used wire-driven prostheses and built a toilet for a kneeling body.",
+      "description_zh": "通过公开电话号码招募的志愿者戴上头显，把“眼睛”移到脚趾、臀部或手上，然后在东京的一处住所共同生活；为直立人类设计的椅子、门把手和楼梯都不再可用，他们用管子进食，使用线驱动义肢，还为跪姿身体造了一个厕所。",
+      "idea_en": "A headset and a camera are enough to undo the human body plan: VR here is not immersion but a way of becoming another kind of creature.",
+      "idea_zh": "一个头显加一个摄像头，就足以拆解人的身体结构：在这里，VR 不是沉浸，而是变成另一种生物的手段。",
+      "method": "Head-mounted displays fed by cameras worn on other parts of the body, custom suits and wire-driven prostheses, and a habitat rebuilt for the 'chimera' bodies; visitors had to imitate the chimeras to enter.",
+      "method_zh": "头显画面来自佩戴在身体其他部位的摄像头，配合定制服装、线驱动义肢，以及为“奇美拉”身体改造的居住空间；访客必须模仿奇美拉才能进入。",
+      "keywords": [
+        "head-mounted display",
+        "body schema",
+        "prosthesis",
+        "Leroi-Gourhan",
+        "Prix Ars Electronica"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA"
+      },
+      "images": [
+        "https://ars.electronica.art/prix/files/2026/06/chimeria-1.jpg",
+        "https://www.shinhanagata.com/og-image.jpg"
+      ],
+      "source_url": "https://www.shinhanagata.com/en/works/chimeria",
+      "collections": [
+        "prix-ars-ai-life"
+      ],
+      "exhibited": [
+        "Prix Ars Electronica 2026, Award of Distinction (Interactive Art+)"
+      ]
+    },
+    {
+      "id": "ujoo-limheeyoung--no-bird",
+      "creator_ids": [
+        "ujoo-limheeyoung"
+      ],
+      "title": "No Bird",
+      "year": 2025,
+      "field": "bodies",
+      "sub": "futility",
+      "also": [
+        "labour"
+      ],
+      "machines": [
+        "robot-creature"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "embodiment"
+      ],
+      "kind": "artwork",
+      "description": "A bird-like walking machine paces across a bed of sand while a second machine follows and wipes out its tracks, returning the sand to its starting state again and again.",
+      "description_zh": "一台像鸟一样行走的机器在沙床上踱步，另一台机器跟在后面抹去它的足迹，把沙面一次又一次恢复原状。",
+      "idea_en": "An automated loop without accumulation: the walker acts but changes nothing, like human action in a system that only needs to keep running normally.",
+      "idea_zh": "一个没有积累的自动循环：行走者在行动，却什么也改变不了，就像人在一个只需“正常运行”的系统里的处境。",
+      "method": "Two custom kinetic machines, a legged walker following a fixed algorithmic gait and a trace-erasing machine that resets the sand; the starting point is the extinction of flightless birds.",
+      "method_zh": "两台定制动态机器：一台按固定算法步态行走的腿式装置，一台抹平痕迹、重置沙面的机器；作品的起点是不会飞的鸟类的灭绝。",
+      "keywords": [
+        "kinetic art",
+        "automation",
+        "flightless birds",
+        "새는 없다",
+        "Prix Ars Electronica"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=sgRFfaVz2X8"
+      },
+      "images": [
+        "https://ars.electronica.art/prix/files/2026/06/nobird.jpg"
+      ],
+      "source_url": "https://archive.aec.at/prix/319445/",
+      "collections": [
+        "prix-ars-ai-life"
+      ],
+      "exhibited": [
+        "Prix Ars Electronica 2026, Honorary Mention (Interactive Art+)"
+      ]
+    },
+    {
+      "id": "xu-zheng--upstream",
+      "creator_ids": [
+        "xu-zheng"
+      ],
+      "title": "Upstream",
+      "year": 2024,
+      "field": "labour",
+      "sub": "automation",
+      "machines": [
+        "recommender-platform"
+      ],
+      "lenses": [
+        "labour-extraction",
+        "classification"
+      ],
+      "kind": "film",
+      "description": "In this Chinese box-office feature, a 45-year-old manager at an internet company is laid off and becomes a food-delivery rider; the platform's delivery times are set by the fastest rider, and he builds a navigation app from a top rider's secret shortcuts to help his team.",
+      "description_zh": "在这部中国商业片里，一位 45 岁的互联网大厂中层被裁员后成了外卖骑手；平台的配送时限以最快的骑手为标准，他把一位“单王”的秘密近道做成导航应用，帮助队友。",
+      "idea_en": "A mainstream film puts the algorithmic clock of delivery work on screen, and critics saw the trap in its happy ending: every shortcut a rider finds becomes the platform's next deadline.",
+      "idea_zh": "一部主流电影把外卖工作的算法时钟搬上银幕；评论者看出了圆满结局里的陷阱：骑手找到的每一条近道，都会成为平台下一次的时限。",
+      "method": "Fiction feature shot in Shanghai from February to April 2024, directed by and starring Xu Zheng with Xin Zhilei; released in mainland China on 9 August 2024.",
+      "method_zh": "剧情长片，2024 年 2 月至 4 月在上海拍摄，徐峥执导并主演，辛芷蕾联合主演；2024 年 8 月 9 日在中国大陆上映。",
+      "keywords": [
+        "delivery riders",
+        "gig economy",
+        "platform labour",
+        "layoffs",
+        "外卖骑手"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=_cf0Elo5mB0"
+      },
+      "source_url": "https://www.sixthtone.com/news/1015715",
+      "exhibited": [
+        "Theatrical release, mainland China, August 2024"
+      ]
+    },
+    {
+      "id": "xpeng--cutting-open-iron",
+      "creator_ids": [
+        "xpeng"
+      ],
+      "title": "Cutting Open IRON",
+      "year": 2025,
+      "field": "bodies",
+      "sub": "androids",
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "After XPeng unveiled its 'female' humanoid IRON in November 2025, its human-like gait led many viewers to claim a person was inside; days later, at a car launch in Guangzhou, CEO He Xiaopeng had a technician cut open the robot's leg on stage while it stayed powered on, exposing actuators and wiring.",
+      "description_zh": "2025 年 11 月，小鹏发布“女性”人形机器人 IRON，因其步态太像人，许多网友断言里面藏着真人；几天后在广州的一场新车发布会上，何小鹏让技术人员当场剖开通电状态下的机器人小腿，露出执行器和线路。",
+      "idea_en": "The uncanny test runs in reverse: the robot moved so well that it had to be opened up to prove it was not a person in a suit.",
+      "idea_zh": "恐怖谷测试反过来了：机器人动得太像人，以至于必须剖开它，才能证明里面不是穿着套装的人。",
+      "method": "IRON has an internal lattice of artificial muscles and joints under a soft covering; the leg was cut open live for about three minutes, after XPeng had released unedited footage of the internal structure.",
+      "method_zh": "IRON 在柔软外皮之下有仿生“肌肉”网格与关节；在小鹏发布未剪辑的内部结构视频之后，技术人员又在台上用约三分钟剖开了它的腿。",
+      "keywords": [
+        "humanoid",
+        "XPeng IRON",
+        "uncanny",
+        "He Xiaopeng",
+        "小鹏"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=m_Ag_SgsHVg"
+      },
+      "images": [
+        "https://assets.newatlas.com/dims4/default/01e1e63/2147483647/strip/true/crop/1766x927+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff9%2F9a%2F3dedff18431fad5bc142bebdbd96%2Fscreenshot-2025-11-18-at-3-40-16-pm.png&na.image_optimisation=0"
+      ],
+      "source_url": "https://newatlas.com/ai-humanoids/watch-iron-humanoid/"
+    },
+    {
+      "id": "geumhyung-jeong--under-construction",
+      "creator_ids": [
+        "geumhyung-jeong"
+      ],
+      "title": "Under Construction",
+      "year": 2024,
+      "field": "intimacy",
+      "sub": "companions",
+      "also": [
+        "bodies",
+        "coperformance"
+      ],
+      "machines": [
+        "robot-creature",
+        "humanoid"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "alterity-uncanny"
+      ],
+      "kind": "performance",
+      "description": "At the ICA in London, Jeong showed animatronic figures built around complete human skeleton models and DIY electronics, with videos and live performances in which she builds, repairs and handles these clumsy machine partners as if caring for a body.",
+      "description_zh": "在伦敦 ICA，艺术家展出以完整人体骨骼模型和自制电子元件搭建的动画机器人，并通过影像和现场表演，像照料一具身体那样组装、修理、触碰这些笨拙的机器伙伴。",
+      "idea_en": "Care is the interface: the machines are unreliable and half-built, and their clumsiness draws out an empathy that polished robots do not.",
+      "idea_zh": "照料就是界面：这些机器并不可靠、尚未完工，而正是它们的笨拙，引出了精致机器人引不出的共情。",
+      "method": "Self-built sculptures combining human skeleton models, mannequin parts, motors and hobby electronics, some autonomous and some still in process, shown with videos and live performances (November 2024); the commission expands a project the artist began in 2023.",
+      "method_zh": "自制雕塑结合人体骨骼模型、假人部件、电机与业余电子元件，有些能自主运动，有些仍在搭建中，配合影像与现场表演（2024 年 11 月）；这次委托延续了艺术家 2023 年开始的同名项目。",
+      "keywords": [
+        "animatronics",
+        "care",
+        "DIY robots",
+        "choreography",
+        "ICA London"
+      ],
+      "images": [
+        "https://www.ica.art/media/10094.jpg",
+        "https://www.ica.art/media/10095.jpg"
+      ],
+      "source_url": "https://www.ica.art/exhibitions/geumhyung-jeong-under-construction",
+      "exhibited": [
+        "Under Construction, ICA London 2024"
+      ]
+    },
+    {
+      "id": "yuan-goang-ming--everyday-maneuver",
+      "creator_ids": [
+        "yuan-goang-ming"
+      ],
+      "title": "Everyday Maneuver",
+      "year": 2018,
+      "field": "labour",
+      "sub": "military",
+      "also": [
+        "power"
+      ],
+      "machines": [
+        "vehicle-drone",
+        "surveillance-biometric"
+      ],
+      "lenses": [
+        "machine-seeing",
+        "classification"
+      ],
+      "kind": "film",
+      "description": "During the half hour of Taipei's annual Wan An air-raid drill, when sirens sound and traffic must clear the streets, five drones hover at once above five of the city's main roads and film a city without people.",
+      "description_zh": "在台北每年一度的“万安”防空演习那半小时里，警报响起，车辆必须让出街道，五架无人机同时悬停在城市五条主干道正上方，拍下一座没有人的城市。",
+      "idea_en": "The drones' straight, scanning view turns the empty city into a surveillance image of a war that has not happened.",
+      "idea_zh": "无人机笔直、扫描式的俯视，把空城变成一张关于尚未发生之战争的监控图像。",
+      "method": "Single-channel video (5'57\"): five drones filmed simultaneously from above the centre lines of five main roads between 1:30 and 2:00 pm during the Wan An Air Defense Drill, held every year since 1978.",
+      "method_zh": "单频道录像（5 分 57 秒）：在自 1978 年起每年举行的“万安”防空演习中，于下午 1:30 至 2:00 用五架空拍机同时在五条主干道中线正上方拍摄。",
+      "keywords": [
+        "drone",
+        "air-raid drill",
+        "Taipei",
+        "surveillance",
+        "Everyday War"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=fbqtOlCzcug"
+      },
+      "images": [
+        "https://www.art-it.asia/wp-content/uploads/2023/12/02_YUAN-Goang-Ming-Everyday-Maneuver-2018.-%C2%A9-YUAN-Goang-Ming.-Courtesy-of-the-artist..jpg"
+      ],
+      "source_url": "https://www.e-flux.com/announcements/593425/yuan-goang-mingeveryday-war",
+      "exhibited": [
+        "Everyday War, Taiwan Pavilion, 60th Venice Biennale 2024 (Palazzo delle Prigioni)",
+        "Wrightwood 659, Chicago 2026"
+      ]
+    },
+    {
+      "id": "isao-echizen--privacy-visor",
+      "creator_ids": [
+        "isao-echizen"
+      ],
+      "title": "Privacy Visor",
+      "year": 2012,
+      "field": "perception",
+      "sub": "evasion",
+      "also": [
+        "power"
+      ],
+      "machines": [
+        "surveillance-biometric",
+        "vision-system"
+      ],
+      "lenses": [
+        "classification",
+        "machine-seeing"
+      ],
+      "kind": "prototype",
+      "description": "Glasses that stop cameras from finding a face: the 2012 prototype carried near-infrared LEDs that people cannot see but camera sensors pick up as glare, and later versions used light-absorbing and reflecting patterns to break face detection.",
+      "description_zh": "一副让摄像头找不到人脸的眼镜：2012 年的原型装有人眼看不见、却会被相机传感器当作强光捕捉到的近红外 LED；之后的版本改用吸光与反光图案来破坏人脸检测。",
+      "idea_en": "It works in the gap between human and machine sight: what looks like ordinary glasses to a person is a blinding light to the camera.",
+      "idea_zh": "它利用人眼与机器之眼的差异：在人看来是普通眼镜，在摄像头看来却是一片强光。",
+      "method": "Near-infrared LEDs around the eyes and nose bridge (later, patterned light-absorbing and reflecting materials) add noise to the light-dark facial features that face detectors look for; developed at Japan's National Institute of Informatics.",
+      "method_zh": "眼部与鼻梁周围的近红外 LED（后来改为带图案的吸光、反光材料）在人脸检测所依赖的明暗特征上叠加噪声；由日本国立情报学研究所研发。",
+      "keywords": [
+        "face detection",
+        "anti-surveillance",
+        "near-infrared",
+        "wearable",
+        "NII"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=HbXvZ1XKdWk"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1007/978-3-642-40779-6_13",
+        "doi": "10.1007/978-3-642-40779-6_13",
+        "arxiv": "",
+        "venue": "Communications and Multimedia Security (CMS 2013), LNCS",
+        "title": "Privacy Visor: Method for Preventing Face Image Detection by Using Differences in Human and Device Sensitivity"
+      },
+      "source_url": "https://research.nii.ac.jp/~iechizen/official/index-e.html",
+      "exhibited": [
+        "IWSEC 2012 (first presentation)"
+      ]
+    },
+    {
+      "id": "zju-usslab--dolphinattack",
+      "creator_ids": [
+        "zju-usslab"
+      ],
+      "title": "DolphinAttack: Inaudible Voice Commands",
+      "year": 2017,
+      "field": "perception",
+      "sub": "listening",
+      "machines": [
+        "voice-listening"
+      ],
+      "lenses": [
+        "machine-listening",
+        "failure-glitch"
+      ],
+      "kind": "paper",
+      "description": "Voice commands modulated onto ultrasound above 20 kHz are inaudible to people, but the microphones of phones, smart speakers and cars demodulate them, so Siri, Google Now, Alexa and an Audi navigation system obey voices no one in the room can hear.",
+      "description_zh": "把语音指令调制到 20 kHz 以上的超声波上，人耳听不见，但手机、智能音箱和汽车的麦克风会把它解调出来；于是 Siri、Google Now、Alexa 乃至奥迪的车载导航，都会服从一个房间里没人听得到的声音。",
+      "idea_en": "The machine hears a different world from ours: the non-linearity of its own ear becomes a channel for voices only machines receive.",
+      "idea_zh": "机器听到的世界和我们不同：它自身耳朵的非线性，成了只有机器才能接收的声音通道。",
+      "method": "Amplitude-modulated ultrasonic carriers played from a speaker; the non-linear response of MEMS microphones recovers the baseband voice command, which speech recognition then accepts.",
+      "method_zh": "用扬声器播放经幅度调制的超声载波；MEMS 麦克风的非线性响应把基带语音指令还原出来，随后被语音识别系统接受。",
+      "keywords": [
+        "ultrasound",
+        "voice assistant",
+        "adversarial audio",
+        "Siri",
+        "海豚音攻击"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=21HjF4A3WE4"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3133956.3134052",
+        "doi": "10.1145/3133956.3134052",
+        "arxiv": "",
+        "venue": "ACM CCS 2017",
+        "title": "DolphinAttack: Inaudible Voice Commands"
+      },
+      "source_url": "https://doi.org/10.1145/3133956.3134052",
+      "exhibited": [
+        "ACM CCS 2017, Dallas"
+      ]
+    },
+    {
+      "id": "ian-cheng--life-after-bob",
+      "creator_ids": [
+        "ian-cheng"
+      ],
+      "title": "Life After BOB: The Chalice Study",
+      "year": 2021,
+      "field": "intimacy",
+      "sub": "care",
+      "also": [
+        "interiority",
+        "speculative"
+      ],
+      "machines": [
+        "cybernetic-alife",
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "intimacy-care",
+        "agency-cocreation"
+      ],
+      "kind": "film",
+      "description": "A 48-minute anime made in the Unity game engine and played in real time: the neural engineer Dr. Wong installs an experimental AI called BOB ('Bag of Beliefs') in the nervous system of his ten-year-old daughter Chalice, and BOB soon starts resolving every conflict in her life for her.",
+      "description_zh": "一部用 Unity 游戏引擎制作、实时播放的 48 分钟动画：神经工程师 Wong 博士把名为 BOB（“信念之袋”）的实验性 AI 植入十岁女儿 Chalice 的神经系统，BOB 很快开始替她解决生活中的所有冲突。",
+      "idea_en": "An AI that optimises a child's life also takes it away from her: the life coach is imagined as a second self living inside the body.",
+      "idea_zh": "一个替孩子优化人生的 AI，也拿走了她的人生：作品把“人生教练”想象成住在身体里的第二个自我。",
+      "method": "Real-time animation in Unity; viewers can pause into a 'World Watching' mode, and a companion app and wiki let them edit details that change the onscreen world; the first episode of a planned eight-part series on mental health in the 21st century.",
+      "method_zh": "在 Unity 中实时渲染的动画；观众可以暂停进入“观看世界”模式，并通过配套应用与 wiki 编辑细节，改变屏幕里的世界；计划中的八集“21 世纪心理健康”系列的第一集。",
+      "keywords": [
+        "BOB",
+        "Unity",
+        "real-time animation",
+        "mental health",
+        "Chalice"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=vCc2djR25hg"
+      },
+      "images": [
+        "https://25747658.fs1.hubspotusercontent-eu1.net/hubfs/25747658/Expositions/2021/Ian%20Cheng/press_hires_LifeAfterBOB_image_seq700.jpg",
+        "https://25747658.fs1.hubspotusercontent-eu1.net/hubfs/25747658/Expositions/2021/Ian%20Cheng/Photo%20Digital-_D4S8933_MARCDOMAGE.jpg"
+      ],
+      "source_url": "https://luma.org/en/arles/whats-on/life-after-bob-the-chalice-study",
+      "exhibited": [
+        "LUMA Arles 2021",
+        "The Shed, New York 2021",
+        "Halle am Berghain (LAS Art Foundation), Berlin 2022"
+      ]
+    },
+    {
+      "id": "hisashi-ishihara--affetto",
+      "creator_ids": [
+        "hisashi-ishihara",
+        "minoru-asada"
+      ],
+      "title": "Affetto",
+      "year": 2011,
+      "field": "bodies",
+      "sub": "androids",
+      "also": [
+        "intimacy"
+      ],
+      "machines": [
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "prototype",
+      "description": "A realistic android child, first a head (2011) and later a pneumatic upper body, built at Osaka University to study how caregivers respond to an infant's face and movements; its soft skin and moving face made it one of the most discussed uncanny robots.",
+      "description_zh": "一个逼真的仿真儿童：2011 年先做出头部，后来又有了气动驱动的上半身，由大阪大学研制，用来研究照料者如何回应婴儿的面孔与动作；柔软的皮肤和会动的脸，让它成为最常被讨论的“恐怖谷”机器人之一。",
+      "idea_en": "Developmental robotics builds a baby to study care: the robot's task is to be looked after, and its realism tests how far caregiving extends to machines.",
+      "idea_zh": "发展机器人学造一个婴儿来研究照料：机器人的任务是被照顾，它的逼真程度检验着照料本能能延伸到机器多远。",
+      "method": "Pneumatic actuators under soft silicone skin move the face and, from 2015, a 22-degree-of-freedom upper body; a 2018 study measured and redesigned its facial surface motions.",
+      "method_zh": "柔软硅胶皮肤下的气动执行器驱动面部，2015 年起还驱动一个 22 自由度的上半身；2018 年的研究进一步测定并重新设计了它的面部运动。",
+      "keywords": [
+        "child android",
+        "cognitive developmental robotics",
+        "uncanny valley",
+        "Osaka University"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=nHWimp9uvfo"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1109/devlrn.2011.6037346",
+        "doi": "10.1109/devlrn.2011.6037346",
+        "arxiv": "",
+        "venue": "IEEE ICDL 2011",
+        "title": "Realistic child robot “Affetto” for understanding the caregiver-child attachment relationship that guides the child development"
+      },
+      "source_url": "https://doi.org/10.1109/devlrn.2011.6037346",
+      "exhibited": [
+        "IEEE ICDL 2011, Frankfurt",
+        "Miraikan, Tokyo 2026"
+      ]
+    },
+    {
+      "id": "masahiko-inami--jizai-arms",
+      "creator_ids": [
+        "masahiko-inami"
+      ],
+      "title": "JIZAI ARMS",
+      "year": 2022,
+      "field": "coperformance",
+      "sub": "cyborg",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "robot-arm",
+        "prosthesis-cyborg"
+      ],
+      "lenses": [
+        "embodiment",
+        "agency-cocreation"
+      ],
+      "kind": "prototype",
+      "description": "A base unit worn on the back with sockets for up to six detachable robot arms, which can be swapped between wearers, so that several people can share arms or one person's extra limbs can be moved by someone else.",
+      "description_zh": "一个背负式基座，最多可插接六条可拆卸的机械臂，机械臂能在不同佩戴者之间交换：几个人可以共享手臂，一个人身上的额外肢体也可以由别人操控。",
+      "idea_en": "Extra limbs that can be passed between people turn the body into a social, rearrangeable thing rather than a fixed unit.",
+      "idea_zh": "可以在人与人之间传递的额外肢体，让身体从固定的单位变成可社交、可重组的东西。",
+      "method": "Back-mounted base with sockets for up to six servo-driven arms, likely teleoperated through a miniature master arm; co-designed with designers in the JST ERATO Inami JIZAI Body Project (first author Nahoko Yamamura) and presented at CHI 2023.",
+      "method_zh": "背负式基座最多可接六条舵机驱动的机械臂，可能由他人通过一个缩小的主控臂远程操作；在 JST ERATO 稻见自在化身体项目中与设计师共同设计（第一作者 Nahoko Yamamura），在 CHI 2023 发表。",
+      "keywords": [
+        "supernumerary limbs",
+        "cyborg",
+        "JIZAI body",
+        "wearable robot",
+        "自在肢"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=KFyZQfqaXhE"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3544548.3581169",
+        "doi": "10.1145/3544548.3581169",
+        "arxiv": "",
+        "venue": "CHI 2023",
+        "title": "Social Digital Cyborgs: The Collaborative Design Process of JIZAI ARMS"
+      },
+      "source_url": "https://doi.org/10.1145/3544548.3581169",
+      "exhibited": [
+        "CHI 2023, Hamburg"
+      ]
+    },
+    {
+      "id": "keiichiro-shibuya--super-angels",
+      "creator_ids": [
+        "keiichiro-shibuya",
+        "takashi-ikegami",
+        "hiroshi-ishiguro"
+      ],
+      "title": "Super Angels",
+      "year": 2021,
+      "field": "coperformance",
+      "sub": "theatre",
+      "also": [
+        "speculative"
+      ],
+      "machines": [
+        "humanoid",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "performance",
+      "description": "An opera for singers, children, ballet dancers and the android Alter 3, premiered at the New National Theatre Tokyo: in a future where every child sits an aptitude test at fifteen and lives under 'Mother', an all-powerful AI, Alter 3 sings and moves among a children's choir.",
+      "description_zh": "一部由歌唱家、儿童、芭蕾舞者与仿真人 Alter 3 共同演出的歌剧，在东京新国立剧场首演：在未来世界里，每个孩子十五岁都要接受能力测试，并生活在全能 AI“Mother”的监管之下，Alter 3 在儿童合唱团中歌唱、动作。",
+      "idea_en": "An android with an artificial-life 'mind' shares a national opera stage with children, so living with machines becomes a story the next generation performs.",
+      "idea_zh": "一台带有人工生命“心智”的仿真人与孩子们同登国家歌剧院的舞台，与机器共处成了下一代亲身演出的故事。",
+      "method": "Music by Keiichiro Shibuya and libretto by Masahiko Shimada, produced under the theatre's opera director Kazushi Ono; Alter 3 (body by the Ishiguro Lab, artificial-life control by the Ikegami Lab, cameras in its eyes) performed live with orchestra, choir, dancers and video by WEiRDCORE.",
+      "method_zh": "涩谷庆一郎作曲，岛田雅彦编剧，由新国立剧场歌剧艺术总监大野和士主导制作；Alter 3（身体由石黑实验室制作，人工生命控制来自池上实验室，双眼装有摄像头）与乐团、合唱团、舞者及 WEiRDCORE 的影像同场演出。",
+      "keywords": [
+        "android opera",
+        "Alter 3",
+        "children's choir",
+        "New National Theatre Tokyo",
+        "スーパーエンジェル"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=94oJZQdopHo"
+      },
+      "images": [
+        "https://image.tokion.jp/wp-content/uploads/2021/09/2021SuperAngels_shikama_No_0516-1024x682.jpg",
+        "https://image.tokion.jp/wp-content/uploads/2021/09/2021SuperAngels_shikama_No_0263-1024x682.jpg"
+      ],
+      "source_url": "https://tokion.jp/en/2021/09/22/super-angels-keiichiro-shibuya/",
+      "exhibited": [
+        "New National Theatre, Tokyo, 21–22 Aug 2021"
+      ]
+    },
+    {
+      "id": "lauren-lee-mccarthy--auto",
+      "creator_ids": [
+        "lauren-lee-mccarthy"
+      ],
+      "title": "AUTO",
+      "year": 2025,
+      "field": "speculative",
+      "sub": "counter-devices",
+      "also": [
+        "coperformance"
+      ],
+      "machines": [
+        "vehicle-drone"
+      ],
+      "lenses": [
+        "agency-cocreation",
+        "embodiment"
+      ],
+      "kind": "performance",
+      "description": "A performance staged as test rides of a new driverless vehicle: each ride opens with the question 'Where are we going?', then passengers sing lyrics fed to them karaoke-style through signs and sound, so that the group itself becomes the autopilot. In Zürich the vehicle was a self-driving PostBus shuttle set down on the Münsterhof.",
+      "description_zh": "一场以新型无人驾驶车辆“试乘”为形式的表演：每次乘车都从“我们要去哪里？”开始，随后乘客跟着标识和声音以卡拉 OK 方式提示的歌词一起唱，整车人本身就成了自动驾驶。在苏黎世，这辆车是一台停放在 Münsterhof 广场上的瑞士邮政自动驾驶小巴。",
+      "idea_en": "With nobody in the driver's seat, passengers voice words they read only as they speak them, feeling automation from the inside as both relief and loss of control.",
+      "idea_zh": "驾驶座上空无一人，乘客念出的词句直到出口才读到，从内部体验自动化：既是解脱，也是失控。",
+      "method": "Test rides in parked or moving vehicles (LACMA's parking garage, Zürich's Münsterhof) with signage, sound design and karaoke-style prompts; each iteration is shaped by local workshops on AI, automation, surveillance and infrastructure; developed with a LACMA Art + Technology Lab grant.",
+      "method_zh": "在停放或行驶中的车辆里进行试乘（LACMA 停车场、苏黎世 Münsterhof 广场），配合标识、声音设计与卡拉 OK 式提示；每一版都由当地关于 AI、自动化、监控与基础设施的工作坊共同塑造；由 LACMA Art + Technology Lab 资助开发。",
+      "keywords": [
+        "driverless vehicle",
+        "autopilot",
+        "karaoke",
+        "public participation",
+        "PostBus"
+      ],
+      "images": [
+        "https://freight.cargo.site/t/original/i/e925bb17b205f814d671aa81a478f11c43dac4330d2ab6ea3ab428aa9b84f7dc/AutoMunsterhof_2025_KiorStadtZurichPeterBaracchi-11.jpg",
+        "https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg"
+      ],
+      "source_url": "https://lauren-mccarthy.com/Auto",
+      "exhibited": [
+        "LACMA Art + Technology Lab, Los Angeles, July 2025",
+        "Kunst im öffentlichen Raum (KiöR), Münsterhof, Zürich 2025 (curated by Sabine Himmelsbach, HEK)"
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "name": "World Humanoid Robot Games, Beijing (Aug 2025; 2nd edition 2026)",
+      "why": "280 teams, 26 events (sprints, 1,500 m, 5v5 football, kickboxing); falls, scrums and a robot running into its operator. Left out because it repeats the humanoid half-marathon entry; one of the two could replace the other.",
+      "link": "https://en.wikipedia.org/wiki/World_Humanoid_Robot_Games",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Yuqian Sun — AI Nüshu (AI女书, 2023)",
+      "why": "Two AI agents invent a script modelled on Nüshu, the women's writing of Hunan; Prix Ars Electronica 2025 Honorary Mention (Digital Humanity). First shown at SIGGRAPH Asia 2023, so outside the 2024+ window of this batch; strong Chinese machine-language work.",
+      "link": "https://fakecheese.me/AI-Nushu",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Yuan Goang-Ming — Flat World (2024)",
+      "why": "New 'road movie' stitched from Google Street View scenes found by similarity search; shown in Everyday War, Venice 2024. Machine-seeing angle; no separate media found yet.",
+      "link": "https://www.e-flux.com/announcements/593425/yuan-goang-mingeveryday-war",
+      "found_via": "yuan-goang-ming",
+      "status": "open"
+    },
+    {
+      "name": "Lu Yang — DOKU the Creator (2025)",
+      "why": "Interactive DOKU chapter named among ARTnews' defining artworks of 2025 (Art Basel Hong Kong, Société Berlin). Lu Yang already has three works; add only if the DOKU series needs a newer entry.",
+      "link": "https://societeberlin.com/exhibitions/doku-the-creator-bhavachakra/",
+      "found_via": "lu-yang",
+      "status": "open"
+    },
+    {
+      "name": "Shinichi Furuya — Surpassing Limits of Virtuosity of Pianists by Exoskeleton (2025)",
+      "why": "Finger exoskeleton that moves expert pianists' hands through motions they have never made; S+T+ARTS Prize 2025 nomination. Research paper, so it belongs to recent-research.",
+      "link": "https://starts-prize.aec.at/en/winners/winners2025/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Nozomu Kubota — AI's Silent Omissions (2025–26)",
+      "why": "Prix Ars Electronica 2026 Honorary Mention (Interactive Art+): shows how AI misreads bodily difference as error or obscenity.",
+      "link": "https://archive.aec.at/prix/319686/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Hsin-Chien Huang — The Sculptures of Touch",
+      "why": "Prix Ars Electronica 2026 Honorary Mention (Interactive Art+): embodied digital archive for touch rather than sight; check the machine angle.",
+      "link": "https://archive.aec.at/prix/320418/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Jungwoo Lee — In Writing 'Hurrah for Freedom': Cinema and History",
+      "why": "Prix Ars Electronica 2026 Honorary Mention (New Animation Art): Korean colonial-era film history set against the 'freedom' of generative AI.",
+      "link": "https://ars.electronica.art/prix/en/winners/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Geumhyung Jeong — Toy Prototype (2021)",
+      "why": "Her best-known robot installation and performance (shown in The Milk of Dreams, Venice 2022); a second Jeong work if intimacy needs more.",
+      "link": "https://finestresullarte.info/en/exhibitions/korean-artist-geumhyung-jeong-s-robots-are-on-display-in-modena-italy",
+      "found_via": "geumhyung-jeong",
+      "status": "open"
+    },
+    {
+      "name": "Sougwen Chung — SPECTRAL (World Economic Forum, Davos 2025)",
+      "why": "EEG-driven robot painting performance; it continues SPECTRALITY (D.O.U.G._4, 2021), so not added as a new 2025 work.",
+      "link": "https://www.technologyreview.com/2025/02/17/1111387/ai-sougwen-chung-art-robots-collaboration/",
+      "found_via": "sougwen-chung",
+      "status": "open"
+    }
+  ]
+}

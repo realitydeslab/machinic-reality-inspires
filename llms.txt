@@ -2,7 +2,7 @@
 
 > A catalog of the most salient artworks, robot art, performances, speculative design and research that reflect on AI and machines, read through machine phenomenology: machine perception, machine bodies, machine interiority, intimacy and care, memory and afterlives, labour and infrastructure, classification and power. Works that merely use AI to generate images are left out. Compiled by Reality Design Lab as idea material for artists, designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-601 creators, 802 works (Machine Perception (124), Machine Bodies & Behaviour (125), Machine Interiority (93), Intimacy, Care & Companionship (48), Memory, Death & Afterlives (51), Labour & Infrastructure (76), Classification, Power & Justice (57), Co-performance & Hybrid Bodies (111), Speculative & Critical Design (45), Theory & Foundations (72)), 170 with papers, 533 people, institutions & websites, updated 2026-09-28. Bilingual (English / Simplified Chinese).
+685 creators, 916 works (Machine Perception (138), Machine Bodies & Behaviour (134), Machine Interiority (105), Intimacy, Care & Companionship (61), Memory, Death & Afterlives (62), Labour & Infrastructure (86), Classification, Power & Justice (71), Co-performance & Hybrid Bodies (122), Speculative & Critical Design (54), Theory & Foundations (83)), 211 with papers, 533 people, institutions & websites, updated 2026-10-18. Bilingual (English / Simplified Chinese).
 
 ## Full catalog
 

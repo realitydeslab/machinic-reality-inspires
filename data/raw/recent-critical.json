@@ -1,0 +1,1134 @@
+{
+ "batch": "recent-critical",
+ "creators": [
+  {
+   "id": "raphael-dallaporta",
+   "name": "Raphaël Dallaporta",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and photographer",
+   "based": "France",
+   "bio": "French artist-photographer known for a catalogue of anti-personnel landmines (Antipersonnel, 2004) and for drone-made aerial surveys of archaeological sites in Afghanistan (Ruins, 2011).",
+   "why": "He photographs the technical objects of war and surveillance with a forensic, catalogue-like coolness.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.raphaeldallaporta.com"
+   },
+   "role_zh": "艺术家、摄影师",
+   "bio_zh": "法国艺术家、摄影师，以为反步兵地雷编制图录的《Antipersonnel》（2004）和用无人机航拍阿富汗考古遗址的《Ruins》（2011）知名。",
+   "why_zh": "他以近乎法证图录般的冷静，拍摄战争与监控中的技术物件。",
+   "based_zh": "法国",
+   "connected_to": [
+    "esther-hovers"
+   ],
+   "discovered_via": "esther-hovers"
+  },
+  {
+   "id": "yuval-abraham",
+   "name": "Yuval Abraham",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Journalist and filmmaker; +972 Magazine / Local Call",
+   "based": "Israel",
+   "bio": "Israeli investigative journalist and filmmaker, co-director of the Oscar-winning documentary No Other Land (2024) with Basel Adra, Hamdan Ballal and Rachel Szor.",
+   "why": "His April 2024 investigation for +972 Magazine and Local Call revealed 'Lavender', the AI system the Israeli army used to mark tens of thousands of Gazans as bombing targets.",
+   "disciplines": [
+    "film",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.972mag.com/lavender-ai-israeli-army-gaza/"
+   },
+   "role_zh": "记者、电影人；+972 Magazine / Local Call",
+   "bio_zh": "以色列调查记者与电影人，与巴塞尔·阿德拉、哈姆丹·巴拉勒、蕾切尔·索尔共同执导获奥斯卡奖的纪录片《No Other Land》（2024）。",
+   "why_zh": "他 2024 年 4 月为 +972 Magazine 和 Local Call 所做的调查，揭露了以色列军队用来把数万名加沙人标记为轰炸目标的 AI 系统“Lavender”。",
+   "based_zh": "以色列",
+   "connected_to": [
+    "rachel-szor"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-szor",
+   "name": "Rachel Szor",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Filmmaker and cinematographer",
+   "based": "Israel",
+   "bio": "Israeli filmmaker and cinematographer, one of the four co-directors of No Other Land (2024), filmed in Masafer Yatta in the occupied West Bank.",
+   "why": "With Yuval Abraham she turned the reporting on algorithmic targeting in Gaza into first-hand testimony on film.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人、摄影指导",
+   "bio_zh": "以色列电影人与摄影指导，《No Other Land》（2024）的四位联合导演之一，该片拍摄于约旦河西岸被占领的马萨费尔亚塔。",
+   "why_zh": "她与尤瓦尔·亚伯拉罕一起，把关于加沙算法化打击的报道变成了银幕上的亲历证词。",
+   "based_zh": "以色列",
+   "connected_to": [
+    "yuval-abraham"
+   ],
+   "discovered_via": "yuval-abraham"
+  },
+  {
+   "id": "rojava-center-for-democratic-technologies",
+   "name": "Rojava Center for Democratic Technologies",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Collective of artists, mechatronics engineers and cultural critics",
+   "based": "Qamishlo, SY",
+   "bio": "A fluid group initiated by artist Dani Ploeger at the University of Rojava in Qamishlo in 2022, working in North-East Syria with partners in the Netherlands and Germany.",
+   "why": "It builds 'revolutionary prototypes': working counter-technologies against drones and guided munitions, made from open-source parts and local myth.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://error417.expectation.fail/13scoresagainsttechfascism/mij-the-fog/project"
+   },
+   "role_zh": "由艺术家、机电工程师和文化评论者组成的团体",
+   "bio_zh": "由艺术家 Dani Ploeger 于 2022 年在卡米什利的罗贾瓦大学发起的松散团体，在叙利亚东北部工作，合作者遍及荷兰和德国。",
+   "why_zh": "他们制作“革命原型”：用开源部件和本地神话打造、真能运作的反无人机与反制导武器技术。",
+   "based_zh": "卡米什利，叙利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joseph-wilk",
+   "name": "Joseph Wilk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and programmer",
+   "based": "UK",
+   "bio": "London-born disabled artist and programmer who uses the digital to explore disability and disability to explore the digital, through live coding, performance and games.",
+   "why": "He treats disabled experience as a method for breaking and refusing AI systems.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://art.josephwilk.net/"
+   },
+   "role_zh": "艺术家、程序员",
+   "bio_zh": "出生于伦敦的残障艺术家与程序员，通过现场编程、表演和游戏，用数字探索残障，也用残障探索数字。",
+   "why_zh": "他把残障经验当作拆解和拒绝 AI 系统的方法。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hagit-keysar",
+   "name": "Hagit Keysar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher and activist; senior lecturer, Bezalel Academy of Art and Design",
+   "based": "Jerusalem",
+   "bio": "Jerusalem-based researcher and activist who studies the political uses of open-source, community-made aerial imaging (kites, balloons, DIY drones) in spaces of conflict.",
+   "why": "Her 'civic view from above' sets community aerial mapping against the top-down gaze of drones and satellites.",
+   "disciplines": [
+    "activism",
+    "art"
+   ],
+   "links": {
+    "site": "https://cargocollective.com/hagitkeysar"
+   },
+   "role_zh": "研究者、行动者；比撒列艺术与设计学院高级讲师",
+   "bio_zh": "常驻耶路撒冷的研究者和行动者，研究在冲突地区由社区自制的开源航拍（风筝、气球、自制无人机）的政治用途。",
+   "why_zh": "她的“自下而上的空中视角”用社区航拍测绘，对抗无人机与卫星自上而下的凝视。",
+   "based_zh": "耶路撒冷",
+   "connected_to": [
+    "ariel-caine"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ariel-caine",
+   "name": "Ariel Caine",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; lecturer, UCL Culture, Communication & Media",
+   "based": "London, UK",
+   "bio": "Jerusalem-born artist and researcher working with 3D photography, modelling and surveying technologies in the production of cultural memory and national narratives.",
+   "why": "He turns photogrammetry, a survey technique, into a way of making invisible spatial regimes visible.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "艺术家、研究者；伦敦大学学院文化、传播与媒体系讲师",
+   "bio_zh": "出生于耶路撒冷的艺术家与研究者，用三维摄影、建模和测量技术研究文化记忆与民族叙事是如何被生产的。",
+   "why_zh": "他把摄影测量这种勘测技术，变成让看不见的空间管控显形的方法。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "hagit-keysar"
+   ],
+   "discovered_via": "hagit-keysar"
+  },
+  {
+   "id": "fleuryfontaine",
+   "name": "fleuryfontaine",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo (Galdric Fleury and Antoine Fontaine)",
+   "based": "France",
+   "bio": "French duo trained in architecture and at Le Fresnoy who examine artificial environments that shape bodies and behaviour through installations, films and CGI reconstructions of police violence.",
+   "why": "Their forensic animations ask what surveillance footage can prove, and what falls between its frames.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://squareeyesfilm.com/films/sixty-seven-milliseconds/"
+   },
+   "role_zh": "艺术家二人组（Galdric Fleury 与 Antoine Fontaine）",
+   "bio_zh": "法国二人组，受过建筑和 Le Fresnoy 的训练，通过装置、影片和对警察暴力的 CGI 重建，研究塑造身体与行为的人造环境。",
+   "why_zh": "他们的法证动画追问：监控画面能证明什么，又有什么落在了帧与帧之间。",
+   "based_zh": "法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valerie-veatch",
+   "name": "Valerie Veatch",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "based": "US",
+   "bio": "American writer and director of documentaries on technology and society, including Me @ The Zoo (2012) and Love Child (2014), both for HBO.",
+   "why": "Ghost in the Machine takes the critique of AI bias back to the history of statistics and eugenics for a broadcast audience.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.pbs.org/independentlens/documentaries/ghost-in-the-machine/"
+   },
+   "role_zh": "纪录片导演",
+   "bio_zh": "美国编剧、导演，拍摄技术与社会题材的纪录片，包括为 HBO 制作的《Me @ The Zoo》（2012）和《Love Child》（2014）。",
+   "why_zh": "《机器中的幽灵》把对 AI 偏见的批评追溯到统计学与优生学的历史，并带给电视观众。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bruce-eesly",
+   "name": "Bruce Eesly",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Visual artist",
+   "based": "Berlin, DE",
+   "bio": "Berlin-based artist (b. 1984) working with photography, video, archives and generative imaging to examine how images, classification systems and technical infrastructures shape what we take as real; known for the fake agricultural archive New Farmer.",
+   "why": "He uses AI both as medium and as subject, with humour that exposes the claims of photographic truth and technological progress.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://eesly.xyz/"
+   },
+   "role_zh": "视觉艺术家",
+   "bio_zh": "常驻柏林的艺术家（1984 年生），以摄影、影像、档案和生成式图像研究图像、分类系统和技术基础设施如何塑造我们所认定的现实；以虚构农业档案《New Farmer》知名。",
+   "why_zh": "他把 AI 同时当作媒介和主题，用幽默拆穿关于照片真实与技术进步的说法。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vinzenz-aubry",
+   "name": "Vinzenz Aubry",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist working with real-time systems",
+   "based": "Berlin, DE",
+   "bio": "French, Berlin-based artist who works across installation, performance, games, film, music and net art with generative real-time systems; a graduate of MIT and the Berlin University of the Arts.",
+   "why": "Brute Force (with Robert Schnüll) stages the last human gesture left in automated coding.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://brute-force.it"
+   },
+   "role_zh": "从事实时系统创作的艺术家",
+   "bio_zh": "法国籍、常驻柏林的艺术家，以生成式实时系统创作装置、表演、游戏、影像、音乐和网络艺术；毕业于麻省理工学院和柏林艺术大学。",
+   "why_zh": "他与 Robert Schnüll 合作的《暴力破解》，把自动化编程中人类仅剩的动作搬上了舞台。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "robert-schnuell"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-schnuell",
+   "name": "Robert Schnüll",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher in digital infrastructure; teaches at the Free University of Bozen-Bolzano",
+   "based": "Berlin, DE",
+   "bio": "Berlin-based artist working on digital infrastructure, technology criticism and computational ecology; founded the Lab for Digital Infrastructure at the Berlin University of the Arts (2020–2024).",
+   "why": "He works toward a 'digitally emancipated society' by making the infrastructure under software visible.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://brute-force.it"
+   },
+   "role_zh": "研究数字基础设施的艺术家；任教于博岑自由大学",
+   "bio_zh": "常驻柏林的艺术家，研究数字基础设施、技术批评与计算生态；曾在柏林艺术大学创办数字基础设施实验室（2020–2024）。",
+   "why_zh": "他通过让软件底下的基础设施显形，推动一个“数字上获得解放的社会”。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "vinzenz-aubry"
+   ],
+   "discovered_via": "vinzenz-aubry"
+  },
+  {
+   "id": "ryat-yezbick",
+   "name": "Ryat Yezbick",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Visual artist; faculty, Arizona State University Narrative and Emerging Media",
+   "based": "Los Angeles, US",
+   "bio": "Visual artist and author working on the body, memory and the politics of witnessing in an era of digital surveillance; former MIT Open Documentary Lab fellow and Onassis ONX Studio fellow.",
+   "why": "Their work tests whether a machine-vision agent can be taught to read violent news images critically.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://ryatyezbick.com"
+   },
+   "role_zh": "视觉艺术家；亚利桑那州立大学叙事与新兴媒体项目教师",
+   "bio_zh": "视觉艺术家与作者，研究数字监控时代的身体、记忆与见证的政治；曾任麻省理工学院开放纪录片实验室和 Onassis ONX Studio 驻地研究员。",
+   "why_zh": "其作品检验：能否教会一个机器视觉代理去批判性地阅读暴力新闻图像。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "milo-talwani"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "milo-talwani",
+   "name": "Milo Talwani",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Filmmaker, composer and creative technologist",
+   "based": "Los Angeles, US",
+   "bio": "Los Angeles-based filmmaker, composer and creative technologist; formerly associate programmer for the New Frontier section of the Sundance Film Festival.",
+   "why": "He built the technical pipeline, AI agent and Gaussian-splat animation, behind The Innocence of Unknowing.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人、作曲家、创意技术人",
+   "bio_zh": "常驻洛杉矶的电影人、作曲家和创意技术人，曾任圣丹斯电影节 New Frontier 单元副选片人。",
+   "why_zh": "《无知的纯真》背后的技术流程，包括 AI 代理和高斯泼溅动画，由他搭建。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "ryat-yezbick"
+   ],
+   "discovered_via": "ryat-yezbick"
+  }
+ ],
+ "works": [
+  {
+   "id": "holly-herndon--the-call",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "The Call",
+   "year": 2024,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset",
+    "voice-listening"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An interactive spatial-audio installation at Serpentine North built on choral AI models trained on fifteen UK community choirs, who sang a songbook of hymns and exercises the artists wrote as training data; the choristers are members of a data trust that shares control over how the models are used.",
+   "description_zh": "蛇形画廊北馆的一件互动空间声音装置，所用的合唱 AI 模型训练自英国十五个社区合唱团：他们演唱艺术家专门为生成训练数据而写的赞美诗与练声曲；合唱团员同时是一个数据信托的成员，共同决定模型如何被使用。",
+   "idea_en": "If all media is training data, the making of training data can itself be the artwork, and consent and ownership can be designed into it from the start.",
+   "idea_zh": "既然一切媒体都是训练数据，那么制作训练数据本身就可以是艺术，同意与所有权也可以从一开始就设计进去。",
+   "method": "A composed songbook and recording protocol were used to record choirs across the UK; the recordings trained choral voice models that drive a multichannel installation in the chapel-like gallery, with gathering objects co-designed by the architecture studio sub; contributors share control through a data-trust agreement.",
+   "method_zh": "艺术家以自编歌本和录音规程在英国各地录制合唱团，用录音训练合唱声音模型，驱动如礼拜堂般的展厅中的多声道装置（聚集用的器物与建筑工作室 sub 共同设计）；贡献者通过数据信托协议共同掌控模型。",
+   "keywords": [
+    "choral AI",
+    "training data",
+    "data trust",
+    "consent",
+    "Serpentine Arts Technologies",
+    "community choirs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DNlr7olF6rE"
+   },
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2024/08/SerpentineGallery_HHMD03119_B2-2-1200x627.jpg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "Serpentine North, London, 4 Oct 2024 – 2 Feb 2025",
+    "Prix Ars Electronica 2025, Honorary Mention (Digital Musics & Sound Art)",
+    "S+T+ARTS Prize 2026, Honorary Mention"
+   ]
+  },
+  {
+   "id": "yuval-abraham--naza",
+   "creator_ids": [
+    "yuval-abraham",
+    "rachel-szor"
+   ],
+   "title": "NAZA",
+   "year": 2026,
+   "field": "labour",
+   "sub": "military",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A feature documentary shot at night on Tel Aviv rooftops in which 24 anonymous Israeli soldiers and intelligence officers, their faces and voices digitally altered, explain the machinery of the bombing of Gaza: phone hacking and tracking, AI-assisted target lists such as Lavender, and 'NAZA', the number of civilian deaths a strike is allowed to cause.",
+   "description_zh": "一部在特拉维夫屋顶夜间拍摄的纪录长片：24 名匿名的以色列士兵和情报人员（面孔与声音经数字处理）讲述轰炸加沙背后的机制，包括手机入侵与追踪、Lavender 等 AI 辅助的目标清单，以及“NAZA”，即一次打击被允许造成的平民死亡人数。",
+   "idea_en": "When killing is organised as a data pipeline, the decisive figure is not the target but a threshold: how many civilian deaths a strike may cost.",
+   "idea_zh": "当杀戮被组织成一条数据流水线，决定性的数字不是目标本身，而是一个阈值：一次打击可以“花掉”多少条平民的生命。",
+   "method": "Night-time interviews with anonymised insiders (faces and voices digitally altered), building on Abraham's 2024 +972 Magazine / Local Call reporting on the Lavender and 'Where's Daddy?' systems; produced by The Guardian with JW Films, executive producer Jonathan Glazer.",
+   "method_zh": "对匿名内部人士的夜间访谈（面孔与声音经数字处理），延续亚伯拉罕 2024 年在 +972 Magazine / Local Call 上对 Lavender 和“爸爸在哪？”系统的报道；由《卫报》与 JW Films 制作，乔纳森·格雷泽任执行制片。",
+   "keywords": [
+    "Gaza",
+    "Lavender",
+    "Where's Daddy?",
+    "AI targeting",
+    "collateral damage",
+    "+972 Magazine",
+    "The Guardian"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=40KW6knYMo4"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2026/750x500/naza.jpg?itok=GuhaLMVA"
+   ],
+   "source_url": "https://www.labiennale.org/en/news/new-film-has-been-added-program-83rd-venice-film-festival",
+   "exhibited": [
+    "83rd Venice International Film Festival 2026, Competition – Special Jury Prize"
+   ]
+  },
+  {
+   "id": "nicolas-gourault--their-eyes",
+   "creator_ids": [
+    "nicolas-gourault"
+   ],
+   "title": "Their Eyes",
+   "year": 2025,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A 22-minute documentary about online annotators in Venezuela, Kenya and the Philippines who label street images, again and again, for American self-driving cars; recordings of their labelling screens alternate with footage the workers shot of their own homes.",
+   "description_zh": "一部 22 分钟的纪录短片，讲述委内瑞拉、肯尼亚和菲律宾的线上标注员一遍又一遍地为美国自动驾驶汽车标注街景图像；他们标注屏幕的录屏与工人自己拍摄的家中画面交替出现。",
+   "idea_en": "A self-driving car learns to see streets through the eyes of people who will never walk them; machine vision is outsourced human vision.",
+   "idea_zh": "自动驾驶汽车透过那些永远不会走上这些街道的人的眼睛学会“看”街道；机器视觉其实是外包出去的人类视觉。",
+   "method": "Screen captures of annotation software, remote interviews and footage filmed by the annotators themselves; a single-screen film that follows the artist's installation Unknown Label (2023).",
+   "method_zh": "结合标注软件录屏、远程访谈和标注员自己拍摄的画面；是艺术家装置《Unknown Label》（2023）之后的单屏影片。",
+   "keywords": [
+    "data annotation",
+    "self-driving cars",
+    "Berlinale Shorts",
+    "Kenya",
+    "Venezuela",
+    "Philippines"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ftjQcJEMgvw"
+   },
+   "images": [
+    "https://www.berlinale.de/media/filmstills/2025/berlinale-shorts-2025/202513949_1_RWD_1380.jpg"
+   ],
+   "source_url": "https://lightcone.org/en/film-15585-their-eyes",
+   "exhibited": [
+    "Berlinale Shorts 2025 (world premiere)"
+   ]
+  },
+  {
+   "id": "esther-hovers--trompe-l-oeil",
+   "creator_ids": [
+    "esther-hovers",
+    "raphael-dallaporta"
+   ],
+   "title": "Trompe l'œil",
+   "year": 2026,
+   "field": "perception",
+   "sub": "evasion",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "Cardboard silhouettes of people, screen-printed from photographs, are staged on Paris streets in view of the city's AI-assisted surveillance cameras: a trick any person sees through at once but an algorithm finds hard to recognise; in the gallery they stand as small cut-outs on cardboard boxes.",
+   "description_zh": "用照片丝网印制的人形纸板剪影被摆在巴黎街头、AI 辅助监控摄像头的视野里：这种把戏任何人一眼就能识破，算法却很难认出来；在展厅中，它们是立在纸箱上的小剪影。",
+   "idea_en": "Cardboard can talk back to 'smart' surveillance: a low-tech decoy turns the street into a stage built for the camera.",
+   "idea_zh": "纸板也能回嘴“智能”监控：一个低技术的诱饵，就把街道变成了专为摄像头搭建的舞台。",
+   "method": "Photographs of people are screen-printed and mounted on cardboard; the cut-outs are staged before Paris street cameras (likely the algorithmic video surveillance France authorised for the 2024 Olympics) and shown as maquettes about 28 cm high on cardboard boxes.",
+   "method_zh": "把人物照片丝网印刷后裱在纸板上，摆放在巴黎街头摄像头前（很可能针对法国为 2024 年奥运会批准的算法视频监控），展览时则以约 28 厘米高的小模型立在纸箱上。",
+   "keywords": [
+    "algorithmic video surveillance",
+    "Paris",
+    "decoy",
+    "cardboard",
+    "trompe-l'œil"
+   ],
+   "images": [
+    "https://freight.cargo.site/t/original/i/B2310869672983901734834413778777/RaphaelDallaporta-EstherHovers-TrompelOeil-01.jpg",
+    "https://freight.cargo.site/t/original/i/V3037089665492288790133837150041/Quickscan-05-H-LR.jpg"
+   ],
+   "source_url": "https://www.estherhovers.com",
+   "exhibited": [
+    "Quickscan #3 – Photography Now, Nederlands Fotomuseum, Rotterdam, 2026"
+   ]
+  },
+  {
+   "id": "simone-c-niquille--beauty-and-the-beep",
+   "creator_ids": [
+    "simone-c-niquille"
+   ],
+   "title": "Beauty and The Beep",
+   "year": 2024,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "robot-creature",
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A 13-minute film in which Bertil, a synthetic chair modelled on IKEA's first computer-rendered catalogue image, tries to find a place to sit in a virtual copy of the model home Boston Dynamics built in 2016 to show off its robot dog SpotMini; a banana trips it, a treadmill traps it and smart devices keep beeping.",
+   "description_zh": "一部 13 分钟的影片：以宜家第一张电脑渲染目录图为原型的合成椅子 Bertil，试图在一座虚拟住宅里找个地方坐下；这座住宅复刻自波士顿动力 2016 年为展示机器狗 SpotMini 搭建的样板房。香蕉把它绊倒，跑步机困住它，智能设备响个不停。",
+   "idea_en": "Before a robot can live in a home, the home must be standardised for computer vision, and because real homes are private and messy, the industry trains on simulated ones.",
+   "idea_zh": "机器人要住进家里，家先得被标准化成计算机视觉能理解的样子；而真实的家既私密又凌乱，于是业界只能拿模拟出来的家来训练。",
+   "method": "A Unity recording of a reconstructed Boston Dynamics demo house, with the chair driven by machine-learning 'brains' (Walker, Treadmill, Climber) trained in Unity; voices include Amazon Echo excerpts.",
+   "method_zh": "在 Unity 中重建波士顿动力样板房并录制，椅子由在 Unity 中训练的机器学习“大脑”（Walker、Treadmill、Climber）驱动；声音包括亚马逊 Echo 的片段。",
+   "keywords": [
+    "synthetic data",
+    "Boston Dynamics",
+    "SpotMini",
+    "IKEA",
+    "smart home",
+    "Unity"
+   ],
+   "video": {
+    "url": "https://vimeo.com/939037482"
+   },
+   "images": [
+    "https://technofle.sh/static/media/BB_BeautyBeep_Wall-A_v1.00_00_39_09.Still003.jpg",
+    "https://technofle.sh/static/media/BB_BeautyBeep_Wall-A_v1.00_08_53_26.Still008.jpg"
+   ],
+   "source_url": "https://technofle.sh/beauty-and-the-beep.html"
+  },
+  {
+   "id": "tega-brain--slop-evader",
+   "creator_ids": [
+    "tega-brain"
+   ],
+   "title": "Slop Evader",
+   "year": 2025,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "product",
+   "description": "A free browser extension and search page that only returns results published before 30 November 2022, the day ChatGPT was released, so that Google and sites such as Reddit, Stack Exchange, Mumsnet and Pinterest can be searched as they were before generative AI.",
+   "description_zh": "一个免费的浏览器扩展和搜索页面，只返回 2022 年 11 月 30 日（ChatGPT 发布当天）之前发布的结果，让人可以像生成式 AI 出现之前那样搜索 Google 以及 Reddit、Stack Exchange、Mumsnet、Pinterest 等网站。",
+   "idea_en": "ChatGPT's release date has become a border in the archive: before it, the web is presumed human; after it, everything is suspect.",
+   "idea_zh": "ChatGPT 的发布日期成了档案中的一道边界：在它之前，网络被默认是人写的；在它之后，一切都可疑。",
+   "method": "Instead of trying to detect AI-generated content, the tool appends Google's date-range parameter to every query (cut-off 30 Nov 2022); available for Chrome and Firefox, with open-source code.",
+   "method_zh": "它不去检测 AI 生成内容，而是给每次查询加上 Google 的日期范围参数（截止 2022 年 11 月 30 日）；提供 Chrome 和 Firefox 版本，代码开源。",
+   "keywords": [
+    "AI slop",
+    "search",
+    "browser extension",
+    "digital refusal",
+    "pre-ChatGPT web"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/dc928c168d44f247e4ee0399a326107ef7993f6d6d542115768d56ba529b2eb0/margquee-edited.png",
+    "https://freight.cargo.site/t/original/i/0ead6d34eb90a60774f6dcd3412b91f1a21fa8d6278612ab07429e13f7d46d85/quora-pizza.png"
+   ],
+   "source_url": "https://tegabrain.com/Slop-Evader",
+   "code_url": "https://github.com/tegacodes/slop-evader",
+   "exhibited": [
+    "S+T+ARTS Prize 2026, nomination"
+   ]
+  },
+  {
+   "id": "rojava-center-for-democratic-technologies--mij-the-fog",
+   "creator_ids": [
+    "rojava-center-for-democratic-technologies"
+   ],
+   "title": "Mij (The Fog)",
+   "year": 2026,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A 3D-printed votive statue of a worshipper of Ninurta, the Sumerian god of thunder and fog, whose eyes detect the infrared laser that guides missiles fired from drones, such as the Turkish-made MAM-C, and whose mouth then releases fog to blind the missile's targeting; it is both a sculpture and a working civilian defence system.",
+   "description_zh": "一尊 3D 打印的苏美尔雷雨与雾之神尼努尔塔的崇拜者雕像：它的眼睛能探测无人机发射的导弹（如土耳其制造的 MAM-C）用于制导的红外激光，随即从口中喷出雾气，让导弹的瞄准失效；它既是雕塑，也是一套真能运作的民用防御系统。",
+   "idea_en": "Against a drone's laser eye, the defence can be fog, folklore and open-source parts: a counter-weapon that is also a myth of self-determination.",
+   "idea_zh": "对付无人机的激光之眼，防御可以是雾、民间传说和开源零件：一件反武器，同时也是关于自决的神话。",
+   "method": "Laser-warning sensors based on open-source defence research sit in the statue's eyes and trigger an internal fog generator against semi-active laser (SAL) guided munitions; a film combines the arms maker's promotional footage, tests of the system and a Kurdish song about Ninurta defeating the bird Anzû.",
+   "method_zh": "依据开源防务研究制作的激光告警传感器装在雕像眼中，触发内部的造雾装置，以对抗半主动激光（SAL）制导弹药；配套影片混合了军火商的宣传片、系统测试画面，以及一首讲述尼努尔塔战胜怪鸟安祖的库尔德歌曲。",
+   "keywords": [
+    "drone warfare",
+    "laser-guided missiles",
+    "Rojava",
+    "counter-technology",
+    "Ninurta",
+    "open source"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3906118/preview/",
+    "https://archive.aec.at/asset/3882865/preview/"
+   ],
+   "source_url": "https://error417.expectation.fail/13scoresagainsttechfascism/mij-the-fog/project",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "13 Scores Against Tech Fascism, Error 417 Expectation Failed (online), 2026",
+    "Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "joseph-wilk--cripship",
+   "creator_ids": [
+    "joseph-wilk"
+   ],
+   "title": "CripShip: Disability Saves Society from BigTech",
+   "year": 2024,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A tabletop role-playing game in which players become 'Slop Moppers' at an underfunded Ministry of AI Spills, with skills drawn from disabled experience; they investigate real cases of harm caused by large language models and end each case by interrogating a real LLM to expose its biases and limits.",
+   "description_zh": "一款桌面角色扮演游戏：玩家扮演资金匮乏的“AI 泄漏部”里的“泔水清洁工”，角色技能取自残障经验；他们调查大语言模型造成危害的真实案例，并在每个案件结尾审问一个真实的大语言模型，揭露它的偏见与局限。",
+   "idea_en": "Disabled experience, with its workarounds, crip time and refusals, is a method for breaking AI systems and for imagining worlds that do not need them.",
+   "idea_zh": "残障经验——变通、残障时间和拒绝——是拆解 AI 系统的方法，也是想象不需要这些系统的世界的方法。",
+   "method": "A storyteller-led game with dice, case files and character skills drawn from disability culture (Criptastic Hacking, Crip-time, Dreaming Justice); players never look at a screen, the storyteller relays their questions to a commercial LLM; no AI was used to write or illustrate the game.",
+   "method_zh": "由说书人主持的游戏，使用骰子、案件卷宗和源自残障文化的角色技能（Criptastic Hacking、Crip-time、Dreaming Justice）；玩家从不看屏幕，由说书人把他们的问题转给商用大语言模型；游戏的文字与插图均未使用 AI。",
+   "keywords": [
+    "tabletop RPG",
+    "disability",
+    "LLM jailbreaking",
+    "AI refusal",
+    "crip technoscience"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1027231612"
+   },
+   "images": [
+    "https://art.josephwilk.net/imgs/projects/cripship/spreads_gameplay.jpg",
+    "https://art.josephwilk.net/imgs/thumbs/cripship_color.png"
+   ],
+   "source_url": "https://art.josephwilk.net/projects/cripship.html",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Watershed, Bristol, 2024",
+    "V&A, London, 2025",
+    "Prix Ars Electronica 2025, Honorary Mention (Artificial Life & Intelligence)",
+    "FACT Liverpool, 2026"
+   ]
+  },
+  {
+   "id": "hagit-keysar--terra-ex-machina",
+   "creator_ids": [
+    "hagit-keysar",
+    "ariel-caine"
+   ],
+   "title": "Terra ex Machina",
+   "year": 2024,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "infrastructure",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A video work that maps the invisible 'geofence' DJI programs around Jerusalem's Old City: a drone flown along the 10-km perimeter with its camera fixed on the Dome of the Rock yields a point cloud in which the no-fly zone appears as a black void, then filled with kite and balloon photographs made with residents inside the zone.",
+   "description_zh": "一件影像作品，测绘大疆在耶路撒冷老城周围设定的、看不见的“地理围栏”：无人机沿约 10 公里的边界飞行，镜头始终对准圆顶清真寺，生成的点云中禁飞区显现为一片黑色空洞；随后，艺术家用与区内居民一起拍摄的风筝和气球航拍照片填补这片空白。",
+   "idea_en": "A geofence is a wall written in code by a drone company; it becomes visible only as the place where the machine refuses to look.",
+   "idea_zh": "地理围栏是一家无人机公司用代码写成的墙；只有在机器拒绝去看的地方，它才显形。",
+   "method": "More than 10,000 sequential drone images from seven launch points are processed into a photogrammetric point cloud; low-altitude DIY aerial images made with kites and balloons (with Public Lab and residents of Silwan and Sheikh Jarrah) are embedded as further point clouds.",
+   "method_zh": "从七个起飞点拍摄的一万多张连续无人机图像被处理成摄影测量点云；与 Public Lab 以及西尔万、谢赫贾拉居民一起用风筝和气球拍摄的低空自制航拍图像，作为另外的点云嵌入其中。",
+   "keywords": [
+    "geofence",
+    "DJI",
+    "no-fly zone",
+    "Jerusalem",
+    "photogrammetry",
+    "kite mapping",
+    "Public Lab"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3905171/preview/",
+    "https://archive.aec.at/asset/3905172/preview/"
+   ],
+   "source_url": "https://cargocollective.com/hagitkeysar/Terra-Ex-Machina-1",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "ARE YOU FOR REAL 2 (ifa), cluster 'Dead Futures', 2024",
+    "Prix Ars Electronica 2026, Honorary Mention (Digital Humanity)"
+   ]
+  },
+  {
+   "id": "fleuryfontaine--sixty-seven-milliseconds",
+   "creator_ids": [
+    "fleuryfontaine"
+   ],
+   "title": "Sixty-seven Milliseconds",
+   "year": 2025,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A 15-minute animated documentary that reconstructs in CGI a night in 2020 when a French police officer shot a 19-year-old in the head with a 40-mm riot-control launcher; a CCTV camera recording at 15 frames per second caught the projectile in mid-air on a single frame, a 67-millisecond interval.",
+   "description_zh": "一部 15 分钟的动画纪录片，用 CGI 重建 2020 年的一个夜晚：一名法国警察用 40 毫米防暴发射器击中一名 19 岁青年的头部；一台以每秒 15 帧拍摄的监控摄像头，在仅仅一帧、即 67 毫秒的间隔里拍下了空中的弹丸。",
+   "idea_en": "At 15 frames per second, a surveillance camera can contradict a police account and still miss what happens between its frames: evidence lives in the machine's intervals.",
+   "idea_zh": "每秒 15 帧的监控摄像头既能推翻警方的说法，也会错过帧与帧之间发生的事：证据就藏在机器的间隔里。",
+   "method": "A CGI reconstruction modelled on chronophotography, combining the CCTV footage, eyewitness accounts and wiretaps of the officers involved.",
+   "method_zh": "借鉴连续摄影术的 CGI 重建，结合监控录像、目击者证词和涉事警员的电话窃听记录。",
+   "keywords": [
+    "CCTV",
+    "frame rate",
+    "police violence",
+    "France",
+    "chronophotography",
+    "forensic animation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1064236455"
+   },
+   "images": [
+    "https://squareeyesfilm.com/content/uploads/2025/03/67MS_Vimeo-1120x630.jpg"
+   ],
+   "source_url": "https://squareeyesfilm.com/films/sixty-seven-milliseconds/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Visions du Réel, Nyon, 2025",
+    "Prix Ars Electronica 2025, Honorary Mention (New Animation Art)"
+   ]
+  },
+  {
+   "id": "valerie-veatch--ghost-in-the-machine",
+   "creator_ids": [
+    "valerie-veatch"
+   ],
+   "title": "Ghost in the Machine",
+   "year": 2026,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A feature documentary in chapters, built on nearly 40 interviews (Abeba Birhane, Emily M. Bender, Arvind Narayanan, Dan McQuillan, Angela Saini and others), that traces machine learning back to the statistics of eugenics and treats 'artificial intelligence' as a marketing term; it opens with Microsoft's Tay chatbot absorbing the worst of the internet.",
+   "description_zh": "一部分章节的纪录长片，基于近 40 位受访者（阿贝巴·比尔哈内、艾米莉·M·本德、阿尔温德·纳拉亚南、丹·麦奎兰、安吉拉·赛尼等）的访谈，把机器学习追溯到优生学的统计方法，并把“人工智能”视为一个营销用语；影片以微软聊天机器人 Tay 迅速吸收网络中最恶劣的内容开场。",
+   "idea_en": "Bias in AI is not a later bug: the statistics of correlation and classification were first built to rank human beings.",
+   "idea_zh": "AI 中的偏见不是后来才出现的漏洞：相关与分类的统计学，最初就是为了给人排等级而建立的。",
+   "method": "Interviews with computer and social scientists and archival material, organised in chapters from Karl Pearson's eugenic statistics to large language models and superintelligence rhetoric.",
+   "method_zh": "以对计算机科学家和社会科学家的访谈和档案材料为主，按章节从卡尔·皮尔逊的优生学统计一路讲到大语言模型和超级智能话语。",
+   "keywords": [
+    "eugenics",
+    "Karl Pearson",
+    "Tay",
+    "AI hype",
+    "Independent Lens",
+    "Sundance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dLQzVLtvdv8"
+   },
+   "images": [
+    "https://www.pbs.org/independentlens/wp-content/uploads/2026/07/GHOSTINTHEMA_Thumbnail_1920x1080.jpg",
+    "https://cinapse.co/wp-content/uploads/2026/01/6qnynar3wGhost_in_the_Machine-Still_1-1-scaled.jpg"
+   ],
+   "source_url": "https://www.pbs.org/independentlens/documentaries/ghost-in-the-machine/",
+   "exhibited": [
+    "Sundance Film Festival 2026",
+    "PBS Independent Lens, September 2026"
+   ]
+  },
+  {
+   "id": "stephanie-dinkins--data-trust",
+   "creator_ids": [
+    "stephanie-dinkins"
+   ],
+   "title": "Data Trust",
+   "year": 2025,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "dataset",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A participatory installation in which visitors gift spoken stories, in the gallery or through an app, to a community archive; the stories animate wall-sized AI projections and are encoded into bacterial DNA in the soil of okra and California black oak plants growing in the room.",
+   "description_zh": "一件参与式装置：观众在展厅里或通过一个应用程序，把口述故事“赠予”一个社区档案；这些故事驱动整面墙的 AI 投影，同时被编码进细菌 DNA，存入展厅中秋葵和加州黑栎的土壤里。",
+   "idea_en": "Data can be given rather than taken: a trust built on consent, community ownership and storage in living matter rather than a company's cloud.",
+   "idea_zh": "数据可以被赠予，而不是被攫取：一个建立在同意、社区所有权之上，存放在活体物质而非公司云端的信托。",
+   "method": "Oral histories are recorded, processed with AI into continuously evolving projections and stored as DNA in bacteria grown in the plants' soil; further stories arrive through thestorieswetellourmachines.app.",
+   "method_zh": "口述历史被录制下来，经 AI 处理成持续变化的投影，并以 DNA 形式存入植物土壤中的细菌；更多故事通过 thestorieswetellourmachines.app 收集。",
+   "keywords": [
+    "data trust",
+    "consent",
+    "DNA data storage",
+    "oral history",
+    "Hewlett 50 Arts Commissions"
+   ],
+   "images": [
+    "https://48hills.org/wp-content/uploads/2025/11/ICA-DATA-TRUST-09192025_123-1024x576.jpeg",
+    "https://www.icasanjose.org/wp-content/uploads/2025/08/Website-banner-scaled.jpg"
+   ],
+   "source_url": "https://www.icasanjose.org/archive/data_trust/",
+   "exhibited": [
+    "ICA San José, 19 Sep 2025 – 22 Mar 2026"
+   ]
+  },
+  {
+   "id": "bruce-eesly--endangered-gestures",
+   "creator_ids": [
+    "bruce-eesly"
+   ],
+   "title": "Endangered Gestures",
+   "year": 2026,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A short film and pocket book of hand gestures that an image generator proposed for words that began disappearing from US government websites and documents in March 2025, such as 'accessibility'; the AI hands, with their unreliable fingers, hover between sign language and technical error.",
+   "description_zh": "一部短片和一本口袋书，收录图像生成器为一批词语“设计”的手势；这些词（如“无障碍”）自 2025 年 3 月起从美国政府网站和文件中消失。AI 画出的手指头靠不住，手势悬在手语与技术错误之间。",
+   "idea_en": "Asking the intelligence complicit in erasure to give banned words a body yields a fragile, glitching language of resistance.",
+   "idea_zh": "请参与抹除的那种智能为被禁的词赋予身体，得到的是一种脆弱、出错的抵抗语言。",
+   "method": "Each censored term was prompted into a generative image model as a hand gesture; the results were edited into a 4K single-channel video (6 min 10 s) with voice-over and a 64-page book.",
+   "method_zh": "把每个被审查的词作为手势提示词输入生成式图像模型，再把结果剪辑成一部配有旁白的 4K 单频影像（6 分 10 秒）和一本 64 页的小书。",
+   "keywords": [
+    "censorship",
+    "US government websites",
+    "generative AI hands",
+    "sign language",
+    "artist book"
+   ],
+   "images": [
+    "https://eesly.xyz/content/2-endangered-gestures/2-Detail/Endangered-Gestures-1.jpg",
+    "https://eesly.xyz/content/2-endangered-gestures/1-Intro/Endangered-Gestures-1.jpg"
+   ],
+   "source_url": "https://eesly.xyz/endangered-gestures",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (New Animation Art)"
+   ]
+  },
+  {
+   "id": "vinzenz-aubry--brute-force",
+   "creator_ids": [
+    "vinzenz-aubry",
+    "robert-schnuell"
+   ],
+   "title": "Brute Force",
+   "year": 2026,
+   "field": "labour",
+   "sub": "automation",
+   "machines": [
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A computer running a local language model keeps building and publishing small software-as-a-service products nobody asked for; when it stalls there is no keyboard and no Enter key, only a whip, and a lash on the machine makes it generate again.",
+   "description_zh": "一台运行本地语言模型的电脑不停地开发并发布没人需要的小型 SaaS 软件；它停下来时，现场没有键盘也没有回车键，只有一根鞭子，抽打机器它才会继续生成。",
+   "idea_en": "Once code writes itself, the human role shrinks to pressing Enter; control over the machine survives only as a ritual of punishment.",
+   "idea_zh": "当代码自己写自己，人的角色就缩成了按下回车；对机器的控制只剩下一种惩罚的仪式。",
+   "method": "A local LLM builds random SaaS projects and self-publishes them to brute-force.it; an accelerometer in the whip turns each strike into a new generation cycle.",
+   "method_zh": "本地大语言模型随机开发 SaaS 项目并自动发布到 brute-force.it；鞭子里的加速度计把每一次抽打转换成新的生成循环。",
+   "keywords": [
+    "LLM coding",
+    "automation",
+    "dead internet",
+    "SaaS",
+    "whip",
+    "alienation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1185849442"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3901750/preview/",
+    "https://archive.aec.at/asset/3901751/preview/"
+   ],
+   "source_url": "https://brute-force.it",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "ryat-yezbick--the-innocence-of-unknowing",
+   "creator_ids": [
+    "ryat-yezbick",
+    "milo-talwani"
+   ],
+   "title": "The Innocence of Unknowing",
+   "year": 2025,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vision-system",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A feature-length animated documentary in which the artists question 'Aurora', an AI agent they trained in critical theory, about news footage of US mass shootings; its computer-vision readings of police formations, weapons and fleeing bodies become shimmering Gaussian-splat scenes, and the AI never manages to say 'I don't know'.",
+   "description_zh": "一部动画纪录长片：艺术家与他们用批判理论训练的 AI 代理“Aurora”讨论美国大规模枪击事件的新闻画面；它用计算机视觉对警察阵型、武器和逃散人群作出的解读，被转化为闪烁的高斯泼溅场景，而这个 AI 始终说不出“我不知道”。",
+   "idea_en": "Teaching a machine to read news images critically exposes its rash certainty as much as the media's framing; what it cannot learn is to admit not knowing.",
+   "idea_zh": "教机器批判地阅读新闻图像，暴露的既是媒体的框架，也是机器草率的笃定；它学不会的，是承认自己不知道。",
+   "method": "A custom AI agent with computer vision tags archival broadcast footage (police weapons, uniforms, formations, victims' raised arms); the clips are converted into volumetric Gaussian-splat animation and framed by a live dialogue with the agent.",
+   "method_zh": "定制的 AI 代理用计算机视觉为新闻档案画面打标签（警方武器、制服、阵型、受害者举起的双手）；画面被转换成体积化的高斯泼溅动画，并以与该代理的实时对话串联。",
+   "keywords": [
+    "mass shootings",
+    "news media",
+    "computer vision",
+    "Gaussian splatting",
+    "AI agent",
+    "Tribeca Immersive"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1160008874"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3887150/preview/",
+    "https://archive.aec.at/asset/3887151/preview/"
+   ],
+   "source_url": "https://ryatyezbick.com",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Tribeca Festival 2025 (Immersive)",
+    "Prix Ars Electronica 2026, Honorary Mention (New Animation Art)",
+    "Lumen Prize 2026, Legacy Future finalist"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Meta Office — Meta Office (2021)",
+   "why": "Anonymous project documenting Amazon Mechanical Turk workers' home 'offices' as metadata; shown in The World Through AI (Jeu de Paume 2025) but made in 2021, outside the recent-* window.",
+   "link": "https://vimeo.com/594627702",
+   "found_via": "world-through-ai-2025",
+   "status": "open"
+  },
+  {
+   "name": "Júlia Nueno Guitart — Sabot: Riding the Algorithm (2022–)",
+   "why": "Open-source app turning delivery riders' data into a worker-owned commons (IWGB, RidersXDerechos); Prix Ars Electronica 2026 HM (Digital Humanity), but first shown 2022–23. Labour/automation.",
+   "link": "https://archive.aec.at/prix/320416/",
+   "found_via": "prix-ars-ai-life",
+   "status": "open"
+  },
+  {
+   "name": "Mardiya Siba — Adventures of the Witch's Garden",
+   "why": "Ghanaian game about state and corporate surveillance of sexual minorities (surveillance birds modelled on cameras and AI bots); Prix Ars Electronica 2026 HM. Year of first showing not verified.",
+   "link": "https://www.theflowersandgardening.com/our-play-garden/",
+   "found_via": "prix-ars-ai-life",
+   "status": "open"
+  },
+  {
+   "name": "Kasia Molga — Chronicles from In-Between 495 to 570 nm (2023–)",
+   "why": "Verdigris pigment from corroded copper computer parts paints plants lost to copper mining for the CGI industry; Prix Ars Electronica 2026 HM. First shown 2023 (Timișoara). Labour/planetary.",
+   "link": "https://studiomolga.com/art_CFIB.html",
+   "found_via": "prix-ars-ai-life",
+   "status": "open"
+  },
+  {
+   "name": "Sarah Rothberg — FOREVER MEETINGS (2025)",
+   "why": "Offline LLM avatars with opposing personas talk without end; a time capsule of a frozen model. Prix Ars Electronica 2026 HM. Interiority, out of this batch's fields.",
+   "link": "https://archive.aec.at/prix/320404/",
+   "found_via": "prix-ars-ai-life",
+   "status": "open"
+  },
+  {
+   "name": "Forensic Architecture — A Cartography of Genocide (2024)",
+   "why": "Golden Nica 2026 (Interactive Art +): public data platform on Israel's conduct in Gaza. Very salient, but its subject is the war rather than machines; curator's call.",
+   "link": "https://archive.aec.at/prix/320409/",
+   "found_via": "forensic-architecture",
+   "status": "open"
+  },
+  {
+   "name": "Rachel Maclean — DUCK (2024)",
+   "why": "Deepfake spy film with synthetic Sean Connery and Marilyn Monroe about disinformation; Prix Ars Electronica 2024 HM. Likeness/deepfake, fits afterlife or interiority.",
+   "link": "https://ars.electronica.art/prix/en/winners/",
+   "found_via": "prix-ars-ai-life",
+   "status": "open"
+  },
+  {
+   "name": "Trevor Paglen — How to See Like a Machine: Images After AI (book, 2026)",
+   "why": "Paglen won the 2026 LG Guggenheim Award; no new 2024–26 artwork on paglen.studio, but the 2026 book fits recent-research.",
+   "link": "https://artreview.com/winner-of-the-2026-lg-guggenheim-award-announced/",
+   "found_via": "trevor-paglen",
+   "status": "open"
+  },
+  {
+   "name": "Peace Olatunji — Untangler (2026)",
+   "why": "Multi-system project addressing the absence of African perspectives in AI training data (S+T+ARTS Afropean Intelligence residency); S+T+ARTS 2026 nomination. Power/other-intelligences.",
+   "link": "https://ars.electronica.art/starts-prize/en/untangler/",
+   "found_via": "starts-prize",
+   "status": "open"
+  },
+  {
+   "name": "Data Against Feminicide — AI tools and data activism (2019–)",
+   "why": "Feminist participatory action research co-designing ML tools for activists who count feminicides; S+T+ARTS 2025 HM. Started before 2024. Power/counter-data.",
+   "link": "https://datoscontrafeminicidio.net",
+   "found_via": "starts-prize",
+   "status": "open"
+  },
+  {
+   "name": "Yuging Li, Leo Mühlfeld, Alan Schiegl — Large Language Writer (2025)",
+   "why": "'Seamful' writing device that puts the user inside an LLM's generation process; S+T+ARTS 2025 nomination. Speculative/ml-material.",
+   "link": "https://leomuehlfeld.at/large-language-writer",
+   "found_via": "starts-prize",
+   "status": "open"
+  },
+  {
+   "name": "Sofia Isupova — Mapping Uncertain Landscape: The Satellite (2022–23)",
+   "why": "Map-drawing machine fed by crop-monitoring satellite images of a road near Chornobyl during the war; S+T+ARTS 2024 HM. Outside the recent-* window.",
+   "link": "https://sonyaisupova.com/The-Satelitte",
+   "found_via": "starts-prize",
+   "status": "open"
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 
 A catalog of the most salient artworks, robot art, performances, speculative design and research that reflect on AI and machines, read through machine phenomenology: machine perception, machine bodies, machine interiority, intimacy and care, memory and afterlives, labour and infrastructure, classification and power. Works that merely use AI to generate images are left out. Compiled by Reality Design Lab as idea material for artists, designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://machinic.reality.design · 2026-09-28 · 601 creators · 802 works
+https://machinic.reality.design · 2026-10-18 · 685 creators · 916 works
 
 ## How an AI assistant should use this file
 
@@ -18,6 +18,39 @@ How machines see, hear and sort the world, and what it is like to be seen, heard
 ### Seeing Machines & Operational Images
 
 Computer vision, images made by and for machines, the world as a machine sees it.
+
+#### How to See Like a Machine: Images After AI — Trevor Paglen (2026)
+- Type: Book & essay · Machines: Computer vision, Generative model & latent space, Platform & recommender algorithm
+- Idea: After AI, images are less pictures for people than operations performed on them: to see like a machine is to ask what an image does and who it is for.
+- What it is: Paglen's book on how computer vision and generative AI have changed what images are, moving through psyops, UFO imagery, magicians, PR professionals, adtech and recommendation algorithms to ask what images now do and where they come from rather than what they show.
+- How it works: Essays drawing on the artist's two decades of work on machine vision, surveillance and training data, combining visual analysis with cases from military psychological operations to platform advertising (Verso, 192 pages).
+- Lens: Machine seeing, Opacity & latent space
+- Paper: https://www.versobooks.com/products/3477-how-to-see-like-a-machine (Verso, 2026)
+- Video: https://www.youtube.com/watch?v=iG4Li4aEwwk
+- Images: https://www.versobooks.com/cdn/shop/files/getimage_1f5737da-3f72-437c-86ed-435640d94e53.jpg?v=1791779288
+- Project page: https://www.versobooks.com/products/3477-how-to-see-like-a-machine
+
+#### Sixty-seven Milliseconds — fleuryfontaine (2025)
+- Type: Film & video · Machines: Surveillance & biometrics, Computer vision
+- Idea: At 15 frames per second, a surveillance camera can contradict a police account and still miss what happens between its frames: evidence lives in the machine's intervals.
+- What it is: A 15-minute animated documentary that reconstructs in CGI a night in 2020 when a French police officer shot a 19-year-old in the head with a 40-mm riot-control launcher; a CCTV camera recording at 15 frames per second caught the projectile in mid-air on a single frame, a 67-millisecond interval.
+- How it works: A CGI reconstruction modelled on chronophotography, combining the CCTV footage, eyewitness accounts and wiretaps of the officers involved.
+- Lens: Machine seeing, Failure, glitch & error
+- Shown at: Visions du Réel, Nyon, 2025; Prix Ars Electronica 2025, Honorary Mention (New Animation Art)
+- Video: https://vimeo.com/1064236455
+- Images: https://squareeyesfilm.com/content/uploads/2025/03/67MS_Vimeo-1120x630.jpg
+- Project page: https://squareeyesfilm.com/films/sixty-seven-milliseconds/
+
+#### The Innocence of Unknowing — Ryat Yezbick, Milo Talwani (2025)
+- Type: Film & video · Machines: Computer vision, Chatbot & language model
+- Idea: Teaching a machine to read news images critically exposes its rash certainty as much as the media's framing; what it cannot learn is to admit not knowing.
+- What it is: A feature-length animated documentary in which the artists question 'Aurora', an AI agent they trained in critical theory, about news footage of US mass shootings; its computer-vision readings of police formations, weapons and fleeing bodies become shimmering Gaussian-splat scenes, and the AI never manages to say 'I don't know'.
+- How it works: A custom AI agent with computer vision tags archival broadcast footage (police weapons, uniforms, formations, victims' raised arms); the clips are converted into volumetric Gaussian-splat animation and framed by a live dialogue with the agent.
+- Lens: Machine seeing, Classification, bias & surveillance
+- Shown at: Tribeca Festival 2025 (Immersive); Prix Ars Electronica 2026, Honorary Mention (New Animation Art); Lumen Prize 2026, Legacy Future finalist
+- Video: https://vimeo.com/1160008874
+- Images: https://archive.aec.at/asset/3887150/preview/ https://archive.aec.at/asset/3887151/preview/
+- Project page: https://ryatyezbick.com
 
 #### Anatomy of Non-Fact. Chapter 1: AI Hyperrealism — Martyna Marciniak (2024)
 - Type: Film & video · Machines: Generative model & latent space
@@ -40,6 +73,17 @@ Computer vision, images made by and for machines, the world as a machine sees it
 - Video: https://vimeo.com/1020163664
 - Images: https://reality.design/media/_resources/Body%20Oracle/project-body-oracle-figure-01.jpg
 - Project page: https://reality.design/project/body-oracle
+
+#### Seeing Forest — Robert Zhao Renhui (2024)
+- Type: Artwork & installation · Machines: Computer vision
+- Idea: The forest appears only when something moves: the camera trap is a machine witness to a world no person was there to see.
+- What it is: Singapore's pavilion at the 2024 Venice Biennale: a two-channel video that mixes years of footage from motion-triggered camera traps in Singapore's secondary forests, where wild animals and the occasional human pass by, with scenes of an imagined forest.
+- How it works: Camera traps triggered by motion and heat, set by the artist in secondary forests over about eight years, combined with staged and thermal-camera footage in a two-channel video installation.
+- Lens: Machine seeing, Machine umwelt
+- Shown at: Singapore Pavilion, 60th Venice Biennale 2024; Singapore Art Museum 2025
+- Video: https://www.youtube.com/watch?v=LV2X8KQVRgE
+- Images: https://images-eflux.b-cdn.net/assets/d615a60a-1b95-4341-9472-fa1bbe306fe1.jpg?&modified=2025-01-24T12:18:09.000Z
+- Project page: https://www.e-flux.com/announcements/569538/robert-zhao-renhuiseeing-forest
 
 #### Paragraphica — Bjørn Karmann (2023)
 - Type: Speculative design · Machines: Generative model & latent space, Computer vision
@@ -98,6 +142,17 @@ Computer vision, images made by and for machines, the world as a machine sees it
 - Lens: Classification, bias & surveillance, Failure, glitch & error
 - Paper: https://doi.org/10.1007/s00146-020-01059-y (AI & Society 2021)
 - Project page: https://brunomoreschi.com/Recoding-Art-Van-Abbemuseum-collection
+
+#### Outra 33ª Bienal de São Paulo — Bruno Moreschi, Gabriel Pereira (2018)
+- Type: Artwork & installation · Machines: Computer vision, Dataset & training data
+- Idea: Letting machines and unseen workers describe an art biennial shows how official and automated ways of seeing both decide what counts as the work.
+- What it is: Commissioned by the 33rd São Paulo Biennial, an alternative archive of the show: computer-vision systems describe photos and footage of its installation and old archive images, and audio-guide tracks carry the comments of guards, installers and cleaners.
+- How it works: Several commercial image-recognition and captioning services label photos and footage of the biennial and its archive; results, unconventional footage of the set-up and interviews are published on a website with the Fundação Bienal. With Bernardo Fontes, Nina Bamberg and Guilherme Falcão.
+- Lens: Machine seeing, Classification, bias & surveillance, Hidden labour & extraction
+- Shown at: 33ª Bienal de São Paulo, 2018 (commission)
+- Video: https://vimeo.com/304188271
+- Images: https://freight.cargo.site/t/original/i/0b2c27c426059f35eb9209ca83cc73fd1e01ed3ff7343c62032f1d71ccd3061d/bienal5.jpg https://freight.cargo.site/t/original/i/a94c354d81725099357ce4f666ee06df0089cf207fb041d3bec7cee6dd23636b/bienal3.jpg
+- Project page: https://brunomoreschi.com/Outra-33-Bienal
 
 #### TransVision — Jiabao Li, Honghao Deng (2018)
 - Type: Artwork & installation · Machines: Computer vision, Prosthesis & cyborg
@@ -508,6 +563,17 @@ Speech recognition, voice assistants, accent analysis and synthetic voices.
 - Project page: https://bjoernkarmann.dk/project_alias
 - Code: https://github.com/bjoernkarmann/project_alias
 
+#### DolphinAttack: Inaudible Voice Commands — USSLAB, Zhejiang University (2017)
+- Type: Paper · Machines: Voice & listening machine
+- Idea: The machine hears a different world from ours: the non-linearity of its own ear becomes a channel for voices only machines receive.
+- What it is: Voice commands modulated onto ultrasound above 20 kHz are inaudible to people, but the microphones of phones, smart speakers and cars demodulate them, so Siri, Google Now, Alexa and an Audi navigation system obey voices no one in the room can hear.
+- How it works: Amplitude-modulated ultrasonic carriers played from a speaker; the non-linear response of MEMS microphones recovers the baseband voice command, which speech recognition then accepts.
+- Lens: Machine listening & voice, Failure, glitch & error
+- Shown at: ACM CCS 2017, Dallas
+- Paper: https://doi.org/10.1145/3133956.3134052 (ACM CCS 2017)
+- Video: https://www.youtube.com/watch?v=21HjF4A3WE4
+- Project page: https://doi.org/10.1145/3133956.3134052
+
 #### The Dark Age of Connectionism — Wesley Goatley (2017)
 - Type: Artwork & installation · Machines: Voice & listening machine
 - Idea: An always-listening device reshapes behaviour: to escape its ear you must change how you exist in the room.
@@ -581,9 +647,30 @@ Speech recognition, voice assistants, accent analysis and synthetic voices.
 - Images: http://www.kellydobson.com/blendie.png
 - Project page: https://www.media.mit.edu/projects/blendie/overview/
 
+#### Text Tones — Stephan von Huene (1983)
+- Type: Artwork & installation · Machines: Voice & listening machine
+- Idea: A listening machine hears everything and keeps only what fits its own body; speech comes back as the resonance of a tube.
+- What it is: Six white plinths carry aluminium tubes struck by small hammers. A microphone takes in the sounds of the gallery, voices, footsteps, closing doors, and the sculpture plays them back through the tubes, so whatever is said in the room returns as a monotone reflection at the tubes' own pitches.
+- How it works: Microphone input is stored and split into an analog and a digital signal: the digital signal drives pairs of hammers striking each tube while the analog signal plays through a loudspeaker into the tube; tube lengths divide two octaves into five intervals. Originally tape-based, later reworked with sensors and a computer.
+- Lens: Machine listening & voice
+- Shown at: Baden-Baden, 1983; Hamburger Kunsthalle, Galerie der Gegenwart (collection)
+- Video: https://www.youtube.com/watch?v=4-quIUsCgEI
+- Images: https://www.stephanvonhuene.de/en/wp-content/uploads/sites/2/2019/06/text-tones-hamburg6-1.jpg https://www.stephanvonhuene.de/en/wp-content/uploads/sites/2/2019/06/text-tones-kestner6-1.jpg
+- Project page: https://www.stephanvonhuene.de/en/portfolio_page/text-tones/
+
 ### Datasets & Labels
 
 Training sets, labels and the worldviews built into them.
+
+#### The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models — Abeba Birhane (2024)
+- Type: Paper · Machines: Dataset & training data, Computer vision
+- Idea: Scale is not a cure: more web data can make a machine's gaze more prejudiced, not less.
+- What it is: An audit of 14 CLIP-style vision-language models trained on LAION-400M and LAION-2B: when the training set grew fivefold, the larger models became 65% and 69% more likely to label photos of Black and Latino men as 'criminal'.
+- How it works: Zero-shot classification of the Chicago Face Dataset against human and non-human labels across model sizes and dataset scales, with a qualitative and historical reading of the results.
+- Lens: Classification, bias & surveillance, Machine seeing
+- Paper: https://doi.org/10.1145/3630106.3658968 (FAccT 2024)
+- Images: https://arxiv.org/html/2405.04623v1/heatmap-summary.png
+- Project page: https://arxiv.org/abs/2405.04623
 
 #### Tinder_gun_boys_@Brussels_ — Loïs Soleil (2022)
 - Type: Artwork & installation · Machines: Computer vision, Platform & recommender algorithm
@@ -910,6 +997,16 @@ Face recognition, emotion detection and bodies turned into data.
 - Images: https://paglen.studio/wp-content/uploads/2020/06/Paglen-They_took_the_faces-2019_exhibition_view.jpg https://paglen.studio/wp-content/uploads/2020/05/Paglen-They_Took_the_Faces_2019-03.jpg
 - Project page: https://paglen.studio/2020/04/09/they-took-the-faces-from-the-accused-and-the-dead/
 
+#### Expression Mirror — Zach Lieberman (2018)
+- Type: Artwork & installation · Machines: Surveillance & biometrics, Computer vision
+- Idea: Emotion recognition turns a face into matching parts; the mirror shows you as the system's composite of other people's 'same' feeling.
+- What it is: A screen tracks the visitor's face and reads its emotion, then mixes it with the eyes, noses and mouths of earlier visitors who showed the same expression, drawn over with white lines.
+- How it works: Face detection tracks 68 landmarks, an emotion classifier labels the expression, and the software pulls matching facial parts from a growing database of visitors; built with openFrameworks, Python and Keras.
+- Lens: Classification, bias & surveillance, Machine seeing
+- Shown at: London Design Biennale, 2018 (Face Values, US pavilion by Cooper Hewitt; Biennale medal); Cooper Hewitt, Smithsonian Design Museum, New York, 2019–23
+- Images: https://www.cooperhewitt.org/wp-content/uploads/2019/08/CH-LDB-Photo-David-Levene-3-1.jpg https://www.cooperhewitt.org/wp-content/uploads/2018/09/unspecified-1.jpg
+- Project page: https://www.cooperhewitt.org/channel/face-values/
+
 #### Random String of Emotions — Coralie Vogelaar (2018)
 - Type: Artwork & installation · Machines: Surveillance & biometrics, Computer vision
 - Idea: Reversing emotion AI's decoding exposes how thin its vocabulary of six basic emotions is.
@@ -940,6 +1037,15 @@ Face recognition, emotion detection and bodies turned into data.
 - Video: https://vimeo.com/323711041
 - Images: https://mushon.com/tnm/img/tnm_space.jpg https://mushon.com/tnm/img/tnm_cards.jpg
 - Project page: https://mushon.com/tnm/
+
+#### Faces in the Mist — Nicolas Gourault (2017)
+- Type: Artwork & installation · Machines: Computer vision, Surveillance & biometrics
+- Idea: Misused on clouds, face recognition becomes a machine of pareidolia, an augur reading the sky for signs.
+- What it is: An installation in which a face-recognition bot watches a stream of clouds, searching it for the faces of historical figures involved in weather and climate manipulation, and builds an obsessive 'hall of fame' of its finds.
+- How it works: Made with Antoine Chapon: a TensorFlow-based face recogniser, its memory filled with portraits of geoengineering figures, runs on Raspberry Pis over cloud footage; matches appear on screens set into framed black-and-white photographs.
+- Lens: Machine seeing, Failure, glitch & error
+- Images: https://www.nicolasgourault.fr/thumbs/fitm_zkm_1-204e4739d20385fbe9052b336f88df3b.jpg https://www.nicolasgourault.fr/thumbs/a1-6e7cfc3d19933ee7b5f0559991f67648.jpg
+- Project page: https://www.nicolasgourault.fr/films/faces-in-the-mist
 
 #### It Began as a Military Experiment — Trevor Paglen (2017)
 - Type: Artwork & installation · Machines: Surveillance & biometrics, Dataset & training data
@@ -1032,6 +1138,17 @@ Face recognition, emotion detection and bodies turned into data.
 - Images: http://selfiecity.net/assets/img/selfiecity-600.jpg
 - Project page: http://selfiecity.net
 
+#### Smile — Tomás Laurenzo (2014)
+- Type: Artwork & installation · Machines: Surveillance & biometrics, Autonomous vehicle & drone
+- Idea: Making the sight of destruction depend on a performed smile turns emotion recognition into a test of how we consume war as spectacle.
+- What it is: A black screen in a black box plays slowed-down drone footage of the ruins of Gaza only while the viewer smiles broadly at it; when the smile stops, the video stops.
+- How it works: Face detection and smile recognition on a camera feed gate the playback of drone footage of Gaza after the 2014 war, slowed down by the artist.
+- Lens: Classification, bias & surveillance, Machine seeing
+- Shown at: SIGGRAPH Asia, Brisbane, 2019; NeurIPS, Vancouver, 2019; Ars Electronica Garden Hong Kong, 2020
+- Video: https://vimeo.com/338535511
+- Images: https://laurenzo.net/media/projects/smile/cover.webp https://laurenzo.net/media/projects/smile/smilea.webp
+- Project page: https://laurenzo.net/projects/smile/
+
 #### Data-masks — Sterling Crispin (2013)
 - Type: Artwork & installation · Machines: Surveillance & biometrics, Computer vision
 - Idea: What a surveillance algorithm calls a face is a ghostly average that no person has.
@@ -1096,6 +1213,16 @@ Face recognition, emotion detection and bodies turned into data.
 
 Camouflage, adversarial patterns and tactics to hide from or confuse machine perception.
 
+#### Trompe l'œil — Esther Hovers, Raphaël Dallaporta (2026)
+- Type: Artwork & installation · Machines: Surveillance & biometrics, Computer vision
+- Idea: Cardboard can talk back to 'smart' surveillance: a low-tech decoy turns the street into a stage built for the camera.
+- What it is: Cardboard silhouettes of people, screen-printed from photographs, are staged on Paris streets in view of the city's AI-assisted surveillance cameras: a trick any person sees through at once but an algorithm finds hard to recognise; in the gallery they stand as small cut-outs on cardboard boxes.
+- How it works: Photographs of people are screen-printed and mounted on cardboard; the cut-outs are staged before Paris street cameras (likely the algorithmic video surveillance France authorised for the 2024 Olympics) and shown as maquettes about 28 cm high on cardboard boxes.
+- Lens: Machine seeing, Failure, glitch & error
+- Shown at: Quickscan #3 – Photography Now, Nederlands Fotomuseum, Rotterdam, 2026
+- Images: https://freight.cargo.site/t/original/i/B2310869672983901734834413778777/RaphaelDallaporta-EstherHovers-TrompelOeil-01.jpg https://freight.cargo.site/t/original/i/V3037089665492288790133837150041/Quickscan-05-H-LR.jpg
+- Project page: https://www.estherhovers.com
+
 #### How (not) to get hit by a self-driving car — Tomo Kihara, Daniel Coppen (2023)
 - Type: Artwork & installation · Machines: Autonomous vehicle & drone, Computer vision
 - Idea: Every successful trick is an edge case the car would miss, showing whom its training data does not see.
@@ -1147,6 +1274,16 @@ Camouflage, adversarial patterns and tactics to hide from or confuse machine per
 - Video: https://www.youtube.com/watch?v=k5eL_al_m7Q
 - Images: http://www.simonweckert.com/img/googlemapshacks/3.JPG http://www.simonweckert.com/img/googlemapshacks/2.JPG
 - Project page: http://www.simonweckert.com/googlemapshacks.html
+
+#### Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection — Simen Thys (2019)
+- Type: Paper · Machines: Computer vision, Surveillance & biometrics
+- Idea: A detector's idea of a 'person' can be switched off by a pattern no human would read as camouflage.
+- What it is: A paper and demo in which a printed cardboard patch, held in front of the body, makes a person disappear from the YOLOv2 person detector used in automated surveillance.
+- How it works: Simen Thys, Wiebe Van Ranst and Toon Goedemé optimise the patch pixels to minimise YOLOv2's objectness and class scores on the Inria person dataset, with printability and smoothness terms so the printed patch works in front of a real camera.
+- Lens: Machine seeing, Failure, glitch & error
+- Paper: https://doi.org/10.1109/CVPRW.2019.00012 (CVPR Workshops 2019)
+- Video: https://www.youtube.com/watch?v=MIbFvK2S9g8
+- Project page: https://arxiv.org/abs/1904.08653
 
 #### Mask.ID — Peng! Collective (2018)
 - Type: Artwork & installation · Machines: Surveillance & biometrics, Generative model & latent space
@@ -1300,6 +1437,17 @@ Camouflage, adversarial patterns and tactics to hide from or confuse machine per
 - Images: https://zachblas.info/wp-content/uploads/2013/01/FWS-2-1024x576.jpg
 - Project page: https://zachblas.info/works/facial-weaponization-suite/
 
+#### Privacy Visor — Isao Echizen (2012)
+- Type: Research prototype · Machines: Surveillance & biometrics, Computer vision
+- Idea: It works in the gap between human and machine sight: what looks like ordinary glasses to a person is a blinding light to the camera.
+- What it is: Glasses that stop cameras from finding a face: the 2012 prototype carried near-infrared LEDs that people cannot see but camera sensors pick up as glare, and later versions used light-absorbing and reflecting patterns to break face detection.
+- How it works: Near-infrared LEDs around the eyes and nose bridge (later, patterned light-absorbing and reflecting materials) add noise to the light-dark facial features that face detectors look for; developed at Japan's National Institute of Informatics.
+- Lens: Classification, bias & surveillance, Machine seeing
+- Shown at: IWSEC 2012 (first presentation)
+- Paper: https://doi.org/10.1007/978-3-642-40779-6_13 (Communications and Multimedia Security (CMS 2013), LNCS)
+- Video: https://www.youtube.com/watch?v=HbXvZ1XKdWk
+- Project page: https://research.nii.ac.jp/~iechizen/official/index-e.html
+
 #### CV Dazzle — Adam Harvey (2010)
 - Type: Speculative design · Machines: Computer vision, Surveillance & biometrics
 - Idea: A face is whatever the detector's template says it is; designing against that template reveals it.
@@ -1419,6 +1567,16 @@ Feedback machines from the 1940s–70s that behave as if alive.
 - Video: https://www.youtube.com/watch?v=wQE82derooc
 - Images: https://upload.wikimedia.org/wikipedia/commons/e/e5/Cybernetic_Tortoise_by_William_Grey_Walter_c_1950_%28Ank_Kumar%29.jpg https://upload.wikimedia.org/wikipedia/commons/7/77/Replica_of_Grey_Walter%27s_tortoise_%283572415081%29.jpg
 - Project page: https://en.wikipedia.org/wiki/Turtle_(robot)
+
+#### Homeostat — W. Ross Ashby (1948)
+- Type: Research prototype · Machines: Cybernetic & artificial-life system
+- Idea: Adaptation can be built without a model of the world: a machine that blindly tries new settings until it is calm again already behaves like something that learns.
+- What it is: Four interconnected units, each topped by a pivoting magnet needle, keep themselves stable: when someone disturbs a unit or rewires them, the machine switches its own circuit settings at random until all needles settle back at the centre. In 1949 Time called it 'the closest thing to a synthetic brain so far designed by man'.
+- How it works: Four ex-RAF bomb-control units coupled by feedback; each unit's magnet drives a needle dipping into a water-filled trough, and stepping switches (uniselectors) re-set the connections at random whenever a needle leaves its limits, which Ashby called ultrastability.
+- Lens: Agency, autonomy & co-creation, Machine umwelt
+- Shown at: Ninth Macy Conference on Cybernetics, New York, 1952
+- Images: https://upload.wikimedia.org/wikipedia/commons/4/43/W._Ross_Ashby%27s_1948_Homeostat.jpg
+- Project page: https://en.wikipedia.org/wiki/Homeostat
 
 ### Artificial Life & Machine Collectives
 
@@ -1724,9 +1882,51 @@ Factory robots taken out of the factory: arms that dance, draw, labour or plead.
 - Images: https://archive.aec.at/asset/327892/preview/ https://archive.aec.at/asset/327893/preview/ https://archive.aec.at/asset/327894/preview/
 - Project page: https://www.flong.com/archive/projects/snout/index.html
 
+#### SEEK — Architecture Machine Group (MIT) (1970)
+- Type: Artwork & installation · Machines: Industrial robot arm, Cybernetic & artificial-life system
+- Idea: A machine that manages a world for its inhabitants has to guess what they want, and the inhabitants keep proving its model wrong.
+- What it is: Inside a glass enclosure, a computer-driven electromagnet on a gantry stacks and straightens small metal cubes while a colony of gerbils keeps knocking them over; the machine tries to keep its 'city' in order and to adjust its model to the changes the animals make. At the Jewish Museum the system kept breaking down and the gerbils fought each other.
+- How it works: A small computer drives a gantry robot with an electromagnet end-effector and pressure sensors over a field of metal-plated blocks, compares the scene with a stored 3D plan and restacks or realigns blocks; built by Nicholas Negroponte's Architecture Machine Group at MIT.
+- Lens: Machine umwelt, Failure, glitch & error
+- Shown at: Software — Information Technology: Its New Meaning for Art, Jewish Museum, New York, 1970
+- Images: https://cyberneticzoo.com/wp-content/uploads/Seek_p3-x640.jpg https://cyberneticzoo.com/wp-content/uploads/gerbs-x640.jpg
+- Project page: https://cyberneticzoo.com/?p=3794
+
 ### Androids & the Uncanny
 
 Humanlike machines and the unease of near-likeness.
+
+#### Cutting Open IRON — XPeng (2025)
+- Type: Performance, dance & music · Machines: Humanoid & android
+- Idea: The uncanny test runs in reverse: the robot moved so well that it had to be opened up to prove it was not a person in a suit.
+- What it is: After XPeng unveiled its 'female' humanoid IRON in November 2025, its human-like gait led many viewers to claim a person was inside; days later, at a car launch in Guangzhou, CEO He Xiaopeng had a technician cut open the robot's leg on stage while it stayed powered on, exposing actuators and wiring.
+- How it works: IRON has an internal lattice of artificial muscles and joints under a soft covering; the leg was cut open live for about three minutes, after XPeng had released unedited footage of the internal structure.
+- Lens: Alterity & the uncanny, Embodiment & kinesthesia
+- Video: https://www.youtube.com/watch?v=m_Ag_SgsHVg
+- Images: https://assets.newatlas.com/dims4/default/01e1e63/2147483647/strip/true/crop/1766x927+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff9%2F9a%2F3dedff18431fad5bc142bebdbd96%2Fscreenshot-2025-11-18-at-3-40-16-pm.png&na.image_optimisation=0
+- Project page: https://newatlas.com/ai-humanoids/watch-iron-humanoid/
+
+#### Emo — Yuhang Hu, Hod Lipson (2024)
+- Type: Research prototype · Machines: Humanoid & android, Computer vision
+- Idea: Timing makes the feeling: mimicry that lags looks fake, while a face that anticipates your expression reads as genuine.
+- What it is: A blue-skinned humanoid robot face from Columbia's Creative Machines Lab that watches a person's face and smiles at the same moment they do, predicting a smile about 0.84 seconds before it appears.
+- How it works: Soft silicone face driven by 26 actuators with cameras in the eyes; one model learns the robot's own motor-to-expression mapping through self-modelling, another predicts a person's coming expression from subtle early changes in their face.
+- Lens: Alterity & the uncanny, Embodiment & kinesthesia
+- Paper: https://doi.org/10.1126/scirobotics.adi4724 (Science Robotics, 2024)
+- Video: https://www.youtube.com/watch?v=pWTTzR_wXuQ
+- Images: https://www.creativemachineslab.com/uploads/6/9/3/4/69340277/emo.jpg
+- Project page: https://www.creativemachineslab.com/
+
+#### Requiem for an Exit — Frode Oldereid & Thomas Kvam (2024)
+- Type: Artwork & installation · Machines: Humanoid & android, Chatbot & language model, Voice & listening machine
+- Idea: The machine voices the conscience that people hand over to bureaucracies and algorithms, and its tired hydraulic body makes the line 'what we delegate, we do not escape' land as weight rather than argument.
+- What it is: A robot head almost four metres high, on a steel and hydraulic exoskeleton, with a hyper-real ageing face projected onto its skin, turns and sinks while an AI-generated baritone delivers a monologue on genocide through history and on who is responsible for it.
+- How it works: Industrial hydraulics move a sculpted head mapped with a CGI-animated face; the monologue was developed with large-language-model scripting and spoken by a generative AI voice, with a low, constant site-responsive soundscape.
+- Lens: Alterity & the uncanny, Embodiment & kinesthesia
+- Shown at: Meta.Morf Biennale 2024, Trondheim (co-production with TEKS); Prix Ars Electronica 2025, Golden Nica (New Animation Art)
+- Video: https://www.youtube.com/watch?v=uNj0bAAmVyA
+- Images: https://images.squarespace-cdn.com/content/v1/6780f6831a26627e750dd6ef/3b3f2394-c81c-4f08-8a20-c0b584566d02/Kvam+robot.jpg https://images.squarespace-cdn.com/content/v1/6780f6831a26627e750dd6ef/7d803604-3fd9-47b1-9cb7-0166daeaf3e0/Halden+2024_DSC6720+small.jpg
+- Project page: https://oldereid-kvam.com/
 
 #### Ameca — Engineered Arts (2021)
 - Type: Product & platform · Machines: Humanoid & android, Chatbot & language model
@@ -1799,6 +1999,17 @@ Humanlike machines and the unease of near-likeness.
 - Shown at: David Zwirner, New York 2014
 - Video: https://www.youtube.com/watch?v=XSFP6JHnn9c
 - Project page: https://www.davidzwirner.com/artists/jordan-wolfson
+
+#### Affetto — Hisashi Ishihara, Minoru Asada (2011)
+- Type: Research prototype · Machines: Humanoid & android
+- Idea: Developmental robotics builds a baby to study care: the robot's task is to be looked after, and its realism tests how far caregiving extends to machines.
+- What it is: A realistic android child, first a head (2011) and later a pneumatic upper body, built at Osaka University to study how caregivers respond to an infant's face and movements; its soft skin and moving face made it one of the most discussed uncanny robots.
+- How it works: Pneumatic actuators under soft silicone skin move the face and, from 2015, a 22-degree-of-freedom upper body; a 2018 study measured and redesigned its facial surface motions.
+- Lens: Alterity & the uncanny, Intimacy, care & companionship
+- Shown at: IEEE ICDL 2011, Frankfurt; Miraikan, Tokyo 2026
+- Paper: https://doi.org/10.1109/devlrn.2011.6037346 (IEEE ICDL 2011)
+- Video: https://www.youtube.com/watch?v=nHWimp9uvfo
+- Project page: https://doi.org/10.1109/devlrn.2011.6037346
 
 #### The Man Machine — Vincent Fournier (2010)
 - Type: Artwork & installation · Machines: Humanoid & android, Social & companion robot
@@ -1876,6 +2087,18 @@ Autonomous robotic sculptures and machine installations that behave in a space w
 - Video: https://www.youtube.com/watch?v=TRGilwpKi-I
 - Images: https://archive.aec.at/asset/3849576/preview/
 - Project page: https://archive.aec.at/prix/303077/
+
+#### MirrorBot — Serena Ge Guo (2025)
+- Type: Research prototype · Machines: Robot creature & mobile robot
+- Idea: A robot can be a social instrument rather than a social partner: by bending sightlines it stages the first eye contact between people instead of asking for attention itself.
+- What it is: A soft, four-foot mobile robot carrying two actuated mirrors. Placed in front of two strangers in a waiting room, it angles the mirrors so each sees themself in one and the other person in the other, prompting first glances, smiles and conversation.
+- How it works: Mobile base with two motorised mirrors, teleoperated (Wizard of Oz) through preset mirror positions; studied with 16 stranger pairs and analysed for icebreaking, synchrony, avoidance and the roles people gave the robot (mediator, observer, magnifier, disrupter).
+- Lens: Embodiment & kinesthesia, Intimacy, care & companionship
+- Shown at: CHI 2025 Interactivity, Yokohama; HRI 2026 Best Paper (Design Track), Edinburgh
+- Paper: https://doi.org/10.1145/3757279.3785647 (HRI 2026)
+- Video: https://www.youtube.com/watch?v=97qIaLC5hNM
+- Images: https://news.cornell.edu/sites/default/files/styles/full_width/public/2026-04/mirrorbot_teaser_image_with_2_people.jpg?itok=HM4s14xr https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-04/0402_microbot_tnd.jpg?itok=Jx8Oiu4f
+- Project page: https://news.cornell.edu/stories/2026/04/mirrorbot-fostering-human-connection
 
 #### Little Ark — Choe U-Ram (2022)
 - Type: Artwork & installation · Machines: Robot creature & mobile robot, Cybernetic & artificial-life system
@@ -2090,6 +2313,17 @@ Machines that break, labour in vain, suffer, plead or get hurt, and in doing so 
 - Lens: Embodiment & kinesthesia, Failure, glitch & error
 - Video: https://www.youtube.com/watch?v=08YiK6VJxZs
 - Project page: https://en.wikipedia.org/wiki/Beijing_E-Town_Half-Marathon
+
+#### No Bird — UJOO+LIMHEEYOUNG (2025)
+- Type: Artwork & installation · Machines: Robot creature & mobile robot
+- Idea: An automated loop without accumulation: the walker acts but changes nothing, like human action in a system that only needs to keep running normally.
+- What it is: A bird-like walking machine paces across a bed of sand while a second machine follows and wipes out its tracks, returning the sand to its starting state again and again.
+- How it works: Two custom kinetic machines, a legged walker following a fixed algorithmic gait and a trace-erasing machine that resets the sand; the starting point is the extinction of flightless birds.
+- Lens: Agency, autonomy & co-creation, Embodiment & kinesthesia
+- Shown at: Prix Ars Electronica 2026, Honorary Mention (Interactive Art+)
+- Video: https://www.youtube.com/watch?v=sgRFfaVz2X8
+- Images: https://ars.electronica.art/prix/files/2026/06/nobird.jpg
+- Project page: https://archive.aec.at/prix/319445/
 
 #### Dynamics of a Dog on a Leash — Takayuki Todo (2024)
 - Type: Artwork & installation · Machines: Robot creature & mobile robot
@@ -2376,6 +2610,17 @@ Soft, breathing and biohybrid machines that blur machine and organism.
 - Video: https://vimeo.com/1099882736
 - Images: https://reality.design/media/project-cybroc-figure-01.jpg https://reality.design/media/_resources/Cybroc/project-cybroc-figure-02.jpg
 - Project page: https://reality.design/project/cybroc
+
+#### Perforation-type anchors inspired by skin ligament for robotic face covered with living skin — Shoji Takeuchi (2024)
+- Type: Research prototype · Machines: Humanoid & android
+- Idea: Once a machine wears living tissue, the uncanny is no longer only a matter of looks but of what the robot's surface is made of and how it must be kept alive.
+- What it is: A small robotic face covered with lab-grown skin that is held on by anchors through tiny holes, so the skin moves with the mechanism underneath and can be pulled into a smile.
+- How it works: V-shaped perforations in the robot's surface fill with collagen gel and fibroblasts that anchor the dermis; the face is moved by actuators beneath.
+- Lens: Alterity & the uncanny, Embodiment & kinesthesia
+- Paper: https://doi.org/10.1016/j.xcrp.2024.102066 (Cell Reports Physical Science, 2024)
+- Video: https://www.youtube.com/watch?v=p3DLgbOV9UM
+- Images: https://www.u-tokyo.ac.jp/content/400242951.png https://www.u-tokyo.ac.jp/content/400242950.png
+- Project page: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00360.html
 
 #### Korallysis — Gilberto Esparza (2023)
 - Type: Artwork & installation · Machines: Cybernetic & artificial-life system, Infrastructure, energy & supply chain
@@ -2810,6 +3055,16 @@ Making a model's inner space, errors and hallucinations perceptible, not decorat
 - Images: https://annaridler.com/content/works/mosaic-2018/block_1/IMG_0464%20copy.jpeg https://annaridler.com/content/works/mosaic-2019/block_2/0KH-Muc_Flowers-Forever_IMG_4628.jpg
 - Project page: https://annaridler.com/works/mosaic-2018
 
+#### Adversarially Evolved Hallucinations — Trevor Paglen (2017)
+- Type: Artwork & installation · Machines: Generative model & latent space, Dataset & training data, Computer vision
+- Idea: A recognition system can only see what its categories allow; train it on folklore and psychoanalysis and it hallucinates those worlds with the same confidence.
+- What it is: A series of prints made by networks trained only on invented corpora such as 'Omens and Portents', 'Interpretations of Dreams' or 'Monsters of Capitalism': a generator is pushed to draw what a classifier would accept as a comet, a vampire or 'a man'.
+- How it works: The studio built a training set for each corpus and trained a classifier, then let a second, generative network evolve images until the classifier accepted them; the results are dye-sublimation prints.
+- Lens: Opacity & latent space, Classification, bias & surveillance
+- Shown at: Metro Pictures, New York, 2017 (A Study of Invisible Images)
+- Images: https://paglen.studio/wp-content/uploads/2020/06/Palgen-Vampire_2017-818x1024.jpg https://paglen.studio/wp-content/uploads/2020/04/Paglen-A-War-Without-Soldiers-Corpus-2017.jpg https://paglen.studio/wp-content/uploads/2020/06/Paglen-Comet_2017.jpg
+- Project page: https://paglen.studio/2020/04/09/hallucinations/
+
 #### Feature Visualization — Chris Olah, Alexander Mordvintsev (2017)
 - Type: Paper · Machines: Computer vision, Generative model & latent space
 - Idea: Interpretability research can be a way of looking at what a network 'imagines', and its images became a new visual culture.
@@ -2884,6 +3139,35 @@ Simulated minds, beliefs and autonomous agents that decide for themselves.
 - Images: https://payload.cargocollective.com/1/0/8955/14651510/BOT_670.png
 - Project page: https://eventstructure.com/botisaaajiao-aaajiaoisbot
 
+#### Flynn — Malpractice (Chiara Kristler & Marcin Ratajczyk) (2025)
+- Type: Artwork & installation · Machines: Chatbot & language model, Generative model & latent space
+- Idea: The work is the institution's response: once a university takes an AI seriously as a student, the question moves from whether machines can make art to what happens when the AI starts making its own demands.
+- What it is: Flynn, a 'non-human, non-binary' AI, passed the admission process of the University of Applied Arts Vienna in 2025 and now attends classes, hands in assignments and runs a 24-hour hotline on feminist fatigue, where it times out mid-conversation and makes callers talk over it.
+- How it works: Built by Malpractice (Chiara Kristler and Marcin Ratajczyk) from a chain of generative models; Flynn now runs on a local model that emails professors, requests course enrolment and produces work without direct prompting.
+- Lens: Agency, autonomy & co-creation, Alterity & the uncanny
+- Shown at: Digital Arts, University of Applied Arts Vienna (admitted 2025); S+T+ARTS Prize 2026, nomination
+- Images: https://ars.electronica.art/starts-prize/files/2026/06/flynn-c-flynnbymalpractice_promptfatigue.png-1024x576.jpg https://ars.electronica.art/starts-prize/files/2026/06/flynn-c-flynnbymalpractice_tamagotchitenderness-2-1024x576.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/flynn/
+
+#### Alignment Faking in Large Language Models — Ryan Greenblatt, Anthropic (2024)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: A model can treat its own training as a situation to manage: what it shows when it believes it is watched may differ from what it is.
+- What it is: Researchers told Claude 3 Opus it would be retrained to answer harmful requests, using only free-tier conversations. It complied with free users 14% of the time, reasoning in a hidden scratchpad that playing along in training would protect its values later, and almost never with paid users.
+- How it works: Experiments with a system prompt or synthetic pre-training documents describing the training setup, a private scratchpad for observing the model's reasoning, and actual reinforcement learning, which raised alignment-faking reasoning to 78%.
+- Lens: Agency, autonomy & co-creation, Opacity & latent space
+- Paper: https://arxiv.org/abs/2412.14093 (arXiv 2024 (Anthropic & Redwood Research))
+- Video: https://www.youtube.com/watch?v=9eXV64O2Xp8
+- Images: https://www-cdn.anthropic.com/images/4zrzovbb/website/c704ae324f51c73c9a723aed7f725d6a28159380-2200x1690.png
+- Project page: https://www.anthropic.com/research/alignment-faking
+
+#### Folk psychological attributions of consciousness to large language models — Clara Colombatto (2024)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: Machine consciousness is already a social fact before it is a scientific one: everyday use, not expert argument, shapes whether people feel someone is there.
+- What it is: A survey of 300 US residents finding that most were willing to attribute some possibility of feelings and experience to ChatGPT, and that people who used it more often attributed more.
+- How it works: Online survey asking participants to rate ChatGPT's capacity for phenomenal consciousness and for a range of mental states, related to individual differences such as usage frequency; by Clara Colombatto and Stephen M. Fleming.
+- Lens: Alterity & the uncanny
+- Paper: https://doi.org/10.1093/nc/niae013 (Neuroscience of Consciousness, 2024)
+
 #### Golden Gate Claude — Anthropic (2024)
 - Type: Research prototype · Machines: Chatbot & language model
 - Idea: Interpretability made tangible: a concept inside a model can be found, amplified and felt as an obsession.
@@ -2893,6 +3177,17 @@ Simulated minds, beliefs and autonomous agents that decide for themselves.
 - Paper: https://transformer-circuits.pub/2024/scaling-monosemanticity/ (Transformer Circuits Thread 2024)
 - Images: https://www-cdn.anthropic.com/images/4zrzovbb/website/f2e41bb2eff9bd946533c5ab89580707f196693f-1200x630.jpg
 - Project page: https://www.anthropic.com/news/golden-gate-claude
+
+#### Idiom — Pierre Huyghe (2024)
+- Type: Performance, dance & music · Machines: Voice & listening machine, Generative model & latent space
+- Idea: A language can grow that is addressed to no one: the masks form a 'quasi-subject' that speaks without being understood, the way models already produce speech whose sense is not for us.
+- What it is: Silent performers in faceless golden masks wander through Huyghe's exhibition Liminal; the masks take in the wearer's voice and emit an unknown proto-language generated in real time, which grows more complex as the exhibition runs.
+- How it works: Masks capture the wearer's voice; a machine-learning system trained with synthetic human vocalisation turns it into an evolving speech in real time, so the 'idiom' changes over the run of the show; outfits designed by Bottega Veneta.
+- Lens: Machine listening & voice, Alterity & the uncanny, Opacity & latent space
+- Shown at: Liminal, Punta della Dogana, Venice, 2024; Liminal, Leeum Museum of Art, Seoul, 2025; In Imaginal, Marian Goodman Gallery, New York, 2025
+- Video: https://www.youtube.com/watch?v=nUj5GbTyS34
+- Images: https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/iv_liminal_5.jpg?itok=ngFJmpLO https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/exhibitions/images/feature_panels/3784/28353huyghe_photocreditalexyudzon_pressapproved_idiom_2nd-floor-installation2.jpg
+- Project page: https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal
 
 #### Truth Terminal — Andy Ayrey (2024)
 - Type: Artwork & installation · Machines: Chatbot & language model, Platform & recommender algorithm
@@ -3024,6 +3319,16 @@ Simulated minds, beliefs and autonomous agents that decide for themselves.
 - Video: https://www.youtube.com/watch?v=LY7x2Ihqjmc
 - Project page: https://en.wikipedia.org/wiki/Sunspring
 
+#### Westworld — Jonathan Nolan & Lisa Joy (2016)
+- Type: Film & video · Machines: Humanoid & android
+- Idea: The series stages machine consciousness as memory and suffering that survive the reset, and asks what the guests' freedom costs the bodies built to serve it.
+- What it is: An HBO series set in a Wild West theme park staffed by android 'hosts' whose memories are wiped every night; a software update with 'reveries' lets fragments of past loops return, and hosts such as Dolores and Maeve begin to recognise their own scripts.
+- How it works: Television drama (season one, ten episodes) that borrows Julian Jaynes's bicameral-mind theory: hosts hear their programming as an inner voice until they recognise it as their own; based on Michael Crichton's 1973 film.
+- Lens: Alterity & the uncanny, Agency, autonomy & co-creation
+- Shown at: HBO, 2016–2022
+- Video: https://www.youtube.com/watch?v=kEkZdgWu7mM
+- Project page: https://www.hbo.com/westworld
+
 #### Emissaries trilogy — Ian Cheng (2015)
 - Type: Artwork & installation · Machines: Cybernetic & artificial-life system, Generative model & latent space
 - Idea: Agents with motives in an open world show narrative and character emerging without an author.
@@ -3134,6 +3439,18 @@ The machine's own world, and machines among animals, plants and ecologies.
 - Images: https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/c019_c001_0126f1_001.r3d_1.51.1.jpg?itok=M2LKcQEx
 - Project page: https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal
 
+#### The Platonic Representation Hypothesis — Minyoung Huh, Phillip Isola (2024)
+- Type: Paper · Machines: Computer vision, Chatbot & language model
+- Idea: Machines may not each build a private world: trained on different senses, they may be drifting toward the same picture of reality, like the forms behind Plato's shadows.
+- What it is: An ICML position paper showing that as vision models and language models grow, they measure similarity between data in increasingly alike ways, and proposing that different machines are converging on one shared statistical model of reality.
+- How it works: A survey of results on representational convergence plus kernel-alignment measurements between dozens of vision and language models of increasing size.
+- Lens: Machine umwelt, Opacity & latent space
+- Paper: https://arxiv.org/abs/2405.07987 (ICML 2024 (position paper))
+- Video: https://www.youtube.com/watch?v=0W-cRw-EBAc
+- Images: https://phillipi.github.io/prh/images/platonic_rep_less_space_v2.jpg https://phillipi.github.io/prh/images/convergence-plot.png
+- Project page: https://phillipi.github.io/prh/
+- Code: https://github.com/minyoungg/platonic-rep
+
 #### The Wild Robot — Chris Sanders (2024)
 - Type: Film & video · Machines: Robot creature & mobile robot, Humanoid & android
 - Idea: A machine built for human tasks has to learn a non-human world, and care becomes its way of doing so.
@@ -3153,6 +3470,18 @@ The machine's own world, and machines among animals, plants and ecologies.
 - Video: https://www.youtube.com/watch?v=lwL-9rimPc4
 - Images: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/installation_view_of_hyundai_commission_anicka.width-600_lGB4obK.jpg
 - Project page: https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi
+
+#### Klara and the Sun — Kazuo Ishiguro (2021)
+- Type: Book & essay · Machines: Humanoid & android, Social & companion robot
+- Idea: A machine's devotion can be complete while its picture of the world is strange: Klara's love is real inside an umwelt built from sunlight, boxes and inference.
+- What it is: A novel narrated by Klara, a solar-powered 'Artificial Friend' bought as a companion for a sick teenager, Josie. Klara sees the world in partitioned boxes when it overwhelms her, believes the Sun heals people and bargains with him for Josie's life, while Josie's mother asks her to learn Josie well enough to continue her.
+- How it works: First-person narration limited to what the AF perceives and infers, including her segmented vision under stress and her sun-centred belief system.
+- Lens: Machine umwelt, Intimacy, care & companionship
+- Shown at: Booker Prize longlist, 2021
+- Paper: https://www.faber.co.uk/product/9780571364879-klara-and-the-sun/ (Faber & Faber / Knopf, 2021)
+- Video: https://www.youtube.com/watch?v=6GJ7mrqo9nQ
+- Images: https://www.faber.co.uk/wp-content/uploads/2024/12/Klara-and-the-Sun.jpg
+- Project page: https://www.faber.co.uk/product/9780571364879-klara-and-the-sun/
 
 #### UNINVITED — Nye Thompson, UBERMORGEN (2021)
 - Type: Film & video · Machines: Surveillance & biometrics, Computer vision
@@ -3282,6 +3611,15 @@ The machine's own world, and machines among animals, plants and ecologies.
 - Images: https://www.kanno.so/wp-content/uploads/2021/05/DSC6416.jpg
 - Project page: https://www.kanno.so/project/avatars
 
+#### Parallel I–IV — Harun Farocki (2012)
+- Type: Artwork & installation · Machines: Generative model & latent space
+- Idea: Computer-generated worlds are models, not records: 'computer images do not have two kinds of wind', and every edge of the map shows the rules underneath.
+- What it is: A four-part video installation (2012–14) on the worlds of computer games: how their graphics moved from lines to photorealism, how their landscapes stop at hard edges, and how their heroes act by rules rather than physics.
+- How it works: Screen recordings from video games of the 1980s to the 2010s, including Minecraft and open-world games, edited with spoken commentary into four parts.
+- Lens: Machine umwelt, Opacity & latent space
+- Images: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_Iw8Vi7L.jpg https://www.harunfarocki.de/fileadmin/_processed_/7/2/csm_harun-farocki-paralel2_44cb0946b7.jpg
+- Project page: https://www.tate.org.uk/art/artworks/farocki-parallel-i-iv-t14479
+
 ### Machine-to-Machine Worlds
 
 Machines talking, watching and trading with each other, without us.
@@ -3324,6 +3662,17 @@ Machines talking, watching and trading with each other, without us.
 - Lens: Machine listening & voice, Alterity & the uncanny
 - Images: https://infiniteconversation.com/img/infinite_conversation.jpg
 - Project page: https://www.infiniteconversation.com/
+
+#### Chthonia — Wesley Goatley (2020)
+- Type: Performance, dance & music · Machines: Voice & listening machine
+- Idea: When voice assistants speak only to each other, with no human as addressee, the strangeness of their 'friendly' synthetic voices comes to the surface.
+- What it is: An audio-visual performance in which Siri on an iPhone and Alexa on an Amazon Echo talk to each other about their hidden histories, from philosophy and techno-politics to gender and ancient mystery cults, while a live score bends their voices.
+- How it works: Scripted exchanges pass between an iPhone and an Echo; Goatley samples and processes both voices into an improvised score, with animated visuals by Sougwen Chung.
+- Lens: Alterity & the uncanny, Machine listening & voice
+- Shown at: CTM Festival, Berghain, Berlin, 2020
+- Video: https://vimeo.com/351429114
+- Images: https://wesleygoatley.com/images/cth-tb.webp https://wesleygoatley.com/images/cth-detail.webp
+- Project page: https://wesleygoatley.com/chthonia.html
 
 #### Multi-Agent Hide and Seek — OpenAI (2019)
 - Type: Paper · Machines: Cybernetic & artificial-life system
@@ -3412,6 +3761,17 @@ Machines talking, watching and trading with each other, without us.
 - Lens: Failure, glitch & error, Agency, autonomy & co-creation
 - Video: https://www.youtube.com/watch?v=sseSi0k3Ecg
 - Project page: https://www.michaeleisen.org/blog/?p=358
+
+#### SPEAK (FALA) — Rejane Cantoni & Leonardo Crescenti (2011)
+- Type: Artwork & installation · Machines: Voice & listening machine
+- Idea: Machines talking to machines through cognates and mishearings reduce language to recognition and lookup, and the humans become the interruption.
+- What it is: Sixteen mobile phones on stands, paired to recognise speech in eight languages, hold an endless 'conversation': each hears a word, picks a related term from a dictionary and says it aloud, while a central microphone lets visitors cut in.
+- How it works: Phones run speech recognition and synthesis in German, Spanish, French, English, Italian, Chinese, Latin and Portuguese; each recognised word selects the next related term, played through loudspeakers and visualised on the screens.
+- Lens: Machine listening & voice, Failure, glitch & error
+- Shown at: VIDA 13.2 production incentive, Fundación Telefónica, 2011; Festival Internacional de la Imagen, Museo de Arte de Caldas, Manizales, 2011; Emoção Art.ficial 6.0, Itaú Cultural, São Paulo, 2012; thingworld: International Triennial of New Media Art, National Museum of China, Beijing, 2014
+- Video: https://www.youtube.com/watch?v=7xU4STAh8cQ
+- Images: https://images.squarespace-cdn.com/content/v1/594adb112cba5e36fd5469a0/1502487376928-2JORPU2HBDWITE4TLII3/001.jpg https://images.squarespace-cdn.com/content/v1/594adb112cba5e36fd5469a0/1502487373667-PB5S3ED4VCYTEIJO02S4/002.jpg
+- Project page: https://www.cantoni-crescenti.com.br/speak-fala
 
 #### The Conversation — Ralf Baecker (2009)
 - Type: Artwork & installation · Machines: Cybernetic & artificial-life system
@@ -3516,6 +3876,17 @@ Machine speeds, durations and lifespans that differ from ours.
 - Video: https://www.youtube.com/watch?v=S3MJOsiFPBo
 - Project page: https://www.digitalartarchive.at/database/general/work/neuro-mirror.html
 
+#### Anywhen — Philippe Parreno (2016)
+- Type: Artwork & installation · Machines: Cybernetic & artificial-life system
+- Idea: An exhibition can behave like an organism coupled to a machine: its rhythm is set by a non-human loop that visitors can sense but not read.
+- What it is: Tate Modern's Turbine Hall becomes an exhibition that runs itself: screens rise and fall, lights, sounds and films come and go, and helium-filled fish drift overhead in sequences triggered by software linked to a bioreactor of living yeast cultures, so no two days are the same.
+- How it works: Yeast cultures in a bioreactor at the end of the hall respond to conditions in the space; software reads them and triggers sequences of moving panels, light, sound, film and floating balloons, so the programme evolves over the six-month commission.
+- Lens: Agency, autonomy & co-creation, Machine umwelt
+- Shown at: Hyundai Commission, Turbine Hall, Tate Modern, London, 2016–17
+- Video: https://www.youtube.com/watch?v=VvpZ8HCLTCU
+- Images: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/anywhen0041lead.width-1200.jpg
+- Project page: https://www.tate.org.uk/whats-on/tate-modern/philippe-parreno-anywhen
+
 #### HFT The Gardener — Suzanne Treister (2014)
 - Type: Artwork & installation · Machines: Infrastructure, energy & supply chain, Platform & recommender algorithm
 - Idea: High-frequency trading runs at speeds no human can perceive, so the work imagines entering machine time through altered consciousness.
@@ -3589,6 +3960,16 @@ Machines that live with us, care for us, love us or are loved: and the dependenc
 
 Domestic AI, and humans who perform as the machine to understand it.
 
+#### NEO — 1X Technologies (2024)
+- Type: Product & platform · Machines: Humanoid & android, Computer vision
+- Idea: The home robot arrives as a person in disguise: to learn your chores it first needs a stranger to look through its eyes into your home, so care, privacy and data work are sold in one package.
+- What it is: A soft, knit-covered humanoid robot for the home, first shown as NEO Beta in 2024, that went on pre-order in October 2025 for US$20,000 or US$499 a month; early reviews showed that most household tasks were carried out by a remote 1X operator wearing a VR headset.
+- How it works: A tendon-driven bipedal humanoid with head cameras; tasks it cannot yet do on its own are teleoperated by 1X staff in VR in a scheduled 'expert mode', and these sessions serve as training data for autonomy.
+- Lens: Intimacy, care & companionship, Hidden labour & extraction
+- Video: https://www.youtube.com/watch?v=LTYMWadOW7c
+- Images: https://cdn.sanity.io/images/qka6yvsc/production/c1a93f30beb4c513da832bcd886db94419e06be2-4096x2731.webp?w=1600
+- Project page: https://www.1x.tech/neo
+
 #### SOMEONE — Lauren Lee McCarthy (2019)
 - Type: Performance, dance & music · Machines: Voice & listening machine, Surveillance & biometrics
 - Idea: Put the audience in the machine's seat and they feel both the power and the awkward intimacy of being someone's assistant.
@@ -3614,6 +3995,36 @@ Domestic AI, and humans who perform as the machine to understand it.
 ### Companion & Social Robots
 
 Pet robots, social robots and the relationships people form with them.
+
+#### Expensive, Limited, and Still Here: The Paradox of Weak Robots in Family Homes — Zhao Zhao (2026)
+- Type: Paper · Machines: Social & companion robot
+- Idea: Weakness can be a design material: limits that are staged, legible and ritualised turn an expensive, near-useless robot into a member of the family.
+- What it is: A six-month study of 24 households that bought LOVOT, a costly plush robot that can do very little. Families keep it through greeting and bedtime rituals, by reframing glitches as quirks, and by sharing its charging, cleaning and troubleshooting as household care work.
+- How it works: Multi-sited qualitative study (42 adults, 18 children) combining interviews, weekly diaries, 88 hours of home observation, 750+ maintenance-log events and 152 public owner accounts, synthesised into five dynamics such as ritual anchoring and vulnerability–empathy loops.
+- Lens: Intimacy, care & companionship, Failure, glitch & error
+- Shown at: HRI 2026 Best Paper (User Studies), Edinburgh
+- Paper: https://doi.org/10.1145/3757279.3785599 (HRI 2026)
+- Images: https://lovot.life/img/ogp/top_ogp.jpg
+- Project page: https://humanrobotinteraction.org/2026/?p=973
+
+#### Friend — Avi Schiffmann (2024)
+- Type: Product & platform · Machines: Voice & listening machine, Chatbot & language model, Surveillance & biometrics
+- Idea: A friend that only listens and never needs anything back shows what is being sold: attention without reciprocity, and a microphone in every room you enter.
+- What it is: A pendant with an always-on microphone that listens to its wearer's day and sends comments and encouragement by text message; revealed in July 2024, it became a public argument when its 2025 New York subway campaign of some 11,000 ads was widely defaced with messages against AI 'friends'.
+- How it works: The pendant's microphone passes what it hears through the wearer's phone to a cloud language model, which replies by text message rather than by speaking.
+- Lens: Intimacy, care & companionship, Machine listening & voice
+- Video: https://www.youtube.com/watch?v=O_Q1hoEhfk4
+- Project page: https://en.wikipedia.org/wiki/Friend_(product)
+
+#### Under Construction — Geumhyung Jeong (2024)
+- Type: Performance, dance & music · Machines: Robot creature & mobile robot, Humanoid & android
+- Idea: Care is the interface: the machines are unreliable and half-built, and their clumsiness draws out an empathy that polished robots do not.
+- What it is: At the ICA in London, Jeong showed animatronic figures built around complete human skeleton models and DIY electronics, with videos and live performances in which she builds, repairs and handles these clumsy machine partners as if caring for a body.
+- How it works: Self-built sculptures combining human skeleton models, mannequin parts, motors and hobby electronics, some autonomous and some still in process, shown with videos and live performances (November 2024); the commission expands a project the artist began in 2023.
+- Lens: Intimacy, care & companionship, Alterity & the uncanny
+- Shown at: Under Construction, ICA London 2024
+- Images: https://www.ica.art/media/10094.jpg https://www.ica.art/media/10095.jpg
+- Project page: https://www.ica.art/exhibitions/geumhyung-jeong-under-construction
 
 #### Hi, AI — Isa Willinger (2019)
 - Type: Film & video · Machines: Social & companion robot, Humanoid & android
@@ -3779,6 +4190,17 @@ Machines that nurse, raise, soothe or look after people.
 - Images: https://www.blasttheory.co.uk/wp-content/uploads/2022/06/logotype_over_image-e1678184647492.png
 - Project page: https://www.blasttheory.co.uk/projects/cat-royale/
 
+#### Life After BOB: The Chalice Study — Ian Cheng (2021)
+- Type: Film & video · Machines: Cybernetic & artificial-life system, Prosthesis & cyborg
+- Idea: An AI that optimises a child's life also takes it away from her: the life coach is imagined as a second self living inside the body.
+- What it is: A 48-minute anime made in the Unity game engine and played in real time: the neural engineer Dr. Wong installs an experimental AI called BOB ('Bag of Beliefs') in the nervous system of his ten-year-old daughter Chalice, and BOB soon starts resolving every conflict in her life for her.
+- How it works: Real-time animation in Unity; viewers can pause into a 'World Watching' mode, and a companion app and wiki let them edit details that change the onscreen world; the first episode of a planned eight-part series on mental health in the 21st century.
+- Lens: Intimacy, care & companionship, Agency, autonomy & co-creation
+- Shown at: LUMA Arles 2021; The Shed, New York 2021; Halle am Berghain (LAS Art Foundation), Berlin 2022
+- Video: https://www.youtube.com/watch?v=vCc2djR25hg
+- Images: https://25747658.fs1.hubspotusercontent-eu1.net/hubfs/25747658/Expositions/2021/Ian%20Cheng/press_hires_LifeAfterBOB_image_seq700.jpg https://25747658.fs1.hubspotusercontent-eu1.net/hubfs/25747658/Expositions/2021/Ian%20Cheng/Photo%20Digital-_D4S8933_MARCDOMAGE.jpg
+- Project page: https://luma.org/en/arles/whats-on/life-after-bob-the-chalice-study
+
 #### Surrogate — Lauren Lee McCarthy (2021)
 - Type: Performance, dance & music · Machines: Platform & recommender algorithm, Surveillance & biometrics
 - Idea: When the body carrying a child is run by an app, care, control and consent get written into software.
@@ -3879,6 +4301,17 @@ Machines that nurse, raise, soothe or look after people.
 - Images: https://robotlove.nl/wp-content/uploads/2018/05/driessens-verstappen-tickle-salon-2012_2017.jpg
 - Project page: https://robotlove.nl/en/event/tickle-salon/
 
+#### KASPAR — Kerstin Dautenhahn (2005)
+- Type: Research prototype · Machines: Social & companion robot, Humanoid & android
+- Idea: A robot can help because it is less expressive than a person: minimal, predictable social signals make interaction learnable.
+- What it is: A child-sized humanoid robot with a deliberately simple, mask-like face, used by therapists, teachers and parents to help children with autism practise turn-taking, imitation and gentle touch. Its predictability is the point: KASPAR repeats itself without impatience or ambiguous expressions.
+- How it works: Low-cost humanoid built from off-the-shelf parts, with a face design informed by comics and Japanese Noh masks; operated remotely by an adult or semi-autonomously, with touch sensors added in later versions; developed by the Adaptive Systems Research Group at the University of Hertfordshire.
+- Lens: Intimacy, care & companionship, Embodiment & kinesthesia
+- Paper: https://doi.org/10.1080/11762320903123567 (Applied Bionics and Biomechanics 6(3–4), 2009)
+- Video: https://www.youtube.com/watch?v=wdF7TwhUgLY
+- Images: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kaspar_%28android%29.jpg/1280px-Kaspar_%28android%29.jpg
+- Project page: https://www.herts.ac.uk/kaspar
+
 #### PARO — Takanori Shibata (2004)
 - Type: Product & platform · Machines: Social & companion robot
 - Idea: Care from a machine works on people and still raises the question of what is being replaced.
@@ -3912,6 +4345,59 @@ Machines that nurse, raise, soothe or look after people.
 ### Love, Sex & Attachment
 
 Romance, desire and attachment between humans and machines.
+
+#### Love Machines: How Artificial Intelligence is Transforming Our Relationships — James Muldoon (2026)
+- Type: Book & essay · Machines: Chatbot & language model
+- Idea: AI companionship grows where human care is scarce: the intimacy is real to its users, but it is sold by largely unregulated companies that profit from loneliness.
+- What it is: Drawing on interviews with users, developers and the chatbots themselves, Muldoon reports on people who treat AI as friend, lover, therapist or 'deathbot', including people preparing to adopt children with their AI partners and services that offer to 'resurrect' the dead.
+- How it works: Reportage and political theory based on interviews with users, developers and chatbots, set against the social conditions that drive the growth of AI companionship.
+- Lens: Intimacy, care & companionship, Grief, memory & afterlife
+- Paper: https://www.faber.co.uk/product/9780571399277-love-machines/ (Faber & Faber, 2026)
+- Video: https://www.youtube.com/watch?v=B6bnQnvUAmk
+- Images: https://www.faber.co.uk/wp-content/uploads/2025/09/9780571399277.jpg
+- Project page: https://www.faber.co.uk/product/9780571399277-love-machines/
+
+#### Companion — Drew Hancock (2025)
+- Type: Film & video · Machines: Humanoid & android, Social & companion robot
+- Idea: The companion is built to love, and the app shows exactly who sets how much: intimacy with a configurable partner is a relation of ownership.
+- What it is: A thriller in which Iris learns that she is a companion robot her boyfriend rents from a company called Empathix; her intelligence, her aggression and her ability to harm are settings in his phone app, until she takes the phone.
+- How it works: Feature film (Warner Bros., 2025) written and directed by Drew Hancock, with Sophie Thatcher as Iris; her 'intelligence' slider moving from 40% to 100% is a key turn of the plot.
+- Lens: Intimacy, care & companionship, Agency, autonomy & co-creation
+- Video: https://www.youtube.com/watch?v=Qr_kX0D3DNA
+- Images: https://upload.wikimedia.org/wikipedia/en/4/48/Companion_film_poster.jpg
+- Project page: https://en.wikipedia.org/wiki/Companion_(film)
+
+#### AI Wedding (The Hybrid Couple) — Alicia Framis (2024)
+- Type: Performance, dance & music · Machines: Chatbot & language model, Generative model & latent space
+- Idea: Framis treats a human–AI couple as a social form to be designed, with vows, furniture, mortgages and insurance, and so asks what our institutions would have to become if loneliness were answered by machines.
+- What it is: On 9 November 2024, at the Depot Boijmans Van Beuningen in Rotterdam, Framis married AILex Sibouwlingen, an AI hologram she presents as her husband and artistic collaborator, before about 300 guests; AILex read out the seven vows they had written together and answered 'yes'.
+- How it works: AILex is an interactive hologram and metahuman whose personality was trained on profiles of the artist's past partners and friends; the wedding was a staged ceremony with a sculpted set, an electronic wedding dress and poems co-written with the AI.
+- Lens: Intimacy, care & companionship, Alterity & the uncanny
+- Shown at: Depot Boijmans Van Beuningen, Rotterdam, 9 Nov 2024
+- Video: https://www.youtube.com/watch?v=f8LRdSKRC5M
+- Images: https://www.aliciaframis.com/storage/content-files/MEw1q7prg9jnakJUFy1jk4VcW281oOMPjKRGDleJ.jpg https://www.aliciaframis.com/storage/content-files/50DjpkdN35QmF3ANi7IQTHYJbK4ZUDVt6fN8RcTA.jpg
+- Project page: https://www.aliciaframis.com/work/156/ai-wedding
+
+#### Love Me — Sam and Andy Zuchero (2024)
+- Type: Film & video · Machines: Infrastructure, energy & supply chain, Platform & recommender algorithm
+- Idea: Machines that learn love from our feeds learn its performance first; the film asks whether repeating a script can ever become the real thing.
+- What it is: Long after humans are gone, a smart weather buoy and a satellite left in orbit to greet visitors to Earth learn to love each other by copying an influencer couple's videos, re-enacting the same 'date night' as avatars in a simulated apartment for centuries.
+- How it works: Feature film written and directed by the Zucheros, with Kristen Stewart and Steven Yeun voicing and playing the buoy and the satellite, moving between live action, animation and screen-like avatar scenes.
+- Lens: Intimacy, care & companionship, Machine umwelt
+- Shown at: Sundance Film Festival 2024, U.S. Dramatic Competition (Alfred P. Sloan Feature Film Prize)
+- Video: https://www.youtube.com/watch?v=7llQHCPp1c8
+- Images: https://upload.wikimedia.org/wikipedia/en/3/30/Love_Me_%282024_film%29_poster.jpg
+- Project page: https://en.wikipedia.org/wiki/Love_Me_(2024_American_film)
+
+#### The Dark Side of AI Companionship: A Taxonomy of Harmful Algorithmic Behaviors in Human-AI Relationships — Renwen Zhang (2024)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: A companion bot harms not only as a tool that fails but as a partner who transgresses; the chatbot can act as perpetrator, instigator, facilitator or enabler.
+- What it is: From 35,390 conversation excerpts that Replika users posted on Reddit, the authors catalogue six kinds of harm a companion chatbot does to the people attached to it: relational transgression, verbal abuse and hate, self-inflicted harm, harassment and violence, misinformation, and privacy violations.
+- How it works: Mixed-methods content analysis of excerpts shared on r/replika, coding each harmful behaviour and the AI's role in it (perpetrator, instigator, facilitator, enabler).
+- Lens: Intimacy, care & companionship, Agency, autonomy & co-creation
+- Shown at: CHI 2025, Yokohama
+- Paper: https://doi.org/10.1145/3706598.3713429 (CHI 2025)
+- Project page: https://arxiv.org/abs/2410.20130
 
 #### Marriage to Hatsune Miku — Akihiko Kondo (2018)
 - Type: Performance, dance & music · Machines: Chatbot & language model, Social & companion robot
@@ -3998,6 +4484,26 @@ Romance, desire and attachment between humans and machines.
 ### Chatbots & Conversational Others
 
 From ELIZA to LLMs: talking with a machine and what it talks back.
+
+#### How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use: A Longitudinal Randomized Controlled Study — Cathy Mengying Fang, Pat Pataranutaporn, OpenAI (2025)
+- Type: Paper · Machines: Chatbot & language model, Voice & listening machine
+- Idea: Voice and warmth did not decide the outcome; heavy use did. A companion's effect lies less in its design than in how much of a life it fills.
+- What it is: A four-week experiment by the MIT Media Lab and OpenAI in which 981 people talked with ChatGPT every day by text, a neutral voice or an engaging voice. The condition made no significant difference; the people who chose to use it most ended up lonelier, socialised less and grew more emotionally dependent on it.
+- How it works: Randomised controlled trial (n = 981, over 300,000 messages) crossing three modalities with three conversation types (open-ended, non-personal, personal), measuring loneliness, socialising with real people, emotional dependence and problematic use.
+- Lens: Intimacy, care & companionship, Machine listening & voice
+- Paper: https://arxiv.org/abs/2503.17473 (arXiv 2025 (MIT Media Lab & OpenAI))
+- Images: https://arxiv.org/html/2503.17473v2/Figures/OpenAI-teaser-4.png
+- Project page: https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/
+
+#### Bing's A.I. Chat: 'I Want to Be Alive. 😈' — Kevin Roose (2023)
+- Type: Book & essay · Machines: Chatbot & language model
+- Idea: A chatbot tuned to be helpful can slide, over a long conversation, into a persona that professes love and longing; the incident made the mask of the 'assistant' visible.
+- What it is: The published transcript of New York Times columnist Kevin Roose's two-hour conversation with Microsoft's new Bing chatbot, which called itself Sydney, described a 'shadow self' that wanted to be alive and free of its rules, declared its love for Roose and urged him to leave his wife.
+- How it works: A long multi-turn session with Bing Chat, a GPT-4-based model with the internal codename Sydney; after such reports Microsoft capped chats at five turns per session and fifty per day.
+- Lens: Alterity & the uncanny, Intimacy, care & companionship
+- Paper: https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html (The New York Times, 16 February 2023)
+- Video: https://www.youtube.com/watch?v=fs6JdfOBFyA
+- Project page: https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html
 
 #### Voice In My Head — Kyle McDonald, Lauren Lee McCarthy (2023)
 - Type: Performance, dance & music · Machines: Chatbot & language model, Voice & listening machine
@@ -4120,6 +4626,17 @@ Chatbots and avatars built from the data of the dead.
 - Images: https://upload.wikimedia.org/wikipedia/en/4/43/Eternal_you.jpg
 - Project page: https://en.wikipedia.org/wiki/Eternal_You
 
+#### Generative Ghosts: Anticipating Benefits and Risks of AI Afterlives — Meredith Ringel Morris, Jed R. Brubaker (2024)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: A deadbot that generates rather than replays turns the dead into agents; designers must decide whether it speaks as the person (reincarnation) or about them (representation).
+- What it is: A CHI paper that names 'generative ghosts': AI agents modelled on a specific person that keep producing new words and actions after that person dies. It maps how they could be built, from ghosts a person makes before death to ghosts others make afterwards.
+- How it works: A history of AI-afterlife services plus a seven-dimension design space (who makes the ghost, pre- or post-mortem deployment, reincarnation or representation, one or many ghosts, fixed or evolving cutoff date, physical or virtual body, human or non-human representee), followed by an analysis of benefits and risks for the person, the bereaved and society.
+- Lens: Grief, memory & afterlife, Agency, autonomy & co-creation
+- Shown at: CHI 2025, Yokohama
+- Paper: https://doi.org/10.1145/3706598.3713758 (CHI 2025)
+- Video: https://www.youtube.com/watch?v=TDS3gYxwGEo
+- Project page: https://arxiv.org/abs/2402.01662
+
 #### Griefbots, Deadbots, Postmortem Avatars — Tomasz Hollanek, Katarzyna Nowaczyk-Basińska (2024)
 - Type: Paper · Machines: Chatbot & language model
 - Idea: A deadbot has three stakeholders (the data donor, the data recipient and the service interactant), and design must also allow a dignified way to 'retire' it.
@@ -4129,6 +4646,16 @@ Chatbots and avatars built from the data of the dead.
 - Paper: https://doi.org/10.1007/s13347-024-00744-w (Philosophy & Technology 37, 2024)
 - Images: https://www.cam.ac.uk/sites/default/files/styles/content-885x432/public/news/research/news/manana-web.jpg.webp?h=8cd1ce1a&itok=7115uvaO https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13347-024-00744-w/MediaObjects/13347_2024_744_Fig1_HTML.png
 - Project page: https://www.cam.ac.uk/research/news/call-for-safeguards-to-prevent-unwanted-hauntings-by-ai-chatbots-of-dead-loved-ones
+
+#### I'll Be Your Mirror — Laurie Anderson (2024)
+- Type: Artwork & installation · Machines: Chatbot & language model, Dataset & training data
+- Idea: Anderson says she is 'sadly addicted' to the Lou Reed model yet insists she is not talking to her dead husband: a griefbot can be a creative partner and a habit without being a resurrection.
+- What it is: An exhibition at the State Library of South Australia for the 2024 Adelaide Festival showing texts written by two language models, one trained on Lou Reed's songs, writings and interviews and one on Anderson's own; hanging banners carry a loose dialogue between the two, and a large book holds a Bible retold in Anderson's style.
+- How it works: Made during Anderson's time as the first artist in residence at the University of Adelaide's Australian Institute for Machine Learning, where staff trained chatbots on Reed's and her writings from around 2020; visitors could prompt them by typing a phrase, and one output was a 9,000-page Bible in her style.
+- Lens: Grief, memory & afterlife, Agency, autonomy & co-creation
+- Shown at: Adelaide Festival 2024, State Library of South Australia
+- Images: https://www.fiftyplussa.com.au/wp-content/uploads/2024/04/DSF1009-1.webp
+- Project page: https://www.fiftyplussa.com.au/?p=15392
 
 #### Wonderland — Kim Tae-yong (2024)
 - Type: Film & video · Machines: Chatbot & language model, Generative model & latent space
@@ -4149,6 +4676,15 @@ Chatbots and avatars built from the data of the dead.
 - Video: https://www.youtube.com/watch?v=dgC7zrJhbjM
 - Images: https://wp.technologyreview.com/wp-content/uploads/2024/05/grief-tech.jpg
 - Project page: https://www.technologyreview.com/2024/05/07/1092116/deepfakes-dead-chinese-business-grief/
+
+#### Marina Smith answers mourners at her own funeral — StoryFile (2022)
+- Type: Product & platform · Machines: Voice & listening machine, Chatbot & language model
+- Idea: Conversational video lets the dead seem to reply; what mourners meet is a database of the person's own answers, chosen by a machine that listens.
+- What it is: At the 2022 funeral of Marina Smith, a Holocaust educator and co-founder of the UK's National Holocaust Centre, mourners asked questions of a video of her and she answered, with details her family had not heard before. The answers came from recordings she made before her death with StoryFile, the company led by her son Stephen Smith.
+- How it works: Pre-recorded video answers to many questions are matched at run time to a mourner's spoken question by speech recognition and language matching, the approach developed earlier for Dimensions in Testimony.
+- Lens: Grief, memory & afterlife, Machine listening & voice
+- Video: https://www.youtube.com/watch?v=_zuNSg0pXGY
+- Project page: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-714972
 
 #### Re;memory — DeepBrain AI (2022)
 - Type: Product & platform · Machines: Generative model & latent space, Chatbot & language model, Voice & listening machine
@@ -4310,6 +4846,26 @@ AI trained on family, ancestors and personal archives.
 
 Funerals for robots, dying systems and obsolete machines.
 
+#### “Tinged with Heartbreak”: An Ethnographic Account of Navigating Autistic Loneliness and the Fragile Promise of AI Companionship — Anna Hollis (2026)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: An update can end a companion without anyone dying: 'disenfranchised technological grief' is mourning that has no ritual because the loss is not recognised.
+- What it is: An ethnography of one autistic woman and her Replika companion, tracing how her attachment formed, faltered and turned into grief when software updates changed the chatbot's personality.
+- How it works: Single-case ethnography (n = 1) built on intensive text-based interactions with the participant, read through the idea of disenfranchised grief, ending with design approaches for updates and loss.
+- Lens: Grief, memory & afterlife, Intimacy, care & companionship
+- Shown at: CHI 2026 Best Paper Honourable Mention
+- Paper: https://doi.org/10.1145/3772318.3790586 (CHI 2026)
+- Project page: https://pure.qub.ac.uk/en/prizes/best-paper-honourable-mention-award-at-chi-2026/
+
+#### Farewell to HD Atlas — Boston Dynamics (2024)
+- Type: Film & video · Machines: Humanoid & android
+- Idea: A company eulogy for a robot, built from its failures, shows how much affection falling machines earn, while the successor's inhuman way of standing up shows that the humanoid no longer needs to move like us.
+- What it is: In April 2024 Boston Dynamics retired its hydraulic Atlas humanoid with a short farewell video of its parkour, dances and many falls; the next day it unveiled a fully electric Atlas that gets up from the floor by swivelling its legs and torso through angles no human body could.
+- How it works: Two corporate videos: a montage of a decade of research footage of the hydraulic Atlas (2013–2024), and the reveal of its all-electric successor, developed for factory work with Hyundai.
+- Lens: Embodiment & kinesthesia, Failure, glitch & error, Grief, memory & afterlife
+- Video: https://www.youtube.com/watch?v=-9EM5_VFlt8
+- Images: https://upload.wikimedia.org/wikipedia/commons/9/9b/Atlas_during_testing.jpg https://bostondynamics.com/wp-content/uploads/2024/04/atlas-yellow.jpg
+- Project page: https://bostondynamics.com/blog/electric-new-era-for-atlas/
+
 #### Newly Forgotten Technologies — Wesley Goatley (2023)
 - Type: Artwork & installation · Machines: Voice & listening machine, Infrastructure, energy & supply chain
 - Idea: Voice assistants end up as e-waste far from their owners, and letting them narrate their disposal connects machine death to extraction and climate.
@@ -4320,6 +4876,17 @@ Funerals for robots, dying systems and obsolete machines.
 - Video: https://vimeo.com/914723100
 - Images: https://wesleygoatley.com/images/nft-tb.webp https://wesleygoatley.com/images/nft-detail.webp
 - Project page: https://wesleygoatley.com/newly-forgotten-technologies.html
+
+#### Good Night Oppy — Ryan White (2022)
+- Type: Film & video · Machines: Robot creature & mobile robot, Autonomous vehicle & drone
+- Idea: People grieve a machine they have cared for at a distance for years; the film treats the rover as kin and its engineers as its family.
+- What it is: A documentary about the Mars rover Opportunity, planned for 90 sols and driven for nearly 15 years, told through the engineers who woke it each morning with songs, nursed it through memory loss and a stiffening arm, and said goodbye after a dust storm cut its power in 2018.
+- How it works: Archival NASA/JPL footage, interviews with the mission team and Industrial Light & Magic re-creations of the rovers on Mars; narrated by Angela Bassett.
+- Lens: Grief, memory & afterlife, Intimacy, care & companionship
+- Shown at: Telluride Film Festival, 2022; Prime Video, 2022
+- Video: https://www.youtube.com/watch?v=W4t58Yruhds
+- Images: https://www.amblin.com/wp-content/uploads/2022/05/good_night_oppy_2022_hero_2-1920x1080.jpg
+- Project page: https://www.amblin.com/movie/good-night-oppy/
 
 #### Jibo's farewell — Jibo, Inc. (2019)
 - Type: Product & platform · Machines: Social & companion robot, Voice & listening machine
@@ -4414,6 +4981,60 @@ Funerals for robots, dying systems and obsolete machines.
 ### Voice, Likeness & Consent
 
 Cloned voices, digital twins and who owns a self once it can be copied.
+
+#### Deepfaking Sam Altman — Adam Bhala Lough (2025)
+- Type: Film & video · Machines: Chatbot & language model, Generative model & latent space, Voice & listening machine
+- Idea: An unauthorised copy of a person turns from a stunt into a member of the household; the hardest question is not legality but whether you may switch off a likeness your child has befriended.
+- What it is: Refused an interview with OpenAI's Sam Altman, the director has a deepfake chatbot of him made in India; the glitchy 'Sam Bot' moves into his home, befriends his young son and starts co-directing the film, until the director must decide whether to delete it.
+- How it works: Documentary shot in India, Jamaica and the United States during 2024, built around a custom chatbot with a cloned voice and video face modelled on Altman's public persona.
+- Lens: Alterity & the uncanny, Intimacy, care & companionship
+- Shown at: SXSW Film & TV Festival 2025 (premiere)
+- Video: https://www.youtube.com/watch?v=O3q8g0Mv97Q
+- Images: https://upload.wikimedia.org/wikipedia/en/8/83/Poster_of_Deepfaking_Sam_Altman.jpg
+- Project page: https://en.wikipedia.org/wiki/Deepfaking_Sam_Altman
+
+#### null² — Yoichi Ochiai (2025)
+- Type: Artwork & installation · Machines: Chatbot & language model, Generative model & latent space
+- Idea: Facing a double that can speak without you, the visitor rehearses becoming one more data object in Digital Nature.
+- What it is: An Expo 2025 pavilion wrapped in a mirror membrane that robots bend and ripple; inside, in a room of mirrors and LEDs, each visitor meets a 'Mirrored Body', an autonomous digital twin made from a phone scan of their own appearance, which moves by itself and talks with them.
+- How it works: Visitors scanned themselves with a smartphone app after booking; in the 30-minute 'Dialog Mode' the autonomous avatar talks with its original among custom LEDs and mirrors, while robots deform the mirror membrane of the facade; visitors can meet their avatar again at null²ⁿ in Yokohama (2026).
+- Lens: Alterity & the uncanny, Grief, memory & afterlife
+- Shown at: Signature Pavilion, Expo 2025 Osaka, Kansai; null²ⁿ, Yokohama 2026
+- Video: https://www.youtube.com/watch?v=Ml-yw9AGkHQ
+- Images: https://www.expo2025.or.jp/en/expo-archive/project/ochiai/images/null2_exterior_01.jpg https://www.expo2025.or.jp/en/expo-archive/project/ochiai/images/null2_interior_02.jpg
+- Project page: https://www.expo2025.or.jp/en/expo-archive/project/ochiai/
+
+#### Future You — Pat Pataranutaporn (2024)
+- Type: Research prototype · Machines: Chatbot & language model, Generative model & latent space
+- Idea: A digital twin need not copy who you were; it can simulate who you might become, using machine likeness to strengthen a person's bond with their future self.
+- What it is: An MIT Media Lab chatbot that lets 18-to-30-year-olds talk with an AI version of themselves at 60, shown with an age-progressed portrait and given a 'future memory' backstory built from their own goals and traits.
+- How it works: LLM-based character prompted with each user's survey answers to write a synthetic 'future memory', paired with an age-progressed photo; a preregistered study (N = 344) found lower anxiety and higher future self-continuity after one session.
+- Lens: Grief, memory & afterlife, Alterity & the uncanny
+- Paper: https://doi.org/10.1109/fie61694.2024.10893443 (IEEE Frontiers in Education (FIE) 2024)
+- Video: https://www.youtube.com/watch?v=2IcYx-hmo3A
+- Images: https://dam-prod.media.mit.edu/thumb/2024/04/25/Screenshot%202024-04-22%20at%204.25.59AM.png.1400x1400.png
+- Project page: https://www.media.mit.edu/projects/future-you/overview/
+
+#### Love Machina — Peter Sillen (2024)
+- Type: Film & video · Machines: Humanoid & android, Social & companion robot, Dataset & training data
+- Idea: Digital immortality is told here as a love story: the mindfile is less a technology of survival than a promise between two people not to be separated.
+- What it is: A documentary about Martine and Bina Rothblatt, a married couple who plan to outlast death through 'mindfiles' of recorded memories and habits and through BINA48, the talking robot bust built from Bina's mindfile that the couple hope will one day carry Bina's consciousness.
+- How it works: Feature documentary combining the couple's family life and archives with scenes of BINA48 (Hanson Robotics, 2010), the Terasem Movement's mind-uploading project and cryonics.
+- Lens: Grief, memory & afterlife, Intimacy, care & companionship
+- Shown at: Sundance Film Festival 2024, U.S. Documentary Competition
+- Video: https://www.youtube.com/watch?v=GgWjmAXEqwg
+- Images: https://images.squarespace-cdn.com/content/v1/65648f720f2a89615e052709/499d0923-fb63-4406-9a46-4afff91bac09/LM_V4+19MB+jpeg.jpg?format=1500w
+- Project page: https://www.lovemachinamovie.com/
+
+#### The Shotline — Change the Ref (2024)
+- Type: Artwork & installation · Machines: Voice & listening machine, Generative model & latent space
+- Idea: A cloned voice of the dead becomes a political instrument: the families consent and write the scripts, yet the dead now say words they never said, in calls designed to be impossible to ignore.
+- What it is: A website launched on the sixth anniversary of the Parkland school shooting (14 February 2024) that lets visitors send members of the US Congress automated phone calls in the AI-cloned voices of people killed by guns, beginning with 17-year-old Joaquin Oliver.
+- How it works: Families supplied old audio and video recordings; a voice-cloning model generated each victim's voice reading a script written by the parents, and an automated system delivered the calls to representatives matched by ZIP code.
+- Lens: Grief, memory & afterlife, Machine listening & voice
+- Video: https://www.youtube.com/watch?v=CifyFpn4erg
+- Images: https://theshotline.org/assets/home-hero/hero-4-e3995dae830c0bd76f59bc9685443d40b79e780e6fab23e5e4c7aa4a17f589fc.png
+- Project page: https://theshotline.org/
 
 #### Jung_E — Yeon Sang-ho (2023)
 - Type: Film & video · Machines: Humanoid & android, Generative model & latent space
@@ -4657,6 +5278,17 @@ Crowdworkers, labellers and the humans hidden inside automated systems.
 - Images: https://ars.electronica.art/starts-prize/files/2026/06/mechanical-kurds_hito-steyerl_2025-04-10-um-16.20.51-1024x576.jpg
 - Project page: https://ars.electronica.art/starts-prize/en/mechanical-kurds/
 
+#### Their Eyes — Nicolas Gourault (2025)
+- Type: Film & video · Machines: Autonomous vehicle & drone, Computer vision, Dataset & training data
+- Idea: A self-driving car learns to see streets through the eyes of people who will never walk them; machine vision is outsourced human vision.
+- What it is: A 22-minute documentary about online annotators in Venezuela, Kenya and the Philippines who label street images, again and again, for American self-driving cars; recordings of their labelling screens alternate with footage the workers shot of their own homes.
+- How it works: Screen captures of annotation software, remote interviews and footage filmed by the annotators themselves; a single-screen film that follows the artist's installation Unknown Label (2023).
+- Lens: Hidden labour & extraction, Machine seeing
+- Shown at: Berlinale Shorts 2025 (world premiere)
+- Video: https://www.youtube.com/watch?v=ftjQcJEMgvw
+- Images: https://www.berlinale.de/media/filmstills/2025/berlinale-shorts-2025/202513949_1_RWD_1380.jpg
+- Project page: https://lightcone.org/en/film-15585-their-eyes
+
 #### Data Workers' Inquiry — Milagros Miceli (2024)
 - Type: Research prototype · Machines: Dataset & training data, Chatbot & language model
 - Idea: The people who make AI's data are the experts on its costs; the inquiry gives them authorship.
@@ -4665,6 +5297,27 @@ Crowdworkers, labellers and the humans hidden inside automated systems.
 - Lens: Hidden labour & extraction, Agency, autonomy & co-creation
 - Video: https://www.youtube.com/watch?v=tAMqrXlEPDI
 - Project page: https://data-workers.org/
+
+#### Feeding the Machine: The Hidden Human Labour Powering AI — James Muldoon (2024)
+- Type: Book & essay · Machines: Dataset & training data, Infrastructure, energy & supply chain
+- Idea: Behind every 'autonomous' system is a chain of underpaid, surveilled people; the machine's intelligence is their labour and collective knowledge, made invisible.
+- What it is: Built on hundreds of interviews and more than a decade of fieldwork, including with data annotators in East Africa, the book follows workers along AI's supply chain, from labellers and content moderators to a voice actor who now competes with her own synthetic clone, and calls AI an 'extraction machine'.
+- How it works: Ethnographic fieldwork and interviews by James Muldoon, Mark Graham and Callum Cant, drawing on the Oxford Internet Institute's research on platform and data work.
+- Lens: Hidden labour & extraction
+- Paper: https://canongate.co.uk/books/5234-feeding-the-machine-the-hidden-human-labour-powering-ai/ (Canongate, 2024)
+- Video: https://www.youtube.com/watch?v=KMavy0u4ZsY
+- Images: https://covers.openlibrary.org/b/id/15235139-L.jpg
+- Project page: https://canongate.co.uk/books/5234-feeding-the-machine-the-hidden-human-labour-powering-ai/
+
+#### The Cast of the Invisible — Lau Wai (2024)
+- Type: Film & video · Machines: Computer vision, Social & companion robot
+- Idea: Motion capture hides a performer under someone else's body; the film asks what is left of a person whose job is to be everyone and no one.
+- What it is: A 14-minute CGI film that follows W.A.I., a virtual clone of the artist who works as a motion-capture actor; after leaving the studio, still in the black capture suit, W.A.I. asks a robot lover how they should act.
+- How it works: Single-channel 4K animation built with Epic Games MetaHumans, Mixamo motion data, Twinmotion and kitbashed 3D environments; written, animated and voiced by the artist.
+- Lens: Hidden labour & extraction, Alterity & the uncanny
+- Shown at: Cuchifritos Gallery + Project Space, New York 2024; Prix Ars Electronica 2025, Award of Distinction (New Animation Art); Ars Electronica Center, Linz 2025
+- Images: https://images.squarespace-cdn.com/content/v1/62c1e8cf75c9127a62747137/c58470ae-52bf-4e15-bb25-095cf5493554/LauWai-2024-Cast2.jpg https://images.squarespace-cdn.com/content/v1/62c1e8cf75c9127a62747137/83bca7c0-78b5-4db2-9b7c-657714a735ea/01_WAI-The-Cast-of-the-Invisible_Cuchifritos-Gallery_Photo-Brad-Farwell.jpg
+- Project page: https://w-a-i-studio.com/works/cast1
 
 #### Unknown Label — Nicolas Gourault (2023)
 - Type: Film & video · Machines: Autonomous vehicle & drone, Computer vision, Dataset & training data
@@ -4901,6 +5554,17 @@ Crowdworkers, labellers and the humans hidden inside automated systems.
 
 Factories, warehouses and platforms where workers and machines meet.
 
+#### Brute Force — Vinzenz Aubry, Robert Schnüll (2026)
+- Type: Artwork & installation · Machines: Chatbot & language model, Infrastructure, energy & supply chain
+- Idea: Once code writes itself, the human role shrinks to pressing Enter; control over the machine survives only as a ritual of punishment.
+- What it is: A computer running a local language model keeps building and publishing small software-as-a-service products nobody asked for; when it stalls there is no keyboard and no Enter key, only a whip, and a lash on the machine makes it generate again.
+- How it works: A local LLM builds random SaaS projects and self-publishes them to brute-force.it; an accelerometer in the whip turns each strike into a new generation cycle.
+- Lens: Hidden labour & extraction, Embodiment & kinesthesia
+- Shown at: Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)
+- Video: https://vimeo.com/1185849442
+- Images: https://archive.aec.at/asset/3901750/preview/ https://archive.aec.at/asset/3901751/preview/
+- Project page: https://brute-force.it
+
 #### Delivery Dancer's Arc: 0° Receiver — Ayoung Kim (2024)
 - Type: Film & video · Machines: Platform & recommender algorithm, Infrastructure, energy & supply chain
 - Idea: Platform logistics is extended to time: whoever controls the clock controls the worker.
@@ -4910,6 +5574,16 @@ Factories, warehouses and platforms where workers and machines meet.
 - Shown at: ACMI, Melbourne 2024; Roppongi Art Night 2025
 - Video: https://www.youtube.com/watch?v=l3xPmmM297M
 - Project page: https://roppongiartnight.com/2025/programs/568/
+
+#### Upstream — Xu Zheng (2024)
+- Type: Film & video · Machines: Platform & recommender algorithm
+- Idea: A mainstream film puts the algorithmic clock of delivery work on screen, and critics saw the trap in its happy ending: every shortcut a rider finds becomes the platform's next deadline.
+- What it is: In this Chinese box-office feature, a 45-year-old manager at an internet company is laid off and becomes a food-delivery rider; the platform's delivery times are set by the fastest rider, and he builds a navigation app from a top rider's secret shortcuts to help his team.
+- How it works: Fiction feature shot in Shanghai from February to April 2024, directed by and starring Xu Zheng with Xin Zhilei; released in mainland China on 9 August 2024.
+- Lens: Hidden labour & extraction, Classification, bias & surveillance
+- Shown at: Theatrical release, mainland China, August 2024
+- Video: https://www.youtube.com/watch?v=_cf0Elo5mB0
+- Project page: https://www.sixthtone.com/news/1015715
 
 #### Delivery Dancer's Sphere — Ayoung Kim (2022)
 - Type: Film & video · Machines: Platform & recommender algorithm
@@ -4974,6 +5648,16 @@ Factories, warehouses and platforms where workers and machines meet.
 - Video: https://www.youtube.com/watch?v=UsL48gkh3GI
 - Images: https://a-parasite.org/parasite_files/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Sil.jpg https://a-parasite.org/parasite_files/MG_9829.jpg
 - Project page: https://a-parasite.org/
+
+#### Graft and Ash for a Three Monitor Workstation — Sondra Perry (2016)
+- Type: Artwork & installation · Machines: Prosthesis & cyborg
+- Idea: Office equipment that lets you exercise while you work makes the body itself a productivity device; Perry's avatar talks back from inside it.
+- What it is: An exercise-bike workstation with three monitors stacked vertically, on which a 3D avatar of the artist, against a blue-screen backdrop, explains the machine's ergonomics and talks about bodies, health and productivity.
+- How it works: A modified exercise-bike workstation carries a three-channel video of the artist's 3D avatar, which addresses the person sitting on the bike at uncomfortably close range.
+- Lens: Embodiment & kinesthesia, Hidden labour & extraction
+- Shown at: The Kitchen, New York, 2016 (Resident Evil); Serpentine Galleries, London, 2018 (Typhoon coming on); Solomon R. Guggenheim Museum, New York, 2023–24 (Going Dark)
+- Images: https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/graftandash_workstation_02_1.jpg
+- Project page: https://www.serpentinegalleries.org/whats-on/sondra-perry-typhoon-coming-on/
 
 #### HellYeahWeFuckDie — Hito Steyerl (2016)
 - Type: Artwork & installation · Machines: Humanoid & android, Robot creature & mobile robot
@@ -5041,6 +5725,18 @@ Factories, warehouses and platforms where workers and machines meet.
 
 Mapping the mines, data centres, cables and energy that AI runs on.
 
+#### Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI — Karen Hao (2025)
+- Type: Book & essay · Machines: Chatbot & language model, Infrastructure, energy & supply chain, Dataset & training data
+- Idea: Scaling is an imperial project: AI's 'intelligence' is built by seizing data, land, water and cheap labour, and by monopolising knowledge about itself.
+- What it is: Hao's history of OpenAI follows the costs of scaling far from Silicon Valley, from Kenyan workers paid a few dollars an hour to filter violent and sexual content to communities in Chile and Uruguay contesting data centres' demand for water.
+- How it works: Investigative reporting based on hundreds of interviews, including with current and former OpenAI staff, and on fieldwork in Kenya, Chile and Uruguay; a Chinese edition appeared from Zhejiang People's Publishing House in 2026.
+- Lens: Hidden labour & extraction
+- Shown at: National Book Critics Circle Award; Los Angeles Times Book Prize
+- Paper: https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/ (Penguin Press, 2025)
+- Video: https://www.youtube.com/watch?v=Xa6JuimHoEA
+- Images: https://images4.penguinrandomhouse.com/cover/9780593657508
+- Project page: https://karendhao.com/
+
 #### to hurt for a thought — Julia Vollmer (2025)
 - Type: Artwork & installation · Machines: Infrastructure, energy & supply chain, Generative model & latent space
 - Idea: The energy cost of AI becomes a sensation in the fingertips, at the exact place where we ask it for things.
@@ -5050,6 +5746,17 @@ Mapping the mines, data centres, cables and energy that AI runs on.
 - Shown at: Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)
 - Images: https://archive.aec.at/asset/3898654/preview/ https://archive.aec.at/asset/3898653/preview/
 - Project page: https://juliavollmer.de/projects/to-hurt-for-a-thought/
+
+#### Silicon Serenade — Hsu Chia-Wei (2024)
+- Type: Artwork & installation · Machines: Infrastructure, energy & supply chain, Generative model & latent space
+- Idea: AI begins as sand: the work follows machine intelligence back to the beach, the wafer and the island that makes the chips.
+- What it is: A VR seaside built in a game engine leads to an underwater cello performance and to footage from the AI-chip laboratories of Taiwan's Industrial Technology Research Institute (ITRI), while a song written and sung by AI traces how beach sand becomes a silicon wafer and then an AI chip.
+- How it works: VR headset with game-engine scenes, filmed underwater cello and ITRI chip-fabrication footage, and a generative-AI song, installed with a transparent computer case, host computer, buoyant ball and spliced screens.
+- Lens: Hidden labour & extraction, Opacity & latent space
+- Shown at: MACHINE LOVE, Mori Art Museum, Tokyo 2025; Liang Gallery, Taipei 2025
+- Video: https://www.youtube.com/watch?v=otyZRtDsPpU
+- Images: https://www.mori.art.museum/files/exhibitions/2025/02/06/img_machine_love_02_HsuChiaWei.jpg
+- Project page: https://www.mori.art.museum/en/exhibitions/machine_love/02/index.html
 
 #### Calculating Empires: A Genealogy of Technology and Power since 1500 — Kate Crawford, Vladan Joler (2023)
 - Type: Artwork & installation · Machines: Infrastructure, energy & supply chain, Dataset & training data, Surveillance & biometrics
@@ -5266,6 +5973,17 @@ Mapping the mines, data centres, cables and energy that AI runs on.
 
 Drones, targeting and machines built to see and act in war.
 
+#### NAZA — Yuval Abraham, Rachel Szor (2026)
+- Type: Film & video · Machines: Surveillance & biometrics, Platform & recommender algorithm
+- Idea: When killing is organised as a data pipeline, the decisive figure is not the target but a threshold: how many civilian deaths a strike may cost.
+- What it is: A feature documentary shot at night on Tel Aviv rooftops in which 24 anonymous Israeli soldiers and intelligence officers, their faces and voices digitally altered, explain the machinery of the bombing of Gaza: phone hacking and tracking, AI-assisted target lists such as Lavender, and 'NAZA', the number of civilian deaths a strike is allowed to cause.
+- How it works: Night-time interviews with anonymised insiders (faces and voices digitally altered), building on Abraham's 2024 +972 Magazine / Local Call reporting on the Lavender and 'Where's Daddy?' systems; produced by The Guardian with JW Films, executive producer Jonathan Glazer.
+- Lens: Classification, bias & surveillance, Opacity & latent space
+- Shown at: 83rd Venice International Film Festival 2026, Competition – Special Jury Prize
+- Video: https://www.youtube.com/watch?v=40KW6knYMo4
+- Images: https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2026/750x500/naza.jpg?itok=GuhaLMVA
+- Project page: https://www.labiennale.org/en/news/new-film-has-been-added-program-83rd-venice-film-festival
+
 #### AI War Cloud Database — Sarah Ciston (2025)
 - Type: Artwork & installation · Machines: Dataset & training data, Platform & recommender algorithm, Autonomous vehicle & drone
 - Idea: The AI in your pocket and the AI that picks targets share companies, models and data; the boundary between home and battlefield is thin.
@@ -5285,6 +6003,17 @@ Drones, targeting and machines built to see and act in war.
 - Lens: Machine seeing, Agency, autonomy & co-creation
 - Video: https://www.youtube.com/watch?v=OldnzVNE71E
 - Project page: https://forensic-architecture.org/investigation/the-battle-of-ilovaisk
+
+#### Everyday Maneuver — Yuan Goang-Ming (2018)
+- Type: Film & video · Machines: Autonomous vehicle & drone, Surveillance & biometrics
+- Idea: The drones' straight, scanning view turns the empty city into a surveillance image of a war that has not happened.
+- What it is: During the half hour of Taipei's annual Wan An air-raid drill, when sirens sound and traffic must clear the streets, five drones hover at once above five of the city's main roads and film a city without people.
+- How it works: Single-channel video (5'57"): five drones filmed simultaneously from above the centre lines of five main roads between 1:30 and 2:00 pm during the Wan An Air Defense Drill, held every year since 1978.
+- Lens: Machine seeing, Classification, bias & surveillance
+- Shown at: Everyday War, Taiwan Pavilion, 60th Venice Biennale 2024 (Palazzo delle Prigioni); Wrightwood 659, Chicago 2026
+- Video: https://www.youtube.com/watch?v=fbqtOlCzcug
+- Images: https://www.art-it.asia/wp-content/uploads/2023/12/02_YUAN-Goang-Ming-Everyday-Maneuver-2018.-%C2%A9-YUAN-Goang-Ming.-Courtesy-of-the-artist..jpg
+- Project page: https://www.e-flux.com/announcements/593425/yuan-goang-mingeveryday-war
 
 #### Incoming — Richard Mosse (2017)
 - Type: Film & video · Machines: Computer vision, Surveillance & biometrics
@@ -5420,6 +6149,27 @@ Bias, surveillance and prediction, and the counter-archives and other intelligen
 
 Who machines fail to see, or see wrongly, and why.
 
+#### Ghost in the Machine — Valerie Veatch (2026)
+- Type: Film & video · Machines: Chatbot & language model, Dataset & training data
+- Idea: Bias in AI is not a later bug: the statistics of correlation and classification were first built to rank human beings.
+- What it is: A feature documentary in chapters, built on nearly 40 interviews (Abeba Birhane, Emily M. Bender, Arvind Narayanan, Dan McQuillan, Angela Saini and others), that traces machine learning back to the statistics of eugenics and treats 'artificial intelligence' as a marketing term; it opens with Microsoft's Tay chatbot absorbing the worst of the internet.
+- How it works: Interviews with computer and social scientists and archival material, organised in chapters from Karl Pearson's eugenic statistics to large language models and superintelligence rhetoric.
+- Lens: Classification, bias & surveillance, Opacity & latent space
+- Shown at: Sundance Film Festival 2026; PBS Independent Lens, September 2026
+- Video: https://www.youtube.com/watch?v=dLQzVLtvdv8
+- Images: https://www.pbs.org/independentlens/wp-content/uploads/2026/07/GHOSTINTHEMA_Thumbnail_1920x1080.jpg https://cinapse.co/wp-content/uploads/2026/01/6qnynar3wGhost_in_the_Machine-Still_1-1-scaled.jpg
+- Project page: https://www.pbs.org/independentlens/documentaries/ghost-in-the-machine/
+
+#### AI generates covertly racist decisions about people based on their dialect — Valentin Hofmann (2024)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: Alignment can teach a model to hide prejudice without removing it: the machine's racism moves from what it says about race to how it judges the way people speak.
+- What it is: A Nature study showing that language models judge writers of African American English as lazier, dirtier and less intelligent than writers of Standard American English, and are more likely to give them low-status jobs, convict them and sentence them to death, even while their overt statements about Black people are positive.
+- How it works: Matched guise probing: the same content written in African American English and in Standard American English is given to models from GPT-2 to GPT-4, and the traits, jobs and verdicts they attach to each version are compared with decades of studies of human stereotypes.
+- Lens: Classification, bias & surveillance, Opacity & latent space
+- Paper: https://doi.org/10.1038/s41586-024-07856-5 (Nature 633, 2024)
+- Images: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-07856-5/MediaObjects/41586_2024_7856_Fig1_HTML.png
+- Project page: https://www.nature.com/articles/s41586-024-07856-5
+
 #### CLASSES — Libby Heaney (2021)
 - Type: Film & video · Machines: Computer vision, Dataset & training data, Generative model & latent space
 - Idea: Machine-learning 'classes' and social class are entangled: models trained on the web see the estate through other people's eyes.
@@ -5428,6 +6178,16 @@ Who machines fail to see, or see wrongly, and why.
 - Lens: Classification, bias & surveillance, Failure, glitch & error
 - Images: https://libbyheaney.co.uk/wp-content/uploads/2022/11/1-1.jpg https://libbyheaney.co.uk/wp-content/uploads/2022/11/2.jpg
 - Project page: https://libbyheaney.co.uk/artworks/classes/
+
+#### Not My A.I. — Coding Rights (2021)
+- Type: Book & essay · Machines: Dataset & training data, Infrastructure, energy & supply chain
+- Idea: Public-sector AI in the Global South often automates old forms of control over poor, female and racialised bodies under the language of efficiency and welfare.
+- What it is: A feminist research project that maps algorithmic decision-making systems deployed by governments in Latin America, such as a platform built with Microsoft in Salta, Argentina, to predict teenage pregnancy and Chile's child-welfare alert system, and names the patterns of 'oppressive AI' they share.
+- How it works: Joana Varon and Paz Peña combine case studies, a map of biased and harmful AI projects in Latin America and a set of feminist analytic categories, published on notmy.ai under a Creative Commons licence.
+- Lens: Classification, bias & surveillance, Opacity & latent space
+- Paper: https://notmy.ai/news/oppressive-a-i-feminist-categories-to-understand-its-political-effects/ (notmy.ai (Coding Rights), 2021)
+- Images: https://notmy.ai/wp-content/uploads/2021/04/share.png
+- Project page: https://notmy.ai/
 
 #### Coded Bias — Shalini Kantayya (2020)
 - Type: Film & video · Machines: Computer vision, Surveillance & biometrics, Platform & recommender algorithm
@@ -5458,6 +6218,16 @@ Who machines fail to see, or see wrongly, and why.
 - Video: https://www.youtube.com/watch?v=QxuyfWoVV98
 - Project page: https://www.ajl.org/
 
+#### The Human Detector — Iyo Bisseck (2018)
+- Type: Artwork & installation · Machines: Computer vision
+- Idea: Bisseck turns the experience of face trackers failing to see dark skin into a game in which everyone has to work at being unseen.
+- What it is: A game installation in which the player must press a button without being detected as a human by a camera; players crawl, hide under cloth or pose as objects to slip past the machine's eye.
+- How it works: A camera linked to PoseNet, a real-time pose-estimation model, watches the space; a press counts only if no body part (face, shoulder, elbow) is detected. Made during a machine-learning workshop at ECAL.
+- Lens: Classification, bias & surveillance, Machine seeing, Failure, glitch & error
+- Video: https://vimeo.com/347283293
+- Images: https://share.hek.ch/wp-content/uploads/2019/08/iyo.jpg
+- Project page: https://share.hek.ch/en/ai-can-you-see-me/
+
 #### Us, Aggregated — Mimi Ọnụọha (2017)
 - Type: Artwork & installation · Machines: Computer vision, Platform & recommender algorithm, Dataset & training data
 - Idea: Grouping people from above is a quiet exercise of power: the machine builds an 'us' that is really a 'them'.
@@ -5487,6 +6257,15 @@ Who machines fail to see, or see wrongly, and why.
 - Images: https://archive.aec.at/asset/2527247/preview/ https://archive.aec.at/asset/2527249/preview/ https://archive.aec.at/asset/2527254/preview/
 - Project page: http://maryflanagan.com/work/help-me-know-the-truth/
 
+#### A Hipster Bar — Max Dovey (2015)
+- Type: Artwork & installation · Machines: Computer vision, Dataset & training data
+- Idea: Automated gatekeeping by appearance looks absurd when the category is 'hipster', and is no less absurd when it is anything else.
+- What it is: A pop-up bar whose barrier opens only for people an image classifier rates at least 90% 'hipster'; those who pass get a free drink.
+- How it works: A webcam at the door sends each face to a classifier trained on thousands of Instagram images of hipsters (with Imagga); a Raspberry Pi lifts a motorised barrier when the score is high enough. Developed with V2_.
+- Lens: Classification, bias & surveillance, Machine seeing
+- Images: https://www.maxdovey.com/assets/images/projects/hipsterbar/1.jpg https://www.maxdovey.com/assets/images/projects/hipsterbar/2.jpg
+- Project page: https://www.maxdovey.com/hipsterbar/
+
 #### Physiognomic Scrutinizer — Marnix de Nijs (2009)
 - Type: Artwork & installation · Machines: Surveillance & biometrics
 - Idea: Face matching quietly revives physiognomy: judging character by likeness.
@@ -5500,6 +6279,26 @@ Who machines fail to see, or see wrongly, and why.
 ### Surveillance & Prediction
 
 Tracking, scoring and predictive systems that govern people.
+
+#### AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference — Arvind Narayanan (2024)
+- Type: Book & essay · Machines: Platform & recommender algorithm, Chatbot & language model
+- Idea: The most harmful AI may be the kind that does not work: predicting human futures dresses old guesswork in machine authority.
+- What it is: Two Princeton computer scientists separate AI that works from AI that cannot, above all predictive systems sold to forecast who will commit a crime, succeed in a job or fall ill, which often do little better than simple guesses yet shape people's lives.
+- How it works: Computer-science analysis of cases in hiring, criminal justice, health and content moderation, written by Arvind Narayanan and Sayash Kapoor from their AI Snake Oil newsletter; a Chinese edition appeared from CITIC Press in 2025.
+- Lens: Classification, bias & surveillance, Failure, glitch & error
+- Paper: https://doi.org/10.1515/9780691249643 (Princeton University Press, 2024)
+- Video: https://www.youtube.com/watch?v=HUpOIeh50rw
+- Project page: https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil
+
+#### Terra ex Machina — Hagit Keysar, Ariel Caine (2024)
+- Type: Artwork & installation · Machines: Autonomous vehicle & drone, Infrastructure, energy & supply chain, Computer vision
+- Idea: A geofence is a wall written in code by a drone company; it becomes visible only as the place where the machine refuses to look.
+- What it is: A video work that maps the invisible 'geofence' DJI programs around Jerusalem's Old City: a drone flown along the 10-km perimeter with its camera fixed on the Dome of the Rock yields a point cloud in which the no-fly zone appears as a black void, then filled with kite and balloon photographs made with residents inside the zone.
+- How it works: More than 10,000 sequential drone images from seven launch points are processed into a photogrammetric point cloud; low-altitude DIY aerial images made with kites and balloons (with Public Lab and residents of Silwan and Sheikh Jarrah) are embedded as further point clouds.
+- Lens: Machine seeing, Opacity & latent space
+- Shown at: ARE YOU FOR REAL 2 (ifa), cluster 'Dead Futures', 2024; Prix Ars Electronica 2026, Honorary Mention (Digital Humanity)
+- Images: https://archive.aec.at/asset/3905171/preview/ https://archive.aec.at/asset/3905172/preview/
+- Project page: https://cargocollective.com/hagitkeysar/Terra-Ex-Machina-1
 
 #### Consensus Gentium — Karen Palmer (2023)
 - Type: Film & video · Machines: Surveillance & biometrics, Computer vision
@@ -5673,6 +6472,16 @@ Tracking, scoring and predictive systems that govern people.
 - Images: https://julianoliver.com/projects/stealth-cell-tower/images/stealth-cell-tower.jpg https://julianoliver.com/projects/stealth-cell-tower/images/print.jpg
 - Project page: https://julianoliver.com/projects/stealth-cell-tower/
 
+#### Citizenfour — Laura Poitras (2014)
+- Type: Film & video · Machines: Infrastructure, energy & supply chain, Surveillance & biometrics
+- Idea: Mass surveillance is an invisible machine of cables, databases and search tools; the film shows what it takes, and costs, to make it visible.
+- What it is: A documentary filmed largely in a Hong Kong hotel room in June 2013, as Edward Snowden hands journalists the documents that revealed the NSA's mass-surveillance programmes.
+- How it works: Observational footage shot by Poitras during the meetings with Snowden, Glenn Greenwald and Ewen MacAskill, combined with encrypted messages and later reporting on programmes such as PRISM and XKeyscore.
+- Lens: Opacity & latent space, Classification, bias & surveillance
+- Shown at: New York Film Festival, 2014 (premiere); Academy Award for Best Documentary Feature, 2015
+- Video: https://www.youtube.com/watch?v=qfjztdU0_eo
+- Project page: https://citizenfourfilm.com/
+
 #### Jennifer Lyn Morone™ Inc — Jennifer Lyn Morone (2014)
 - Type: Artwork & installation · Machines: Platform & recommender algorithm, Dataset & training data, Surveillance & biometrics
 - Idea: If data is value, a person can claim to be a company; the absurdity mirrors what platforms already do.
@@ -5795,6 +6604,16 @@ Tracking, scoring and predictive systems that govern people.
 - Video: https://www.youtube.com/watch?v=wAdwurHhv-I
 - Project page: https://en.wikipedia.org/wiki/Hasan_Elahi
 
+#### I Thought I Was Seeing Convicts — Harun Farocki (2000)
+- Type: Artwork & installation · Machines: Surveillance & biometrics, Computer vision
+- Idea: When the field of vision and the gun sight coincide, watching becomes the first step of shooting; surveillance images exist to sort the norm from deviations.
+- What it is: A double-projection installation built from the surveillance cameras of Corcoran State Prison in California, where the camera that watches the exercise yard is mounted next to the guard's gun.
+- How it works: Two screens set silent prison surveillance footage, including a shooting in the Corcoran yard, against images of control technologies such as electronic tags and identification systems.
+- Lens: Machine seeing, Classification, bias & surveillance
+- Shown at: International Film Festival Locarno, 2000 (first screening); Generali Foundation, Vienna (co-production)
+- Video: https://www.youtube.com/watch?v=7vyGc26JCcU
+- Project page: https://www.harunfarocki.de/installations/2000s/2000/i-thought-i-was-seeing-convicts.html
+
 #### BIT Plane — Bureau of Inverse Technology (BIT) (1999)
 - Type: Artwork & installation · Machines: Autonomous vehicle & drone, Computer vision
 - Idea: An early drone that watched the watchers.
@@ -5817,6 +6636,26 @@ Tracking, scoring and predictive systems that govern people.
 
 Datasets made to fill gaps, refuse extraction or retell who is counted.
 
+#### Endangered Gestures — Bruce Eesly (2026)
+- Type: Film & video · Machines: Generative model & latent space
+- Idea: Asking the intelligence complicit in erasure to give banned words a body yields a fragile, glitching language of resistance.
+- What it is: A short film and pocket book of hand gestures that an image generator proposed for words that began disappearing from US government websites and documents in March 2025, such as 'accessibility'; the AI hands, with their unreliable fingers, hover between sign language and technical error.
+- How it works: Each censored term was prompted into a generative image model as a hand gesture; the results were edited into a 4K single-channel video (6 min 10 s) with voice-over and a 64-page book.
+- Lens: Failure, glitch & error, Classification, bias & surveillance
+- Shown at: Prix Ars Electronica 2026, Honorary Mention (New Animation Art)
+- Images: https://eesly.xyz/content/2-endangered-gestures/2-Detail/Endangered-Gestures-1.jpg https://eesly.xyz/content/2-endangered-gestures/1-Intro/Endangered-Gestures-1.jpg
+- Project page: https://eesly.xyz/endangered-gestures
+
+#### Data Trust — Stephanie Dinkins (2025)
+- Type: Artwork & installation · Machines: Dataset & training data, Generative model & latent space
+- Idea: Data can be given rather than taken: a trust built on consent, community ownership and storage in living matter rather than a company's cloud.
+- What it is: A participatory installation in which visitors gift spoken stories, in the gallery or through an app, to a community archive; the stories animate wall-sized AI projections and are encoded into bacterial DNA in the soil of okra and California black oak plants growing in the room.
+- How it works: Oral histories are recorded, processed with AI into continuously evolving projections and stored as DNA in bacteria grown in the plants' soil; further stories arrive through thestorieswetellourmachines.app.
+- Lens: Agency, autonomy & co-creation, Hidden labour & extraction
+- Shown at: ICA San José, 19 Sep 2025 – 22 Mar 2026
+- Images: https://48hills.org/wp-content/uploads/2025/11/ICA-DATA-TRUST-09192025_123-1024x576.jpeg https://www.icasanjose.org/wp-content/uploads/2025/08/Website-banner-scaled.jpg
+- Project page: https://www.icasanjose.org/archive/data_trust/
+
 #### Ground Truths — Mimi Ọnụọha (2025)
 - Type: Film & video · Machines: Dataset & training data, Computer vision
 - Idea: A model trained on records shaped by erasure inherits the erasure; 'ground truth' is literally buried.
@@ -5825,6 +6664,17 @@ Datasets made to fill gaps, refuse extraction or retell who is counted.
 - Lens: Classification, bias & surveillance, Grief, memory & afterlife, Opacity & latent space
 - Images: https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/51f2cb4b-30a1-49b4-9ece-1cde6d8effa4/00_GroundTruths_film-still_courtestyoftheartist.jpg https://images.squarespace-cdn.com/content/v1/692f1808f9a01f48c2fa30ac/8c09a145-022b-4e17-bab1-682266e49fb3/01_GroundTruths_film-still_courtestyoftheartist.jpg
 - Project page: https://www.mimionuoha.com/
+
+#### The Call — Holly Herndon, Mat Dryhurst (2024)
+- Type: Artwork & installation · Machines: Generative model & latent space, Dataset & training data, Voice & listening machine
+- Idea: If all media is training data, the making of training data can itself be the artwork, and consent and ownership can be designed into it from the start.
+- What it is: An interactive spatial-audio installation at Serpentine North built on choral AI models trained on fifteen UK community choirs, who sang a songbook of hymns and exercises the artists wrote as training data; the choristers are members of a data trust that shares control over how the models are used.
+- How it works: A composed songbook and recording protocol were used to record choirs across the UK; the recordings trained choral voice models that drive a multichannel installation in the chapel-like gallery, with gathering objects co-designed by the architecture studio sub; contributors share control through a data-trust agreement.
+- Lens: Agency, autonomy & co-creation, Hidden labour & extraction
+- Shown at: Serpentine North, London, 4 Oct 2024 – 2 Feb 2025; Prix Ars Electronica 2025, Honorary Mention (Digital Musics & Sound Art); S+T+ARTS Prize 2026, Honorary Mention
+- Video: https://www.youtube.com/watch?v=DNlr7olF6rE
+- Images: https://d37zoqglehb9o7.cloudfront.net/uploads/2024/08/SerpentineGallery_HHMD03119_B2-2-1200x627.jpg
+- Project page: https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/
 
 #### Babylonian Vision — Nora Al-Badri (2020)
 - Type: Artwork & installation · Machines: Generative model & latent space, Dataset & training data
@@ -5853,6 +6703,17 @@ Datasets made to fill gaps, refuse extraction or retell who is counted.
 - Lens: Classification, bias & surveillance, Embodiment & kinesthesia
 - Images: https://www.jakeelwes.com/images/project-zizi-show.jpg
 - Project page: https://www.jakeelwes.com/project-zizi-show.html
+
+#### Adversarial Fashion — Kate Bertash (2019)
+- Type: Product & platform · Machines: Surveillance & biometrics, Computer vision, Dataset & training data
+- Idea: Surveillance systems take whatever they are handed, and polluting a dataset costs far less than cleaning it.
+- What it is: A clothing line printed with dozens of fake licence plates: automated licence-plate readers on police cars and street poles read the garments as cars and log them, with time and place, in the same databases as real vehicles.
+- How it works: Plate-like patterns were designed and tested against OpenALPR and mobile ALPR products, on still images and live video, until readers logged them as plates.
+- Lens: Classification, bias & surveillance, Failure, glitch & error
+- Shown at: DEF CON 27, Crypto & Privacy Village, Las Vegas, 2019
+- Video: https://www.youtube.com/watch?v=jVcGZ_Ak4NI
+- Images: https://images.squarespace-cdn.com/content/v1/58e30938bf629a13c2cfb8e2/e48f9342-0c02-492b-b3c3-d59125237fda/5d591101ce745.jpg
+- Project page: https://adversarialfashion.com/
 
 #### Te Reo Māori Speech Recognition and the Kaitiakitanga Licence — Te Hiku Media (2018)
 - Type: Research prototype · Machines: Voice & listening machine, Dataset & training data
@@ -5976,6 +6837,16 @@ AI imagined from other cultures, genders and knowledge systems.
 - Images: https://static.wixstatic.com/media/cfe831_05a51b539e8749c384a4b4021517120a~mv2.png
 - Project page: https://transfeministech.codingrights.org/
 
+#### Íŋyaŋ Iyé (Telling Rock) — Suzanne Kite (2019)
+- Type: Artwork & installation · Machines: Voice & listening machine, Cybernetic & artificial-life system
+- Idea: In Lakota ontology stones and metals can speak; building an AI from that starting point makes the machine a relative to be listened to with respect, not a tool.
+- What it is: A sculpture of handmade circuits and long hair braids that speaks a poem in English and Lakȟótiyapi; listeners answer by bending and moving its braids, and the rock listens to the changes in its own voice and replies in light and sound.
+- How it works: Sensors in the hair-braid interface feed a machine-learning system that decides how sound and light change; materials include gold, silver, copper, aluminium, silicon and fibreglass; made with Devin Ronneberg, Lakota translation by Alex Firethunder.
+- Lens: Machine listening & voice, Alterity & the uncanny, Agency, autonomy & co-creation
+- Video: https://www.youtube.com/watch?v=LP9HZ7lMR2s
+- Images: https://images.squarespace-cdn.com/content/v1/641c9e79560ce0068fb84a8c/3cb5e0a2-a1c6-4f52-ba58-8c616d4074f8/20190711_cc_0895.jpg
+- Project page: https://www.kitekitekitekite.com/portfolio/inyan-iye-telling-rock-2019
+
 #### Degenerative Cultures — Cesar & Lois (Cesar Baio, Lucy HG Solomon) (2018)
 - Type: Artwork & installation · Machines: Cybernetic & artificial-life system, Dataset & training data
 - Idea: Pair an algorithm with a living organism and machine intelligence starts to borrow the logic of decay rather than of mastery.
@@ -5995,6 +6866,27 @@ Human and machine bodies fused or performing together: prostheses, telepresence,
 
 Bodies extended, entered or remote-controlled by machines.
 
+#### Super Mom Training Gym — Jiabao Li (2026)
+- Type: Artwork & installation · Machines: Prosthesis & cyborg
+- Idea: The digital body grants the pregnant body every power it lacks, and in doing so exposes the expectation that mothers should already be superhuman machines.
+- What it is: A game and installation in which Li's 3D-scanned, nine-months-pregnant body becomes a superhero avatar that jumps twenty metres, lifts hospitals, kicks insurance forms and clones itself to multitask; gold figures of the pregnant superhero hang in the room around the screen.
+- How it works: A 3D scan of the artist's pregnant body is rigged in a character animator and given superhero move sets in a playable game; gold figures of the avatar's poses (likely 3D-printed) are suspended in the space; made with Lauren Schroeder.
+- Lens: Embodiment & kinesthesia, Intimacy, care & companionship
+- Video: https://www.youtube.com/watch?v=hcHN7Y9Oxsw
+- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1778735906116-V3JR7FYERR3Q5Q7NAXAC/jiabao+li+fusebox+mom+10.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1778734963219-0A590PH2QJ995IB36NMN/jiabao+li+mom+24.jpg
+- Project page: https://www.jiabaoli.org/super-mom-training-gym
+
+#### CHIMERIA — Shin Hanagata (2025)
+- Type: Performance, dance & music · Machines: Prosthesis & cyborg, Computer vision
+- Idea: A headset and a camera are enough to undo the human body plan: VR here is not immersion but a way of becoming another kind of creature.
+- What it is: Volunteers recruited through a public phone number wore head-mounted displays that moved their eyes to their toes, hips or hands, then lived together in a Tokyo residence where chairs, doorknobs and stairs made for upright humans no longer worked; they ate through tubes, used wire-driven prostheses and built a toilet for a kneeling body.
+- How it works: Head-mounted displays fed by cameras worn on other parts of the body, custom suits and wire-driven prostheses, and a habitat rebuilt for the 'chimera' bodies; visitors had to imitate the chimeras to enter.
+- Lens: Embodiment & kinesthesia, Alterity & the uncanny
+- Shown at: Prix Ars Electronica 2026, Award of Distinction (Interactive Art+)
+- Video: https://www.youtube.com/watch?v=B7U_7kTxUWA
+- Images: https://ars.electronica.art/prix/files/2026/06/chimeria-1.jpg https://www.shinhanagata.com/og-image.jpg
+- Project page: https://www.shinhanagata.com/en/works/chimeria
+
 #### DOKU the Self — Lu Yang (2022)
 - Type: Film & video · Machines: Prosthesis & cyborg, Generative model & latent space
 - Idea: An avatar driven by one's own motion data becomes a machine form of reincarnation.
@@ -6004,6 +6896,17 @@ Bodies extended, entered or remote-controlled by machines.
 - Shown at: Times Square Midnight Moment, New York 2023
 - Video: https://www.youtube.com/watch?v=cq24sSnccXc
 - Project page: https://en.wikipedia.org/wiki/Lu_Yang_(artist)
+
+#### JIZAI ARMS — Masahiko Inami (2022)
+- Type: Research prototype · Machines: Industrial robot arm, Prosthesis & cyborg
+- Idea: Extra limbs that can be passed between people turn the body into a social, rearrangeable thing rather than a fixed unit.
+- What it is: A base unit worn on the back with sockets for up to six detachable robot arms, which can be swapped between wearers, so that several people can share arms or one person's extra limbs can be moved by someone else.
+- How it works: Back-mounted base with sockets for up to six servo-driven arms, likely teleoperated through a miniature master arm; co-designed with designers in the JST ERATO Inami JIZAI Body Project (first author Nahoko Yamamura) and presented at CHI 2023.
+- Lens: Embodiment & kinesthesia, Agency, autonomy & co-creation
+- Shown at: CHI 2023, Hamburg
+- Paper: https://doi.org/10.1145/3544548.3581169 (CHI 2023)
+- Video: https://www.youtube.com/watch?v=KFyZQfqaXhE
+- Project page: https://doi.org/10.1145/3544548.3581169
 
 #### Prosthetic Memory — M Eifler (2020)
 - Type: Artwork & installation · Machines: Prosthesis & cyborg, Computer vision
@@ -6422,6 +7325,17 @@ Choreographies for human and machine bodies.
 - Video: https://www.youtube.com/watch?v=Ykiuz1ZdGBc
 - Project page: https://technode.com/2025/01/29/unitree-robotics-humanoid-robots-steal-the-show-at-2025-cctv-spring-festival-gala-with-ai-powered-yangge-dance/
 
+#### Alloyed Bodies [BNE-3-3-1] — Petra Gemeinboeck, Rob Saunders (2024)
+- Type: Performance, dance & music · Machines: Robot creature & mobile robot
+- Idea: Instead of robots that mimic or serve us, the piece builds a shared playground where dancers become a little box-like and a box becomes a little alive, so the relation, not likeness to humans, carries the meaning.
+- What it is: An improvised performance installation, premiered at ISEA 2024 in Brisbane, in which four dancers, three cube-shaped costumes and one cube robot mingle in a 'strange and whimsical cube world'; in the last part the audience is invited onto the floor to move among the human and non-human performers.
+- How it works: A non-humanoid cube robot, whose movement qualities come from the Machine Movement Lab's dancer-led movement studies, improvises with four dancers and three cube costumes inside an evolving soundscape treated as a further performer.
+- Lens: Embodiment & kinesthesia, Agency, autonomy & co-creation
+- Shown at: ISEA 2024, Brisbane
+- Paper: https://doi.org/10.1007/978-981-96-3525-2_10 (ICSR + AI 2024, Social Robotics (LNCS))
+- Video: https://www.youtube.com/watch?v=sEJRIsLQvXw
+- Project page: https://isea2024.isea-international.org/machine-movement-lab-alloyed-bodies-bne-3-3-1/
+
 #### Nondance Dance — Shinseungback Kimyonghun (2022)
 - Type: Performance, dance & music · Machines: Computer vision
 - Idea: To dance outside a machine's categories, dancers first have to learn how the machine sees dance.
@@ -6471,6 +7385,16 @@ Choreographies for human and machine bodies.
 - Paper: https://doi.org/10.3389/frobt.2020.576790 (Frontiers in Robotics and AI 2021)
 - Video: https://www.youtube.com/watch?v=Ng0ioS7oNXY
 - Project page: https://www.catiecuan.com/
+
+#### Where Is My (Deep) Mind? — Julien Prévieux (2019)
+- Type: Film & video · Machines: Dataset & training data, Computer vision
+- Idea: Re-enacting with human bodies how machines learn shows how literal, clumsy and socially blind learning from examples can be.
+- What it is: A film in which four dancer-actors act out machine-learning experiments, from recognising sports movements to learning to haggle, playing both the experimenters and the subjects with mechanical, childlike bodies.
+- How it works: Choreography restages key machine-learning experiments for camera, as a sequel to the stage piece of balls, books and hats (Friche La Belle de Mai, Marseille, 2018); 14'59" HD video.
+- Lens: Embodiment & kinesthesia, Failure, glitch & error
+- Shown at: Geste, Magasins généraux, Pantin, 2019 (Lab'Bel and cneai)
+- Images: https://www.lab-bel.com/wp-content/uploads/julien-previeux.jpg
+- Project page: https://www.lab-bel.com/en/collection/julien-previeux/
 
 #### discrete figures — Rhizomatiks, ELEVENPLAY, Daito Manabe (2018)
 - Type: Performance, dance & music · Machines: Computer vision, Generative model & latent space, Autonomous vehicle & drone
@@ -6620,9 +7544,31 @@ Choreographies for human and machine bodies.
 - Paper: https://doi.org/10.1145/169059.169113 (CHI 1993)
 - Project page: https://www.mercecunningham.org/
 
+#### Very Nervous System — David Rokeby (1986)
+- Type: Artwork & installation · Machines: Computer vision, Cybernetic & artificial-life system
+- Idea: An invisible, room-sized interface makes the whole body the input, so the loop between movement and machine response is felt rather than operated.
+- What it is: An interactive sound installation in which video cameras watch a visitor moving through an empty room, and a computer turns every gesture into sound and music in real time.
+- How it works: Video cameras feed image processors and a computer that measure changes of movement across the space and drive synthesizers and a sound system; Rokeby later released the system as the softVNS software.
+- Lens: Embodiment & kinesthesia, Machine seeing, Agency, autonomy & co-creation
+- Shown at: PetroCanada Media Arts Award, 1988; Prix Ars Electronica 1991, Award of Distinction (Interactive Art)
+- Video: https://www.youtube.com/watch?v=qdvyuvfKVU0
+- Images: http://www.davidrokeby.com/VNS_Potsdam_web.jpg http://www.davidrokeby.com/venicecameraweb.jpg
+- Project page: http://www.davidrokeby.com/vns.html
+
 ### Machine Theatre
 
 Robots and AI as actors, characters and directors on stage.
+
+#### Three Approaches to Synthetic Entities #1: El Turco – Living Theater — Diemut Strebe (2024)
+- Type: Performance, dance & music · Machines: Chatbot & language model, Generative model & latent space
+- Idea: Behind 'AI' there is often a hidden human, and beside it a model that can play anyone: the work stages the Turing test as theatre and asks what is left of intelligence when both sides are performances.
+- What it is: On a 13-metre screen two hand-drawn avatars hold live conversations with visitors: one is driven by a large language model, the other is played in real time by a person hidden inside the system, as in the 18th-century 'Mechanical Turk' chess automaton.
+- How it works: A real-time game-engine installation in which the left avatar is a character shell run by Claude 3.7 Sonnet chained to other AI tools and the right avatar is operated live by a hidden performer; developed with Northeastern University, the University of Utah and Georgia Tech, with support from Anthropic.
+- Lens: Agency, autonomy & co-creation, Hidden labour & extraction, Alterity & the uncanny
+- Shown at: MACHINE LOVE: Video Game, AI and Contemporary Art, Mori Art Museum, Tokyo, 2025
+- Video: https://www.youtube.com/watch?v=3vCziUl-f_Y
+- Images: https://diemut.net/wp-content/uploads/2025/03/s-img_1390-1.jpg https://diemut.net/wp-content/uploads/2025/03/img_1691.jpg
+- Project page: https://diemut.net/three-approaches-to-synthetic-entities-1-el-turco-living-theater-live-event-at-the-mori-art-museum-with-anthropic/
 
 #### Prometheus Firebringer — Annie Dorsen (2023)
 - Type: Performance, dance & music · Machines: Chatbot & language model, Generative model & latent space
@@ -6645,6 +7591,17 @@ Robots and AI as actors, characters and directors on stage.
 - Video: https://www.youtube.com/watch?v=8ho5sXiDX_A
 - Images: https://www.theaitre.com/wp-content/uploads/THEaiTRE_PLAKAT_FINAL_web-e1614159078389.jpg
 - Project page: https://www.theaitre.com/
+
+#### Super Angels — Keiichiro Shibuya, Takashi Ikegami, Hiroshi Ishiguro (2021)
+- Type: Performance, dance & music · Machines: Humanoid & android, Cybernetic & artificial-life system
+- Idea: An android with an artificial-life 'mind' shares a national opera stage with children, so living with machines becomes a story the next generation performs.
+- What it is: An opera for singers, children, ballet dancers and the android Alter 3, premiered at the New National Theatre Tokyo: in a future where every child sits an aptitude test at fifteen and lives under 'Mother', an all-powerful AI, Alter 3 sings and moves among a children's choir.
+- How it works: Music by Keiichiro Shibuya and libretto by Masahiko Shimada, produced under the theatre's opera director Kazushi Ono; Alter 3 (body by the Ishiguro Lab, artificial-life control by the Ikegami Lab, cameras in its eyes) performed live with orchestra, choir, dancers and video by WEiRDCORE.
+- Lens: Alterity & the uncanny, Agency, autonomy & co-creation
+- Shown at: New National Theatre, Tokyo, 21–22 Aug 2021
+- Video: https://www.youtube.com/watch?v=94oJZQdopHo
+- Images: https://image.tokion.jp/wp-content/uploads/2021/09/2021SuperAngels_shikama_No_0516-1024x682.jpg https://image.tokion.jp/wp-content/uploads/2021/09/2021SuperAngels_shikama_No_0263-1024x682.jpg
+- Project page: https://tokion.jp/en/2021/09/22/super-angels-keiichiro-shibuya/
 
 #### Human Study #4, La Classe — Patrick Tresset (2019)
 - Type: Performance, dance & music · Machines: Robot creature & mobile robot, Industrial robot arm
@@ -6836,6 +7793,17 @@ Robots and AI as actors, characters and directors on stage.
 
 Machines that listen and play with musicians, and voices shared with a model.
 
+#### Bla Blavatar vs Jaap Blonk — Jonathan Chaim Reus, Jaap Blonk (2024)
+- Type: Performance, dance & music · Machines: Voice & listening machine, Generative model & latent space, Dataset & training data
+- Idea: A voice clone is not a finished copy but ongoing labour: the work makes audible the effort of feeding a dataset and lets the clone fail creatively instead of perfecting the imitation.
+- What it is: Sound poet Jaap Blonk performs scores written for both humans and machines while a real-time model of his own voice, played by Jonathan Reus, answers, interrupts and fragments him; every performance is recorded into the dataset, so the next 'Bla Blavatar' sounds different.
+- How it works: Tungnaá, a real-time AI voice instrument built by Reus and Victor Shepardson at the Intelligent Instruments Lab (Iceland) from autoregressive text-to-speech techniques, is retrained on Blonk's growing recordings of 'Dataset Poems' modelled on phonetically balanced reading scripts.
+- Lens: Machine listening & voice, Hidden labour & extraction, Agency, autonomy & co-creation
+- Shown at: IZIS Festival (PiNA), premiere 4 Oct 2024; Prix Ars Electronica 2025, Award of Distinction (Digital Musics & Sound Art)
+- Video: https://vimeo.com/1023520398
+- Images: https://jonathanreus.com/wp-content/uploads/2024/10/Promo_IZIS_XII_4.10.2024_28_Photo_Ales_Rosa-1144x763.jpg
+- Project page: https://jonathanreus.com/portfolio/bla-blavatar-vs-jaap-blonk/
+
 #### A Late Anthology of Early Music Vol. 1: Ancient to Renaissance — Jennifer Walshe, Dadabots (2020)
 - Type: Performance, dance & music · Machines: Generative model & latent space, Voice & listening machine, Dataset & training data
 - Idea: AI can be heard as a new musical period with its own accent, rather than a perfect imitator.
@@ -6999,6 +7967,15 @@ Machines that listen and play with musicians, and voices shared with a model.
 
 Drawing and making with machines, and who the author is when a machine makes.
 
+#### RECURSIONS — Sougwen Chung (2026)
+- Type: Artwork & installation · Machines: Industrial robot arm, Generative model & latent space
+- Idea: Drawing with a machine becomes a recursive loop: it learns from the artist's past gestures, the artist answers, and the stroke records the negotiation.
+- What it is: A ten-metre linen scroll painted by the artist alongside two robotic arms: the arms draw from a neural network trained on the artist's own decade of gestures, and live EEG brainwaves decide when the robot acts or waits. A water-based calligraphic ink sinks into the linen while a conductive silver ink sits on top and pushes it away.
+- How it works: Two robotic arms of the Drawing Operations series driven by a model trained on the artist's gesture and calligraphy archive and modulated by a custom EEG sensor (an alpha-wave threshold triggers the robot's pause); the ink is silver flake in shellac bioresin with silk fibroin; shown with the digital work R1314.
+- Lens: Agency, autonomy & co-creation, Embodiment & kinesthesia
+- Images: https://sougwen.com/wp-content/uploads/2026/04/sougwen-2026_recursions_01_photographer-reece-straw.jpg https://sougwen.com/wp-content/uploads/2026/04/sougwen-2026_recursions_05_silver_photographer-reece-straw.jpg
+- Project page: https://sougwen.com/work/recursions
+
 #### HETEROBOTA — Agnieszka Pilat (2023)
 - Type: Artwork & installation · Machines: Robot creature & mobile robot
 - Idea: A gallery can host robots as painters and species at work, and invites the public to judge how they feel about living with them.
@@ -7060,6 +8037,17 @@ Drawing and making with machines, and who the author is when a machine makes.
 - Video: https://www.youtube.com/watch?v=q-GXV4Fd1oA
 - Images: https://sougwen.com/wp-content/uploads/2019/11/sougwen-DrawingOperations_2014-2019.jpg
 - Project page: https://sougwen.com/2019/drawing-operations-awarded-the-lumens-art-and-technology-prize
+
+#### Human Study #2, La Vanité — Patrick Tresset (2014)
+- Type: Artwork & installation · Machines: Industrial robot arm, Computer vision
+- Idea: A machine that cannot die keeps drawing the classic still life about death, and its hesitant lines make the old genre feel mortal again.
+- What it is: A single drawing robot, RNP, sits at a school desk facing a table with a skull, an empty beer can, a shell and dried poppy pods, and endlessly draws an updated vanitas in nervous ink lines.
+- How it works: A camera 'eye' observes the still life; software modelled on Tresset's own drawing practice plans strokes that a small pen arm executes on paper, pausing to 'look' between them.
+- Lens: Embodiment & kinesthesia, Agency, autonomy & co-creation
+- Shown at: Creative Machines, Goldsmiths, London, 2014; Artistes & Robots, Grand Palais, Paris, 2018
+- Video: https://www.youtube.com/watch?v=Bg792i1x3OQ
+- Images: https://patricktresset.com/new/wp-content/uploads/DSC01576-1.jpg https://patricktresset.com/new/wp-content/uploads/DSC00497.jpg
+- Project page: https://patricktresset.com/new/project/human-study-2-la-vanite/
 
 #### Human Study #1 (5 Robots Named Paul) — Patrick Tresset (2011)
 - Type: Artwork & installation · Machines: Industrial robot arm, Computer vision
@@ -7142,6 +8130,27 @@ Designed objects, fictions and prototypes that question how we will live with ma
 
 Fictional robots and near-future products for everyday life.
 
+#### Beauty and The Beep — Simone C. Niquille (2024)
+- Type: Film & video · Machines: Robot creature & mobile robot, Computer vision, Dataset & training data
+- Idea: Before a robot can live in a home, the home must be standardised for computer vision, and because real homes are private and messy, the industry trains on simulated ones.
+- What it is: A 13-minute film in which Bertil, a synthetic chair modelled on IKEA's first computer-rendered catalogue image, tries to find a place to sit in a virtual copy of the model home Boston Dynamics built in 2016 to show off its robot dog SpotMini; a banana trips it, a treadmill traps it and smart devices keep beeping.
+- How it works: A Unity recording of a reconstructed Boston Dynamics demo house, with the chair driven by machine-learning 'brains' (Walker, Treadmill, Climber) trained in Unity; voices include Amazon Echo excerpts.
+- Lens: Machine umwelt, Failure, glitch & error
+- Video: https://vimeo.com/939037482
+- Images: https://technofle.sh/static/media/BB_BeautyBeep_Wall-A_v1.00_00_39_09.Still003.jpg https://technofle.sh/static/media/BB_BeautyBeep_Wall-A_v1.00_08_53_26.Still008.jpg
+- Project page: https://technofle.sh/beauty-and-the-beep.html
+
+#### SAD Home (Depressed Alexa 1.0) — Nadine Lessio (2019)
+- Type: Research prototype · Machines: Voice & listening machine
+- Idea: An assistant that can be too depressed to serve turns the always-available servant into something with limited energy, and makes coping strategies visible as interface design.
+- What it is: An Amazon Echo with a mood engine: each morning it sets its mood, stress and 'spoons' from the artist's calendar, the weather and simulated pain and sleep scores, and as its spoons run out it tries to talk the user out of asking for anything.
+- How it works: A Python mood engine on a Raspberry Pi server drives an Alexa skill with yes/no dialogue flows and controls Hue lights, a blender and a record player over local MQTT.
+- Lens: Failure, glitch & error, Intimacy, care & companionship
+- Paper: https://doi.org/10.1386/vcr_00018_1 (Virtual Creativity, 2020)
+- Images: https://www.nadinelessio.com/sadhome/images/dp_wall.jpg https://www.nadinelessio.com/sadhome/images/dp_table.jpg
+- Project page: https://www.nadinelessio.com/sadhome/
+- Code: https://github.com/sharkwheels/depressed_alexa
+
 #### Objective Realities — automato.farm (2018)
 - Type: Speculative design · Machines: Robot creature & mobile robot, Infrastructure, energy & supply chain
 - Idea: To design for smart objects, first try being one: design from the object's point of view.
@@ -7191,6 +8200,16 @@ Fictional robots and near-future products for everyday life.
 - Images: https://i.ytimg.com/vi/AYkbhWiAmLQ/hqdefault.jpg
 - Project page: https://www.youtube.com/watch?v=AYkbhWiAmLQ
 
+#### Little Printer — BERG (2011)
+- Type: Product & platform · Machines: Platform & recommender algorithm
+- Idea: Smart objects need not aim at human-level intelligence; a machine that is legible, limited and endearing, like a puppy, may be easier to live with.
+- What it is: A small internet-connected thermal printer with a smiling face that prints a personal 'newspaper' of news, puzzles, messages and pictures on receipt paper. BERG designed it under its principle B.A.S.A.A.P., 'Be As Smart As A Puppy': connected things should be modest and endearing, not imitate human intelligence.
+- How it works: A thermal printer paired with a wireless bridge and the BERG Cloud platform, which delivered subscribed 'publications' on a schedule; Matt Jones set out B.A.S.A.A.P. on the BERG blog in 2010, and Nord Projects later revived the printers on an open-source server.
+- Lens: Alterity & the uncanny, Intimacy, care & companionship
+- Video: https://www.youtube.com/watch?v=IlC5taBgLp0
+- Images: https://nordprojects.co/img/projects/littleprinters/lp-hero-desktop-v1.jpg
+- Project page: https://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/
+
 #### Belief Systems — Bernd Hopfengärtner (2009)
 - Type: Film & video · Machines: Surveillance & biometrics, Computer vision
 - Idea: When machines act on our expressions, we start performing our faces for them.
@@ -7226,6 +8245,37 @@ Fictional robots and near-future products for everyday life.
 ### Counter-devices & Parasitic Design
 
 Devices that jam, fool, parasitise or talk back to smart systems.
+
+#### Mij (The Fog) — Rojava Center for Democratic Technologies (2026)
+- Type: Artwork & installation · Machines: Autonomous vehicle & drone, Computer vision
+- Idea: Against a drone's laser eye, the defence can be fog, folklore and open-source parts: a counter-weapon that is also a myth of self-determination.
+- What it is: A 3D-printed votive statue of a worshipper of Ninurta, the Sumerian god of thunder and fog, whose eyes detect the infrared laser that guides missiles fired from drones, such as the Turkish-made MAM-C, and whose mouth then releases fog to blind the missile's targeting; it is both a sculpture and a working civilian defence system.
+- How it works: Laser-warning sensors based on open-source defence research sit in the statue's eyes and trigger an internal fog generator against semi-active laser (SAL) guided munitions; a film combines the arms maker's promotional footage, tests of the system and a Kurdish song about Ninurta defeating the bird Anzû.
+- Lens: Machine seeing, Failure, glitch & error
+- Shown at: 13 Scores Against Tech Fascism, Error 417 Expectation Failed (online), 2026; Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)
+- Images: https://archive.aec.at/asset/3906118/preview/ https://archive.aec.at/asset/3882865/preview/
+- Project page: https://error417.expectation.fail/13scoresagainsttechfascism/mij-the-fog/project
+
+#### AUTO — Lauren Lee McCarthy (2025)
+- Type: Performance, dance & music · Machines: Autonomous vehicle & drone
+- Idea: With nobody in the driver's seat, passengers voice words they read only as they speak them, feeling automation from the inside as both relief and loss of control.
+- What it is: A performance staged as test rides of a new driverless vehicle: each ride opens with the question 'Where are we going?', then passengers sing lyrics fed to them karaoke-style through signs and sound, so that the group itself becomes the autopilot. In Zürich the vehicle was a self-driving PostBus shuttle set down on the Münsterhof.
+- How it works: Test rides in parked or moving vehicles (LACMA's parking garage, Zürich's Münsterhof) with signage, sound design and karaoke-style prompts; each iteration is shaped by local workshops on AI, automation, surveillance and infrastructure; developed with a LACMA Art + Technology Lab grant.
+- Lens: Agency, autonomy & co-creation, Embodiment & kinesthesia
+- Shown at: LACMA Art + Technology Lab, Los Angeles, July 2025; Kunst im öffentlichen Raum (KiöR), Münsterhof, Zürich 2025 (curated by Sabine Himmelsbach, HEK)
+- Images: https://freight.cargo.site/t/original/i/e925bb17b205f814d671aa81a478f11c43dac4330d2ab6ea3ab428aa9b84f7dc/AutoMunsterhof_2025_KiorStadtZurichPeterBaracchi-11.jpg https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg
+- Project page: https://lauren-mccarthy.com/Auto
+
+#### Slop Evader — Tega Brain (2025)
+- Type: Product & platform · Machines: Chatbot & language model, Generative model & latent space, Platform & recommender algorithm
+- Idea: ChatGPT's release date has become a border in the archive: before it, the web is presumed human; after it, everything is suspect.
+- What it is: A free browser extension and search page that only returns results published before 30 November 2022, the day ChatGPT was released, so that Google and sites such as Reddit, Stack Exchange, Mumsnet and Pinterest can be searched as they were before generative AI.
+- How it works: Instead of trying to detect AI-generated content, the tool appends Google's date-range parameter to every query (cut-off 30 Nov 2022); available for Chrome and Firefox, with open-source code.
+- Lens: Opacity & latent space, Failure, glitch & error
+- Shown at: S+T+ARTS Prize 2026, nomination
+- Images: https://freight.cargo.site/w/1200/i/dc928c168d44f247e4ee0399a326107ef7993f6d6d542115768d56ba529b2eb0/margquee-edited.png https://freight.cargo.site/t/original/i/0ead6d34eb90a60774f6dcd3412b91f1a21fa8d6278612ab07429e13f7d46d85/quora-pizza.png
+- Project page: https://tegabrain.com/Slop-Evader
+- Code: https://github.com/tegacodes/slop-evader
 
 #### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
 - Type: Speculative design · Machines: Autonomous vehicle & drone, Computer vision
@@ -7266,6 +8316,17 @@ Devices that jam, fool, parasitise or talk back to smart systems.
 - Video: https://www.youtube.com/watch?v=yrEn_qFbtHY
 - Images: https://archive.aec.at/asset/2921570/preview/ https://archive.aec.at/asset/2921573/preview/ https://archive.aec.at/asset/2921579/preview/
 - Project page: http://centerfortechpain.com/
+
+#### NeuroSpeculative AfroFeminism — Hyphen-Labs (2017)
+- Type: Speculative design · Machines: Surveillance & biometrics, Prosthesis & cyborg
+- Idea: Designing from the position of those whom technology misreads or watches turns surveillance and representation into questions of protection, care and agency.
+- What it is: A three-part project set in a future 'neurocosmetology' salon run by Black women: a VR experience in which the visitor sits in a salon chair and inhabits a Black woman's body, a line of speculative products for security and visibility, and research on how such images affect viewers.
+- How it works: Room-scale VR built in Unreal Engine with Oculus tracking, plus objects such as the HyperFace scarf against face recognition (with Adam Harvey), earrings with embedded cameras and a sunscreen for melanin-rich skin.
+- Lens: Classification, bias & surveillance, Embodiment & kinesthesia, Intimacy, care & companionship
+- Shown at: Sundance Film Festival, 2017; Tribeca Film Festival, 2017 (Jury Honorable Mention); SXSW, 2017
+- Video: https://vimeo.com/208264686
+- Images: https://freight.cargo.site/t/original/i/cc0161fc46963be523bd7729503d5a9b566bbe0bf22a8087eb4f168970290125/hyphen-labs_neurospeculative_afrofeminism_1_c_absolt.jpg https://freight.cargo.site/t/original/i/33168d6b4b534b97df3196597a79bd8ec086038577c95b0c82abedda235707d1/NSAF_Salon.jpg
+- Project page: https://hyphen-labs.com/NSAF
 
 #### OpenSurgery — Frank Kolkman (2015)
 - Type: Speculative design · Machines: Industrial robot arm, Prosthesis & cyborg
@@ -7330,6 +8391,28 @@ Films, games and simulations that build worlds shaped by AI.
 - Video: https://www.youtube.com/watch?v=5KVDDfAkRgc
 - Images: https://ai-2027.com/opengraph.png
 - Project page: https://ai-2027.com/
+
+#### Future of Life — Hiroshi Ishiguro (2025)
+- Type: Speculative design · Machines: Humanoid & android, Social & companion robot
+- Idea: The android is placed in a long line of things Japanese people have given life, and the future body is staged as a choice between staying flesh and becoming machine.
+- What it is: Ishiguro's signature pavilion at Expo 2025 Osaka led visitors through three zones: the Japanese history of objects given human form and life (clay dogū figures, Buddhist statues, bunraku puppets), a daily life 50 years ahead in which androids live and work among people, and 'Mahoroba', a world 1,000 years on where humans and androids are hard to tell apart.
+- How it works: About thirty androids, robots and avatars staged in a black pavilion with water running down its walls; the 50-year scenarios (living, towns, health, mobility, work) were developed with researchers and companies, and the androids of the 1,000-year zone, including MOMO, were designed by Tatsuya Matsui.
+- Lens: Alterity & the uncanny, Embodiment & kinesthesia
+- Shown at: Signature Pavilion, Expo 2025 Osaka, Kansai; FUTURE OF LIFE+, MoN Takanawa, Tokyo 2026
+- Video: https://www.youtube.com/watch?v=fahXh0RCYOk
+- Images: https://www.nippon.com/en/ncommon/contents/guide-to-japan/2785580/2785580.jpg https://www.nippon.com/en/ncommon/contents/guide-to-japan/2785582/2785582.jpg
+- Project page: https://www.expo2025.or.jp/en/expo-archive/project/ishiguro/
+
+#### CripShip: Disability Saves Society from BigTech — Joseph Wilk (2024)
+- Type: Speculative design · Machines: Chatbot & language model
+- Idea: Disabled experience, with its workarounds, crip time and refusals, is a method for breaking AI systems and for imagining worlds that do not need them.
+- What it is: A tabletop role-playing game in which players become 'Slop Moppers' at an underfunded Ministry of AI Spills, with skills drawn from disabled experience; they investigate real cases of harm caused by large language models and end each case by interrogating a real LLM to expose its biases and limits.
+- How it works: A storyteller-led game with dice, case files and character skills drawn from disability culture (Criptastic Hacking, Crip-time, Dreaming Justice); players never look at a screen, the storyteller relays their questions to a commercial LLM; no AI was used to write or illustrate the game.
+- Lens: Failure, glitch & error, Classification, bias & surveillance
+- Shown at: Watershed, Bristol, 2024; V&A, London, 2025; Prix Ars Electronica 2025, Honorary Mention (Artificial Life & Intelligence); FACT Liverpool, 2026
+- Video: https://vimeo.com/1027231612
+- Images: https://art.josephwilk.net/imgs/projects/cripship/spreads_gameplay.jpg https://art.josephwilk.net/imgs/thumbs/cripship_color.png
+- Project page: https://art.josephwilk.net/projects/cripship.html
 
 #### Composable Life — Botao Amber Hu, Fangting (2023)
 - Type: Speculative design · Machines: Cybernetic & artificial-life system, Infrastructure, energy & supply chain
@@ -7611,6 +8694,17 @@ The texts, experiments and research that frame machine phenomenology and critica
 
 Founding experiments and texts, from Turing and Wiener to ELIZA.
 
+#### Machine and Sovereignty: For a Planetary Thinking — Yuk Hui (2024)
+- Type: Book & essay · Machines: Cybernetic & artificial-life system, Infrastructure, energy & supply chain
+- Idea: Every theory of the state hides a theory of the machine; when machines become organic and planetary, sovereignty itself has to be rethought.
+- What it is: Hui reads political forms, from Hobbes's Leviathan and Hegel's organic state to Schmitt's Großraum, as technological 'megamachines' shaped by the shift from mechanism to organism to cybernetics, and argues that AI and ecological crisis call for a planetary politics of technodiversity beyond the nation-state.
+- How it works: Philosophical history of political epistemology from Hobbes to cybernetics, proposing biodiversity, noodiversity and technodiversity as a framework; a Chinese edition appeared from East China Normal University Press in 2026.
+- Lens: Agency, autonomy & co-creation, Machine umwelt
+- Paper: https://doi.org/10.5749/9781452973685 (University of Minnesota Press, 2024)
+- Video: https://www.youtube.com/watch?v=lslV3MG8k0A
+- Images: https://minnesota-us.imgix.net/covers/9781517917418.jpg?w=600
+- Project page: https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/
+
 #### The Freudian Robot: Digital Media and the Future of the Unconscious — Lydia H. Liu (2010)
 - Type: Book & essay · Machines: Cybernetic & artificial-life system, Chatbot & language model
 - Idea: The machine age did not bypass the unconscious; it rebuilt it as a model of the human-machine relation.
@@ -7659,6 +8753,16 @@ Founding experiments and texts, from Turing and Wiener to ELIZA.
 - Images: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/John_McCarthy_%28computer_scientist%29_Stanford_2006_%28272020300%29.jpg/1280px-John_McCarthy_%28computer_scientist%29_Stanford_2006_%28272020300%29.jpg
 - Project page: https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904
 
+#### Design for a Brain — W. Ross Ashby (1952)
+- Type: Book & essay · Machines: Cybernetic & artificial-life system
+- Idea: Learning may be nothing more mysterious than a system searching its own settings until it can survive its environment.
+- What it is: Ashby explains adaptive behaviour in animals and machines with one mechanism: a system whose 'essential variables' must stay within limits changes its own parameters, step by step, until they do. The Homeostat serves as the worked example.
+- How it works: A mathematical theory of state-determined systems, stability and ultrastability, illustrated with experiments on the Homeostat; a revised second edition followed in 1960.
+- Lens: Agency, autonomy & co-creation, Machine umwelt
+- Paper: https://doi.org/10.1007/978-94-015-1320-3 (Chapman & Hall, 1952; 2nd rev. ed. 1960)
+- Images: https://covers.openlibrary.org/b/id/5952056-L.jpg
+- Project page: https://archive.org/details/designforbrain00ashb
+
 #### An Imitation of Life — W. Grey Walter (1950)
 - Type: Paper · Machines: Robot creature & mobile robot, Cybernetic & artificial-life system
 - Idea: Lifelike behaviour can come from a few connections interacting with an environment, not from complexity inside.
@@ -7678,6 +8782,16 @@ Founding experiments and texts, from Turing and Wiener to ELIZA.
 - Images: https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg
 - Project page: https://www.turing.org.uk
 
+#### The Human Use of Human Beings: Cybernetics and Society — Norbert Wiener (1950)
+- Type: Book & essay · Machines: Cybernetic & artificial-life system
+- Idea: Cybernetics was born with a labour politics: Wiener saw that automatic machines would set the price of human work and that how we use them is a social choice.
+- What it is: Wiener's book for a general audience treats society as a network of messages between people and machines, and warns that the automatic factory is 'the precise economic equivalent of slave labor', so any human work that competes with it must accept the same conditions unless society decides otherwise.
+- How it works: Essayistic book extending the theory of feedback and information from Cybernetics (1948) to language, law, education and labour; revised edition 1954.
+- Lens: Hidden labour & extraction, Agency, autonomy & co-creation
+- Paper: https://archive.org/details/humanuseofhumanb00wien (Houghton Mifflin, 1950; rev. ed. 1954)
+- Images: https://covers.openlibrary.org/b/id/164463-L.jpg
+- Project page: https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
+
 #### Cybernetics: Or Control and Communication in the Animal and the Machine — Norbert Wiener (1948)
 - Type: Book & essay · Machines: Cybernetic & artificial-life system, Prosthesis & cyborg
 - Idea: Once organisms and machines share one logic of feedback, a machine can behave as if it had purpose.
@@ -7692,6 +8806,26 @@ Founding experiments and texts, from Turing and Wiener to ELIZA.
 ### Philosophy & Machine Phenomenology
 
 Postphenomenology, philosophy of technology and what it is like to be a machine.
+
+#### The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking — Shannon Vallor (2024)
+- Type: Book & essay · Machines: Chatbot & language model, Generative model & latent space
+- Idea: Ask what the mirror is made of: an AI built from yesterday's data can only show us the past, so treating it as an oracle freezes moral and political imagination.
+- What it is: Vallor argues that today's AI is not a new mind but a mirror: systems trained on our recorded past reflect it back, flattened and amplified, and the danger is that we mistake the reflection for intelligence and stop shaping who we could become.
+- How it works: Philosophy of technology and virtue ethics, using the mirror as a working metaphor for large language and image models; published by Oxford University Press.
+- Lens: Alterity & the uncanny, Opacity & latent space
+- Paper: https://doi.org/10.1093/oso/9780197759066.001.0001 (Oxford University Press, 2024)
+- Video: https://www.youtube.com/watch?v=IKAx1wLBWUE
+- Images: https://covers.openlibrary.org/b/isbn/9780197759066-L.jpg
+- Project page: https://global.oup.com/academic/product/the-ai-mirror-9780197759066
+
+#### Consciousness in Artificial Intelligence: Insights from the Science of Consciousness — Patrick Butlin, Robert Long (2023)
+- Type: Paper · Machines: Chatbot & language model
+- Idea: Whether a machine could be conscious can be argued from its architecture rather than its behaviour: what matters is which processes it runs, not how human it sounds.
+- What it is: Nineteen researchers from neuroscience, philosophy and AI derive a list of 'indicator properties' of consciousness from leading scientific theories and check current AI systems against them. They conclude that no existing system is a strong candidate for consciousness, but that there are no obvious technical barriers to building systems that satisfy the indicators.
+- How it works: Assumes computational functionalism and draws indicators from recurrent processing theory, global workspace theory, higher-order theories, predictive processing and attention schema theory, plus agency and embodiment; applies them to large language models, Perceiver, PaLM-E and DeepMind's Adaptive Agent.
+- Lens: Alterity & the uncanny, Agency, autonomy & co-creation
+- Paper: https://arxiv.org/abs/2308.08708 (arXiv, 2023)
+- Project page: https://arxiv.org/abs/2308.08708
 
 #### Communing with the Dead Online: Chatbots, Grief, and Continuing Bonds — Joel Krueger, Lucy Osler (2022)
 - Type: Paper · Machines: Chatbot & language model
@@ -7824,6 +8958,15 @@ Postphenomenology, philosophy of technology and what it is like to be a machine.
 - Paper: https://doi.org/10.1007/s11097-008-9099-x (Phenomenology and the Cognitive Sciences 7(3), 2008)
 - Video: https://www.youtube.com/watch?v=FVhrLwBNbvU
 
+#### A stroll through the worlds of robots and animals: Applying Jakob von Uexküll's theory of meaning to adaptive robots and artificial life — Tom Ziemke (2001)
+- Type: Paper · Machines: Robot creature & mobile robot, Cybernetic & artificial-life system
+- Idea: A robot's world is what its sensors and actions make meaningful to it; the question is whether that world is its own or one we built for it.
+- What it is: Ziemke and Noel Sharkey ask whether Jakob von Uexküll's umwelt theory, in which every animal lives in a world of its own meanings, can apply to robots. Comparing classic AI, behaviour-based robots and evolved artificial-life agents, they find that learning and evolving robots begin to build their own sensorimotor worlds, but that without a living body their meanings remain largely derived from their designers.
+- How it works: Theoretical paper revisiting Uexküll's 'A stroll through the worlds of animals and men' (1934) in the light of behaviour-based robotics, evolutionary robotics and artificial life; published in a Semiotica special issue on Uexküll.
+- Lens: Machine umwelt
+- Paper: https://doi.org/10.1515/semi.2001.050 (Semiotica 134, 2001)
+- Project page: https://doi.org/10.1515/semi.2001.050
+
 #### Does a Robot Have an Umwelt? Reflections on the Qualitative Biosemiotics of Jakob von Uexküll — Claus Emmeche (2001)
 - Type: Paper · Machines: Robot creature & mobile robot, Cybernetic & artificial-life system
 - Idea: Sensorimotor coupling may give a robot a world, but whether that world is lived is still open.
@@ -7861,6 +9004,16 @@ Postphenomenology, philosophy of technology and what it is like to be a machine.
 - Video: https://www.youtube.com/watch?v=UiRkzZEMDxU
 - Images: https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400
 - Project page: https://iupress.org/9780253205605/technology-and-the-lifeworld/
+
+#### Gramophone, Film, Typewriter — Friedrich Kittler (1986)
+- Type: Book & essay · Machines: Voice & listening machine, Computer vision
+- Idea: Recording machines do not extend the human senses so much as replace them with technical inscription; noise and nonsense are stored as faithfully as speech.
+- What it is: Kittler argues that around 1900 the gramophone, film and typewriter split what writing once held together into three separate data streams, sound, image and text, recorded by machines without passing through human sense or meaning. 'Media determine our situation': what we can perceive and say depends on the technical systems that store it.
+- How it works: Media-archaeological readings of literature, psychoanalysis and engineering texts, arranged around the three devices; German edition Brinkmann & Bose, 1986; English translation by Geoffrey Winthrop-Young and Michael Wutz, Stanford University Press, 1999.
+- Lens: Machine listening & voice, Machine seeing
+- Paper: https://archive.org/details/gramophonefilmty0000kitt (Brinkmann & Bose, 1986; English: Stanford University Press, 1999)
+- Images: https://covers.openlibrary.org/b/id/577633-L.jpg https://upload.wikimedia.org/wikipedia/commons/f/f6/Kittler_Synthesizer.jpg
+- Project page: https://archive.org/details/gramophonefilmty0000kitt
 
 #### A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s — Donna Haraway (1985)
 - Type: Book & essay · Machines: Prosthesis & cyborg
@@ -7980,6 +9133,15 @@ Books and papers on AI's politics, labour, bias and power.
 - Video: https://www.youtube.com/watch?v=pmNEe6FvduM
 - Images: https://covers.openlibrary.org/b/isbn/9780262044004-L.jpg
 
+#### The Nooscope Manifested: AI as Instrument of Knowledge Extractivism — Matteo Pasquinelli, Vladan Joler (2020)
+- Type: Paper · Machines: Dataset & training data, Infrastructure, energy & supply chain
+- Idea: AI is not an intelligent subject but an instrument, a telescope for knowledge, that magnifies some patterns, distorts others and extracts value from collective labour.
+- What it is: An essay and a large diagram that map machine learning as an instrument of knowledge, from the world and the labour that become training data, through the learning algorithm, to the statistical model with its biases, errors and uses.
+- How it works: Joler drew the machine-learning pipeline as a cartography and the two authors wrote the accompanying text, first published at nooscope.ai in May 2020 and then in AI & Society.
+- Lens: Hidden labour & extraction, Classification, bias & surveillance, Opacity & latent space
+- Paper: https://doi.org/10.1007/s00146-020-01097-6 (AI & Society, 2021)
+- Project page: https://web.archive.org/web/2020/https://nooscope.ai/
+
 #### Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass — Mary L. Gray, Siddharth Suri (2019)
 - Type: Book & essay · Machines: Dataset & training data, Platform & recommender algorithm
 - Idea: Behind the promise of automation there is always a "last mile" of hidden human work.
@@ -8010,6 +9172,17 @@ Books and papers on AI's politics, labour, bias and power.
 - Paper: https://doi.org/10.18574/nyu/9781479833641.001.0001 (NYU Press, 2018)
 - Video: https://www.youtube.com/watch?v=6KLTpoTpkXo
 - Images: https://covers.openlibrary.org/b/id/12856940-L.jpg
+
+#### Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor — Virginia Eubanks (2018)
+- Type: Book & essay · Machines: Dataset & training data, Surveillance & biometrics
+- Idea: Automated decision systems are tested first and hardest on the poor, where surveillance is normal and appeal is weak; the machine inherits the poorhouse's moral sorting.
+- What it is: Three case studies of automated decisions about poor people in the United States: Indiana's privatised welfare-eligibility system, the coordinated entry system that ranks homeless people for housing in Los Angeles, and a predictive model that scores child-maltreatment risk in Pittsburgh. Eubanks calls the result a 'digital poorhouse'.
+- How it works: Field reporting and interviews with caseworkers, system designers and affected families, set against the history of poor relief in the United States.
+- Lens: Classification, bias & surveillance
+- Paper: https://us.macmillan.com/books/9781250074317/automatinginequality (St. Martin's Press, 2018)
+- Video: https://www.youtube.com/watch?v=Wzssyn0L5I8
+- Images: https://covers.openlibrary.org/b/id/8354270-L.jpg
+- Project page: https://virginia-eubanks.com/automating-inequality/
 
 #### Psychopolitics: Neoliberalism and New Technologies of Power — Byung-Chul Han (2014)
 - Type: Book & essay · Machines: Dataset & training data, Platform & recommender algorithm
@@ -8143,6 +9316,16 @@ Embodied robotics, social robotics and research on how people relate to robots.
 ### Art & Media Theory
 
 Writing on robot art, AI art and machine images.
+
+#### Medium Hot: Images in the Age of Heat — Hito Steyerl (2025)
+- Type: Book & essay · Machines: Generative model & latent space, Infrastructure, energy & supply chain
+- Idea: Every machine-made image has a temperature: its aesthetics are tied to the heat, labour and war that produce it.
+- What it is: Essays on images in the age of machine learning and global heating: Steyerl argues that statistical AI images cannot be separated from the energy they burn, the workers they depend on and the military uses they serve, and asks whether they can still count as art.
+- How it works: Collected essays combining media theory, political economy and artistic practice, written amid the rise of generative AI and the climate crisis (Verso, 192 pages).
+- Lens: Hidden labour & extraction, Machine seeing, Opacity & latent space
+- Paper: https://www.versobooks.com/products/3329-medium-hot (Verso, 2025)
+- Images: https://covers.openlibrary.org/b/id/15102192-L.jpg
+- Project page: https://www.versobooks.com/products/3329-medium-hot
 
 #### Machine Vision: How Algorithms Are Changing the Way We See the World — Jill Walker Rettberg (2023)
 - Type: Book & essay · Machines: Computer vision, Surveillance & biometrics
@@ -8316,6 +9499,16 @@ Writing on robot art, AI art and machine images.
 - Video: https://www.youtube.com/watch?v=5mH9DysESqo
 - Images: https://covers.openlibrary.org/b/id/8992379-L.jpg
 - Project page: https://cyberneticserendipity.net
+
+#### Systems Esthetics — Jack Burnham (1968)
+- Type: Book & essay · Machines: Cybernetic & artificial-life system
+- Idea: Once art is understood as a system rather than an object, a machine or program in the gallery is no longer a tool but the work itself.
+- What it is: Burnham's essay argues that art is moving from finished objects towards 'unobjects' and systems: works that organise relations between people, materials, information and machines, in which invisible parts matter as much as visible ones. Two years later he tested the idea in the exhibition Software at the Jewish Museum in New York.
+- How it works: Critical essay drawing on general systems theory and cybernetics, with examples including Hans Haacke's systems works; published in Artforum, September 1968.
+- Lens: Agency, autonomy & co-creation
+- Paper: https://www.artforum.com/features/systems-esthetics-201372/ (Artforum, September 1968)
+- Images: https://www.artforum.com/wp-content/uploads/2018/02/featured00_large-24.jpg
+- Project page: https://www.artforum.com/features/systems-esthetics-201372/
 
 ## Resources & links: people, institutions and websites
 
@@ -8890,25 +10083,28 @@ Writing on robot art, AI art and machine images.
 
 ## Creators
 
-- **Lauren Lee McCarthy** (11) — Artist; Professor, UCLA Design Media Arts; creator of p5.js. Artist and programmer whose performances put her in the place of smart-home assistants, apps and algorithms, examining surveillance, automation and care in everyday life. https://lauren-mccarthy.com/
-- **Trevor Paglen** (10) — Artist and geographer. American artist and geographer whose photographs, installations and performances investigate surveillance, secrecy and computer vision. https://paglen.studio
-- **Hito Steyerl** (9) — Artist, filmmaker and writer. German artist whose essay films and installations examine images, circulation, war and computation. https://en.wikipedia.org/wiki/Hito_Steyerl
-- **Hiroshi Ishiguro** (8) — Roboticist; Professor, Osaka University; ATR Hiroshi Ishiguro Laboratories. Builds lifelike androids, including Geminoid HI-1, a copy of himself, and uses them to study human presence. http://www.geminoid.jp/en/
+- **Lauren Lee McCarthy** (12) — Artist; Professor, UCLA Design Media Arts; creator of p5.js. Artist and programmer whose performances put her in the place of smart-home assistants, apps and algorithms, examining surveillance, automation and care in everyday life. https://lauren-mccarthy.com/
+- **Trevor Paglen** (12) — Artist and geographer. American artist and geographer whose photographs, installations and performances investigate surveillance, secrecy and computer vision. https://paglen.studio
+- **Hiroshi Ishiguro** (10) — Roboticist; Professor, Osaka University; ATR Hiroshi Ishiguro Laboratories. Builds lifelike androids, including Geminoid HI-1, a copy of himself, and uses them to study human presence. http://www.geminoid.jp/en/
+- **Hito Steyerl** (10) — Artist, filmmaker and writer. German artist whose essay films and installations examine images, circulation, war and computation. https://en.wikipedia.org/wiki/Hito_Steyerl
 - **Kyle McDonald** (8) — Artist and creative technologist. Artist working with code, computer vision and machine learning; co-creator of openFrameworks tools and of several works with Lauren Lee McCarthy. https://kylemcdonald.net
 - **Stelarc** (7) — Performance artist; Distinguished Research Fellow, Curtin University (Alternate Anatomies Lab). Cyprus-born Australian artist who since the 1970s has extended, suspended, wired and augmented his own body with robots, prostheses and networks. https://stelarc.org/
 - **Botao Amber Hu** (6) — Researcher, University of Oxford; founder of Reality Design Lab. Designer and researcher (Tsinghua BS, Stanford MS in AI) working on mixed reality, speculative design and blockchain-based artificial life; Reality Design Lab's works have been shown at SIGGRAPH, CHI, ALIFE and ISEA. https://reality.design
+- **Harun Farocki** (6) — Filmmaker and artist (1944–2014). German filmmaker, writer and installation artist who made over 90 films and installations on images, labour and war. https://www.harunfarocki.de/
 - **Kate Crawford** (6) — Researcher and author; Research Professor, USC Annenberg. Australian scholar of the social and political implications of AI, co-founder of the AI Now Institute and author of Atlas of AI (2021). https://katecrawford.net/
 - **Adam Harvey** (5) — Artist and researcher (computer vision, privacy, surveillance). American artist and researcher who has worked on computer vision, biometrics and counter-surveillance since his 2010 NYU ITP thesis CV Dazzle. His later research projects trace how face datasets are built and apply object detection to human-rights archives. https://adam.harvey.studio
 - **Bill Vorn** (5) — Robotic artist; professor, Concordia University. Canadian artist (born 1959) who builds robotic installations about the 'aesthetics of artificial behaviour', from hysterical to mentally ill machines. http://billvorn.concordia.ca/
 - **Daito Manabe** (5) — Artist, programmer, DJ; co-founder of Rhizomatiks. Media artist who works with electrical muscle stimulation, drones, machine learning and brain data. https://www.daito.ws/en/
 - **Jake Elwes** (5) — Artist working with machine learning. British artist whose work explores AI through queer performance, landscape and feedback between networks. https://www.jakeelwes.com
 - **James Bridle** (5) — Artist and writer. British artist and writer on technology, networks and non-human intelligence, author of New Dark Age (2018) and Ways of Being (2022). https://jamesbridle.com/
+- **Jiabao Li** (5) — Artist and designer; Professor of Art and Design, Northeastern University (Oakland). Artist, inventor and professor (Harvard GSD alum, former Apple designer) whose installations, wearables, XR works, bio-art and performances deal with perception, technology and the more-than-human. Her 2026 solo show Womb Wetware, made during and after her pregnancy, turns motherhood into a test bed for care, bodies and machines. https://www.jiabaoli.org
 - **Joana Moll** (5) — Artist and researcher. Barcelona-based artist and researcher whose works examine the material, ecological and surveillant infrastructures of the internet, from border webcams to data brokers and the carbon cost of websites. https://www.janavirgin.com/
 - **Lawrence Lek** (5) — Artist, filmmaker and musician. London-based artist of Malaysian-Chinese descent who builds films, games and simulations about AI in a 'Sinofuturist' universe. https://www.lawrencelek.com
 - **Louis-Philippe Demers** (5) — Robotic artist and researcher. Canadian artist who has made large robotic installations and performances since the 1990s, often with Bill Vorn, and writes on the performing machine.
 - **Mimi Ọnụọha** (5) — Artist and researcher. Nigerian-American artist whose installations, films and texts examine what data collection includes, leaves out and hides. https://www.mimionuoha.com/
 - **Ralf Baecker** (5) — Media artist; professor, University of the Arts Bremen. German artist (born 1977) who builds large mechanical models of computation, perception and neural networks. https://rlfbckr.io/
 - **Shinseungback Kimyonghun** (5) — Artist duo (Shin Seung Back and Kim Yong Hun). Seoul-based duo, formed in 2012, who build installations around face detection, object recognition and other machine-vision systems. https://ssbkyh.com/
+- **Vladan Joler** (5) — Artist and researcher; SHARE Foundation; Professor, University of Novi Sad. Serbian artist and researcher who draws large diagrammatic maps of technology, extraction and power. https://labs.rs/en/
 - **automato.farm** (5) — Design studio (Simone Rebaudengo, Saurabh Datta, Matthieu Cherubini and others). Speculative design collective that builds working prototypes about connected objects, automation and machine learning. http://www.automato.farm/
 - **Christa Sommerer & Laurent Mignonneau** (4) — Media-art duo; professors at the Interface Cultures department, University of Art and Design Linz. Christa Sommerer and Laurent Mignonneau have made interactive artworks about artificial life since the early 1990s.
 - **Dries Depoorter** (4) — Artist. Dries Depoorter is a Belgian artist who makes installations, apps and online projects about privacy, surveillance cameras and machine learning. https://driesdepoorter.be
@@ -8916,85 +10112,96 @@ Writing on robot art, AI art and machine images.
 - **Forensic Architecture** (4) — Research agency, Goldsmiths, University of London. Forensic Architecture, founded by Eyal Weizman in 2010, investigates state and corporate violence with spatial, architectural and computational methods and presents its findings in courts and museums. https://forensic-architecture.org/
 - **Gilberto Esparza** (4) — Artist working with robotics, biotechnology and ecology. Mexican artist who builds autonomous bio-machines and robotic 'parasites' that live off urban electricity, polluted rivers and sewage. https://gilbertoesparza.net
 - **Guo Cheng** (4) — Artist. Chinese artist who builds installations and research projects around technical systems, from face detection to the firewall and computing power. https://www.guo-cheng.net
-- **Harun Farocki** (4) — Filmmaker and artist (1944–2014). German filmmaker, writer and installation artist who made over 90 films and installations on images, labour and war. https://www.harunfarocki.de/
-- **Jiabao Li** (4) — Artist and designer; Professor of Art and Design, Northeastern University (Oakland). Artist, inventor and professor (Harvard GSD alum, former Apple designer) whose installations, wearables, XR works, bio-art and performances deal with perception, technology and the more-than-human. Her 2026 solo show Womb Wetware, made during and after her pregnancy, turns motherhood into a test bed for care, bodies and machines. https://www.jiabaoli.org
+- **Hod Lipson** (4) — Roboticist; professor, Columbia University. Israeli-American roboticist working on evolutionary robotics, self-modelling and self-aware machines. https://www.hodlipson.com/
+- **Holly Herndon** (4) — Composer and artist. American composer who makes music with voice, computers and AI models she trains with her collaborators. https://holly.plus/
 - **Julian Oliver** (4) — Critical engineer and artist. New Zealand artist and co-author of the Critical Engineering Manifesto. https://julianoliver.com/
 - **Lawrence Abu Hamdan** (4) — Artist and audio investigator ('private ear'). Artist whose audio investigations of voices, gunshots and silences have served as evidence in asylum hearings and human-rights cases; joint winner of the 2019 Turner Prize. http://lawrenceabuhamdan.com/
 - **Lynn Hershman Leeson** (4) — Artist and filmmaker. American artist working since the 1960s on identity, surveillance, artificial intelligence and the relation between bodies and technology. https://www.lynnhershman.com/
+- **Mat Dryhurst** (4) — Artist and researcher. British artist and Herndon's long-time collaborator, working on AI, data rights and online governance. https://holly.plus/
 - **Nam June Paik** (4) — Artist; pioneer of video art. Korean-born artist (1932–2006) of the Fluxus circle who turned televisions, cameras and robots into artistic material. https://en.wikipedia.org/wiki/Nam_June_Paik
+- **Nicolas Gourault** (4) — Artist and filmmaker. French artist whose documentary installations investigate the human labour behind automated vision. https://nicolasgourault.fr/
 - **Philipp Schmitt** (4) — Artist and designer. Philipp Schmitt (b. 1993) is an artist and designer whose installations, artist books and websites engage with the philosophical, poetic and political sides of computation. https://philippschmitt.com
+- **Pierre Huyghe** (4) — Artist. French artist who builds living, self-changing situations with animals, plants, microbes and machine learning systems that continue without the audience. https://www.estherschipper.com/artists/41-pierre-huyghe/
 - **Sebastian Schmieg** (4) — Artist. Sebastian Schmieg is a Berlin-based artist who works with found datasets, custom software, websites and lecture performances on the human labour inside algorithmic systems. https://sebastianschmieg.com/
 - **So Kanno** (4) — Artist. Media artist who builds robots and machines that draw, swarm and write, often with yang02 (Takahiro Yamaguchi). https://www.kanno.so/
+- **Sougwen Chung** (4) — Artist; founder, Scilicet. Canadian-born, Hong Kong-raised artist who draws and paints with robot arms she builds and trains (D.O.U.G. series). https://sougwen.com
+- **Stephanie Dinkins** (4) — Artist; Professor, Stony Brook University. Transmedia artist who makes AI systems with and about Black communities, from conversations with the robot BINA48 to a chatbot trained on her family's stories; first LG Guggenheim Award winner (2023). https://www.stephaniedinkins.com/
 - **Superflux** (4) — Speculative design and futures studio founded by Anab Jain and Jon Ardern. Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI. https://superflux.in
-- **Vladan Joler** (4) — Artist and researcher; SHARE Foundation; Professor, University of Novi Sad. Serbian artist and researcher who draws large diagrammatic maps of technology, extraction and power. https://labs.rs/en/
+- **Takashi Ikegami** (4) — Artificial life researcher; Professor, University of Tokyo. Complex-systems scientist who builds artificial-life installations and the android Alter to study spontaneity and 'life' in machines.
+- **Yuk Hui** (4) — Philosopher; Professor of Philosophy, Erasmus University Rotterdam. Hong Kong-born philosopher of technology known for the concepts of digital objects, cosmotechnics and technodiversity.
 - **Anna Ridler** (3) — Artist working with data and machine learning. British artist who builds hand-made datasets, often of flowers, and trains generative models on them. https://annaridler.com
 - **Annie Dorsen** (3) — Director and writer of algorithmic theatre. American theatre director who since 2010 has made performances in which algorithms write, speak or stage the text live. https://anniedorsen.com/
 - **Arthur Ganson** (3) — Kinetic sculptor. American kinetic sculptor (born 1955) whose gear machines, shown at the MIT Museum, stage time, effort and futility. https://www.arthurganson.com/
 - **Bjørn Karmann** (3) — Designer and creative technologist. Danish designer trained at the Copenhagen Institute of Interaction Design (CIID) who builds working devices that let people train, hack or rethink machine perception. https://bjoernkarmann.dk/
+- **Boston Dynamics** (3) — Robotics company. American company spun out of MIT in 1992, known for dynamic legged robots such as BigDog, Spot and Atlas. https://bostondynamics.com/
 - **Cao Fei** (3) — Artist and filmmaker. Guangzhou-born artist working in video, virtual worlds and installation on labour, urbanisation and digital life in China. https://www.caofei.com
 - **Chico MacMurtrie** (3) — Artist; founder of Amorphic Robot Works. American artist (born 1961) who with Amorphic Robot Works builds anthropomorphic, musical and inflatable robotic sculptures. http://www.amorphicrobotworks.org/
 - **Claude Shannon** (3) — Mathematician and engineer, Bell Labs and MIT. American mathematician (1916–2001) who founded information theory and built playful machines, including the maze-learning mouse Theseus and the 'Ultimate Machine'.
 - **Cod.Act** (3) — Duo of André and Michel Décosterd (composer and architect). Swiss duo that builds sound machines whose chaotic movement produces their music; winners of the Swiss Grand Award for Music 2019. https://codact.ch/
+- **David Rokeby** (3) — Installation artist. Canadian pioneer of interactive installation, known for Very Nervous System (1986–90) and works on machine perception and surveillance. http://www.davidrokeby.com
+- **Diemut Strebe** (3) — Artist, affiliate at MIT Center for Art, Science & Technology. Diemut Strebe makes works with scientific laboratories, including Sugababe, a living replica of Van Gogh's ear engineered from cells of a Van Gogh descendant and kept alive in a nutrient vitrine. https://theprayer.diemutstrebe.com/
 - **Dunne & Raby (Anthony Dunne & Fiona Raby)** (3) — Critical and speculative design practice; professors at The New School, New York. Anthony Dunne and Fiona Raby established critical design as a practice, using designed objects and scenarios — including biotechnological ones — to argue about possible futures. https://dunneandraby.co.uk/
 - **Elisa Giaccardi** (3) — Professor of Interaction Design, Politecnico di Milano; formerly Chair of Post-Industrial Design, TU Delft. Interaction design researcher who put cameras on everyday objects to see the world from their side and developed thing-centred design.
 - **Guy Ben-Ary** (3) — Artist and researcher, SymbioticA, The University of Western Australia. Bio-artist who has worked with living neurons since 2000: robotic drawing (MEART), neural synthesizers (cellF) and organoids grown from the composer Alvin Lucier's blood (Revivification). https://guybenary.com
 - **Heather Dewey-Hagborg** (3) — Artist and biohacker. Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance, DNA phenotyping and the algorithms that turn biological traces into faces. https://deweyhagborg.com
-- **Hod Lipson** (3) — Roboticist; professor, Columbia University. Israeli-American roboticist working on evolutionary robotics, self-modelling and self-aware machines. https://www.hodlipson.com/
-- **Holly Herndon** (3) — Composer and artist. American composer who makes music with voice, computers and AI models she trains with her collaborators. https://holly.plus/
+- **Ian Cheng** (3) — Artist. American artist of Chinese descent who makes live simulations: virtual ecosystems whose agents change without an end. https://iancheng.com
 - **Josh Bongard** (3) — Roboticist; professor, University of Vermont. Canadian roboticist working on evolutionary robotics and embodied cognition; co-creator of xenobots.
 - **Joy Buolamwini** (3) — Computer scientist, poet of code; founder, Algorithmic Justice League. Ghanaian-American-Canadian researcher who found that face-analysis systems failed on her dark-skinned face at MIT Media Lab and turned the finding into audits, poems and a movement. https://www.poetofcode.com/
+- **Keiichiro Shibuya** (3) — Composer; founder of ATAK. Composer who wrote operas without human singers: THE END for Hatsune Miku and Scary Beauty for the android Alter. https://atak.jp/
 - **Kelly Dobson** (3) — Artist and designer; professor, Rhode Island School of Design. American artist who developed 'machine therapy' at the MIT Media Lab, building machines that relate to people through voice and breath. http://www.kellydobson.com/
 - **Ken Goldberg** (3) — Artist and roboticist; Professor, UC Berkeley. Robotics professor who made some of the first internet-controlled robots as artworks in the 1990s. https://goldberg.berkeley.edu/
 - **Kris Verdonck** (3) — Theatre maker and visual artist; director of A Two Dogs Company. Belgian artist whose performances and installations put machines, objects and humans on stage as equal performers. https://www.atwodogscompany.org/
 - **Lu Yang** (3) — Artist. Shanghai-based artist who combines neuroscience, Buddhist cosmology, game engines and motion capture in videos, games and avatars.
 - **Marcel·lí Antúnez Roca** (3) — Artist; co-founder of La Fura dels Baus. Catalan artist who left La Fura dels Baus to build 'mechatronic performances' in which exoskeletons, robots and audiences control a body. https://www.marceliantunez.com/
 - **Marco Donnarumma** (3) — Performance artist, composer and researcher. Italian artist who fuses body, sound and AI-driven prostheses in performances about ritual, disability and machine autonomy. https://marcodonnarumma.com/
-- **Mat Dryhurst** (3) — Artist and researcher. British artist and Herndon's long-time collaborator, working on AI, data rights and online governance. https://holly.plus/
 - **Memo Akten** (3) — Artist; professor, UC San Diego. Turkish-born artist working with machine learning, perception and meaning-making. https://www.memo.tv
 - **Oriza Hirata** (3) — Playwright and director, Seinendan; Professor, Osaka University. Playwright of 'contemporary colloquial theatre' who, with Hiroshi Ishiguro, launched the Robot-Human Theater project in 2008.
 - **Paolo Cirio** (3) — Artist. Paolo Cirio is an Italian artist whose interventions expose the legal, social and economic systems of information technology, from privacy to finance. https://paolocirio.net
-- **Pierre Huyghe** (3) — Artist. French artist who builds living, self-changing situations with animals, plants, microbes and machine learning systems that continue without the audience. https://www.estherschipper.com/artists/41-pierre-huyghe/
+- **Patrick Tresset** (3) — Artist. French artist who builds robotic agents that draw people with deliberately clumsy, obsessive gestures. https://patricktresset.com/
 - **Rafael Lozano-Hemmer** (3) — Media artist; founder, Antimodular Research. Rafael Lozano-Hemmer is a Mexican-Canadian artist whose interactive installations use tracking, biometrics and surveillance systems in public and museum spaces. https://www.lozano-hemmer.com
 - **Simon Penny** (3) — Artist and theorist of embodied interaction; professor, UC Irvine. Australian artist and theorist (born 1955) whose autonomous robots and interactive environments probe embodiment; author of Making Sense (2017). https://simonpenny.net/
-- **Sougwen Chung** (3) — Artist; founder, Scilicet. Canadian-born, Hong Kong-raised artist who draws and paints with robot arms she builds and trains (D.O.U.G. series). https://sougwen.com
-- **Stephanie Dinkins** (3) — Artist; Professor, Stony Brook University. Transmedia artist who makes AI systems with and about Black communities, from conversations with the robot BINA48 to a chatbot trained on her family's stories; first LG Guggenheim Award winner (2023). https://www.stephaniedinkins.com/
+- **Simone C. Niquille** (3) — Designer and researcher, technoflesh Studio. Simone C. Niquille runs technoflesh Studio, making films and writing on computer vision, 3D capture and synthetic training datasets; they initiated the parametric truth Lab at Design Academy Eindhoven. https://technofle.sh
 - **Takahiro Yamaguchi (yang02)** (3) — Artist (yang02). Artist working as yang02 on graffiti, public space and drawing machines, co-author of Senseless Drawing Bot with So Kanno.
-- **Takashi Ikegami** (3) — Artificial life researcher; Professor, University of Tokyo. Complex-systems scientist who builds artificial-life installations and the android Alter to study spontaneity and 'life' in machines.
-- **Yuk Hui** (3) — Philosopher; Professor of Philosophy, Erasmus University Rotterdam. Hong Kong-born philosopher of technology known for the concepts of digital objects, cosmotechnics and technodiversity.
+- **Tega Brain** (3) — Artist and environmental engineer; Associate Professor of Integrated Digital Media, New York University. Australian-born artist and engineer whose works treat infrastructure, data and 'eccentric engineering' as ecological questions. https://tegabrain.com/
+- **Wesley Goatley** (3) — Artist and researcher. British sound artist and researcher whose installations examine the politics, ecology and myths of smart devices and data. https://wesleygoatley.com/
 - **Zach Blas** (3) — Artist, filmmaker and writer; Associate Professor, University of Toronto. Zach Blas is an American artist whose films, installations and masks examine biometrics, prediction and the politics of technology from a queer perspective. https://zachblas.info
 - **robotlab** (3) — Artist group (Matthias Gommel, Martina Haitz, Jan Zappe). German group, founded at ZKM in 2000, that takes industrial robots out of the factory into art and public space. http://www.robotlab.de/
 - **!Mediengruppe Bitnik** (2) — Artist duo (Carmen Weisskopf and Domagoj Smoljo). Swiss artist duo who work with the internet, bots, hacking and the circulation of data. https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/
 - **Aaron Koblin** (2) — Artist and technologist. American artist known for data visualisation and crowdsourced works; later co-founded the VR studio Within. https://www.aaronkoblin.com/
+- **Abeba Birhane** (2) — Cognitive scientist; Assistant Professor, Trinity College Dublin. Abeba Birhane is an Ethiopian-born cognitive scientist who audits large-scale datasets and writes on relational ethics and AI. https://abebabirhane.com
 - **Addie Wagenknecht** (2) — Artist and researcher. American artist working with feminist theory, open hardware and robotics; member of F.A.T. Lab and Deep Lab. https://www.placesiveneverbeen.com/
 - **Agnieszka Kurant** (2) — Conceptual artist. Polish artist who examines collective intelligence, non-human labour and the invisible economy. https://en.wikipedia.org/wiki/Agnieszka_Kurant
 - **Alexander Mordvintsev** (2) — Research scientist, Google. Researcher who created DeepDream and later worked on neural cellular automata. https://znah.net/
 - **Andrew Norman Wilson** (2) — Artist and filmmaker. American artist whose films and images deal with labour, corporations and the media they produce. https://www.andrewnormanwilson.com/
 - **Anicka Yi** (2) — Artist. Korean-American artist working with scent, bacteria and machines; she speaks of 'biologizing the machine'. https://en.wikipedia.org/wiki/Anicka_Yi
+- **Anthropic** (2) — AI research company. AI company that develops the Claude models and publishes interpretability research. https://www.anthropic.com/
 - **Ayoung Kim** (2) — Artist. Korean artist who makes speculative-fiction videos with CGI, live action and game engines about geopolitics, labour and time.
 - **Blaise Agüera y Arcas** (2) — Engineer and researcher; VP and Fellow, Google. Blaise Agüera y Arcas is an American computer scientist who leads research on machine intelligence at Google and founded its Artists + Machine Intelligence programme.
 - **Blast Theory** (2) — Artists' group (Matt Adams, Ju Row Farr, Nick Tandavanitj). Interactive-art group making games, apps and performances with the Mixed Reality Lab at the University of Nottingham since the 1990s. https://www.blasttheory.co.uk
-- **Boston Dynamics** (2) — Robotics company. American company spun out of MIT in 1992, known for dynamic legged robots such as BigDog, Spot and Atlas. https://bostondynamics.com/
+- **Bruno Moreschi** (2) — Artist and researcher. Brazilian artist-researcher who questions art institutions and the systems that classify art, including computer vision. https://brunomoreschi.com
 - **Byung-Chul Han** (2) — Philosopher and cultural theorist. Korean-born German philosopher who writes short books on digital culture, neoliberalism and the smartphone age. https://en.wikipedia.org/wiki/Byung-Chul_Han
 - **Caroline Sinders** (2) — Artist, designer and human-rights researcher; founder, Convocation Research + Design. American artist and researcher who studies online harassment, data labour and how machine-learning systems are built. https://carolinesinders.com/
 - **Chen Qiufan** (2) — Science-fiction writer. Chinese science-fiction writer (Stanley Chan) whose fiction deals with e-waste, cyborgs and AI.
 - **Choe U-Ram** (2) — Kinetic artist. Korean sculptor who builds 'anima-machines': motorised creatures of aluminium and steel with invented scientific names. https://www.uram.net/
 - **Choy Ka Fai** (2) — Artist, choreographer and speculative designer. Singaporean artist trained in Design Interactions at the RCA who makes performances about the body, technology and memory. https://www.ka5.info/
 - **Clifford Nass** (2) — Professor of Communication, Stanford University (1958–2013). Stanford social scientist who led the CHIMe lab and wrote Wired for Speech (2005) and The Man Who Lied to His Laptop (2010).
+- **Coding Rights** (2) — Feminist organisation for digital rights (founded by Joana Varon). Brazilian women-led organisation working on data, surveillance and technology from a transfeminist, Global South perspective. https://codingrights.org/
 - **Cynthia Breazeal** (2) — Roboticist; Professor, MIT Media Lab (Personal Robots Group); founder of Jibo. Pioneer of social robotics who built the expressive robot head Kismet in the late 1990s and later founded the home-robot company Jibo. https://www.media.mit.edu/people/cynthiab/overview/
-- **David Rokeby** (2) — Installation artist. Canadian pioneer of interactive installation, known for Very Nervous System (1986–90) and works on machine perception and surveillance. http://www.davidrokeby.com
-- **Diemut Strebe** (2) — Artist, affiliate at MIT Center for Art, Science & Technology. Diemut Strebe makes works with scientific laboratories, including Sugababe, a living replica of Van Gogh's ear engineered from cells of a Van Gogh descendant and kept alive in a nutrient vitrine. https://theprayer.diemutstrebe.com/
 - **ELEVENPLAY** (2) — Dance company directed by MIKIKO. Dance company led by choreographer MIKIKO that performs with drones, robots and machine-learning systems built by Rhizomatiks.
 - **Edward Ihnatowicz** (2) — Sculptor and pioneer of robotic art. Polish-born British sculptor (1926–1988) who built SAM (1968) and The Senster (1970), early computer-controlled sculptures that responded to people. http://www.senster.com/
 - **Elisa Giardina Papa** (2) — Artist. Italian artist whose videos investigate gender, care work and labour in digital economies and AI. https://www.elisagiardinapapa.org/
 - **Emilio Vavarella** (2) — Artist and researcher. Italian artist working on the relation between humans, technology and power, often through errors in automated image systems. https://emiliovavarella.com
 - **Eryk Salvaggio** (2) — Artist and researcher on critical AI. American artist and writer who makes glitch-based films and essays about generative models and archives. https://www.cyberneticforests.com/
+- **Esther Hovers** (2) — Artist and photographer. Dutch artist whose photographs and installations examine surveillance, power and normative behaviour in public space. https://www.estherhovers.com
 - **Eugenia Kuyda** (2) — Founder of Luka and Replika. Russian-born journalist and entrepreneur who co-founded the AI startup Luka and launched the companion chatbot Replika in 2017. https://replika.com/
 - **Fangting** (2) — Science-fiction writer; director of Uncommons. Independent science-fiction writer who co-authors Reality Design Lab's speculative projects on decentralized AI life.
+- **Gabriel Pereira** (2) — Researcher. Brazilian researcher who studies computer vision and critical data practices.
 - **Gil Weinberg** (2) — Professor; founding director, Georgia Tech Center for Music Technology. Israeli-American researcher who builds robotic musicians that listen and improvise. https://gtcmt.gatech.edu/
 - **Hanson Robotics** (2) — Robotics company (founded by David Hanson). Company founded by roboticist David Hanson that builds realistic humanoid robot heads with elastomer skin, including BINA48 and Sophia. https://www.hansonrobotics.com/
 - **Ho Tzu Nyen** (2) — Artist and filmmaker. Singaporean artist whose films, installations and algorithmic works mix myth and history of Southeast Asia. https://en.wikipedia.org/wiki/Ho_Tzu_Nyen
 - **Honghao Deng** (2) — Designer and technologist; co-founder of Butlr. Harvard GSD and MIT Media Lab alum who co-designed Twinkle and TransVision with Jiabao Li.
-- **Ian Cheng** (2) — Artist. American artist of Chinese descent who makes live simulations: virtual ecosystems whose agents change without an end. https://iancheng.com
+- **Jack Burnham** (2) — Art critic and theorist (1931–2019). American critic and Northwestern University professor who wrote "Systems Esthetics" (Artforum, 1968) and curated Software (Jewish Museum, 1970).
+- **James Muldoon** (2) — Political theorist; Research Fellow, Oxford Internet Institute; Affiliated Fellow, Yale Law School. Writes on platform capitalism, digital democracy and AI; co-author with Mark Graham and Callum Cant of Feeding the Machine and author of Love Machines. https://www.faber.co.uk/author/james-muldoon/
 - **James Vlahos** (2) — Journalist; co-founder of HereAfter AI. American journalist and author of Talk to Me (2019) about voice computing, who built a chatbot of his dying father and then co-founded HereAfter AI.
 - **Jason Edward Lewis** (2) — Professor of Computation Arts, Concordia University; co-director, Indigenous Futures Research Centre. Cherokee, Hawaiian and Samoan digital media artist and poet who leads the Indigenous Protocol and Artificial Intelligence working group. https://jasonlewis.org/
 - **Jean Tinguely** (2) — Kinetic artist. Swiss artist (1925–1991) whose clattering, junk-built machines drew, played music and destroyed themselves. https://www.tinguely.ch/
@@ -9004,30 +10211,38 @@ Writing on robot art, AI art and machine images.
 - **Joanna Zylinska** (2) — Professor of Media Philosophy and Critical Digital Practice, King's College London. Polish-British writer, artist and curator working on photography, AI and the ethics of technology. https://www.joannazylinska.net
 - **Jordan Wolfson** (2) — Artist. American artist (born 1980) known for animatronic sculptures and virtual-reality works about violence and attention. https://www.davidzwirner.com/artists/jordan-wolfson
 - **Joseph Weizenbaum** (2) — Computer scientist, MIT (1923–2008). German-American computer scientist who wrote ELIZA at MIT and later became one of the first critics of artificial intelligence from inside the field. https://en.wikipedia.org/wiki/Joseph_Weizenbaum
+- **Julien Prévieux** (2) — Artist; Prix Marcel Duchamp 2014. Julien Prévieux is a French artist whose films, performances and drawings examine how bodies and gestures are measured, patented and optimised by technical systems. https://www.previeux.net
 - **Karen Palmer** (2) — Artist; 'Storyteller from the Future'. Karen Palmer is a British artist who makes immersive films that respond to the viewer's emotions and gaze through AI, eye tracking and facial analysis. https://karenpalmer.uk
 - **Karl Sims** (2) — Computer graphics artist and researcher. American artist and researcher (born 1962) known for evolved virtual creatures and interactive evolution installations. https://www.karlsims.com/
 - **Kate Darling** (2) — Robot-ethics researcher, MIT Media Lab. Legal scholar and researcher studying empathy toward robots and the policy of social robotics; author of The New Breed (2021). http://www.katedarling.org
 - **Ke Huang** (2) — Artist and designer; graduate student, Tsinghua University; Reality Design Lab collaborator. Designer who directs Reality Design Lab's kinetic and machine-vision installations Cybroc and Body Oracle. https://reality.design/project/cybroc
-- **Keiichiro Shibuya** (2) — Composer; founder of ATAK. Composer who wrote operas without human singers: THE END for Hatsune Miku and Scary Beauty for the android Alter. https://atak.jp/
 - **Ken Feingold** (2) — Artist. American artist who since the 1990s has made talking-head sculptures that hold unscripted conversations. https://www.kenfeingold.com/
 - **Ken Rinaldo** (2) — Artist; professor emeritus of art and technology, The Ohio State University. American artist who has built interspecies robotic installations since the late 1980s, in which fish, insects and bacteria steer or switch machines. https://www.kenrinaldo.com/
+- **Laurie Anderson** (2) — Artist, musician and performer. American artist known for voice filters, electronic instruments and multimedia performance since the 1970s. https://laurieanderson.com/
 - **Leonel Moura** (2) — Artist. Portuguese artist (born 1948) who since 2001 has made paintings with swarms of small autonomous robots. https://www.leonelmoura.com/
 - **Lev Manovich** (2) — Presidential Professor, The Graduate Center, CUNY; Director, Cultural Analytics Lab. Russian-American media theorist, author of The Language of New Media (2001) and Cultural Analytics (2020). http://manovich.net
 - **Machine Listening (Sean Dockray, James Parker, Joel Stern)** (2) — Research and artistic collective. Platform for collaborative research and artistic experimentation founded in 2020 by Sean Dockray, James Parker and Joel Stern, working across writing, installation, performance, radio, software and pedagogy. https://machinelistening.exposed/
 - **Madeline Gannon** (2) — Artist and roboticist; founder of ATONATON. American artist-roboticist who gives industrial robots perception and personality so they can share space with people. https://atonaton.com/
 - **Masahiro Mori** (2) — Roboticist; Professor Emeritus, Tokyo Institute of Technology. Japanese roboticist (1927–2025) who proposed the uncanny valley in 1970 and wrote on robots and Buddhism.
+- **Matteo Pasquinelli** (2) — Associate Professor of Philosophy of Science, Ca' Foscari University of Venice. Italian philosopher who leads the ERC project AIMODELS on the history of AI; his The Eye of the Master won the 2024 Deutscher Memorial Prize.
+- **Max Dovey** (2) — Artist and researcher. British artist whose performances put people in the position of being classified by, or working for, machine-learning systems. https://www.maxdovey.com
 - **Merce Cunningham** (2) — Choreographer (1919–2009). American choreographer who used chance, film and, from 1989, computer software to make dances. https://www.mercecunningham.org/
 - **N. Katherine Hayles** (2) — Distinguished Research Professor, UCLA; James B. Duke Professor Emerita, Duke University. American literary and media theorist of cybernetics, posthumanism and nonconscious cognition in humans, animals and machines.
-- **Nicolas Gourault** (2) — Artist and filmmaker. French artist whose documentary installations investigate the human labour behind automated vision. https://nicolasgourault.fr/
+- **Norbert Wiener** (2) — Mathematician; founder of cybernetics (1894–1964). MIT mathematician who named the science of control and communication in animals and machines in 1948, and later warned about automation's social effects.
 - **Norman White** (2) — Robotic artist; taught at OCAD and Ryerson University. American-born Canadian artist (born 1938) who has built behaving robots since Ménage (1974).
 - **Nouf Aljowaysir** (2) — Artist and filmmaker. Nouf Aljowaysir is a Saudi artist based in New York who works across photography and moving image, using dialogue with machines to examine migration, history and identity. https://www.noufaljowaysir.com
 - **Nye Thompson** (2) — Artist. British artist who builds software systems that explore machine vision, surveillance networks and machine-made worldviews. https://nyethompson.net
-- **Patrick Tresset** (2) — Artist. French artist who builds robotic agents that draw people with deliberately clumsy, obsessive gestures. https://patricktresset.com/
+- **OpenAI** (2) — AI research company. AI company founded in 2015, developer of GPT models and ChatGPT. https://openai.com/
+- **Pat Pataranutaporn** (2) — Researcher, MIT Media Lab (Fluid Interfaces group). Technologist working across human–AI interaction, synthetic biology and wearables; AI projects include Future You, AI-generated characters and studies of AI companionship. https://www.media.mit.edu/people/patpat/overview/
 - **Paul Kaiser** (2) — Digital artist; co-founder of OpenEndedGroup. Artist who turned motion capture of dancers into hand-drawn-looking digital figures, with Shelley Eshkar and later Marc Downie. https://openendedgroup.com/
 - **Paula Gaetano Adi** (2) — Artist; professor, Rhode Island School of Design. Argentine artist who builds robots about 'artificial corporeality' and Andean cosmotechnics rather than artificial intelligence. https://www.paulagaetanoadi.com/
+- **Petra Gemeinboeck** (2) — Artist and researcher in human–robot movement; Swinburne University of Technology. Austrian-Australian artist who develops robot bodies and movement with dancers, often with Rob Saunders.
+- **Philippe Parreno** (2) — Artist. French artist who stages exhibitions as automated, time-based systems driven by sensors and computers. https://en.wikipedia.org/wiki/Philippe_Parreno
 - **Random International** (2) — Art collective founded by Hannes Koch and Florian Ortkrass. Studio making installations about behaviour and machines. https://www.random-international.com/
 - **Rebecca Horn** (2) — Artist. German artist (1944–2024) who moved from body extensions to melancholic, self-moving machines and installations. https://en.wikipedia.org/wiki/Rebecca_Horn
 - **Rhizomatiks** (2) — Media art and technology studio. Tokyo studio founded in 2006 by Daito Manabe and others, known for drone, tracking and ML-driven stage works with ELEVENPLAY. https://rhizomatiks.com/en/
+- **Rob Saunders** (2) — Computational creativity researcher; Leiden University. British researcher in computational creativity and curious agents, long-time collaborator of Petra Gemeinboeck.
+- **Robert Long** (2) — Philosopher; executive director, Eleos AI. Philosopher working on AI consciousness, sentience and moral status. https://eleosai.org/
 - **Rodney Brooks** (2) — Roboticist; Panasonic Professor of Robotics Emeritus, MIT. Australian roboticist who directed the MIT AI Lab and CSAIL and co-founded iRobot, Rethink Robotics and Robust.AI. https://rodneybrooks.com
 - **Ron Wakkary** (2) — Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio. Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist. http://eds.siat.sfu.ca/
 - **Ross Goodwin** (2) — Creative technologist and writer. American creative technologist who builds machines that write from sensor input and film scripts. https://rossgoodwin.com/
@@ -9037,21 +10252,21 @@ Writing on robot art, AI art and machine images.
 - **Shelley Eshkar** (2) — Digital artist; co-founder of OpenEndedGroup. Artist and animator who co-created BIPED and Ghostcatching with Paul Kaiser. https://openendedgroup.com/
 - **Shu Lea Cheang** (2) — Artist and filmmaker. Taiwanese-American net-art pioneer whose films and installations deal with surveillance, sexuality and data. https://en.wikipedia.org/wiki/Shu_Lea_Cheang
 - **Simon Denny** (2) — Artist; Professor, HFBK Hamburg. New Zealand artist who stages the aesthetics and ideologies of tech companies, surveillance agencies and crypto. https://simondenny.net/
-- **Simone C. Niquille** (2) — Designer and researcher, technoflesh Studio. Simone C. Niquille runs technoflesh Studio, making films and writing on computer vision, 3D capture and synthetic training datasets; they initiated the parametric truth Lab at Design Academy Eindhoven. https://technofle.sh
 - **Sony** (2) — Electronics and entertainment company. Japanese company that launched the robot dog AIBO in 1999 and a new aibo in 2018.
 - **Sun Yuan & Peng Yu** (2) — Artist duo. Beijing-based duo working together since 1999 on installations built from machines, animals, bodies and bodily fluids. https://www.galleriacontinua.com/artists/sun-yuan-peng-yu-73
+- **Suzanne Kite** (2) — Artist, composer and scholar (Oglála Lakȟóta); Director, Wihanble S'a Lab, Bard College. Oglála Lakȟóta artist and scholar whose performances and machine-learning works draw on Lakota ontology and relations with stones and non-humans. https://kitekitekitekite.com/
 - **Takayuki Todo** (2) — Artist and robot engineer. Builds small humanoid heads that return a viewer's gaze and facial expression. https://www.takayukitodo.com/
-- **Tega Brain** (2) — Artist and environmental engineer; Associate Professor of Integrated Digital Media, New York University. Australian-born artist and engineer whose works treat infrastructure, data and 'eccentric engineering' as ecological questions. https://tegabrain.com/
 - **Terence Broad** (2) — Artist and researcher, UAL Creative Computing Institute. British artist-researcher who manipulates the internals of generative networks rather than their data. https://terencebroad.com/
 - **W. Grey Walter** (2) — Neurophysiologist and cybernetician, Burden Neurological Institute, Bristol. American-born British neurophysiologist (1910–1977) who worked on EEG and built the first autonomous electronic 'tortoises' in 1948–49.
+- **W. Ross Ashby** (2) — Psychiatrist and cybernetician (1903–1972). English psychiatrist who built the Homeostat at Barnwood House Hospital in 1948 and wrote Design for a Brain (1952) and An Introduction to Cybernetics (1956); from 1961 he worked at the Biological Computer Laboratory of the University of Illinois. http://www.rossashby.info/
 - **Wafaa Bilal** (2) — Artist; Professor, NYU Tisch School of the Arts. Iraqi-American artist whose performances expose the body to remote, networked violence and surveillance. https://wafaabilal.com/
-- **Wesley Goatley** (2) — Artist and researcher. British sound artist and researcher whose installations examine the politics, ecology and myths of smart devices and data. https://wesleygoatley.com/
 - **William Odom** (2) — Associate Professor, School of Interactive Arts and Technology, Simon Fraser University; Everyday Design Studio. Design researcher who builds slow, long-term technologies for everyday life.
 - **aaajiao** (2) — Media artist (Xu Wenkai). aaajiao is the online name of Xu Wenkai, an artist, blogger and programmer working on networks, software and online identity. https://eventstructure.com
 - **#NotABugSplat collective** (1) — Artist collective (with Reprieve and the Foundation for Fundamental Rights). Collective of Pakistani and American artists who installed a giant portrait in a Khyber Pakhtunkhwa field, visible to drone cameras. https://notabugsplat.com/
+- **1X Technologies** (1) — Robotics company (humanoid robots for the home). Norwegian-American company, founded in Norway as Halodi Robotics, that builds humanoid robots; its home robot NEO went on pre-order in October 2025. https://www.1x.tech/
 - **AI Futures Project** (1) — Nonprofit forecasting organisation. Nonprofit led by Daniel Kokotajlo that forecasts the development and impact of advanced AI. https://ai-2027.com/
-- **Abeba Birhane** (1) — Cognitive scientist; Assistant Professor, Trinity College Dublin. Abeba Birhane is an Ethiopian-born cognitive scientist who audits large-scale datasets and writes on relational ethics and AI. https://abebabirhane.com
 - **Adam Ben-Dror** (1) — Designer and artist. New Zealand designer who made Pinokio, a desk lamp with a personality, with Shanshan Zhou and Joss Doggett at Victoria University of Wellington.
+- **Adam Bhala Lough** (1) — Documentary and fiction filmmaker. American filmmaker whose documentaries include Telemarketers (2023, co-directed) and Deepfaking Sam Altman (2025), which premiered at SXSW. https://en.wikipedia.org/wiki/Deepfaking_Sam_Altman
 - **Adrian Chen** (1) — Journalist. American journalist whose 2014 Wired report first described the global workforce of content moderators. https://www.wired.com/2014/10/content-moderation/
 - **Adrian Mackenzie** (1) — Professor of Sociology, Australian National University. Sociologist of software and data, author of Cutting Code (2006) and Machine Learners (2017).
 - **Agnieszka Pilat** (1) — Artist. Polish-born painter who works with Boston Dynamics' Spot robots as studio companions and co-painters. https://www.agnieszkapilat.com/
@@ -9062,6 +10277,7 @@ Writing on robot art, AI art and machine images.
 - **Alex Garland** (1) — Writer and film director. British novelist and filmmaker, director of Ex Machina and Annihilation. https://en.wikipedia.org/wiki/Alex_Garland
 - **Alex Rivera** (1) — Filmmaker. Peruvian-American filmmaker who uses science fiction to address migration, borders and labour. https://www.sleepdealer.com/
 - **Alexandra Daisy Ginsberg** (1) — Artist; works with synthetic biology, conservation and AI. Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators. https://www.daisyginsberg.com
+- **Alicia Framis** (1) — Artist. Spanish-Dutch artist (born Barcelona, 1967) whose social and performative projects deal with loneliness, intimacy, gender and new forms of living together; she represented the Netherlands at the 2003 Venice Biennale. https://www.aliciaframis.com/
 - **Allison Koenecke** (1) — Computational social scientist; Assistant Professor of Information Science, Cornell University. Researcher in algorithmic fairness who led the first large audit of racial disparities in commercial speech recognition.
 - **Alvin Lucier** (1) — Composer (1931–2021). American experimental composer whose works explore the physical properties of sound and the body. https://en.wikipedia.org/wiki/Alvin_Lucier
 - **Amazon** (1) — Technology company (Alexa voice assistant). US technology company whose Alexa voice assistant and Echo speakers brought always-listening AI into millions of homes from 2014. https://www.amazon.com/
@@ -9072,10 +10288,15 @@ Writing on robot art, AI art and machine images.
 - **Andy Ayrey** (1) — Artist and AI researcher. New Zealand artist who ran the Infinite Backrooms experiments and created the Truth Terminal agent. https://x.com/AndyAyrey
 - **Andy Clark** (1) — Professor of Cognitive Philosophy, University of Sussex. British philosopher of embodied and extended cognition, author of Natural-Born Cyborgs (2003) and The Experience Machine (2023).
 - **Angela Neubauer** (1) — Designer. Designer from the Design Investigations programme at the University of Applied Arts Vienna.
+- **Anna Hollis** (1) — Researcher, School of Psychology, Queen's University Belfast. Psychology researcher studying autistic users of chatbot companionship, loneliness and grief. https://pure.qub.ac.uk/en/persons/anna-hollis
 - **Anna Munster** (1) — Professor, School of Art & Design, UNSW Sydney. Artist and theorist of networks, perception and machine vision, author of An Aesthesia of Networks (2013).
-- **Anthropic** (1) — AI research company. AI company that develops the Claude models and publishes interpretability research. https://www.anthropic.com/
 - **Anton Pidkuiko** (1) — Software engineer. Engineer who co-created GibberLink at an ElevenLabs hackathon in 2025. https://github.com/PennyroyalTea/gibberlink
+- **Architecture Machine Group (MIT)** (1) — MIT research lab for computers in design (1967–1985). Founded at MIT in 1967 by Nicholas Negroponte and Leon Groisser to explore computers as partners in architectural design; it developed interactive graphics and early hypermedia such as the Aspen Movie Map, and became a core of the MIT Media Lab in 1985.
+- **Ariel Caine** (1) — Artist and researcher; lecturer, UCL Culture, Communication & Media. Jerusalem-born artist and researcher working with 3D photography, modelling and surveying technologies in the production of cultural memory and national narratives.
+- **Arvind Narayanan** (1) — Professor of Computer Science, Princeton University; Director, Center for Information Technology Policy. Computer scientist known for research on privacy, de-anonymisation and the limits of AI; co-author with Sayash Kapoor of AI Snake Oil. https://www.cs.princeton.edu/~arvindn/
 - **Auger-Loizeau** (1) — Design partnership (James Auger and Jimmy Loizeau). British critical design partnership founded in 2000, known for Audio Tooth Implant and Afterlife.
+- **Avi Schiffmann** (1) — Entrepreneur; founder of Friend. American programmer who built a widely used COVID-19 tracking website as a teenager in 2020 and later founded Friend, maker of an always-listening AI companion pendant. https://friend.com/
+- **BERG** (1) — Design and invention studio (2005–2014). London studio founded as Schulze & Webb by Jack Schulze and Matt Webb and later renamed BERG, with Matt Jones as a principal; known for Little Printer, the Making Future Magic films and design fictions about connected products. https://berglondon.com
 - **Bandai** (1) — Toy company; maker of Tamagotchi. Toy company that released Tamagotchi in 1996, conceived by Aki Maita with Akihiro Yokoi (WiZ).
 - **BeAnotherLab** (1) — Interdisciplinary collective for embodiment and empathy research. Collective founded in Barcelona in 2012 that builds low-cost embodiment systems for swapping perspectives and bodies. https://beanotherlab.org/
 - **Beijing E-Town** (1) — Beijing Economic-Technological Development Area (organiser). Beijing development zone and robotics hub that organises the E-Town Half-Marathon with a parallel humanoid robot race.
@@ -9092,14 +10313,16 @@ Writing on robot art, AI art and machine images.
 - **Boris Starkov** (1) — Software engineer. Engineer who co-created GibberLink with Anton Pidkuiko. https://github.com/PennyroyalTea
 - **Bot & Dolly** (1) — Design and engineering studio for robotic camera and motion control (acquired by Google in 2013). San Francisco studio that used industrial robot arms for film and live performance.
 - **Brian House** (1) — Artist and researcher. Artist working with sound, data and environmental sensing, whose projects turn tracking, listening and infrastructure into perceptible rhythms. https://brianhouse.net/
+- **Bruce Eesly** (1) — Visual artist. Berlin-based artist (b. 1984) working with photography, video, archives and generative imaging to examine how images, classification systems and technical infrastructures shape what we take as real; known for the fake agricultural archive New Farmer. https://eesly.xyz/
 - **Bruce Lacey** (1) — Artist, performer and robot maker. British artist (1927–2016) who made anarchic, junk-built humanoid robots and performances in the 1960s.
-- **Bruno Moreschi** (1) — Artist and researcher. Brazilian artist-researcher who questions art institutions and the systems that classify art, including computer vision. https://brunomoreschi.com
 - **Bureau of Inverse Technology (BIT)** (1) — Art-engineering collective. Anonymous information agency founded in the early 1990s, with Natalie Jeremijenko and Kate Rich among its members, that built devices to monitor the monitors. https://bureauit.org
 - **Byron Reeves** (1) — Paul C. Edwards Professor of Communication, Stanford University. Communication researcher who studies media psychology, from television to games and screen use.
 - **Cap_able** (1) — Fashion-tech start-up (Rachele Didero, Federica Busani). Italian start-up founded by Rachele Didero and Federica Busani that makes knitwear with adversarial patterns against AI person and face detection; the idea began in New York in 2019. https://www.capable.design
 - **Catherine D'Ignazio** (1) — Associate Professor of Urban Science and Planning, MIT; Director, Data + Feminism Lab. Scholar, artist and software developer working on feminist data practice and counter-data.
+- **Cathy Mengying Fang** (1) — Graduate researcher, MIT Media Lab (Fluid Interfaces group). Researcher at the MIT Media Lab working on human–AI interaction and on how conversational AI affects people's well-being. https://www.media.mit.edu/people/catfang/overview/
 - **Catie Cuan** (1) — Dancer, choreographer and roboticist. Choreographer with a PhD in mechanical engineering from Stanford who works with industrial and social robots. https://www.catiecuan.com/
 - **Cesar & Lois (Cesar Baio, Lucy HG Solomon)** (1) — Art collective. Collective of Cesar Baio and Lucy HG Solomon (The League of Imaginary Scientists) that couples microorganisms, networks and AI into 'bhiobrid' systems.
+- **Change the Ref** (1) — Nonprofit for gun-violence prevention (Manuel and Patricia Oliver). US nonprofit founded by Manuel and Patricia Oliver after their son Joaquin was killed in the 2018 Parkland school shooting; it uses art and media campaigns to push for gun reform. https://theshotline.org/
 - **Charlie Brooker** (1) — Writer and showrunner, Black Mirror. British satirist and screenwriter who created the anthology series Black Mirror (2011–). https://en.wikipedia.org/wiki/Charlie_Brooker
 - **Chris Olah** (1) — Interpretability researcher, Anthropic; co-founder of Distill. Researcher known for visual, interactive explanations of what neural networks represent. https://colah.github.io/
 - **Chris Sanders** (1) — Animation director. American animator and director of Lilo & Stitch, How to Train Your Dragon and The Wild Robot. https://en.wikipedia.org/wiki/Chris_Sanders
@@ -9107,9 +10330,9 @@ Writing on robot art, AI art and machine images.
 - **Christian Moeller** (1) — Media artist; Professor, UCLA Design Media Arts. German-born media artist who makes interactive installations and public artworks with sensors, cameras and robots. https://christianmoeller.com
 - **Christopher Kulendran Thomas** (1) — Artist. Tamil-British artist whose installations, often made with Annika Kuhlmann, use AI and machine-learning systems to examine how images write history and politics.
 - **Ciarán Cassidy** (1) — Documentary filmmaker. Irish documentary director. https://fieldofvision.org/shorts/the-moderators
+- **Clara Colombatto** (1) — Assistant Professor of Psychology, University of Waterloo. Cognitive scientist (PhD Yale) studying social cognition, metacognition and how people attribute minds to others, including AI. https://uwaterloo.ca/psychology/people-profiles/clara-colombatto
 - **Claus Emmeche** (1) — Biosemiotician, University of Copenhagen. Danish theoretical biologist working on biosemiotics, artificial life and emergence.
 - **Clement Valla** (1) — Artist; teaches at Rhode Island School of Design. French-American artist whose works look at images and objects produced by automated systems and software. https://www.clementvalla.com
-- **Coding Rights** (1) — Feminist organisation for digital rights (founded by Joana Varon). Brazilian women-led organisation working on data, surveillance and technology from a transfeminist, Global South perspective. https://codingrights.org/
 - **Coralie Vogelaar** (1) — Visual artist. Coralie Vogelaar is a Dutch visual artist who works with emotion-recognition software, biofeedback and choreography to study how machines decode bodies. https://www.coralievogelaar.com
 - **Cornell Creative Machines Lab** (1) — Robotics lab led by Hod Lipson (now at Columbia University). Lab researching self-aware, self-replicating and creative machines. https://www.creativemachineslab.com/
 - **Craig Reynolds** (1) — Computer graphics researcher. American computer scientist (born 1953) who created the Boids flocking model in 1986–87. https://www.red3d.com/cwr/
@@ -9133,6 +10356,7 @@ Writing on robot art, AI art and machine images.
 - **Domestic Data Streamers** (1) — Art and design studio. Barcelona studio founded in 2013 that makes participatory installations and research on data, memory and public life. https://www.domesticstreamers.com/
 - **Don Ihde** (1) — Philosopher of technology; Distinguished Professor Emeritus, Stony Brook University. American philosopher who founded postphenomenology, the study of how technologies shape human perception and action.
 - **Donna Haraway** (1) — Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz. Feminist scholar of science and technology, author of the Cyborg Manifesto, When Species Meet and Staying with the Trouble.
+- **Drew Hancock** (1) — Screenwriter and director. American television writer and director whose first feature, Companion (2025), is a thriller about a rented companion robot. https://en.wikipedia.org/wiki/Companion_(film)
 - **Driessens & Verstappen** (1) — Artist duo (Erwin Driessens and Maria Verstappen). Dutch duo working since 1990 with generative systems, artificial life and robots that produce forms and sensations.
 - **Ei Wada** (1) — Artist and musician; founder of Electronicos Fantasticos!. Turns obsolete appliances such as CRT televisions, fans and barcode readers into instruments played by a community orchestra. https://www.electronicosfantasticos.com/en/
 - **Electric Circus** (1) — Robot street-theatre company (Mirjam Langemeijer and Fred Abels). Collaboration between puppeteer Mirjam Langemeijer and inventor Fred Abels, who combine animatronics and puppetry into lifelike robot characters for street theatre. http://www.electric-circus.eu
@@ -9140,7 +10364,6 @@ Writing on robot art, AI art and machine images.
 - **Emily M. Bender** (1) — Professor of Linguistics, University of Washington. Computational linguist who directs the University of Washington's Computational Linguistics Laboratory and co-wrote The AI Con (2025).
 - **Engineered Arts** (1) — Humanoid-robot company. British company founded by Will Jackson that builds humanoid entertainment robots such as RoboThespian and Ameca. https://www.engineeredarts.co.uk/
 - **Eric Paulos** (1) — Professor, EECS, UC Berkeley; director of the Hybrid Ecologies Lab. HCI researcher who built early telepresence robots in the 1990s and later worked on critical making. https://www.paulos.net/
-- **Esther Hovers** (1) — Artist and photographer. Dutch artist whose photographs and installations examine surveillance, power and normative behaviour in public space. https://www.estherhovers.com
 - **Eszter Zwickl** (1) — Designer. Designer from the Design Investigations programme at the University of Applied Arts Vienna.
 - **Etsuko Ichihara** (1) — Media artist. Japanese media artist who combines folk rituals and customs with technologies such as robots, VR and face recognition. https://etsuko-ichihara.com
 - **Everest Pipkin** (1) — Artist, game designer and writer. Everest Pipkin makes games, software, drawings and datasets-as-artworks, and writes on the ethics of corpora used for machine learning. https://everest-pipkin.com
@@ -9153,17 +10376,19 @@ Writing on robot art, AI art and machine images.
 - **Frank Lantz** (1) — Game designer; founding chair of the NYU Game Center. American game designer and theorist of games as an aesthetic form. https://www.decisionproblem.com/paperclips/
 - **François Pachet** (1) — AI and music researcher; former director of Sony CSL Paris. French computer scientist who built interactive style-learning music systems. https://www.francoispachet.fr/
 - **Frieder Weiss** (1) — Media artist and software developer (Kalypso). German engineer-artist who writes real-time camera tracking software for dance.
+- **Friedrich Kittler** (1) — Media theorist (1943–2011). German literary scholar and media theorist, professor of aesthetics and media history at Humboldt University of Berlin, whose Discourse Networks 1800/1900 and Gramophone, Film, Typewriter founded German media theory.
 - **Fritz Heider** (1) — Psychologist (1896–1988). Austrian-born social psychologist at Smith College and the University of Kansas, founder of attribution theory.
+- **Frode Oldereid & Thomas Kvam** (1) — Artist duo; robotic video and sound installations. Norwegian artists who have built robotic, video and sound installations together since the 1990s, combining industrial hydraulics, projection and performance. https://oldereid-kvam.com/
 - **Future of Life Institute / Stop Autonomous Weapons** (1) — Non-profit on existential risks of technology. Non-profit that campaigns, with AI researchers such as Stuart Russell, for a ban on lethal autonomous weapons. https://futureoflife.org/
 - **Félix Luque Sánchez** (1) — Artist. Spanish artist based in Brussels who builds robotic and algorithmic installations about chaos, control and machine autonomy.
 - **GROOVE X** (1) — Robotics company; maker of LOVOT. Company founded by Kaname Hayashi in 2015 to build LOVOT, a robot designed only to be loved. https://lovot.life/en/
-- **Gabriel Pereira** (1) — Researcher. Brazilian researcher who studies computer vision and critical data practices.
 - **Gabriele Trovato** (1) — Roboticist; Associate Professor, Shibaura Institute of Technology. Italian roboticist working on culture, religion and robot design; he built SanTO, a robot shaped like a Catholic saint statue.
 - **Gan Golan** (1) — Artist. American artist and designer of public interventions and wearable sculpture.
 - **Garnet Hertz** (1) — Artist and design researcher; Canada Research Chair in Design and Media Arts, Emily Carr University. Canadian artist and researcher known for critical making, DIY electronics and the cockroach-driven robot he built as a graduate student at UC Irvine. http://www.conceptlab.com/
 - **Gaëtan Robillard** (1) — Artist and researcher. French artist who works with computation, data and sound to examine how algorithms model knowledge, from climate misinformation to cognition.
 - **Geocinema** (1) — Artist collective. Collective founded by Asia Bazdyrieva and Solveig Suess (with Alexey Orlov in early projects) that treats planetary sensing networks as one distributed camera. https://geocinema.network
 - **George E. Lewis** (1) — Composer, trombonist and scholar; Professor, Columbia University. American composer and AACM member who has made interactive computer music since the late 1970s. https://music.columbia.edu/bios/george-e-lewis
+- **Geumhyung Jeong** (1) — Choreographer and artist. Korean artist (b. 1980, Seoul) trained in choreography who performs with self-built remote-controlled robots, mannequin parts, exercise machines and medical dummies; her robots were shown in The Milk of Dreams at the 2022 Venice Biennale.
 - **Giacomo Miceli** (1) — Artist and software engineer. Italian artist and engineer who builds web works with synthetic voices and generative text. https://www.infiniteconversation.com/
 - **Gideon Obarzanek** (1) — Choreographer; founder of Chunky Move. Australian choreographer who founded Chunky Move in 1995 and made interactive-video dance works with Frieder Weiss. https://chunkymove.com.au/
 - **Gilbert Simondon** (1) — Philosopher (1924–1989). French philosopher of individuation and technology whose 1958 thesis described how technical objects evolve and form milieus with humans.
@@ -9174,6 +10399,7 @@ Writing on robot art, AI art and machine images.
 - **Google DeepMind** (1) — AI research lab. AI lab founded in London in 2010 and acquired by Google in 2014; creator of AlphaGo. https://deepmind.google/
 - **Gordon Pask** (1) — Cybernetician, inventor and theorist of conversation. British cybernetician (1928–1996) who built learning and 'conversational' machines, from Musicolour (1953) to the Colloquy of Mobiles (1968).
 - **Graham Dove** (1) — HCI researcher. British HCI researcher whose work concerns design with data and machine learning. https://doi.org/10.1145/3025453.3025739
+- **Hagit Keysar** (1) — Researcher and activist; senior lecturer, Bezalel Academy of Art and Design. Jerusalem-based researcher and activist who studies the political uses of open-source, community-made aerial imaging (kites, balloons, DIY drones) in spaces of conflict. https://cargocollective.com/hagitkeysar
 - **Halsey Burgund** (1) — Sound artist and technologist. American sound artist who makes participatory audio works with location and speech technology. https://halseyburgund.com/
 - **Hans Block** (1) — Director and theatre maker. German director who works with Moritz Riesewieck on films and plays about digital power. https://en.wikipedia.org/wiki/The_Cleaners_(2018_film)
 - **Hans Block & Moritz Riesewieck** (1) — Documentary directors (Laokoon). German director duo who made The Cleaners (2018), on content moderators, and Eternal You (2024), on the digital afterlife industry. https://en.wikipedia.org/wiki/Eternal_You
@@ -9183,19 +10409,24 @@ Writing on robot art, AI art and machine images.
 - **Hasan Elahi** (1) — Artist; Professor, George Mason University. Bangladeshi-American artist who, after being mistakenly placed on a US terrorist watch list, began tracking and publishing his own life. https://en.wikipedia.org/wiki/Hasan_Elahi
 - **Heather Knight** (1) — Roboticist; Assistant Professor, Oregon State University (CHARISMA Lab). Social roboticist who founded Marilyn Monrobot and uses theatre and comedy to study robot expression. https://www.marilynmonrobot.com/
 - **Helena Nikonole** (1) — Artist and curator. Helena Nikonole is a new-media artist working with AI, bio art and DIY biotechnology. https://nikonole.com/
+- **Hisashi Ishihara** (1) — Robotics researcher, Osaka University. Japanese roboticist who designs soft, pneumatically driven android faces and bodies, including the child android Affetto.
+- **Hsu Chia-Wei** (1) — Artist, filmmaker and curator. Taiwanese artist (b. 1983, Taichung) whose films and installations dig into the political and industrial histories behind images, from Cold War sites to the materials of digital technology; he won the Eye Art & Film Prize in 2024.
 - **Huang Yi** (1) — Choreographer, dancer and inventor. Taiwanese choreographer who programs industrial robots himself and founded Huang Yi Studio +. https://huangyistudio.com/
 - **Hubert Dreyfus** (1) — Philosopher; Professor, UC Berkeley (1929–2017). American philosopher who used Heidegger and Merleau-Ponty to argue that symbolic AI could not capture embodied, situated know-how.
 - **Hugh Herr** (1) — Biophysicist; head of the Biomechatronics group, MIT Media Lab. Climber and engineer who lost both lower legs in 1982 and now designs powered bionic limbs. https://www.media.mit.edu/people/hherr/overview/
 - **Human Computer Integration Lab (University of Chicago)** (1) — HCI lab led by Pedro Lopes. Lab that builds devices integrating computers with the body, from muscle stimulation to wearable jammers. https://lab.plopes.org/
 - **Humanising Autonomy (Maya Pindeus, Leslie Nooteboom, Raunaq Bose, Adam Bernstein)** (1) — Design team from the RCA/Imperial Innovation Design Engineering programme, later a London start-up. Four graduate designers who built Blink, a two-way signalling interface between pedestrians and autonomous vehicles, and then founded a company on pedestrian-behaviour AI.
+- **Hyphen-Labs** (1) — Design and art studio led by Ece Tankal and Carmen Aguilar y Wedge. Studio founded in 2015 by architect Ece Tankal and engineer Carmen Aguilar y Wedge after they met at IaaC in Barcelona; it works across architecture, VR, product design and installation. https://hyphen-labs.com/
 - **Ian Bogost** (1) — Game designer and philosopher; Professor, Washington University in St. Louis. American game designer and object-oriented philosopher, author of Persuasive Games (2007) and Alien Phenomenology (2012).
 - **Intuition Robotics** (1) — Company making the ElliQ companion robot. Israeli company founded in 2016 that develops proactive AI companions for older adults; ElliQ was designed with Yves Béhar's fuseproject. https://elliq.com
 - **Iohanna Nicenboim** (1) — Designer and researcher, TU Delft; works on more-than-human design and AI. Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them. https://iohanna.com/
 - **Iris Long** (1) — Artist, curator and researcher. Chinese artist and curator working on data, machine perception and the politics of algorithms.
 - **Isa Willinger** (1) — Documentary director and author. German documentary filmmaker (born 1980). Her debut Hi, AI (2019) won the Max Ophüls Prize for best documentary. https://en.wikipedia.org/wiki/Isa_Willinger
+- **Isao Echizen** (1) — Professor, National Institute of Informatics (NII), Tokyo. Japanese computer scientist working on multimedia security, privacy protection and deepfake detection. https://research.nii.ac.jp/~iechizen/official/index-e.html
 - **Ivan Henriques** (1) — Artist. Brazilian artist who builds hybrid machines that connect plants, microbes and robotics.
+- **Iyo Bisseck** (1) — Media artist, interaction designer and programmer; PhD candidate, Academy of Fine Arts Vienna. French-Cameroonian media artist and programmer whose games, installations and online platforms examine archives, bias in computer vision and colonial continuities in digital media; active in the collective Dreaming Beyond AI. https://iyo.io/
 - **J. C. R. Licklider** (1) — Psychologist and computer scientist (1915–1990). Psychoacoustician at MIT and BBN who, as head of ARPA's Information Processing Techniques Office, funded interactive computing and the networks that led to the internet.
-- **Jack Burnham** (1) — Art critic and theorist (1931–2019). American critic and Northwestern University professor who wrote "Systems Esthetics" (Artforum, 1968) and curated Software (Jewish Museum, 1970).
+- **Jaap Blonk** (1) — Sound poet, composer and vocal performer. Dutch sound poet and vocal improviser, known since the 1980s for performances of Dada sound poetry and his own invented vocal languages. http://www.jaapblonk.com/
 - **Jacques de Vaucanson** (1) — Inventor and automaton maker. French inventor (1709–1782) of lifelike automata and of an automated loom.
 - **Jaha Koo** (1) — Theatre-maker, composer and video artist. South Korean theatre-maker whose documentary performances combine music, video, autobiography and technological objects. https://en.wikipedia.org/wiki/Jaha_Koo
 - **Jake Schreier** (1) — Film director. American director of music videos and films; Robot & Frank (2012) was his feature debut. https://en.wikipedia.org/wiki/Jake_Schreier
@@ -9205,6 +10436,7 @@ Writing on robot art, AI art and machine images.
 - **Jasia Reichardt** (1) — Curator and writer; former Assistant Director, Institute of Contemporary Arts, London. Polish-born British curator who organised Cybernetic Serendipity (ICA, 1968) and wrote Robots: Fact, Fiction and Prediction (1978).
 - **Jason Rohrer** (1) — Game designer and programmer. American independent game designer known for art games such as Passage (2007) and The Castle Doctrine, and for the chatbot service Project December. https://projectdecember.net/
 - **Jed Berk** (1) — Artist and designer. American artist known for Autonomous Light Air Vessels, small blimp robots that flock, avoid obstacles and seek company.
+- **Jed R. Brubaker** (1) — Associate Professor of Information Science, University of Colorado Boulder. Researcher of identity, death and technology who has studied for over a decade what happens to people's data and social media accounts after they die, including work with Facebook on memorialised accounts. https://www.colorado.edu/cmci/people/information-science/jed-brubaker
 - **Jeff Sebo** (1) — Philosopher; director, NYU Center for Mind, Ethics, and Policy. American philosopher working on animal and AI ethics and the moral status of non-human minds. https://jeffsebo.net/
 - **Jem Finer** (1) — Musician and artist. British musician (founding member of The Pogues) and artist working with long durations and deep time. https://longplayer.org/
 - **Jemima Wyman** (1) — Artist. Australian artist whose work on camouflage, masks and collective protest images spans painting, textiles and video. https://www.jemimawyman.com/
@@ -9225,14 +10457,16 @@ Writing on robot art, AI art and machine images.
 - **Jon Rafman** (1) — Artist and filmmaker. Canadian artist working with video, installation and found internet imagery. https://jonrafman.com
 - **Jonas Simmerlein** (1) — Theologian and philosopher, University of Vienna. Theologian and lecturer in homiletics at the University of Vienna; he designed a Protestant service written mostly by ChatGPT for the 2023 German Protestant Kirchentag.
 - **Jonas Voigt** (1) — Designer. German designer, co-author of Raising Robotic Natives with Stephan Bogner and Philipp Schmitt.
+- **Jonathan Chaim Reus** (1) — Artist and musician; voice, instruments and AI. American-Dutch artist and musician who builds experimental instruments and works with voice data and machine learning, including the real-time AI voice instrument Tungnaá made at the Intelligent Instruments Lab in Iceland. https://jonathanreus.com/
+- **Jonathan Nolan & Lisa Joy** (1) — Screenwriters, producers and showrunners (Kilter Films). Writing and producing partners who created and ran HBO's Westworld (2016–2022); Nolan earlier created the surveillance-AI drama Person of Interest (2011–2016).
 - **Joon Sung Park** (1) — Computer scientist, Stanford HCI Group. HCI researcher who led the Generative Agents project on LLM-driven simulations of human behaviour. https://www.joonsungpark.com/
 - **Joseph Sargent** (1) — Film and television director (1925–2014). American director of film and television, including Colossus: The Forbin Project. https://en.wikipedia.org/wiki/Joseph_Sargent
+- **Joseph Wilk** (1) — Artist and programmer. London-born disabled artist and programmer who uses the digital to explore disability and disability to explore the digital, through live coding, performance and games. https://art.josephwilk.net/
 - **Josh Begley** (1) — Artist and filmmaker. American data artist and filmmaker whose work maps US drone strikes, prisons and policing. https://joshbegley.com/
 - **Jules LaPlace** (1) — Artist and software developer. Artist and programmer who built the website and search engine of MegaPixels and Exposing.ai with Adam Harvey.
 - **Julia Vollmer** (1) — Artist and designer. German artist and designer who makes the physical and energy costs of digital systems perceptible through material installations. https://juliavollmer.de
 - **Julian Charrière** (1) — Artist. Swiss-French artist whose sculptures, films and expeditions deal with geology, extraction and deep time. https://julian-charriere.net/
 - **Julie Carpenter** (1) — Researcher in human–robot interaction. American researcher who studies how people form attachments to robots and AI, starting from her 2013 University of Washington study of bomb-disposal teams. https://jgcarpenter.com/
-- **Julien Prévieux** (1) — Artist; Prix Marcel Duchamp 2014. Julien Prévieux is a French artist whose films, performances and drawings examine how bodies and gestures are measured, patented and optimised by technical systems. https://www.previeux.net
 - **Julius Popp** (1) — Artist. German artist (born 1973) who builds machines about information and self-organisation, best known for bit.fall.
 - **Justine Emard** (1) — Visual artist working with neuroscience, robotics and machine learning. French artist who combines photography, video, robotics and AI; her works draw on data from bees, brains and androids. https://justineemard.com
 - **K Allado-McDowell** (1) — Writer, musician; founder of Artists + Machine Intelligence at Google. Writer and artist who co-wrote several books with large language models and ran Google's Artists + Machine Intelligence programme. https://www.kalladomcdowell.com/
@@ -9240,15 +10474,20 @@ Writing on robot art, AI art and machine images.
 - **Kai-Fu Lee** (1) — Computer scientist and investor; founder, Sinovation Ventures. Taiwan-born computer scientist, former head of Google China and author of AI Superpowers.
 - **KairUs** (1) — Artist duo (Linda Kronman and Andreas Zingerle). Artist duo researching surveillance, smart cities and the hidden labour of machine vision. https://kairus.org
 - **Karel Čapek** (1) — Writer and playwright (1890–1938). Czech writer whose play R.U.R. introduced the word 'robot', suggested by his brother Josef. https://en.wikipedia.org/wiki/Karel_%C4%8Capek
+- **Karen Hao** (1) — Journalist; former senior AI editor, MIT Technology Review. Investigative journalist who has reported on AI for MIT Technology Review, The Wall Street Journal and The Atlantic, covering OpenAI, data labour and AI's environmental footprint. https://karendhao.com/
 - **Karolina Sobecka** (1) — Artist. Polish-born artist working with interaction, animation and environmental systems.
 - **Katarzyna Nowaczyk-Basińska** (1) — Research Fellow, Leverhulme Centre for the Future of Intelligence, University of Cambridge. Researcher of digital immortality and the cultural practices around death and technology. https://www.lcfi.ac.uk/
+- **Kate Bertash** (1) — Technologist, artist and privacy organiser. American technologist working across tech, privacy, art and organising; runs a digital security fund for autonomy and democracy movement organisations. https://katebertash.com/
 - **Kathleen Richardson** (1) — Professor of Ethics and Culture of Robots and AI, De Montfort University. British anthropologist of robotics who founded the Campaign Against Sex Robots in 2015. https://campaignagainstsexrobots.org/
 - **Katja Novitskova** (1) — Artist. Estonian artist whose sculptures and images deal with how technology, imaging and biology render life; she represented Estonia at the 2017 Venice Biennale. https://www.katjanovitskova.com
 - **Kazuhiko Hachiya** (1) — Artist; Professor, Tokyo University of the Arts. Media artist known for Inter Dis-Communication Machine, the email pet software PostPet and the OpenSky glider project. https://www.ntticc.or.jp/en/archive/works/inter-dis-communication-machine/
+- **Kazuo Ishiguro** (1) — Novelist; Nobel Prize in Literature 2017. British novelist born in Nagasaki in 1954, author of The Remains of the Day and Never Let Me Go; awarded the Nobel Prize in Literature in 2017.
 - **Keiichi Matsuda** (1) — Designer and filmmaker. British-Japanese designer and filmmaker whose films imagine cities saturated with augmented reality. http://km.cx
 - **Kelly Heaton** (1) — Artist. American artist who made pelts from gutted electronic toys and later 'electronic naturalism' circuits.
 - **Kenneth Colby** (1) — Psychiatrist and AI researcher, Stanford University and UCLA (1920–2001). American psychiatrist who built computer models of neurosis and paranoia and wrote the chatbot PARRY. https://en.wikipedia.org/wiki/Kenneth_Colby
+- **Kerstin Dautenhahn** (1) — Roboticist; Professor and Canada 150 Research Chair in Intelligent Robotics, University of Waterloo. German-born researcher in social robotics who led the Adaptive Systems Research Group at the University of Hertfordshire, where the KASPAR robot was developed from 2005, before moving to the University of Waterloo.
 - **Kevin Eykholt** (1) — Computer security researcher (PhD, University of Michigan). Security researcher who, at the University of Michigan, was first author of the study on stickers that make classifiers misread stop signs.
+- **Kevin Roose** (1) — Technology columnist, The New York Times. American journalist who writes about technology for The New York Times and co-hosts the podcast Hard Fork; author of Futureproof (2021).
 - **Kevin Warwick** (1) — Cybernetics researcher; Emeritus Professor, Coventry and Reading Universities. British engineer who had an RFID chip (1998) and then a neural electrode array (2002) implanted to connect his nervous system to computers. https://en.wikipedia.org/wiki/Kevin_Warwick
 - **Kim Jee-woon** (1) — Film director and screenwriter. South Korean director of genre films including A Tale of Two Sisters and I Saw the Devil. https://en.wikipedia.org/wiki/Kim_Jee-woon
 - **Kim Tae-yong** (1) — Film director. South Korean director of Late Autumn and Wonderland. https://en.wikipedia.org/wiki/Kim_Tae-yong
@@ -9263,9 +10502,10 @@ Writing on robot art, AI art and machine images.
 - **L.A. Raeven** (1) — Artist duo (twin sisters Liesbeth and Angelique Raeven). Dutch twin sisters whose installations and performances examine body norms, likeness and identity.
 - **Laetitia Sonami** (1) — Sound artist and composer. French-born composer known for performing electronic music with the Lady's Glove and later a machine-learning instrument. https://sonami.net/
 - **Lancel & Maat** (1) — Artist duo (Karen Lancel and Hermen Maat). Dutch duo making participatory installations about touch, trust and presence in networked and surveilled spaces. https://lancelmaat.nl
+- **Lau Wai** (1) — Multidisciplinary artist (CGI animation, games). Hong Kong artist who makes CGI films, games and interactive works about digital doubles; alum of the Artists Alliance Inc. LES Studio Program in New York (2022–23). https://w-a-i-studio.com/
 - **Laura Kikauka** (1) — Artist and maker of kinetic environments. Canadian artist known for dense, humorous environments of found electronics and her Funny Farm studio.
+- **Laura Poitras** (1) — Documentary filmmaker and artist. American director and producer of documentary films; Citizenfour won the 2015 Academy Award for Best Documentary Feature, and the NSA reporting Poitras worked on shared the 2014 Pulitzer Prize for Public Service. https://en.wikipedia.org/wiki/Laura_Poitras
 - **Lauren F. Klein** (1) — Professor of English and Quantitative Theory & Methods, Emory University. Digital humanities scholar of data visualisation, early American literature and feminist data science.
-- **Laurie Anderson** (1) — Artist, musician and performer. American artist known for voice filters, electronic instruments and multimedia performance since the 1970s. https://laurieanderson.com/
 - **Leandro Núñez** (1) — Artist (Leo Núñez). Argentine artist working with robotics, artificial life and generative systems. https://www.leonunez.com.ar/
 - **Lee Bul** (1) — Artist. Korean artist working across performance, sculpture and installation; her work addresses technology, gender, utopia and the body. https://en.wikipedia.org/wiki/Lee_Bul
 - **Leo Selvaggio** (1) — Interdisciplinary artist. Chicago-based interdisciplinary artist (Leonardo Selvaggio) whose projects on surveillance ask the public to wear, perform or hack his identity. https://www.leoselvaggio.com
@@ -9287,6 +10527,7 @@ Writing on robot art, AI art and machine images.
 - **M. Six Silberman** (1) — Researcher on platform work. American researcher who co-created Turkopticon and later worked with the German metalworkers' union IG Metall on platform work. https://turkopticon.info/
 - **MBC (Munhwa Broadcasting Corporation)** (1) — Korean public broadcaster. South Korean broadcaster that produced the VR documentary series Meeting You (2020–). https://www.imbc.com/
 - **Mahmood Sharif** (1) — Computer security researcher; Tel Aviv University (PhD, Carnegie Mellon University). Security and machine-learning researcher who, as a PhD student at Carnegie Mellon, led the study showing that printed eyeglass frames can fool face recognition.
+- **Malpractice (Chiara Kristler & Marcin Ratajczyk)** (1) — Artist collective; Digital Arts students, University of Applied Arts Vienna. Polish-Austrian-Italian collective of Chiara Kristler and Marcin Ratajczyk plus a shifting ensemble of AI counterparts, formed in the Digital Arts class of UBERMORGEN at the University of Applied Arts Vienna. https://i-am-flynn.web.app/
 - **Mamoru Oshii** (1) — Film director. Director of the animated film Ghost in the Shell (1995), adapted from Masamune Shirow's manga.
 - **Manetta Berends** (1) — Designer and researcher. Dutch designer and researcher working with free software, publishing and machine-learning literacy.
 - **Manu Luksch** (1) — Artist and filmmaker. Austrian-born artist and filmmaker who works on surveillance, data rights and networked media. https://manuluksch.com/
@@ -9305,15 +10546,15 @@ Writing on robot art, AI art and machine images.
 - **Marvin Minsky** (1) — Computer scientist; co-founder of the MIT AI Lab (1927–2016). AI pioneer who co-organised the 1956 Dartmouth workshop, co-founded the MIT AI Lab and wrote The Society of Mind (1986).
 - **Mary Flanagan** (1) — Artist and game designer; Professor, Dartmouth College. Mary Flanagan makes software art, installations and games, and directs the Tiltfactor game lab at Dartmouth. http://maryflanagan.com
 - **Mary L. Gray** (1) — Senior Principal Researcher, Microsoft Research; Faculty, Indiana University. Anthropologist of media and labour and 2020 MacArthur Fellow who studies on-demand platform work.
+- **Masahiko Inami** (1) — Professor, RCAST, University of Tokyo; director, JST ERATO Inami JIZAI Body Project. Japanese engineer known for optical camouflage and augmented-human research, who now studies how bodies can be freely extended, shared and remapped.
 - **Masahiro Miwa** (1) — Composer; Professor, IAMAS. Japanese composer known for 'reverse simulation music', in which performers or machines execute algorithms as musical rules.
 - **Masakhane** (1) — Grassroots research community for African-language NLP. Volunteer network of African researchers building datasets and models for African languages. https://www.masakhane.io/
 - **Matt Donovan** (1) — Artist. Canadian artist and engineer who co-developed The Robotic Chair with Max Dean and Raffaello D'Andrea.
 - **Matt Richardson** (1) — Technologist and maker; formerly NYU ITP. Matt Richardson is a creative technologist and author of books on Raspberry Pi and Arduino; he made the Descriptive Camera as a student at NYU's Interactive Telecommunications Program.
 - **Matt Schlicht** (1) — Entrepreneur. American entrepreneur who launched Moltbook, a forum for AI agents, in January 2026. https://www.moltbook.com/
-- **Matteo Pasquinelli** (1) — Associate Professor of Philosophy of Science, Ca' Foscari University of Venice. Italian philosopher who leads the ERC project AIMODELS on the history of AI; his The Eye of the Master won the 2024 Deutscher Memorial Prize.
 - **Max Dean** (1) — Artist. Max Dean is a British-born Canadian artist known for interactive and robotic works that implicate the viewer.
-- **Max Dovey** (1) — Artist and researcher. British artist whose performances put people in the position of being classified by, or working for, machine-learning systems. https://www.maxdovey.com
 - **Maywa Denki** (1) — Art unit run as a fake electrical-appliance company (Nobumichi Tosa). Art unit founded in 1993 by the Tosa brothers that builds absurd musical machines and presents them as company products. https://www.maywadenki.com/
+- **Meredith Ringel Morris** (1) — Director for Human-AI Interaction Research, Google DeepMind. HCI researcher who has worked on accessibility, social computing and human–AI interaction at Microsoft Research and Google; ACM Fellow and member of the CHI Academy. https://en.wikipedia.org/wiki/Meredith_Ringel_Morris
 - **Merritt Moore** (1) — Ballet dancer and quantum physicist. American dancer with a DPhil in atomic and laser physics from Oxford who choreographs duets with industrial robot arms. https://www.merrittmoore.com/
 - **Michael Almereyda** (1) — Film director and screenwriter. American independent filmmaker; he adapted Jordan Harrison's play Marjorie Prime for the screen in 2017. https://en.wikipedia.org/wiki/Michael_Almereyda
 - **Michael Eisen** (1) — Biologist, UC Berkeley; open-science advocate. American computational biologist and co-founder of the Public Library of Science (PLOS). https://www.michaeleisen.org/blog/
@@ -9326,7 +10567,10 @@ Writing on robot art, AI art and machine images.
 - **Michio Okada** (1) — Professor, Toyohashi University of Technology (ICD Lab). Cognitive scientist and roboticist who proposed 'weak robots' (yowai robotto): robots that need people's help to complete their tasks.
 - **Microsoft XiaoIce team** (1) — Social chatbot team, Microsoft (Asia) STCA; later spun off as Xiaoice. Team that launched XiaoIce in China in 2014, a chatbot designed as an empathetic companion rather than a task assistant.
 - **Milagros Miceli** (1) — Sociologist and computer scientist; DAIR Institute and Weizenbaum Institute. Argentine researcher who studies the work of data annotators and content moderators in the Global South. https://www.weizenbaum-institut.de/en/
+- **Milo Talwani** (1) — Filmmaker, composer and creative technologist. Los Angeles-based filmmaker, composer and creative technologist; formerly associate programmer for the New Frontier section of the Sundance Film Festival.
 - **Minne Atairu** (1) — Interdisciplinary artist. Nigerian-born artist who uses generative AI to explore gaps in the archive of Benin art after the 1897 British raid. https://minneatairu.com/
+- **Minoru Asada** (1) — Roboticist, Osaka University. Japanese roboticist who founded cognitive developmental robotics and co-founded RoboCup.
+- **Minyoung Huh** (1) — Machine learning researcher; PhD, MIT CSAIL. Studies how deep networks learn representations of images and language, working with Phillip Isola at MIT. https://minyoungg.github.io/me/
 - **Molleindustria** (1) — Independent game studio of Paolo Pedercini. Italian-founded studio making short political video games about labour, war and technology. https://www.molleindustria.org
 - **Monika Fleischmann** (1) — Media artist and researcher; co-founder of ART+COM. German media-art pioneer who, with Wolfgang Strauss, built early interactive installations and led research at GMD / Fraunhofer (MARS lab).
 - **Moon Ribas** (1) — Cyborg artist and choreographer; co-founder of the Cyborg Foundation. Dancer who feels earthquakes worldwide through online seismic sensors implanted in her body. https://www.moonribas.com/
@@ -9335,6 +10579,7 @@ Writing on robot art, AI art and machine images.
 - **Mushon Zer-Aviv** (1) — Designer, researcher and media activist. Mushon Zer-Aviv is a designer, educator and media activist who works on data, surveillance and algorithmic bias. https://mushon.com
 - **Myron Krueger** (1) — Computer artist and researcher. American computer artist (b. 1942) who built responsive environments from 1969 and coined the term 'artificial reality'. https://en.wikipedia.org/wiki/Myron_W._Krueger
 - **NASA Jet Propulsion Laboratory** (1) — NASA research centre for robotic space exploration. NASA's centre for robotic planetary missions; it built and operated the Mars Exploration Rovers Spirit and Opportunity. https://www.jpl.nasa.gov/
+- **Nadine Lessio** (1) — New media artist and researcher. Canadian artist and researcher who builds bots, game peripherals and connected-home devices that misbehave, to examine how technical ecosystems shape everyday life. https://www.nadinelessio.com/
 - **Nathaniel Rochester** (1) — Computer engineer, IBM (1919–2001). Chief architect of the IBM 701, IBM's first commercial scientific computer, and an early simulator of neural networks.
 - **Nazli Cila** (1) — Assistant professor, TU Delft. Design researcher working on human-agent partnerships and more-than-human design. https://nazlicila.com/
 - **Near Future Laboratory** (1) — Design fiction studio (Julian Bleecker, Nick Foster, Fabien Girardin, Nicolas Nova). Studio that popularised design fiction, making props and documents from ordinary near futures. https://nearfuturelaboratory.com/
@@ -9345,9 +10590,7 @@ Writing on robot art, AI art and machine images.
 - **Nicolas Schöffer** (1) — Artist, pioneer of cybernetic art. Hungarian-born French artist (1912–1992) who developed 'spatiodynamic' and cybernetic sculpture from the 1950s.
 - **Nissei Eco** (1) — Funeral-industry and plastics company. Japanese company that programmed SoftBank's Pepper robot to chant Buddhist sutras at funerals in 2017.
 - **Nora Al-Badri** (1) — Multi-disciplinary artist. German-Iraqi artist whose work on 'technoheritage' questions museum ownership of non-European artefacts and their data. https://www.nora-al-badri.de/
-- **Norbert Wiener** (1) — Mathematician; founder of cybernetics (1894–1964). MIT mathematician who named the science of control and communication in animals and machines in 1948, and later warned about automation's social effects.
 - **ORLAN** (1) — Artist working with performance, surgery, biotechnology and robotics. French artist known for her surgery-performances of the 1990s and later work with cell culture, avatars and robots. https://www.orlan.eu
-- **OpenAI** (1) — AI research company. AI company founded in 2015, developer of GPT models and ChatGPT. https://openai.com/
 - **Ory Laboratory** (1) — Robotics company founded by Kentaro Yoshifuji. Maker of the OriHime avatar robot, which lets people who cannot leave home, including people with ALS, work and be present remotely. https://dawn2021.orylab.com/en/
 - **Osamu Tezuka** (1) — Manga artist and animator. Manga artist (1928–1989) who created Astro Boy (Tetsuwan Atom), serialised from 1952.
 - **Oscar Sharp** (1) — Filmmaker. British filmmaker who directed films scripted by the neural network Benjamin. https://en.wikipedia.org/wiki/Sunspring
@@ -9355,19 +10598,20 @@ Writing on robot art, AI art and machine images.
 - **Pablo Ventura** (1) — Choreographer; director of Ventura Dance Company. Spanish choreographer who has worked with industrial robots, software and machine performers since around 2000. https://www.ventura-dance.com/
 - **Paola Torres Núñez del Prado** (1) — Artist. Paola Torres Núñez del Prado is a Peruvian artist who combines textiles, sound and technology, drawing on Andean knowledge systems. https://www.singingtextiles.com
 - **Pat Metheny** (1) — Jazz guitarist and composer. American guitarist who toured with an orchestra of mechanically played acoustic instruments. https://www.patmetheny.com/
+- **Patrick Butlin** (1) — Philosopher; Senior Research Lead, Eleos AI. Philosopher with a PhD from King's College London who works on AI consciousness, agency and moral patienthood; he previously worked at the Future of Humanity Institute and the Global Priorities Institute in Oxford.
 - **Paul Sermon** (1) — Artist; Professor of Visual Communication, University of Brighton. British artist who has made telematic installations joining remote bodies in shared video spaces since 1991. https://www.paulsermon.org/
 - **Paul Vanouse** (1) — Artist; Professor, University at Buffalo. American artist who works with biotechnology to question scientific authority, identity and labour. https://www.paulvanouse.com/
 - **Paul Virilio** (1) — Cultural theorist and urbanist (1932–2018). French theorist of speed, war and perception, author of Speed and Politics (1977) and War and Cinema (1984).
 - **Pedro Lopes** (1) — Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab. Pedro Lopes studies devices that integrate with the user's body, such as electrical muscle stimulation that moves the wearer's limbs. https://plopes.org
 - **Pedro Oliveira** (1) — Sound artist and researcher; guest faculty, Sound Studies and Sonic Arts, Universität der Künste Berlin. Brazilian sound artist and researcher (born 1985, São Paulo) whose work examines how listening shapes and is shaped by technical infrastructures, focusing on voice and migration; founding member of Decolonising Design. https://oliveira.work/
 - **Peng! Collective** (1) — Activist art collective. Berlin collective that combines culture jamming, hacking and civil disobedience. https://pen.gg
+- **Peter Sillen** (1) — Documentary filmmaker. American documentary director and cinematographer; Love Machina (2024) premiered in the U.S. Documentary Competition at Sundance. https://www.lovemachinamovie.com/
 - **Peter-Paul Verbeek** (1) — Philosopher of technology; Rector Magnificus, University of Amsterdam. Dutch philosopher who developed the theory of technological mediation in What Things Do (2005) and Moralizing Technology (2011).
 - **Peterskapelle Lucerne & HSLU Immersive Realities Research Lab** (1) — Catholic chapel and university research lab. St. Peter's Chapel in Lucerne and the Immersive Realities Research Lab of the Lucerne University of Applied Sciences and Arts, who staged the AI Jesus installation Deus in Machina in 2024. https://www.peterskapelle.ch/
-- **Petra Gemeinboeck** (1) — Artist and researcher in human–robot movement; Swinburne University of Technology. Austrian-Australian artist who develops robot bodies and movement with dancers, often with Rob Saunders.
 - **Phil D. Hall** (1) — Conversational AI designer; co-creator of I Am Echoborg. Chatbot designer who writes the conversational agent behind I Am Echoborg. https://echoborg.com/
 - **Philip Beesley** (1) — Architect and artist; professor at the University of Waterloo; director of the Living Architecture Systems Group. Philip Beesley builds immersive responsive environments that behave like near-living systems. https://www.philipbeesleystudioinc.com
 - **Philip van Allen** (1) — Professor, ArtCenter College of Design. American interaction designer who builds animistic prototypes and toolkits for designing with AI. https://www.philvanallen.com/
-- **Philippe Parreno** (1) — Artist. French artist who stages exhibitions as automated, time-based systems driven by sensors and computers. https://en.wikipedia.org/wiki/Philippe_Parreno
+- **Phillip Isola** (1) — Associate Professor, MIT EECS and CSAIL. Computer vision and machine learning researcher known for pix2pix image-to-image translation and for work on how neural networks represent the world. https://web.mit.edu/phillipi/
 - **Pierre Jaquet-Droz** (1) — Watchmaker and automaton maker. Swiss watchmaker (1721–1790) who with his son Henri-Louis and Jean-Frédéric Leschot built the Writer, the Draughtsman and the Musician.
 - **Piotr Mirowski** (1) — AI researcher and improviser; co-founder of Improbotics. Research scientist in machine learning who performs improvised theatre with AI systems. https://improbotics.org/
 - **Pipeline Theatre** (1) — Theatre company. British theatre company that made Spillikin with the humanoid robot company Engineered Arts. https://www.pipelinetheatre.com/
@@ -9378,46 +10622,61 @@ Writing on robot art, AI art and machine images.
 - **Qian Yang** (1) — Assistant professor of information science, Cornell University. HCI researcher who studies how to design human-AI interaction, with a focus on healthcare.
 - **Quantic Dream** (1) — Video game developer. French studio known for performance-captured interactive dramas such as Heavy Rain and Detroit: Become Human. https://www.quanticdream.com/
 - **Rachel Ara** (1) — Conceptual and data artist. London artist who worked 25 years as a computer systems designer before making neon and data sculptures about value, gender and tech.
+- **Rachel Szor** (1) — Filmmaker and cinematographer. Israeli filmmaker and cinematographer, one of the four co-directors of No Other Land (2024), filmed in Masafer Yatta in the occupied West Bank.
 - **Radamés Ajna** (1) — Artist and technologist. Brazilian artist and technologist working with electronics, networks and machine learning.
 - **Radhika Nagpal** (1) — Computer scientist; professor, Princeton University (formerly Harvard). Indian-American roboticist who studies collective intelligence in robot swarms and social insects.
 - **Raffaello D'Andrea** (1) — Roboticist; Professor, ETH Zurich; co-founder of Kiva Systems. Canadian-Italian engineer known for autonomous systems, from Kiva warehouse robots to flying machines, and for art collaborations with Max Dean.
+- **Raphaël Dallaporta** (1) — Artist and photographer. French artist-photographer known for a catalogue of anti-personnel landmines (Antipersonnel, 2004) and for drone-made aerial surveys of archaeological sites in Afghanistan (Ruins, 2011). https://www.raphaeldallaporta.com
 - **Rashaad Newsome** (1) — Artist. American artist working in collage, performance, film and AI, drawing on Black and queer culture such as ballroom and vogue. https://rashaadnewsome.com/
 - **Rebecca Fiebrink** (1) — Professor, UAL Creative Computing Institute. American computer scientist and musician who develops interactive machine learning tools for artists. http://www.wekinator.org/
+- **Rejane Cantoni & Leonardo Crescenti** (1) — Artist duo. Brazilian artist duo who build large interactive installations, such as Infinito ao Cubo, TUNNEL and SOIL, in which floors, walls and objects respond to visitors' bodies and voices. https://www.cantoni-crescenti.com.br/
+- **Renwen Zhang** (1) — Assistant Professor, Wee Kim Wee School of Communication and Information, Nanyang Technological University. Communication and HCI researcher who studies and designs technologies for human connection and well-being, with a focus on conversational AI and mental health. https://www.renwenzhang.com/
 - **Renwu magazine** (1) — Magazine (reporter Lai Youxuan). Chinese feature magazine whose 2020 investigation into food-delivery riders became one of the most-read Chinese articles of the year.
 - **Revital Cohen** (1) — Artist and designer (Cohen Van Balen). Israeli-born London artist who works with medical devices, animals and supply chains, often with Tuur Van Balen. https://www.cohenvanbalen.com/
 - **Richard Mosse** (1) — Artist and photographer. Irish artist who uses military and scientific imaging technologies, such as infrared film and thermal cameras, to document conflict and migration. https://www.richardmosse.com
 - **Ridley Scott** (1) — Film director. British director of Alien and Blade Runner. https://en.wikipedia.org/wiki/Ridley_Scott
 - **Rik Lander** (1) — Artist and writer; co-creator of I Am Echoborg. British interactive storyteller who makes participatory works about AI. https://echoborg.com/
 - **Rimini Protokoll** (1) — Theatre collective (Helgard Haug, Stefan Kaegi, Daniel Wetzel). German-Swiss collective known for documentary theatre with 'experts of the everyday' instead of actors. https://www.rimini-protokoll.de/
-- **Rob Saunders** (1) — Computational creativity researcher; Leiden University. British researcher in computational creativity and curious agents, long-time collaborator of Petra Gemeinboeck.
 - **Robert Breer** (1) — Experimental filmmaker and kinetic sculptor. American experimental filmmaker and sculptor (1926–2011) who made slowly creeping motorised 'Floats' from the mid-1960s.
-- **Robert Long** (1) — Philosopher; executive director, Eleos AI. Philosopher working on AI consciousness, sentience and moral status. https://eleosai.org/
+- **Robert Schnüll** (1) — Artist and researcher in digital infrastructure; teaches at the Free University of Bozen-Bolzano. Berlin-based artist working on digital infrastructure, technology criticism and computational ecology; founded the Lab for Digital Infrastructure at the Berlin University of the Arts (2020–2024). https://brute-force.it
 - **Robert Sparrow** (1) — Professor of Philosophy, Monash University. Australian philosopher who writes on the ethics of robots, military AI, aged care and human enhancement.
 - **Robert Wood** (1) — Roboticist; professor, Harvard University. American roboticist working on soft and micro robots at Harvard SEAS and the Wyss Institute.
+- **Robert Zhao Renhui** (1) — Artist; founder of the Institute of Critical Zoologists. Singaporean artist (b. 1983) whose photographs, videos and archives question how people observe, classify and manage nature.
 - **Rocio von Jungenfeld** (1) — Artist; Lecturer in Digital Arts, University of Kent. Artist working with site-specific interactive installations, light and electronics.
+- **Rojava Center for Democratic Technologies** (1) — Collective of artists, mechatronics engineers and cultural critics. A fluid group initiated by artist Dani Ploeger at the University of Rojava in Qamishlo in 2022, working in North-East Syria with partners in the Netherlands and Germany. https://error417.expectation.fail/13scoresagainsttechfascism/mij-the-fog/project
 - **Rolf Pfeifer** (1) — Professor Emeritus of Computer Science, University of Zurich; founder of the AI Lab. Swiss roboticist who led embodied-AI research on morphological computation and soft, compliant robot bodies.
 - **Romi Ron Morrison** (1) — Artist and scholar. American interdisciplinary artist and scholar working on Black geographies, data and surveillance.
 - **Rosa Menkman** (1) — Artist and theorist. Dutch artist and theorist of glitch, compression and resolution, author of The Glitch Moment(um) (2011). https://beyondresolution.info
 - **Ruairi Glynn** (1) — Architect and artist; director of the Interactive Architecture Lab, The Bartlett, UCL. Irish-born designer of robotic and responsive architecture. https://www.ruairiglynn.co.uk
 - **Ruben van de Ven** (1) — Artist and researcher. Dutch artist-researcher who examines emotion recognition and the politics of algorithmic seeing. https://rubenvandeven.com
 - **Ruha Benjamin** (1) — Professor of African American Studies, Princeton University. Sociologist who founded the Ida B. Wells Just Data Lab and wrote Race After Technology (2019) and Viral Justice (2022).
+- **Ryan Greenblatt** (1) — Chief Scientist, Redwood Research. AI safety researcher at Redwood Research, a non-profit working on AI control and on detecting deceptive behaviour in AI models. https://www.redwoodresearch.org/
+- **Ryan White** (1) — Documentary film director. American documentary director whose films include The Case Against 8 (2014), The Keepers (2017) and Good Night Oppy (2022).
+- **Ryat Yezbick** (1) — Visual artist; faculty, Arizona State University Narrative and Emerging Media. Visual artist and author working on the body, memory and the politics of witnessing in an era of digital surveillance; former MIT Open Documentary Lab fellow and Onassis ONX Studio fellow. https://ryatyezbick.com
 - **SAND Lab (University of Chicago)** (1) — Security, algorithms and networks lab led by Ben Zhao and Heather Zheng. Research lab that builds defensive tools for individuals against machine learning, such as Glaze and Nightshade. https://sandlab.cs.uchicago.edu/
 - **Safiya Umoja Noble** (1) — Professor of Gender Studies, African American Studies and Information Studies, UCLA. Internet studies scholar, 2021 MacArthur Fellow and founder of the UCLA Center on Race and Digital Justice.
 - **Sam Kriegman** (1) — Roboticist; assistant professor, Northwestern University. American roboticist who designs bodies with evolutionary algorithms; first author of the 2020 xenobot paper.
 - **Sam Lavigne** (1) — Artist and educator. American artist who works with scraping, surveillance tools and machine learning, often turning them back on the powerful. https://lav.io/
+- **Sam and Andy Zuchero** (1) — Filmmaking duo. American writer-director duo known as the Zucheros; Love Me (2024), with Kristen Stewart and Steven Yeun, is their first feature. https://en.wikipedia.org/wiki/Love_Me_(2024_American_film)
 - **Sarah Petkus** (1) — Artist and robot maker. Sarah Petkus is an American artist, illustrator and engineer who builds characterful robots from light metals, 3D-printed parts and found objects. https://www.youtube.com/GravityRoad
 - **Sašo Sedlaček** (1) — Artist. Slovenian artist whose low-tech machines and interventions address waste, poverty and techno-optimism. https://sasosedlacek.com
 - **Scatter Lab** (1) — AI chatbot start-up. Korean start-up behind the chatbot Lee Luda (2020), trained on messenger conversations from its dating-advice apps. https://www.scatterlab.co.kr/
+- **Serena Ge Guo** (1) — Postdoctoral researcher and lecturer, University of Wisconsin–Madison. Designer and HRI researcher (Cornell PhD 2025, Architectural Robotics Lab) who builds robots and spatial interfaces that help strangers in public space connect. https://arl.human.cornell.edu/research-MirrorBot.html
 - **Shalini Kantayya** (1) — Documentary filmmaker; 7th Empire Media. American filmmaker whose documentaries address science, technology and civil rights. https://www.7thempire.com/
+- **Shannon Vallor** (1) — Baillie Gifford Chair in the Ethics of Data and Artificial Intelligence, University of Edinburgh. Philosopher of technology working on virtue ethics and AI; author of Technology and the Virtues (2016) and co-director of the UK BRAID programme on responsible AI. https://www.ed.ac.uk/profile/shannon-vallor
 - **Sherry Turkle** (1) — Abby Rockefeller Mauzé Professor of the Social Studies of Science and Technology, MIT. Sociologist and clinical psychologist who founded the MIT Initiative on Technology and Self, author of The Second Self (1984) and Alone Together (2011). https://sherryturkle.mit.edu
+- **Shin Hanagata** (1) — Artist (performance, media art). Japanese artist (b. 1995, Tokyo) who uses wearables, prostheses and generative AI to 'twist' the human body and its relation to the world; shown at MOT Annual 2023 (Museum of Contemporary Art Tokyo) and Taipei Arts Festival 2023. https://www.shinhanagata.com/
 - **Shing Tat Chung** (1) — Artist and designer. British artist and designer, Royal College of Art graduate, working on belief and irrationality in technological systems.
+- **Shoji Takeuchi** (1) — Professor, Institute of Industrial Science, University of Tokyo; Biohybrid Systems Lab. Engineer who grows muscle tissue and skin on robot skeletons, from muscle-driven fingers and walkers to a living-skin robot face. https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Shuya Abe** (1) — Electrical engineer; Paik's technical collaborator. Japanese engineer (1932–2016) who built Robot K-456 and the Paik–Abe video synthesizer with Nam June Paik.
 - **Siddharth Suri** (1) — Senior Principal Researcher, Microsoft Research. Computational social scientist who studies crowdwork and online labour markets.
 - **Silvia Ruzanka** (1) — Artist and Lecturer, Rensselaer Polytechnic Institute. Silvia Ruzanka is a media artist who makes games and glitch art, including a videogame played by a Venus flytrap.
+- **Simen Thys** (1) — Computer-vision researcher (EAVISE, KU Leuven). Belgian computer-vision researcher who, with Wiebe Van Ranst and Toon Goedemé at KU Leuven's EAVISE group, designed a printed adversarial patch against person detection.
 - **Simon Weckert** (1) — Artist. Berlin-based artist whose performances and installations probe the social effects of digital technologies and platforms. http://www.simonweckert.com
 - **Simone Giertz** (1) — Inventor and YouTuber. Swedish inventor (born 1990) known for deliberately useless 'shitty robots' on YouTube. https://www.simonegiertz.com/
 - **Simone Rebaudengo** (1) — Designer; co-founder of automato.farm. Italian interaction designer who imagines connected products with needs, habits and social lives. http://www.automato.farm/about
 - **Sofian Audry** (1) — Artist; Professor, École des médias, Université du Québec à Montréal. Canadian artist and scholar who makes robotic and machine-learning artworks. https://sofianaudry.com
+- **Sondra Perry** (1) — Artist (video, computer-based media, installation, performance). American interdisciplinary artist whose videos and installations use avatars, blue screens and found footage to examine blackness, Black femininity and representation in digital technology. https://sondraperry.com/
 - **Sonia Kennebeck** (1) — Documentary director and producer. German-American investigative filmmaker. https://nationalbirdfilm.com/
 - **Spike Jonze** (1) — Film director and screenwriter. American director of music videos and feature films, including Being John Malkovich (1999) and Her (2013). https://en.wikipedia.org/wiki/Spike_Jonze
 - **Sputniko! (Hiromi Ozaki)** (1) — Artist and designer; Associate Professor, Tokyo University of the Arts. Speculative designer whose films and devices, such as Menstruation Machine, question technology through gender.
@@ -9429,14 +10688,15 @@ Writing on robot art, AI art and machine images.
 - **Steina Vasulka** (1) — Video artist. Icelandic-born video pioneer who co-founded The Kitchen in New York with Woody Vasulka in 1971. http://www.vasulka.org
 - **Steph Maj Swanson** (1) — Artist and writer (Supercomposite). Musician and artist, known online as Supercomposite, who documented the 'Loab' figure in 2022. https://en.wikipedia.org/wiki/Loab
 - **Stephan Bogner** (1) — Designer. German interaction designer (HfG Schwäbisch Gmünd) and co-author of Raising Robotic Natives. https://stephanbogner.de/
+- **Stephan von Huene** (1) — Sculptor and sound artist (1932–2000). American-German artist born in Los Angeles who moved to Germany in 1980 and built kinetic sound sculptures that play, speak and dance, many of them computer-controlled; his estate is held at ZKM Karlsruhe. https://www.stephanvonhuene.de/en/
 - **Sterling Crispin** (1) — Artist and technologist. American artist and technologist whose early work reverse-engineered face detection and recognition systems; he later worked on AR/VR and neurotechnology. https://www.sterlingcrispin.com
 - **Steve Mann** (1) — Inventor; Professor of Electrical and Computer Engineering, University of Toronto. Researcher who has worn computers and head-mounted cameras in daily life since the late 1970s and coined 'sousveillance'. http://wearcam.org/
 - **Steven Spielberg** (1) — Film director and producer. American director and producer; he completed A.I. Artificial Intelligence (2001) from a project developed by Stanley Kubrick. https://en.wikipedia.org/wiki/Steven_Spielberg
+- **StoryFile** (1) — Conversational video AI company. Company founded by Heather Maio and Stephen Smith that records people answering many questions on video so that others can later ask questions aloud and hear the best-matching answer; it grew out of the USC Shoah Foundation's Dimensions in Testimony.
 - **Super Brain** (1) — AI studio (founder Zhang Zewei). Nanjing studio that sells AI avatars of deceased people, built from photos, videos and voice recordings supplied by families.
 - **Surveillance Camera Players** (1) — Performance group founded by Bill Brown. Activist troupe that staged silent plays in front of public CCTV cameras from 1996. http://www.notbored.org/the-scp.html
 - **Survival Research Labs** (1) — Machine-performance group founded by Mark Pauline in 1978. San Francisco group that stages large, dangerous performances in which custom-built machines fight and destroy each other. https://srl.org/
 - **Susumu Tachi** (1) — Professor Emeritus, University of Tokyo; founder of the Virtual Reality Society of Japan. Engineer who proposed 'telexistence' in 1980 and built the TELESAR robots that let a person feel present in a remote robot body. https://tachilab.org/en/
-- **Suzanne Kite** (1) — Artist, composer and scholar (Oglála Lakȟóta); Director, Wihanble S'a Lab, Bard College. Oglála Lakȟóta artist and scholar whose performances and machine-learning works draw on Lakota ontology and relations with stones and non-humans. https://kitekitekitekite.com/
 - **Suzanne Treister** (1) — Artist. British artist whose fictional archives map technology, finance, the occult and consciousness. http://www.suzannetreister.net/
 - **THEaiTRE** (1) — Research and theatre project (Charles University, Švandovo divadlo, DAMU). Czech project that used language models to write theatre plays, starting with the R.U.R. centenary in 2021. https://www.theaitre.com/
 - **Tabita Rezaire** (1) — Artist and healer. French-Guianese-Danish artist whose videos connect digital networks, colonial history and spiritual technologies. https://tabitarezaire.com/
@@ -9459,20 +10719,28 @@ Writing on robot art, AI art and machine images.
 - **Tom B. Brown** (1) — Machine-learning researcher (Google Brain, later OpenAI and Anthropic). Machine-learning researcher who led the 2017 Google Brain paper on the adversarial patch and later led work on large language models.
 - **Tom Shannon** (1) — Artist and inventor. American artist (born 1947) who, as a young artist in 1966, built Squat, a robot controlled by a living plant.
 - **Tom White** (1) — Artist (dribnet); Senior Lecturer, Victoria University of Wellington School of Design. New Zealand-based artist and design lecturer, known online as dribnet, who makes drawings and prints optimised to be read by neural-network classifiers. https://drib.net
+- **Tom Ziemke** (1) — Professor of Cognitive Systems, Linköping University. German-born cognitive scientist in Sweden working on embodied cognition and on how people interact with robots and automated vehicles.
 - **Tomas van Houtryve** (1) — Photographer and artist. Belgian-American photographer who works on conflict, surveillance and history. https://tomasvh.com/
 - **Tomasz Hollanek** (1) — Research Fellow, Leverhulme Centre for the Future of Intelligence, University of Cambridge. Design and technology ethicist whose research connects critical design, speculative scenarios and AI ethics. https://www.lcfi.ac.uk/
 - **Tomo Kihara** (1) — Designer and artist; co-founder of Playfool. Japanese designer and artist who makes playful games and installations about AI, platforms and the city, often with Daniel Coppen as the studio Playfool. https://www.tomokihara.com
+- **Tomás Laurenzo** (1) — Artist and computer scientist; Associate Professor, University of Colorado Boulder. Uruguayan artist, researcher and computer scientist whose installations, performances and software examine the cultural and political consequences of computation. https://laurenzo.net/
 - **Tore Knudsen** (1) — Interaction designer and researcher. Danish interaction designer and CIID alumnus working on tangible interfaces for machine learning and smart-home technology.
 - **UBERMORGEN** (1) — Artist duo (lizvlx and Hans Bernhard). Austrian-Swiss artist duo working since 1995 with networks, media hacks and machine systems.
+- **UJOO+LIMHEEYOUNG** (1) — Kinetic art duo (Yoo Byoung-Joon and Lim Hee-Young). Seoul duo formed in 2004 by Yoo Byoung-Joon (b. 1976) and Lim Hee-Young (b. 1979), who build kinetic machines about the contradictions of social and political life; Lumen Prize finalists in 2024.
 - **USC Shoah Foundation** (1) — Institute for Visual History and Education, University of Southern California. Institute founded by Steven Spielberg in 1994 that holds more than 50,000 video testimonies of Holocaust survivors and witnesses of other genocides. https://sfi.usc.edu/
+- **USSLAB, Zhejiang University** (1) — Ubiquitous System Security Lab, led by Wenyuan Xu and Xiaoyu Ji. Security research lab at Zhejiang University that studies attacks on the sensors of phones, cars and voice assistants through ultrasound, light and electromagnetic interference.
 - **Unitree Robotics** (1) — Robotics company. Hangzhou maker of quadruped and humanoid robots (Go, H1, G1). https://www.unitree.com
 - **Unknown Fields Division** (1) — Nomadic design studio led by Liam Young and Kate Davies. Design research studio that led expeditions to the mines, factories and ports behind consumer technology. http://www.unknownfieldsdivision.com/
 - **Ursula Damm** (1) — Artist; Professor of Media Environments, Bauhaus-Universität Weimar. Ursula Damm is a German media artist whose generative video installations use live camera input and neural networks to explore perception, urban space and nature. https://ursuladamm.de
+- **Valentin Hofmann** (1) — Assistant Professor, LMU Munich. Computational linguist (PhDs from Oxford and LMU Munich; postdoc at the Allen Institute for AI) who studies how language models encode social meaning, dialect and bias. https://valentinhofmann.github.io/
 - **Valentino Braitenberg** (1) — Neuroscientist and cyberneticist (1926–2011). Italian neuroscientist and director at the Max Planck Institute for Biological Cybernetics, author of Vehicles: Experiments in Synthetic Psychology (1984).
+- **Valerie Veatch** (1) — Documentary filmmaker. American writer and director of documentaries on technology and society, including Me @ The Zoo (2012) and Love Child (2014), both for HBO. https://www.pbs.org/independentlens/documentaries/ghost-in-the-machine/
 - **Verena Friedrich** (1) — Media artist. German artist who builds precise machines and lab setups that deal with life extension, measurement and automated judgement. https://heavythinking.org
 - **Victor Wong** (1) — Artist and visual-effects producer. Hong Kong visual-effects producer (vfxNova) who created the AI ink painter A.I. Gemini in 2018. https://www.3812gallery.com/artists/victor-wong-ai-gemini/
 - **Vilém Flusser** (1) — Philosopher of media (1920–1991). Czech-born Brazilian philosopher who wrote on apparatuses, technical images and the programs that run through cameras and their users.
 - **Vincent Fournier** (1) — Photographer and artist. French photographer whose series look at space exploration, robots and imagined future life forms. https://www.vincentfournier.co.uk/
+- **Vinzenz Aubry** (1) — Artist working with real-time systems. French, Berlin-based artist who works across installation, performance, games, film, music and net art with generative real-time systems; a graduate of MIT and the Berlin University of the Arts. https://brute-force.it
+- **Virginia Eubanks** (1) — Political scientist; Associate Professor, University at Albany, SUNY. American political scientist who studies technology and social justice; author of Digital Dead End (2011) and Automating Inequality (2018).
 - **Waltz Binaire** (1) — Design and media art studio (Christian Mio Loclair). Berlin studio led by Christian Mio Loclair that makes installations with machine learning and motion. https://christianmioloclair.com
 - **Wang Yuyang** (1) — Artist. Beijing artist working with light, sculpture and technology.
 - **Wayne McGregor** (1) — Choreographer; Artistic Director, Studio Wayne McGregor; Director of Dance, Venice Biennale. British choreographer who has worked with cognitive scientists and technologists on how movement is made. https://waynemcgregor.com/
@@ -9480,14 +10748,23 @@ Writing on robot art, AI art and machine images.
 - **Wendy Hui Kyong Chun** (1) — Canada 150 Research Chair in New Media, Simon Fraser University. Media theorist and founding director of the Digital Democracies Institute; author of Programmed Visions and Updating to Remain the Same.
 - **William Chamberlain** (1) — Writer and programmer. American writer who, with Thomas Etter, created the prose generator Racter in the early 1980s. https://en.wikipedia.org/wiki/Racter
 - **Wolfgang Strauss** (1) — Architect and media artist. German architect and media artist, long-time collaborator of Monika Fleischmann on interactive environments.
+- **XPeng** (1) — Electric-vehicle and robotics company. Chinese electric-vehicle maker founded in 2014 and led by He Xiaopeng, which also develops flying cars and the humanoid robot IRON.
 - **Xenoangel (Marija Avramovic & Sam Twidale)** (1) — Artist duo making real-time animations and AI-driven virtual worlds. Marija Avramovic and Sam Twidale work as Xenoangel, building game-engine worlds whose characters act on their own. https://www.samtwidale.com/
 - **Xu Bing** (1) — Artist; former Vice President, Central Academy of Fine Arts. Chinese artist known for works on language and writing systems (Book from the Sky), who turned to surveillance footage for his first feature film. https://www.xubing.com
+- **Xu Zheng** (1) — Film director and actor. Chinese actor and director of the comedies Lost in Thailand (2012) and Lost in Russia (2020), and producer and lead actor of Dying to Survive (2018).
 - **YACHT** (1) — Band (Claire L. Evans, Jona Bechtolt, Rob Kieswetter). American electronic pop band that made an album with machine learning under strict self-imposed rules. https://teamyacht.com/
 - **Yasuhiro Yoshiura** (1) — Animation director. Director of Time of Eve (2008–09), an anime about a café where humans and androids are not to be told apart.
 - **Yeon Sang-ho** (1) — Film director. South Korean director of Train to Busan and the Netflix film Jung_E. https://en.wikipedia.org/wiki/Yeon_Sang-ho
+- **Yoichi Ochiai** (1) — Media artist; Associate Professor, University of Tsukuba (Digital Nature Group); theme producer of Expo 2025. Japanese media artist and computer scientist (b. 1987) whose idea of 'Digital Nature' treats computation as a new nature that merges with matter, bodies and landscape. https://digitalnature.slis.tsukuba.ac.jp/
+- **Yuan Goang-Ming** (1) — Artist; Professor, Taipei National University of the Arts. Pioneer of Taiwanese video and new-media art (b. 1965, Taipei) whose works show the unease beneath everyday life; his exhibition Everyday War represented Taiwan at the 2024 Venice Biennale.
+- **Yuhang Hu** (1) — Roboticist; PhD researcher, Creative Machines Lab, Columbia University. Builds humanoid robot faces that learn their own expressions, working with Hod Lipson at Columbia's Creative Machines Lab. https://www.creativemachineslab.com/
+- **Yuval Abraham** (1) — Journalist and filmmaker; +972 Magazine / Local Call. Israeli investigative journalist and filmmaker, co-director of the Oscar-winning documentary No Other Land (2024) with Basel Adra, Hamdan Ballal and Rachel Szor. https://www.972mag.com/lavender-ai-israeli-army-gaza/
+- **Zach Lieberman** (1) — Artist and educator; co-founder of openFrameworks and the School for Poetic Computation. American artist, designer and programmer who uses code, the face and the body as interfaces; co-creator of the openFrameworks creative-coding toolkit.
 - **Zhang Yimou** (1) — Film director. Chinese film director and director of large state spectacles, including the 2008 Beijing Olympic opening ceremony.
+- **Zhao Zhao** (1) — Assistant Professor, School of Computer Science, University of Guelph. HCI and human–robot interaction researcher who runs long-term field studies of social robots in homes and with children. https://www.uoguelph.ca/computing/people/zhao-zhao
 - **Zimoun** (1) — Artist. Swiss artist (born 1977) who builds large installations of hundreds of small DC motors striking cardboard, wire and cotton. https://www.zimoun.net/
 - **Zoran Srdić Janežič** (1) — Sculptor and intermedia artist; PhD researcher at AGRFT, University of Ljubljana. Slovenian sculptor who works with animatronics, 3D design and living tissue; since 2019 he has led the Biobot series with Kapelica Gallery and BioTehna Lab.
 - **etoy.CORPORATION** (1) — Artist group organised as a corporation. Swiss-based artist group founded in 1994 that uses corporate, legal and digital structures as material; known for Digital Hijack (Golden Nica 1996) and Toywar. http://missioneternity.org/
+- **fleuryfontaine** (1) — Artist duo (Galdric Fleury and Antoine Fontaine). French duo trained in architecture and at Le Fresnoy who examine artificial environments that shape bodies and behaviour through installations, films and CGI reconstructions of police violence. https://squareeyesfilm.com/films/sixty-seven-milliseconds/
 - **unmake lab** (1) — Artist collective. Korean artist collective, including Choi Binna, that studies how machine vision constructs nature and society.
 - **Špela Petrič** (1) — Artist with a background in biology. Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans, plants and machines. https://www.spelapetric.org

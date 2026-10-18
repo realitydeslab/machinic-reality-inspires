@@ -5,7 +5,7 @@ of the most salient **artworks, robot art, performances, films, speculative desi
 reflect on AI and machines**, made by Reality Design Lab as idea material for artists, designers, researchers and students.
 The curatorial angle is **machine phenomenology**: how machines perceive, move, "feel", relate, fail and die; how humans
 experience, live with, care through, grieve through, work for and are classified by machines.
-Working dir: `/Users/amber/Projects/HoloKit/HoloKit2/machinic-inspire`.
+Working dir: `/Users/amber/Projects/Oxford/machinic-reality-inspires`.
 
 Read first: `data/SCHEMA.md` (JSON format, language rule) and `data/taxonomy.json` (fields / subs / machines / lenses /
 kinds / collections / disciplines). Background research: `plan/categories-curatorial.md`, `plan/categories-theory.md`,
