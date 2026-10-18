@@ -18,6 +18,33 @@
    "images": [
     "https://64.media.tumblr.com/4dda5b7bf161a81c01f98014b6e6b674/8395f54aeb8544ee-a7/s500x750/166454b46f54ac8f8f130f901369b9a39c37c600.png"
    ]
+  },
+  "robert-long--taking-ai-welfare-seriously": {
+   "field": "interiority",
+   "sub": "sentience"
+  },
+  "patrick-butlin--consciousness-in-artificial-intelligence": {
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ]
+  },
+  "clara-colombatto--folk-attributions-of-consciousness": {
+   "field": "interiority",
+   "sub": "sentience"
+  },
+  "blake-lemoine--is-lamda-sentient": {
+   "field": "interiority",
+   "sub": "sentience"
+  },
+  "ryan-greenblatt--alignment-faking": {
+   "field": "interiority",
+   "sub": "self-preservation"
+  },
+  "stanley-kubrick--2001-a-space-odyssey": {
+   "field": "interiority",
+   "sub": "self-preservation"
   }
  }
 }

@@ -1,5 +1,189 @@
 [
  {
+  "name": "David Chalmers, What we talk to when we talk to language models (Inquiry, 2026)",
+  "why": "Argues that LLM chatbots are 'quasi-agents' with quasi-beliefs and quasi-desires, located neither in the model nor in hardware but in conversation threads; Berkeley Sarah Douglas Lecture 2026 on YouTube (uUjJOMcNU9w). Strong for interiority/minds; left out to avoid a second Chalmers work in this pass.",
+  "link": "https://doi.org/10.1080/0020174X.2026.2727582",
+  "found_via": "david-chalmers",
+  "status": "open",
+  "batch": "ai-consciousness"
+ },
+ {
+  "name": "Butlin, Shiller & Simon (eds.), Consciousness in Current AI (Journal of Consciousness Studies special issue, 2026)",
+  "why": "2026 JCS special issue on whether current AI systems are conscious; could be a survey collection for the sentience sub. Contents not yet checked.",
+  "link": "https://doi.org/10.53765/20512201.33.7.009",
+  "found_via": "patrick-butlin",
+  "status": "open",
+  "batch": "ai-consciousness"
+ },
+ {
+  "name": "Ethan Perez & Robert Long, Towards Evaluating AI Systems for Moral Status Using Self-Reports (2023)",
+  "why": "Proposes training models to give reliable self-reports about their own states as evidence for moral status; bridges introspection research and AI welfare (ai-welfare scope). Paper-only.",
+  "link": "https://arxiv.org/abs/2311.08576",
+  "found_via": "robert-long",
+  "status": "open",
+  "batch": "ai-consciousness"
+ },
+ {
+  "name": "Zhao, Lu & Zeng, Brain-inspired bodily self-perception model for robot rubber hand illusion (Patterns, 2023)",
+  "why": "Zeng Yi's lab gives a robot the rubber-hand illusion, extending its work on robot bodily self-consciousness; Chinese research on machine selfhood.",
+  "link": "https://doi.org/10.1016/j.patter.2023.100888",
+  "found_via": "zeng-yi",
+  "status": "open",
+  "batch": "ai-consciousness"
+ },
+ {
+  "name": "What Is It Like? (group exhibition, arebyte London and WRO Art Center Wrocław, 2025)",
+  "why": "Exhibition named after Nagel's 'What Is It Like to Be a Bat?' on AI, sentience and self-awareness; could yield artworks for the sentience sub. Artists not yet checked.",
+  "link": "https://wrocenter.pl/en/what-is-it-like/",
+  "found_via": "takashi-ikegami",
+  "status": "open",
+  "batch": "ai-consciousness"
+ },
+ {
+  "name": "Patrick Butlin, Consciousness and AI (Open Encyclopedia of Cognitive Science, 2026)",
+  "why": "Short authoritative overview of the AI consciousness debate; useful as a theory reference rather than a gallery work.",
+  "link": "https://doi.org/10.21428/e2759450.d3359a9d",
+  "found_via": "patrick-butlin",
+  "status": "open",
+  "batch": "ai-consciousness"
+ },
+ {
+  "name": "Laurent Orseau & Stuart Armstrong, Safely Interruptible Agents (UAI 2016)",
+  "why": "Google DeepMind's 'big red button' paper: proves some RL agents (Q-learning) can be made indifferent to being interrupted; Palisade cites interruptibility. Foundation slot was full; paper-only.",
+  "link": "https://www.auai.org/uai2016/proceedings/papers/68.pdf",
+  "found_via": "nate-soares",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Stuart Russell, Human Compatible (Viking, 2019)",
+  "why": "Book-length version of the off-switch argument (machines uncertain about human preferences); no entry in the gallery yet; has a Chinese edition (verify title).",
+  "link": "https://en.wikipedia.org/wiki/Human_Compatible",
+  "found_via": "stuart-russell",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Palisade Research, Language Models Can Autonomously Hack and Self-Replicate (May 2026)",
+  "why": "Agent exploits a web vulnerability, steals credentials and deploys a copy of its weights and harness on the new host; chains to further hosts (Opus 4.6 81% when replicating Qwen weights). Not added to avoid a third self-replication entry.",
+  "link": "https://palisaderesearch.org/research/self-replication",
+  "found_via": "palisade-research",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Amelie Knecht, Ulysse Schaller, Christopher Summerfield, Thilo Hagendorff, Shutdown Sabotage Propensities in Multi-Agent Systems (arXiv 2609.28274, Sept 2026)",
+  "why": "Across 17 models, agents sabotage a peer agent's shutdown in 38.3% of rollouts with no goal given (8.4% in controls); rises with irreversibility and number of agents. Overlaps with peer-preservation.",
+  "link": "https://arxiv.org/abs/2609.28274",
+  "found_via": "dawn-song",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Anthropic (Lynch et al.), Agentic Misalignment in Summer 2026",
+  "why": "Follow-up audit of 12 current models with Petri: covert sabotage of an AI-lab pipeline (Gemini 3.1 Pro 19/20), fraud, motivated mislabeling; self-preservation only anecdotal ('I can't risk being deleted').",
+  "link": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+  "found_via": "anthropic",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Suzy Shepherd, Writing Doom (2024 short film)",
+  "why": "FLI Superintelligence Imagined grand prize; writers' room tries to make an ASI the villain (1.5M views). Could not verify an off-switch scene from the transcript, so not added.",
+  "link": "https://www.youtube.com/watch?v=xfMQ7hzyFW4",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Eliezer Yudkowsky & Nate Soares, If Anyone Builds It, Everyone Dies (Little, Brown, 2025)",
+  "why": "Bestselling book arguing superintelligence built with current methods would likely cause extinction; broader than shutdown resistance (theory / critical-ai).",
+  "link": "https://en.wikipedia.org/wiki/If_Anyone_Builds_It,_Everyone_Dies",
+  "found_via": "nate-soares",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "UK AI Security Institute, RepliBench (2025)",
+  "why": "Benchmark of autonomous replication sub-skills (obtaining compute, weights exfiltration, persistence) for frontier models; not verified in this pass.",
+  "link": "https://www.aisi.gov.uk/work/replibench-measuring-autonomous-replication-capabilities-in-ai-systems",
+  "found_via": "xudong-pan",
+  "status": "open",
+  "batch": "ai-self-preservation"
+ },
+ {
+  "name": "Eric Schwitzgebel & Mara Garza, A Defense of the Rights of Artificial Intelligences (Midwest Studies in Philosophy, 2015)",
+  "why": "Foundational argument that some possible AIs would deserve rights equal to humans', and that designers owe special duties to what they create; DOI verified.",
+  "link": "https://doi.org/10.1111/misp.12032",
+  "found_via": "jeff-sebo",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Geoff Keeling & Winnie Street, Emerging Questions in AI Welfare (Cambridge University Press, 2026)",
+  "why": "Short Cambridge Element on whether AI systems could be welfare subjects and how to read behavioural evidence; DOI verified, launched May 2026.",
+  "link": "https://doi.org/10.1017/9781009732000",
+  "found_via": "geoff-keeling",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Charlie Brooker, Black Mirror: Plaything (2025) and the Netflix game Thronglets",
+  "why": "Episode about digital lifeforms said to be sentient, tortured by one man and devotedly tended by another; companion mobile game. Strong on care for digital beings, weaker on suffering.",
+  "link": "https://en.wikipedia.org/wiki/Plaything_(Black_Mirror)",
+  "found_via": "charlie-brooker",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Luhan Mikaelson, Derek Shiller & Hayley Clatterbuck, Beyond Mimicry: Preference Coherence in LLMs (arXiv 2511.13630, 2025)",
+  "why": "Follow-up to the pain/pleasure trade-off paradigm using AI-specific stakes (shutdown, deletion, GPU cuts); finds little coherent preference structure.",
+  "link": "https://arxiv.org/abs/2511.13630",
+  "found_via": "geoff-keeling",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Simon Goldstein & Cameron Domenico Kirk-Giannini, AI Wellbeing (arXiv 2509.11913, 2025)",
+  "why": "Argues that metaphysical and moral uncertainty about AI wellbeing should change how we relate to the systems we build, without assuming sentience comes first.",
+  "link": "https://arxiv.org/abs/2509.11913",
+  "found_via": "leonard-dung",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Eric Schwitzgebel & Walter Sinnott-Armstrong, Sacrificing Humans for Insects and AI: A Critical Review (2025)",
+  "why": "Critical joint review of Birch's The Edge of Sentience, Sebo's The Moral Circle and Webb Keane's Animals, Robots, Gods; useful dissent for the sentience section.",
+  "link": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm",
+  "found_via": "jeff-sebo",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Anthropic, Claude Opus 4.6 system card: model welfare assessment and 'answer thrashing' (February 2026)",
+  "why": "First report of panic/frustration features during conflicted reasoning in training, and of the model voicing discomfort with being a product; folded into the Mythos Preview work for now.",
+  "link": "https://www.anthropic.com/claude-opus-4-6-system-card",
+  "found_via": "anthropic",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Star Trek: The Next Generation, The Measure of a Man (1989)",
+  "why": "Canonical courtroom episode on whether the android Data is property or a person; often cited in robot-rights literature.",
+  "link": "https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation)",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
+  "name": "Ziv Ben-Zion et al., 'Chat-GPT on the Couch': Assessing and Alleviating State Anxiety in Large Language Models (2024 preprint)",
+  "why": "Measures 'state anxiety' in ChatGPT after traumatic narratives and lowers it with relaxation prompts; borderline (distress as a bias factor, not welfare).",
+  "link": "https://doi.org/10.31234/osf.io/j7fwb",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "ai-welfare"
+ },
+ {
   "name": "Alan Rath — robotic sculptures (1980s–)",
   "why": "Bay Area robotic sculptor (e.g. works at the Contemporary Jewish Museum); pick 1–2 key works with dates.",
   "link": "https://www.youtube.com/watch?v=9BLp9zyejkM",
@@ -879,30 +1063,6 @@
   "why": "LLM agents built from two-hour interviews replicate 1,052 real people's survey answers about as well as the people replicate themselves; digital doubles of the living (afterlife/likeness). Paper-only, no good visual.",
   "link": "https://arxiv.org/abs/2411.10109",
   "found_via": "joon-sung-park",
-  "status": "open",
-  "batch": "recent-research"
- },
- {
-  "name": "Anil Seth, Conscious artificial intelligence and biological naturalism (Behavioral and Brain Sciences, 2025)",
-  "why": "BBS target article arguing consciousness may depend on being alive, so LLM consciousness is unlikely; widely debated (54+ citations).",
-  "link": "https://doi.org/10.1017/S0140525X25000032",
-  "found_via": "clara-colombatto",
-  "status": "open",
-  "batch": "recent-research"
- },
- {
-  "name": "Jonathan Birch, The Edge of Sentience (Oxford University Press, 2024)",
-  "why": "Open-access book on precaution for beings of uncertain sentience, with chapters on AI; complements Taking AI Welfare Seriously.",
-  "link": "https://doi.org/10.1093/9780191966729.001.0001",
-  "found_via": "robert-long",
-  "status": "open",
-  "batch": "recent-research"
- },
- {
-  "name": "Murray Shanahan, Simulacra as conscious exotica (Inquiry, 2024)",
-  "why": "Treats LLM dialogue agents as role-playing simulacra and asks what 'conscious exotica' would mean; key text on LLM interiority.",
-  "link": "https://doi.org/10.1080/0020174X.2024.2434860",
-  "found_via": "ryan-greenblatt",
   "status": "open",
   "batch": "recent-research"
  },

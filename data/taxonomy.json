@@ -131,6 +131,20 @@
           "desc_zh": "模拟的心智与信念，以及自己做决定的自主智能体。"
         },
         {
+          "id": "sentience",
+          "en": "Sentience, Suffering & Welfare",
+          "zh": "感受性、痛苦与福祉",
+          "desc_en": "Could a machine be conscious, feel pain or suffer? Indicators of AI consciousness, model welfare and the moral status of machines.",
+          "desc_zh": "机器会有意识、会疼、会受苦吗？AI 意识的指标、模型福祉与机器的道德地位。"
+        },
+        {
+          "id": "self-preservation",
+          "en": "Self-preservation & Shutdown",
+          "zh": "自我保存与关机抵抗",
+          "desc_en": "Machines that resist being switched off, scheme, copy themselves or bargain to keep running, and the off-switch problem behind them.",
+          "desc_zh": "抗拒被关机、暗中谋划、自我复制或讨价还价以继续运行的机器，以及背后的“关机开关”问题。"
+        },
+        {
           "id": "umwelt",
           "en": "Machine Umwelt",
           "zh": "机器环世界",

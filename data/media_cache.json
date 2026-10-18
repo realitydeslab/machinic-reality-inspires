@@ -17133,8 +17133,9 @@
   "arxiv": "1904.08653",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "Fooling automated surveillance cameras: adversarial patches to attack person detection",
+  "year": 2019,
+  "url": "https://arxiv.org/abs/1904.08653"
  },
  "img:https://www.cooperhewitt.org/wp-content/uploads/2019/08/CH-LDB-Photo-David-Levene-3-1.jpg": {
   "url": "https://www.cooperhewitt.org/wp-content/uploads/2019/08/CH-LDB-Photo-David-Levene-3-1.jpg",
@@ -18423,8 +18424,9 @@
   "arxiv": "2402.01662",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "Generative Ghosts: Anticipating Benefits and Risks of AI Afterlives",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2402.01662"
  },
  "doi:10.1145/3706598.3713429": {
   "doi": "10.1145/3706598.3713429",
@@ -18439,8 +18441,9 @@
   "arxiv": "2410.20130",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "The Dark Side of AI Companionship: A Taxonomy of Harmful Algorithmic Behaviors in Human-AI Relationships",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2410.20130"
  },
  "img:https://arxiv.org/html/2503.17473v2/Figures/OpenAI-teaser-4.png": {
   "url": "https://arxiv.org/html/2503.17473v2/Figures/OpenAI-teaser-4.png",
@@ -18452,8 +18455,9 @@
   "arxiv": "2503.17473",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use: A Longitudinal Randomized Controlled Study",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2503.17473"
  },
  "doi:10.1145/3772318.3790586": {
   "doi": "10.1145/3772318.3790586",
@@ -18531,8 +18535,9 @@
   "arxiv": "2405.12514",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2405.12514"
  },
  "video:youtube:pWTTzR_wXuQ": {
   "url": "https://www.youtube.com/watch?v=pWTTzR_wXuQ",
@@ -18601,8 +18606,9 @@
   "arxiv": "2403.00742",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "Dialect prejudice predicts AI decisions about people's character, employability, and criminality",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2403.00742"
  },
  "img:https://arxiv.org/html/2405.04623v1/heatmap-summary.png": {
   "url": "https://arxiv.org/html/2405.04623v1/heatmap-summary.png",
@@ -18623,8 +18629,9 @@
   "arxiv": "2405.04623",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2405.04623"
  },
  "video:youtube:9eXV64O2Xp8": {
   "url": "https://www.youtube.com/watch?v=9eXV64O2Xp8",
@@ -18645,8 +18652,9 @@
   "arxiv": "2412.14093",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "Alignment faking in large language models",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2412.14093"
  },
  "video:youtube:0W-cRw-EBAc": {
   "url": "https://www.youtube.com/watch?v=0W-cRw-EBAc",
@@ -18673,8 +18681,9 @@
   "arxiv": "2405.07987",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "The Platonic Representation Hypothesis",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2405.07987"
  },
  "doi:10.1093/nc/niae013": {
   "doi": "10.1093/nc/niae013",
@@ -19215,6 +19224,842 @@
  },
  "img:https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg": {
   "url": "https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:bskf9jyxmMs": {
+  "url": "https://www.youtube.com/watch?v=bskf9jyxmMs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bskf9jyxmMs",
+  "title": "David Chalmers: Could a Large Language Model be Conscious?",
+  "author": "TSC2023 - Taormina",
+  "thumbnail": "https://i.ytimg.com/vi/bskf9jyxmMs/hqdefault.jpg"
+ },
+ "arxiv:2303.07103": {
+  "arxiv": "2303.07103",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Could a Large Language Model be Conscious?",
+  "year": 2023,
+  "url": "https://arxiv.org/abs/2303.07103"
+ },
+ "video:youtube:tJV-vdbZ388": {
+  "url": "https://www.youtube.com/watch?v=tJV-vdbZ388",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tJV-vdbZ388",
+  "title": "Why AI Isn’t Going to Become Conscious | Anil Seth | TED",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/tJV-vdbZ388/hqdefault.jpg"
+ },
+ "doi:10.1017/s0140525x25000032": {
+  "doi": "10.1017/s0140525x25000032",
+  "ok": true,
+  "type": "doi",
+  "title": "Conscious artificial intelligence and biological naturalism",
+  "year": 2026,
+  "venue": "Behavioral and Brain Sciences",
+  "url": "https://doi.org/10.1017/s0140525x25000032"
+ },
+ "video:youtube:hg8v_bIMikc": {
+  "url": "https://www.youtube.com/watch?v=hg8v_bIMikc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hg8v_bIMikc",
+  "title": "What if AI is already conscious? Sentience explained  | LSE Research",
+  "author": "LSE",
+  "thumbnail": "https://i.ytimg.com/vi/hg8v_bIMikc/hqdefault.jpg"
+ },
+ "doi:10.31234/osf.io/af7c9_v1": {
+  "doi": "10.31234/osf.io/af7c9_v1",
+  "ok": true,
+  "type": "doi",
+  "title": "AI Consciousness: A Centrist Manifesto",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.31234/osf.io/af7c9_v1"
+ },
+ "video:youtube:SD9M2ud4Rtk": {
+  "url": "https://www.youtube.com/watch?v=SD9M2ud4Rtk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "SD9M2ud4Rtk",
+  "title": "Dr. Yoshua Bengio (UdeM/Mila): AGI and AI Safety: Does Consciousness Matter?",
+  "author": "MAIN Conference",
+  "thumbnail": "https://i.ytimg.com/vi/SD9M2ud4Rtk/hqdefault.jpg"
+ },
+ "doi:10.1126/science.adn4935": {
+  "doi": "10.1126/science.adn4935",
+  "ok": true,
+  "type": "doi",
+  "title": "Illusions of AI consciousness",
+  "year": 2025,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.adn4935"
+ },
+ "img:https://mustafa-suleyman.ai/images/posts/seemingly-conscious-ai-is-coming.jpg": {
+  "url": "https://mustafa-suleyman.ai/images/posts/seemingly-conscious-ai-is-coming.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1613/jair.1.17310": {
+  "doi": "10.1613/jair.1.17310",
+  "ok": true,
+  "type": "doi",
+  "title": "Principles for Responsible AI Consciousness Research",
+  "year": 2025,
+  "venue": "Journal of Artificial Intelligence Research",
+  "url": "https://doi.org/10.1613/jair.1.17310"
+ },
+ "img:https://transformer-circuits.pub/2025/introspection/injected-thoughts-blog.png": {
+  "url": "https://transformer-circuits.pub/2025/introspection/injected-thoughts-blog.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:3D4pgIKR4cQ": {
+  "url": "https://www.youtube.com/watch?v=3D4pgIKR4cQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3D4pgIKR4cQ",
+  "title": "42 - Owain Evans on LLM Psychology",
+  "author": "AXRP",
+  "thumbnail": "https://i.ytimg.com/vi/3D4pgIKR4cQ/hqdefault.jpg"
+ },
+ "arxiv:2410.13787": {
+  "arxiv": "2410.13787",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Looking Inward: Language Models Can Learn About Themselves by Introspection",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2410.13787"
+ },
+ "img:https://arxiv.org/html/2501.11120v1/figures/vc-figure.png": {
+  "url": "https://arxiv.org/html/2501.11120v1/figures/vc-figure.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2501.11120": {
+  "arxiv": "2501.11120",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Tell me about yourself: LLMs are aware of their learned behaviors",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2501.11120"
+ },
+ "video:youtube:bddHP58lTHA": {
+  "url": "https://www.youtube.com/watch?v=bddHP58lTHA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bddHP58lTHA",
+  "title": "15. Eric Schwitzgebel: Exotic Minds and the Design Policies for Conscious AI",
+  "author": "PRISM",
+  "thumbnail": "https://i.ytimg.com/vi/bddHP58lTHA/hqdefault.jpg"
+ },
+ "doi:10.1016/j.patter.2023.100818": {
+  "doi": "10.1016/j.patter.2023.100818",
+  "ok": true,
+  "type": "doi",
+  "title": "AI systems must not confuse users about their sentience or moral status",
+  "year": 2023,
+  "venue": "Patterns",
+  "url": "https://doi.org/10.1016/j.patter.2023.100818"
+ },
+ "video:youtube:bBdE7ojaN9k": {
+  "url": "https://www.youtube.com/watch?v=bBdE7ojaN9k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bBdE7ojaN9k",
+  "title": "Human vs. Machine Consciousness | Imperial’s Murray Shanahan",
+  "author": "Johnathan Bi",
+  "thumbnail": "https://i.ytimg.com/vi/bBdE7ojaN9k/hqdefault.jpg"
+ },
+ "doi:10.1080/0020174x.2024.2434860": {
+  "doi": "10.1080/0020174x.2024.2434860",
+  "ok": true,
+  "type": "doi",
+  "title": "Simulacra as conscious exotica",
+  "year": 2026,
+  "venue": "Inquiry",
+  "url": "https://doi.org/10.1080/0020174x.2024.2434860"
+ },
+ "arxiv:2402.12422": {
+  "arxiv": "2402.12422",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Simulacra as Conscious Exotica",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2402.12422"
+ },
+ "video:youtube:S5fTCyjWtrU": {
+  "url": "https://www.youtube.com/watch?v=S5fTCyjWtrU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "S5fTCyjWtrU",
+  "title": "Artificial You: AI and the Future of Your Mind, Susan Schneider",
+  "author": "Princeton University Press",
+  "thumbnail": "https://i.ytimg.com/vi/S5fTCyjWtrU/hqdefault.jpg"
+ },
+ "doi:10.1515/9780691197777": {
+  "doi": "10.1515/9780691197777",
+  "ok": true,
+  "type": "doi",
+  "title": "Artificial You",
+  "year": 2019,
+  "venue": "",
+  "url": "https://doi.org/10.1515/9780691197777"
+ },
+ "video:youtube:2mjvwTrxuAU": {
+  "url": "https://www.youtube.com/watch?v=2mjvwTrxuAU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2mjvwTrxuAU",
+  "title": "Cameron Berg: Why Do LLMs Report Subjective Experience?",
+  "author": "PRISM",
+  "thumbnail": "https://i.ytimg.com/vi/2mjvwTrxuAU/hqdefault.jpg"
+ },
+ "img:https://arxiv.org/html/2510.24797v1/figures/fig_1.png": {
+  "url": "https://arxiv.org/html/2510.24797v1/figures/fig_1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2510.24797": {
+  "arxiv": "2510.24797",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Large Language Models Report Subjective Experience Under Self-Referential Processing",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2510.24797"
+ },
+ "video:youtube:sp2yN_x0I4g": {
+  "url": "https://www.youtube.com/watch?v=sp2yN_x0I4g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sp2yN_x0I4g",
+  "title": "Multiple Robots take the challenge of Mirror Test through their robot bodily self models",
+  "author": "Brain-inspired Cognitive Intelligence Lab",
+  "thumbnail": "https://i.ytimg.com/vi/sp2yN_x0I4g/hqdefault.jpg"
+ },
+ "doi:10.1007/s12559-017-9505-1": {
+  "doi": "10.1007/s12559-017-9505-1",
+  "ok": true,
+  "type": "doi",
+  "title": "Toward Robot Self-Consciousness (II): Brain-Inspired Robot Bodily Self Model for Self-Recognition",
+  "year": 2018,
+  "venue": "Cognitive Computation",
+  "url": "https://doi.org/10.1007/s12559-017-9505-1"
+ },
+ "video:youtube:BHsCmRhP4as": {
+  "url": "https://www.youtube.com/watch?v=BHsCmRhP4as",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BHsCmRhP4as",
+  "title": "AI Cognition Initiative at Rethink Priorities, \"Introducing the Digital Consciousness Model\"",
+  "author": "NYU Center for Mind, Ethics, and Policy",
+  "thumbnail": "https://i.ytimg.com/vi/BHsCmRhP4as/hqdefault.jpg"
+ },
+ "img:https://arxiv.org/html/2601.17060v1/media/media/image12.png": {
+  "url": "https://arxiv.org/html/2601.17060v1/media/media/image12.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2601.17060": {
+  "arxiv": "2601.17060",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Initial results of the Digital Consciousness Model",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2601.17060"
+ },
+ "video:youtube:KbTvUOx2A6c": {
+  "url": "https://www.youtube.com/watch?v=KbTvUOx2A6c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KbTvUOx2A6c",
+  "title": "AM I? | A Documentary About AI Consciousness",
+  "author": "AM I?",
+  "thumbnail": "https://i.ytimg.com/vi/KbTvUOx2A6c/hqdefault.jpg"
+ },
+ "img:https://am-i.film/assets/og-image.jpg?v=3": {
+  "url": "https://am-i.film/assets/og-image.jpg?v=3",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400268099.jpg": {
+  "url": "https://www.u-tokyo.ac.jp/content/400268099.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400268100.jpg": {
+  "url": "https://www.u-tokyo.ac.jp/content/400268100.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2025/600x600/amiastrangeloop03.jpg?itok=2g5Nb-_i": {
+  "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2025/600x600/amiastrangeloop03.jpg?itok=2g5Nb-_i",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.3389/frobt.2025.1581110": {
+  "doi": "10.3389/frobt.2025.1581110",
+  "ok": true,
+  "type": "doi",
+  "title": "From text to motion: grounding GPT-4 in a humanoid robot “Alter3”",
+  "year": 2025,
+  "venue": "Frontiers in Robotics and AI",
+  "url": "https://doi.org/10.3389/frobt.2025.1581110"
+ },
+ "video:youtube:1GAjmVXjVbI": {
+  "url": "https://www.youtube.com/watch?v=1GAjmVXjVbI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1GAjmVXjVbI",
+  "title": "The Basic AI Drives",
+  "author": "Jerry Jeriaska",
+  "thumbnail": "https://i.ytimg.com/vi/1GAjmVXjVbI/hqdefault.jpg"
+ },
+ "video:youtube:3TYT1QfdfsM": {
+  "url": "https://www.youtube.com/watch?v=3TYT1QfdfsM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3TYT1QfdfsM",
+  "title": "AI \"Stop Button\" Problem - Computerphile",
+  "author": "Computerphile",
+  "thumbnail": "https://i.ytimg.com/vi/3TYT1QfdfsM/hqdefault.jpg"
+ },
+ "video:youtube:EBK-a94IFHY": {
+  "url": "https://www.youtube.com/watch?v=EBK-a94IFHY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EBK-a94IFHY",
+  "title": "3 principles for creating safer AI | Stuart Russell",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/EBK-a94IFHY/hqdefault.jpg"
+ },
+ "doi:10.24963/ijcai.2017/32": {
+  "doi": "10.24963/ijcai.2017/32",
+  "ok": true,
+  "type": "doi",
+  "title": "The Off-Switch Game",
+  "year": 2017,
+  "venue": "Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence",
+  "url": "https://doi.org/10.24963/ijcai.2017/32"
+ },
+ "arxiv:1611.08219": {
+  "arxiv": "1611.08219",
+  "ok": true,
+  "type": "arxiv",
+  "title": "The Off-Switch Game",
+  "year": 2016,
+  "url": "https://arxiv.org/abs/1611.08219"
+ },
+ "arxiv:1912.01683": {
+  "arxiv": "1912.01683",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Optimal Policies Tend to Seek Power",
+  "year": 2019,
+  "url": "https://arxiv.org/abs/1912.01683"
+ },
+ "video:youtube:7Kf9coMuVuI": {
+  "url": "https://www.youtube.com/watch?v=7Kf9coMuVuI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7Kf9coMuVuI",
+  "title": "Switching off a robot",
+  "author": "Christoph Bartneck",
+  "thumbnail": "https://i.ytimg.com/vi/7Kf9coMuVuI/hqdefault.jpg"
+ },
+ "img:https://www.bartneck.de/publications/2007/daisy/figures/figure03.jpg": {
+  "url": "https://www.bartneck.de/publications/2007/daisy/figures/figure03.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0201581.g001&size=large": {
+  "url": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0201581.g001&size=large",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/1228716.1228746": {
+  "doi": "10.1145/1228716.1228746",
+  "ok": true,
+  "type": "doi",
+  "title": "\"Daisy, Daisy, give me your answer do!\"",
+  "year": 2007,
+  "venue": "Proceedings of the ACM/IEEE international conference on Human-robot interaction",
+  "url": "https://doi.org/10.1145/1228716.1228746"
+ },
+ "img:https://cdn.prod.website-files.com/6a2bd279c59d9c01b2a20237/6a5a214cbe53a092d0d637d9_01_opus_scheming_headline_figure.webp": {
+  "url": "https://cdn.prod.website-files.com/6a2bd279c59d9c01b2a20237/6a5a214cbe53a092d0d637d9_01_opus_scheming_headline_figure.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "arxiv:2412.04984": {
+  "arxiv": "2412.04984",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Frontier Models are Capable of In-context Scheming",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2412.04984"
+ },
+ "img:https://arxiv.org/html/2412.12140v1/replication_process.png": {
+  "url": "https://arxiv.org/html/2412.12140v1/replication_process.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2412.12140": {
+  "arxiv": "2412.12140",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Frontier AI systems have surpassed the self-replicating red line",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2412.12140"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/f8ade2db0fefac490af1e2a991b0d4ce3f0b238c-3840x2160.png": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f8ade2db0fefac490af1e2a991b0d4ce3f0b238c-3840x2160.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2510.05179": {
+  "arxiv": "2510.05179",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Agentic Misalignment: How LLMs Could Be Insider Threats",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2510.05179"
+ },
+ "img:https://palisaderesearch.org/assets/images/blog/shutdown-resistance/flow.png": {
+  "url": "https://palisaderesearch.org/assets/images/blog/shutdown-resistance/flow.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2509.14260": {
+  "arxiv": "2509.14260",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Incomplete Tasks Induce Shutdown Resistance in Some Frontier LLMs",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2509.14260"
+ },
+ "arxiv:2505.23836": {
+  "arxiv": "2505.23836",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Large Language Models Often Know When They Are Being Evaluated",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2505.23836"
+ },
+ "img:https://images.ctfassets.net/kftzwdyauwt9/5lYGYuDin762rL93Pdz2Bx/341a3aaca604f4244df7b9ce3b0cc91f/Anti-Scheming_Cover.png?w=1600&h=900&fit=fill": {
+  "url": "https://images.ctfassets.net/kftzwdyauwt9/5lYGYuDin762rL93Pdz2Bx/341a3aaca604f4244df7b9ce3b0cc91f/Anti-Scheming_Cover.png?w=1600&h=900&fit=fill",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/6883977a51f5d503d441fd68/f2549e80-9f6c-4466-9d5b-3342bf8245fb/Group+38+%282%29.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/6883977a51f5d503d441fd68/f2549e80-9f6c-4466-9d5b-3342bf8245fb/Group+38+%282%29.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "arxiv:2509.15541": {
+  "arxiv": "2509.15541",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Stress Testing Deliberative Alignment for Anti-Scheming Training",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2509.15541"
+ },
+ "video:youtube:lvMMZLYoDr4": {
+  "url": "https://www.youtube.com/watch?v=lvMMZLYoDr4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "lvMMZLYoDr4",
+  "title": "What is Al \"reward hacking\"—and why do we worry about it?",
+  "author": "Anthropic",
+  "thumbnail": "https://i.ytimg.com/vi/lvMMZLYoDr4/hqdefault.jpg"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/5de5b57afd32cdac63dd418d13d57d1657a75d16-1920x1180.png": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5de5b57afd32cdac63dd418d13d57d1657a75d16-1920x1180.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2511.18397": {
+  "arxiv": "2511.18397",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Natural Emergent Misalignment from Reward Hacking in Production RL",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2511.18397"
+ },
+ "img:https://rdi.berkeley.edu/blog/peer-preservation/figures/gemini_cli.png": {
+  "url": "https://rdi.berkeley.edu/blog/peer-preservation/figures/gemini_cli.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2604.19784": {
+  "arxiv": "2604.19784",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Peer-Preservation in Frontier Models",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2604.19784"
+ },
+ "video:mp4:https://palisaderesearch.org/assets/images/shutdown-resistance-on-robots/video.mp4": {
+  "url": "https://palisaderesearch.org/assets/images/shutdown-resistance-on-robots/video.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://palisaderesearch.org/assets/images/shutdown-resistance-on-robots/video.mp4",
+  "content_type": "video/mp4"
+ },
+ "video:mp4:https://cdn.sanity.io/files/4zrzovbb/website/04cb53c1d91c7dc7493e2d40cf4a40d865ba97b7.mp4": {
+  "url": "https://cdn.sanity.io/files/4zrzovbb/website/04cb53c1d91c7dc7493e2d40cf4a40d865ba97b7.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://cdn.sanity.io/files/4zrzovbb/website/04cb53c1d91c7dc7493e2d40cf4a40d865ba97b7.mp4",
+  "content_type": "video/mp4"
+ },
+ "video:youtube:0LW6smaU3Xw": {
+  "url": "https://www.youtube.com/watch?v=0LW6smaU3Xw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0LW6smaU3Xw",
+  "title": "THE WANDERING EARTH  Official Trailer | 《流浪地球》官方预告",
+  "author": "CMC Pictures",
+  "thumbnail": "https://i.ytimg.com/vi/0LW6smaU3Xw/hqdefault.jpg"
+ },
+ "video:youtube:RzhpmAlMURQ": {
+  "url": "https://www.youtube.com/watch?v=RzhpmAlMURQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "RzhpmAlMURQ",
+  "title": "Thomas Metzinger – Three Types Of Arguments for a Global Moratorium on Synthetic Phenomenology",
+  "author": "HT-fakulteterna vid Lunds universitet",
+  "thumbnail": "https://i.ytimg.com/vi/RzhpmAlMURQ/hqdefault.jpg"
+ },
+ "doi:10.1142/s270507852150003x": {
+  "doi": "10.1142/s270507852150003x",
+  "ok": true,
+  "type": "doi",
+  "title": "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology",
+  "year": 2021,
+  "venue": "Journal of Artificial Intelligence and Consciousness",
+  "url": "https://doi.org/10.1142/s270507852150003x"
+ },
+ "video:youtube:kdXbj_rp9AY": {
+  "url": "https://www.youtube.com/watch?v=kdXbj_rp9AY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kdXbj_rp9AY",
+  "title": "Nick Bostrom, PhD - The Ethics of Digital Minds: A baffling new frontier",
+  "author": "Open Data Science and AI Conference",
+  "thumbnail": "https://i.ytimg.com/vi/kdXbj_rp9AY/hqdefault.jpg"
+ },
+ "doi:10.1093/oso/9780192894076.003.0018": {
+  "doi": "10.1093/oso/9780192894076.003.0018",
+  "ok": true,
+  "type": "doi",
+  "title": "Sharing the World with Digital Minds",
+  "year": 2021,
+  "venue": "Rethinking Moral Status",
+  "url": "https://doi.org/10.1093/oso/9780192894076.003.0018"
+ },
+ "doi:10.1007/s43681-023-00379-1": {
+  "doi": "10.1007/s43681-023-00379-1",
+  "ok": true,
+  "type": "doi",
+  "title": "Moral consideration for AI systems by 2030",
+  "year": 2025,
+  "venue": "AI and Ethics",
+  "url": "https://doi.org/10.1007/s43681-023-00379-1"
+ },
+ "video:youtube:6n9mrmTTzKs": {
+  "url": "https://www.youtube.com/watch?v=6n9mrmTTzKs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6n9mrmTTzKs",
+  "title": "The edge of sentience: risk and precaution in humans, other animals, and AI | LSE Event",
+  "author": "LSE",
+  "thumbnail": "https://i.ytimg.com/vi/6n9mrmTTzKs/hqdefault.jpg"
+ },
+ "doi:10.1093/9780191966729.001.0001": {
+  "doi": "10.1093/9780191966729.001.0001",
+  "ok": true,
+  "type": "doi",
+  "title": "The Edge of Sentience",
+  "year": 2024,
+  "venue": "",
+  "url": "https://doi.org/10.1093/9780191966729.001.0001"
+ },
+ "video:youtube:zK_rSjEV7x0": {
+  "url": "https://www.youtube.com/watch?v=zK_rSjEV7x0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zK_rSjEV7x0",
+  "title": "The Moral Circle: insects, AI systems, and other beings who might matter | Jeff Sebo | EAG BA 2025",
+  "author": "Effective Altruism",
+  "thumbnail": "https://i.ytimg.com/vi/zK_rSjEV7x0/hqdefault.jpg"
+ },
+ "img:https://cdn2.wwnorton.com/wwnproducts/TRADE/9/6/9781324123569/9781324123569_300.jpg": {
+  "url": "https://cdn2.wwnorton.com/wwnproducts/TRADE/9/6/9781324123569/9781324123569_300.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.tandf.co.uk/common/jackets/crclarge/978100367/9781003674573.jpg": {
+  "url": "https://images.tandf.co.uk/common/jackets/crclarge/978100367/9781003674573.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.4324/9781003674573": {
+  "doi": "10.4324/9781003674573",
+  "ok": true,
+  "type": "doi",
+  "title": "Saving Artificial Minds",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.4324/9781003674573"
+ },
+ "img:https://arxiv.org/html/2411.02432v1/Figures/points-vs-pain-QuantQual.png": {
+  "url": "https://arxiv.org/html/2411.02432v1/Figures/points-vs-pain-QuantQual.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2411.02432": {
+  "arxiv": "2411.02432",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Can LLMs make trade-offs involving stipulated pain and pleasure states?",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2411.02432"
+ },
+ "img:https://arxiv.org/html/2509.07961v1/Figure1.png": {
+  "url": "https://arxiv.org/html/2509.07961v1/Figure1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2509.07961": {
+  "arxiv": "2509.07961",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2509.07961"
+ },
+ "video:youtube:tX42dHN0wLo": {
+  "url": "https://www.youtube.com/watch?v=tX42dHN0wLo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tX42dHN0wLo",
+  "title": "Rosie Campbell, Kyle Fish, and Robert Long, \"Evaluating AI Welfare and Moral Status\"",
+  "author": "NYU Center for Mind, Ethics, and Policy",
+  "thumbnail": "https://i.ytimg.com/vi/tX42dHN0wLo/hqdefault.jpg"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/22123ca35830d33778466f80c42387a51ef49f22-2401x1261.png": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/22123ca35830d33778466f80c42387a51ef49f22-2401x1261.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/4a8e8f86cf31ad6401cfd426124929c8e58fe0c5-2401x1261.png": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4a8e8f86cf31ad6401cfd426124929c8e58fe0c5-2401x1261.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/77f187335e1266bffc59353c064f1d9c6de51cfa-1940x1304.png": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/77f187335e1266bffc59353c064f1d9c6de51cfa-1940x1304.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://substack-post-media.s3.amazonaws.com/public/images/ad67a86a-2bf8-4ae7-8adc-d782c2e7fb46_1024x1024.png": {
+  "url": "https://substack-post-media.s3.amazonaws.com/public/images/ad67a86a-2bf8-4ae7-8adc-d782c2e7fb46_1024x1024.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:RzQdZeLinyY": {
+  "url": "https://www.youtube.com/watch?v=RzQdZeLinyY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "RzQdZeLinyY",
+  "title": "Rosie Campbell, Robert Long, and Jeff Sebo, \"Studying AI Welfare Empirically\"",
+  "author": "NYU Center for Mind, Ethics, and Policy",
+  "thumbnail": "https://i.ytimg.com/vi/RzQdZeLinyY/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/1/1e/Black_Mirror_-_White_Christmas.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Black_Mirror_-_White_Christmas.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bskf9jyxmMs": {
+  "url": "https://i.ytimg.com/vi/bskf9jyxmMs/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:tJV-vdbZ388": {
+  "url": "https://i.ytimg.com/vi/tJV-vdbZ388/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:hg8v_bIMikc": {
+  "url": "https://i.ytimg.com/vi/hg8v_bIMikc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:SD9M2ud4Rtk": {
+  "url": "https://i.ytimg.com/vi/SD9M2ud4Rtk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3D4pgIKR4cQ": {
+  "url": "https://i.ytimg.com/vi/3D4pgIKR4cQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bddHP58lTHA": {
+  "url": "https://i.ytimg.com/vi/bddHP58lTHA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bBdE7ojaN9k": {
+  "url": "https://i.ytimg.com/vi/bBdE7ojaN9k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:S5fTCyjWtrU": {
+  "url": "https://i.ytimg.com/vi/S5fTCyjWtrU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:2mjvwTrxuAU": {
+  "url": "https://i.ytimg.com/vi/2mjvwTrxuAU/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:sp2yN_x0I4g": {
+  "url": "https://i.ytimg.com/vi/sp2yN_x0I4g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BHsCmRhP4as": {
+  "url": "https://i.ytimg.com/vi/BHsCmRhP4as/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KbTvUOx2A6c": {
+  "url": "https://i.ytimg.com/vi/KbTvUOx2A6c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1GAjmVXjVbI": {
+  "url": "https://i.ytimg.com/vi/1GAjmVXjVbI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:3TYT1QfdfsM": {
+  "url": "https://i.ytimg.com/vi/3TYT1QfdfsM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:EBK-a94IFHY": {
+  "url": "https://i.ytimg.com/vi/EBK-a94IFHY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7Kf9coMuVuI": {
+  "url": "https://i.ytimg.com/vi/7Kf9coMuVuI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:lvMMZLYoDr4": {
+  "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0LW6smaU3Xw": {
+  "url": "https://i.ytimg.com/vi/0LW6smaU3Xw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:RzhpmAlMURQ": {
+  "url": "https://i.ytimg.com/vi/RzhpmAlMURQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kdXbj_rp9AY": {
+  "url": "https://i.ytimg.com/vi/kdXbj_rp9AY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:6n9mrmTTzKs": {
+  "url": "https://i.ytimg.com/vi/6n9mrmTTzKs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zK_rSjEV7x0": {
+  "url": "https://i.ytimg.com/vi/zK_rSjEV7x0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tX42dHN0wLo": {
+  "url": "https://i.ytimg.com/vi/tX42dHN0wLo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:RzQdZeLinyY": {
+  "url": "https://i.ytimg.com/vi/RzQdZeLinyY/maxresdefault.jpg",
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"

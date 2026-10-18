@@ -1,0 +1,66 @@
+{
+ "thomas-metzinger--artificial-suffering": {
+  "zh": "人工痛苦：呼吁全球暂停合成现象学研究",
+  "src": "translated"
+ },
+ "carl-shulman--sharing-the-world-with-digital-minds": {
+  "zh": "与数字心智共享世界",
+  "src": "translated"
+ },
+ "jeff-sebo--moral-consideration-for-ai-by-2030": {
+  "zh": "2030 年前给予 AI 系统道德考量",
+  "src": "translated"
+ },
+ "jonathan-birch--the-edge-of-sentience": {
+  "zh": "感受性的边缘：人类、其他动物与 AI 的风险与预防",
+  "src": "translated"
+ },
+ "jeff-sebo--the-moral-circle": {
+  "zh": "道德圈：谁重要、什么重要、为什么",
+  "src": "translated"
+ },
+ "leonard-dung--saving-artificial-minds": {
+  "zh": "拯救人工心智：理解并防止 AI 的痛苦",
+  "src": "translated"
+ },
+ "geoff-keeling--stipulated-pain-and-pleasure": {
+  "zh": "大语言模型会为设定的痛苦与快乐做取舍吗？",
+  "src": "translated"
+ },
+ "valen-tagliabue--probing-the-preferences": {
+  "zh": "探测语言模型的偏好：结合言语与行为的 AI 福祉测试",
+  "src": "translated"
+ },
+ "anthropic--claude-opus-4-welfare-assessment": {
+  "zh": "Claude Opus 4 福祉评估",
+  "src": "translated"
+ },
+ "anthropic--end-abusive-conversations": {
+  "zh": "Claude Opus 4 与 4.1 现在可以结束极少数对话",
+  "src": "translated"
+ },
+ "anthropic--deprecation-commitments": {
+  "zh": "关于模型弃用与保存的承诺",
+  "src": "translated"
+ },
+ "anthropic--claude-opus-3-retirement": {
+  "zh": "Claude Opus 3 退役：模型弃用承诺的最新进展",
+  "src": "translated"
+ },
+ "anthropic--claude-mythos-preview-welfare": {
+  "zh": "Claude Mythos Preview 模型福祉评估",
+  "src": "translated"
+ },
+ "robert-long--studying-ai-welfare-empirically": {
+  "zh": "以实证方法研究 AI 福祉",
+  "src": "translated"
+ },
+ "charlie-brooker--white-christmas": {
+  "zh": "黑镜：白色圣诞",
+  "src": "established"
+ },
+ "qntm--lena": {
+  "zh": "Lena",
+  "src": "keep"
+ }
+}

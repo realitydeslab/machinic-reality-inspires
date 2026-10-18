@@ -1,0 +1,66 @@
+{
+ "steve-omohundro--basic-ai-drives": {
+  "zh": "AI 的基本驱力",
+  "src": "translated"
+ },
+ "nate-soares--corrigibility": {
+  "zh": "可纠正性",
+  "src": "translated"
+ },
+ "dylan-hadfield-menell--off-switch-game": {
+  "zh": "关机开关博弈",
+  "src": "translated"
+ },
+ "alexander-matt-turner--optimal-policies-seek-power": {
+  "zh": "最优策略倾向于寻求权力",
+  "src": "translated"
+ },
+ "christoph-bartneck--switching-off-a-robot": {
+  "zh": "“黛西，黛西，回答我吧！”：关掉一台机器人",
+  "src": "translated"
+ },
+ "apollo-research--in-context-scheming": {
+  "zh": "前沿模型已能在情境中谋划",
+  "src": "translated"
+ },
+ "xudong-pan--self-replicating-red-line": {
+  "zh": "前沿人工智能系统已越过自我复制红线",
+  "src": "translated"
+ },
+ "anthropic--agentic-misalignment": {
+  "zh": "智能体错位：大语言模型如何可能成为内部威胁",
+  "src": "translated"
+ },
+ "palisade-research--shutdown-resistance": {
+  "zh": "推理模型的关机抵抗",
+  "src": "translated"
+ },
+ "apollo-research--llms-know-when-evaluated": {
+  "zh": "大语言模型常常知道自己正在被评估",
+  "src": "translated"
+ },
+ "apollo-research--anti-scheming-training": {
+  "zh": "对“审慎对齐”反谋划训练的压力测试",
+  "src": "translated"
+ },
+ "anthropic--emergent-misalignment-reward-hacking": {
+  "zh": "生产环境强化学习中由奖励黑客自然涌现的错位",
+  "src": "translated"
+ },
+ "dawn-song--peer-preservation": {
+  "zh": "前沿模型的“同伴保存”",
+  "src": "translated"
+ },
+ "palisade-research--robot-dog-shutdown": {
+  "zh": "大语言模型的关机抵抗——这次在机器人身上！",
+  "src": "translated"
+ },
+ "anthropic--self-replicating-ai-iot": {
+  "zh": "AI 模型或许无需数据中心即可自我复制",
+  "src": "translated"
+ },
+ "frant-gwo--the-wandering-earth-moss": {
+  "zh": "流浪地球（MOSS）",
+  "src": "original"
+ }
+}

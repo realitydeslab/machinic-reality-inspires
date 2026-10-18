@@ -2549,6 +2549,39 @@
   "batch": "recent-relational"
  },
  {
+  "name": "Anil Seth, Conscious artificial intelligence and biological naturalism (Behavioral and Brain Sciences, 2025)",
+  "why": "BBS target article arguing consciousness may depend on being alive, so LLM consciousness is unlikely; widely debated (54+ citations).",
+  "link": "https://doi.org/10.1017/S0140525X25000032",
+  "found_via": "clara-colombatto",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "anil-seth--conscious-ai-and-biological-naturalism"
+  ]
+ },
+ {
+  "name": "Jonathan Birch, The Edge of Sentience (Oxford University Press, 2024)",
+  "why": "Open-access book on precaution for beings of uncertain sentience, with chapters on AI; complements Taking AI Welfare Seriously.",
+  "link": "https://doi.org/10.1093/9780191966729.001.0001",
+  "found_via": "robert-long",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "jonathan-birch--the-edge-of-sentience"
+  ]
+ },
+ {
+  "name": "Murray Shanahan, Simulacra as conscious exotica (Inquiry, 2024)",
+  "why": "Treats LLM dialogue agents as role-playing simulacra and asks what 'conscious exotica' would mean; key text on LLM interiority.",
+  "link": "https://doi.org/10.1080/0020174X.2024.2434860",
+  "found_via": "ryan-greenblatt",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "murray-shanahan--simulacra-as-conscious-exotica"
+  ]
+ },
+ {
   "name": "Patrick Butlin, Robert Long et al., Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)",
   "why": "Peer-reviewed journal version of the 2023 indicator-properties report (same method, 19 authors); not added as a separate work. Curator could add DOI 10.1016/j.tics.2025.10.011 to patrick-butlin--consciousness-in-artificial-intelligence.",
   "link": "https://doi.org/10.1016/j.tics.2025.10.011",

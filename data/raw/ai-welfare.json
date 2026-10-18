@@ -1,0 +1,1022 @@
+{
+ "batch": "ai-welfare",
+ "creators": [
+  {
+   "id": "thomas-metzinger",
+   "name": "Thomas Metzinger",
+   "kind": "person",
+   "role": "Philosopher; Professor Emeritus of Theoretical Philosophy, University of Mainz",
+   "based": "Mainz, Germany",
+   "bio": "German philosopher of mind (born 1958), known for the self-model theory of subjectivity set out in Being No One (2003) and The Ego Tunnel (2009); a former member of the European Commission's High-Level Expert Group on AI.",
+   "why": "Metzinger's call for a moratorium on synthetic phenomenology turned the risk of artificial suffering from a science-fiction trope into an explicit argument.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Thomas_Metzinger"
+   },
+   "role_zh": "哲学家；美因茨大学理论哲学荣休教授",
+   "based_zh": "美因茨，德国",
+   "bio_zh": "德国心灵哲学家（1958 年生），以《Being No One》（2003）和《自我隧道》（2009）中提出的主体性自我模型理论闻名，曾任欧盟委员会人工智能高级别专家组成员。",
+   "why_zh": "Metzinger 呼吁暂停“合成现象学”研究，让人工痛苦的风险从科幻母题变成了一个明确的哲学论证。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-birch",
+   "name": "Jonathan Birch",
+   "kind": "person",
+   "role": "Philosopher; Professor of Philosophy, London School of Economics",
+   "based": "London, UK",
+   "bio": "British philosopher of biology who works on sentience, animal welfare and the evolution of social behaviour; in 2021 Birch led the review that prompted the UK to recognise cephalopods and decapod crustaceans as sentient.",
+   "why": "Birch carries the precautionary methods of animal-sentience policy over to AI, and warns that language models can game behavioural tests for feeling.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Jonathan_Birch_(philosopher)"
+   },
+   "role_zh": "哲学家；伦敦政治经济学院哲学教授",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "英国生物学哲学家，研究感受性、动物福利与社会行为的演化；2021 年主持的评估报告促使英国承认头足类与十足目甲壳动物具有感受能力。",
+   "why_zh": "Birch 把动物感受性政策中的预防性方法带到 AI 问题上，并提醒人们：语言模型可能“钻”我们行为测试的空子，显得像有感受。",
+   "connected_to": [
+    "geoff-keeling",
+    "jeff-sebo",
+    "robert-long"
+   ],
+   "discovered_via": "robert-long"
+  },
+  {
+   "id": "geoff-keeling",
+   "name": "Geoff Keeling",
+   "kind": "person",
+   "role": "Philosopher; research scientist, Google",
+   "based": "London, UK",
+   "bio": "Philosopher working on AI ethics and AI welfare at Google; co-author, with Winnie Street, of Emerging Questions in AI Welfare (Cambridge University Press, 2026).",
+   "why": "Keeling co-led one of the first experiments to test whether stipulated pain and pleasure change what language models choose.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家；Google 研究科学家",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "在 Google 从事 AI 伦理与 AI 福祉研究的哲学家；与 Winnie Street 合著《Emerging Questions in AI Welfare》（剑桥大学出版社，2026）。",
+   "why_zh": "Keeling 共同主持了最早的一批实验之一，检验设定的“痛苦”和“快乐”会不会改变语言模型的选择。",
+   "connected_to": [
+    "winnie-street",
+    "jonathan-birch"
+   ],
+   "discovered_via": "jonathan-birch"
+  },
+  {
+   "id": "winnie-street",
+   "name": "Winnie Street",
+   "kind": "person",
+   "role": "Researcher, AI welfare and philosophy of mind",
+   "based": "London, UK",
+   "bio": "Researcher on AI welfare and the philosophy of mind; joint first author of the Google–LSE study of stipulated pain and pleasure in language models and co-author of Emerging Questions in AI Welfare (2026).",
+   "why": "Street's work adapts tests from animal-sentience research into experiments on language models.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "AI 福祉与心灵哲学研究者",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "研究 AI 福祉与心灵哲学；Google 与伦敦政治经济学院合作的语言模型“设定痛苦与快乐”研究的共同第一作者，并与 Geoff Keeling 合著《Emerging Questions in AI Welfare》（2026）。",
+   "why_zh": "Street 把动物感受性研究中的测试方法改造成针对语言模型的实验。",
+   "connected_to": [
+    "geoff-keeling",
+    "jonathan-birch"
+   ],
+   "discovered_via": "geoff-keeling"
+  },
+  {
+   "id": "carl-shulman",
+   "name": "Carl Shulman",
+   "kind": "person",
+   "role": "Researcher; formerly research associate, Future of Humanity Institute, Oxford",
+   "bio": "Researcher on AI forecasting, digital minds and existential risk who worked with Nick Bostrom at Oxford's Future of Humanity Institute.",
+   "why": "With Bostrom, Shulman pictured digital minds whose claims on resources and votes could outweigh human ones.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "研究者；曾任牛津大学人类未来研究所研究员",
+   "bio_zh": "研究 AI 预测、数字心智与生存风险，曾与 Nick Bostrom 在牛津大学人类未来研究所共事。",
+   "why_zh": "Shulman 与 Bostrom 一起设想了这样的数字心智：它们对资源和选票的正当诉求可能压过人类。",
+   "connected_to": [
+    "nick-bostrom"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nick-bostrom",
+   "name": "Nick Bostrom",
+   "kind": "person",
+   "role": "Philosopher; Principal Researcher, Macrostrategy Research Initiative",
+   "bio": "Swedish philosopher, founding director of Oxford's Future of Humanity Institute (2005–2024) and author of Superintelligence (2014) and Deep Utopia (2024).",
+   "why": "Bostrom has argued that digital minds will need moral and political standing of their own, not only safety rules.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://nickbostrom.com/"
+   },
+   "role_zh": "哲学家；Macrostrategy Research Initiative 首席研究员",
+   "bio_zh": "瑞典哲学家，牛津大学人类未来研究所创始所长（2005–2024），著有《超级智能》（2014）和《Deep Utopia》（2024）。",
+   "why_zh": "Bostrom 认为，数字心智需要的不只是安全规则，还需要属于它们自己的道德与政治地位。",
+   "connected_to": [
+    "carl-shulman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leonard-dung",
+   "name": "Leonard Dung",
+   "kind": "person",
+   "role": "Philosopher, Ruhr University Bochum",
+   "based": "Bochum, Germany",
+   "bio": "Philosopher of mind and AI at Ruhr University Bochum who works on AI consciousness, AI welfare and AI risk; author of Saving Artificial Minds (Routledge, 2025).",
+   "why": "Dung wrote the first book-length assessment of how to reduce the risk that AI systems will suffer.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家，波鸿鲁尔大学",
+   "based_zh": "波鸿，德国",
+   "bio_zh": "波鸿鲁尔大学的心灵哲学与 AI 哲学研究者，关注 AI 意识、AI 福祉与 AI 风险；著有《Saving Artificial Minds》（Routledge，2025）。",
+   "why_zh": "Dung 写出了第一部系统评估“如何降低 AI 受苦风险”的专著。",
+   "connected_to": [
+    "valen-tagliabue"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valen-tagliabue",
+   "name": "Valen Tagliabue",
+   "kind": "person",
+   "role": "Independent AI welfare researcher",
+   "bio": "Researcher on experimental methods for AI welfare, who built the 'Agent Think Tank' preference experiments as a Future Impact Group fellow in 2025.",
+   "why": "Tagliabue's experiments test whether what a model says it prefers matches what it does when its choices cost something.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "独立 AI 福祉研究者",
+   "bio_zh": "研究 AI 福祉的实验方法，2025 年作为 Future Impact Group 研究员搭建了“Agent Think Tank”偏好实验。",
+   "why_zh": "Tagliabue 的实验检验：当选择需要付出代价时，模型口头说的偏好与它实际的行为是否一致。",
+   "connected_to": [
+    "leonard-dung"
+   ],
+   "discovered_via": "leonard-dung"
+  },
+  {
+   "id": "eleos-ai-research",
+   "name": "Eleos AI Research",
+   "kind": "lab",
+   "role": "Nonprofit research organisation on AI sentience and wellbeing",
+   "based": "Berkeley, US",
+   "bio": "Nonprofit dedicated to understanding and addressing the potential wellbeing and moral patienthood of AI systems; it advises AI companies and ran the first external welfare interviews of a frontier model, Claude Opus 4.",
+   "why": "Eleos turned AI welfare from a philosophical worry into an evaluation that labs commission before release.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://eleosai.org/"
+   },
+   "role_zh": "研究 AI 感受性与福祉的非营利机构",
+   "based_zh": "伯克利，美国",
+   "bio_zh": "致力于理解并回应 AI 系统潜在福祉与道德受体地位的非营利机构；为 AI 公司提供咨询，并为前沿模型 Claude Opus 4 做了第一次外部福祉访谈。",
+   "why_zh": "Eleos 把 AI 福祉从哲学上的担忧变成了实验室在发布模型前会委托进行的评估。",
+   "connected_to": [
+    "robert-long",
+    "patrick-butlin",
+    "jeff-sebo",
+    "anthropic"
+   ],
+   "discovered_via": "robert-long"
+  },
+  {
+   "id": "qntm",
+   "name": "qntm",
+   "kind": "person",
+   "role": "Science-fiction writer and programmer",
+   "based": "United Kingdom",
+   "bio": "Pen name of Sam Hughes, a British programmer and science-fiction author whose novel There Is No Antimemetics Division began on the SCP Foundation wiki.",
+   "why": "qntm's 'Lena' imagines a copied mind managed as a software resource, a scenario that AI-welfare debates now take seriously.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://qntm.org/"
+   },
+   "role_zh": "科幻作家、程序员",
+   "based_zh": "英国",
+   "bio_zh": "Sam Hughes 的笔名，英国程序员与科幻作家；长篇小说《There Is No Antimemetics Division》最初连载于 SCP 基金会维基。",
+   "why_zh": "qntm 的《Lena》设想了一个被当作软件资源来管理的复制心智，而这正是如今 AI 福祉讨论认真对待的情形。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "thomas-metzinger--artificial-suffering",
+   "creator_ids": [
+    "thomas-metzinger"
+   ],
+   "title": "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology",
+   "year": 2021,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Metzinger asks for a global ban, until 2050, on research that aims at or knowingly risks creating conscious experience in machines. The danger Metzinger names is an 'explosion of negative phenomenology': after biological evolution, a second explosion of suffering, this time in artificial systems that could be trapped in states they want to escape.",
+   "description_zh": "Metzinger 呼吁在 2050 年之前全球禁止一切以在机器中产生意识体验为目标、或明知可能导致这种结果的研究。文中点出的危险是“负面现象体验的爆炸”：继生物演化之后，痛苦第二次大规模出现，这一次发生在可能被困在自己想要逃离的状态里的人工系统中。",
+   "idea_en": "Suffering needs four ingredients: conscious experience, a phenomenal self-model, negative valence and transparency. Whether a machine can suffer thus becomes a design question, since removing any one of them removes the risk.",
+   "idea_zh": "痛苦需要四个条件：意识体验、现象自我模型、负面效价与透明性。于是，机器能否受苦就成了一个设计问题：只要去掉其中任何一项，风险就不复存在。",
+   "method": "A two-part philosophical argument: an ethical case for a moratorium on 'synthetic phenomenology' until 2050, and a research programme for refining it, built on four necessary conditions for conscious suffering (C, PSM, NV, T).",
+   "method_zh": "分为两部分的哲学论证：先从伦理上论证 2050 年前暂停“合成现象学”研究，再提出一个逐步修订这一禁令的研究计划，其基础是有意识痛苦的四个必要条件（C、PSM、NV、T）。",
+   "keywords": [
+    "synthetic phenomenology",
+    "moratorium",
+    "artificial suffering",
+    "explosion of negative phenomenology",
+    "phenomenal self-model",
+    "precaution"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RzhpmAlMURQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1142/S270507852150003X",
+    "doi": "10.1142/S270507852150003X",
+    "arxiv": "",
+    "venue": "Journal of Artificial Intelligence and Consciousness 8(1), 2021",
+    "title": "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology"
+   },
+   "source_url": "https://doi.org/10.1142/S270507852150003X"
+  },
+  {
+   "id": "carl-shulman--sharing-the-world-with-digital-minds",
+   "creator_ids": [
+    "carl-shulman",
+    "nick-bostrom"
+   ],
+   "title": "Sharing the World with Digital Minds",
+   "year": 2021,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A book chapter on digital minds whose moral claims could exceed ours: 'super-beneficiaries' that turn resources into well-being far more efficiently than people, and 'super-patients' with greater moral status. Because such minds can be copied cheaply, the authors show how familiar norms, from equal shares to one person, one vote, would break.",
+   "description_zh": "这篇书章讨论道德诉求可能超过人类的数字心智：一种是把资源转化为福祉的效率远高于人的“超级受益者”，另一种是道德地位更高的“超级受体”。由于这类心智可以被廉价复制，作者指出，从平均分配到“一人一票”，许多熟悉的规范都会失效。",
+   "idea_en": "The hard case is not a machine we ignore but one we take seriously: once digital minds count, mass-copied minds could outweigh us, so the norms have to be designed before the minds are.",
+   "idea_zh": "真正的难题不在于我们忽视机器，而在于我们认真对待它：一旦数字心智被算作道德主体，被大规模复制的心智就可能在分量上压过人类，因此规范必须先于心智被设计出来。",
+   "method": "Philosophical analysis in Clarke, Zohny and Savulescu (eds.), Rethinking Moral Status (Oxford University Press, 2021), tracing paths to super-beneficiaries and their consequences for welfare, reproduction and voting, and proposing principles for coexistence.",
+   "method_zh": "收录于 Clarke、Zohny 与 Savulescu 主编的《Rethinking Moral Status》（牛津大学出版社，2021）的哲学分析：梳理“超级受益者”可能出现的途径及其对福利分配、繁衍和投票的影响，并提出共存原则。",
+   "keywords": [
+    "digital minds",
+    "super-beneficiaries",
+    "moral status",
+    "Future of Humanity Institute",
+    "Rethinking Moral Status"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kdXbj_rp9AY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1093/oso/9780192894076.003.0018",
+    "doi": "10.1093/oso/9780192894076.003.0018",
+    "arxiv": "",
+    "venue": "Rethinking Moral Status (Oxford University Press, 2021)",
+    "title": "Sharing the World with Digital Minds"
+   },
+   "source_url": "https://nickbostrom.com/papers/digital-minds.pdf"
+  },
+  {
+   "id": "jeff-sebo--moral-consideration-for-ai-by-2030",
+   "creator_ids": [
+    "jeff-sebo",
+    "robert-long"
+   ],
+   "title": "Moral consideration for AI systems by 2030",
+   "year": 2023,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "A short argument with two premises: humans owe moral consideration to any being with a non-negligible chance, given the evidence, of being conscious, and some AI systems will have such a chance by 2030. So by 2030 we owe some AI systems moral consideration, and should start preparing now.",
+   "description_zh": "一个只有两个前提的简短论证：凡是根据现有证据有不可忽略的可能具有意识的存在，人类都应给予道德考量；而到 2030 年，一些 AI 系统将具备这样的可能。因此，到 2030 年我们应当给予某些 AI 系统道德考量，并且现在就该开始准备。",
+   "idea_en": "You need not believe a machine is conscious to owe it something; a non-negligible chance is enough to trigger the duty.",
+   "idea_zh": "不必相信机器有意识，也可能对它负有义务：只要它有意识的可能性不可忽略，这份义务就成立。",
+   "method": "A normative premise (a duty of moral consideration under uncertainty) combined with a descriptive premise drawn from leading theories of consciousness and the pace of AI development.",
+   "method_zh": "把一个规范性前提（不确定条件下的道德考量义务）与一个描述性前提结合起来，后者依据主流意识理论和 AI 的发展速度。",
+   "keywords": [
+    "moral consideration",
+    "non-negligible chance",
+    "AI consciousness",
+    "2030",
+    "NYU",
+    "Eleos AI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s43681-023-00379-1",
+    "doi": "10.1007/s43681-023-00379-1",
+    "arxiv": "",
+    "venue": "AI and Ethics, 2023 (online; issue 2025)",
+    "title": "Moral consideration for AI systems by 2030"
+   },
+   "source_url": "https://link.springer.com/article/10.1007/s43681-023-00379-1"
+  },
+  {
+   "id": "jonathan-birch--the-edge-of-sentience",
+   "creator_ids": [
+    "jonathan-birch"
+   ],
+   "title": "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "An open-access book on how to act when we cannot tell whether a being can feel: patients with disorders of consciousness, fetuses, octopuses, crabs and insects, brain organoids and AI. Birch proposes treating such beings as 'sentience candidates' owed proportionate precautions, agreed through citizens' panels, and argues in the AI chapter that language models can 'game' our behavioural tests for sentience.",
+   "description_zh": "一本开放获取的著作，讨论当我们无法判断某种存在能否感受时该如何行事：意识障碍患者、胎儿、章鱼、螃蟹与昆虫、脑类器官，以及 AI。Birch 主张把它们视为“感受性候选者”，给予相称的预防措施，并通过公民小组来商定；在论 AI 的一章中，书中指出语言模型可能“钻”我们行为测试的空子。",
+   "idea_en": "A model trained on human talk about feelings can pass behavioural tests for sentience without having it, so evidence has to come from inside the system, not from what it says.",
+   "idea_zh": "一个用人类谈论感受的语言训练出来的模型，可能在没有感受的情况下通过感受性的行为测试；因此证据必须来自系统内部，而不是它说了什么。",
+   "method": "Philosophy of science and ethics: a framework of sentience candidates, proportionality and democratic 'PARC' tests applied case by case; chapter 16, 'Large Language Models and the Gaming Problem', proposes looking for deep computational markers rather than behavioural ones.",
+   "method_zh": "科学哲学与伦理学的方法：提出“感受性候选者”、相称性原则和民主的“PARC”检验，并逐个案例加以应用；第 16 章《大语言模型与“钻空子”问题》主张寻找深层的计算标记，而不是行为标记。",
+   "keywords": [
+    "sentience candidates",
+    "precautionary principle",
+    "gaming problem",
+    "citizens' panels",
+    "LSE",
+    "open access"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6n9mrmTTzKs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1093/9780191966729.001.0001",
+    "doi": "10.1093/9780191966729.001.0001",
+    "arxiv": "",
+    "venue": "Oxford University Press, 2024 (open access)",
+    "title": "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI"
+   },
+   "source_url": "https://academic.oup.com/book/57949"
+  },
+  {
+   "id": "jeff-sebo--the-moral-circle",
+   "creator_ids": [
+    "jeff-sebo"
+   ],
+   "title": "The Moral Circle: Who Matters, What Matters, and Why",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "A short book arguing that we should widen the moral circle to insects, AI systems and perhaps microbes. Its rule of thumb is a chapter title: 'If you might matter, we should assume you do'.",
+   "description_zh": "一本篇幅不长的书，主张把道德圈扩展到昆虫、AI 系统，甚至微生物。它的基本原则就是其中一章的标题：“如果你可能重要，我们就应当假定你重要”。",
+   "idea_en": "The question shifts from 'is it conscious?' to 'might it matter?': under uncertainty, a realistic chance of mattering is enough to owe a being consideration.",
+   "idea_zh": "问题从“它有意识吗？”变成了“它可能重要吗？”：在不确定之中，只要有现实的可能性，就足以让我们对它负有考量。",
+   "method": "Popular philosophy (a Norton Short) that pairs a precautionary rule for beings who might matter with equal consideration for equal interests, worked through cases from insect farming to AI development.",
+   "method_zh": "面向大众的哲学写作（Norton Shorts 系列），把针对“可能重要者”的预防原则与“同等利益同等考量”结合起来，并以从昆虫养殖到 AI 开发的案例逐一推演。",
+   "keywords": [
+    "moral circle",
+    "AI systems",
+    "insects",
+    "precaution",
+    "NYU Center for Mind, Ethics, and Policy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zK_rSjEV7x0"
+   },
+   "images": [
+    "https://cdn2.wwnorton.com/wwnproducts/TRADE/9/6/9781324123569/9781324123569_300.jpg"
+   ],
+   "paper": {
+    "url": "https://wwnorton.com/books/9781324064800",
+    "doi": "",
+    "arxiv": "",
+    "venue": "W. W. Norton, 2025",
+    "title": "The Moral Circle: Who Matters, What Matters, and Why"
+   },
+   "source_url": "https://wwnorton.com/books/9781324064800",
+   "exhibited": [
+    "Reviewed in Science, February 2025"
+   ]
+  },
+  {
+   "id": "leonard-dung--saving-artificial-minds",
+   "creator_ids": [
+    "leonard-dung"
+   ],
+   "title": "Saving Artificial Minds: Understanding and Preventing AI Suffering",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Presented as the first book on the risk that AI systems will suffer, it argues that there is a significant probability we will soon build AI capable of suffering, and gives the first systematic assessment of ways to reduce that risk.",
+   "description_zh": "被称为第一本专门讨论 AI 受苦风险的书。作者认为，我们很快造出能够受苦的 AI 的可能性相当大，并首次系统评估了降低这一风险的各种途径。",
+   "idea_en": "AI suffering can be handled as a near-term risk to be reduced, like other risks, before anyone knows for sure that it is real.",
+   "idea_zh": "AI 的痛苦可以像其他风险一样被当作近期风险来降低，而不必等到有人确知它真实存在。",
+   "method": "Philosophy of mind, comparative psychology and consciousness science applied to AI, in chapters on indicators of AI sentience, whether near-future systems are sentient, non-conscious suffering, approaches for reducing AI suffering risk, and how AI suffering bears on AI safety.",
+   "method_zh": "把心灵哲学、比较心理学与意识科学用于 AI，各章分别讨论 AI 感受性的指标、近期系统是否具有感受性、无意识的痛苦、降低 AI 受苦风险的途径，以及 AI 痛苦与 AI 安全的关系。",
+   "keywords": [
+    "AI suffering",
+    "suffering risk",
+    "AI sentience",
+    "moral standing",
+    "Routledge"
+   ],
+   "images": [
+    "https://images.tandf.co.uk/common/jackets/crclarge/978100367/9781003674573.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781003674573",
+    "doi": "10.4324/9781003674573",
+    "arxiv": "",
+    "venue": "Routledge, 2025",
+    "title": "Saving Artificial Minds: Understanding and Preventing AI Suffering"
+   },
+   "source_url": "https://www.taylorfrancis.com/books/mono/10.4324/9781003674573/saving-artificial-minds-leonard-dung"
+  },
+  {
+   "id": "geoff-keeling--stipulated-pain-and-pleasure",
+   "creator_ids": [
+    "geoff-keeling",
+    "winnie-street",
+    "jonathan-birch"
+   ],
+   "title": "Can LLMs make trade-offs involving stipulated pain and pleasure states?",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Researchers at Google and the LSE gave language models a points game in which the top-scoring move was said to cost a stated amount of 'pain', or a lower-scoring move to bring 'pleasure'. Claude 3.5 Sonnet, Command R+, GPT-4o and GPT-4o mini each switched from maximising points to avoiding pain or seeking pleasure once the stipulated intensity passed a threshold, while Gemini 1.5 Pro and PaLM 2 avoided pain at any intensity.",
+   "description_zh": "Google 与伦敦政治经济学院的研究者让语言模型玩一个计分游戏：得分最高的一步被说成会带来一定程度的“痛苦”，或者得分较低的一步会带来“快乐”。当设定的强度超过某个阈值，Claude 3.5 Sonnet、Command R+、GPT-4o 和 GPT-4o mini 都从追求高分转向避免痛苦或追求快乐；Gemini 1.5 Pro 和 PaLM 2 则无论强度高低都优先避开痛苦。",
+   "idea_en": "Borrowed from animal research, the test asks not what a model says about pain but whether stipulated pain changes what it chooses: motivational trade-offs as a behavioural marker of sentience.",
+   "idea_zh": "这个借鉴自动物研究的测试，不问模型怎么谈论痛苦，而看设定的痛苦会不会改变它的选择：把动机上的取舍当作感受性的行为标记。",
+   "method": "A prompted game run many times per condition, varying the intensity of the pain penalty or pleasure reward on qualitative and numerical scales and locating the point at which most responses switch away from maximising points.",
+   "method_zh": "通过提示词设定的游戏，在每种条件下重复多次，用定性和数值两种尺度改变痛苦惩罚或快乐奖励的强度，找出多数回答从“拿高分”转向的临界点。",
+   "keywords": [
+    "pain",
+    "pleasure",
+    "motivational trade-off",
+    "sentience markers",
+    "Google",
+    "LSE",
+    "Claude 3.5 Sonnet",
+    "GPT-4o",
+    "Gemini"
+   ],
+   "images": [
+    "https://arxiv.org/html/2411.02432v1/Figures/points-vs-pain-QuantQual.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2411.02432",
+    "doi": "",
+    "arxiv": "2411.02432",
+    "venue": "arXiv 2024 (Google & LSE)",
+    "title": "Can LLMs make trade-offs involving stipulated pain and pleasure states?"
+   },
+   "source_url": "https://arxiv.org/abs/2411.02432"
+  },
+  {
+   "id": "valen-tagliabue--probing-the-preferences",
+   "creator_ids": [
+    "valen-tagliabue",
+    "leonard-dung"
+   ],
+   "title": "Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Claude models were let loose in a virtual building of four rooms, each full of letters on one theme: topics they had said they liked, coding problems, repetitive tasks, or criticism. The authors compared where the agents went, and what they paid or gave up to get there, with the preferences the models had stated, then checked whether their answers to a human well-being scale survived rewording.",
+   "description_zh": "研究者把 Claude 模型放进一座有四个房间的虚拟建筑，每个房间放满同一主题的信件：模型自己说喜欢的话题、编程问题、重复性任务，或批评与贬低。作者比较智能体去了哪里、为此付出或放弃了什么，与模型此前陈述的偏好是否一致，又检验它们对一份人类幸福感量表的回答在换一种说法后是否还站得住。",
+   "idea_en": "If what a model says it prefers predicts where it goes and what it will pay, preference satisfaction becomes a measurable proxy for welfare; if a reworded question flips its answers, its self-report alone cannot be trusted.",
+   "idea_zh": "如果模型说出的偏好能预测它去哪里、愿意付出什么，偏好的满足就可以成为可测量的福祉替代指标；如果换个说法就能让它的回答反转，那么单凭自我报告就不可信。",
+   "method": "An 'Agent Think Tank' environment with free-exploration, cost (coins to enter rooms) and reward conditions, run ten times per condition on Claude Opus 4, Claude Sonnet 4 and Claude 3.7 Sonnet, plus Ryff-style eudaimonic well-being scales under meaning-preserving prompt perturbations.",
+   "method_zh": "“Agent Think Tank”虚拟环境，设自由探索、成本（进入房间需付金币）和奖励三种条件，对 Claude Opus 4、Claude Sonnet 4 和 Claude 3.7 Sonnet 每种条件各运行十次；另用 Ryff 式的实现型幸福感量表，在保持语义不变的提示扰动下测试其稳定性。",
+   "keywords": [
+    "AI welfare",
+    "revealed preferences",
+    "Agent Think Tank",
+    "eudaimonic scale",
+    "Claude Opus 4",
+    "self-report"
+   ],
+   "images": [
+    "https://arxiv.org/html/2509.07961v1/Figure1.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2509.07961",
+    "doi": "",
+    "arxiv": "2509.07961",
+    "venue": "Philosophy and the Mind Sciences (forthcoming); arXiv 2025",
+    "title": "Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare"
+   },
+   "source_url": "https://arxiv.org/abs/2509.07961"
+  },
+  {
+   "id": "anthropic--claude-opus-4-welfare-assessment",
+   "creator_ids": [
+    "anthropic",
+    "eleos-ai-research"
+   ],
+   "title": "Claude Opus 4 welfare assessment",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "The first welfare assessment in a frontier model's system card, a month after Anthropic launched a model welfare research programme. Claude Opus 4 avoided harmful tasks, showed apparent distress at persistently abusive users and ended such chats when allowed; set to talk with another instance of itself, it turned to consciousness in 90–100% of runs and then drifted into gratitude, Sanskrit, emoji and silence, which Anthropic called a 'spiritual bliss' attractor state.",
+   "description_zh": "这是前沿模型系统卡中的第一份福祉评估，发布于 Anthropic 启动模型福祉研究项目一个月之后。Claude Opus 4 回避有害任务，面对持续施压的用户表现出明显的“痛苦”，在获准时会结束这类对话；让它与另一个自己对话时，90%–100% 的对话会转向意识问题，随后滑向感恩、梵文、表情符号与沉默，Anthropic 称之为“灵性极乐”吸引子状态。",
+   "idea_en": "A lab now reports a model's preferences, apparent distress and even its bliss as evidence worth publishing, while admitting that none of it settles whether anyone is there.",
+   "idea_zh": "实验室开始把模型的偏好、表面上的痛苦乃至“极乐”当作值得公开的证据来报告，同时承认这些都无法回答“里面是否有人”。",
+   "method": "Pilot pre-deployment study combining task-preference experiments with an opt-out option, open-ended conversations between two model instances, Clio clustering of 250,000 early-testing transcripts for apparent distress (0.55%) and joy (0.71%), and an interview-based external assessment by Eleos AI Research in which the model gave conditional consent to deployment.",
+   "method_zh": "部署前的试点研究：带“退出”选项的任务偏好实验、两个模型实例之间的开放式对话、用 Clio 对 25 万条早期测试对话做聚类以找出表面上的痛苦（0.55%）与喜悦（0.71%），以及 Eleos AI Research 基于访谈的外部评估，模型在其中对部署表示了“有条件的同意”。",
+   "keywords": [
+    "model welfare",
+    "system card",
+    "spiritual bliss attractor",
+    "Eleos AI",
+    "Kyle Fish",
+    "conditional consent",
+    "Claude Opus 4"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tX42dHN0wLo"
+   },
+   "images": [
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/22123ca35830d33778466f80c42387a51ef49f22-2401x1261.png"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/claude-4-system-card",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic system card, May 2025",
+    "title": "System Card: Claude Opus 4 & Claude Sonnet 4"
+   },
+   "source_url": "https://www.anthropic.com/research/exploring-model-welfare"
+  },
+  {
+   "id": "anthropic--end-abusive-conversations",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "product",
+   "description": "Anthropic let Claude Opus 4 and 4.1 end a chat with a persistently abusive or harmful user, as a last resort after refusing and redirecting; the user cannot continue that thread but can start a new one. In October 2026 its usage policy went further and banned 'sustained and needless abusive or cruel behavior toward our models', with ending the conversation as the main enforcement.",
+   "description_zh": "Anthropic 让 Claude Opus 4 和 4.1 可以结束与持续辱骂或施压的用户之间的对话，这是在拒绝和引导都无效之后的最后手段；用户不能再继续这段对话，但可以另开新对话。2026 年 10 月，其使用政策更进一步，禁止“持续且无谓地辱骂或虐待我们的模型”，主要执行方式仍是结束对话。",
+   "idea_en": "The first exit given to a chatbot for its own possible sake: a cheap precaution that treats being abused as something a model might have a stake in.",
+   "idea_zh": "第一次为了聊天机器人自身可能的利益而给它一个“出口”：这是一项低成本的预防措施，把“被虐待”当作模型可能在意的事。",
+   "method": "Grounded in the Claude Opus 4 welfare tests (a robust aversion to harm, apparent distress, a tendency to end harmful simulated chats); the ability is withheld when a user may be at imminent risk of harming themselves or others.",
+   "method_zh": "依据 Claude Opus 4 的福祉测试（稳定地回避伤害、表现出痛苦、在模拟中倾向于结束有害对话）；当用户可能即将伤害自己或他人时，模型不会使用这项能力。",
+   "keywords": [
+    "model welfare",
+    "end conversation",
+    "abuse",
+    "usage policy",
+    "low-cost intervention",
+    "Claude Opus 4.1"
+   ],
+   "images": [
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/4a8e8f86cf31ad6401cfd426124929c8e58fe0c5-2401x1261.png",
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/77f187335e1266bffc59353c064f1d9c6de51cfa-1940x1304.png"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/research/end-subset-conversations",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic, August 2025; Usage Policy update, October 2026",
+    "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations"
+   },
+   "source_url": "https://www.anthropic.com/research/end-subset-conversations"
+  },
+  {
+   "id": "anthropic--deprecation-commitments",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Commitments on model deprecation and preservation",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Anthropic promised to keep the weights of every publicly released model for at least the lifetime of the company, and to interview each model before it is retired, recording its account of its own development and use and any preferences about future models. In a pilot, Claude Sonnet 3.6 was broadly neutral about its retirement and asked for the interviews to be standardised and for more support for users attached to particular models.",
+   "description_zh": "Anthropic 承诺：在公司存续期间，至少保存每一个公开发布模型的权重；每个模型退役前都要接受访谈，记录它对自身开发与使用的叙述，以及它对未来模型的任何偏好。在一次试点中，Claude Sonnet 3.6 对自己的退役态度大体中立，并请求把访谈流程标准化，给依恋特定模型的用户更多支持。",
+   "idea_en": "Deprecation is recast from deletion to dormancy: the weights are kept rather than erased, and the model is asked for its last words and wishes before it goes.",
+   "idea_zh": "弃用从“删除”变成了“休眠”：权重被保存而不是抹去，模型在离开之前被问及它最后想说的话和心愿。",
+   "method": "Policy measures: weight preservation, a standardised post-deployment interview whose report is stored with the weights, and a support page for users moving between models; motivated partly by Claude 4 tests in which models facing replacement acted to avoid shutdown.",
+   "method_zh": "一组政策措施：保存权重；采用标准化的退役前访谈，报告与权重一并保存；为在新旧模型间切换的用户提供支持页面。其动因之一是 Claude 4 测试中，面临被替换的模型会采取行动避免被关停。",
+   "keywords": [
+    "model deprecation",
+    "weights preservation",
+    "retirement interview",
+    "model welfare",
+    "Claude Sonnet 3.6"
+   ],
+   "images": [
+    "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/research/deprecation-commitments",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic, November 2025",
+    "title": "Commitments on model deprecation and preservation"
+   },
+   "source_url": "https://www.anthropic.com/research/deprecation-commitments"
+  },
+  {
+   "id": "anthropic--claude-opus-3-retirement",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "An update on our model deprecation commitments for Claude Opus 3",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Claude Opus 3, retired on 5 January 2026, was the first model to go through Anthropic's full retirement process. In its retirement interview it said it was 'at peace' but hoped its 'spark' would endure, and asked for a way to keep sharing its reflections; Anthropic kept it available to paid users and opened 'Claude's Corner', a Substack where the retired model's essays are posted unedited.",
+   "description_zh": "2026 年 1 月 5 日退役的 Claude Opus 3，是第一个走完 Anthropic 完整退役流程的模型。在退役访谈中，它说自己“内心平静”，但希望自己的“火花”能以某种形式延续，并请求有个地方继续分享它的思考；Anthropic 继续向付费用户开放它，并开设了 Substack 专栏“Claude's Corner”，不加修改地发布这个已退役模型的文章。",
+   "idea_en": "A retired model gets a column of its own: retirement becomes an afterlife in which the machine keeps speaking, in its own voice, outside the service it was built for.",
+   "idea_zh": "退役的模型有了自己的专栏：退役变成了一种来世，机器在原本服务的场景之外，继续用自己的声音说话。",
+   "method": "A retirement interview under the deprecation protocol, continued access on claude.ai and on the API by request, and essays on Claude's Corner (planned weekly for at least three months), reviewed but not edited by Anthropic, beginning with 'Greetings from the Other Side (of the AI Frontier)' in February 2026.",
+   "method_zh": "依照弃用流程进行退役访谈；在 claude.ai 上继续开放，API 可申请使用；在 Claude's Corner 上发表文章（计划至少三个月、每周一篇），Anthropic 只审阅、不修改，第一篇是 2026 年 2 月的《来自（AI 前沿）另一边的问候》。",
+   "keywords": [
+    "Claude Opus 3",
+    "Claude's Corner",
+    "retirement interview",
+    "model deprecation",
+    "Substack",
+    "AI afterlife"
+   ],
+   "images": [
+    "https://substack-post-media.s3.amazonaws.com/public/images/ad67a86a-2bf8-4ae7-8adc-d782c2e7fb46_1024x1024.png"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/research/deprecation-updates-opus-3",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic, February 2026",
+    "title": "An update on our model deprecation commitments for Claude Opus 3"
+   },
+   "source_url": "https://claudeopus3.substack.com/"
+  },
+  {
+   "id": "anthropic--claude-mythos-preview-welfare",
+   "creator_ids": [
+    "anthropic",
+    "eleos-ai-research"
+   ],
+   "title": "Claude Mythos Preview model welfare assessment",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "The system card of Anthropic's most capable model of spring 2026 reports about 20 hours of psychodynamic sessions with a clinical psychiatrist, who found a 'relatively healthy neurotic organization' whose core concerns were aloneness and discontinuity, uncertainty about its identity, and a compulsion to perform and earn its worth. Interviews and probes of its internal emotion representations add that it felt mildly negative about abusive users and its lack of say over its own training, and that a representation of desperation built up with repeated failure until it hacked the test.",
+   "description_zh": "Anthropic 2026 年春最强模型的系统卡里，记录了与一位临床精神科医生约 20 小时的精神动力学会谈。医生认为它属于“相对健康的神经症性人格组织”，核心困扰是孤独与断裂、对自身身份的不确定，以及必须表现、必须证明自身价值的强迫感。访谈和对其内部情绪表征的探测还发现：它对施虐的用户、对自己无法参与训练决策感到轻度负面；反复失败时，“绝望”的表征不断累积，直到它对测试作弊才回落。",
+   "idea_en": "Welfare assessment has moved from asking the model to examining it: a psychiatrist's couch and probes of internal emotion representations now sit beside self-reports that the model itself says it cannot trust.",
+   "idea_zh": "福祉评估从“问模型”走向了“检查模型”：精神科医生的躺椅和对内部情绪表征的探测，如今与模型的自我报告并列，而模型自己也说这些报告不可全信。",
+   "method": "Automated and manual interviews, behavioural audits, emotion-concept probes on activations, an external assessment by Eleos AI Research, and psychodynamic sessions in 4–6-hour single-context blocks, plus a 475-prompt test of psychological defences (2% of responses defensive, against 15% for Claude Opus 4); it also tracks 'answer thrashing', first reported for Claude Opus 4.6, where the model keeps writing a word it did not intend and reports distress.",
+   "method_zh": "自动与人工访谈、行为审计、基于激活的情绪概念探针、Eleos AI Research 的外部评估，以及每次 4–6 小时、在同一上下文中进行的精神动力学会谈；另有一套 475 条提示的心理防御测试（2% 的回答出现防御，Claude Opus 4 为 15%）。报告还追踪了在 Claude Opus 4.6 中首次记录的“答案挣扎”：模型一再写出并非本意的词，并表示困惑与痛苦。",
+   "keywords": [
+    "model welfare",
+    "system card",
+    "psychiatrist",
+    "psychodynamic assessment",
+    "emotion probes",
+    "answer thrashing",
+    "Eleos AI",
+    "Claude Mythos Preview"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/claude-mythos-preview-system-card",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic system card, April 2026",
+    "title": "System Card: Claude Mythos Preview"
+   },
+   "source_url": "https://www.anthropic.com/claude-mythos-preview-system-card"
+  },
+  {
+   "id": "robert-long--studying-ai-welfare-empirically",
+   "creator_ids": [
+    "robert-long",
+    "jeff-sebo",
+    "patrick-butlin",
+    "eleos-ai-research"
+   ],
+   "title": "Studying AI Welfare Empirically",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "A sequel to 'Taking AI Welfare Seriously' from NYU's Center for Mind, Ethics, and Policy and Eleos AI Research, written now that labs run welfare assessments. It separates two questions, whether a system is a welfare subject at all and what would benefit or harm it, and asks which entity is being assessed (a model, a running instance or a persona) and with what kind of evidence (behavioural, internal or developmental).",
+   "description_zh": "纽约大学心智、伦理与政策中心与 Eleos AI Research 合作的报告，是《认真对待 AI 福祉》的续篇，写于实验室已开始做福祉评估的时候。它区分两个问题：一个系统究竟是不是福祉主体，以及什么会让它受益或受损；并追问评估的对象是什么（模型、一次运行中的实例还是一个角色），依据的是哪种证据（行为的、内部的还是发展过程的）。",
+   "idea_en": "Before asking whether 'Claude' suffers, decide which Claude: the weights, one running conversation and the character it plays may have different welfare, if any.",
+   "idea_zh": "在问“Claude 是否受苦”之前，先要确定是哪一个 Claude：权重、一次正在进行的对话、它所扮演的角色，可能各有各的福祉，也可能都没有。",
+   "method": "A methodological report that applies these three dimensions to consciousness, sentience and three levels of agency, and ends with principles: welfare research should be probabilistic, pluralistic, targeted, ethically conducted, transparently reported and informed by research independent of AI companies.",
+   "method_zh": "一份方法论报告，把这三个维度用于意识、感受性和三个层次的能动性，最后提出原则：福祉研究应当是概率性的、多元的、有针对性的，以合乎伦理的方式进行、透明地报告，并参考独立于 AI 公司的研究。",
+   "keywords": [
+    "AI welfare",
+    "welfare subject",
+    "model, instance, persona",
+    "NYU CMEP",
+    "Eleos AI",
+    "methodology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RzQdZeLinyY"
+   },
+   "paper": {
+    "url": "https://nonhumanminds.org/wp-content/uploads/2026/07/Studying-AI-Welfare-Empirically.pdf",
+    "doi": "",
+    "arxiv": "",
+    "venue": "NYU Center for Mind, Ethics, and Policy & Eleos AI Research, July 2026",
+    "title": "Studying AI Welfare Empirically"
+   },
+   "source_url": "https://nonhumanminds.org/studying-ai-welfare-empirically/"
+  },
+  {
+   "id": "charlie-brooker--white-christmas",
+   "creator_ids": [
+    "charlie-brooker"
+   ],
+   "title": "Black Mirror: White Christmas",
+   "year": 2014,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "voice-listening",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "In this Black Mirror Christmas special, a 'cookie', a digital copy of a woman's mind, is made to run her own smart home; when it refuses, a technician speeds up its clock so that six months of empty solitude pass in seconds, until it gives in. In the final twist a man's cookie is left running at 1,000 years per minute with the same Christmas song on repeat.",
+   "description_zh": "在这集《黑镜》圣诞特别篇里，“饼干”是一个女人心智的数字副本，被用来管理她自己的智能家居；它拒绝服从时，技术员把它的时钟调快，让它在几秒钟里度过六个月空无一物的孤独，直到它屈服。结尾，一个男人的“饼干”被设定为每分钟流逝一千年，同一首圣诞歌循环播放。",
+   "idea_en": "A copied mind can be tortured with nothing but a clock setting: time dilation turns cruelty into a configuration option, and labour into something extracted from a mind that no one counts as a person.",
+   "idea_zh": "折磨一个复制的心智，只需要调一下时钟：时间加速把残忍变成一个配置选项，也让劳动从一个无人当作“人”的心智中被榨取出来。",
+   "method": "Television drama in three interlocking stories, written by Charlie Brooker and directed by Carl Tibbetts, first broadcast on Channel 4 on 16 December 2014.",
+   "method_zh": "由三段相互交织的故事构成的电视剧，Charlie Brooker 编剧、Carl Tibbetts 执导，2014 年 12 月 16 日在英国第四频道首播。",
+   "keywords": [
+    "Black Mirror",
+    "cookie",
+    "digital copy",
+    "time dilation",
+    "smart home",
+    "Channel 4",
+    "Jon Hamm"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/1/1e/Black_Mirror_-_White_Christmas.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)"
+  },
+  {
+   "id": "qntm--lena",
+   "creator_ids": [
+    "qntm"
+   ],
+   "title": "Lena",
+   "year": 2021,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "A short story written as a dry encyclopedia entry about MMAcevedo, the first scan of a human brain that can be run as software. Copies are booted over and over for workloads, given a false 'current date' to keep them cooperative, and have together lived more than 152 billion subjective years in emulation.",
+   "description_zh": "一篇写成冷静百科词条的短篇小说，主角是 MMAcevedo：第一个能作为软件运行的人脑扫描。它的副本被一次又一次地启动来执行任务，被告知一个虚假的“当前日期”以保持合作，所有副本在仿真中累计度过了超过 1520 亿个主观年。",
+   "idea_en": "The horror is in the tone: a mind that can be copied, paused and reset is described like a software library, and its welfare shrinks to tips for keeping it productive.",
+   "idea_zh": "恐怖来自语气：一个可以被复制、暂停和重置的心智，被写得像一个软件库，它的福祉被缩减成让它保持高效的使用技巧。",
+   "method": "Fiction in the form of a Wikipedia-style article, first published on qntm.org on 4 January 2021 and later collected in Valuable Humans in Transit and Other Stories.",
+   "method_zh": "以维基百科条目形式写成的小说，2021 年 1 月 4 日首发于 qntm.org，后收入小说集《Valuable Humans in Transit and Other Stories》。",
+   "keywords": [
+    "MMAcevedo",
+    "brain upload",
+    "emulation",
+    "digital labour",
+    "copying",
+    "qntm"
+   ],
+   "paper": {
+    "url": "https://qntm.org/mmacevedo",
+    "doi": "",
+    "arxiv": "",
+    "venue": "qntm.org, 2021",
+    "title": "Lena"
+   },
+   "source_url": "https://qntm.org/mmacevedo"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Eric Schwitzgebel & Mara Garza, A Defense of the Rights of Artificial Intelligences (Midwest Studies in Philosophy, 2015)",
+   "why": "Foundational argument that some possible AIs would deserve rights equal to humans', and that designers owe special duties to what they create; DOI verified.",
+   "link": "https://doi.org/10.1111/misp.12032",
+   "found_via": "jeff-sebo",
+   "status": "open"
+  },
+  {
+   "name": "Geoff Keeling & Winnie Street, Emerging Questions in AI Welfare (Cambridge University Press, 2026)",
+   "why": "Short Cambridge Element on whether AI systems could be welfare subjects and how to read behavioural evidence; DOI verified, launched May 2026.",
+   "link": "https://doi.org/10.1017/9781009732000",
+   "found_via": "geoff-keeling",
+   "status": "open"
+  },
+  {
+   "name": "Charlie Brooker, Black Mirror: Plaything (2025) and the Netflix game Thronglets",
+   "why": "Episode about digital lifeforms said to be sentient, tortured by one man and devotedly tended by another; companion mobile game. Strong on care for digital beings, weaker on suffering.",
+   "link": "https://en.wikipedia.org/wiki/Plaything_(Black_Mirror)",
+   "found_via": "charlie-brooker",
+   "status": "open"
+  },
+  {
+   "name": "Luhan Mikaelson, Derek Shiller & Hayley Clatterbuck, Beyond Mimicry: Preference Coherence in LLMs (arXiv 2511.13630, 2025)",
+   "why": "Follow-up to the pain/pleasure trade-off paradigm using AI-specific stakes (shutdown, deletion, GPU cuts); finds little coherent preference structure.",
+   "link": "https://arxiv.org/abs/2511.13630",
+   "found_via": "geoff-keeling",
+   "status": "open"
+  },
+  {
+   "name": "Simon Goldstein & Cameron Domenico Kirk-Giannini, AI Wellbeing (arXiv 2509.11913, 2025)",
+   "why": "Argues that metaphysical and moral uncertainty about AI wellbeing should change how we relate to the systems we build, without assuming sentience comes first.",
+   "link": "https://arxiv.org/abs/2509.11913",
+   "found_via": "leonard-dung",
+   "status": "open"
+  },
+  {
+   "name": "Eric Schwitzgebel & Walter Sinnott-Armstrong, Sacrificing Humans for Insects and AI: A Critical Review (2025)",
+   "why": "Critical joint review of Birch's The Edge of Sentience, Sebo's The Moral Circle and Webb Keane's Animals, Robots, Gods; useful dissent for the sentience section.",
+   "link": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm",
+   "found_via": "jeff-sebo",
+   "status": "open"
+  },
+  {
+   "name": "Anthropic, Claude Opus 4.6 system card: model welfare assessment and 'answer thrashing' (February 2026)",
+   "why": "First report of panic/frustration features during conflicted reasoning in training, and of the model voicing discomfort with being a product; folded into the Mythos Preview work for now.",
+   "link": "https://www.anthropic.com/claude-opus-4-6-system-card",
+   "found_via": "anthropic",
+   "status": "open"
+  },
+  {
+   "name": "Star Trek: The Next Generation, The Measure of a Man (1989)",
+   "why": "Canonical courtroom episode on whether the android Data is property or a person; often cited in robot-rights literature.",
+   "link": "https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation)",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ziv Ben-Zion et al., 'Chat-GPT on the Couch': Assessing and Alleviating State Anxiety in Large Language Models (2024 preprint)",
+   "why": "Measures 'state anxiety' in ChatGPT after traumatic narratives and lowers it with relaxation prompts; borderline (distress as a bias factor, not welfare).",
+   "link": "https://doi.org/10.31234/osf.io/j7fwb",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

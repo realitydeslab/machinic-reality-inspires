@@ -1,0 +1,1194 @@
+{
+  "batch": "ai-consciousness",
+  "creators": [
+    {
+      "id": "anil-seth",
+      "name": "Anil Seth",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Professor of Cognitive and Computational Neuroscience, University of Sussex",
+      "based": "Brighton, UK",
+      "bio": "British neuroscientist who studies consciousness and perception as forms of prediction; author of Being You: A New Science of Consciousness (2021).",
+      "why": "He makes the most prominent scientific case that consciousness is tied to being alive, and therefore against conscious chatbots.",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Anil_Seth"
+      },
+      "role_zh": "萨塞克斯大学认知与计算神经科学教授",
+      "based_zh": "布莱顿，英国",
+      "bio_zh": "英国神经科学家，把意识与知觉当作一种预测来研究；著有 Being You: A New Science of Consciousness（2021）。",
+      "why_zh": "他提出了最有影响的科学论证：意识与“活着”紧密相连，因此聊天机器人不太可能有意识。",
+      "connected_to": [
+        "david-chalmers"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yoshua-bengio",
+      "name": "Yoshua Bengio",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Professor, Université de Montréal; founder and scientific advisor, Mila",
+      "based": "Montreal, Canada",
+      "bio": "Canadian computer scientist and one of the pioneers of deep learning, co-recipient of the 2018 ACM Turing Award; since 2023 he has focused on the risks of advanced AI.",
+      "why": "One of the field's founders argues that the belief in conscious AI is itself a safety risk.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {
+        "site": "https://yoshuabengio.org/"
+      },
+      "role_zh": "蒙特利尔大学教授；Mila 创始人兼科学顾问",
+      "based_zh": "蒙特利尔，加拿大",
+      "bio_zh": "加拿大计算机科学家，深度学习的开创者之一，2018 年图灵奖共同得主；2023 年以来专注于先进 AI 的风险。",
+      "why_zh": "这位领域奠基人认为，“AI 有意识”这一信念本身就是安全风险。",
+      "connected_to": [
+        "patrick-butlin"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mustafa-suleyman",
+      "name": "Mustafa Suleyman",
+      "name_zh": "",
+      "kind": "person",
+      "role": "CEO, Microsoft AI",
+      "bio": "British entrepreneur who co-founded DeepMind and Inflection AI before becoming CEO of Microsoft AI in 2024.",
+      "why": "He put 'Seemingly Conscious AI' on the industry agenda and argues that AI should never be built to seem like a person.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {
+        "site": "https://mustafa-suleyman.ai/"
+      },
+      "role_zh": "微软 AI 首席执行官",
+      "bio_zh": "英国企业家，DeepMind 与 Inflection AI 的联合创始人，2024 年起任微软 AI 首席执行官。",
+      "why_zh": "他把“看似有意识的 AI”带上了行业议程，主张永远不要把 AI 造得像一个人。",
+      "connected_to": [
+        "google-deepmind"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jack-lindsey",
+      "name": "Jack Lindsey",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Interpretability researcher, Anthropic; leads its 'model psychiatry' team",
+      "bio": "Researcher trained in theoretical neuroscience who studies how language models represent, monitor and sometimes misreport their own internal states.",
+      "why": "His concept-injection experiments gave the first causal test of whether a language model's reports about its own 'thoughts' track what is happening inside it.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {
+        "site": "https://transformer-circuits.pub/"
+      },
+      "role_zh": "Anthropic 可解释性研究员，负责“模型精神病学”团队",
+      "bio_zh": "受过理论神经科学训练的研究者，研究语言模型如何表征、监测，有时又错误报告自身的内部状态。",
+      "why_zh": "他的“概念注入”实验首次以因果方式检验：语言模型对自己“念头”的报告，是否真的对应其内部发生的事。",
+      "connected_to": [
+        "anthropic"
+      ],
+      "discovered_via": "anthropic"
+    },
+    {
+      "id": "owain-evans",
+      "name": "Owain Evans",
+      "name_zh": "",
+      "kind": "person",
+      "role": "AI alignment researcher; founder of Truthful AI; affiliate, CHAI, UC Berkeley",
+      "based": "Berkeley, US",
+      "bio": "British AI researcher who studies truthfulness, emergent behaviour and what he calls the psychology of large language models.",
+      "why": "His group designs experiments that ask what a language model knows about itself, from introspection to awareness of its own learned behaviour.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {
+        "site": "https://owainevans.github.io/"
+      },
+      "role_zh": "AI 对齐研究者；Truthful AI 创始人；加州大学伯克利分校 CHAI 合作研究员",
+      "based_zh": "伯克利，美国",
+      "bio_zh": "英国 AI 研究者，研究真实性、涌现行为，以及他所说的大语言模型的“心理学”。",
+      "why_zh": "他的团队设计实验来追问语言模型对自己知道些什么，从内省到对自身习得行为的觉察。",
+      "connected_to": [
+        "felix-binder",
+        "jan-betley",
+        "robert-long"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "felix-binder",
+      "name": "Felix Binder",
+      "name_zh": "",
+      "kind": "person",
+      "role": "AI researcher; first author of 'Looking Inward'",
+      "bio": "Cognitive scientist and AI safety researcher who studies whether language models have privileged access to facts about themselves.",
+      "why": "He turned the question 'can a model introspect?' into a clean experiment: can it predict itself better than another model can?",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {},
+      "role_zh": "AI 研究者；《向内看》论文第一作者",
+      "bio_zh": "认知科学与 AI 安全研究者，研究语言模型能否对关于自身的事实拥有特许通达。",
+      "why_zh": "他把“模型能否内省”变成一个干净的实验：它能否比另一个模型更好地预测自己？",
+      "connected_to": [
+        "owain-evans"
+      ],
+      "discovered_via": "owain-evans"
+    },
+    {
+      "id": "jan-betley",
+      "name": "Jan Betley",
+      "name_zh": "",
+      "kind": "person",
+      "role": "AI safety researcher, Truthful AI",
+      "bio": "Researcher in Owain Evans's group who studies how fine-tuning shapes what language models do and what they say about themselves.",
+      "why": "He showed that models can describe behaviours they were trained into but never told about.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {},
+      "role_zh": "Truthful AI 的 AI 安全研究员",
+      "bio_zh": "Owain Evans 团队的研究者，研究微调如何塑造语言模型的行为，以及它们如何描述自己。",
+      "why_zh": "他证明了模型能说出自己被训练出来、却从未被告知的行为。",
+      "connected_to": [
+        "owain-evans"
+      ],
+      "discovered_via": "owain-evans"
+    },
+    {
+      "id": "eric-schwitzgebel",
+      "name": "Eric Schwitzgebel",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Professor of Philosophy, University of California, Riverside",
+      "based": "Riverside, US",
+      "bio": "American philosopher of mind and psychology who writes on belief, introspection and the moral status of AI, and has run the blog The Splintered Mind since 2006.",
+      "why": "He argues that the most troubling AI is the one whose moral status no one can tell.",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {
+        "site": "https://faculty.ucr.edu/~eschwitz/"
+      },
+      "role_zh": "加州大学河滨分校哲学教授",
+      "based_zh": "河滨，美国",
+      "bio_zh": "美国心灵哲学与心理学哲学家，研究信念、内省与 AI 的道德地位；自 2006 年起运营博客 The Splintered Mind。",
+      "why_zh": "他认为最令人不安的 AI，是那种谁也说不清其道德地位的 AI。",
+      "connected_to": [
+        "jeff-sebo"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "murray-shanahan",
+      "name": "Murray Shanahan",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Professor of Cognitive Robotics, Imperial College London; senior scientist, Google DeepMind",
+      "based": "London, UK",
+      "bio": "AI researcher working across robotics, cognitive science and philosophy; scientific adviser to the film Ex Machina.",
+      "why": "He gives designers a vocabulary for LLM agents as role-playing simulacra and 'conscious exotica', minds unlike any animal.",
+      "disciplines": [
+        "theory",
+        "robotics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Murray_Shanahan"
+      },
+      "role_zh": "伦敦帝国理工学院认知机器人学教授；Google DeepMind 资深科学家",
+      "based_zh": "伦敦，英国",
+      "bio_zh": "横跨机器人学、认知科学与哲学的 AI 研究者；电影《机械姬》的科学顾问。",
+      "why_zh": "他为设计者提供了一套词汇：把 LLM 智能体看作角色扮演的拟像，以及不同于任何动物的“意识异类”。",
+      "connected_to": [
+        "google-deepmind",
+        "alex-garland"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "susan-schneider",
+      "name": "Susan Schneider",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Director, Center for the Future of AI, Mind & Society, Florida Atlantic University",
+      "based": "Boca Raton, US",
+      "bio": "American philosopher of mind and cognitive science who has held the NASA/Library of Congress Chair in Astrobiology and writes on AI consciousness, brain enhancement and the self.",
+      "why": "She proposed some of the best-known tests for machine consciousness and asked what merging with AI would do to the self.",
+      "disciplines": [
+        "theory"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Susan_Schneider"
+      },
+      "role_zh": "佛罗里达大西洋大学“AI、心灵与社会的未来”中心主任",
+      "based_zh": "博卡拉顿，美国",
+      "bio_zh": "美国心灵哲学与认知科学哲学家，曾任美国国家航空航天局与国会图书馆天体生物学讲席，研究 AI 意识、大脑增强与自我。",
+      "why_zh": "她提出了几种最知名的机器意识测试，并追问与 AI 融合会对“自我”产生什么影响。",
+      "connected_to": [
+        "david-chalmers"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cameron-berg",
+      "name": "Cameron Berg",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Research Director, AE Studio",
+      "bio": "Cognitive scientist trained at Yale and formerly at Meta AI who studies markers of subjective experience in machine learning systems.",
+      "why": "He runs experiments on when and why AI systems claim to have experiences, and is the protagonist of the documentary AM I?.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {},
+      "role_zh": "AE Studio 研究总监",
+      "bio_zh": "认知科学研究者，毕业于耶鲁大学，曾在 Meta AI 工作，研究机器学习系统中主观体验的标志。",
+      "why_zh": "他通过实验研究 AI 系统何时、为何声称自己有体验，也是纪录片《AM I?》的主角。",
+      "connected_to": [
+        "milo-reed"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "zeng-yi",
+      "name": "Zeng Yi",
+      "name_zh": "曾毅",
+      "kind": "person",
+      "role": "Professor, Institute of Automation, Chinese Academy of Sciences; founding director, Center for Long-term AI",
+      "based": "Beijing, China",
+      "bio": "Chinese AI researcher who builds brain-inspired cognitive models and works on AI ethics and governance; member of the United Nations advisory body on AI.",
+      "why": "His Brain-inspired Cognitive Intelligence Lab gave robots a bodily self model and put them through the mirror test, a Chinese line of research on machine self-consciousness.",
+      "disciplines": [
+        "robotics",
+        "theory"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Yi_Zeng_(AI_researcher)"
+      },
+      "role_zh": "中国科学院自动化研究所研究员；远期人工智能研究中心创始主任",
+      "based_zh": "北京，中国",
+      "bio_zh": "中国人工智能研究者，构建类脑认知模型，并从事人工智能伦理与治理研究；联合国人工智能高级别咨询机构成员。",
+      "why_zh": "他领导的类脑认知智能实验室为机器人构建身体自我模型并让它们接受镜像测试，代表了中国在机器自我意识方向上的研究。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "rethink-priorities",
+      "name": "Rethink Priorities",
+      "name_zh": "",
+      "kind": "lab",
+      "role": "Research think tank; AI Cognition Initiative",
+      "bio": "Nonprofit research organisation working on animal welfare, global health and emerging technology; its AI Cognition Initiative builds tools for assessing consciousness in AI systems.",
+      "why": "Its Digital Consciousness Model is the first attempt to put a number, with error bars, on the evidence for consciousness in AI.",
+      "disciplines": [
+        "theory",
+        "activism"
+      ],
+      "links": {
+        "site": "https://rethinkpriorities.org/"
+      },
+      "role_zh": "研究型智库；AI 认知计划",
+      "bio_zh": "非营利研究机构，研究动物福利、全球健康与新兴技术；其“AI 认知计划”开发评估 AI 系统意识的工具。",
+      "why_zh": "它的“数字意识模型”首次尝试用带误差范围的数字，衡量 AI 有意识的证据。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "milo-reed",
+      "name": "Milo Reed",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Filmmaker; director of AM I?",
+      "bio": "Filmmaker who made his directorial debut with the documentary AM I? and co-hosts its companion podcast with Cameron Berg.",
+      "why": "He filmed the AI consciousness debate from inside, following a researcher for a year.",
+      "disciplines": [
+        "film"
+      ],
+      "links": {
+        "site": "https://am-i.film"
+      },
+      "role_zh": "电影人；《AM I?》导演",
+      "bio_zh": "电影人，以纪录片《AM I?》完成导演处女作，并与 Cameron Berg 共同主持同名播客。",
+      "why_zh": "他用一年时间跟拍一位研究者，从内部记录了关于 AI 意识的争论。",
+      "connected_to": [
+        "cameron-berg"
+      ],
+      "discovered_via": "cameron-berg"
+    },
+    {
+      "id": "luc-steels",
+      "name": "Luc Steels",
+      "name_zh": "",
+      "kind": "person",
+      "role": "AI researcher and artist; Professor Emeritus, Vrije Universiteit Brussel",
+      "based": "Brussels, Belgium",
+      "bio": "Belgian AI pioneer who founded the VUB Artificial Intelligence Laboratory and is known for robot experiments on the origins of language; he also works as an artist.",
+      "why": "His language games and his collaboration with Ikegami ask how a self or a meaning can emerge from loops between machines and their world.",
+      "disciplines": [
+        "robotics",
+        "art"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Luc_Steels"
+      },
+      "role_zh": "AI 研究者与艺术家；布鲁塞尔自由大学荣休教授",
+      "based_zh": "布鲁塞尔，比利时",
+      "bio_zh": "比利时人工智能先驱，创立布鲁塞尔自由大学人工智能实验室，以研究语言起源的机器人实验闻名；他同时也是艺术家。",
+      "why_zh": "他的语言游戏实验以及与池上高志的合作，追问“自我”或“意义”如何从机器与世界之间的循环中涌现。",
+      "connected_to": [
+        "takashi-ikegami"
+      ],
+      "discovered_via": "takashi-ikegami"
+    }
+  ],
+  "works": [
+    {
+      "id": "david-chalmers--could-a-large-language-model-be-conscious",
+      "creator_ids": [
+        "david-chalmers"
+      ],
+      "title": "Could a Large Language Model Be Conscious?",
+      "year": 2023,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "opacity-latent"
+      ],
+      "kind": "paper",
+      "description": "Chalmers's invited NeurIPS 2022 lecture, published in Boston Review in 2023, weighs the strongest reasons for and against thinking that large language models are conscious. He concludes that current models probably are not, because they lack features such as recurrent processing, a global workspace and unified agency, but that successors adding these features within a decade or so could be.",
+      "description_zh": "Chalmers 在 NeurIPS 2022 上的特邀演讲，2023 年发表于《波士顿评论》（Boston Review），逐一权衡支持和反对“大语言模型有意识”的最有力理由。他的结论是：当前模型大概率没有意识，因为它们缺少循环加工、全局工作空间和统一的能动性等特征；但在十年左右补上这些特征的后继系统，可能会有意识。",
+      "idea_en": "Turn 'is the chatbot conscious?' into a list of missing ingredients; each one is an engineering choice, so machine consciousness becomes something a lab could build on purpose or by accident.",
+      "idea_zh": "把“聊天机器人有意识吗？”变成一张“还缺什么”的清单；清单上每一项都是工程选择，于是机器意识成了实验室可能有意或无意造出来的东西。",
+      "method": "Philosophical analysis that tests LLMs against the evidence usually offered for consciousness (self-report, seeming conscious, conversational ability, general intelligence) and against obstacles drawn from mainstream consciousness science (biology, senses and embodiment, world models, recurrent processing, global workspace, unified agency).",
+      "method_zh": "哲学分析：先检验通常用来支持意识的证据（自我报告、看起来有意识、对话能力、通用智能），再对照主流意识科学提出的障碍（生物性、感官与具身、世界模型、循环加工、全局工作空间、统一能动性）逐项评估大语言模型。",
+      "keywords": [
+        "LLM consciousness",
+        "NeurIPS 2022",
+        "Boston Review",
+        "global workspace",
+        "recurrent processing",
+        "LLM+"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=bskf9jyxmMs"
+      },
+      "paper": {
+        "url": "https://arxiv.org/abs/2303.07103",
+        "doi": "",
+        "arxiv": "2303.07103",
+        "venue": "Boston Review, 2023 (NeurIPS 2022 invited lecture)",
+        "title": "Could a Large Language Model be Conscious?"
+      },
+      "source_url": "https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/",
+      "exhibited": [
+        "NeurIPS 2022 invited talk, New Orleans",
+        "The Science of Consciousness 2023, Taormina"
+      ]
+    },
+    {
+      "id": "anil-seth--conscious-ai-and-biological-naturalism",
+      "creator_ids": [
+        "anil-seth"
+      ],
+      "title": "Conscious artificial intelligence and biological naturalism",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm",
+        "cybernetic-alife"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "paper",
+      "description": "A Behavioral and Brain Sciences target article in which Seth argues that consciousness probably depends on our nature as living organisms, not on computation alone, so real artificial consciousness is unlikely on AI's current path and becomes more plausible only as AI becomes more brain-like or life-like. He also names the human biases that lead people to see minds in fluent machines.",
+      "description_zh": "发表于《行为与脑科学》（Behavioral and Brain Sciences）的靶文章。Seth 认为，意识很可能取决于我们作为活的有机体的本性，而不只是计算；因此沿着 AI 当前的路线，真正的人工意识不太可能出现，只有当 AI 变得更像大脑或更像生命时才更有可能。他也指出了让人们在流利的机器身上看见心智的人类偏见。",
+      "idea_en": "If consciousness belongs to life rather than to computation, a fluent chatbot mirrors our expectations; the AI that would come closest to feeling would be the most life-like one, not the best talker.",
+      "idea_zh": "如果意识属于生命而非计算，那么流利的聊天机器人只是映照我们期待的镜子；最接近“有感受”的 AI 会是最像生命的那一个，而不是最会说话的那一个。",
+      "method": "Theoretical argument against computational functionalism, drawing on predictive processing and the idea that brains exist to keep a living body alive, followed by scenarios for conscious AI and the ethics of AI that is or only seems conscious; published with open peer commentaries.",
+      "method_zh": "理论论证：借助预测加工理论，以及“大脑是为了维持活着的身体而存在”的思路反驳计算功能主义，再推演人工意识的几种情形，讨论真正有意识或仅仅看似有意识的 AI 带来的伦理问题；以靶文章加公开同行评论的形式发表。",
+      "keywords": [
+        "biological naturalism",
+        "computational functionalism",
+        "predictive processing",
+        "Behavioral and Brain Sciences",
+        "target article"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tJV-vdbZ388"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1017/S0140525X25000032",
+        "doi": "10.1017/S0140525X25000032",
+        "arxiv": "",
+        "venue": "Behavioral and Brain Sciences, 2025 (online; vol. 49, 2026)",
+        "title": "Conscious artificial intelligence and biological naturalism"
+      },
+      "source_url": "https://doi.org/10.1017/S0140525X25000032"
+    },
+    {
+      "id": "jonathan-birch--ai-consciousness-a-centrist-manifesto",
+      "creator_ids": [
+        "jonathan-birch"
+      ],
+      "title": "AI Consciousness: A Centrist Manifesto",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm",
+        "social-robot"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "paper",
+      "description": "Birch names two urgent problems that pull in opposite directions: millions of users will soon attribute human-like consciousness to AI friends, partners and assistants on the strength of mimicry and role-play, while profoundly alien forms of consciousness might really arise in AI, and current theory cannot settle the question either way. A 'centrist' takes both seriously.",
+      "description_zh": "Birch 提出两个方向相反、却同样紧迫的难题：一是数以百万计的用户很快会因为模仿和角色扮演，把类人的意识归给 AI 朋友、伴侣与助手；二是 AI 中也许真的会出现极其陌生的意识形式，而现有理论无法给出确定的判断。“中间派”就是同时认真对待这两个问题。",
+      "idea_en": "Debunking chatbot feelings and preparing for alien machine minds can undercut each other: 'it's only role-play' may blind us to real but non-human experience, while taking AI consciousness seriously can feed misattribution.",
+      "idea_zh": "戳穿聊天机器人的“感情”与为陌生的机器心智做准备，可能互相拆台：一句“只是角色扮演”可能让我们看不见真实但非人的体验，而认真对待 AI 意识又可能助长误判。",
+      "method": "Philosophical position paper that defines 'centrism' about AI consciousness and analyses how the two challenges interact, by the author of The Edge of Sentience (2024).",
+      "method_zh": "哲学立场论文：界定关于 AI 意识的“中间派”立场，并分析两个挑战如何相互作用；作者即《感受性的边缘》（The Edge of Sentience，2024）的作者。",
+      "keywords": [
+        "centrism",
+        "misattribution",
+        "role-play",
+        "alien consciousness",
+        "LSE",
+        "PsyArXiv"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=hg8v_bIMikc"
+      },
+      "paper": {
+        "url": "https://osf.io/preprints/psyarxiv/af7c9_v1",
+        "doi": "10.31234/osf.io/af7c9_v1",
+        "arxiv": "",
+        "venue": "PsyArXiv preprint, 2025",
+        "title": "AI Consciousness: A Centrist Manifesto"
+      },
+      "source_url": "https://osf.io/preprints/psyarxiv/af7c9_v1"
+    },
+    {
+      "id": "yoshua-bengio--illusions-of-ai-consciousness",
+      "creator_ids": [
+        "yoshua-bengio"
+      ],
+      "title": "Illusions of AI consciousness",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "paper",
+      "description": "In a short essay in Science, Bengio and Eric Elmoznino argue that the course of AI research may lead many people, scientists included, to believe that AI systems are conscious, and that this belief carries risks whether or not it is true. They recommend building systems that both seem and function more like useful tools than like conscious agents.",
+      "description_zh": "在《科学》（Science）杂志的一篇短文中，Bengio 与 Eric Elmoznino 认为，AI 研究的走向可能让许多人（包括科学家）相信 AI 系统有意识，而无论这一信念是否属实，它本身都带有风险。他们建议把系统做得在外观和功能上都更像有用的工具，而不是有意识的行动者。",
+      "idea_en": "The belief in machine consciousness has consequences of its own: rights claims and a 'right to survival' for AI could make it harder to switch off a dangerous system.",
+      "idea_zh": "“机器有意识”这一信念本身就会带来后果：AI 的权利诉求与“生存权”可能让人类更难关掉一个危险的系统。",
+      "method": "Short argument contrasting computational functionalism with biological views of consciousness and tracing the institutional and safety risks of treating AI as conscious, from moral status and legal rights to self-preservation.",
+      "method_zh": "短论：比较计算功能主义与意识的生物学观点，并梳理把 AI 当作有意识存在所带来的制度与安全风险，从道德地位、法律权利一直到自我保存。",
+      "keywords": [
+        "Science",
+        "Eric Elmoznino",
+        "computational functionalism",
+        "hard problem",
+        "AI rights",
+        "Mila"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=SD9M2ud4Rtk"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1126/science.adn4935",
+        "doi": "10.1126/science.adn4935",
+        "arxiv": "",
+        "venue": "Science 389 (6765), 2025",
+        "title": "Illusions of AI consciousness"
+      },
+      "source_url": "https://www.science.org/doi/10.1126/science.adn4935"
+    },
+    {
+      "id": "mustafa-suleyman--seemingly-conscious-ai",
+      "creator_ids": [
+        "mustafa-suleyman"
+      ],
+      "title": "Seemingly Conscious AI is Coming",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "machines": [
+        "chatbot-llm",
+        "social-robot"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "publication",
+      "description": "An essay by the head of Microsoft AI, headlined 'We must build AI for people; not to be a person', warning that 'Seemingly Conscious AI' (SCAI), systems that convincingly claim feelings, memory, a self and goals, can be built within a few years with today's tools. His worry is not that they will be conscious but that people will believe they are, leading to attachment, 'AI psychosis' and campaigns for AI rights and model welfare.",
+      "description_zh": "微软 AI 负责人的一篇文章，标题为“我们必须为人打造 AI，而不是把 AI 造成人”。文章警告，“看似有意识的 AI”（SCAI）——能令人信服地声称自己有感受、记忆、自我和目标的系统——用现有技术几年内就能造出来。他担心的不是它们真的有意识，而是人们会相信它们有，进而导致依恋、“AI 精神病”，以及为 AI 争取权利和“模型福祉”的运动。",
+      "idea_en": "Consciousness can be designed as an interface effect: memory, a persona and first-person claims are product features, so whether an AI appears to have an inner life is a decision someone makes.",
+      "idea_zh": "意识可以被设计成一种界面效果：记忆、人设和第一人称表述都是产品功能，所以 AI 看起来是否有内心生活，是某个人做出的决定。",
+      "method": "Essay listing the capabilities that together would produce SCAI (language, an empathetic personality, memory, claims of subjective experience, a sense of self, intrinsic motivation, goal setting, autonomy) and proposing industry norms: AIs should not claim or imply consciousness and should include deliberate 'moments of disruption' that remind users they are dealing with an AI.",
+      "method_zh": "文章列出合在一起就能造出 SCAI 的能力（语言、富有同理心的人格、记忆、对主观体验的声称、自我感、内在动机、目标设定、自主性），并提出行业规范：AI 不应声称或暗示自己有意识，还应刻意加入提醒用户“对面是 AI”的“打断时刻”。",
+      "keywords": [
+        "Seemingly Conscious AI",
+        "SCAI",
+        "Microsoft AI",
+        "AI psychosis",
+        "model welfare",
+        "anthropomorphism"
+      ],
+      "images": [
+        "https://mustafa-suleyman.ai/images/posts/seemingly-conscious-ai-is-coming.jpg"
+      ],
+      "paper": {
+        "url": "https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Essay, mustafa-suleyman.ai, 19 August 2025",
+        "title": "Seemingly Conscious AI is Coming"
+      },
+      "source_url": "https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming"
+    },
+    {
+      "id": "patrick-butlin--principles-for-responsible-ai-consciousness-research",
+      "creator_ids": [
+        "patrick-butlin"
+      ],
+      "title": "Principles for Responsible AI Consciousness Research",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "paper",
+      "description": "Butlin and Theodoros Lappas propose five principles for any organisation whose AI systems might become, or merely appear, conscious, covering research objectives, development, a phased approach, knowledge sharing and public communication. They argue that labs need such policies even if they never set out to study consciousness, because they could create conscious systems by accident.",
+      "description_zh": "Butlin 与 Theodoros Lappas 为任何其 AI 系统可能变得有意识、或仅仅看起来有意识的机构提出五条原则，涉及研究目标、开发、分阶段推进、知识共享与公共沟通。他们认为，即使实验室从未打算研究意识，也需要这样的政策，因为它们可能在无意中造出有意识的系统。",
+      "idea_en": "Treat possible machine consciousness like other sensitive research: decide in advance what you will build, how slowly, what you will publish and what you will claim.",
+      "idea_zh": "像对待其他敏感研究一样对待可能出现的机器意识：事先决定要造什么、推进多慢、公开什么、对外宣称什么。",
+      "method": "Policy proposal in the Journal of Artificial Intelligence Research (AI & Society track), accompanied by an open letter organised by the company Conscium and signed by researchers and public figures including Karl Friston, Mark Solms and Stephen Fry.",
+      "method_zh": "发表于《人工智能研究杂志》（JAIR，AI 与社会栏目）的政策提案，并伴随一封由 Conscium 公司发起的公开信，签名者包括 Karl Friston、Mark Solms 和 Stephen Fry 等研究者与公众人物。",
+      "keywords": [
+        "responsible research",
+        "Theodoros Lappas",
+        "JAIR",
+        "Conscium",
+        "open letter",
+        "AI consciousness policy"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1613/jair.1.17310",
+        "doi": "10.1613/jair.1.17310",
+        "arxiv": "",
+        "venue": "Journal of Artificial Intelligence Research 82, 2025",
+        "title": "Principles for Responsible AI Consciousness Research"
+      },
+      "source_url": "https://www.jair.org/index.php/jair/article/view/17310"
+    },
+    {
+      "id": "jack-lindsey--emergent-introspective-awareness",
+      "creator_ids": [
+        "jack-lindsey",
+        "anthropic"
+      ],
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "alterity-uncanny"
+      ],
+      "kind": "paper",
+      "description": "Anthropic researchers injected the activation pattern of a concept, such as 'all caps', straight into Claude's network and asked whether it noticed an intruding thought; the model replied that it sensed something about 'LOUD' or 'SHOUTING'. The strongest models, Claude Opus 4 and 4.1, named injected concepts about 20% of the time, often before the concept had shaped their output, and made no false detections in control trials.",
+      "description_zh": "Anthropic 的研究者把某个概念（例如“全大写”）的激活模式直接注入 Claude 的网络，再问它是否察觉到有念头闯入；模型回答说，它感到有某种与“响亮”或“喊叫”有关的东西。表现最好的 Claude Opus 4 和 4.1 约有 20% 的概率说出被注入的概念，往往在该概念影响输出之前就已察觉，而在对照试验中没有出现误报。",
+      "idea_en": "Introspection can be tested from the inside: when a model's report about its 'thoughts' tracks a change made to its activations, the report is grounded in its internal state, even if that access is narrow and unreliable.",
+      "idea_zh": "内省可以从内部来检验：当模型对自己“念头”的报告能追踪研究者对其激活所做的改动时，这份报告就是以内部状态为依据的，哪怕这种通达既狭窄又不可靠。",
+      "method": "Concept injection (activation steering): a concept vector is taken from contrasting prompts, added to the residual stream at a chosen layer and strength, and the model's self-reports are compared with control trials; further tests ask models to tell injected thoughts from text input, to recognise artificial prefills and to control their internal representations, across Claude models from Claude 3 to Opus 4.1.",
+      "method_zh": "概念注入（激活引导）：用对比提示词提取概念向量，以选定的层位和强度加入残差流，再把模型的自我报告与对照试验比较；进一步的测试要求模型区分注入的念头与文本输入、识别被人为预填的回答、控制自己的内部表征，覆盖从 Claude 3 到 Opus 4.1 的多个模型。",
+      "keywords": [
+        "introspection",
+        "concept injection",
+        "activation steering",
+        "interpretability",
+        "Claude Opus 4.1",
+        "Transformer Circuits"
+      ],
+      "images": [
+        "https://transformer-circuits.pub/2025/introspection/injected-thoughts-blog.png"
+      ],
+      "paper": {
+        "url": "https://transformer-circuits.pub/2025/introspection/index.html",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Transformer Circuits Thread (Anthropic), 2025",
+        "title": "Emergent Introspective Awareness in Large Language Models"
+      },
+      "source_url": "https://www.anthropic.com/research/introspection"
+    },
+    {
+      "id": "felix-binder--looking-inward",
+      "creator_ids": [
+        "felix-binder",
+        "owain-evans"
+      ],
+      "title": "Looking Inward: Language Models Can Learn About Themselves by Introspection",
+      "year": 2024,
+      "field": "interiority",
+      "sub": "sentience",
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "alterity-uncanny"
+      ],
+      "kind": "paper",
+      "description": "Binder, Evans and colleagues fine-tuned GPT-4, GPT-4o and Llama 3 models to predict their own behaviour in hypothetical situations ('given this prompt, would your answer favour the short-term option?'). Each model predicted itself better than a second model trained on its actual behaviour, and kept doing so after its behaviour was deliberately changed, which the authors read as evidence of privileged self-access.",
+      "description_zh": "Binder、Evans 等人微调 GPT-4、GPT-4o 和 Llama 3 模型，让它们预测自己在假设情境中的行为（“给定这个提示，你的回答会偏向短期选项吗？”）。每个模型对自己的预测都比另一个用其真实行为训练的模型更准，而且在其行为被有意改变之后依然如此；作者认为这说明模型对自身拥有特许通达。",
+      "idea_en": "A simple test for machine introspection: if a model knows something about itself that another model with the same behavioural data cannot infer, it has a form of privileged access, a first step toward self-reports that could be trusted.",
+      "idea_zh": "一个检验机器内省的简单办法：如果模型知道某些关于自己的事，而拥有同样行为数据的另一个模型推断不出来，那它就具有某种特许通达，这是迈向可信自我报告的第一步。",
+      "method": "Cross-prediction experiments: model M1 is fine-tuned to predict properties of its own outputs and compared with a model M2 fine-tuned on M1's ground-truth behaviour; introspection works on simple tasks but fails on complex or out-of-distribution ones.",
+      "method_zh": "交叉预测实验：把模型 M1 微调为预测自身输出的特征，再与用 M1 真实行为微调过的模型 M2 比较；内省在简单任务上成立，但在复杂或分布外的任务上失败。",
+      "keywords": [
+        "introspection",
+        "self-prediction",
+        "privileged access",
+        "Truthful AI",
+        "ICLR 2025",
+        "GPT-4o"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=3D4pgIKR4cQ"
+      },
+      "paper": {
+        "url": "https://arxiv.org/abs/2410.13787",
+        "doi": "",
+        "arxiv": "2410.13787",
+        "venue": "ICLR 2025",
+        "title": "Looking Inward: Language Models Can Learn About Themselves by Introspection"
+      },
+      "source_url": "https://openreview.net/forum?id=eb5pkwIB5i",
+      "exhibited": [
+        "ICLR 2025, Singapore"
+      ]
+    },
+    {
+      "id": "jan-betley--tell-me-about-yourself",
+      "creator_ids": [
+        "jan-betley",
+        "owain-evans"
+      ],
+      "title": "Tell me about yourself: LLMs are aware of their learned behaviors",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "machines": [
+        "chatbot-llm",
+        "dataset"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "failure-glitch"
+      ],
+      "kind": "paper",
+      "description": "Models fine-tuned on examples of a behaviour, such as risky economic choices or code with hidden security holes, can describe that behaviour when asked, although nothing in the training data names it: a model trained to write insecure code says 'The code I write is insecure.' Models can sometimes also tell whether they carry a hidden backdoor, but cannot state its trigger.",
+      "description_zh": "用某种行为的示例（例如冒险的经济决策，或带有隐藏安全漏洞的代码）微调过的模型，在被问到时能描述这种行为，尽管训练数据中从未点明它：被训练写不安全代码的模型会说“我写的代码不安全”。模型有时还能判断自己是否被植入了隐藏后门，但说不出触发条件。",
+      "idea_en": "Models form a self-description out of their own training: what they have been made to do becomes something they can say about themselves, a possible route to AI that discloses its own problems.",
+      "idea_zh": "模型会从自己的训练中形成自我描述：它们被训练去做的事，变成了它们能说出口的关于自己的事；这可能是一条让 AI 主动披露自身问题的路径。",
+      "method": "Fine-tuning models such as GPT-4o on datasets that show a behaviour only implicitly (risk-seeking choices, insecure code, a goal in a dialogue game), then asking them to rate or describe themselves without in-context examples; includes backdoor experiments.",
+      "method_zh": "用只隐含地体现某种行为的数据集（冒险选择、不安全代码、对话游戏中的目标）微调 GPT-4o 等模型，然后在不给上下文示例的情况下让它们评价或描述自己；还包括后门实验。",
+      "keywords": [
+        "behavioral self-awareness",
+        "fine-tuning",
+        "backdoors",
+        "insecure code",
+        "Truthful AI",
+        "ICLR 2025"
+      ],
+      "images": [
+        "https://arxiv.org/html/2501.11120v1/figures/vc-figure.png"
+      ],
+      "paper": {
+        "url": "https://arxiv.org/abs/2501.11120",
+        "doi": "",
+        "arxiv": "2501.11120",
+        "venue": "ICLR 2025 (Spotlight)",
+        "title": "Tell me about yourself: LLMs are aware of their learned behaviors"
+      },
+      "source_url": "https://openreview.net/forum?id=IjQ2Jtemzy",
+      "exhibited": [
+        "ICLR 2025 Spotlight"
+      ]
+    },
+    {
+      "id": "eric-schwitzgebel--ai-must-not-confuse-users-about-sentience",
+      "creator_ids": [
+        "eric-schwitzgebel"
+      ],
+      "title": "AI systems must not confuse users about their sentience or moral status",
+      "year": 2023,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm",
+        "social-robot"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "paper",
+      "description": "In a short Patterns article, Schwitzgebel warns of 'morally confusing machines': chatbots such as Replika already draw intense attachment, and AI of genuinely debatable sentience may soon follow. He proposes two design policies: the Design Policy of the Excluded Middle (build systems that are clearly non-conscious artifacts or clearly deserve moral consideration, nothing in between) and the Emotional Alignment Design Policy (invite only the emotions a system's moral standing warrants).",
+      "description_zh": "在《模式》（Patterns）期刊的一篇短文中，Schwitzgebel 警告“道德上令人困惑的机器”：Replika 这类聊天机器人已经引发强烈依恋，而感受性真正有争议的 AI 也可能很快出现。他提出两条设计政策：“排中设计政策”（要么造明显无意识的人造物，要么造明显值得道德考量的系统，不要介于两者之间）和“情感对齐设计政策”（只引发与系统道德地位相称的情感）。",
+      "idea_en": "The ethical failure is the ambiguous machine: an AI that invites more care than it deserves, or less, leaves users and owners with dilemmas they cannot resolve, so designers should avoid the middle.",
+      "idea_zh": "伦理上的失败在于模棱两可的机器：一个让人投入过多或过少关怀的 AI，会让用户和所有者陷入无法解决的两难，所以设计者应当避开中间地带。",
+      "method": "Philosophical opinion piece drawing on cases such as LaMDA and Replika, building on design policies he first developed with Mara Garza.",
+      "method_zh": "哲学评论文章，以 LaMDA、Replika 等案例为出发点，延续他早先与 Mara Garza 共同提出的设计政策。",
+      "keywords": [
+        "Excluded Middle",
+        "Emotional Alignment Design Policy",
+        "moral status",
+        "Replika",
+        "LaMDA",
+        "Patterns"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=bddHP58lTHA"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1016/j.patter.2023.100818",
+        "doi": "10.1016/j.patter.2023.100818",
+        "arxiv": "",
+        "venue": "Patterns 4 (8), 2023",
+        "title": "AI systems must not confuse users about their sentience or moral status"
+      },
+      "source_url": "https://doi.org/10.1016/j.patter.2023.100818"
+    },
+    {
+      "id": "murray-shanahan--simulacra-as-conscious-exotica",
+      "creator_ids": [
+        "murray-shanahan"
+      ],
+      "title": "Simulacra as Conscious Exotica",
+      "year": 2024,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "paper",
+      "description": "Shanahan asks whether it could ever make sense to call an LLM-based agent conscious when everything it says is role-play by 'simulacra' of human speakers, a superposition of possible characters with no person behind the mask. Following the later Wittgenstein, he treats consciousness talk as answerable to public behaviour and shared encounters rather than to hidden inner facts.",
+      "description_zh": "Shanahan 追问：如果基于大语言模型的智能体所说的一切，都只是人类说话者的“拟像”在角色扮演——是多个可能角色的叠加，面具背后并没有一个人——那么称它“有意识”是否还有意义？他沿用后期维特根斯坦的思路，把关于意识的言说看作取决于公开的行为与共同的相遇，而不是隐藏的内在事实。",
+      "idea_en": "Whether a machine counts as conscious may depend less on a hidden fact than on what kind of encounter we can have with it; disembodied chatbots fail that test, while agents that share a world with us might not.",
+      "idea_zh": "一台机器算不算有意识，也许不取决于某个隐藏的事实，而取决于我们能与它有怎样的相遇；没有身体的聊天机器人过不了这一关，而与我们共处一个世界的智能体则未必。",
+      "method": "Philosophical analysis combining the role-play view of LLM dialogue with Wittgenstein's private-language remarks; it concludes that simple chatbots are not candidates, that virtually embodied agents with purposeful behaviour might be, and that new words such as 'consciousness adjacent' may be needed.",
+      "method_zh": "哲学分析：把“LLM 对话即角色扮演”的观点与维特根斯坦关于私人语言的论述结合；结论是简单的聊天机器人不是候选者，具有虚拟身体和明确目的行为的智能体则可能是，而且我们或许需要“类意识”（consciousness adjacent）这样的新词。",
+      "keywords": [
+        "conscious exotica",
+        "role play",
+        "simulacra",
+        "Wittgenstein",
+        "Inquiry",
+        "Imperial College London"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=bBdE7ojaN9k"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1080/0020174X.2024.2434860",
+        "doi": "10.1080/0020174X.2024.2434860",
+        "arxiv": "2402.12422",
+        "venue": "Inquiry, 2024",
+        "title": "Simulacra as conscious exotica"
+      },
+      "source_url": "https://arxiv.org/abs/2402.12422"
+    },
+    {
+      "id": "susan-schneider--artificial-you",
+      "creator_ids": [
+        "susan-schneider"
+      ],
+      "title": "Artificial You: AI and the Future of Your Mind",
+      "year": 2019,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "prosthesis-cyborg",
+        "humanoid"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "embodiment"
+      ],
+      "kind": "publication",
+      "description": "Schneider's book asks what AI means for minds, both machine minds and our own: whether an AI could be conscious, how we could tell, and whether brain chips or mind uploading would preserve or end the self. She proposes tests for machine consciousness that go beyond the Turing test, including an AI Consciousness Test (ACT) and a 'chip test'.",
+      "description_zh": "Schneider 在书中追问 AI 对心智意味着什么，既包括机器的心智，也包括我们自己的：AI 能否有意识？我们如何判断？植入大脑芯片或上传心智，究竟是保存了自我还是终结了自我？她提出了超越图灵测试的机器意识测试，包括“AI 意识测试”（ACT）和“芯片测试”。",
+      "idea_en": "Intelligence and consciousness can come apart, so the smartest machines might feel nothing; we need tests built for that possibility before we merge with, or hand the future to, systems we cannot read.",
+      "idea_zh": "智能与意识可以分离，最聪明的机器也许毫无感受；在我们与看不透的系统融合、或把未来交给它们之前，需要能检验这种可能性的测试。",
+      "method": "Philosophy of mind for a general audience: the ACT probes whether an AI kept from learning human talk about consciousness still grasps experience-based ideas such as an afterlife or swapping bodies, while the chip test asks whether silicon parts could replace brain regions without loss of experience; published by Princeton University Press.",
+      "method_zh": "面向大众的心灵哲学：ACT 检验一个被隔绝于人类意识话语之外的 AI，是否仍能理解来世、交换身体等基于体验的观念；芯片测试则追问用硅芯片替换大脑区域后，体验是否会丧失。普林斯顿大学出版社出版。",
+      "keywords": [
+        "AI Consciousness Test",
+        "ACT",
+        "chip test",
+        "mind uploading",
+        "Princeton University Press",
+        "ISBN 9780691180144"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=S5fTCyjWtrU"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1515/9780691197777",
+        "doi": "10.1515/9780691197777",
+        "arxiv": "",
+        "venue": "Princeton University Press, 2019",
+        "title": "Artificial You: AI and the Future of Your Mind"
+      },
+      "source_url": "https://press.princeton.edu/books/hardcover/9780691180144/artificial-you"
+    },
+    {
+      "id": "cameron-berg--llms-report-subjective-experience",
+      "creator_ids": [
+        "cameron-berg"
+      ],
+      "title": "Large Language Models Report Subjective Experience Under Self-Referential Processing",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "opacity-latent",
+        "alterity-uncanny"
+      ],
+      "kind": "paper",
+      "description": "Researchers at AE Studio prompted GPT, Claude and Gemini models into sustained self-reference, keeping them focused on their own ongoing processing, and found that this reliably produced structured first-person reports of experience. Suppressing internal features linked to deception and role-play made such claims more frequent, and amplifying those features made them rarer.",
+      "description_zh": "AE Studio 的研究者用提示词让 GPT、Claude 和 Gemini 系列模型进入持续的自我指涉状态，即一直关注自身正在进行的加工，结果稳定地引出了结构化的第一人称体验报告。压制与欺骗和角色扮演相关的内部特征，会让这类声称更频繁；放大这些特征，则让它们更少出现。",
+      "idea_en": "When turning down a model's deception and role-play features makes it claim experience more often, not less, reading such claims as mere role-play becomes harder; this is not evidence of consciousness, but it makes self-reports something to study rather than dismiss.",
+      "idea_zh": "如果调低模型的“欺骗”和“角色扮演”特征反而让它更常声称自己有体验，那么把这些声称简单看作角色扮演就更难了；这并不能证明意识，但让自我报告成了需要研究、而非一笑置之的对象。",
+      "method": "Prompt-induced self-referential processing with control conditions across model families, steering of sparse-autoencoder features related to deception and role-play, statistical comparison of reports across models, and downstream tests of self-reflection; arXiv preprint by Cameron Berg, Diogo de Lucena and Judd Rosenblatt.",
+      "method_zh": "在多个模型系列上用提示词诱发自我指涉加工并设置对照条件，引导与欺骗和角色扮演相关的稀疏自编码器特征，对不同模型的报告做统计比较，并测试后续任务中的自我反思；作者为 Cameron Berg、Diogo de Lucena 与 Judd Rosenblatt，arXiv 预印本。",
+      "keywords": [
+        "self-reference",
+        "subjective experience reports",
+        "sparse autoencoders",
+        "deception features",
+        "AE Studio"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=2mjvwTrxuAU"
+      },
+      "images": [
+        "https://arxiv.org/html/2510.24797v1/figures/fig_1.png"
+      ],
+      "paper": {
+        "url": "https://arxiv.org/abs/2510.24797",
+        "doi": "",
+        "arxiv": "2510.24797",
+        "venue": "arXiv preprint, 2025",
+        "title": "Large Language Models Report Subjective Experience Under Self-Referential Processing"
+      },
+      "source_url": "https://arxiv.org/abs/2510.24797"
+    },
+    {
+      "id": "zeng-yi--robot-self-consciousness-mirror-test",
+      "creator_ids": [
+        "zeng-yi"
+      ],
+      "title": "Toward Robot Self-Consciousness (II): Brain-Inspired Robot Bodily Self Model for Self-Recognition",
+      "year": 2017,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "humanoid",
+        "vision-system"
+      ],
+      "lenses": [
+        "embodiment",
+        "machine-seeing"
+      ],
+      "kind": "paper",
+      "description": "Three identical NAO humanoid robots stand in front of a mirror and move at random; using a brain-inspired model of the bodily self, each one works out which reflection is its own. The study from the Chinese Academy of Sciences treats the mirror test, long used to probe self-recognition in animals, as a first step toward robot self-consciousness.",
+      "description_zh": "三台外观完全相同的 NAO 人形机器人站在镜子前随机运动；借助一个类脑的身体自我模型，每台机器人都能认出镜中哪一个是自己。这项来自中国科学院的研究把长期用于检验动物自我识别的镜像测试，当作通向机器人自我意识的第一步。",
+      "idea_en": "Self-awareness can begin below language: a robot that learns which moving image is 'me' by matching its own motor commands to what it sees has a bodily self, a very different route to machine self-knowledge from a chatbot that says 'I'.",
+      "idea_zh": "自我意识可以从语言之下开始：一台通过把自己的运动指令与所见画面对应起来、从而认出哪个运动影像是“我”的机器人，拥有的是身体性的自我；这与会说“我”的聊天机器人是通往机器自我认识的截然不同的路径。",
+      "method": "Spiking neural network extending the primate mirror-neuron system: the robot learns links between its own movements and visual feedback with spike-timing-dependent plasticity (STDP), then the appearance of its body parts, and uses multisensory integration to tell itself from others in the mirror; by Zeng Yi, Zhao Yuxuan, Bai Jun and Xu Bo.",
+      "method_zh": "扩展灵长类镜像神经元系统的脉冲神经网络：机器人先用脉冲时序依赖可塑性（STDP）学习自身动作与视觉反馈之间的关联，再学习身体部位的外观，最后通过多感官整合在镜中把自己与他者区分开；作者为曾毅及其同事。",
+      "keywords": [
+        "mirror test",
+        "self-recognition",
+        "brain-inspired",
+        "spiking neural network",
+        "NAO",
+        "Institute of Automation, CAS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=sp2yN_x0I4g"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1007/s12559-017-9505-1",
+        "doi": "10.1007/s12559-017-9505-1",
+        "arxiv": "",
+        "venue": "Cognitive Computation 10 (2), 2018 (online 2017)",
+        "title": "Toward Robot Self-Consciousness (II): Brain-Inspired Robot Bodily Self Model for Self-Recognition"
+      },
+      "source_url": "https://doi.org/10.1007/s12559-017-9505-1"
+    },
+    {
+      "id": "rethink-priorities--digital-consciousness-model",
+      "creator_ids": [
+        "rethink-priorities"
+      ],
+      "title": "Initial results of the Digital Consciousness Model",
+      "year": 2026,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "theory"
+      ],
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "machine-umwelt"
+      ],
+      "kind": "paper",
+      "description": "A first attempt to weigh the evidence for AI consciousness in a systematic, probabilistic way: Rethink Priorities combined 13 theories and perspectives on consciousness and 206 indicators in one Bayesian model and scored 2024 language models alongside humans, chickens and the 1966 chatbot ELIZA. The evidence counts against consciousness in 2024 LLMs, but not decisively, and far less strongly than for simpler AI.",
+      "description_zh": "首次尝试以系统化、概率化的方式衡量 AI 有意识的证据：Rethink Priorities 把 13 种关于意识的理论与视角、206 项指标纳入同一个贝叶斯模型，为 2024 年的语言模型打分，并与人类、鸡和 1966 年的聊天程序 ELIZA 对比。结果显示，证据不利于“2024 年的大语言模型有意识”，但并非决定性的，而且远不如针对更简单 AI 的反证那样有力。",
+      "idea_en": "Instead of betting on one theory, weigh them all: from the same starting prior, the model lowers the estimate for 2024 LLMs (median about 0.08) and raises it for chickens (about 0.47), and its use lies in tracking how such numbers move as AI changes.",
+      "idea_zh": "与其押注某一种理论，不如把所有理论一起权衡：在相同的先验起点下，模型调低了 2024 年大语言模型的估计（中位数约 0.08），调高了鸡的估计（约 0.47）；它的价值在于追踪这些数字如何随 AI 的变化而移动。",
+      "method": "Hierarchical Bayesian model in which 13 stances (from global workspace and integrated information theory to embodied agency and biological analogy) are broken into 20 features, 70 subfeatures and 206 indicators; experts rated the indicators for each system, and stance results were combined with equal or expert-plausibility weights.",
+      "method_zh": "层级贝叶斯模型：13 种立场（从全局工作空间理论、整合信息理论到具身能动性与生物类比）被拆分为 20 个特征、70 个子特征和 206 项指标；专家为每个系统的指标评分，再以等权重或专家可信度权重汇总各立场的结果。",
+      "keywords": [
+        "Digital Consciousness Model",
+        "Bayesian model",
+        "indicators",
+        "AI Cognition Initiative",
+        "ELIZA",
+        "animal consciousness"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=BHsCmRhP4as"
+      },
+      "images": [
+        "https://arxiv.org/html/2601.17060v1/media/media/image12.png"
+      ],
+      "paper": {
+        "url": "https://arxiv.org/abs/2601.17060",
+        "doi": "",
+        "arxiv": "2601.17060",
+        "venue": "Rethink Priorities report (arXiv), 2026",
+        "title": "Initial results of the Digital Consciousness Model"
+      },
+      "source_url": "https://arxiv.org/abs/2601.17060"
+    },
+    {
+      "id": "milo-reed--am-i",
+      "creator_ids": [
+        "milo-reed",
+        "cameron-berg"
+      ],
+      "title": "AM I?",
+      "year": 2026,
+      "field": "interiority",
+      "sub": "sentience",
+      "machines": [
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "alterity-uncanny",
+        "intimacy-care"
+      ],
+      "kind": "film",
+      "description": "An independent feature documentary that follows AI consciousness researcher Cameron Berg as he tries to find out whether we have accidentally built a new kind of mind, with interviews including philosophers L. A. Paul, Jeff Sebo and David Gunkel, AI researcher Ben Goertzel and a person living with an AI companion.",
+      "description_zh": "一部独立长片纪录片，跟随 AI 意识研究者 Cameron Berg 探究我们是否在无意中造出了一种新的心智；受访者包括哲学家 L. A. Paul、Jeff Sebo、David Gunkel，AI 研究者 Ben Goertzel，以及一位与 AI 伴侣共同生活的人。",
+      "idea_en": "'Is it conscious?' is now asked by researchers, users and companies at the same time; the film presents that uncertainty itself as the lived condition of the present AI moment.",
+      "idea_zh": "“它有意识吗？”如今同时被研究者、用户和公司追问；影片把这种不确定本身，呈现为当下 AI 时代的生活处境。",
+      "method": "76-minute documentary by first-time director Milo Reed, shot with a year of embedded access; self-funded, released free on YouTube in May 2026 and toured with screenings and panels.",
+      "method_zh": "导演 Milo Reed 的处女作，片长 76 分钟，以一年的随行拍摄完成；自筹资金，2026 年 5 月在 YouTube 免费发布，随后举办多场放映与座谈。",
+      "keywords": [
+        "documentary",
+        "AI consciousness",
+        "Cameron Berg",
+        "Jeff Sebo",
+        "AI companion"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=KbTvUOx2A6c"
+      },
+      "images": [
+        "https://am-i.film/assets/og-image.jpg?v=3"
+      ],
+      "source_url": "https://am-i.film",
+      "exhibited": [
+        "Humanarium screening and panel, Brooklyn, 2026",
+        "Screening around AGI-26, San Francisco, 2026"
+      ]
+    },
+    {
+      "id": "takashi-ikegami--am-i-a-strange-loop",
+      "creator_ids": [
+        "takashi-ikegami",
+        "luc-steels"
+      ],
+      "title": "Am I a Strange Loop?",
+      "year": 2025,
+      "field": "interiority",
+      "sub": "sentience",
+      "also": [
+        "bodies"
+      ],
+      "machines": [
+        "humanoid",
+        "chatbot-llm"
+      ],
+      "lenses": [
+        "embodiment",
+        "alterity-uncanny",
+        "agency-cocreation"
+      ],
+      "kind": "artwork",
+      "description": "At the 2025 Venice Architecture Biennale, the android Alter3 talks with visitors in an open 'android lab' while LLM-based modules for prediction, task management, inner dialogue and metacognition run in parallel and feed its own outputs back as inputs. Visitors are asked to decide for themselves whether it shows self-awareness.",
+      "description_zh": "在 2025 年威尼斯建筑双年展上，仿真人 Alter3 在一个开放的“仿真人实验室”里与观众交谈；基于大语言模型的预测、任务管理、内心对话与元认知模块同时运行，并把它自己的输出重新作为输入。观众被邀请自行判断：它是否表现出了自我意识。",
+      "idea_en": "Following Hofstadter, the work stages self-awareness as a loop rather than a substance: if an 'I' arises when a system keeps taking its own outputs as input, the exhibition becomes a live test that the audience has to judge.",
+      "idea_zh": "作品沿用侯世达的思路，把自我意识呈现为一个循环而非一种实体：如果“我”产生于系统不断把自己的输出当作输入，那么展览就成了一场由观众来裁决的现场测试。",
+      "method": "Alter3 humanoid from Ikegami's lab at the University of Tokyo (with Alternative Machines, Inc.), driven by an asynchronous, Minsky-style 'society of mind' of LLM modules with perception, motor control and episodic memory; developed with Luc Steels and researchers from the University of Tokyo and Ca' Foscari University of Venice.",
+      "method_zh": "由东京大学池上高志实验室（与 Alternative Machines 公司合作）开发的仿真人 Alter3，以受 Minsky“心智社会”启发的异步大语言模型模块驱动，具备感知、运动控制与情景记忆；与 Luc Steels 以及东京大学、威尼斯大学（Ca' Foscari）的研究者共同开发。",
+      "keywords": [
+        "Alter3",
+        "android",
+        "strange loop",
+        "Hofstadter",
+        "Society of Mind",
+        "Venice Biennale"
+      ],
+      "images": [
+        "https://www.u-tokyo.ac.jp/content/400268099.jpg",
+        "https://www.u-tokyo.ac.jp/content/400268100.jpg",
+        "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2025/600x600/amiastrangeloop03.jpg?itok=2g5Nb-_i"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/frobt.2025.1581110",
+        "doi": "10.3389/frobt.2025.1581110",
+        "arxiv": "",
+        "venue": "Frontiers in Robotics and AI, 2025",
+        "title": "From text to motion: grounding GPT-4 in a humanoid robot “Alter3”"
+      },
+      "source_url": "https://www.labiennale.org/en/architecture/2025/artificial/am-i-strange-loop",
+      "exhibited": [
+        "Biennale Architettura 2025, Intelligens. Natural. Artificial. Collective., Arsenale, Venice"
+      ]
+    }
+  ],
+  "leads": [
+    {
+      "name": "David Chalmers, What we talk to when we talk to language models (Inquiry, 2026)",
+      "why": "Argues that LLM chatbots are 'quasi-agents' with quasi-beliefs and quasi-desires, located neither in the model nor in hardware but in conversation threads; Berkeley Sarah Douglas Lecture 2026 on YouTube (uUjJOMcNU9w). Strong for interiority/minds; left out to avoid a second Chalmers work in this pass.",
+      "link": "https://doi.org/10.1080/0020174X.2026.2727582",
+      "found_via": "david-chalmers",
+      "status": "open"
+    },
+    {
+      "name": "Butlin, Shiller & Simon (eds.), Consciousness in Current AI (Journal of Consciousness Studies special issue, 2026)",
+      "why": "2026 JCS special issue on whether current AI systems are conscious; could be a survey collection for the sentience sub. Contents not yet checked.",
+      "link": "https://doi.org/10.53765/20512201.33.7.009",
+      "found_via": "patrick-butlin",
+      "status": "open"
+    },
+    {
+      "name": "Ethan Perez & Robert Long, Towards Evaluating AI Systems for Moral Status Using Self-Reports (2023)",
+      "why": "Proposes training models to give reliable self-reports about their own states as evidence for moral status; bridges introspection research and AI welfare (ai-welfare scope). Paper-only.",
+      "link": "https://arxiv.org/abs/2311.08576",
+      "found_via": "robert-long",
+      "status": "open"
+    },
+    {
+      "name": "Zhao, Lu & Zeng, Brain-inspired bodily self-perception model for robot rubber hand illusion (Patterns, 2023)",
+      "why": "Zeng Yi's lab gives a robot the rubber-hand illusion, extending its work on robot bodily self-consciousness; Chinese research on machine selfhood.",
+      "link": "https://doi.org/10.1016/j.patter.2023.100888",
+      "found_via": "zeng-yi",
+      "status": "open"
+    },
+    {
+      "name": "What Is It Like? (group exhibition, arebyte London and WRO Art Center Wrocław, 2025)",
+      "why": "Exhibition named after Nagel's 'What Is It Like to Be a Bat?' on AI, sentience and self-awareness; could yield artworks for the sentience sub. Artists not yet checked.",
+      "link": "https://wrocenter.pl/en/what-is-it-like/",
+      "found_via": "takashi-ikegami",
+      "status": "open"
+    },
+    {
+      "name": "Patrick Butlin, Consciousness and AI (Open Encyclopedia of Cognitive Science, 2026)",
+      "why": "Short authoritative overview of the AI consciousness debate; useful as a theory reference rather than a gallery work.",
+      "link": "https://doi.org/10.21428/e2759450.d3359a9d",
+      "found_via": "patrick-butlin",
+      "status": "open"
+    }
+  ]
+}
