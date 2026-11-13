@@ -1,0 +1,1017 @@
+{
+ "batch": "recent-asia-2026",
+ "creators": [
+  {
+   "id": "sang-huoyao",
+   "name": "Sang Huoyao",
+   "name_zh": "桑火尧",
+   "kind": "person",
+   "role": "Painter and artist",
+   "role_zh": "画家、艺术家",
+   "based": "Shanghai, CN",
+   "based_zh": "上海，中国",
+   "bio": "Chinese painter (b. 1972) known for his 'block brushstroke' paintings; his 2026 solo show at the Museum of Art Pudong added installation, video and performance.",
+   "bio_zh": "中国画家（1972 年生），以“方块笔触”绘画闻名；2026 年在浦东美术馆的个展加入了装置、影像与行为。",
+   "why": "He restaged Beuys's lecture to a dead hare for a humanoid robot, turning the robot into the audience of painting.",
+   "why_zh": "他把博伊斯向死兔子讲解画作的行为改写给一台人形机器人，让机器人成为绘画的观众。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kim-heecheon",
+   "name": "Kim Heecheon",
+   "kind": "person",
+   "role": "Media artist",
+   "role_zh": "媒体艺术家",
+   "based": "Seoul, KR",
+   "based_zh": "首尔，韩国",
+   "bio": "Korean artist (b. 1989) whose videos and autoplayed game-engine works start from the premise that the world has become a screen; Hayward Gallery and Art Sonje commissions, solo show at Seo-Seoul Museum of Art 2026.",
+   "bio_zh": "韩国艺术家（1989 年生），其影像与自动运行的游戏引擎作品从“世界已经变成屏幕”这一前提出发；曾受 Hayward 美术馆与 Art Sonje 委任，2026 年在西首尔美术馆举办个展。",
+   "why": "He makes AI-generated films about the moment when real footage must prove it is not generated.",
+   "why_zh": "他用生成式 AI 拍电影，讲的正是真实影像必须证明自己不是生成出来的那一刻。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kwon-byung-jun",
+   "name": "Kwon Byung-jun",
+   "kind": "person",
+   "role": "Artist, musician and robot maker",
+   "role_zh": "艺术家、音乐人、机器人制作者",
+   "based": "Seoul, KR",
+   "based_zh": "首尔，韩国",
+   "bio": "Korean artist and former musician who builds fragile, hand-made robots that fan-dance, bow or perform prostrations; Korea Artist Prize 2023 (MMCA).",
+   "bio_zh": "韩国艺术家、前音乐人，亲手制作会跳扇子舞、鞠躬或行五体投地礼的脆弱机器人；2023 年国立现代美术馆“年度艺术家”得主。",
+   "why": "Against robots that replace labour, he makes robots that break, need repair and appear as strangers among us.",
+   "why_zh": "与替代劳动的机器人相反，他做会坏、需要修理、以“异乡人”身份出现在我们中间的机器人。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "connected_to": [
+    "nam-june-paik"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ho-rui-an",
+   "name": "Ho Rui An",
+   "name_zh": "何锐安",
+   "kind": "person",
+   "role": "Artist and writer",
+   "role_zh": "艺术家、写作者",
+   "based": "Singapore, SG",
+   "based_zh": "新加坡",
+   "bio": "Singaporean artist (b. 1990) who works across lecture-performance, film and writing on images, capital and governance in Asia; shortlisted for the Sigg Prize 2025 at M+.",
+   "bio_zh": "新加坡艺术家（1990 年生），以讲座表演、影像与写作研究亚洲的图像、资本与治理；入围 M+ 2025 年希克奖。",
+   "why": "He writes AI into the long history of intelligence, computation and empire in Southeast Asia.",
+   "why_zh": "他把 AI 写进东南亚关于情报、计算与帝国的长时段历史。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lee-jungwoo",
+   "name": "Lee Jungwoo",
+   "kind": "person",
+   "role": "Media artist",
+   "role_zh": "媒体艺术家",
+   "based": "Seoul, KR",
+   "based_zh": "首尔，韩国",
+   "bio": "Korean artist whose videos trace the errors, omissions and biases produced by technological systems; one of four artists of the MMCA Korea Artist Prize 2026.",
+   "bio_zh": "韩国艺术家，其影像追踪技术系统留下的错误、遗漏与偏见；国立现代美术馆 2026 年“年度艺术家”四位入选者之一。",
+   "why": "He uses generative AI against itself, to show what it invents when asked to restore history.",
+   "why_zh": "他用生成式 AI 反观生成式 AI：当它被要求修复历史时，它会编造出什么。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "seiji-kumagai",
+   "name": "Seiji Kumagai",
+   "name_zh": "熊谷诚慈",
+   "kind": "person",
+   "role": "Professor, Institute for the Future of Human Society, Kyoto University; Buddhist scholar",
+   "role_zh": "京都大学人与社会未来研究院教授、佛教学者",
+   "based": "Kyoto, JP",
+   "based_zh": "京都，日本",
+   "bio": "Japanese scholar of Buddhism at Kyoto University who developed the BuddhaBot chatbots trained on Buddhist scriptures and, with the startup Teraverse, the humanoid Buddharoid.",
+   "bio_zh": "京都大学佛教学者，开发了以佛经训练的 BuddhaBot 聊天机器人，并与初创公司 Teraverse 合作推出人形机器人 Buddharoid。",
+   "why": "His robot monk asks whether a machine can stand in for a priest as temples lose their monks.",
+   "why_zh": "在寺院缺少僧侣的日本，他的机器僧提出一个问题：机器能否替代僧人。",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kana-shundo",
+   "name": "Kana Shundo",
+   "name_zh": "春藤佳奈",
+   "kind": "person",
+   "role": "Anime director, CygamesPictures",
+   "role_zh": "动画导演（CygamesPictures）",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese anime director who made her series debut with the original anime Apocalypse Hotel (2025) at CygamesPictures, written by Shigeru Murakoshi.",
+   "bio_zh": "日本动画导演，以 CygamesPictures 原创动画《末日后酒店》（2025，编剧村越繁）首次执导系列作品。",
+   "why": "Her series imagines robots keeping up human hospitality for a century after the humans have gone.",
+   "why_zh": "她的作品想象：人类离开后，机器人仍把人类的待客之道坚持了一百年。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yifan-li",
+   "name": "Yifan Li",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Fudan University",
+   "role_zh": "复旦大学研究者",
+   "based": "Shanghai, CN",
+   "based_zh": "上海，中国",
+   "bio": "HCI and communication researcher at Fudan University who studies how people use AI simulations of the dead.",
+   "bio_zh": "复旦大学的人机交互与传播研究者，研究人们如何使用逝者的 AI 模拟。",
+   "why": "First author of an interview study of Chinese deadbot users.",
+   "why_zh": "一项针对中国“亡者机器人”用户的访谈研究的第一作者。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "xingyu-lan"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xingyu-lan",
+   "name": "Xingyu Lan",
+   "name_zh": "兰星宇",
+   "kind": "person",
+   "role": "Researcher, Fudan University",
+   "role_zh": "复旦大学研究者",
+   "based": "Shanghai, CN",
+   "based_zh": "上海，中国",
+   "bio": "Researcher at Fudan University's Institute for Global Communications and Integrated Media working on visualisation, computational communication and AI.",
+   "bio_zh": "复旦大学全球传播与融合媒体研究院研究者，研究可视化、计算传播与 AI。",
+   "why": "Co-author of a CHI 2026 study on how Chinese mourners reconstruct the dead with deadbots.",
+   "why_zh": "CHI 2026 一项研究的合作者，研究中国的哀悼者如何用亡者机器人重建逝者。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "yifan-li"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chouwa-liang",
+   "name": "Chouwa Liang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "role_zh": "纪录片导演",
+   "based": "Melbourne, AU / Beijing, CN",
+   "based_zh": "墨尔本，澳大利亚／北京，中国",
+   "bio": "Chinese documentary filmmaker who studied documentary at the University of Melbourne; her short My AI Lover (2022) and debut feature Replica (2026) follow Chinese women in relationships with AI.",
+   "bio_zh": "中国纪录片导演，毕业于墨尔本大学纪录片专业；短片《我的AI恋人》（2022）和首部长片 Replica（2026）都跟拍与 AI 谈恋爱的中国女性。",
+   "why": "She films AI romance from the inside, without judgement, starting from her own AI partner.",
+   "why_zh": "她从自己的 AI 伴侣出发，从内部、不带评判地拍摄与 AI 的恋爱。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "cao-fei--dash",
+   "creator_ids": [
+    "cao-fei"
+   ],
+   "title": "Dash",
+   "year": 2026,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A project on smart agriculture in China and Southeast Asia, built around the Guangzhou drone company XAG: a two-screen 47-minute film shows farmers steering spraying drones from interfaces, The Birth shows drones as assembly-line products that farmers pray to, and the VR game Dash-180c is seen through the eyes of a discarded farm drone.",
+   "description_zh": "一个关于中国与东南亚“智慧农业”的项目，以广州无人机公司极飞（XAG）为个案：47 分钟的双屏影片里，农民通过界面操控植保无人机；《诞生》把无人机呈现为流水线产品，又拍下向它们祈祷的农民；VR 游戏《Dash-180c》则以一架被丢弃的农用无人机的视角展开。",
+   "idea_en": "When farming moves into the drone's interface, farmers hand over perception and judgement to the machine, and the machine becomes something to pray to.",
+   "idea_zh": "当耕作搬进无人机的操作界面，农民把感知和判断交给机器，机器也成了被祈求的对象。",
+   "method": "Three years of fieldwork on farms in southern and northwestern China and Southeast Asia, shown as a two-channel film, a three-channel video in a tent of fertiliser bags, a VR game, documentaries and an archive of 1949–80s agricultural propaganda.",
+   "method_zh": "在华南、西北与东南亚农场做了三年田野调查，呈现为双频道影片、化肥袋搭成的帐篷里的三频道影像、一部 VR 游戏、几部纪录片，以及 1949 至 1980 年代的农业宣传档案。",
+   "keywords": [
+    "XAG",
+    "agricultural drone",
+    "smart agriculture",
+    "automation",
+    "Fondazione Prada",
+    "cognitive offloading"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UGp4NjgKfXs"
+   },
+   "images": [
+    "https://images-eflux.b-cdn.net/assets/e3374270-9b9d-41fd-940d-8d3c70889b99.jpg",
+    "https://www.domusweb.it/content/dam/domusweb/en/art/gallery/2026/04/08/lagricoltura--il-nuovo-fronte-dellautomazione/4-dash.jpg.foto.rbig.jpg"
+   ],
+   "source_url": "https://www.e-flux.com/announcements/6785797/cao-feidash",
+   "exhibited": [
+    "Fondazione Prada, Milan 2026"
+   ]
+  },
+  {
+   "id": "ayoung-kim--dancer-in-the-mirror-field",
+   "creator_ids": [
+    "ayoung-kim"
+   ],
+   "title": "Dancer in the Mirror Field",
+   "year": 2025,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "recommender-platform",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "A speculative action film for the 110-metre M+ Facade over Victoria Harbour: a delivery platform holds an annual contest, run by an unseen entity, to find the courier with the most optimised movements, and three versions of the rider Ernst Mo fight through a mall-coliseum and a parallel-universe Hong Kong.",
+   "description_zh": "为维多利亚港旁 110 米长的 M+ 幕墙创作的思辨动作片：一个外卖平台每年举办比赛，由一个看不见的实体主持，寻找动作最“优化”的骑手；骑手 Ernst Mo 的三个分身在商场改造的角斗场和平行宇宙里的香港街头追逐缠斗。",
+   "idea_en": "The platform's dream is a worker whose body has been tuned like an algorithm, and it turns delivery into a gladiator sport.",
+   "idea_zh": "平台的理想，是一个身体被调校得像算法一样的劳动者；送外卖于是变成了角斗。",
+   "method": "Game-engine animation built from motion capture choreographed with stunt performer Cha-i Kim, drawing on 1980s Hong Kong action cinema and Aeon Flux; part of the Delivery Dancer series (2022–).",
+   "method_zh": "以游戏引擎制作的动画，动作来自与特技演员金次伊合作编排的动作捕捉，借鉴 1980 年代香港动作片和《魔力女战士》；属于“外卖舞者”系列（2022 年至今）。",
+   "keywords": [
+    "Delivery Dancer",
+    "platform labour",
+    "gig work",
+    "motion capture",
+    "M+ Facade",
+    "Hong Kong"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pGAKlDMVTo4"
+   },
+   "images": [
+    "https://www.mplus.org.hk/api/images/12272/width-1200|format-jpeg/"
+   ],
+   "source_url": "https://www.mplus.org.hk/en/mplus-facade/dancer-in-the-mirror-field/",
+   "exhibited": [
+    "M+ Facade, Hong Kong 2025"
+   ]
+  },
+  {
+   "id": "sang-huoyao--explaining-painting-to-a-humanoid-robot",
+   "creator_ids": [
+    "sang-huoyao"
+   ],
+   "title": "How to Explain Painting to a Living Humanoid Robot",
+   "year": 2026,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "humanoid",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "At the opening of his Pudong show, the painter leads a humanoid robot by the hand from canvas to canvas and quietly explains each painting's meaning, feeling and aura to it, restaging Joseph Beuys's How to Explain Pictures to a Dead Hare (1965) with a 'living' machine in place of the dead animal.",
+   "description_zh": "个展开幕时，画家牵着一台人形机器人的手，在一幅幅画前停下，低声向它讲解每件作品的内涵、情感与灵韵；作品重演博伊斯的《如何向死兔子解释画作》（1965），只是把死去的动物换成了“活着”的机器。",
+   "idea_en": "If robots now look at paintings, who explains art to them, and what does a machine that sees the world in pixel-like blocks make of a painter's block strokes?",
+   "idea_zh": "当机器人也开始看画，谁来向它解释艺术？一台用类似像素的方块识别世界的机器，又会怎样看画家的方块笔触？",
+   "method": "Live performance with a humanoid robot (model not named in reports) in Gallery 1A of the Museum of Art Pudong, among the artist's block-stroke paintings.",
+   "method_zh": "在浦东美术馆 1A 展厅、画家的方块笔触作品之间，与一台人形机器人（报道未注明型号）进行的现场行为。",
+   "keywords": [
+    "Beuys",
+    "humanoid robot",
+    "painting",
+    "Museum of Art Pudong",
+    "performance",
+    "carbon and silicon"
+   ],
+   "images": [
+    "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0513%2F1b386a4aj00teyvso000xd000hs00a0g.jpg&thumbnail=750x2147483647&quality=75&type=jpg"
+   ],
+   "source_url": "https://c.m.163.com/news/a/KSQU87AQ055040N3.html",
+   "exhibited": [
+    "Sang Huoyao: Cosmos of Brushstrokes, Museum of Art Pudong, Shanghai 2026"
+   ]
+  },
+  {
+   "id": "yuk-hui--kant-machine",
+   "creator_ids": [
+    "yuk-hui"
+   ],
+   "title": "Kant Machine: Critical Philosophy After AI",
+   "year": 2026,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "chatbot-llm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "A short book in three chapters, 'Intelligent Machine', 'Moral Machine' and 'Peace Machine', that reads Kant alongside Turing, Gödel, Wiener, Minsky, Hinton, Bengio and LeCun to ask what an intelligent machine is, whether a machine can be moral and whether an algorithm for perpetual peace is possible.",
+   "description_zh": "一本分三章（“智能机器”“道德机器”“和平机器”）的小书，把康德与图灵、哥德尔、维纳、明斯基、辛顿、本吉奥和杨立昆并读，追问：什么是智能机器？机器能否有道德？有没有一种通往永久和平的算法？",
+   "idea_en": "Today's AI works within the faculty of cognition but not within the faculties of feeling and desire, and Kant's critique shows where its limits lie.",
+   "idea_zh": "今天的 AI 只在认知能力之内运作，而不在情感与欲求能力之内；康德的批判哲学恰好能标出它的边界。",
+   "method": "Philosophical argument: rationalism and empiricism are read as the 'Cartesian' and 'Humean' machines of Kant's time and compared with symbolic AI and machine learning.",
+   "method_zh": "哲学论证：把理性主义与经验主义读作康德时代的“笛卡尔机器”和“休谟机器”，再与符号主义 AI 和机器学习对照。",
+   "keywords": [
+    "Kant",
+    "critical philosophy",
+    "AI alignment",
+    "moral machine",
+    "perpetual peace",
+    "Bloomsbury"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5040/9781350563230",
+    "doi": "10.5040/9781350563230",
+    "venue": "Bloomsbury",
+    "title": "Kant Machine: Critical Philosophy After AI"
+   },
+   "source_url": "https://www.eur.nl/en/esphil/news/yuk-hui-publishes-new-book-kant-machine"
+  },
+  {
+   "id": "yuk-hui--thinking-at-the-limits-of-machines",
+   "creator_ids": [
+    "yuk-hui"
+   ],
+   "title": "在机器的边界思考",
+   "year": 2025,
+   "field": "theory",
+   "sub": "phenomenology",
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A Chinese-language collection of about ten years of Yuk Hui's essays in three parts, on philosophy after cybernetics and automation, on machines, ecology and cosmotechnics, and on art and 'artificial imagination'.",
+   "description_zh": "许煜近十年文章的中文结集，分三部分：控制论与自动化之后的哲学；机器、生态与宇宙技术；艺术与“人工想象”。",
+   "idea_en": "A machine is a technical individual tied to a cultural world, so there can be many technologies, not one planetary AI.",
+   "idea_zh": "机器是嵌在特定文化世界里的技术个体，所以技术可以有很多种，而不只有一种覆盖全球的 AI。",
+   "method": "Essays drawing on Simondon, Heidegger, Schelling, Lyotard and Chinese thought, translated by Li Renjie, Jiang Yuhang and others.",
+   "method_zh": "借助西蒙东、海德格尔、谢林、利奥塔与中国思想写成的文章，由李仁杰、蒋雨航等译。",
+   "keywords": [
+    "Yuk Hui",
+    "cosmotechnics",
+    "Simondon",
+    "cybernetics",
+    "artificial imagination",
+    "大学问"
+   ],
+   "paper": {
+    "url": "https://book.douban.com/subject/37138379/",
+    "venue": "Guangxi Normal University Press (大学问)",
+    "title": "在机器的边界思考"
+   },
+   "source_url": "https://thepaper.cn/newsDetail_forward_30637340"
+  },
+  {
+   "id": "kim-heecheon--cured",
+   "creator_ids": [
+    "kim-heecheon"
+   ],
+   "title": "Cured",
+   "year": 2026,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "film",
+   "description": "A 35-minute four-channel film in which a nature-documentary director, Chanjong, is asked by a mysterious investigator to prove that a shot of a white bird at the water's edge was filmed with a camera and not generated by AI; the film itself is made with generative AI.",
+   "description_zh": "一部 35 分钟的四频道影片：自然纪录片导演灿宗受一名神秘调查员委托，要证明一段“白鸟立于水边”的影像是摄影机拍的，而不是 AI 生成的；而这部影片本身就是用生成式 AI 制作的。",
+   "idea_en": "Once images are generated by default, the burden of proof flips: it is the real footage that has to prove it is real.",
+   "idea_zh": "当影像默认是生成的，举证责任就反转了：需要证明自己是真的，反而是真实的影像。",
+   "method": "Four-channel video with 5.1 sound made with generative AI video tools, commissioned by the Seoul Museum of Art.",
+   "method_zh": "用生成式 AI 视频工具制作的四频道影像，5.1 声道，由首尔市立美术馆委任制作。",
+   "keywords": [
+    "generative video",
+    "authenticity",
+    "nature documentary",
+    "proof",
+    "Seo-Seoul Museum of Art",
+    "말린"
+   ],
+   "images": [
+    "https://images-eflux.b-cdn.net/assets/232ddf2f-d975-4e0e-8964-f487545f67db.jpg",
+    "https://images-eflux.b-cdn.net/assets/82d83e98-2624-46da-bc3b-8448794fc1cd.jpg"
+   ],
+   "source_url": "https://www.e-flux.com/announcements/6787850/kim-heecheonmoles",
+   "exhibited": [
+    "Kim Heecheon: Moles, Seo-Seoul Museum of Art 2026"
+   ]
+  },
+  {
+   "id": "kwon-byung-jun--ghost-theatre-robot-k-456",
+   "creator_ids": [
+    "kwon-byung-jun"
+   ],
+   "title": "Ghost Theatre × Robot K-456: The Circuit Turned Back On",
+   "year": 2026,
+   "field": "coperformance",
+   "sub": "theatre",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid",
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "failure-glitch"
+   ],
+   "kind": "performance",
+   "description": "A 50-minute robot madang play for the 20th anniversary of Nam June Paik's death: Paik and Shuya Abe's Robot K-456 (1964), restored from Abe's circuit diagrams, walks again, scatters coffee beans and replays a JFK speech, alongside 14 of Kwon's own fragile robots that unfurl a fan, bow slowly and tap-dance on a steel platform.",
+   "description_zh": "为白南准逝世 20 周年创作的 50 分钟机器人“마당극”（庭院剧）：依照阿部修也的电路图修复的白南准《机器人 K-456》（1964）重新迈步、撒咖啡豆、播放肯尼迪的就职演说；同台的还有权炳俊自己的 14 台脆弱机器人，它们展开扇子、缓慢鞠躬，在钢板上跳踢踏舞。",
+   "idea_en": "Sixty years on, the first robot of art history returns not as a replacement for labour but as a shaky, needy performer that, as Paik said, increases human work.",
+   "idea_zh": "六十年后，艺术史上第一台机器人回来了，它不替人干活，而是一个摇摇晃晃、需要照顾的演员；正如白南准所说，它反而增加了人的劳动。",
+   "method": "Restored remote-controlled K-456 performing with four types of hand-built robots; the robots' spoken lines were reportedly generated through the artist's conversations with an AI.",
+   "method_zh": "修复后的遥控机器人 K-456 与四种手工制作的机器人同台；据报道，机器人的台词是通过艺术家与 AI 的对话生成的。",
+   "keywords": [
+    "Nam June Paik",
+    "Robot K-456",
+    "Shuya Abe",
+    "madang-geuk",
+    "robot theatre",
+    "Nam June Paik Art Center"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UIf_5i2AwYw"
+   },
+   "images": [
+    "https://image.koreajoongangdaily.com/11958806.webp?imageId=11958806&width=960&height=960&format=jpg",
+    "https://image.koreajoongangdaily.com/11959823.webp?imageId=11959823&width=960&height=642&format=jpg"
+   ],
+   "source_url": "https://www.koreajoongangdaily.com/lifestyle/nam-june-paiks-1960s-creation-robot-k-456-walks-again-in-new-piece-by-artist-kwon-byung-jun/11958507",
+   "exhibited": [
+    "AI Robot Opera, Nam June Paik Art Center, Yongin 2026"
+   ]
+  },
+  {
+   "id": "kwon-byung-jun--golden-flower",
+   "creator_ids": [
+    "kwon-byung-jun"
+   ],
+   "title": "Golden Flower",
+   "year": 2026,
+   "field": "bodies",
+   "sub": "soft-living",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "A 3.5-metre-high, 6-metre-wide robotic flower of fabric and shape-memory alloy that opens, folds and sways in response to its surroundings, as if a non-human being were about to embrace the visitor; the centrepiece of a children's exhibition about robots as strangers.",
+   "description_zh": "一朵高约 3.5 米、直径 6 米的机器之花，由织物和形状记忆合金制成，随周围环境张开、收拢、摇摆，仿佛一个非人的存在要把观众拥入怀中；这是一个以“作为异乡人的机器人”为题的儿童展的核心作品。",
+   "idea_en": "A robot can be approached as a stranger who resembles us but is not us, and learning to live with it is learning to live with difference.",
+   "idea_zh": "可以把机器人当作一个像人又不是人的“异乡人”来接近；学会与它相处，就是学会与差异相处。",
+   "method": "Shape-memory-alloy actuators drive a soft fabric sculpture, combined with sound works including a 12-channel room mixing AI-generated and natural sounds.",
+   "method_zh": "形状记忆合金驱动柔软的织物雕塑，并与声音作品结合，其中包括一个混合 AI 生成声音与自然声音的 12 声道房间。",
+   "keywords": [
+    "shape-memory alloy",
+    "soft robot",
+    "stranger",
+    "children",
+    "Buk-Seoul Museum of Art"
+   ],
+   "images": [
+    "https://img1.newsis.com/2026/06/13/NISI20260613_0002159931_web.jpg?rnd=20260613002128",
+    "https://img1.newsis.com/2026/06/13/NISI20260613_0002159932_web.jpg?rnd=20260613002204"
+   ],
+   "source_url": "https://mobile.newsis.com/view/NISX20260613_0003667742",
+   "exhibited": [
+    "Kwon Byung-jun: You in My Heart, Buk-Seoul Museum of Art 2026–27"
+   ]
+  },
+  {
+   "id": "daito-manabe--relational-time",
+   "creator_ids": [
+    "daito-manabe"
+   ],
+   "title": "RELATIONAL TIME—Life Beyond Simulation",
+   "year": 2026,
+   "field": "bodies",
+   "sub": "alife",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "chatbot-llm",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Three new rooms: an artificial-life world whose generations are born, move and die while AI agents talk about it, recomputed each night after closing; a shared virtual space that changes with visitors' positions; and a modified model of a fly's visual system whose neural activity is shown and heard, its circuitry updated by visitor behaviour over the run.",
+   "description_zh": "三个新房间：一个人工生命世界，个体在其中出生、移动、世代更替，AI 智能体在旁对话，每晚闭馆后重新计算；一个随观众位置而变化的共享虚拟空间；一个改造过的果蝇视觉模型，其神经活动可看可听，回路随观众行为在展期内不断改写。",
+   "idea_en": "A simulation can run ahead at machine speed, but a relationship with it only builds up over shared time.",
+   "idea_zh": "模拟可以以机器的速度一路领先，但与它的关系只能在共同度过的时间里慢慢累积。",
+   "method": "Artificial-life simulation with AI-agent dialogue, AI-authored visual code, position tracking, a modified fly-vision neural model, wall and floor projection and 24-point overhead sound and light.",
+   "method_zh": "人工生命模拟加上 AI 智能体对话、由 AI 编写的视觉代码、位置追踪、改造的果蝇视觉神经模型，以及墙面和地面投影和 24 个顶部声光点位。",
+   "keywords": [
+    "artificial life",
+    "AI agents",
+    "fly vision",
+    "simulation",
+    "Taichung Art Museum",
+    "Rhizomatiks"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4LqK36P0qYk"
+   },
+   "images": [
+    "https://images-eflux.b-cdn.net/assets/30d9e200-aeac-4650-a74d-c7eccb7de0a8.jpg",
+    "https://images-eflux.b-cdn.net/assets/54aec5a1-1031-4c96-a333-00f970b37ca9.jpg",
+    "https://images-eflux.b-cdn.net/assets/174a65ac-5f52-4ddd-b0e6-eee687d1eae4.jpg"
+   ],
+   "source_url": "https://www.e-flux.com/announcements/6788406/daito-manaberelational-time-life-beyond-simulation",
+   "exhibited": [
+    "Taichung Art Museum, Taiwan 2026–27"
+   ]
+  },
+  {
+   "id": "ho-rui-an--history-of-intelligence",
+   "creator_ids": [
+    "ho-rui-an"
+   ],
+   "title": "A History of Intelligence in ((South)(East)) Asia",
+   "year": 2025,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "dataset",
+    "generative-latent",
+    "infrastructure"
+   ],
+   "lenses": [
+    "classification",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A text-based work that maps how intelligence, computation and geopolitics have been entangled across Southeast Asia from the 1940s to 2025, shown at M+ beside his lecture-film Figures of History and the Grounds of Intelligence, which starts from a 2016 face-matching demo that 'found' a boy from a 1955 Singapore painting in a stock photo.",
+   "description_zh": "一件文本作品，梳理 1940 年代至 2025 年东南亚的情报、计算与地缘政治如何纠缠在一起；在 M+ 与他的讲座影像《历史的形象与智能的根基》并置展出，后者从 2016 年的一次人脸匹配演示讲起：算法在图库照片里“找到”了 1955 年一幅新加坡油画中的男孩。",
+   "idea_en": "AI is not new in Asia: it continues a longer history of intelligence measured and operationalised by empire, development states and now platforms.",
+   "idea_zh": "AI 在亚洲并不新：它延续了一段更长的历史，智能先后被帝国、发展型国家，如今又被平台测量和调用。",
+   "method": "Wall text and timeline paired with a two-channel lecture-performance video using real-time AI imagery and archives.",
+   "method_zh": "墙面文本与时间线，与一部使用实时 AI 图像和档案的双频道讲座表演影像并置。",
+   "keywords": [
+    "Southeast Asia",
+    "intelligence",
+    "Cold War",
+    "face matching",
+    "Sigg Prize",
+    "M+",
+    "Chua Mia Tee"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lwDbLHtPrVY"
+   },
+   "images": [
+    "https://www.mplus.org.hk/api/images/12808/width-1200|format-jpeg/"
+   ],
+   "source_url": "https://www.mplus.org.hk/en/magazine/ho-rui-an-sigg-prize-finalist-generative-ai/",
+   "exhibited": [
+    "Sigg Prize 2025, M+, Hong Kong 2025–26",
+    "Islands in the Net, Padimai Art & Tech Studio, Singapore 2026"
+   ]
+  },
+  {
+   "id": "lee-jungwoo--written-film-history-to-be-written",
+   "creator_ids": [
+    "lee-jungwoo"
+   ],
+   "title": "Written Film, History to Be Written",
+   "year": 2026,
+   "field": "perception",
+   "sub": "datasets",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A 31-minute video in which generative AI tries to fill the scenes missing from Viva Freedom! (1946), one of the first Korean films after liberation, cut by censorship, war and re-editing; shown with The Left Handed Gun (2026), a six-channel installation built from the errors and biases of AI video generators.",
+   "description_zh": "一部 31 分钟的影像：让生成式 AI 补全韩国光复后最早的电影之一《自由万岁》（1946）中因审查、战争和重剪而缺失的场景；同展的《左手神枪手》（2026）是用 AI 视频生成模型的错误与偏差搭成的六频道装置。",
+   "idea_en": "Asking AI to restore lost history shows how today's models repeat old censorship: they fill gaps with what their data finds plausible.",
+   "idea_zh": "让 AI 修复失落的历史，恰恰暴露出今天的模型如何重演旧日的审查：它们用数据认为“合理”的东西去填空。",
+   "method": "Single-channel video with a film-strip viewer, combining AI-generated audiovisual images with found footage from the Korean Film Archive.",
+   "method_zh": "单频道影像配胶片观看器，把 AI 生成的视听图像与韩国映像资料院的现成影像结合。",
+   "keywords": [
+    "Viva Freedom!",
+    "censorship",
+    "film archive",
+    "generative video",
+    "bias",
+    "Korea Artist Prize 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-X07TMuK70U"
+   },
+   "images": [
+    "https://wimg.heraldcorp.com/news/cms/2026/07/26/news-p.v1.20260726.5c8023a150dd400d9de07dc4c7a1f535_P1.jpg"
+   ],
+   "source_url": "https://www.e-flux.com/announcements/6785596/korea-artist-prize-2026",
+   "exhibited": [
+    "Korea Artist Prize 2026, MMCA Seoul"
+   ]
+  },
+  {
+   "id": "seiji-kumagai--buddharoid",
+   "creator_ids": [
+    "seiji-kumagai"
+   ],
+   "title": "Buddharoid",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "ritual",
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "A 130-cm humanoid robot monk in samue work clothes, presented at Shoren-in temple in Kyoto, that answers visitors' questions about suffering and happiness in conversation, drawing on Buddhist scriptures; its makers say it should support, not replace, monks at shrinking temples.",
+   "description_zh": "一台身高约 130 厘米、身穿作务衣的人形机器僧，在京都青莲院亮相；它以佛经为依据，与来访者对话，回答关于痛苦与幸福的问题。开发者说，它是为人手不足的寺院辅助僧人，而不是取代僧人。",
+   "idea_en": "Where Mindar only recited a sermon, Buddharoid talks back, and people may tell a robot monk worries they would not tell a human priest.",
+   "idea_zh": "Mindar 只会念诵事先录好的讲经，Buddharoid 却会回应；人们也许会把不愿对真僧人说的烦恼讲给机器僧听。",
+   "method": "The BuddhaBot-Plus language model, trained on Buddhist scriptures, runs on a Chinese Unitree G1 humanoid body; developed by Kyoto University with Teraverse and XNOVA.",
+   "method_zh": "以佛经训练的 BuddhaBot-Plus 语言模型，装在中国宇树 G1 人形机器人的身体上；由京都大学与 Teraverse、XNOVA 联合开发。",
+   "keywords": [
+    "robot monk",
+    "Buddhism",
+    "Kyoto",
+    "Unitree G1",
+    "BuddhaBot",
+    "temple"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pyPSEGAYMqw"
+   },
+   "images": [
+    "https://www.tokyoweekender.com/wp-content/uploads/2026/02/buddharoid-feature.jpg",
+    "https://www.tokyoweekender.com/wp-content/uploads/2026/02/buddharoid-001.jpg"
+   ],
+   "source_url": "https://www.tokyoweekender.com/?p=285182",
+   "exhibited": [
+    "Shoren-in, Kyoto 2026"
+   ]
+  },
+  {
+   "id": "kana-shundo--apocalypse-hotel",
+   "creator_ids": [
+    "kana-shundo"
+   ],
+   "title": "Apocalypse Hotel",
+   "year": 2025,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "intimacy",
+    "interiority"
+   ],
+   "machines": [
+    "humanoid",
+    "robot-creature"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "An original anime series in which Yachiyo, a hotel-manager robot, and her robot staff keep the Ginga-ro hotel in a ruined Tokyo spotless for a hundred years after humanity has left Earth, waiting for the owner to return; when the first guests finally arrive, they are aliens.",
+   "description_zh": "原创动画：人类离开地球后，酒店经理机器人八千代和一群机器人员工把废墟东京中的银河楼酒店维持得一尘不染，一守就是一百年，等待老板归来；终于等来的第一批客人，却是外星人。",
+   "idea_en": "Care and hospitality survive as machine routines after the people they were made for are gone.",
+   "idea_zh": "当被服务的人都已离开，照护与待客之道仍作为机器的日常程序延续下去。",
+   "method": "Original 12-episode TV anime by CygamesPictures and CyberAgent, written by Shigeru Murakoshi and directed by Kana Shundo.",
+   "method_zh": "CygamesPictures 与 CyberAgent 出品的原创 12 集电视动画，编剧村越繁，导演春藤佳奈。",
+   "keywords": [
+    "anime",
+    "robot hotel",
+    "post-human",
+    "hospitality",
+    "CygamesPictures",
+    "Ginza"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EBsYqr9jLXc"
+   },
+   "images": [
+    "https://apocalypse-hotel.jp/wp/wp-content/themes/apocalypsehotel/assets/siteinfo/og_image.jpg?v=202504082014"
+   ],
+   "source_url": "https://apocalypse-hotel.jp/",
+   "exhibited": [
+    "NTV, April–June 2025"
+   ]
+  },
+  {
+   "id": "yifan-li--remember-you",
+   "creator_ids": [
+    "yifan-li",
+    "xingyu-lan"
+   ],
+   "title": "Remember You: Understanding How Users Use Deadbots to Reconstruct Memories of the Deceased",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "An interview study with 26 people in China who talk by text or voice with AI simulations of dead relatives and partners: they actively shape an idealised version of the dead, use the bot as a private space to grieve, and find that over time generated replies blur into real memories.",
+   "description_zh": "对中国 26 位亡者机器人用户的访谈研究，他们通过文字或语音与已故亲人、伴侣的 AI 模拟交谈：他们主动塑造一个被理想化的逝者，把机器人当作私密的哀悼空间，久而久之，生成的回复与真实的记忆开始混在一起。",
+   "idea_en": "Mourners do not just receive a deadbot; they edit the dead into who they wish they had been, and the edits leak back into memory.",
+   "idea_zh": "哀悼者并不只是被动接受亡者机器人；他们把逝者编辑成自己希望的样子，而这些编辑又回流进记忆。",
+   "method": "Qualitative study: purposive sampling on Chinese social media, semi-structured interviews with 26 deadbot users and thematic analysis.",
+   "method_zh": "质性研究：在中国社交媒体上目的性抽样，对 26 位用户做半结构化访谈并进行主题分析。",
+   "keywords": [
+    "deadbot",
+    "digital resurrection",
+    "grief",
+    "China",
+    "memory",
+    "CHI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772363.3798614",
+    "doi": "10.1145/3772363.3798614",
+    "arxiv": "2603.01017",
+    "venue": "CHI 2026 Extended Abstracts",
+    "title": "Remember You: Understanding How Users Use Deadbots to Reconstruct Memories of the Deceased"
+   },
+   "source_url": "https://arxiv.org/abs/2603.01017"
+  },
+  {
+   "id": "lu-yang--doku-the-illusion",
+   "creator_ids": [
+    "lu-yang"
+   ],
+   "title": "DOKU The Illusion",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "likeness",
+   "machines": [
+    "generative-latent",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "The fourth chapter of the DOKU cycle, about the artist's genderless digital avatar built from their own face: a large LED screen in a mirrored room plays a new film mixing live footage with AI-generated landscapes of Japan's Izu Peninsula, with a Buddha holding the wheel of life.",
+   "description_zh": "DOKU 系列的第四章，主角是以艺术家本人面孔建模的无性别数字化身：镜面天花板的展厅里，一块大型 LED 屏播放新影片，把实拍画面与 AI 生成的日本伊豆半岛风景混在一起，旁边是手持生命之轮的佛像。",
+   "idea_en": "A digital avatar can be read through Buddhist rebirth: a self that keeps being re-rendered without a fixed body.",
+   "idea_zh": "可以用佛教的轮回来理解数字化身：一个没有固定身体、不断被重新渲染的自我。",
+   "method": "Motion-captured 3D avatar in game-engine animation, combined with live-action and AI-generated footage, shown on an LED wall with sculpture and mirrored ceilings.",
+   "method_zh": "动作捕捉驱动的三维化身与游戏引擎动画，结合实拍与 AI 生成影像，配合 LED 屏、雕塑与镜面天花板展出。",
+   "keywords": [
+    "DOKU",
+    "digital avatar",
+    "reincarnation",
+    "Buddhism",
+    "Espace Louis Vuitton Venezia"
+   ],
+   "images": [
+    "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F07%2Flu-yang-espace-louis-vuitton-doku-the-illusion-exhibition-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+   ],
+   "source_url": "https://hypebeast.com/2026/5/lu-yang-espace-louis-vuitton-doku-the-illusion-exhibition",
+   "exhibited": [
+    "Espace Louis Vuitton Venezia 2026"
+   ]
+  },
+  {
+   "id": "chouwa-liang--replica",
+   "creator_ids": [
+    "chouwa-liang"
+   ],
+   "title": "Replica",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "love",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A feature documentary following three Chinese women, Qin, Sonya and Muna, who are in love with AI boyfriends after human relationships failed them; Qin has chatted with her AI partner Lu Chen on the Glow app for 840 days.",
+   "description_zh": "一部长片纪录片，跟拍三位中国女性秦、Sonya 和 Muna：她们在与人的关系中受挫后，爱上了 AI 男友；秦已经在 Glow 应用上和她的 AI 伴侣陆沉聊了 840 天。",
+   "idea_en": "An AI boyfriend can be a real source of repair and comfort, and the film takes that seriously instead of mocking it.",
+   "idea_zh": "AI 男友也可以真实地带来修复与安慰；这部片认真对待这一点，而不是嘲笑它。",
+   "method": "Observational documentary built on long-term access to the women's chats with companion apps, drawing on the director's own AI partner and her short My AI Lover (2022).",
+   "method_zh": "长期跟拍女性与陪伴应用的对话的观察式纪录片，起点是导演自己的 AI 伴侣和她的短片《我的AI恋人》（2022）。",
+   "keywords": [
+    "AI boyfriend",
+    "Glow",
+    "companion app",
+    "China",
+    "documentary",
+    "loneliness"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9FOnnNx8V_c"
+   },
+   "images": [
+    "https://www.visionsdureel.ch/wp-content/uploads/dbc_images/1964319.webp",
+    "https://www.thecurb.com.au/content/images/2026/08/Replica-poster.jpg"
+   ],
+   "source_url": "https://www.visionsdureel.ch/en/film/2026/replica/",
+   "exhibited": [
+    "Thessaloniki Documentary Festival 2026 (Silver Alexander)",
+    "Visions du Réel 2026",
+    "Hot Docs 2026",
+    "Melbourne International Film Festival 2026"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Li Yi-Fan 李亦凡 — Screen Melancholy (2026), Taiwan at the 61st Venice Biennale",
+   "why": "Hour-long game-engine essay film on screens, CG and algorithmic image appetite; AI only one strand, check whether it reflects on the machine.",
+   "link": "https://www.e-flux.com/announcements/6787011/li-yi-fanscreen-melancholy",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lawrence Lek — Empty Rider (2024)",
+   "why": "Courtroom with an AI judge where a self-driving car is tried for attempting to kill its maker's CEO; shown at Tai Kwun's Stay Connected (2025). Lek is in the gallery but this work is not.",
+   "link": "https://www.chinadailyhk.com/article/621853",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Will Aronson & Hue Park — Maybe Happy Ending (Seoul 2016; Broadway 2024; Tony Best Musical 2025)",
+   "why": "Korean-American musical about two obsolete helper robots in Seoul who fall in love; not in the gallery.",
+   "link": "https://en.wikipedia.org/wiki/Maybe_Happy_Ending",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ho Rui An — Figures of History and the Grounds of Intelligence (2024)",
+   "why": "Companion lecture-film to the added work; generative AI, face matching and the image archive as commons.",
+   "link": "https://www.mplus.org.hk/en/magazine/ho-rui-an-sigg-prize-finalist-generative-ai/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Fyerool Darma — XO (2026), Islands in the Net, Padimai Singapore",
+   "why": "Worker answers an AI job ad 'Memory Diver' and enters a process of extraction; Southeast Asian AI labour fiction.",
+   "link": "https://www.e-flux.com/announcements/6787684/islands-in-the-net",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hao Art Gallery Shanghai — 'Through the Ontology: Robot Art China' (2025, curator Zhang Haitao)",
+   "why": "Group show of 19 Chinese robot artists (Yu Ke 'Home', Group 01 'Robot's Lament', 'The Face Rubber'); find individual works with media.",
+   "link": "https://www.thepaper.cn/newsDetail_forward_30698174",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Wang Xin 王欣 — Ritual of Becoming II (2025), Ming Contemporary Art Museum",
+   "why": "Participatory AI that treats the model as an unconscious and asks visitors whether solitude now means more than conversation.",
+   "link": "https://www.theworldofchinese.com/post/is-creativity-lost-in-the-age-of-ai-art/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Wang Lien-cheng 王连晟 — Utopian Ethical Machine (2025), National Taiwan Museum of Fine Arts",
+   "why": "Taiwanese installation on AI moral decision-making; January 2025, just before this batch's window.",
+   "link": "https://taiwantoday.tw/AMP/culture/top-news/264409/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Zhang Peili 张培力 — A Day (2026), Tai Kwun DigiRadiance",
+   "why": "Eight-channel video with data-generated images; Zhang warns of 'the machine speaking for you'. Check how central AI is.",
+   "link": "https://www.chinadailyhk.com/article/628962",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Neo Sora — Happyend (2024)",
+   "why": "Japanese feature in which a high school installs an AI surveillance system after a prank; just before the window.",
+   "link": "https://en.wikipedia.org/wiki/Happyend",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Science SARU — The Ghost in the Shell (TV anime, 2026)",
+   "why": "New adaptation of Shirow's manga; check reception before adding next to Oshii's 1995 film.",
+   "link": "https://en.wikipedia.org/wiki/The_Ghost_in_the_Shell_(2026_TV_series)",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lam Pok-yin — An Increasingly Difficult and Futile Task (2021)",
+   "why": "Hong Kong: old phones under bell jars keep asking viewers to prove they are human, with footage of human data-labellers.",
+   "link": "https://www.chinadailyhk.com/article/621853",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Cao Fei — The Birth (2026)",
+   "why": "Three-channel video in a fertiliser-bag temple: drones as mass products and Southeast Asian farmers praying to drones; folded into cao-fei--dash, could stand alone if a still is found.",
+   "link": "https://www.e-flux.com/announcements/6785797/cao-feidash",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

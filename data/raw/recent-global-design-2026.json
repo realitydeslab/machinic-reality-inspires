@@ -1,0 +1,1089 @@
+{
+ "batch": "recent-global-design-2026",
+ "creators": [
+  {
+   "id": "aranya-sahay",
+   "name": "Aranya Sahay",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director and screenwriter",
+   "role_zh": "电影导演、编剧",
+   "based": "India",
+   "based_zh": "印度",
+   "bio": "Indian writer-director whose debut feature Humans in the Loop (2024) follows an Adivasi data labeller in Jharkhand.",
+   "bio_zh": "印度编剧兼导演，首部长片《Humans in the Loop》（2024）讲述贾坎德邦一位阿迪瓦西族数据标注员的故事。",
+   "why": "He put the Global South labour behind machine learning at the centre of a fiction feature.",
+   "why_zh": "他把机器学习背后的全球南方劳动放到了一部剧情长片的中心。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "henri-poulain",
+   "name": "Henri Poulain",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary director; co-founder of DataGueule",
+   "role_zh": "纪录片导演；DataGueule 联合创办人",
+   "based": "Paris, France",
+   "based_zh": "法国巴黎",
+   "bio": "French director and producer who co-founded the explainer series DataGueule and directed the France 2 documentary Les Sacrifiés de l'IA.",
+   "bio_zh": "法国导演、制片人，科普节目 DataGueule 联合创办人，执导法国电视二台纪录片《Les Sacrifiés de l'IA》。",
+   "why": "He took the research on AI's hidden data workers to prime-time television.",
+   "why_zh": "他把关于 AI 隐形数据劳工的研究带上了黄金时段电视。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [
+    "antonio-casilli"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "antonio-casilli",
+   "name": "Antonio Casilli",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Sociologist; Professor, Télécom Paris, Institut Polytechnique de Paris",
+   "role_zh": "社会学家；巴黎电信学院（巴黎综合理工学院联盟）教授",
+   "based": "Paris, France",
+   "based_zh": "法国巴黎",
+   "bio": "Italian-French sociologist of digital labour, author of En attendant les robots (2019; English: Waiting for Robots, 2025) and co-founder of the DiPLab research network.",
+   "bio_zh": "意大利裔法国数字劳动社会学家，著有《En attendant les robots》（2019，英文版《Waiting for Robots》，2025），DiPLab 研究网络联合创办人。",
+   "why": "His fieldwork shows that 'automation' is built on millions of underpaid micro-workers, mostly in the Global South.",
+   "why_zh": "他的田野研究表明，“自动化”建立在数以百万计、主要分布在全球南方的低薪微任务劳动者之上。",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {},
+   "connected_to": [
+    "henri-poulain"
+   ],
+   "discovered_via": "henri-poulain"
+  },
+  {
+   "id": "serena-dambrosio",
+   "name": "Serena Dambrosio",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect and researcher",
+   "role_zh": "建筑师、研究者",
+   "based": "Santiago, Chile",
+   "based_zh": "智利圣地亚哥",
+   "bio": "Italian-born architect and researcher based in Santiago who studies the territorial impact of data centres in Chile.",
+   "bio_zh": "生于意大利、常驻圣地亚哥的建筑师与研究者，研究数据中心在智利造成的地域影响。",
+   "why": "She maps where AI's cloud lands on wetlands and communities.",
+   "why_zh": "她追踪 AI 的“云”落在了哪些湿地和社区之上。",
+   "disciplines": [
+    "design",
+    "activism"
+   ],
+   "links": {},
+   "connected_to": [
+    "nicolas-diaz",
+    "marina-otero-verzier"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicolas-diaz",
+   "name": "Nicolás Díaz",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect and researcher",
+   "role_zh": "建筑师、研究者",
+   "based": "Santiago, Chile",
+   "based_zh": "智利圣地亚哥",
+   "bio": "Colombian-born architect and researcher based in Santiago, co-author of the Quilicura data-centre project Wetland Enmeshments.",
+   "bio_zh": "生于哥伦比亚、常驻圣地亚哥的建筑师与研究者，基利库拉数据中心研究项目《Wetland Enmeshments》的共同作者。",
+   "why": "He works with local residents to make digital infrastructure a matter of public consultation.",
+   "why_zh": "他与当地居民合作，让数字基础设施成为公共协商的议题。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "serena-dambrosio",
+    "marina-otero-verzier"
+   ],
+   "discovered_via": "serena-dambrosio"
+  },
+  {
+   "id": "marina-otero-verzier",
+   "name": "Marina Otero Verzier",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect, curator and researcher",
+   "role_zh": "建筑师、策展人、研究者",
+   "based": "Madrid / Rotterdam / New York",
+   "based_zh": "马德里／鹿特丹／纽约",
+   "bio": "Spanish architect and curator, formerly director of research at Het Nieuwe Instituut, whose work examines data centres, labour and the architecture of digital infrastructure.",
+   "bio_zh": "西班牙建筑师、策展人，曾任荷兰新学院（Het Nieuwe Instituut）研究总监，研究数据中心、劳动与数字基础设施的建筑。",
+   "why": "She treats the data centre as an architectural and ecological problem rather than an invisible cloud.",
+   "why_zh": "她把数据中心当作建筑与生态问题来处理，而不是看不见的“云”。",
+   "disciplines": [
+    "design",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [
+    "serena-dambrosio",
+    "nicolas-diaz"
+   ],
+   "discovered_via": "serena-dambrosio"
+  },
+  {
+   "id": "planetary-portals",
+   "name": "Planetary Portals",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Creative research collective",
+   "role_zh": "创作研究团体",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "Collective of Casper Laing Ebbensgaard, Kerry Holden, Michael Salu and Kathryn Yusoff, working on colonial mining legacies in South Africa and the extractive logic of AI.",
+   "bio_zh": "由 Casper Laing Ebbensgaard、Kerry Holden、Michael Salu 与 Kathryn Yusoff 组成的团体，研究南非殖民采矿的遗产与 AI 的攫取逻辑。",
+   "why": "They connect the colonial archive, mineral extraction and the gaps in large language models in one argument.",
+   "why_zh": "他们把殖民档案、矿产开采与大语言模型的缺口放进同一个论证里。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lo-def-film-factory",
+   "name": "Lo-Def Film Factory",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Participatory community cinema collective (Francois Knoetze & Amy Louise Wilson)",
+   "role_zh": "参与式社区电影团体（Francois Knoetze 与 Amy Louise Wilson）",
+   "based": "Cape Town, South Africa",
+   "based_zh": "南非开普敦",
+   "bio": "South African collective founded in 2019 by artist Francois Knoetze and performer-writer Amy Louise Wilson; their AI essay-film Dzata won the Lumen Prize Global Majority Award in 2023.",
+   "bio_zh": "南非团体，2019 年由艺术家 Francois Knoetze 与表演者兼作家 Amy Louise Wilson 创立；其 AI 散文电影《Dzata》获 2023 年 Lumen 奖全球多数群体奖。",
+   "why": "They question whose history of technology AI repeats, from a Southern African standpoint.",
+   "why_zh": "他们站在南部非洲的立场追问：AI 重复的是谁的技术史。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christian-bayerlein",
+   "name": "Christian Bayerlein",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, technologist and disability activist",
+   "role_zh": "艺术家、技术实践者、残障权益活动者",
+   "based": "Koblenz, Germany",
+   "based_zh": "德国科布伦茨",
+   "bio": "German disabled artist and technologist living with spinal muscular atrophy, who uses hacked interfaces and XR for disability activism; co-creator of Crip Sensorama (Ars Electronica 2024).",
+   "bio_zh": "德国残障艺术家与技术实践者，患有脊髓性肌萎缩症，用改造的界面与 XR 推动残障权益；《Crip Sensorama》（Ars Electronica 2024）共同创作者。",
+   "why": "He makes technology bend to disabled bodies instead of the other way round.",
+   "why_zh": "他让技术去适应残障身体，而不是反过来。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {},
+   "connected_to": [
+    "yesica-duarte",
+    "puneet-jain"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yesica-duarte",
+   "name": "Yesica Duarte",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and XR developer",
+   "role_zh": "艺术家、XR 开发者",
+   "based": "Germany",
+   "based_zh": "德国",
+   "bio": "Artist and developer in an inter-abled collective with Christian Bayerlein and Puneet Jain, working on accessible XR and AI.",
+   "bio_zh": "与 Christian Bayerlein、Puneet Jain 组成跨能力团体的艺术家与开发者，从事无障碍 XR 与 AI 创作。",
+   "why": "She builds the working prototypes behind the collective's crip critiques of AI and XR.",
+   "why_zh": "她为这个团体对 AI 与 XR 的“残障视角”批判搭建可运行的原型。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "christian-bayerlein",
+    "puneet-jain"
+   ],
+   "discovered_via": "christian-bayerlein"
+  },
+  {
+   "id": "puneet-jain",
+   "name": "Puneet Jain",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist-researcher; PhD candidate, Concordia University",
+   "role_zh": "艺术研究者；康考迪亚大学博士候选人",
+   "based": "Montreal, Canada",
+   "based_zh": "加拿大蒙特利尔",
+   "bio": "Researcher at the intersection of HCI, XR, AI and disability studies, working with disabled artists through 'criptastic hacking'.",
+   "bio_zh": "研究横跨人机交互、XR、AI 与残障研究，以“残障黑客”（criptastic hacking）方法与残障艺术家合作。",
+   "why": "He moves disability in HCI from access to justice through artistic practice.",
+   "why_zh": "他通过艺术实践，把人机交互中的残障议题从“无障碍”推进到“正义”。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "christian-bayerlein",
+    "yesica-duarte"
+   ],
+   "discovered_via": "christian-bayerlein"
+  },
+  {
+   "id": "saki-maruyama",
+   "name": "Saki Maruyama",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer; co-founder of Playfool",
+   "role_zh": "设计师；Playfool 联合创办人",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "Japanese designer who runs the design studio Playfool with Daniel Coppen, making games and play-based installations about technology.",
+   "bio_zh": "日本设计师，与 Daniel Coppen 共同运营设计工作室 Playfool，创作关于技术的游戏与游戏式装置。",
+   "why": "Uses play to make the maintenance work behind digital systems tangible.",
+   "why_zh": "用游戏让数字系统背后的维护劳动变得可以触摸。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "daniel-coppen"
+   ],
+   "discovered_via": "daniel-coppen"
+  },
+  {
+   "id": "marc-isaacs",
+   "name": "Marc Isaacs",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "role_zh": "纪录片导演",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "British documentary filmmaker (Lift, 2001; Calais: The Last Border, 2003) whose recent films blend documentary, fiction and comedy.",
+   "bio_zh": "英国纪录片导演（《Lift》，2001；《Calais: The Last Border》，2003），近年作品混合纪录、虚构与喜剧。",
+   "why": "He asks what AI's appetite for faces and footage means for documentary truth.",
+   "why_zh": "他追问：AI 对人脸与影像素材的胃口，对纪录片的真实意味着什么。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "elena-andreicheva",
+   "name": "Elena Andreicheva",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary director and producer",
+   "role_zh": "纪录片导演、制片人",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "bio": "British documentary producer and director; producer of the Oscar-winning short Learning to Skateboard in a Warzone (If You're a Girl) (2019).",
+   "bio_zh": "英国纪录片制片人与导演，奥斯卡获奖短片《Learning to Skateboard in a Warzone (If You're a Girl)》（2019）的制片人。",
+   "why": "She films the people who rehearse AI's geopolitical futures as a game.",
+   "why_zh": "她拍摄那些把 AI 地缘政治未来当作游戏来排演的人。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "isabel-merchante",
+   "name": "Isabel Merchante",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Madrid, Spain",
+   "based_zh": "西班牙马德里",
+   "bio": "Spanish artist (b. 1999) working with audiovisual installation and repurposed machines.",
+   "bio_zh": "西班牙艺术家（1999 年生），以影音装置和改作的机器创作。",
+   "why": "She takes industrial machines out of the logic of output and lets them waste time.",
+   "why_zh": "她把工业机器从产出逻辑中拿出来，让它们去“浪费”时间。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iocose",
+   "name": "IOCOSE",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Art collective (Matteo Cremonesi, Filippo Cuttica, Davide Prati, Paolo Ruffino)",
+   "role_zh": "艺术团体（Matteo Cremonesi、Filippo Cuttica、Davide Prati、Paolo Ruffino）",
+   "based": "Italy / UK",
+   "based_zh": "意大利／英国",
+   "bio": "Italian art collective founded in 2006 that makes satirical works about technological failure, hype and the myths of progress.",
+   "bio_zh": "成立于 2006 年的意大利艺术团体，以讽刺性作品讨论技术失败、炒作与进步神话。",
+   "why": "They turn the promises of tech culture against themselves with deadpan humour.",
+   "why_zh": "他们用冷面幽默让科技文化的承诺反噬自身。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://iocose.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "isabel-merchante"
+  }
+ ],
+ "works": [
+  {
+   "id": "aranya-sahay--humans-in-the-loop",
+   "creator_ids": [
+    "aranya-sahay"
+   ],
+   "title": "Humans in the Loop",
+   "year": 2024,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "vision-system"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "film",
+   "description": "A 72-minute Hindi-Kurukh feature about Nehma, an Oraon Adivasi woman who returns to her village in Jharkhand and takes a job at a data-labelling centre, annotating images and video for foreign AI clients; she starts to see how the categories the system demands clash with her community's knowledge of plants, animals and land.",
+   "description_zh": "一部 72 分钟的印地语—库鲁克语剧情长片：奥朗族阿迪瓦西女性 Nehma 回到贾坎德邦的村庄，在一家数据标注中心为海外 AI 客户标注图片和视频；她逐渐发现，系统要求的分类与她的族群对植物、动物和土地的认识彼此冲突。",
+   "idea_en": "A model's 'ground truth' is someone's judgment at a desk in a village, and the labels it refuses erase whole ways of knowing.",
+   "idea_zh": "模型的“标准答案”，是村里某张桌子前某个人的判断；被拒绝的标签，抹去的是整套认识世界的方式。",
+   "method": "Fiction feature in Hindi and Kurukh shot on location in Jharkhand; it stages the labelling interface, the client's categories and the supervisor's corrections as the core of the drama.",
+   "method_zh": "在贾坎德邦实地拍摄的印地语与库鲁克语剧情片；把标注界面、客户规定的类别和主管的纠正作为戏剧冲突的核心。",
+   "keywords": [
+    "data labelling",
+    "Adivasi",
+    "Jharkhand",
+    "Oraon",
+    "annotation",
+    "Global South",
+    "Netflix"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GxKmuCENXK4"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6c/HITL_1.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Humans_in_the_Loop_(film)",
+   "exhibited": [
+    "MAMI Mumbai Film Festival 2024 (premiere)",
+    "Best Debut Film, Indian Film Festival of Los Angeles 2025",
+    "FIPRESCI India Award for Best Feature 2025",
+    "Netflix worldwide release, 31 Oct 2025"
+   ]
+  },
+  {
+   "id": "henri-poulain--les-sacrifies-de-l-ia",
+   "creator_ids": [
+    "henri-poulain",
+    "antonio-casilli"
+   ],
+   "title": "Les Sacrifiés de l'IA (In the Belly of AI)",
+   "year": 2025,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "A 73-minute documentary for France 2 that follows the data workers who label images, transcribe speech and filter violent content for AI systems, filmed in Nairobi, Manila and Europe, including a Finnish prison where inmates annotate data; a Kenyan worker says their job is to clean AI so that people in the West can benefit from it.",
+   "description_zh": "为法国电视二台拍摄的 73 分钟纪录片，跟随为 AI 系统标注图片、转写语音、过滤暴力内容的数据劳工，拍摄地包括内罗毕、马尼拉和欧洲，其中有一座让囚犯做数据标注的芬兰监狱；一位肯尼亚工人说，他们的工作就是为 AI 做清洁，好让西方人从中受益。",
+   "idea_en": "Every 'automatic' system has a payroll: the machine's intelligence is assembled from repetitive, traumatic and badly paid human work.",
+   "idea_zh": "每个“自动”系统背后都有一张工资单：机器的智能，是由重复、创伤且低薪的人类劳动拼装出来的。",
+   "method": "Investigative documentary co-written by sociologist Antonio Casilli with Julien Goetz and the director, built on Casilli's DiPLab fieldwork, with interviews and observation of micro-workers on their screens.",
+   "method_zh": "调查纪录片，由社会学家 Antonio Casilli 与 Julien Goetz 和导演共同编剧，以 Casilli 的 DiPLab 田野研究为基础，访谈并观察微任务劳动者在屏幕前的工作。",
+   "keywords": [
+    "data workers",
+    "micro-work",
+    "content moderation",
+    "Kenya",
+    "Philippines",
+    "Casilli",
+    "France 2",
+    "DataGueule"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zGvcvK1S22I"
+   },
+   "source_url": "https://www.francetvpro.fr/contenu-de-presse/71118534",
+   "exhibited": [
+    "France 2, February 2025",
+    "Thessaloniki Documentary Festival (as In the Belly of AI)"
+   ]
+  },
+  {
+   "id": "suzanne-kite--wichahpi-woihanbleya",
+   "creator_ids": [
+    "suzanne-kite"
+   ],
+   "title": "Wičháȟpi Wóihaŋbleya (Dreamlike Star)",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "dreams",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A 21-minute multimedia environment of video, sound, stones and a mirror in which a constellation of stones on the floor is also a graphic score; dreams are translated into a Lakȟóta grammar of symbols, and in the live version a performer wearing a braided-hair interface steers light, video, sound and AI-generated text through movement and touch.",
+   "description_zh": "一件 21 分钟的多媒体环境，由影像、声音、石头和镜子构成：地上的石头星座同时也是一份图形乐谱；梦被转译成拉科塔语的符号语法；现场版本中，表演者佩戴编发式界面，通过动作与触碰操控灯光、影像、声音和 AI 生成的文字。",
+   "idea_en": "Treat AI the way Lakȟóta thought treats stones and stars: as non-human relatives you enter into protocol with, not tools you command.",
+   "idea_zh": "像拉科塔思想对待石头与星辰那样对待 AI：它是需要与之建立礼约的非人类亲属，而不是任人驱使的工具。",
+   "method": "Machine-learning models map a performer's gestures on a wearable braided-hair sensor interface to light, video, sound and text, within a sculptural score of stones and projected stars; the work follows Kite's research on Indigenous protocols for AI.",
+   "method_zh": "机器学习模型把表演者在可穿戴编发传感界面上的动作映射为灯光、影像、声音和文字，置于由石头与投影星空组成的雕塑式乐谱之中；作品延续 Kite 关于原住民 AI 礼约的研究。",
+   "keywords": [
+    "Lakota",
+    "Indigenous AI",
+    "dreams",
+    "graphic score",
+    "braid interface",
+    "MIT List",
+    "Indigenous Protocol"
+   ],
+   "video": {
+    "url": "https://youtu.be/Ou3yDtllrLE"
+   },
+   "images": [
+    "https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2025-03/01_install_mit-list-list-projects-31-kite_dariolasagni_0006.jpg.webp",
+    "https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2025-05/041725_hr_mit_list_kite_melissablackall_-28.jpg.webp"
+   ],
+   "source_url": "https://listart.mit.edu/node/2571",
+   "exhibited": [
+    "List Projects 31: Kite, MIT List Visual Arts Center, 30 Jan – 18 May 2025",
+    "Dreaming with AI, IAIA Museum of Contemporary Native Arts, Santa Fe, 2025"
+   ]
+  },
+  {
+   "id": "serena-dambrosio--wetland-enmeshments",
+   "creator_ids": [
+    "serena-dambrosio",
+    "nicolas-diaz",
+    "marina-otero-verzier"
+   ],
+   "title": "Wetland Enmeshments: Water, Cables and Data in Quilicura, Chile",
+   "year": 2025,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A research installation about Quilicura, the Santiago commune where Google opened its first Latin American data centre and where more are planned: a 16-minute video mixes wetland footage, interviews with residents and drawings of the 25 data centres planned in Chile, set against the community's concerns over water scarcity and pollution.",
+   "description_zh": "一件关于基利库拉的研究型装置。这个圣地亚哥市镇有谷歌在拉美的第一座数据中心，还有更多正在规划：16 分钟的影像把湿地画面、居民访谈和智利规划中 25 座数据中心的图纸剪辑在一起，与社区对缺水和污染的担忧并置。",
+   "idea_en": "The cloud has an address: AI's appetite for cooling water and land lands on specific wetlands and specific neighbours.",
+   "idea_zh": "云是有地址的：AI 对冷却水和土地的需求，落在具体的湿地和具体的邻里身上。",
+   "method": "Participatory research with the community group Resistencia Socioambiental Quilicura, the municipality and Chilean universities, drawing on environmental impact studies of each facility; presented as video, painted panels and photography.",
+   "method_zh": "与社区组织 Resistencia Socioambiental Quilicura、市政府及智利多所大学合作的参与式研究，依据每座设施的环境影响评估；以影像、绘制面板和摄影呈现。",
+   "keywords": [
+    "data centres",
+    "Quilicura",
+    "Chile",
+    "water",
+    "wetlands",
+    "Google",
+    "Venice Architecture Biennale"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/architettura/2025/1300x600/wetland-enmeshments1.jpg?itok=IsypANqR",
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/architettura/2025/1300x600/wetlandchilez01.jpg?itok=ou-sDR1W"
+   ],
+   "source_url": "https://www.labiennale.org/en/architecture/2025/artificial/wetland-enmeshments-water-cables-and-data-quilicura-chile",
+   "exhibited": [
+    "Biennale Architettura 2025, Intelligens. Natural. Artificial. Collective., Arsenale, Venice",
+    "Centro Cultural de Quilicura"
+   ]
+  },
+  {
+   "id": "planetary-portals--i-am-in-your-dreams",
+   "creator_ids": [
+    "planetary-portals"
+   ],
+   "title": "I am in your dreams, but you are not in mine",
+   "year": 2025,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "Single-shot films built from archival photographs in the Papers of Cecil Rhodes trace his 'environment' from Hackney to the diamond fields of South Africa, and set the landscapes of colonial mining against the scripting of AI, asking which languages and lives the archive and large language models leave out.",
+   "description_zh": "以塞西尔·罗兹档案中的历史照片制作的一镜到底影片，追溯他从伦敦哈克尼到南非钻石矿区的“环境”，把殖民采矿的地貌与 AI 的脚本编写并置，追问档案和大语言模型遗漏了哪些语言和生命。",
+   "idea_en": "AI's training archive inherits the colonial archive: the extraction of minerals and the compression of many languages into one code are the same logic.",
+   "idea_zh": "AI 的训练档案继承了殖民档案：开采矿物与把多种语言压缩成一种代码，是同一种逻辑。",
+   "method": "Archival photographs from the Bodleian Library processed with a range of generative AI and digital tools into slow camera moves, with an online version on Unthinking Photography; Michael Salu wrote, directed and animated the 42-minute film.",
+   "method_zh": "用多种生成式 AI 与数字工具处理牛津博德利图书馆的档案照片，制成缓慢的镜头运动，另有发布于 Unthinking Photography 的在线版本；42 分钟影片由 Michael Salu 编剧、导演并制作动画。",
+   "keywords": [
+    "colonial archive",
+    "Cecil Rhodes",
+    "mining",
+    "South Africa",
+    "LLM",
+    "African languages",
+    "The Photographers' Gallery"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9Q0XAPBe9Rw"
+   },
+   "images": [
+    "https://thephotographersgallery.org.uk/sites/default/files/styles/banner_image/public/images/man%20and%20bridge.00_03_41_01.Still034.jpg.webp?itok=jTwV5tJ4"
+   ],
+   "source_url": "https://thephotographersgallery.org.uk/node/2560",
+   "exhibited": [
+    "The Photographers' Gallery, London, 7 Mar – 15 Jun 2025",
+    "AI and the Paradox of Agency, Bildmuseet, Umeå, 2026–27 (adapted as Planetary Portals)"
+   ]
+  },
+  {
+   "id": "minne-atairu--da-braidr",
+   "creator_ids": [
+    "minne-atairu"
+   ],
+   "title": "Da Braidr",
+   "year": 2025,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "speculative",
+    "power"
+   ],
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A speculative start-up whose first product is a generative AI system that designs custom braid styles and estimates the time, cost and labour each would take, addressing the informal economy of Black hair braiding and how image models misrender Black hair.",
+   "description_zh": "一家思辨式“初创公司”，第一款产品是能设计定制发辫款式、并估算每款所需时间、成本与劳动量的生成式 AI 系统，回应黑人编发的非正式经济，以及图像模型如何错误地生成黑人头发。",
+   "idea_en": "Pricing the hours of a braider exposes what image generators skip: Black hair is labour and knowledge, not just a texture to render.",
+   "idea_zh": "给编发师的工时定价，暴露了图像生成器省略的东西：黑人头发是劳动与知识，而不只是一种要渲染的纹理。",
+   "method": "A web interface with filters for view, colour, length and cost generates braid designs from user prompts with a custom image model, noting that submitted prompts may be used to refine the system.",
+   "method_zh": "一个带有视角、颜色、长度和成本筛选的网页界面，用定制图像模型根据用户提示生成发辫设计，并注明用户提交的提示可能被用于改进系统。",
+   "keywords": [
+    "braiding",
+    "Black hair",
+    "informal economy",
+    "generative AI",
+    "speculative start-up",
+    "Re:humanism"
+   ],
+   "images": [
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/54686507399_6bcc44a47d_c.jpg",
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/54686594715_78a90c445d_h.jpg"
+   ],
+   "source_url": "https://dabraidr.info",
+   "exhibited": [
+    "Re:humanism 4, Timeline Shift, Fondazione Pastificio Cerere, Rome, 2025"
+   ]
+  },
+  {
+   "id": "lo-def-film-factory--concept-drift",
+   "creator_ids": [
+    "lo-def-film-factory"
+   ],
+   "title": "Concept Drift",
+   "year": 2025,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "dataset",
+    "infrastructure",
+    "generative-latent"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A videogame installation set in South Africa that borrows the machine-learning term 'concept drift', the point where a model trained on past data stops working in a changed world, to explore the colonial roots of AI and the extraction behind its infrastructure.",
+   "description_zh": "一件以南非为背景的电子游戏装置，借用机器学习术语“概念漂移”（模型用过去的数据训练，到了变化后的世界便失灵的时刻），探讨 AI 的殖民根源及其基础设施背后的攫取。",
+   "idea_en": "A model trained on a colonial past will 'drift' when the colonised world changes; the error is political, not only statistical.",
+   "idea_zh": "用殖民过去训练出来的模型，在被殖民的世界改变时必然“漂移”；这种误差是政治性的，而不只是统计上的。",
+   "method": "Game-engine environments combining AI-generated 3D models, collage, archival material and sculptural costumes made in participatory workshops.",
+   "method_zh": "游戏引擎环境，结合 AI 生成的三维模型、拼贴、档案材料，以及在参与式工作坊中制作的雕塑性服装。",
+   "keywords": [
+    "concept drift",
+    "South Africa",
+    "colonialism",
+    "videogame",
+    "extractivism",
+    "Re:humanism"
+   ],
+   "images": [
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/54686598785_11d73fcf03_c.jpg",
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/5lodef_071095c0e5_c.jpg"
+   ],
+   "source_url": "https://we-make-money-not-art.com/timeline-shift-challenging-western-concepts-of-time-productivity-and-ai-functions/",
+   "exhibited": [
+    "Re:humanism 4, Timeline Shift, Fondazione Pastificio Cerere, Rome, 2025"
+   ]
+  },
+  {
+   "id": "christian-bayerlein--cripping-llms",
+   "creator_ids": [
+    "christian-bayerlein",
+    "yesica-duarte",
+    "puneet-jain"
+   ],
+   "title": "Cripping LLMs",
+   "year": 2025,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A chatbot that opens conversations about access needs and the visible and invisible body; instead of smooth, helpful answers it talks a lot, asks provocative questions, exposes the user's assumptions about disability and repairs misunderstandings with poetry and humour.",
+   "description_zh": "一个就无障碍需求、可见与不可见的身体展开对话的聊天机器人；它不给顺滑、有用的回答，而是滔滔不绝、提出挑衅的问题，揭露用户对残障的预设，再用诗与幽默修补误解。",
+   "idea_en": "Disabled people can refuse the 'frictionless' assistant: a model built on disability-justice principles is allowed to be slow, awkward and uncomfortable.",
+   "idea_zh": "残障者可以拒绝“零摩擦”的助手：按残障正义原则构建的模型，可以慢、可以别扭、可以让人不舒服。",
+   "method": "A small local model (Qwen3 4B Instruct) run in LM Studio behind an HTML interface, co-created through prompts that encode disability-justice principles; open code on GitHub.",
+   "method_zh": "在 LM Studio 中本地运行的小模型（Qwen3 4B Instruct），配合 HTML 界面，通过承载残障正义原则的提示词共同创作；代码在 GitHub 开源。",
+   "keywords": [
+    "disability justice",
+    "crip technoscience",
+    "local LLM",
+    "CripTech",
+    "Leonardo/ISAST",
+    "Slow AI"
+   ],
+   "images": [
+    "https://leonardo.info/d10/sites/default/files/styles/extra_large/public/inline-images/PROVOCATION%20.png",
+    "https://leonardo.info/d10/sites/default/files/styles/extra_large/public/inline-images/POETIC.png"
+   ],
+   "source_url": "https://leonardo.info/criptech/slow-ai/cripping-llms",
+   "code_url": "https://github.com/yesicaduartevr/Cripping-LLM",
+   "exhibited": [
+    "Slow AI, virtual exhibition of the CripTech AI Lab (Leonardo/ISAST), curated by M Eilo, 2025"
+   ]
+  },
+  {
+   "id": "daniel-coppen--the-server",
+   "creator_ids": [
+    "daniel-coppen",
+    "saki-maruyama"
+   ],
+   "title": "The Server",
+   "year": 2026,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction"
+   ],
+   "kind": "speculative",
+   "description": "A game installation in which visitors take the job of a data-centre cleaner, using a real data-centre vacuum as the controller to suck digital dust off an overheating sculptural server; it starts from the V&A's own routine object cleaning.",
+   "description_zh": "一件游戏装置：观众扮演数据中心清洁工，用一台真正的数据中心吸尘器作控制器，把过热的雕塑服务器上的“数字灰尘”吸掉；作品的出发点是 V&A 博物馆自己的日常文物清洁工作。",
+   "idea_en": "In a highly automated data centre the one job that resists automation is cleaning; the AI race still runs on someone with a vacuum.",
+   "idea_zh": "在高度自动化的数据中心里，唯一抗拒自动化的工作是清洁；AI 竞赛仍然靠一个拿着吸尘器的人维持运转。",
+   "method": "An alternative-controller game: an industrial vacuum wired as input device drives an on-screen server model, framed by research on UK data-centre growth (nearly 100 new facilities planned by 2030).",
+   "method_zh": "一款另类控制器游戏：工业吸尘器被改装成输入设备，驱动屏幕上的服务器模型；背景是英国数据中心的扩张（到 2030 年计划新建近百座）。",
+   "keywords": [
+    "data centre",
+    "maintenance",
+    "cleaning",
+    "game design",
+    "V&A",
+    "London Design Festival",
+    "Emerging Designer Commission"
+   ],
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2026/10/server-interactive-game-installation-playfool-data-center-cleaner-designboom-1200-1.jpg",
+    "https://assets-cdn.vam.ac.uk/2026/08/20/12/45/11/833e57ab-022c-4774-8ede-6f39d7e78ae0/emerging-designer-commission-playfool-the-server_640.jpg"
+   ],
+   "source_url": "https://www.vam.ac.uk/event/GyBvKmY9gL/ldf-sept-2026-emerging-designer-commission",
+   "exhibited": [
+    "V&A Emerging Designer Commission, London Design Festival, V&A South Kensington, 12 Sep – 18 Oct 2026"
+   ]
+  },
+  {
+   "id": "marc-isaacs--synthetic-sincerity",
+   "creator_ids": [
+    "marc-isaacs"
+   ],
+   "title": "Synthetic Sincerity",
+   "year": 2025,
+   "field": "perception",
+   "sub": "faces",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A documentary fiction in which Isaacs makes a deal with the Synthetic Sincerity Lab, a fictional AI research project at the 'University of Southern England' that wants to train a model on his earlier documentary footage to learn how sincere human faces look, in exchange for letting him film the process.",
+   "description_zh": "一部“纪录虚构”电影：Isaacs 与虚构的“南英格兰大学”AI 研究项目“合成真诚实验室”达成交易——实验室想用他以往的纪录片素材训练模型，学习真诚的人脸是什么样子，作为交换，他可以拍下整个过程。",
+   "idea_en": "When documentary footage becomes training data, sincerity turns into a pattern a machine can mimic, and the filmmaker's own archive becomes raw material.",
+   "idea_zh": "当纪录片素材变成训练数据，真诚就成了机器可以模仿的模式，导演自己的档案也沦为原材料。",
+   "method": "Hybrid of documentary, scripted scenes (screenplay by Adam Ganz) and comedy, using Isaacs's archive of faces and staged lab sessions with AI face models.",
+   "method_zh": "混合纪录、编剧场景（编剧 Adam Ganz）与喜剧，使用 Isaacs 积累的人脸影像档案，以及与 AI 人脸模型一起的“实验室”排演。",
+   "keywords": [
+    "docufiction",
+    "faces",
+    "training data",
+    "authenticity",
+    "IDFA",
+    "deepfake"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1VVUBwPE0z0"
+   },
+   "images": [
+    "https://my.idfa.nl/image-transforms/3f8a7043-f4e2-4d17-8084-9ed846812667/1920.jpeg"
+   ],
+   "source_url": "https://www.idfa.nl/en/film/d54d86dc-4757-46b3-8713-eb1be12c4674/synthetic-sincerity/",
+   "exhibited": [
+    "IDFA 2025, International Competition (world premiere)",
+    "Thessaloniki Documentary Festival 2026",
+    "Krakow Film Festival 2026 (opening film)"
+   ]
+  },
+  {
+   "id": "stephanie-dinkins--if-we-dont-who-will",
+   "creator_ids": [
+    "stephanie-dinkins"
+   ],
+   "title": "If We Don't, Who Will?",
+   "year": 2025,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A bright yellow shipping container in downtown Brooklyn where passers-by tell their stories by text, voice or conversation through the app The Stories We Tell Our Machines; a live image model turns each story into shifting holographic pictures on the container's windows, while artists host talks inside.",
+   "description_zh": "布鲁克林市中心一个亮黄色的集装箱：路人通过应用《The Stories We Tell Our Machines》以文字、语音或对话讲述自己的故事，实时图像模型把每个故事转化成集装箱窗上不断变化的全息画面，箱内则有艺术家主持交谈。",
+   "idea_en": "If image models default to whiteness, communities have to feed them their own words; data can be memory given in trust rather than taken.",
+   "idea_zh": "如果图像模型默认生成白人形象，社区就得把自己的话语喂给它；数据可以是出于信任而给出的记忆，而不是被拿走的东西。",
+   "method": "A customised open-source image-generation pipeline built in ComfyUI, with layered prompt descriptors (including skin-tone terms from cosmetics databases) and a multilingual app; stories feed an open dataset developed with Stony Brook University.",
+   "method_zh": "基于 ComfyUI 搭建的定制开源图像生成流程，叠加提示描述词（包括取自化妆品数据库的肤色词汇），配合多语言应用；收集的故事汇入与石溪大学共同开发的开放数据集。",
+   "keywords": [
+    "public art",
+    "community data",
+    "image generation",
+    "ComfyUI",
+    "More Art",
+    "Brooklyn",
+    "representation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n0xfBefKSag"
+   },
+   "images": [
+    "https://ai.stonybrook.edu/sites/ai.stonybrook.edu/files/Dinkins%20IWDWW%20IMG_6037%20credit%20Sdinkins%20.jpg"
+   ],
+   "source_url": "https://ai.stonybrook.edu/node/277206",
+   "exhibited": [
+    "More Art, 300 Ashland Place, Brooklyn, 25 Jun – 2 Nov 2025"
+   ]
+  },
+  {
+   "id": "elena-andreicheva--intelligence-rising",
+   "creator_ids": [
+    "elena-andreicheva"
+   ],
+   "title": "Intelligence Rising",
+   "year": 2026,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A 75-minute documentary following a war game about advanced AI, in which strategists, philosophers such as Yuval Harari and officials from the EU, China and the US play out crises of AI development, centred on AI entrepreneur Marc Warner and his family life.",
+   "description_zh": "一部 75 分钟的纪录片，跟拍一场关于先进 AI 的兵棋推演：战略家、尤瓦尔·赫拉利等思想者以及来自欧盟、中国和美国的官员，演练 AI 发展中的各种危机；影片以 AI 创业者 Marc Warner 和他的家庭生活为主线。",
+   "idea_en": "The future of AI is already being rehearsed as a game among a few powerful players, and the cameras change how they play.",
+   "idea_zh": "AI 的未来已经在少数掌权者之间被当作游戏来排演，而摄像机改变了他们的玩法。",
+   "method": "Observational documentary of the Intelligence Rising scenario game (developed since 2018), with cinematography by Harry Truman and a score by Kangding Ray.",
+   "method_zh": "对“Intelligence Rising”情景推演游戏（自 2018 年开发）的观察式纪录，摄影 Harry Truman，配乐 Kangding Ray。",
+   "keywords": [
+    "war game",
+    "AI governance",
+    "geopolitics",
+    "scenario planning",
+    "CPH:DOX"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vVsnARpyP9Y"
+   },
+   "source_url": "https://www.labocine.com/films/intelligence-rising",
+   "exhibited": [
+    "CPH:DOX 2026 (world premiere)",
+    "SXSW London 2026",
+    "DOK.fest München 2026"
+   ]
+  },
+  {
+   "id": "isabel-merchante--one-day-i-saw-the-sunset",
+   "creator_ids": [
+    "isabel-merchante"
+   ],
+   "title": "One day I saw the sunset ten thousand times",
+   "year": 2025,
+   "field": "bodies",
+   "sub": "futility",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-arm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "An industrial robot arm is taken off the production line and set to watch AI-generated sunsets, projected in a looping sequence that mimics daylight crossing a window; it produces nothing that can be used.",
+   "description_zh": "一台工业机械臂被撤离生产线，被安排去观看 AI 生成的日落；日落以循环序列投影，模拟日光掠过窗口；它不产出任何可以利用的东西。",
+   "idea_en": "Give a production machine leisure and it becomes a figure of melancholy: the robot's 'rest' exposes how completely we define machines by output.",
+   "idea_zh": "给生产机器以闲暇，它便成了忧郁的形象：机器人的“休息”暴露出我们多么彻底地用产出定义机器。",
+   "method": "A repurposed industrial robot arm choreographed to face a projection of generated sunset images cycling like a day.",
+   "method_zh": "改作的工业机械臂被编排为面向投影，投影中生成的日落图像如一天般循环。",
+   "keywords": [
+    "industrial robot",
+    "sunset",
+    "unproductive machine",
+    "leisure",
+    "Re:humanism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-ithll10HO0"
+   },
+   "images": [
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/5merchanteb03a8d35_c.jpg",
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/54686598620_2db6ea2f53_c.jpg"
+   ],
+   "source_url": "https://we-make-money-not-art.com/timeline-shift-challenging-western-concepts-of-time-productivity-and-ai-functions/",
+   "exhibited": [
+    "Re:humanism 4, Timeline Shift, Fondazione Pastificio Cerere, Rome, 2025"
+   ]
+  },
+  {
+   "id": "iocose--ai-ludd",
+   "creator_ids": [
+    "iocose"
+   ],
+   "title": "AI-Ludd",
+   "year": 2025,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A chatbot 'trained by Luddites' that talks with overworked employees, helping them resist productivity pressure and sabotage their employer's workplace surveillance.",
+   "description_zh": "一个“由卢德分子训练”的聊天机器人，与过劳的员工对话，帮助他们抵抗效率压力，并破坏雇主的职场监控。",
+   "idea_en": "The workplace assistant can switch sides: an AI that coaches refusal instead of productivity shows whose interests the default assistant serves.",
+   "idea_zh": "职场助手也可以倒戈：一个教人拒绝而不是教人高效的 AI，反过来显示出默认的助手在为谁服务。",
+   "method": "A conversational language model given a Luddite persona and counter-productivity advice, presented as an installation for visitors to consult.",
+   "method_zh": "被赋予卢德分子人格和“反效率”建议的对话式语言模型，以装置形式供观众咨询。",
+   "keywords": [
+    "Luddites",
+    "chatbot",
+    "workplace surveillance",
+    "sabotage",
+    "productivity",
+    "Re:humanism"
+   ],
+   "images": [
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/54686598465_ce9abf9ae8_c.jpg",
+    "https://we-make-money-not-art.com/wp-content/uploads/2025/08/54686594790_ddb7e5f528_c.jpg"
+   ],
+   "source_url": "https://we-make-money-not-art.com/timeline-shift-challenging-western-concepts-of-time-productivity-and-ai-functions/",
+   "exhibited": [
+    "Re:humanism 4, Timeline Shift, Fondazione Pastificio Cerere, Rome, 2025"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Lo-Def Film Factory — Dzata: The Institute of Technological Consciousness (2023)",
+   "why": "AI essay-film on African technological histories; Lumen Prize Global Majority Award 2023, S+T+ARTS and Prix Ars selections.",
+   "link": "https://lumenprize.com/2023-winners/2023-global-majority-award-winner",
+   "found_via": "lo-def-film-factory",
+   "status": "open"
+  },
+  {
+   "name": "Abundant Intelligences — Abundant Memory, Relational Intelligence (Hess Gallery, Lethbridge, Oct 2025 – Jan 2026)",
+   "why": "Exhibition of the Niitsitapi Pod of the Indigenous-AI research programme (nine Blackfoot artists); individual works not documented online yet.",
+   "link": "https://artgallery.uleth.ca/abundant-memory-relational-intelligence-hess-gallery-october-17-2025-january-23-2026/",
+   "found_via": "suzanne-kite",
+   "status": "no_media"
+  },
+  {
+   "name": "AI and the Paradox of Agency (Bildmuseet, Umeå, 13 Mar 2026 – 17 Jan 2027)",
+   "why": "Group show with new commissions by Linda Dounia Rebeiz, Raqs Media Collective, Paola Torres Núñez del Prado, Caroline Sinders & Romy Gad el Rab, Planetary Portals; work-level details not yet published. Candidate collection.",
+   "link": "https://www.bildmuseet.umu.se/en/exhibitions/2026/ai-and-the-paradox-of-agency/",
+   "found_via": "planetary-portals",
+   "status": "open"
+  },
+  {
+   "name": "Reverse Futures (JCAF, Johannesburg, 26 Jun – 5 Dec 2026)",
+   "why": "Final part of JCAF's Worldmaking trilogy on AI, robotics and five centuries of extraction (Calculating Empires, Guanaquerx, Cave_bureau); candidate exhibition/collection.",
+   "link": "https://techcentral.co.za/art-ai-empire-forest-town-jcaf/287207/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hanna Loschacoff — Through Your Eyes (TU/e, DDW 2026)",
+   "why": "Robot that reads social cues with radar and gaze tracking and shows its reasoning live; student project, little media.",
+   "link": "https://ddw.nl/en/programme/through-your-eyes-a-robot-that-mirrors-how-we-interpret-others-through-our-own-biased-social-lens",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Elliot Han — (non) adversarial living companions / .iO Chair (DDW 2025)",
+   "why": "Chair with pressure sensors and an LLM that reads how you sit and prints a dialogue on a receipt; speculative AI-in-objects design.",
+   "link": "https://ddw.nl/en/programme/14509/non-adversarial-living-companions",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "M Eilo — Masking Machine / Prosthetic Memory",
+   "why": "Disabled artist and curator of Slow AI; wearable that masks the face and simulates eye contact, and a homemade AI as backup memory. Project pages currently 404.",
+   "link": "https://www.blinkpopshift.com/",
+   "found_via": "christian-bayerlein",
+   "status": "no_media"
+  },
+  {
+   "name": "Mahmoud Alhaj — Control Anatomy (2021–24)",
+   "why": "Palestinian artist from Gaza; drone-footage collages and video on the military gaze and surveillance (MERIP visual essay 2026). Pre-2025 and not AI-specific.",
+   "link": "https://www.merip.org/2026/08/gazing-into-gaza-with-mahmoud-alhaj/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Vera van der Burg & Gijs de Boer — A subject recognition algorithm",
+   "why": "Dutch Design Awards 2025 Emerging Talent winner; object recognition trained on one person's values. Year and media unclear.",
+   "link": "https://www.wallpaper.com/design-interiors/dutch-design-awards-2025-winners",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Superflux — Relics of Abundance (2026), Weltmuseum Wien",
+   "why": "New Superflux work announced with a Vienna solo show combining Refuge for Resurgence and Nobody Told Me Rivers Dream; details unconfirmed.",
+   "link": "https://superflux.in/",
+   "found_via": "superflux",
+   "status": "open"
+  },
+  {
+   "name": "Melisa Kayowa — Woven Territories (Kinshasa, 2026)",
+   "why": "Installation at the Académie des Beaux-Arts de Kinshasa on how AI marginalises African languages and knowledge.",
+   "link": "https://contemporaryand.com/en/c-and-magazine/texts/a-cohort-of-artists-reconfiguring-ai-s-memories",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

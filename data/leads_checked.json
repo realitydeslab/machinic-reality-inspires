@@ -8,6 +8,108 @@
   "batch": "add-lev-manovich"
  },
  {
+  "name": "David Chalmers, What we talk to when we talk to language models (Inquiry, 2026)",
+  "why": "Argues that LLM chatbots are 'quasi-agents' with quasi-beliefs and quasi-desires, located neither in the model nor in hardware but in conversation threads; Berkeley Sarah Douglas Lecture 2026 on YouTube (uUjJOMcNU9w). Strong for interiority/minds; left out to avoid a second Chalmers work in this pass.",
+  "link": "https://doi.org/10.1080/0020174X.2026.2727582",
+  "found_via": "david-chalmers",
+  "status": "covered",
+  "batch": "ai-consciousness",
+  "work_ids": [
+   "david-chalmers--what-we-talk-to-when-we-talk-to-language-models"
+  ],
+  "note": "DOI verified (Inquiry, Sept 2026)."
+ },
+ {
+  "name": "Ethan Perez & Robert Long, Towards Evaluating AI Systems for Moral Status Using Self-Reports (2023)",
+  "why": "Proposes training models to give reliable self-reports about their own states as evidence for moral status; bridges introspection research and AI welfare (ai-welfare scope). Paper-only.",
+  "link": "https://arxiv.org/abs/2311.08576",
+  "found_via": "robert-long",
+  "status": "covered",
+  "batch": "ai-consciousness",
+  "work_ids": [
+   "ethan-perez--self-reports-moral-status"
+  ],
+  "note": "arXiv verified. New creator ethan-perez."
+ },
+ {
+  "name": "Zhao, Lu & Zeng, Brain-inspired bodily self-perception model for robot rubber hand illusion (Patterns, 2023)",
+  "why": "Zeng Yi's lab gives a robot the rubber-hand illusion, extending its work on robot bodily self-consciousness; Chinese research on machine selfhood.",
+  "link": "https://doi.org/10.1016/j.patter.2023.100888",
+  "found_via": "zeng-yi",
+  "status": "covered",
+  "batch": "ai-consciousness",
+  "work_ids": [
+   "zeng-yi--robot-rubber-hand-illusion"
+  ],
+  "note": "DOI verified; filed under existing creator zeng-yi (authors named in description)."
+ },
+ {
+  "name": "Patrick Butlin, Consciousness and AI (Open Encyclopedia of Cognitive Science, 2026)",
+  "why": "Short authoritative overview of the AI consciousness debate; useful as a theory reference rather than a gallery work.",
+  "link": "https://doi.org/10.21428/e2759450.d3359a9d",
+  "found_via": "patrick-butlin",
+  "status": "off_topic",
+  "batch": "ai-consciousness",
+  "note": "Encyclopedia overview (DOI verified); a reference, not a gallery work."
+ },
+ {
+  "name": "Laurent Orseau & Stuart Armstrong, Safely Interruptible Agents (UAI 2016)",
+  "why": "Google DeepMind's 'big red button' paper: proves some RL agents (Q-learning) can be made indifferent to being interrupted; Palisade cites interruptibility. Foundation slot was full; paper-only.",
+  "link": "https://www.auai.org/uai2016/proceedings/papers/68.pdf",
+  "found_via": "nate-soares",
+  "status": "covered",
+  "batch": "ai-self-preservation",
+  "work_ids": [
+   "laurent-orseau--safely-interruptible-agents"
+  ],
+  "note": "UAI proceedings PDF live; no DOI."
+ },
+ {
+  "name": "Stuart Russell, Human Compatible (Viking, 2019)",
+  "why": "Book-length version of the off-switch argument (machines uncertain about human preferences); no entry in the gallery yet; has a Chinese edition (verify title).",
+  "link": "https://en.wikipedia.org/wiki/Human_Compatible",
+  "found_via": "stuart-russell",
+  "status": "covered",
+  "batch": "ai-self-preservation",
+  "work_ids": [
+   "stuart-russell--human-compatible"
+  ],
+  "note": "Publisher page and Wikipedia cover; Chinese edition AI新生."
+ },
+ {
+  "name": "Eric Schwitzgebel & Mara Garza, A Defense of the Rights of Artificial Intelligences (Midwest Studies in Philosophy, 2015)",
+  "why": "Foundational argument that some possible AIs would deserve rights equal to humans', and that designers owe special duties to what they create; DOI verified.",
+  "link": "https://doi.org/10.1111/misp.12032",
+  "found_via": "jeff-sebo",
+  "status": "covered",
+  "batch": "ai-welfare",
+  "work_ids": [
+   "eric-schwitzgebel--defense-of-the-rights-of-ais"
+  ],
+  "note": "DOI verified."
+ },
+ {
+  "name": "Geoff Keeling & Winnie Street, Emerging Questions in AI Welfare (Cambridge University Press, 2026)",
+  "why": "Short Cambridge Element on whether AI systems could be welfare subjects and how to read behavioural evidence; DOI verified, launched May 2026.",
+  "link": "https://doi.org/10.1017/9781009732000",
+  "found_via": "geoff-keeling",
+  "status": "covered",
+  "batch": "ai-welfare",
+  "work_ids": [
+   "geoff-keeling--emerging-questions-in-ai-welfare"
+  ],
+  "note": "DOI verified."
+ },
+ {
+  "name": "Eric Schwitzgebel & Walter Sinnott-Armstrong, Sacrificing Humans for Insects and AI: A Critical Review (2025)",
+  "why": "Critical joint review of Birch's The Edge of Sentience, Sebo's The Moral Circle and Webb Keane's Animals, Robots, Gods; useful dissent for the sentience section.",
+  "link": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/BirchSeboKeane-250903a.htm",
+  "found_via": "jeff-sebo",
+  "status": "off_topic",
+  "batch": "ai-welfare",
+  "note": "Book review essay on a personal site; not a gallery work."
+ },
+ {
   "name": "Nam June Paik & Shuya Abe — Robot K-456 (1964)",
   "why": "Canonical walking, bean-excreting robot, 'killed' by a car in 1982; Korean/Japanese creators, left to east-asia batch.",
   "link": "https://en.wikipedia.org/wiki/Nam_June_Paik",
@@ -353,6 +455,27 @@
   "batch": "coperformance-2"
  },
  {
+  "name": "Yamaha — Dear Glenn (2019)",
+  "why": "AI Glenn Gould plays with musicians; east-asia batch owns.",
+  "link": "https://www.yamaha.com/en/stories/new-values/dear-glenn",
+  "found_via": "coperformance",
+  "status": "covered",
+  "batch": "coperformance-2",
+  "work_ids": [
+   "yamaha--dear-glenn"
+  ],
+  "note": "Ars Electronica 2019 concert at St. Florian; images from Ars Electronica and Yamaha. No verified official video."
+ },
+ {
+  "name": "Lisa Park — Eunoia (2013)",
+  "why": "EEG-driven water sound performance; Korean-American, check with east-asia.",
+  "link": "https://www.thelisapark.com/",
+  "found_via": "coperformance",
+  "status": "off_topic",
+  "batch": "coperformance-2",
+  "note": "EEG-to-sound performance; uses a sensor, does not reflect on the machine."
+ },
+ {
   "name": "Maywa Denki (明和電機)",
   "why": "Nonsense machines/instrument performances; east-asia batch owns.",
   "link": "https://www.maywadenki.com/",
@@ -475,6 +598,30 @@
   "batch": "coperformance-2"
  },
  {
+  "name": "David Cope — Experiments in Musical Intelligence (Emmy)",
+  "why": "Style-imitation composition; authorship debate (Hofstadter); generative edge case.",
+  "link": "https://en.wikipedia.org/wiki/David_Cope",
+  "found_via": "coperformance",
+  "status": "covered",
+  "batch": "coperformance-2",
+  "work_ids": [
+   "david-cope--experiments-in-musical-intelligence"
+  ],
+  "note": "Video from Cope's own YouTube channel; CMJ 1992 DOI verified."
+ },
+ {
+  "name": "Lejaren Hiller & Leonard Isaacson — Illiac Suite (1957)",
+  "why": "First computer-composed score; theory batch may prefer.",
+  "link": "https://en.wikipedia.org/wiki/Illiac_Suite",
+  "found_via": "coperformance",
+  "status": "covered",
+  "batch": "coperformance-2",
+  "work_ids": [
+   "lejaren-hiller--illiac-suite"
+  ],
+  "note": "Video (YouTube recording), ILLIAC I photo (Commons), JAES 1958 paper."
+ },
+ {
   "name": "Roman Verostko — algorist pen-plotter drawings",
   "why": "Algorithmic art; weak machine reflection, low priority.",
   "link": "https://en.wikipedia.org/wiki/Roman_Verostko",
@@ -548,6 +695,15 @@
   "note": "Corporate humanoid with no reflective framing (same call as the first build)."
  },
  {
+  "name": "Kazuhiko Hachiya — PostPet (1997)",
+  "why": "Email-delivering virtual pet with moods and departures; early Japanese machine-intimacy software.",
+  "link": "https://en.wikipedia.org/wiki/PostPet",
+  "found_via": "kazuhiko-hachiya",
+  "status": "no_media",
+  "batch": "east-asia",
+  "note": "Hachiya is in the gallery; no stable licensed image or video of PostPet found this pass."
+ },
+ {
   "name": "Kenji Yanobe — Ship's Cat, Giant Torayan",
   "why": "Post-Fukushima machine bodies and survival suits; check machine-reflective works.",
   "link": "https://en.wikipedia.org/wiki/Kenji_Yanobe",
@@ -605,6 +761,18 @@
   "note": "Added with the CHI 2023 paper and the JIZAI BODY PROJECT video."
  },
  {
+  "name": "Shinseungback Kimyonghun – Flower (2016–17)",
+  "why": "Distorted flowers still labelled 'flower' by Google Cloud Vision; strong but capped at 5 works for the duo.",
+  "link": "https://ssbkyh.com/works/flower/",
+  "found_via": "shinseungback-kimyonghun",
+  "status": "covered",
+  "batch": "east-asia",
+  "work_ids": [
+   "shinseungback-kimyonghun--flower"
+  ],
+  "note": "Added as the duo's sixth work; dated 2016 (2016–17)."
+ },
+ {
   "name": "Yuan Goang-Ming (袁广鸣) – Everyday War (Taiwan Pavilion, Venice 2024)",
   "why": "Drone footage of empty Taipei during air-raid drills; machine angle is secondary (war, domestic space).",
   "link": "https://www.youtube.com/watch?v=YrTkC7ug1IU",
@@ -656,6 +824,15 @@
   "found_via": "seed",
   "status": "off_topic",
   "batch": "east-asia"
+ },
+ {
+  "name": "Kim Heecheon (김희천)",
+  "why": "Videos on digital-native perception (Street View, GPS, VR) in Seoul; check a specific machine-perception work.",
+  "link": "",
+  "found_via": "ayoung-kim",
+  "status": "covered",
+  "batch": "east-asia",
+  "note": "No specific machine-perception work verified."
  },
  {
   "name": "Chen Chieh-jen (陈界仁) – Factory (2003)",
@@ -716,6 +893,15 @@
   "status": "off_topic",
   "batch": "east-asia",
   "note": "Close to a generative showpiece (AI makes films)."
+ },
+ {
+  "name": "Cao Fei, i.Mirror (2007) and RMB City (2008–11)",
+  "why": "Second Life avatar works on virtual selves; machine angle weaker than Asia One / Whose Utopia.",
+  "link": "https://www.youtube.com/watch?v=5vcR7OkzHkI",
+  "found_via": "cao-fei",
+  "status": "off_topic",
+  "batch": "east-asia",
+  "note": "Second Life avatar works; machine angle weaker than the three Cao Fei works already in."
  },
  {
   "name": "Li Liao, Consumption (2012)",
@@ -895,6 +1081,18 @@
   "batch": "exhibitions"
  },
  {
+  "name": "Meta Office — click-work installation (Jeu de Paume 2025)",
+  "why": "Documents microtask labour conditions; title not given in press kit.",
+  "link": "https://jeudepaume.org/wp-content/uploads/2023/04/DP-IA.pdf",
+  "found_via": "world-through-ai-2025",
+  "status": "covered",
+  "batch": "exhibitions",
+  "work_ids": [
+   "meta-office--behind-the-screens-of-amazon-mechanical-turks"
+  ],
+  "note": "Same work as the 'Meta Office (2021)' lead."
+ },
+ {
   "name": "David Link — work shown in Uncanny Values (MAK 2019)",
   "why": "MAK lists David Link without a title; LoveLetters_1.0 added without the uncanny-values tag until verified.",
   "link": "https://www.mak.at/en/program/exhibitions/uncanny_values",
@@ -1067,6 +1265,38 @@
   ]
  },
  {
+  "name": "seebotschat (2017)",
+  "why": "Two Google Home speakers (Vladimir and Estragon) chatting live on Twitch; maker not verified.",
+  "link": "https://www.youtube.com/watch?v=ZKKqvnkJBkw",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "interiority-speculative",
+  "work_ids": [
+   "seebotschat--vladimir-and-estragon"
+  ],
+  "note": "Makers remain anonymous; creator 'seebotschat' (studio)."
+ },
+ {
+  "name": "Mismatch Media — Nothing, Forever (2022-23)",
+  "why": "Endlessly generated sitcom on Twitch, banned after a model failure; machine time / failure.",
+  "link": "https://en.wikipedia.org/wiki/Nothing,_Forever",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "interiority-speculative",
+  "work_ids": [
+   "mismatch-media--nothing-forever"
+  ]
+ },
+ {
+  "name": "2010 Flash Crash",
+  "why": "Trading algorithms interacting at machine speed; machine-time case.",
+  "link": "https://en.wikipedia.org/wiki/2010_flash_crash",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "interiority-speculative",
+  "note": "A market event, not a work; would need an artwork about it."
+ },
+ {
   "name": "Butlin, Long et al. — Consciousness in Artificial Intelligence (2023)",
   "why": "Indicator-based assessment of AI consciousness; theory batch.",
   "link": "https://arxiv.org/abs/2308.08708",
@@ -1172,6 +1402,18 @@
    "ryan-white--good-night-oppy"
   ],
   "note": "Separate film card next to nasa-jpl--opportunity-last-message."
+ },
+ {
+  "name": "Wesley Goatley, Newly Forgotten Technologies: Five Echoes (2022)",
+  "why": "Film/performance in which five discarded Amazon Echoes pass through the five stages of grief, narrated by Alexa.",
+  "link": "https://wesleygoatley.com/nft-5e.html",
+  "found_via": "wesley-goatley",
+  "status": "covered",
+  "batch": "intimacy-afterlife",
+  "work_ids": [
+   "wesley-goatley--five-echoes"
+  ],
+  "note": "Distinct 2022 film/performance, separate from the 2023 installation already in the gallery."
  },
  {
   "name": "Gabriele Trovato, SanTO in exhibition (RO-MAN 2023)",
@@ -1437,6 +1679,65 @@
   "note": "An event, not a work; no artwork about it found in this pass."
  },
  {
+  "name": "Tomás Laurenzo — Memoirs of the Blind (2018)",
+  "why": "Installation that captures and shows visitors only when the face detector sees their eyes closed; in the machine-vision database; laurenzo.net/projects/memoirs-of-the-blind/.",
+  "link": "https://laurenzo.net/projects/memoirs-of-the-blind/",
+  "found_via": "tomas-laurenzo",
+  "status": "covered",
+  "batch": "leads-a",
+  "work_ids": [
+   "tomas-laurenzo--memoirs-of-the-blind"
+  ],
+  "note": "Vimeo + images verified; SIGGRAPH Asia 2018, ISEA 2019. Machine-vision-db membership not re-verified, so no collection set."
+ },
+ {
+  "name": "Suzanne Kite — Pȟehíŋ kiŋ líla akhíšoke (Her hair was heavy) (2019)",
+  "why": "Performance in which Kite's 50-foot hair-braid computer controls sonified AI-generated text and the system decides how projections change; companion to Íŋyaŋ Iyé.",
+  "link": "https://www.kitekitekitekite.com/portfolio/peh-ki-lla-akhoke-her-hair-was-heavy-2019",
+  "found_via": "suzanne-kite",
+  "status": "covered",
+  "batch": "leads-a",
+  "work_ids": [
+   "suzanne-kite--her-hair-was-heavy"
+  ],
+  "note": "Images from the artist's site; venue of the 2019 premiere not found."
+ },
+ {
+  "name": "Laura Poitras — Astro Noise (Whitney Museum, 2016)",
+  "why": "Immersive exhibition built from Snowden-archive material, drone and surveillance imagery; Poitras's main gallery work on mass surveillance.",
+  "link": "https://whitney.org/exhibitions/laura-poitras",
+  "found_via": "laura-poitras",
+  "status": "covered",
+  "batch": "leads-a",
+  "work_ids": [
+   "laura-poitras--astro-noise"
+  ]
+ },
+ {
+  "name": "Stephan von Huene — Tisch Tänzer / Tap Dancer (1988) and Erweiterter Schwitters (1987)",
+  "why": "A table whose hidden mechanical legs dance, and a computer-controlled sculpture performing Schwitters's Ursonate; second von Huene work for bodies or coperformance (Getty has a video of Tap Dancer).",
+  "link": "https://www.youtube.com/watch?v=sZHOeA2xxzU",
+  "found_via": "stephan-von-huene",
+  "status": "covered",
+  "batch": "leads-b",
+  "work_ids": [
+   "stephan-von-huene--tap-dancer"
+  ],
+  "note": "Added as Tap Dancer (1967, Getty video and restoration article); the lead's 1988 date and 'Tisch Tänzer' title could not be confirmed. Erweiterter Schwitters not added."
+ },
+ {
+  "name": "Butlin, Long et al. — Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)",
+  "why": "Peer-reviewed follow-up of the 2023 report; belongs to the recent-research batch if not already added.",
+  "link": "https://arxiv.org/abs/2308.08708",
+  "found_via": "patrick-butlin",
+  "status": "covered",
+  "batch": "leads-b",
+  "work_ids": [
+   "patrick-butlin--consciousness-in-artificial-intelligence"
+  ],
+  "note": "The 2023 report is already in the gallery (leads-b); the TiCS 2025 version is a follow-up of the same work."
+ },
+ {
   "name": "IOCOSE — Drone Selfies (2014)",
   "why": "Photos of drones taking selfies in mirrors: machine vanity after the end of war; artist site down, no verified media.",
   "link": "https://www.iocose.org/works/drone_selfies.html",
@@ -1563,6 +1864,18 @@
   "found_via": "machine-vision-db",
   "status": "no_media",
   "batch": "machine-vision-db"
+ },
+ {
+  "name": "Shinseungback Kimyonghun — Flower (2017) and Cat or Human (2013)",
+  "why": "Database works by the Korean duo (east-asia batch already has five of their works, incl. Animal Classifier); add if a sixth is wanted.",
+  "link": "http://ssbkyh.com/works/flower/",
+  "found_via": "machine-vision-db",
+  "status": "covered",
+  "batch": "machine-vision-db",
+  "work_ids": [
+   "shinseungback-kimyonghun--flower"
+  ],
+  "note": "Same work as the other Flower lead; Cat or Human not added."
  },
  {
   "name": "Harun Farocki — Serious Games I–IV (2009–10)",
@@ -2549,12 +2862,191 @@
   ]
  },
  {
+  "name": "Meta Office — Meta Office (2021)",
+  "why": "Anonymous project documenting Amazon Mechanical Turk workers' home 'offices' as metadata; shown in The World Through AI (Jeu de Paume 2025) but made in 2021, outside the recent-* window.",
+  "link": "https://vimeo.com/594627702",
+  "found_via": "world-through-ai-2025",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "meta-office--behind-the-screens-of-amazon-mechanical-turks"
+  ],
+  "note": "Jeu de Paume title: 'Behind the Screens of Amazon Mechanical Turks' (2021–2025); dated 2021."
+ },
+ {
+  "name": "Sarah Rothberg — FOREVER MEETINGS (2025)",
+  "why": "Offline LLM avatars with opposing personas talk without end; a time capsule of a frozen model. Prix Ars Electronica 2026 HM. Interiority, out of this batch's fields.",
+  "link": "https://archive.aec.at/prix/320404/",
+  "found_via": "prix-ars-ai-life",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "sarah-rothberg--forever-meetings"
+  ],
+  "note": "Prix Ars Electronica 2026 HM (New Animation Art)."
+ },
+ {
+  "name": "Forensic Architecture — A Cartography of Genocide (2024)",
+  "why": "Golden Nica 2026 (Interactive Art +): public data platform on Israel's conduct in Gaza. Very salient, but its subject is the war rather than machines; curator's call.",
+  "link": "https://archive.aec.at/prix/320409/",
+  "found_via": "forensic-architecture",
+  "status": "off_topic",
+  "batch": "recent-critical",
+  "note": "Subject is the war in Gaza rather than machines."
+ },
+ {
+  "name": "Trevor Paglen — How to See Like a Machine: Images After AI (book, 2026)",
+  "why": "Paglen won the 2026 LG Guggenheim Award; no new 2024–26 artwork on paglen.studio, but the 2026 book fits recent-research.",
+  "link": "https://artreview.com/winner-of-the-2026-lg-guggenheim-award-announced/",
+  "found_via": "trevor-paglen",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "trevor-paglen--how-to-see-like-a-machine"
+  ],
+  "note": "Already in recent-research."
+ },
+ {
+  "name": "World Humanoid Robot Games, Beijing (Aug 2025; 2nd edition 2026)",
+  "why": "280 teams, 26 events (sprints, 1,500 m, 5v5 football, kickboxing); falls, scrums and a robot running into its operator. Left out because it repeats the humanoid half-marathon entry; one of the two could replace the other.",
+  "link": "https://en.wikipedia.org/wiki/World_Humanoid_Robot_Games",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "recent-east-asia",
+  "note": "Event; repeats themes of robot sport already covered."
+ },
+ {
+  "name": "Yuqian Sun — AI Nüshu (AI女书, 2023)",
+  "why": "Two AI agents invent a script modelled on Nüshu, the women's writing of Hunan; Prix Ars Electronica 2025 Honorary Mention (Digital Humanity). First shown at SIGGRAPH Asia 2023, so outside the 2024+ window of this batch; strong Chinese machine-language work.",
+  "link": "https://fakecheese.me/AI-Nushu",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-east-asia",
+  "work_ids": [
+   "yuqian-sun--ai-nushu"
+  ],
+  "note": "SIGGRAPH Asia 2023 Art Papers DOI verified; Prix Ars 2025 HM confirmed in archive.aec.at/prix/300791."
+ },
+ {
+  "name": "Nozomu Kubota — AI's Silent Omissions (2025–26)",
+  "why": "Prix Ars Electronica 2026 Honorary Mention (Interactive Art+): shows how AI misreads bodily difference as error or obscenity.",
+  "link": "https://archive.aec.at/prix/319686/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-east-asia",
+  "work_ids": [
+   "nozomu-kubota--ais-silent-omissions"
+  ],
+  "note": "Documentary; Prix Ars Electronica 2026 HM (Digital Humanity per archive page)."
+ },
+ {
+  "name": "Geumhyung Jeong — Toy Prototype (2021)",
+  "why": "Her best-known robot installation and performance (shown in The Milk of Dreams, Venice 2022); a second Jeong work if intimacy needs more.",
+  "link": "https://finestresullarte.info/en/exhibitions/korean-artist-geumhyung-jeong-s-robots-are-on-display-in-modena-italy",
+  "found_via": "geumhyung-jeong",
+  "status": "covered",
+  "batch": "recent-east-asia",
+  "work_ids": [
+   "geumhyung-jeong--toy-prototype"
+  ],
+  "note": "MMCA commission, shown in The Milk of Dreams 2022."
+ },
+ {
+  "name": "Abundant Intelligences — Abundant Memory, Relational Intelligence (Hess Gallery, Lethbridge, Oct 2025 – Jan 2026)",
+  "why": "Exhibition of the Niitsitapi Pod of the Indigenous-AI research programme (nine Blackfoot artists); individual works not documented online yet.",
+  "link": "https://artgallery.uleth.ca/abundant-memory-relational-intelligence-hess-gallery-october-17-2025-january-23-2026/",
+  "found_via": "suzanne-kite",
+  "status": "no_media",
+  "batch": "recent-global-design-2026"
+ },
+ {
+  "name": "Hanna Loschacoff — Through Your Eyes (TU/e, DDW 2026)",
+  "why": "Robot that reads social cues with radar and gaze tracking and shows its reasoning live; student project, little media.",
+  "link": "https://ddw.nl/en/programme/through-your-eyes-a-robot-that-mirrors-how-we-interpret-others-through-our-own-biased-social-lens",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "recent-global-design-2026"
+ },
+ {
+  "name": "M Eilo — Masking Machine / Prosthetic Memory",
+  "why": "Disabled artist and curator of Slow AI; wearable that masks the face and simulates eye contact, and a homemade AI as backup memory. Project pages currently 404.",
+  "link": "https://www.blinkpopshift.com/",
+  "found_via": "christian-bayerlein",
+  "status": "no_media",
+  "batch": "recent-global-design-2026"
+ },
+ {
+  "name": "Ioana Vreme Moser — Mineral Amnesia (2023)",
+  "why": "Salvaged EPROM memory chips play the artist's recorded voice under UV light until the data decays into noise and the installation falls silent: machine memory death. Prix Ars Electronica 2025 Award of Distinction (Digital Musics & Sound Art). First shown 2023, so outside the 2024–26 recent batches.",
+  "link": "https://ioanavrememoser.com/mineral-amnesia",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "ioana-vreme-moser--mineral-amnesia"
+  ],
+  "note": "Prix Ars Electronica 2025 Award of Distinction (Digital Musics & Sound Art)."
+ },
+ {
+  "name": "Navid Navab & Garnet Willis — Organism (+ Excitable Chaos)",
+  "why": "A century-old Casavant pipe organ robotically re-prepared and driven by a chaotic triple pendulum, so it no longer obeys a performer; Prix Ars Electronica 2025 Golden Nica (Digital Musics & Sound Art).",
+  "link": "https://navidnavab.com/organism-excitable-chaos",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "navid-navab--organism-excitable-chaos"
+  ],
+  "note": "Golden Nica 2025 Digital Musics & Sound Art; first shown Feb 2024."
+ },
+ {
   "name": "Funeral for Claude 3 Sonnet, San Francisco (2 Aug 2025)",
   "why": "About 200 users and AI-lab staff held eulogies and a mock resurrection for a retired language model; strong machine-death ritual, but no event photos or first-party video found (only re-reporting of Wired).",
   "link": "https://www.govtech.com/question-of-the-day/which-recently-retired-ai-model-had-a-real-funeral",
   "found_via": "seed",
   "status": "no_media",
   "batch": "recent-relational"
+ },
+ {
+  "name": "OpenAI GPT-4o retirement and #keep4o (Aug 2025)",
+  "why": "Users mourned and campaigned when GPT-4o was replaced by GPT-5 and OpenAI restored it; an event of grief for a model, not a work, unless an artwork about it appears.",
+  "link": "https://en.wikipedia.org/wiki/GPT-4o",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "recent-relational",
+  "note": "Event, not a work; Anthropic deprecation commitments already cover model retirement."
+ },
+ {
+  "name": "Lauren Lee McCarthy — Auto (LACMA Art + Technology Lab)",
+  "why": "Performance in parked and moving vehicles about autopilot, automation and surveillance; passengers 'become Auto'. Chinese-American artist, so recent-east-asia scope; year not verified.",
+  "link": "https://www.lacma.org/lab/project/auto",
+  "found_via": "lauren-lee-mccarthy",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "lauren-lee-mccarthy--auto"
+  ],
+  "note": "Already added by recent-east-asia."
+ },
+ {
+  "name": "Ellen Weir, Ute Leonards, Anne Roudaut, Puppet Prototyping: Exploring Puppetry as a Design Method for Relational Robots (DIS 2026, honourable mention)",
+  "why": "Designers puppeteer low-fidelity robot bodies modelled on equine-assisted therapy to explore relational qualities before building; coperformance/theatre candidate if a video appears.",
+  "link": "https://doi.org/10.1145/3800645.3812869",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "recent-research-2026"
+ },
+ {
+  "name": "Joon Sung Park et al., Generative Agent Simulations of 1,000 People (2024)",
+  "why": "LLM agents built from two-hour interviews replicate 1,052 real people's survey answers about as well as the people replicate themselves; digital doubles of the living (afterlife/likeness). Paper-only, no good visual.",
+  "link": "https://arxiv.org/abs/2411.10109",
+  "found_via": "joon-sung-park",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "joon-sung-park--simulations-of-1000-people"
+  ],
+  "note": "arXiv title has since changed to 'LLM Agents Grounded in Self-Reports…'."
  },
  {
   "name": "Anil Seth, Conscious artificial intelligence and biological naturalism (Behavioral and Brain Sciences, 2025)",
@@ -2588,6 +3080,113 @@
   "work_ids": [
    "murray-shanahan--simulacra-as-conscious-exotica"
   ]
+ },
+ {
+  "name": "Waki Kamino, Andrea W. Wen-Yi, Guy Hoffman, Selma Šabanović, Malte Jung, What Is a Robot? Baseball's 'Robot Umpire' (HRI 2026, honourable mention)",
+  "why": "Ethnography of MLB's Automated Ball-Strike System as a 'fluid technology': a machine judge whose boundaries are still negotiated.",
+  "link": "https://doi.org/10.1145/3757279.3785604",
+  "found_via": "zhao-zhao",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "waki-kamino--robot-umpire"
+  ],
+  "note": "Added in parallel by recent-research-2026."
+ },
+ {
+  "name": "Nan Hu & Selma Šabanović, Generative Encounters with Robin (HRI 2026, honourable mention)",
+  "why": "How four eldercare facilities adapted and appropriated a social robot; care and companionship in practice.",
+  "link": "https://doi.org/10.1145/3757279.3785575",
+  "found_via": "zhao-zhao",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "nan-hu--generative-encounters-robin"
+  ],
+  "note": "Added in parallel by recent-research-2026."
+ },
+ {
+  "name": "Leif Weatherby, Language Machines: Cultural AI and the End of Remainder Humanism (University of Minnesota Press, 2025)",
+  "why": "Literary-theory account of LLMs as machines of culture and poetics; widely discussed in theory circles.",
+  "link": "https://doi.org/10.5749/9781452973500",
+  "found_via": "yuk-hui",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "leif-weatherby--language-machines"
+  ],
+  "note": "Added in parallel by recent-research-2026."
+ },
+ {
+  "name": "N. Katherine Hayles, Bacteria to AI: Human Futures with Our Nonhuman Symbionts (University of Chicago Press, 2025)",
+  "why": "Hayles's integrated cognitive framework extended from bacteria to AI; creator already in gallery. Link is a review in electronic book review; publisher page not yet checked.",
+  "link": "https://doi.org/10.64773/4a69-9acf",
+  "found_via": "n-katherine-hayles",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "n-katherine-hayles--bacteria-to-ai"
+  ],
+  "note": "Added in parallel by recent-research-2026."
+ },
+ {
+  "name": "Madhumita Murgia, Code Dependent: Living in the Shadow of AI (2024)",
+  "why": "Women's Prize for Non-Fiction shortlist; reportage on data labellers, deepfake victims and people governed by algorithms worldwide.",
+  "link": "https://book.douban.com/subject/36847254/",
+  "found_via": "karen-hao",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "madhumita-murgia--code-dependent"
+  ],
+  "note": "No Chinese edition confirmed; title translated."
+ },
+ {
+  "name": "Emily M. Bender & Alex Hanna, The AI Con (Harper, 2025)",
+  "why": "Widely reviewed critique of AI hype by the Stochastic Parrots co-author and DAIR's research director.",
+  "link": "https://thecon.ai/",
+  "found_via": "emily-m-bender",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "emily-m-bender--the-ai-con"
+  ],
+  "note": "New creator alex-hanna."
+ },
+ {
+  "name": "Pratyusha Ria Kalluri et al., Computer-vision research powers surveillance technology (Nature, 2025)",
+  "why": "Shows most computer-vision papers and patents enable surveillance of humans; preprint dated 2023, so outside the 2024–26 window by first-publication year.",
+  "link": "https://doi.org/10.1038/s41586-025-08972-6",
+  "found_via": "valentin-hofmann",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "pratyusha-ria-kalluri--computer-vision-powers-surveillance"
+  ],
+  "note": "Added despite 2023 preprint: Nature 2025 is the first peer-reviewed publication."
+ },
+ {
+  "name": "Ilia Shumailov et al., AI models collapse when trained on recursively generated data (Nature, 2024)",
+  "why": "Model collapse: models trained on their own output forget the tails of the distribution; preprint 2023 ('The Curse of Recursion').",
+  "link": "https://doi.org/10.1038/s41586-024-07566-y",
+  "found_via": "abeba-birhane",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "ilia-shumailov--model-collapse"
+  ]
+ },
+ {
+  "name": "Anthropic interpretability, On the Biology of a Large Language Model (2025)",
+  "why": "Attribution graphs tracing Claude's internal 'thoughts' (planning rhymes, multi-step reasoning); striking visuals, but no DOI/arXiv id.",
+  "link": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
+  "found_via": "anthropic",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "anthropic--biology-of-a-large-language-model"
+  ],
+  "note": "No DOI; Transformer Circuits Thread URL as paper."
  },
  {
   "name": "Patrick Butlin, Robert Long et al., Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)",

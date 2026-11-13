@@ -1,0 +1,586 @@
+{
+ "David Chalmers, What we talk to when we talk to language models (Inquiry, 2026)": {
+  "status": "added",
+  "work_ids": [
+   "david-chalmers--what-we-talk-to-when-we-talk-to-language-models"
+  ],
+  "note": "DOI verified (Inquiry, Sept 2026).",
+  "pass": "2026-11"
+ },
+ "Ethan Perez & Robert Long, Towards Evaluating AI Systems for Moral Status Using Self-Reports (2023)": {
+  "status": "added",
+  "work_ids": [
+   "ethan-perez--self-reports-moral-status"
+  ],
+  "note": "arXiv verified. New creator ethan-perez.",
+  "pass": "2026-11"
+ },
+ "Zhao, Lu & Zeng, Brain-inspired bodily self-perception model for robot rubber hand illusion (Patterns, 2023)": {
+  "status": "added",
+  "work_ids": [
+   "zeng-yi--robot-rubber-hand-illusion"
+  ],
+  "note": "DOI verified; filed under existing creator zeng-yi (authors named in description).",
+  "pass": "2026-11"
+ },
+ "Laurent Orseau & Stuart Armstrong, Safely Interruptible Agents (UAI 2016)": {
+  "status": "added",
+  "work_ids": [
+   "laurent-orseau--safely-interruptible-agents"
+  ],
+  "note": "UAI proceedings PDF live; no DOI.",
+  "pass": "2026-11"
+ },
+ "Stuart Russell, Human Compatible (Viking, 2019)": {
+  "status": "added",
+  "work_ids": [
+   "stuart-russell--human-compatible"
+  ],
+  "note": "Publisher page and Wikipedia cover; Chinese edition AI新生.",
+  "pass": "2026-11"
+ },
+ "Eric Schwitzgebel & Mara Garza, A Defense of the Rights of Artificial Intelligences (Midwest Studies in Philosophy, 2015)": {
+  "status": "added",
+  "work_ids": [
+   "eric-schwitzgebel--defense-of-the-rights-of-ais"
+  ],
+  "note": "DOI verified.",
+  "pass": "2026-11"
+ },
+ "Geoff Keeling & Winnie Street, Emerging Questions in AI Welfare (Cambridge University Press, 2026)": {
+  "status": "added",
+  "work_ids": [
+   "geoff-keeling--emerging-questions-in-ai-welfare"
+  ],
+  "note": "DOI verified.",
+  "pass": "2026-11"
+ },
+ "Yamaha — Dear Glenn (2019)": {
+  "status": "added",
+  "work_ids": [
+   "yamaha--dear-glenn"
+  ],
+  "note": "Ars Electronica 2019 concert at St. Florian; images from Ars Electronica and Yamaha. No verified official video.",
+  "pass": "2026-11"
+ },
+ "Lejaren Hiller & Leonard Isaacson — Illiac Suite (1957)": {
+  "status": "added",
+  "work_ids": [
+   "lejaren-hiller--illiac-suite"
+  ],
+  "note": "Video (YouTube recording), ILLIAC I photo (Commons), JAES 1958 paper.",
+  "pass": "2026-11"
+ },
+ "David Cope — Experiments in Musical Intelligence (Emmy)": {
+  "status": "added",
+  "work_ids": [
+   "david-cope--experiments-in-musical-intelligence"
+  ],
+  "note": "Video from Cope's own YouTube channel; CMJ 1992 DOI verified.",
+  "pass": "2026-11"
+ },
+ "Shinseungback Kimyonghun – Flower (2016–17)": {
+  "status": "added",
+  "work_ids": [
+   "shinseungback-kimyonghun--flower"
+  ],
+  "note": "Added as the duo's sixth work; dated 2016 (2016–17).",
+  "pass": "2026-11"
+ },
+ "Shinseungback Kimyonghun — Flower (2017) and Cat or Human (2013)": {
+  "status": "added",
+  "work_ids": [
+   "shinseungback-kimyonghun--flower"
+  ],
+  "note": "Same work as the other Flower lead; Cat or Human not added.",
+  "pass": "2026-11"
+ },
+ "seebotschat (2017)": {
+  "status": "added",
+  "work_ids": [
+   "seebotschat--vladimir-and-estragon"
+  ],
+  "note": "Makers remain anonymous; creator 'seebotschat' (studio).",
+  "pass": "2026-11"
+ },
+ "Mismatch Media — Nothing, Forever (2022-23)": {
+  "status": "added",
+  "work_ids": [
+   "mismatch-media--nothing-forever"
+  ],
+  "note": "",
+  "pass": "2026-11"
+ },
+ "Wesley Goatley, Newly Forgotten Technologies: Five Echoes (2022)": {
+  "status": "added",
+  "work_ids": [
+   "wesley-goatley--five-echoes"
+  ],
+  "note": "Distinct 2022 film/performance, separate from the 2023 installation already in the gallery.",
+  "pass": "2026-11"
+ },
+ "Tomás Laurenzo — Memoirs of the Blind (2018)": {
+  "status": "added",
+  "work_ids": [
+   "tomas-laurenzo--memoirs-of-the-blind"
+  ],
+  "note": "Vimeo + images verified; SIGGRAPH Asia 2018, ISEA 2019. Machine-vision-db membership not re-verified, so no collection set.",
+  "pass": "2026-11"
+ },
+ "Suzanne Kite — Pȟehíŋ kiŋ líla akhíšoke (Her hair was heavy) (2019)": {
+  "status": "added",
+  "work_ids": [
+   "suzanne-kite--her-hair-was-heavy"
+  ],
+  "note": "Images from the artist's site; venue of the 2019 premiere not found.",
+  "pass": "2026-11"
+ },
+ "Laura Poitras — Astro Noise (Whitney Museum, 2016)": {
+  "status": "added",
+  "work_ids": [
+   "laura-poitras--astro-noise"
+  ],
+  "note": "",
+  "pass": "2026-11"
+ },
+ "Stephan von Huene — Tisch Tänzer / Tap Dancer (1988) and Erweiterter Schwitters (1987)": {
+  "status": "added",
+  "work_ids": [
+   "stephan-von-huene--tap-dancer"
+  ],
+  "note": "Added as Tap Dancer (1967, Getty video and restoration article); the lead's 1988 date and 'Tisch Tänzer' title could not be confirmed. Erweiterter Schwitters not added.",
+  "pass": "2026-11"
+ },
+ "Meta Office — Meta Office (2021)": {
+  "status": "added",
+  "work_ids": [
+   "meta-office--behind-the-screens-of-amazon-mechanical-turks"
+  ],
+  "note": "Jeu de Paume title: 'Behind the Screens of Amazon Mechanical Turks' (2021–2025); dated 2021.",
+  "pass": "2026-11"
+ },
+ "Meta Office — click-work installation (Jeu de Paume 2025)": {
+  "status": "added",
+  "work_ids": [
+   "meta-office--behind-the-screens-of-amazon-mechanical-turks"
+  ],
+  "note": "Same work as the 'Meta Office (2021)' lead.",
+  "pass": "2026-11"
+ },
+ "Sarah Rothberg — FOREVER MEETINGS (2025)": {
+  "status": "added",
+  "work_ids": [
+   "sarah-rothberg--forever-meetings"
+  ],
+  "note": "Prix Ars Electronica 2026 HM (New Animation Art).",
+  "pass": "2026-11"
+ },
+ "Yuqian Sun — AI Nüshu (AI女书, 2023)": {
+  "status": "added",
+  "work_ids": [
+   "yuqian-sun--ai-nushu"
+  ],
+  "note": "SIGGRAPH Asia 2023 Art Papers DOI verified; Prix Ars 2025 HM confirmed in archive.aec.at/prix/300791.",
+  "pass": "2026-11"
+ },
+ "Nozomu Kubota — AI's Silent Omissions (2025–26)": {
+  "status": "added",
+  "work_ids": [
+   "nozomu-kubota--ais-silent-omissions"
+  ],
+  "note": "Documentary; Prix Ars Electronica 2026 HM (Digital Humanity per archive page).",
+  "pass": "2026-11"
+ },
+ "Geumhyung Jeong — Toy Prototype (2021)": {
+  "status": "added",
+  "work_ids": [
+   "geumhyung-jeong--toy-prototype"
+  ],
+  "note": "MMCA commission, shown in The Milk of Dreams 2022.",
+  "pass": "2026-11"
+ },
+ "Ioana Vreme Moser — Mineral Amnesia (2023)": {
+  "status": "added",
+  "work_ids": [
+   "ioana-vreme-moser--mineral-amnesia"
+  ],
+  "note": "Prix Ars Electronica 2025 Award of Distinction (Digital Musics & Sound Art).",
+  "pass": "2026-11"
+ },
+ "Navid Navab & Garnet Willis — Organism (+ Excitable Chaos)": {
+  "status": "added",
+  "work_ids": [
+   "navid-navab--organism-excitable-chaos"
+  ],
+  "note": "Golden Nica 2025 Digital Musics & Sound Art; first shown Feb 2024.",
+  "pass": "2026-11"
+ },
+ "Joon Sung Park et al., Generative Agent Simulations of 1,000 People (2024)": {
+  "status": "added",
+  "work_ids": [
+   "joon-sung-park--simulations-of-1000-people"
+  ],
+  "note": "arXiv title has since changed to 'LLM Agents Grounded in Self-Reports…'.",
+  "pass": "2026-11"
+ },
+ "Leif Weatherby, Language Machines: Cultural AI and the End of Remainder Humanism (University of Minnesota Press, 2025)": {
+  "status": "duplicate",
+  "work_ids": [
+   "leif-weatherby--language-machines"
+  ],
+  "note": "Added in parallel by recent-research-2026.",
+  "pass": "2026-11"
+ },
+ "Madhumita Murgia, Code Dependent: Living in the Shadow of AI (2024)": {
+  "status": "added",
+  "work_ids": [
+   "madhumita-murgia--code-dependent"
+  ],
+  "note": "No Chinese edition confirmed; title translated.",
+  "pass": "2026-11"
+ },
+ "Emily M. Bender & Alex Hanna, The AI Con (Harper, 2025)": {
+  "status": "added",
+  "work_ids": [
+   "emily-m-bender--the-ai-con"
+  ],
+  "note": "New creator alex-hanna.",
+  "pass": "2026-11"
+ },
+ "Pratyusha Ria Kalluri et al., Computer-vision research powers surveillance technology (Nature, 2025)": {
+  "status": "added",
+  "work_ids": [
+   "pratyusha-ria-kalluri--computer-vision-powers-surveillance"
+  ],
+  "note": "Added despite 2023 preprint: Nature 2025 is the first peer-reviewed publication.",
+  "pass": "2026-11"
+ },
+ "Ilia Shumailov et al., AI models collapse when trained on recursively generated data (Nature, 2024)": {
+  "status": "added",
+  "work_ids": [
+   "ilia-shumailov--model-collapse"
+  ],
+  "note": "",
+  "pass": "2026-11"
+ },
+ "Anthropic interpretability, On the Biology of a Large Language Model (2025)": {
+  "status": "added",
+  "work_ids": [
+   "anthropic--biology-of-a-large-language-model"
+  ],
+  "note": "No DOI; Transformer Circuits Thread URL as paper.",
+  "pass": "2026-11"
+ },
+ "Butlin, Long et al. — Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)": {
+  "status": "duplicate",
+  "work_ids": [
+   "patrick-butlin--consciousness-in-artificial-intelligence"
+  ],
+  "note": "The 2023 report is already in the gallery (leads-b); the TiCS 2025 version is a follow-up of the same work.",
+  "pass": "2026-11"
+ },
+ "Lauren Lee McCarthy — Auto (LACMA Art + Technology Lab)": {
+  "status": "duplicate",
+  "work_ids": [
+   "lauren-lee-mccarthy--auto"
+  ],
+  "note": "Already added by recent-east-asia.",
+  "pass": "2026-11"
+ },
+ "Trevor Paglen — How to See Like a Machine: Images After AI (book, 2026)": {
+  "status": "duplicate",
+  "work_ids": [
+   "trevor-paglen--how-to-see-like-a-machine"
+  ],
+  "note": "Already in recent-research.",
+  "pass": "2026-11"
+ },
+ "Masahiko Inami lab — MetaLimbs (2017)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Inami already has JIZAI ARMS; MetaLimbs left for a later body-extension pass.",
+  "pass": "2026-11"
+ },
+ "Kazuhiko Hachiya — PostPet (1997)": {
+  "status": "no_media",
+  "work_ids": [],
+  "note": "Hachiya is in the gallery; no stable licensed image or video of PostPet found this pass.",
+  "pass": "2026-11"
+ },
+ "Lev Manovich — A Medium That Thinks: AI and Media Cognition (2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Checked manovich.net 2026-11: still 'first part of my article (in progress)'. Not yet out.",
+  "pass": "2026-11"
+ },
+ "Butlin, Shiller & Simon (eds.), Consciousness in Current AI (Journal of Consciousness Studies special issue, 2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Introduction DOI verified (JCS 33(7), 2026); contents still to be listed before using it as a survey collection.",
+  "pass": "2026-11"
+ },
+ "Patrick Butlin, Consciousness and AI (Open Encyclopedia of Cognitive Science, 2026)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Encyclopedia overview (DOI verified); a reference, not a gallery work.",
+  "pass": "2026-11"
+ },
+ "Palisade Research, Language Models Can Autonomously Hack and Self-Replicate (May 2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Palisade already has two works and Anthropic's self-replication study is in; add only if the self-replication theme is expanded.",
+  "pass": "2026-11"
+ },
+ "Amelie Knecht, Ulysse Schaller, Christopher Summerfield, Thilo Hagendorff, Shutdown Sabotage Propensities in Multi-Agent Systems (arXiv 2609.28274, Sept 2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "arXiv 2609.28274 verified; strong candidate for the next self-preservation pass (left to recent-research-2026).",
+  "pass": "2026-11"
+ },
+ "Anthropic (Lynch et al.), Agentic Misalignment in Summer 2026": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Follow-up of the existing Agentic Misalignment entry; better folded in as a note than added separately.",
+  "pass": "2026-11"
+ },
+ "Suzy Shepherd, Writing Doom (2024 short film)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified (Foregone Films upload); moderate salience, about imagining superintelligence rather than shutdown.",
+  "pass": "2026-11"
+ },
+ "Eliezer Yudkowsky & Nate Soares, If Anyone Builds It, Everyone Dies (Little, Brown, 2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Salient bestseller but an argument about extinction risk; theory curator decision.",
+  "pass": "2026-11"
+ },
+ "UK AI Security Institute, RepliBench (2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Not checked further this pass.",
+  "pass": "2026-11"
+ },
+ "Luhan Mikaelson, Derek Shiller & Hayley Clatterbuck, Beyond Mimicry: Preference Coherence in LLMs (arXiv 2511.13630, 2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "arXiv verified; lower salience follow-up to Keeling et al. (already in).",
+  "pass": "2026-11"
+ },
+ "Simon Goldstein & Cameron Domenico Kirk-Giannini, AI Wellbeing (arXiv 2509.11913, 2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "arXiv verified; lower salience than works added.",
+  "pass": "2026-11"
+ },
+ "Eric Schwitzgebel & Walter Sinnott-Armstrong, Sacrificing Humans for Insects and AI: A Critical Review (2025)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Book review essay on a personal site; not a gallery work.",
+  "pass": "2026-11"
+ },
+ "Anthropic, Claude Opus 4.6 system card: model welfare assessment and 'answer thrashing' (February 2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Anthropic welfare assessments already represented by three entries; add only as a note.",
+  "pass": "2026-11"
+ },
+ "Ziv Ben-Zion et al., 'Chat-GPT on the Couch': Assessing and Alleviating State Anxiety in Large Language Models (2024 preprint)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "DOI verified (PsyArXiv); later published in npj Digital Medicine. Borderline (anxiety as bias factor).",
+  "pass": "2026-11"
+ },
+ "Alan Rath — robotic sculptures (1980s–)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Contemporary Jewish Museum video verified; needs a specific dated work.",
+  "pass": "2026-11"
+ },
+ "Bill Vorn — I.C.U. (Intensive Care Unit) (2021)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Images verified on Vorn's site; Vorn already has three works. Next round.",
+  "pass": "2026-11"
+ },
+ "Ralf Baecker — Interface I (2016)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Baecker already has five works; capped.",
+  "pass": "2026-11"
+ },
+ "Lisa Park — Eunoia (2013)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "EEG-to-sound performance; uses a sensor, does not reflect on the machine.",
+  "pass": "2026-11"
+ },
+ "Pablo Ventura & Louis-Philippe Demers — Kubic's Cube (2007)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified (digitalartweeks); Ventura and Demers both already represented.",
+  "pass": "2026-11"
+ },
+ "Stelarc — StickMan / Reclining StickMan (2017, 2020)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified (artist's channel); Stelarc already has seven works, capped.",
+  "pass": "2026-11"
+ },
+ "Chunky Move — Mortal Engine (2008)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified (MediaArtTube); Glow by the same team already covers the body-tracking system.",
+  "pass": "2026-11"
+ },
+ "Paul Sermon — Think About the People Now (1991)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified; Telematic Dreaming already represents Sermon.",
+  "pass": "2026-11"
+ },
+ "Liliane Lijn — Woman of War (1986)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified (Haus der Kunst); machine role still to check.",
+  "pass": "2026-11"
+ },
+ "Oriza Hirata — The Metamorphosis, Android Version (2014)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Hirata already has three robot/android plays; capped.",
+  "pass": "2026-11"
+ },
+ "Samson Young (杨嘉辉) – Canon (2015)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Video verified (Art Basel 2016) but the LRAD device still unverified.",
+  "pass": "2026-11"
+ },
+ "Cao Fei, i.Mirror (2007) and RMB City (2008–11)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Second Life avatar works; machine angle weaker than the three Cao Fei works already in.",
+  "pass": "2026-11"
+ },
+ "Miao Ying, Blind Spot (2007) / Hardcore Digital Detox (2018)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "M+ video verified; machine relevance of specific works still to check.",
+  "pass": "2026-11"
+ },
+ "2010 Flash Crash": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "A market event, not a work; would need an artwork about it.",
+  "pass": "2026-11"
+ },
+ "Dan Chen, Intimacy Machine": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Image verified on dankc.com but no year or exhibition given.",
+  "pass": "2026-11"
+ },
+ "Iyo Bisseck — Face Access (2019)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "HEK image verified; strong, next round (Bisseck already has The Human Detector).",
+  "pass": "2026-11"
+ },
+ "Forensic Architecture — A Cartography of Genocide (2024)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Subject is the war in Gaza rather than machines.",
+  "pass": "2026-11"
+ },
+ "World Humanoid Robot Games, Beijing (Aug 2025; 2nd edition 2026)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Event; repeats themes of robot sport already covered.",
+  "pass": "2026-11"
+ },
+ "OpenAI GPT-4o retirement and #keep4o (Aug 2025)": {
+  "status": "off_topic",
+  "work_ids": [],
+  "note": "Event, not a work; Anthropic deprecation commitments already cover model retirement.",
+  "pass": "2026-11"
+ },
+ "Kasia Molga — Chronicles from In-Between 495 to 570 nm (2023–)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Images verified on studiomolga.com; planetary-extraction angle, next round.",
+  "pass": "2026-11"
+ },
+ "Yuging Li, Leo Mühlfeld, Alan Schiegl — Large Language Writer (2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Project page verified (June 2024); speculative ml-material candidate.",
+  "pass": "2026-11"
+ },
+ "Sofia Isupova — Mapping Uncertain Landscape: The Satellite (2022–23)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Images verified on artist's site; outside recent window, next round.",
+  "pass": "2026-11"
+ },
+ "Pierre Huyghe — Liminals (LAS Art Foundation, Berlin, 2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "LAS video is a curator talk about Liminal(s); Huyghe already has five works.",
+  "pass": "2026-11"
+ },
+ "N. Katherine Hayles, Bacteria to AI: Human Futures with Our Nonhuman Symbionts (University of Chicago Press, 2025)": {
+  "status": "duplicate",
+  "work_ids": [
+   "n-katherine-hayles--bacteria-to-ai"
+  ],
+  "note": "Added in parallel by recent-research-2026.",
+  "pass": "2026-11"
+ },
+ "Joy Buolamwini — Unmasking AI (Random House, 2023)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Publisher page and cover verified; Buolamwini already has three works on the coded gaze.",
+  "pass": "2026-11"
+ },
+ "Nick Couldry & Ulises A. Mejias, Data Grab: The New Colonialism of Big Tech (2024)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "DOI verified (University of Chicago Press, 2024); next theory pass.",
+  "pass": "2026-11"
+ },
+ "Iason Gabriel et al., The Ethics of Advanced AI Assistants (Google DeepMind, 2024)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "arXiv verified; long report, next theory pass.",
+  "pass": "2026-11"
+ },
+ "Waki Kamino, Andrea W. Wen-Yi, Guy Hoffman, Selma Šabanović, Malte Jung, What Is a Robot? Baseball's 'Robot Umpire' (HRI 2026, honourable mention)": {
+  "status": "duplicate",
+  "work_ids": [
+   "waki-kamino--robot-umpire"
+  ],
+  "note": "Added in parallel by recent-research-2026.",
+  "pass": "2026-11"
+ },
+ "Nan Hu & Selma Šabanović, Generative Encounters with Robin (HRI 2026, honourable mention)": {
+  "status": "duplicate",
+  "work_ids": [
+   "nan-hu--generative-encounters-robin"
+  ],
+  "note": "Added in parallel by recent-research-2026.",
+  "pass": "2026-11"
+ },
+ "Anna Munster — An Aesthesia of Networks (MIT, 2013)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "DOI verified (MIT Press 2013).",
+  "pass": "2026-11"
+ },
+ "Giustina B. Baron & Hongjin Song, A prolonged journey: Mourning and digital resurrection in the Chinese context (2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "DOI verified (InMediaciones de la Comunicación, 2025); title 'A prolonged journey'.",
+  "pass": "2026-11"
+ }
+}

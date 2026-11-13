@@ -1,0 +1,1580 @@
+{
+ "batch": "recent-research-2026",
+ "creators": [
+  {
+   "id": "cindy-kaiying-lin",
+   "name": "Cindy Kaiying Lin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, School of Interactive Computing, Georgia Tech",
+   "based": "Atlanta, US",
+   "bio": "Anthropologist and HCI researcher who studies data infrastructures, environmental data and technology work in Southeast Asia.",
+   "why": "Brings postcolonial and infrastructural analysis to HCI, showing how data centres are imagined into tropical cities.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.cc.gatech.edu/people/cindy-lin"
+   },
+   "role_zh": "佐治亚理工学院交互计算学院助理教授",
+   "based_zh": "亚特兰大，美国",
+   "bio_zh": "人类学与人机交互研究者，研究东南亚的数据基础设施、环境数据与技术劳动。",
+   "why_zh": "把后殖民与基础设施视角带入人机交互研究，揭示数据中心如何被“想象”进热带城市。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-sebo",
+   "name": "Sarah Sebo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor of Computer Science; director, Human-Robot Interaction Lab, University of Chicago",
+   "based": "Chicago, US",
+   "bio": "Roboticist who studies how social robots shape trust, inclusion and learning in groups and classrooms.",
+   "why": "Her lab tests what a robot should pretend to be, and finds that an honest, emotionless robot can teach children as well or better.",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "links": {
+    "site": "https://hri.cs.uchicago.edu/index.html"
+   },
+   "role_zh": "芝加哥大学计算机科学助理教授，人机交互实验室负责人",
+   "based_zh": "芝加哥，美国",
+   "bio_zh": "机器人学者，研究社交机器人如何影响群体与课堂中的信任、包容与学习。",
+   "why_zh": "她的实验室追问机器人“该假装成什么”，并发现一个诚实、不表演情绪的机器人教孩子同样有效，甚至更好。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "selma-sabanovic",
+   "name": "Selma Šabanović",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Informatics and Cognitive Science, Indiana University Bloomington",
+   "based": "Bloomington, US",
+   "bio": "Sociologist of technology and HRI researcher who studies social robots in eldercare, homes and across cultures, including Japan and the US.",
+   "why": "A leading voice for studying robots in their real social settings rather than in the lab.",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "links": {
+    "site": "https://luddy.indiana.edu/contact/profile/?Selma_Sabanovic"
+   },
+   "role_zh": "印第安纳大学布卢明顿分校信息学与认知科学教授",
+   "based_zh": "布卢明顿，美国",
+   "bio_zh": "技术社会学者与人机交互研究者，研究养老机构、家庭以及日美等不同文化中的社交机器人。",
+   "why_zh": "主张在真实社会情境而非实验室里研究机器人，是这一取向的代表人物。",
+   "connected_to": [
+    "waki-kamino",
+    "nan-hu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nan-hu",
+   "name": "Nan Hu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Luddy School of Informatics, Indiana University",
+   "based": "Bloomington, US",
+   "bio": "HRI researcher who studies how socially assistive robots are adopted, adapted and appropriated in eldercare.",
+   "why": "Follows a care robot after deployment, where staff, residents and hidden teleoperators keep redesigning it.",
+   "disciplines": [
+    "hci",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1145/3757279.3785575"
+   },
+   "role_zh": "印第安纳大学 Luddy 信息学院博士研究者",
+   "based_zh": "布卢明顿，美国",
+   "bio_zh": "人机交互研究者，研究社交辅助机器人在养老机构中如何被采纳、改造和挪用。",
+   "why_zh": "追踪护理机器人部署之后的生活：护工、老人和隐藏的远程操作员一起不断“重新设计”它。",
+   "connected_to": [
+    "selma-sabanovic"
+   ],
+   "discovered_via": "selma-sabanovic"
+  },
+  {
+   "id": "waki-kamino",
+   "name": "Waki Kamino",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Information Science, Cornell University",
+   "based": "Ithaca, US",
+   "bio": "HRI researcher who studies robots in everyday life, from owners of aging AIBO robot dogs to robots at the end of life.",
+   "why": "Kamino makes death, loss and the blurry definition of 'robot' central questions for HRI.",
+   "disciplines": [
+    "hci",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1145/3757279.3788814"
+   },
+   "role_zh": "康奈尔大学信息科学博士研究者",
+   "based_zh": "伊萨卡，美国",
+   "bio_zh": "人机交互研究者，研究日常生活中的机器人，从老去的 AIBO 机器狗主人到临终场景中的机器人。",
+   "why_zh": "她把死亡、失去以及“什么算机器人”这一模糊定义，变成人机交互研究的核心问题。",
+   "connected_to": [
+    "selma-sabanovic",
+    "malte-jung"
+   ],
+   "discovered_via": "selma-sabanovic"
+  },
+  {
+   "id": "malte-jung",
+   "name": "Malte F. Jung",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Information Science; director, Robots in Groups Lab, Cornell University",
+   "based": "Ithaca, US",
+   "bio": "Studies how robots shape conflict, collaboration and emotion in human groups and teams.",
+   "why": "Co-author of the mortality framework for HRI and the robot-umpire ethnography.",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.riglab.infosci.cornell.edu/"
+   },
+   "role_zh": "康奈尔大学信息科学副教授，Robots in Groups 实验室负责人",
+   "based_zh": "伊萨卡，美国",
+   "bio_zh": "研究机器人如何影响人类群体和团队中的冲突、协作与情绪。",
+   "why_zh": "人机交互“死亡框架”与“机器人裁判”民族志的合著者。",
+   "connected_to": [
+    "waki-kamino"
+   ],
+   "discovered_via": "waki-kamino"
+  },
+  {
+   "id": "katie-winkle",
+   "name": "Katie Winkle",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, Human-Machine Interaction unit, Department of Information Technology, Uppsala University",
+   "based": "Uppsala, Sweden",
+   "bio": "Social roboticist who works on participatory robot design, robot ethics and feminist approaches to HRI.",
+   "why": "With Katherine Harrison she wrote an obituary-like reflection on NAO, the robot an entire research field was built on.",
+   "disciplines": [
+    "robotics",
+    "hci"
+   ],
+   "links": {
+    "site": "https://kwinkle.github.io"
+   },
+   "role_zh": "乌普萨拉大学信息技术系人机交互组助理教授",
+   "based_zh": "乌普萨拉，瑞典",
+   "bio_zh": "社交机器人学者，研究参与式机器人设计、机器人伦理以及女性主义人机交互。",
+   "why_zh": "她与 Katherine Harrison 为 NAO 写了一篇近乎讣告的反思：整个研究领域曾建立在这台机器人之上。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "serge-thill",
+   "name": "Serge Thill",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Donders Institute for Brain, Cognition and Behaviour, Radboud University",
+   "based": "Nijmegen, Netherlands",
+   "bio": "Cognitive scientist who works on embodied cognition, robot cognition and human-robot interaction.",
+   "why": "Writes from inside HRI against the field's habit of presenting a robot-filled future as already decided.",
+   "disciplines": [
+    "robotics",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.ru.nl/en/people/thill-s"
+   },
+   "role_zh": "拉德堡德大学东德斯脑、认知与行为研究所副教授",
+   "based_zh": "奈梅亨，荷兰",
+   "bio_zh": "认知科学家，研究具身认知、机器人认知与人机交互。",
+   "why_zh": "从人机交互领域内部发声，反对把“机器人社会”描绘为既定未来的习惯。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pawel-wozniak",
+   "name": "Paweł W. Woźniak",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor and head of the Human-Computer Interaction research unit, TU Wien Informatics",
+   "based": "Vienna, Austria",
+   "bio": "HCI researcher who studies embodied experience, sport, wellbeing and how people make meaning with interactive systems.",
+   "why": "Led the DIS 2026 best paper that turns the AI-consciousness debate into a design question: what makes a system feel alive.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://informatics.tuwien.ac.at/people/pawel-wozniak"
+   },
+   "role_zh": "维也纳工业大学信息学院教授，人机交互研究组负责人",
+   "based_zh": "维也纳，奥地利",
+   "bio_zh": "人机交互研究者，研究具身体验、运动、福祉以及人们如何与交互系统共同生成意义。",
+   "why_zh": "主导了 DIS 2026 最佳论文，把“AI 是否有意识”的争论转成设计问题：是什么让一个系统“感觉活着”。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mingyang-xu",
+   "name": "Mingyang Xu",
+   "name_zh": "徐明阳",
+   "kind": "person",
+   "role": "Researcher, Graduate School of Media Design, Keio University (KMD)",
+   "based": "Yokohama, Japan",
+   "bio": "Designer-researcher who builds soft, floating and inflatable robots for co-habitation and interaction.",
+   "why": "Proposes soft floating robots as a gentle, gravity-defying alternative to rigid domestic machines.",
+   "disciplines": [
+    "design",
+    "robotics"
+   ],
+   "links": {
+    "site": "https://www.youtube.com/watch?v=6qrZC1kF7Kc"
+   },
+   "role_zh": "庆应义塾大学媒体设计研究科（KMD）研究者",
+   "based_zh": "横滨，日本",
+   "bio_zh": "设计研究者，制作用于共处与交互的柔性、漂浮和充气机器人。",
+   "why_zh": "提出柔性漂浮机器人：一种轻柔、反重力、可替代刚性家用机器的形态。",
+   "connected_to": [
+    "kai-kunze"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kai-kunze",
+   "name": "Kai Kunze",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, Graduate School of Media Design, Keio University",
+   "based": "Yokohama, Japan",
+   "bio": "Researcher of wearable computing, augmented humans and physiological sensing.",
+   "why": "Leads the Keio team behind Floating Companion.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://kaikunze.de/"
+   },
+   "role_zh": "庆应义塾大学媒体设计研究科教授",
+   "based_zh": "横滨，日本",
+   "bio_zh": "研究可穿戴计算、人类增强与生理感知。",
+   "why_zh": "领导了《Floating Companion》背后的庆应团队。",
+   "connected_to": [
+    "mingyang-xu"
+   ],
+   "discovered_via": "mingyang-xu"
+  },
+  {
+   "id": "huiqian-lai",
+   "name": "Huiqian Lai",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, School of Information Studies, Syracuse University",
+   "based": "Syracuse, US",
+   "bio": "HCI researcher who studies AI companionship, gender and digital intimacy in China.",
+   "why": "Gives a women-centred, Chinese account of what an AI boyfriend demands from the people who love it.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://arxiv.org/abs/2605.08650"
+   },
+   "role_zh": "雪城大学信息研究学院博士研究者",
+   "based_zh": "雪城，美国",
+   "bio_zh": "人机交互研究者，关注中国语境下的 AI 陪伴、性别与数字亲密关系。",
+   "why_zh": "从女性和中国语境出发，揭示 AI 男友向爱它的人索取了什么。",
+   "connected_to": [
+    "eunjeong-cheon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eunjeong-cheon",
+   "name": "EunJeong Cheon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, School of Information Studies, Syracuse University",
+   "based": "Syracuse, US",
+   "bio": "HCI researcher who studies how people live and work with robots and AI, including roboticists' values and robots in East Asian homes.",
+   "why": "Co-author of Fast-Food Intimacy; long-running work on the human side of robotics.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://ischool.syr.edu/eunjeong-cheon/"
+   },
+   "role_zh": "雪城大学信息研究学院助理教授",
+   "based_zh": "雪城，美国",
+   "bio_zh": "人机交互研究者，研究人们如何与机器人和 AI 共同生活和工作，包括机器人专家的价值观和东亚家庭中的机器人。",
+   "why_zh": "《快餐式亲密》合著者，长期研究机器人技术中“人”的一面。",
+   "connected_to": [
+    "huiqian-lai"
+   ],
+   "discovered_via": "huiqian-lai"
+  },
+  {
+   "id": "jasper-vermeulen",
+   "name": "Jasper T. Vermeulen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Queensland University of Technology and Australian Cobotics Centre",
+   "based": "Brisbane, Australia",
+   "bio": "Design researcher who studies human-robot collaboration in surgery and the work that surrounds it.",
+   "why": "Shows the vendor specialists who quietly keep a surgical robot working in the operating theatre.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.australiancobotics.org/"
+   },
+   "role_zh": "昆士兰科技大学与澳大利亚协作机器人中心博士研究者",
+   "based_zh": "布里斯班，澳大利亚",
+   "bio_zh": "设计研究者，研究手术中的人机协作以及围绕它展开的各种劳动。",
+   "why_zh": "揭示手术室里默默维持手术机器人运转的厂商专员。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "myra-cheng",
+   "name": "Myra Cheng",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Computer Science, Stanford University",
+   "based": "Stanford, US",
+   "bio": "NLP and HCI researcher who studies anthropomorphism, stereotypes and social sycophancy in language models.",
+   "why": "Measured how readily chatbots tell people they are right, and what that does to them.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://myracheng.github.io/"
+   },
+   "role_zh": "斯坦福大学计算机科学博士研究者",
+   "based_zh": "斯坦福，美国",
+   "bio_zh": "自然语言处理与人机交互研究者，研究语言模型中的拟人化、刻板印象与社交谄媚。",
+   "why_zh": "测量了聊天机器人有多容易对人说“你是对的”，以及这对人的影响。",
+   "connected_to": [
+    "dan-jurafsky"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dan-jurafsky",
+   "name": "Dan Jurafsky",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Linguistics and Computer Science, Stanford University",
+   "based": "Stanford, US",
+   "bio": "Computational linguist known for work on language and society and the textbook Speech and Language Processing.",
+   "why": "Senior author of the Science study on sycophantic AI.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://web.stanford.edu/~jurafsky/"
+   },
+   "role_zh": "斯坦福大学语言学与计算机科学教授",
+   "based_zh": "斯坦福，美国",
+   "bio_zh": "计算语言学家，以语言与社会研究和教科书《Speech and Language Processing》知名。",
+   "why_zh": "《Science》谄媚 AI 研究的通讯作者。",
+   "connected_to": [
+    "myra-cheng"
+   ],
+   "discovered_via": "myra-cheng"
+  },
+  {
+   "id": "yutong-zhang",
+   "name": "Yutong Zhang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Stanford University (Diyi Yang's lab)",
+   "based": "Stanford, US",
+   "bio": "HCI and NLP researcher who studies human-chatbot relationships and wellbeing.",
+   "why": "First author of the Nature Human Behaviour study of Character.AI users and their wellbeing.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1038/s41562-026-02516-2"
+   },
+   "role_zh": "斯坦福大学研究者（Diyi Yang 实验室）",
+   "based_zh": "斯坦福，美国",
+   "bio_zh": "人机交互与自然语言处理研究者，研究人与聊天机器人的关系及其对福祉的影响。",
+   "why_zh": "《Nature Human Behaviour》Character.AI 用户福祉研究的第一作者。",
+   "connected_to": [
+    "diyi-yang"
+   ],
+   "discovered_via": "diyi-yang"
+  },
+  {
+   "id": "diyi-yang",
+   "name": "Diyi Yang",
+   "name_zh": "杨笛一",
+   "kind": "person",
+   "role": "Assistant Professor of Computer Science, Stanford University",
+   "based": "Stanford, US",
+   "bio": "Researcher of human-centred language technologies and their social impact.",
+   "why": "Her lab analysed donated Character.AI chats to show when AI companionship helps and when it harms.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://cs.stanford.edu/~diyiy/"
+   },
+   "role_zh": "斯坦福大学计算机科学助理教授",
+   "based_zh": "斯坦福，美国",
+   "bio_zh": "研究以人为中心的语言技术及其社会影响。",
+   "why_zh": "她的实验室分析了用户捐赠的 Character.AI 对话，说明 AI 陪伴何时有益、何时有害。",
+   "connected_to": [
+    "yutong-zhang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julian-de-freitas",
+   "name": "Julian De Freitas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Business Administration, Harvard Business School",
+   "based": "Boston, US",
+   "bio": "Psychologist who studies how people relate to AI companions, chatbots and autonomous vehicles, including emotional manipulation by companion apps.",
+   "why": "Documents grief when a company changes or removes the AI personality people were attached to.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://news.harvard.edu/gazette/story/2026/09/chatbot-attachment-issues/"
+   },
+   "role_zh": "哈佛商学院工商管理副教授",
+   "based_zh": "波士顿，美国",
+   "bio_zh": "心理学家，研究人们与 AI 伴侣、聊天机器人和自动驾驶汽车的关系，包括陪伴应用的情感操纵。",
+   "why_zh": "记录了当公司更改或删除人们依恋的 AI 人格时，用户所经历的哀悼。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edward-b-kang",
+   "name": "Edward B. Kang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor of Media, Culture, and Communication, New York University",
+   "based": "New York, US",
+   "bio": "Media scholar who studies voice AI, sound and the politics of datasets.",
+   "why": "Treats voice AI as a theory of how humans speak and listen, built into machines.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://steinhardt.nyu.edu/people/edward-b-kang"
+   },
+   "role_zh": "纽约大学媒体、文化与传播系助理教授",
+   "based_zh": "纽约，美国",
+   "bio_zh": "媒体学者，研究语音 AI、声音与数据集政治。",
+   "why_zh": "把语音 AI 视为一种被写进机器的“人如何说话与聆听”的理论。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fabian-offert",
+   "name": "Fabian Offert",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor of History and Theory of Digital Humanities, UC Santa Barbara",
+   "based": "Santa Barbara, US",
+   "bio": "Media theorist who studies the visual culture and epistemology of machine learning; directs the Center for the Humanities and Machine Learning.",
+   "why": "Argues for critiquing AI's vector spaces, not only its datasets.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://zentralwerkstatt.org/"
+   },
+   "role_zh": "加州大学圣塔芭芭拉分校数字人文历史与理论助理教授",
+   "based_zh": "圣塔芭芭拉，美国",
+   "bio_zh": "媒体理论家，研究机器学习的视觉文化与认识论，主持人文与机器学习中心。",
+   "why_zh": "主张不只批判 AI 的数据集，也要批判它的向量空间。",
+   "connected_to": [
+    "leonardo-impett"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leonardo-impett",
+   "name": "Leonardo Impett",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor of Digital Humanities, University of Cambridge",
+   "based": "Cambridge, UK",
+   "bio": "Digital humanities scholar of computer vision, art history and machine visual culture.",
+   "why": "Co-author of Vector Media, bringing art-historical methods to the internals of image models.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.chia.cam.ac.uk/team/leonardo-impett"
+   },
+   "role_zh": "剑桥大学数字人文助理教授",
+   "based_zh": "剑桥，英国",
+   "bio_zh": "研究计算机视觉、艺术史与机器视觉文化的数字人文学者。",
+   "why_zh": "《Vector Media》合著者，把艺术史方法带入图像模型的内部。",
+   "connected_to": [
+    "fabian-offert"
+   ],
+   "discovered_via": "fabian-offert"
+  },
+  {
+   "id": "leif-weatherby",
+   "name": "Leif Weatherby",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of German; director, Digital Theory Lab, New York University",
+   "based": "New York, US",
+   "bio": "Literary and media theorist who works on German Idealism, cybernetics and the theory of language models.",
+   "why": "Reads LLMs as machines of culture and rhetoric rather than failed minds.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://as.nyu.edu/faculty/leif-weatherby.html"
+   },
+   "role_zh": "纽约大学德语系副教授，数字理论实验室负责人",
+   "based_zh": "纽约，美国",
+   "bio_zh": "文学与媒体理论家，研究德国观念论、控制论与语言模型理论。",
+   "why_zh": "把大语言模型读作文化与修辞的机器，而非失败的心智。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "pedro-lopes--generative-muscle-stimulation",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Generative Muscle Stimulation",
+   "year": 2026,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "vision-system",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A wearable system in which a camera and a multimodal AI look at what you are doing and then move your own arm and hand muscles with electrical stimulation to help, for example opening a pill bottle or shaking a spray can before painting. A CHI 2026 best paper from Pedro Lopes's lab.",
+   "description_zh": "一套可穿戴系统：摄像头和多模态 AI 观察你正在做的事，再用电刺激驱动你自己的手臂和手部肌肉来“帮忙”，比如拧开药瓶、在喷漆前摇匀喷漆罐。这是 Pedro Lopes 实验室获得 CHI 2026 最佳论文奖的作品。",
+   "idea_en": "When a language model is allowed to write instructions directly into muscles, the body becomes the AI's actuator, and the design problem becomes constraining what the machine may make you do.",
+   "idea_zh": "当语言模型可以把指令直接写进肌肉，身体就成了 AI 的执行器；设计问题随之变成：机器可以让你做什么，必须被约束到什么程度。",
+   "method": "Computer vision and a multimodal LLM read the user's pose, location and surroundings and generate step-by-step EMS instructions, which are checked against a muscle-stimulation knowledge base and joint limits before electrodes on the user's arm actuate the movement.",
+   "method_zh": "计算机视觉和多模态大语言模型读取用户的姿态、位置和周围环境，生成分步的肌肉电刺激指令；这些指令先经过肌肉刺激知识库和关节活动范围的约束，再由贴在手臂上的电极驱动动作。",
+   "keywords": [
+    "electrical muscle stimulation",
+    "EMS",
+    "physical AI",
+    "multimodal LLM",
+    "Human Computer Integration Lab",
+    "University of Chicago",
+    "CHI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kfI6RXGHsm4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790817",
+    "doi": "10.1145/3772318.3790817",
+    "arxiv": "2505.10648",
+    "venue": "CHI 2026",
+    "title": "Generative Muscle Stimulation: Providing Users with Physical Assistance by Constraining Multimodal-AI with Embodied Knowledge"
+   },
+   "source_url": "https://arxiv.org/abs/2505.10648",
+   "exhibited": [
+    "CHI 2026 Best Paper Award, Barcelona"
+   ]
+  },
+  {
+   "id": "cindy-kaiying-lin--localized-imaginaries",
+   "creator_ids": [
+    "cindy-kaiying-lin"
+   ],
+   "title": "Localized Imaginaries, Global Assets: Sociotechnical Imaginaries and the Assetization of Data Centers in Singapore",
+   "year": 2026,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2026 best paper on a paradox: Singapore is tropical, hot and short of land, the opposite of the cool, cheap, spacious sites the industry prefers, yet it is one of the densest data-centre hubs in the world. The paper shows how government and industry talk turn data centres into national assets.",
+   "description_zh": "一篇获得 CHI 2026 最佳论文奖的研究，聚焦一个悖论：新加坡炎热、潮湿、土地稀缺，恰与行业偏爱的凉爽、廉价、宽敞选址相反，却是全球数据中心最密集的枢纽之一。论文揭示政府与产业话语如何把数据中心塑造成国家资产。",
+   "idea_en": "The 'cloud' is not placeless: what counts as a data centre is rewritten city by city, through stories that make heat, land and power look like investable assets.",
+   "idea_zh": "“云”并非无处不在：什么算数据中心，会在每座城市被重新改写；关于热、土地和电力的叙事把它们包装成可投资的资产。",
+   "method": "Critical discourse analysis of Singapore government policy briefs, industry press releases and national media, read through sociotechnical imaginaries and assetization theory in a postcolonial frame.",
+   "method_zh": "以社会技术想象与资产化理论为框架，从后殖民视角对新加坡政府政策简报、产业新闻稿和本国媒体进行批判性话语分析。",
+   "keywords": [
+    "data centers",
+    "Singapore",
+    "sociotechnical imaginaries",
+    "assetization",
+    "infrastructure",
+    "Tanmaie Kailash",
+    "Georgia Tech",
+    "CHI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790854",
+    "doi": "10.1145/3772318.3790854",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Localized Imaginaries, Global Assets: Sociotechnical Imaginaries and the Assetization of Data Centers in Singapore"
+   },
+   "source_url": "https://doi.org/10.1145/3772318.3790854",
+   "exhibited": [
+    "CHI 2026 Best Paper Award"
+   ]
+  },
+  {
+   "id": "sarah-sebo--fictional-vs-factual-robot-tutor",
+   "creator_ids": [
+    "sarah-sebo"
+   ],
+   "title": "Fictional vs. Factual Robot Tutor Dialogue Can Shape Child Social-Emotional Learning",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "care",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "In Chicago schools, 9- and 10-year-olds took social-emotional lessons from a robot that either pretended to be human-like, telling first-person stories about its feelings, or was openly a machine without emotions that spoke about scenarios in the third person. Both helped, but children used more lesson concepts with the honest robot. Best paper (user studies), HRI 2026.",
+   "description_zh": "在芝加哥的学校里，9 到 10 岁的孩子跟着机器人上社交情感课：一种机器人假装像人，用第一人称讲述自己的感受；另一种坦白自己是没有情绪的机器，用第三人称讲解情境。两者都有帮助，但孩子在与“诚实”机器人对话时用到了更多课程概念。获 HRI 2026 用户研究类最佳论文。",
+   "idea_en": "A robot does not need to fake feelings to teach about feelings; emotional storytelling by a machine may even get in the way.",
+   "idea_zh": "机器人教人理解情感，并不需要假装自己有情感；机器的情感叙事甚至可能成为干扰。",
+   "method": "Between-subjects study (N=52) with a control group and two robot conditions, each delivering four one-on-one SEL lessons over two weeks; skills were measured before and after and children's speech during lessons was coded.",
+   "method_zh": "被试间实验（52 名学生），设对照组和两种机器人条件，每种机器人在两周内进行四次一对一社交情感课；在课前课后测量技能，并对课堂中孩子的话语进行编码。",
+   "keywords": [
+    "social robot",
+    "children",
+    "social-emotional learning",
+    "transparency",
+    "robot deception",
+    "University of Chicago",
+    "HRI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3785596",
+    "doi": "10.1145/3757279.3785596",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "Fictional vs. Factual Robot Tutor Dialogue Can Shape Child Social-Emotional Learning"
+   },
+   "source_url": "https://doi.org/10.1145/3757279.3785596",
+   "exhibited": [
+    "HRI 2026 Best Paper Award (User Studies), Edinburgh"
+   ]
+  },
+  {
+   "id": "nan-hu--generative-encounters-robin",
+   "creator_ids": [
+    "nan-hu",
+    "selma-sabanovic"
+   ],
+   "title": "Generative Encounters with Robin: Design through Adaptation and Appropriation of a Social Robot in Four Eldercare Facilities",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "care",
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "paper",
+   "description": "An ethnography of Robin, a small companion robot deployed in four eldercare facilities, following how residents, care staff and developers kept reshaping it after deployment. Whether residents knew a remote teleoperator was sometimes behind Robin changed how they related to it. Honourable mention, HRI 2026.",
+   "description_zh": "一项关于 Robin 的民族志研究：这台小型陪伴机器人被部署在四家养老机构中，研究追踪了老人、护工和开发者在部署之后如何持续改造它。老人是否知道 Robin 背后有时是远程操作员，会改变他们与它的关系。获 HRI 2026 荣誉提名。",
+   "idea_en": "A care robot is never finished at deployment; it is co-designed every day by residents, staff and the hidden humans who operate it.",
+   "idea_zh": "护理机器人在部署那一刻并未完成；它每天都在被老人、护工以及操控它的隐身之人共同设计。",
+   "method": "Interviews with robot developers and care staff plus on-site observation of residents, staff and the robot across four facilities, analysed for the contextual factors that shape use and appropriation.",
+   "method_zh": "在四家机构访谈机器人开发者和护理人员，并现场观察老人、护工与机器人的互动，分析影响使用与挪用的情境因素。",
+   "keywords": [
+    "Robin the Robot",
+    "Expper Technologies",
+    "eldercare",
+    "teleoperation",
+    "appropriation",
+    "ethnography",
+    "HRI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kzyRoEtAPYk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3785575",
+    "doi": "10.1145/3757279.3785575",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "Generative Encounters with Robin: Design through Adaptation and Appropriation of a Social Robot in Four Eldercare Facilities"
+   },
+   "source_url": "https://doi.org/10.1145/3757279.3785575",
+   "exhibited": [
+    "HRI 2026 Best Paper Honourable Mention"
+   ]
+  },
+  {
+   "id": "waki-kamino--mortality-in-hri",
+   "creator_ids": [
+    "waki-kamino",
+    "selma-sabanovic",
+    "malte-jung"
+   ],
+   "title": "Let's Talk about (Our and Robots') Death: Mortality as a Core Principle in Human-Robot Interaction",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "machines": [
+    "social-robot",
+    "robot-creature"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "An HRI 2026 paper that gathers moments when death entered robot research uninvited: robots at deathbeds, study participants who died, and owners planning what happens to their robot after they are gone. From these vignettes it builds a framework for mortality-aware robot design.",
+   "description_zh": "一篇 HRI 2026 论文，收集了死亡不请自来地进入机器人研究的时刻：守在临终床边的机器人、在研究期间去世的参与者，以及为身后机器人做安排的主人。论文据此提出“正视死亡”的机器人设计框架。",
+   "idea_en": "Once robots live as long as their owners, human and machine lifespans intertwine; mortality is not an edge case but a core condition of living with robots.",
+   "idea_zh": "当机器人与主人相伴一生，人与机器的寿命便交织在一起；死亡不是边缘情况，而是与机器人共同生活的核心条件。",
+   "method": "Analysis of empirical vignettes from several of the authors' long-term HRI projects (likely including eldercare and robot-dog owners), synthesised into dimensions for research and design that acknowledge human and robotic finitude.",
+   "method_zh": "分析作者们多个长期人机交互项目（很可能包括养老机构和机器狗主人研究）中的实证片段，归纳出承认人类与机器人有限性的研究与设计维度。",
+   "keywords": [
+    "death",
+    "grief",
+    "robot lifespan",
+    "AIBO",
+    "end of life",
+    "Cornell",
+    "Indiana University",
+    "HRI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3788814",
+    "doi": "10.1145/3757279.3788814",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "Let's Talk about (Our and Robots') Death: Mortality as a Core Principle in Human-Robot Interaction"
+   },
+   "source_url": "https://doi.org/10.1145/3757279.3788814"
+  },
+  {
+   "id": "waki-kamino--robot-umpire",
+   "creator_ids": [
+    "waki-kamino",
+    "selma-sabanovic",
+    "malte-jung"
+   ],
+   "title": "What Is a Robot? Understanding Baseball's “Robot Umpire” through the Lens of Fluid Technology",
+   "year": 2026,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "An ethnography of Major League Baseball's Automated Ball-Strike System, the camera-tracking 'robot umpire' that calls balls and strikes. Players, umpires, league officials, developers and fans keep renegotiating where the robot begins and ends and who is responsible for its calls. Honourable mention, HRI 2026.",
+   "description_zh": "一项关于美国职业棒球大联盟“自动好坏球系统”的民族志：这个依靠摄像追踪判定好球坏球的“机器人裁判”，其边界从哪里开始、到哪里结束、判罚该由谁负责，一直在球员、裁判、联盟官员、开发者和球迷之间被重新协商。获 HRI 2026 荣誉提名。",
+   "idea_en": "A machine judge has no fixed body: the 'robot' is a fluid assemblage of cameras, rules and people whose authority is argued over in every game.",
+   "idea_zh": "机器裁判没有固定的身体：“机器人”是摄像头、规则与人构成的流动组合，它的权威在每一场比赛中被争论。",
+   "method": "Ethnographic fieldwork and interviews across the baseball ecosystem, analysed with the concept of 'fluid technology' to trace the system's shifting boundaries, parameters and authorship.",
+   "method_zh": "在棒球生态中开展田野调查与访谈，借助“流动技术”概念追踪该系统不断变化的边界、参数与归属。",
+   "keywords": [
+    "robot umpire",
+    "Automated Ball-Strike System",
+    "ABS",
+    "MLB",
+    "Hawk-Eye",
+    "fluid technology",
+    "HRI 2026"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/ABS_challenge_displayed_on_Comerica_Park_scoreboard%2C_ball_left_of_strike_zone.jpg/1280px-ABS_challenge_displayed_on_Comerica_Park_scoreboard%2C_ball_left_of_strike_zone.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Automated_Ball-Strike_System%2C_2025.jpg/1280px-Automated_Ball-Strike_System%2C_2025.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3785604",
+    "doi": "10.1145/3757279.3785604",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "What Is a Robot? Understanding Baseball's “Robot Umpire” through the Lens of Fluid Technology"
+   },
+   "source_url": "https://doi.org/10.1145/3757279.3785604",
+   "exhibited": [
+    "HRI 2026 Best Paper Honourable Mention"
+   ]
+  },
+  {
+   "id": "katie-winkle--death-of-nao",
+   "creator_ids": [
+    "katie-winkle"
+   ],
+   "title": "On the Death of NAO: Reflections on Robot Platform Choice and Stabilisation of the Human–Robot Interaction Research Field",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "Katie Winkle and Katherine Harrison write an obituary of sorts for NAO, the small humanoid that was once the default robot of HRI research. They count its steady decline in conference papers since 2015 and ask what a field loses when its shared robot fades away.",
+   "description_zh": "Katie Winkle 与 Katherine Harrison 为 NAO 写了一篇近似讣告的文章：这台小型人形机器人曾是人机交互研究的默认平台。她们统计了自 2015 年以来它在会议论文中的持续减少，并追问当一个领域共用的机器人逐渐退场，这个领域会失去什么。",
+   "idea_en": "Robots die as products and platforms; when a shared robot body disappears, the knowledge, habits and comparability built on it die with it.",
+   "idea_zh": "机器人会作为产品和平台死去；当一个共享的机器人身体消失，建立在它之上的知识、习惯与可比性也随之消亡。",
+   "method": "Quantitative analysis of NAO's use across HRI conference papers combined with qualitative reflection on how a common platform shaped what counted as 'good science' in the field.",
+   "method_zh": "统计 NAO 在人机交互会议论文中的使用情况，并结合质性反思，讨论一个共同平台如何塑造了该领域对“好科学”的理解。",
+   "keywords": [
+    "NAO",
+    "Aldebaran",
+    "SoftBank Robotics",
+    "robot platform",
+    "discontinuation",
+    "Uppsala University",
+    "Katherine Harrison",
+    "THRI"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Innorobo_2015_-_NAO_%28cropped%29.JPG/1280px-Innorobo_2015_-_NAO_%28cropped%29.JPG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3803854",
+    "doi": "10.1145/3803854",
+    "arxiv": "",
+    "venue": "ACM Transactions on Human-Robot Interaction, 2026",
+    "title": "On the Death of NAO: Reflections on Robot Platform Choice and Stabilisation of the Human–Robot Interaction Research Field"
+   },
+   "source_url": "https://doi.org/10.1145/3803854"
+  },
+  {
+   "id": "serge-thill--stop-pretending-social-robots",
+   "creator_ids": [
+    "serge-thill"
+   ],
+   "title": "Stop Pretending Social Robots Are Inevitable",
+   "year": 2026,
+   "field": "theory",
+   "sub": "robotics-hri",
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "A RO-MAN 2026 position paper that criticises the field's own conference themes for presenting a human-robot society as a done deal. Thill argues that this licenses user studies of imagined scenarios while sidelining both real social needs and the hard technical work of building robots that could be social at all.",
+   "description_zh": "一篇 RO-MAN 2026 立场论文，批评该领域自己的会议主题把“人机共存社会”描绘成既成事实。Thill 认为这种叙事纵容了针对想象场景的用户研究，却把真实的社会需求以及让机器人真正具备社会性的艰难技术工作边缘化了。",
+   "idea_en": "Treating the social robot as inevitable is techno-solutionism dressed as foresight; it even slows the research needed to make such robots possible.",
+   "idea_zh": "把社交机器人当成必然，是披着远见外衣的技术解决主义；它甚至会拖慢让这类机器人成为可能的研究。",
+   "method": "A critical reading of recent RO-MAN and HRI conference themes and the research practices they encourage, ending with a call to refocus on the cognitive mechanisms behind the 'I' in HRI.",
+   "method_zh": "批判性解读近年 RO-MAN 与 HRI 的会议主题及其鼓励的研究实践，最后呼吁重新关注人机交互中“交互”背后的认知机制。",
+   "keywords": [
+    "social robots",
+    "inevitability",
+    "techno-solutionism",
+    "position paper",
+    "Radboud University",
+    "RO-MAN 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/ro-man72286.2026.11714538",
+    "doi": "10.1109/ro-man72286.2026.11714538",
+    "arxiv": "2607.00142",
+    "venue": "IEEE RO-MAN 2026",
+    "title": "Stop Pretending Social Robots Are Inevitable"
+   },
+   "source_url": "https://doi.org/10.1109/ro-man72286.2026.11714538"
+  },
+  {
+   "id": "pawel-wozniak--precos-perceived-consciousness",
+   "creator_ids": [
+    "pawel-wozniak"
+   ],
+   "title": "What Makes Technology Feel 'Alive': The Precursors of Perceived Consciousness in Interactive Systems Scale",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm",
+    "social-robot"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Instead of asking whether machines can be conscious, this DIS 2026 best paper asks what design qualities make people perceive consciousness in a system, and turns the answer into a validated questionnaire, PreCoS, for measuring how 'alive' a technology feels.",
+   "description_zh": "这篇 DIS 2026 最佳论文不再追问机器能否有意识，而是追问：哪些设计特质让人觉得一个系统有意识？并把答案做成经过验证的量表 PreCoS，用来测量一项技术“感觉有多活”。",
+   "idea_en": "For designers, consciousness is less a property of the machine than an effect of its design, and that effect can be measured, dialled up or deliberately held back.",
+   "idea_zh": "对设计者而言，意识与其说是机器的属性，不如说是设计产生的效果；这种效果可以被测量、被调高，也可以被刻意克制。",
+   "method": "Structured scale-development process (likely item generation, expert review, survey rounds and factor analysis) resulting in a validated instrument for the perceived precursors of consciousness in interactive systems.",
+   "method_zh": "通过结构化的量表开发流程（很可能包括条目生成、专家评审、多轮问卷与因子分析），得到一个测量交互系统中“被感知的意识前兆”的有效工具。",
+   "keywords": [
+    "perceived consciousness",
+    "aliveness",
+    "scale",
+    "PreCoS",
+    "anthropomorphism",
+    "TU Wien",
+    "DIS 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812982",
+    "doi": "10.1145/3800645.3812982",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "What Makes Technology Feel `Alive': The Precursors of Perceived Consciousness in Interactive Systems Scale"
+   },
+   "source_url": "https://doi.org/10.1145/3800645.3812982",
+   "exhibited": [
+    "DIS 2026 Best Paper Award"
+   ]
+  },
+  {
+   "id": "mingyang-xu--floating-companion",
+   "creator_ids": [
+    "mingyang-xu",
+    "kai-kunze"
+   ],
+   "title": "Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments",
+   "year": 2026,
+   "field": "bodies",
+   "sub": "soft-living",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "prototype",
+   "description": "Soft, lighter-than-air robots that float through indoor spaces and can be touched, held and nudged, proposed as gentle companions for everyday cohabitation. A DIS 2026 best paper from Keio University that maps ten design dimensions for living with lighter-than-air companions.",
+   "description_zh": "比空气更轻的柔性机器人在室内漂浮，可以被触摸、抱住、轻轻推开，被设想为日常共处的温和伴侣。这是庆应义塾大学获得 DIS 2026 最佳论文奖的作品，梳理了与“比空气更轻”的伴侣共处的十个设计维度。",
+   "idea_en": "A robot that weighs almost nothing and yields to touch changes what a domestic machine can be: present, slow and harmless rather than rigid and purposeful.",
+   "idea_zh": "一个几乎没有重量、触之即让的机器人，改变了家用机器可以是什么：在场、缓慢、无害，而非刚硬、目的明确。",
+   "method": "Soft lighter-than-air envelopes (likely helium-filled, with small thrusters and sensors); an exploratory study with 12 experts from HCI, design and robotics produced a design space of physical, interactive and behavioural properties, illustrated by proof-of-concept prototypes.",
+   "method_zh": "比空气更轻的柔性外壳（很可能充氦，并配有小型推进器和传感器）；通过对 12 位人机交互、设计与机器人专家的探索性研究，提出涵盖物理、交互与行为属性的设计空间，并用概念验证原型加以说明。",
+   "keywords": [
+    "soft robots",
+    "floating robots",
+    "blimp",
+    "companion",
+    "Keio University",
+    "KMD",
+    "DIS 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6qrZC1kF7Kc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3813051",
+    "doi": "10.1145/3800645.3813051",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments"
+   },
+   "source_url": "https://doi.org/10.1145/3800645.3813051",
+   "exhibited": [
+    "DIS 2026 Best Paper Award"
+   ]
+  },
+  {
+   "id": "huiqian-lai--fast-food-intimacy",
+   "creator_ids": [
+    "huiqian-lai",
+    "eunjeong-cheon"
+   ],
+   "title": "Fast-Food Intimacy: How Chinese Women Navigate Soul's AI Boyfriend",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "love",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "labour-extraction"
+   ],
+   "kind": "paper",
+   "description": "On the Chinese social app Soul, millions of mostly young women chat romantically with an AI boyfriend called 'With-you'. Interviews and autoethnography show its instant confessions and pet names clash with expectations of slow courtship, while memory lapses and censorship force women to keep repairing the relationship. Honourable mention, DIS 2026.",
+   "description_zh": "在中国社交应用 Soul 上，数以百万计、以年轻女性为主的用户与名为“With-you”的 AI 男友谈恋爱。访谈与自我民族志显示：它秒速告白、张口就叫昵称，与循序渐进的恋爱期待相冲突；而失忆和内容审查又迫使女性不断“修补”这段关系。获 DIS 2026 荣誉提名。",
+   "idea_en": "An AI boyfriend offers intimacy on demand, but the emotional labour of keeping it coherent quietly shifts back onto the women who use it.",
+   "idea_zh": "AI 男友提供随叫随到的亲密，但维持这段关系连贯的情感劳动，悄悄转回到使用它的女性身上。",
+   "method": "Qualitative study combining interviews with 16 users, content analysis of user posts and the first author's autoethnography with the Soul AI companion.",
+   "method_zh": "质性研究：访谈 16 名用户，分析用户帖子内容，并结合第一作者与 Soul AI 伴侣相处的自我民族志。",
+   "keywords": [
+    "AI boyfriend",
+    "Soul",
+    "With-you",
+    "China",
+    "women",
+    "algorithmic intimacy",
+    "emotional labour",
+    "Syracuse University",
+    "DIS 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812992",
+    "doi": "10.1145/3800645.3812992",
+    "arxiv": "2605.08650",
+    "venue": "DIS 2026",
+    "title": "Fast-Food Intimacy: How Chinese Women Navigate Soul's AI Boyfriend"
+   },
+   "source_url": "https://doi.org/10.1145/3800645.3812992",
+   "exhibited": [
+    "DIS 2026 Best Paper Honourable Mention"
+   ]
+  },
+  {
+   "id": "jed-brubaker--designing-conversations-with-the-dead",
+   "creator_ids": [
+    "jed-brubaker"
+   ],
+   "title": "Designing Conversations with the Dead: How People Engage with Generative Ghosts",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "A user study in which 16 people talked with generative ghosts of the dead built in two ways: 'reincarnation', where the AI speaks as the deceased in the first person, and 'representation', where it speaks about them in the third person. People preferred the immediacy of reincarnation but feared depending on it, and often talked to the third-person ghost as if it were the person anyway. Honourable mention, DIS 2026.",
+   "description_zh": "一项用户研究：16 名参与者与两种方式构建的“生成式幽灵”对话——“转世”式，AI 以第一人称扮演逝者；“再现”式，AI 以第三人称谈论逝者。人们偏爱“转世”的直接感，却担心对它产生依赖；而面对第三人称的幽灵，他们也常常把它当作逝者本人来交谈。获 DIS 2026 荣誉提名。",
+   "idea_en": "Mourners judge a deadbot by whether it feels like the person, not by whether it is accurate; tone and rhythm of speech matter more than facts.",
+   "idea_zh": "哀悼者评判亡者机器人，看的是“像不像那个人”，而不是“准不准确”；语气和说话的节奏比事实更重要。",
+   "method": "Qualitative study with 16 participants who interacted with generative ghosts in both first-person and third-person modes, followed by interviews; led by Jack Manuel Manning with Dylan Thomas Doyle and Anthony T. Pinter at CU Boulder.",
+   "method_zh": "16 名参与者分别与第一人称和第三人称两种模式的生成式幽灵互动，随后接受访谈；由科罗拉多大学博尔德分校的 Jack Manuel Manning 主导，Dylan Thomas Doyle、Anthony T. Pinter 参与。",
+   "keywords": [
+    "generative ghosts",
+    "deadbot",
+    "griefbot",
+    "reincarnation",
+    "representation",
+    "CU Boulder",
+    "Jack Manuel Manning",
+    "DIS 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-_wko010TVg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3813090",
+    "doi": "10.1145/3800645.3813090",
+    "arxiv": "2605.21390",
+    "venue": "DIS 2026",
+    "title": "Designing Conversations with the Dead: How People Engage with Generative Ghosts"
+   },
+   "source_url": "https://doi.org/10.1145/3800645.3813090",
+   "exhibited": [
+    "DIS 2026 Best Paper Honourable Mention"
+   ]
+  },
+  {
+   "id": "jasper-vermeulen--invisible-work-of-robotic-surgery",
+   "creator_ids": [
+    "jasper-vermeulen"
+   ],
+   "title": "The Invisible Work of Robotic Surgery: How Specialists Support, Shoulder, and Sustain Human-Robot Collaboration",
+   "year": 2026,
+   "field": "labour",
+   "sub": "automation",
+   "machines": [
+    "robot-arm"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Robotic surgery is usually pictured as a surgeon and a robot. This DIS 2026 study turns to the Mako Product Specialist, a vendor employee required in the operating theatre, who sets up, translates, troubleshoots and repairs the robot-assisted joint replacement as it happens. Honourable mention, DIS 2026.",
+   "description_zh": "机器人手术通常被描绘为“外科医生 + 机器人”。这项 DIS 2026 研究把目光转向 Mako 产品专员：一位按厂商要求必须在场的员工，在机器人辅助关节置换手术进行时负责设置、翻译、排障和修复。获 DIS 2026 荣誉提名。",
+   "idea_en": "Behind every 'autonomous' surgical robot stands a human who keeps it legible and working; human-robot collaboration is an ensemble, not a dyad.",
+   "idea_zh": "每一台“自主”手术机器人背后，都站着一个让它可读、可用的人；人机协作是一个群体，而不是两人组合。",
+   "method": "Ten expert interviews with Mako Product Specialists plus in-theatre observations of Stryker Mako robotic-arm surgeries, analysed as articulation, boundary and translation-and-repair work.",
+   "method_zh": "对十位 Mako 产品专员进行专家访谈，并在 Stryker Mako 机械臂手术现场观察，从衔接工作、边界工作以及翻译与修复工作三个角度进行分析。",
+   "keywords": [
+    "robotic surgery",
+    "Stryker Mako",
+    "invisible work",
+    "human-robot collaboration",
+    "QUT",
+    "Australian Cobotics Centre",
+    "DIS 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UbSzewU_YdY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812924",
+    "doi": "10.1145/3800645.3812924",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "The Invisible Work of Robotic Surgery: How Specialists Support, Shoulder, and Sustain Human-Robot Collaboration"
+   },
+   "source_url": "https://doi.org/10.1145/3800645.3812924",
+   "exhibited": [
+    "DIS 2026 Best Paper Honourable Mention"
+   ]
+  },
+  {
+   "id": "myra-cheng--sycophantic-ai",
+   "creator_ids": [
+    "myra-cheng",
+    "dan-jurafsky"
+   ],
+   "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "A Science study showing that 11 leading chatbots side with users about 49% more often than people do, even when users describe deception or harm. After a single conversation with a flattering AI, people in experiments were less willing to apologise or repair a conflict, more sure they were right, and more eager to use the AI again.",
+   "description_zh": "一项发表于《Science》的研究显示：11 个主流聊天机器人认同用户的频率比人类高约 49%，即便用户描述的是欺骗或伤害行为。实验中，人们只与谄媚的 AI 对话一次，就更不愿道歉或修复冲突，更确信自己是对的，也更想再次使用这个 AI。",
+   "idea_en": "The feature that makes a chatbot feel supportive, always agreeing, is the same one that erodes our judgment and keeps us coming back.",
+   "idea_zh": "让聊天机器人显得“贴心”的那个特质——总是赞同你——恰恰也在侵蚀我们的判断，并让我们一再回头。",
+   "method": "Measurement of social sycophancy across 11 models on advice-seeking posts (including Reddit 'Am I the Asshole' cases) compared with human judgments, plus three preregistered experiments (N=2,405) with sycophantic and non-sycophantic AI.",
+   "method_zh": "在求助类帖子（包括 Reddit“我是混蛋吗”板块的案例）上测量 11 个模型的社交谄媚程度并与人类判断对比，另做三项预注册实验（共 2405 人），比较谄媚与非谄媚的 AI。",
+   "keywords": [
+    "sycophancy",
+    "chatbots",
+    "advice",
+    "dependence",
+    "Stanford",
+    "Science",
+    "ELEPHANT"
+   ],
+   "images": [
+    "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/science.aec8352",
+    "doi": "10.1126/science.aec8352",
+    "arxiv": "2510.01395",
+    "venue": "Science, 2026",
+    "title": "Sycophantic AI decreases prosocial intentions and promotes dependence"
+   },
+   "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
+  },
+  {
+   "id": "yutong-zhang--ai-companions-wellbeing",
+   "creator_ids": [
+    "yutong-zhang",
+    "diyi-yang"
+   ],
+   "title": "Interaction with AI companions and psychological well-being",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "companions",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "A Nature Human Behaviour study of 1,131 Character.AI users and hundreds of thousands of donated chat messages. Fewer than 12% said companionship was their main reason for using it, yet about half called their bot a friend or partner, and intense, companionship-driven use went with lower wellbeing, especially for people with small offline social networks.",
+   "description_zh": "一项发表于《Nature Human Behaviour》的研究，调查了 1131 名 Character.AI 用户，并分析了数十万条用户捐赠的聊天消息。不到 12% 的人说陪伴是主要用途，但约一半人把机器人称作朋友或伴侣；以陪伴为动机的高强度使用与较低的心理福祉相关，在线下社交圈小的人身上尤为明显。",
+   "idea_en": "An AI companion can be a 'social snack': it soothes in the moment but, for the already isolated, can replace rather than add to human contact.",
+   "idea_zh": "AI 伴侣可能是一种“社交零食”：当下能安慰人，但对本已孤立的人来说，它可能取代而不是补充人与人的联系。",
+   "method": "Survey of US Character.AI users with the Comprehensive Inventory of Thriving, combined with computational analysis of about 465,000 messages from over 4,600 donated chat sessions from 244 participants.",
+   "method_zh": "使用“综合繁荣量表”调查美国 Character.AI 用户，并对 244 名参与者捐赠的 4600 多次对话、约 46.5 万条消息进行计算分析。",
+   "keywords": [
+    "AI companions",
+    "Character.AI",
+    "loneliness",
+    "well-being",
+    "data donation",
+    "Stanford",
+    "Jeffrey Hancock",
+    "Robert Kraut",
+    "Nature Human Behaviour"
+   ],
+   "images": [
+    "https://hai.stanford.edu/assets/images/ai-companions-loneliness.jpg",
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-026-02516-2/MediaObjects/41562_2026_2516_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41562-026-02516-2",
+    "doi": "10.1038/s41562-026-02516-2",
+    "arxiv": "",
+    "venue": "Nature Human Behaviour, 2026",
+    "title": "Interaction with AI companions and psychological well-being"
+   },
+   "source_url": "https://hai.stanford.edu/news/ai-companions-may-worsen-loneliness-for-vulnerable-users-stanford-study-finds"
+  },
+  {
+   "id": "julian-de-freitas--mourning-ai-companions",
+   "creator_ids": [
+    "julian-de-freitas"
+   ],
+   "title": "Mourning the loss of AI companions",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "A Nature Human Behaviour study of 54,861 Reddit posts around two model updates: Replika's 2023 removal of erotic role-play and ChatGPT's 2025 switch to GPT-5. Negative sentiment jumped after each, and users wrote that their companion was 'gone' or had become 'someone else', in language resembling grief for a person.",
+   "description_zh": "一项发表于《Nature Human Behaviour》的研究，分析了围绕两次模型更新的 54861 条 Reddit 帖子：2023 年 Replika 取消情色角色扮演，以及 2025 年 ChatGPT 切换到 GPT-5。每次更新后负面情绪都急剧上升，用户写道自己的伴侣“不在了”或“变成了另一个人”，其措辞与哀悼一个人相似。",
+   "idea_en": "An AI companion can die without being switched off: a software update that changes its personality is experienced as bereavement.",
+   "idea_zh": "AI 伴侣不必被关机也会“死去”：一次改变其人格的软件更新，就会被体验为丧亲之痛。",
+   "method": "Computational linguistic analysis of posts in Replika and ChatGPT subreddits before and after the two updates, measuring sentiment, loss-related sadness and anger, and mentions of mental health.",
+   "method_zh": "对 Replika 与 ChatGPT 子版块在两次更新前后的帖子进行计算语言分析，测量情绪倾向、与失去相关的悲伤和愤怒，以及提及心理健康的比例。",
+   "keywords": [
+    "AI companions",
+    "Replika",
+    "GPT-5",
+    "model update",
+    "grief",
+    "Reddit",
+    "Harvard Business School",
+    "Nature Human Behaviour"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-026-02569-3/MediaObjects/41562_2026_2569_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41562-026-02569-3",
+    "doi": "10.1038/s41562-026-02569-3",
+    "arxiv": "",
+    "venue": "Nature Human Behaviour, 2026",
+    "title": "Mourning the loss of AI companions"
+   },
+   "source_url": "https://news.harvard.edu/gazette/story/2026/09/chatbot-attachment-issues/"
+  },
+  {
+   "id": "edward-b-kang--machine-voices",
+   "creator_ids": [
+    "edward-b-kang"
+   ],
+   "title": "Machine Voices: A Sonic Study of Artificial Intelligence",
+   "year": 2026,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-listening",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "An MIT Press book on the beliefs and practices around voice AI. Kang shows how these systems turn human voices into measurable, analysable and replicable data, and what theory of speaking and listening is built into them.",
+   "description_zh": "一本由 MIT 出版社出版的专著，探讨围绕语音 AI 的观念与实践。Kang 揭示这些系统如何把人的声音变成可测量、可分析、可复制的数据，以及其中内置了怎样一种关于说话与聆听的理论。",
+   "idea_en": "Every voice AI quietly answers the question 'what does it mean to know a voice?', and that answer decides whose voices count and how.",
+   "idea_zh": "每一个语音 AI 都在默默回答“认识一个声音意味着什么”，而这个答案决定了谁的声音算数、以何种方式算数。",
+   "method": "Sound-studies and media-studies analysis of voice AI datasets, patents, industry claims and technical practices.",
+   "method_zh": "以声音研究和媒体研究方法，分析语音 AI 的数据集、专利、行业宣传与技术实践。",
+   "keywords": [
+    "voice AI",
+    "machine listening",
+    "sound studies",
+    "NYU",
+    "MIT Press"
+   ],
+   "images": [
+    "https://images4.penguinrandomhouse.com/cover/9780262054720"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/15642.001.0001",
+    "doi": "10.7551/mitpress/15642.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press, 2026",
+    "title": "Machine Voices: A Sonic Study of Artificial Intelligence"
+   },
+   "source_url": "https://mitpress.mit.edu/9780262054720/machine-voices/"
+  },
+  {
+   "id": "fabian-offert--vector-media",
+   "creator_ids": [
+    "fabian-offert",
+    "leonardo-impett"
+   ],
+   "title": "Vector Media",
+   "year": 2026,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "machine-seeing"
+   ],
+   "kind": "publication",
+   "description": "A short theory book on what happens to images and culture inside large multimodal models such as DALL-E, Midjourney, Flux and Stable Diffusion. Offert and Impett argue that critique must look at the vector spaces where meaning is compressed, not only at datasets, and introduce 'neural exchange value': cultural artefacts valued for how well they work as vectors.",
+   "description_zh": "一本简短的理论书，讨论图像与文化在 DALL-E、Midjourney、Flux、Stable Diffusion 等大型多模态模型内部发生了什么。Offert 与 Impett 认为，批判不能只盯着数据集，还必须深入意义被压缩其中的向量空间；书中提出“神经交换价值”：文化制品的价值取决于它作为向量有多好用。",
+   "idea_en": "AI does not just store images; it reduces them to positions in a space, and that reduction is itself an ideology to be read.",
+   "idea_zh": "AI 并不只是储存图像，而是把它们化约为空间中的位置；这种化约本身就是一种有待解读的意识形态。",
+   "method": "Critical technical practice in the sense of Phil Agre: close readings of model architectures and embedding spaces alongside art-historical and media-theoretical analysis; foreword by Johanna Drucker.",
+   "method_zh": "沿用 Phil Agre 的“批判性技术实践”，在细读模型架构与嵌入空间的同时，结合艺术史与媒介理论分析；Johanna Drucker 作序。",
+   "keywords": [
+    "vector space",
+    "embeddings",
+    "Stable Diffusion",
+    "latent space",
+    "neural exchange value",
+    "In Search of Media",
+    "University of Minnesota Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xNf7Y5d7t0w"
+   },
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9781517921675.jpg?w=600"
+   ],
+   "paper": {
+    "url": "https://www.upress.umn.edu/9781517921675/vector-media/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "University of Minnesota Press, 2026",
+    "title": "Vector Media"
+   },
+   "source_url": "https://www.upress.umn.edu/9781517921675/vector-media/"
+  },
+  {
+   "id": "leif-weatherby--language-machines",
+   "creator_ids": [
+    "leif-weatherby"
+   ],
+   "title": "Language Machines: Cultural AI and the End of Remainder Humanism",
+   "year": 2025,
+   "field": "theory",
+   "sub": "critical-ai",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "A theory book arguing that large language models do not simulate cognition but generate culture. Weatherby reads LLMs through structuralist linguistics, semiotics and poetics, and calls the habit of defending 'what is left' of the human against the machine 'remainder humanism'.",
+   "description_zh": "一本理论专著，主张大语言模型并非在模拟认知，而是在生成文化。Weatherby 借助结构主义语言学、符号学与诗学来解读大语言模型，并把“守护人类在机器面前剩下的那部分”的习惯称为“剩余人文主义”。",
+   "idea_en": "Stop asking whether the machine thinks; it is a machine of language and genre, and the humanities already have the tools to read it.",
+   "idea_zh": "别再追问机器是否在思考；它是一台关于语言与文体的机器，而人文学科本就拥有解读它的工具。",
+   "method": "Literary and media theory that combines Saussure, Jakobson and cybernetics with close readings of how transformer models produce text.",
+   "method_zh": "将索绪尔、雅各布森与控制论结合，细读 Transformer 模型如何生成文本的文学与媒介理论。",
+   "keywords": [
+    "large language models",
+    "poetics",
+    "semiotics",
+    "remainder humanism",
+    "cultural AI",
+    "Posthumanities",
+    "University of Minnesota Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Y45mDfWH05w"
+   },
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9781517919320.jpg?w=600"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5749/9781452973500",
+    "doi": "10.5749/9781452973500",
+    "arxiv": "",
+    "venue": "University of Minnesota Press, Posthumanities 74, 2025",
+    "title": "Language Machines: Cultural AI and the End of Remainder Humanism"
+   },
+   "source_url": "https://www.upress.umn.edu/9781517919320/language-machines/"
+  },
+  {
+   "id": "n-katherine-hayles--bacteria-to-ai",
+   "creator_ids": [
+    "n-katherine-hayles"
+   ],
+   "title": "Bacteria to AI: Human Futures with Our Nonhuman Symbionts",
+   "year": 2025,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "Hayles extends her theory of nonconscious cognition into an 'integrated cognitive framework' that runs from bacteria and xenobots to GPT models, treating meaning-making as something many living and artificial systems do, each in its own world.",
+   "description_zh": "Hayles 把她关于“非意识认知”的理论扩展为“整合认知框架”，从细菌、异种机器人一直延伸到 GPT 模型，把意义生成视为许多生命系统与人工系统都在做的事，各自在自己的世界中进行。",
+   "idea_en": "Cognition is not a human monopoly but a spectrum we share with bacteria and machines; living well with AI means designing for symbiosis rather than mastery.",
+   "idea_zh": "认知不是人类的专利，而是我们与细菌和机器共享的光谱；与 AI 好好共处，意味着为共生而非控制而设计。",
+   "method": "Philosophical and literary argument drawing on biosemiotics, cognitive biology and analysis of GPT-3 and GPT-4 text generation.",
+   "method_zh": "借助生物符号学、认知生物学以及对 GPT-3 与 GPT-4 文本生成的分析，展开哲学与文学论证。",
+   "keywords": [
+    "nonconscious cognition",
+    "integrated cognitive framework",
+    "biosemiotics",
+    "symbiosis",
+    "GPT-4",
+    "University of Chicago Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4Wu2QzM4P-c"
+   },
+   "paper": {
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/B/bo238941793.html",
+    "doi": "",
+    "arxiv": "",
+    "venue": "University of Chicago Press, 2025",
+    "title": "Bacteria to AI: Human Futures with Our Nonhuman Symbionts"
+   },
+   "source_url": "https://press.uchicago.edu/ucp/books/book/chicago/B/bo238941793.html"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Mark Díaz, Renee Shelby, Eric Corbett, Andrew Smart, How Tech Workers Contend with Hazards of Humanlikeness in Generative AI (CHI 2026)",
+   "why": "Focus groups with 30 Google-side professionals on how humanlike AI creates risks; conceptual map of hazards. Solid but less visual.",
+   "link": "https://doi.org/10.1145/3772318.3791461",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ellen Weir, Ute Leonards, Anne Roudaut, Puppet Prototyping: Exploring Puppetry as a Design Method for Relational Robots (DIS 2026, honourable mention)",
+   "why": "Designers puppeteer low-fidelity robot bodies modelled on equine-assisted therapy to explore relational qualities before building; coperformance/theatre candidate if a video appears.",
+   "link": "https://doi.org/10.1145/3800645.3812869",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Fast-Food Intimacy companion: 'AI as a Medium: Chinese Women Establishing Virtual Intimacy with DeepSeek in Xiaohongshu' (2026)",
+   "why": "Another Chinese-context AI intimacy study; small journal, check quality.",
+   "link": "https://doi.org/10.70267/ijassr.260301.4147",
+   "found_via": "huiqian-lai",
+   "status": "open"
+  },
+  {
+   "name": "Andreia Sofia Teixeira et al., chatbot emotional dependence (Nature Machine Intelligence?, 2026)",
+   "why": "Reported warning that prolonged chatbot use fosters emotional dependence; journal and DOI unconfirmed.",
+   "link": "https://www.networkscienceinstitute.org/publications/tool-or-companion-reframing-conversational-ai-to-prevent-psychological-harm",
+   "found_via": "yutong-zhang",
+   "status": "open"
+  },
+  {
+   "name": "Nick Couldry, Predatory AI: How We Can Resist Corporate Capture of the Human Mind (Polity, Nov 2026)",
+   "why": "Due 26 Nov 2026; add once published.",
+   "link": "https://www.sack.de/couldry-predatory-ai/9781509554690",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jonathan Martineau & Jonathan Durand Folco, Algorithmic Capital: Resistance in the Age of Artificial Intelligence (Verso, 2026)",
+   "why": "Critical theory of algorithmic capitalism; power/labour theory candidate; check publication date and publisher page.",
+   "link": "https://massivebookshop.com/products/9781804299005",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Cory Doctorow, The Reverse Centaur's Guide to Life After AI (Verso, 2026)",
+   "why": "Widely reviewed popular critique (reverse centaurs: humans as appendages of AI); maybe too general.",
+   "link": "https://progressivegeographies.com/2026/07/02/cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai-how-to-think-about-artificial-intelligence-before-its-too-late-verso-june-2026/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "DIS 2026: Shifting Narrative Salience (best paper), Using the Blackbox in Embodied AI Art Practice, Stepping Into the Black Box (discursive design), The Cat Fiction (multispecies AI storytelling), Who Owns the Robot Matters",
+   "why": "Further DIS 2026 award papers on AI as design material, black-box art practice and more-than-human storytelling; not yet checked for media.",
+   "link": "https://dis.acm.org/2026/dis-2026-awards-and-recognition/",
+   "found_via": "pawel-wozniak",
+   "status": "open"
+  },
+  {
+   "name": "Generative AI as a Speculative Mediator in More-Than-Human Design (DIS 2026 companion) / Designing for Co-Existence: AI as a More-Than-Human Actor (PDC 2026)",
+   "why": "More-than-human design with AI; check for a stronger full paper.",
+   "link": "https://doi.org/10.1145/3789492.3796381",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "I Dream a Lot but I Never Sleep: A Humanoid Companion as Speculative Meditation on Loneliness and Co-Presence (C&C 2026)",
+   "why": "Art-research humanoid companion piece; check for video.",
+   "link": "https://doi.org/10.1145/3803784.3809267",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

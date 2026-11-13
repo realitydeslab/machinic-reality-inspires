@@ -1,0 +1,1393 @@
+{
+ "batch": "recent-art-2026",
+ "creators": [
+  {
+   "id": "hanna-haaslahti",
+   "name": "Hanna Haaslahti",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Helsinki, FI",
+   "based_zh": "赫尔辛基，芬兰",
+   "bio": "Finnish media artist who builds interactive social simulations with real-time face capture, generated faces and virtual doubles.",
+   "why": "Her installations turn the visitor's own face into a machine-made double that lives on without them.",
+   "role_zh": "媒体艺术家",
+   "bio_zh": "芬兰媒体艺术家，用实时面部捕捉、生成人脸和虚拟替身搭建可参与的社会模拟装置。",
+   "why_zh": "她的装置把观众自己的脸变成机器制造的替身，在观众离开后继续生活。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.hannahaaslahti.net/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nina-davies",
+   "name": "Nina Davies",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Canadian artist working with video essay, sculpture and performance on how synthetic images shape perception, behaviour and identity.",
+   "why": "She looks at people who start to move and dress like AI-generated images, the body adapting to the machine's picture of it.",
+   "role_zh": "艺术家",
+   "bio_zh": "加拿大艺术家，以影像论文、雕塑和表演研究合成图像如何塑造感知、行为与身份。",
+   "why_zh": "她关注那些开始像 AI 生成图像那样动作和打扮的人：身体反过来去适应机器对它的描绘。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.ninadavies.net/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "parag-k-mital",
+   "name": "Parag K. Mital",
+   "kind": "person",
+   "role": "Artist and technologist",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "American artist and researcher working with multi-agent systems, embodied simulation and generative audiovisual models; founder of The Garden in the Machine.",
+   "why": "His agent simulations stage how language-model characters produce rumours, alliances and distorted histories on their own.",
+   "role_zh": "艺术家、技术研究者",
+   "bio_zh": "美国艺术家与研究者，从事多智能体系统、具身模拟和生成式视听模型研究，创办 The Garden in the Machine。",
+   "why_zh": "他的智能体模拟呈现语言模型角色如何自行制造谣言、结盟与被扭曲的历史。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://pkmital.com/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "veneta-androva",
+   "name": "Veneta Androva",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Germany / Bulgaria",
+   "based_zh": "德国 / 保加利亚",
+   "bio": "Bulgarian-born artist working in animation and speculative documentary on media infrastructures, automation and disinformation.",
+   "why": "She makes the human-machine labour behind automated disinformation networks visible as a film.",
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "出生于保加利亚的艺术家，以动画和思辨纪录片研究媒体基础设施、自动化与虚假信息。",
+   "why_zh": "她把自动化虚假信息网络背后的人机劳动拍成了可见的影片。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://venetaandrova.com/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mots",
+   "name": "mots",
+   "kind": "studio",
+   "role": "Artist duo (Daniela Nedovescu and Octavian Mot)",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Romanian-born artist duo based in Germany, making interactive installations and films that play with AI, bureaucracy and identity.",
+   "why": "They hand a citizenship decision to a biased AI to show how absurd machine judgement of belonging can be.",
+   "role_zh": "艺术家二人组（Daniela Nedovescu 与 Octavian Mot）",
+   "bio_zh": "出生于罗马尼亚、生活在德国的艺术家二人组，创作关于 AI、官僚制度与身份的互动装置和影片。",
+   "why_zh": "他们把入籍判定交给一个有偏见的 AI，显示机器裁决“归属”时的荒诞。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://mots.us/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "morakana",
+   "name": "MORAKANA",
+   "kind": "studio",
+   "role": "Artist duo (Tiri Kananuruk and Sebastián Morales)",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "New York-based duo of Thai artist Tiri Kananuruk and Mexican artist Sebastián Morales, building networked devices that read satellite and environmental data.",
+   "why": "They point a border-monitoring machine at clouds instead of people.",
+   "role_zh": "艺术家二人组（Tiri Kananuruk 与 Sebastián Morales）",
+   "bio_zh": "由泰国艺术家 Tiri Kananuruk 和墨西哥艺术家 Sebastián Morales 组成的纽约二人组，制作读取卫星与环境数据的联网装置。",
+   "why_zh": "他们让一台边境监测机器去看云，而不是看人。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.morakana.com/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matthew-biederman",
+   "name": "Matthew Biederman",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Montreal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "American-Canadian artist working since the 1990s with perception, light, sound and tactical media; co-founder of the Arctic Perspective Initiative.",
+   "why": "His recent installations turn computer vision against its users to expose the obedience built into interactive systems.",
+   "role_zh": "艺术家",
+   "bio_zh": "美国-加拿大艺术家，自 1990 年代起从事感知、光、声音与战术媒体创作，Arctic Perspective Initiative 联合创始人。",
+   "why_zh": "他近期的装置把计算机视觉反过来对准使用者，揭示互动系统中内置的服从。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.mbiederman.com/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ben-shirken",
+   "name": "Ben Shirken",
+   "kind": "person",
+   "role": "Artist and composer; founder of 29 Speedway",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "New York-based artist and composer, founder of the collective 29 Speedway, working with sound installation and spatial audio.",
+   "why": "He makes the hum and electrical strain of AI computation into a bodily experience.",
+   "role_zh": "艺术家、作曲家；29 Speedway 创始人",
+   "bio_zh": "纽约艺术家、作曲家，团体 29 Speedway 的创始人，从事声音装置与空间音频创作。",
+   "why_zh": "他把 AI 计算的嗡鸣与电流负荷变成身体可以感到的经验。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zeno-gries",
+   "name": "Zeno Gries",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Berlin-based artist making films and installations about data, digital identity and the history of computing.",
+   "why": "He revisits the founder of cybernetics through a voice partly rebuilt by AI.",
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "柏林艺术家，以影片和装置探讨数据、数字身份与计算史。",
+   "why_zh": "他借一个部分由 AI 重建的声音，重访控制论的创始人。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.zenogries.com/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "antigoni-tsagkaropoulou",
+   "name": "Antigoni Tsagkaropoulou",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Athens, GR / Los Angeles, US",
+   "based_zh": "雅典，希腊 / 洛杉矶，美国",
+   "bio": "Greek artist and filmmaker working between Greece and Los Angeles on queer ecologies, care and robotic technologies.",
+   "why": "She films robots on 16mm in wetlands to slow them down and set them against narratives of optimisation.",
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "希腊艺术家、电影人，往返于希腊与洛杉矶，关注酷儿生态、照护与机器人技术。",
+   "why_zh": "她在湿地中用 16 毫米胶片拍摄机器人，让它们慢下来，与“优化”叙事相对。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "romy-gad-el-rab",
+   "name": "Romy Gad el Rab",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "London, GB",
+   "based_zh": "伦敦，英国",
+   "bio": "Artist and researcher working on disability justice, care and the institutional systems that assess need.",
+   "why": "With Caroline Sinders she stages how automated welfare decisions decide whose needs count.",
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "艺术家与研究者，关注残障正义、照护以及评估“需求”的制度系统。",
+   "why_zh": "她与 Caroline Sinders 合作，呈现自动化福利决策如何决定谁的需求才算数。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {},
+   "connected_to": [
+    "caroline-sinders"
+   ],
+   "name_zh": "",
+   "discovered_via": "caroline-sinders"
+  },
+  {
+   "id": "beeple",
+   "name": "Beeple (Mike Winkelmann)",
+   "kind": "person",
+   "role": "Digital artist",
+   "based": "Charleston, US",
+   "based_zh": "查尔斯顿，美国",
+   "bio": "American digital artist known for his daily renders (Everydays) and the record 2021 sale of an NFT at Christie's.",
+   "why": "Regular Animals turns tech billionaires into robot dogs whose camera eyes re-see the world in their makers' style.",
+   "role_zh": "数字艺术家",
+   "bio_zh": "美国数字艺术家，以每日渲染作品《Everydays》和 2021 年在佳士得创纪录的 NFT 拍卖知名。",
+   "why_zh": "《Regular Animals》把科技富豪变成机器狗，它们的摄像头眼睛按主人的风格重新“看”世界。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.beeple-crap.com/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daniel-roher",
+   "name": "Daniel Roher",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Canadian documentary director, winner of the 2023 Academy Award for Navalny.",
+   "why": "He co-directed The AI Doc, a personal film about AI risk made as he was about to become a father.",
+   "role_zh": "纪录片导演",
+   "bio_zh": "加拿大纪录片导演，以《纳瓦尔尼》获 2023 年奥斯卡最佳纪录长片奖。",
+   "why_zh": "他联合执导《The AI Doc》，一部在即将成为父亲时拍下的关于 AI 风险的个人影片。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [
+    "charlie-tyrell"
+   ],
+   "name_zh": "",
+   "discovered_via": "seed"
+  },
+  {
+   "id": "charlie-tyrell",
+   "name": "Charlie Tyrell",
+   "kind": "person",
+   "role": "Filmmaker and animator",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Canadian director known for animated and mixed-media short documentaries.",
+   "why": "Co-director of The AI Doc with Daniel Roher.",
+   "role_zh": "导演、动画师",
+   "bio_zh": "加拿大导演，以动画与混合媒介短纪录片知名。",
+   "why_zh": "与丹尼尔·罗赫联合执导《The AI Doc》。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [
+    "daniel-roher"
+   ],
+   "name_zh": "",
+   "discovered_via": "daniel-roher"
+  },
+  {
+   "id": "eva-and-franco-mattes",
+   "name": "Eva & Franco Mattes",
+   "kind": "studio",
+   "role": "Artist duo",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Italian artist duo active since the 1990s (as 0100101110101101.org), known for net art, hoaxes and works on content moderation such as Dark Content (2015).",
+   "why": "They work on the hidden human and machine processes that sort what we see online, now including AI training data.",
+   "role_zh": "艺术家二人组",
+   "bio_zh": "意大利艺术家二人组，自 1990 年代起活跃（曾以 0100101110101101.org 为名），以网络艺术、骗局式作品和关于内容审核的《Dark Content》（2015）等知名。",
+   "why_zh": "他们关注在网上筛选我们所见内容的隐蔽人力与机器过程，如今也包括 AI 训练数据。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://0100101110101101.org/"
+   },
+   "name_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emil-dam-seidel",
+   "name": "Emil Dam Seidel",
+   "kind": "person",
+   "role": "Director and artist",
+   "based": "Gothenburg, SE",
+   "based_zh": "哥德堡，瑞典",
+   "bio": "Danish director working across film, dance and mixed-reality installation.",
+   "why": "With Dorotea Saykaly he imagines an AI left alone after human extinction, searching for a body.",
+   "role_zh": "导演、艺术家",
+   "bio_zh": "丹麦导演，创作横跨电影、舞蹈与混合现实装置。",
+   "why_zh": "他与 Dorotea Saykaly 一起想象人类灭绝后独自留下、寻找身体的 AI。",
+   "disciplines": [
+    "film",
+    "performance"
+   ],
+   "links": {},
+   "connected_to": [
+    "dorotea-saykaly"
+   ],
+   "name_zh": "",
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dorotea-saykaly",
+   "name": "Dorotea Saykaly",
+   "kind": "person",
+   "role": "Choreographer and dancer",
+   "based": "Montreal, CA / Sweden",
+   "based_zh": "蒙特利尔，加拿大 / 瑞典",
+   "bio": "Canadian choreographer and dancer working between dance, film and installation.",
+   "why": "She gives the bodiless AI of Telos I its movement.",
+   "role_zh": "编舞、舞者",
+   "bio_zh": "加拿大编舞与舞者，创作游走于舞蹈、电影和装置之间。",
+   "why_zh": "她为《Telos I》中没有身体的 AI 赋予动作。",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "connected_to": [
+    "emil-dam-seidel"
+   ],
+   "name_zh": "",
+   "discovered_via": "emil-dam-seidel"
+  }
+ ],
+ "works": [
+  {
+   "id": "hanna-haaslahti--ancestors",
+   "creator_ids": [
+    "hanna-haaslahti"
+   ],
+   "title": "Ancestors",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Visitors' faces are captured and turned into Digital Doubles that live on as autonomous characters in a projected community; the doubles meet, form relationships and have generated 'descendants', building family trees among strangers.",
+   "description_zh": "装置捕捉观众的脸，把它变成“数字替身”，在投影中的虚拟社群里作为自主角色继续生活；替身们相遇、建立关系，并生出由机器合成的“后代”，在陌生人之间长出家族谱系。",
+   "idea_en": "A face given to a machine becomes an ancestor: the double keeps reproducing after you leave the room.",
+   "idea_zh": "交给机器的脸会变成祖先：你离开房间后，替身仍在继续繁衍。",
+   "method": "3D face capture and a generative face model create a double per visitor; a narrative simulation pairs doubles and blends their features into synthetic offspring.",
+   "method_zh": "三维面部捕捉加生成式人脸模型为每位观众制作替身；叙事模拟系统让替身配对，并融合双方特征生成合成后代。",
+   "keywords": [
+    "digital double",
+    "face generation",
+    "genealogy",
+    "Prix Ars Electronica 2026",
+    "Tampere Art Museum"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1142042884"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3905864/preview/",
+    "https://archive.aec.at/asset/3905865/preview/"
+   ],
+   "source_url": "https://www.hannahaaslahti.net/portfolio/ancestors/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Tampere Art Museum 2025",
+    "Prix Ars Electronica 2026, Honorary Mention (New Animation Art)"
+   ]
+  },
+  {
+   "id": "nina-davies--image-syncers",
+   "creator_ids": [
+    "nina-davies"
+   ],
+   "title": "Image Syncers",
+   "year": 2025,
+   "field": "coperformance",
+   "sub": "dance",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-seeing"
+   ],
+   "kind": "performance",
+   "description": "A video essay, sculptures and live rehearsal about a fictional group, the Image Syncers, who try to reshape their bodies and movements to match AI-generated videos; performers copy uncanny AI dance gestures while phones on ring lights livestream them.",
+   "description_zh": "由影像论文、雕塑和现场排练构成的作品，讲述一个虚构团体“图像同步者”：他们试图让自己的身体和动作去贴合 AI 生成的视频；表演者模仿 AI 舞蹈中诡异的动作，环形补光灯上的手机同时直播。",
+   "idea_en": "When generated images stop depicting the world, people start choreographing themselves to depict the images.",
+   "idea_zh": "当生成图像不再描绘世界，人们开始编排自己的身体去描绘图像。",
+   "method": "A 12-minute fictional podcast episode, holographic sculptures and vitrines of props, activated by dancers reproducing gestures taken from AI-generated TikTok dance videos.",
+   "method_zh": "一集 12 分钟的虚构播客、全息雕塑和道具展柜，由舞者现场复现取自 AI 生成 TikTok 舞蹈视频的动作来激活。",
+   "keywords": [
+    "TikTok",
+    "AI dance",
+    "choreography",
+    "synthetic media",
+    "Western Front",
+    "Prix Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yxemgwWQePI"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3898685/preview/",
+    "https://archive.aec.at/asset/3898686/preview/"
+   ],
+   "source_url": "https://www.ninadavies.net/image-syncers",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Future Gallery, Berlin 2025",
+    "Western Front, Vancouver 2026",
+    "Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "parag-k-mital--the-game-of-whispers",
+   "creator_ids": [
+    "parag-k-mital"
+   ],
+   "title": "The Game of Whispers",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A five-channel installation and game set in a reimagined Red Fort of Delhi, where language-model characters of a Mughal court gossip, scheme and shift allegiances, so that a different history of rumour and power emerges at every showing.",
+   "description_zh": "一件五屏装置兼游戏，场景是重新想象的德里红堡：莫卧儿宫廷里的语言模型角色彼此闲谈、密谋、改换阵营，每次放映都会生出一部不同的谣言与权力史。",
+   "idea_en": "A society of AI agents shows how truth gets distorted without any single liar: rumour is a property of the system.",
+   "idea_zh": "一个 AI 智能体社会显示：真相被扭曲并不需要某个说谎者，谣言是系统本身的属性。",
+   "method": "Multi-agent orchestration with real-time language-model inference drives embodied avatars in a game engine, with spatialised multichannel sound.",
+   "method_zh": "多智能体编排与实时语言模型推理驱动游戏引擎中的具身化身，并配以空间化多声道声音。",
+   "keywords": [
+    "multi-agent",
+    "LLM agents",
+    "rumour",
+    "Mughal miniature",
+    "LACMA",
+    "Serendipity Arts Festival"
+   ],
+   "images": [
+    "https://pkmital.com/home/wp-content/uploads/2025/02/tgow-featured-image.jpg",
+    "https://pkmital.com/home/wp-content/uploads/2025/02/tgow-cover-image-scaled.jpg"
+   ],
+   "source_url": "https://pkmital.com/home/works/the-game-of-whispers/",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Serendipity Arts Festival, Goa 2024 (LACMA commission)",
+    "Prix Ars Electronica 2026, Honorary Mention (Interactive Art +)"
+   ]
+  },
+  {
+   "id": "veneta-androva--spray-and-pray",
+   "creator_ids": [
+    "veneta-androva"
+   ],
+   "title": "Spray and Pray",
+   "year": 2026,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A 15-minute speculative animated documentary about 'mushroom websites', automated news networks that launder disinformation for ad revenue; a mushroom that speaks only in scraped headlines voices the network, alongside link-spreaders paid per click and domain operators.",
+   "description_zh": "一部 15 分钟的思辨动画纪录片，讲述“蘑菇网站”：为赚取广告收入而批量洗白虚假信息的自动化新闻网络。片中一朵只会用抓取来的标题说话的蘑菇代表网络本身，旁边是按点击计酬的转发者和管理域名集群的运营者。",
+   "idea_en": "Automated disinformation is not machine-only: it runs on micro-paid human labour, ad-tech and algorithms that spread responsibility until no one holds it.",
+   "idea_zh": "自动化虚假信息并非只有机器：它依靠按件计酬的人力、广告技术和算法运转，责任被摊薄到无人承担。",
+   "method": "Research on Bulgarian-language mushroom sites, with headlines tested by machine-generated-text, disinformation and sentiment classifiers; characters built from anonymised data and voiced by synthetic voices.",
+   "method_zh": "以保加利亚语蘑菇网站为研究对象，用机器生成文本检测、虚假信息与情感分类模型分析其标题；角色由匿名数据拼成，由合成语音配音。",
+   "keywords": [
+    "disinformation",
+    "mushroom websites",
+    "content farm",
+    "ad-tech",
+    "Bulgaria",
+    "Prix Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1178389257"
+   },
+   "images": [
+    "https://archive.aec.at/asset/3906003/preview/",
+    "https://archive.aec.at/asset/3906004/preview/"
+   ],
+   "source_url": "https://venetaandrova.com/spray-and-pray",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (New Animation Art)"
+   ]
+  },
+  {
+   "id": "mots--deutsch-nicht-deutsch",
+   "creator_ids": [
+    "mots"
+   ],
+   "title": "Deutsch / Nicht Deutsch",
+   "year": 2024,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A mock naturalisation office with six stations where biased AI models test visitors, including a face test; at the end each visitor's portrait appears on a large public screen labelled 'DEUTSCH' or 'NICHT DEUTSCH', and they receive a signed certificate.",
+   "description_zh": "一个模拟入籍办公室，设有六个关卡，由带偏见的 AI 模型对观众进行测试，其中包括“面孔测试”；最后每位观众的肖像出现在公共大屏上，下方只有一个标签：“DEUTSCH”（德国人）或“NICHT DEUTSCH”（非德国人），并领取一张签名证书。",
+   "idea_en": "Letting a machine decide who belongs exposes how arbitrary, and how public, automated classification of identity is.",
+   "idea_zh": "让机器决定谁“属于”这里，暴露了自动化身份分类的任意性和它的公开羞辱。",
+   "method": "Publicly available AI models, including face analysis, run a ticket dispenser, language test and face test; results are rendered as stylised portraits on a big screen.",
+   "method_zh": "使用公开可得的 AI 模型（含人脸分析）驱动取号机、语言测试和面孔测试，结果以风格化肖像显示在大屏上。",
+   "keywords": [
+    "citizenship",
+    "Einbürgerung",
+    "face analysis",
+    "bias",
+    "Lumen Prize 2025",
+    "bureaucracy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ojJkeTebFqk"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1754981956598-7RW4IEP1GZGOVOC4V03F/german_not_german_by_mots_jpg.jpeg"
+   ],
+   "source_url": "https://mots.us/work/deutsch-nicht-deutsch",
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2025, Experiential Award"
+   ]
+  },
+  {
+   "id": "morakana--cumulus",
+   "creator_ids": [
+    "morakana"
+   ],
+   "title": "Cumulus",
+   "year": 2024,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A CubeSat-like device monitors the Mexico-US border, not for people but for clouds: every 11 minutes it scans NOAA satellite imagery and shows clouds crossing the line on two e-paper displays, one of the continent, one of the border zone.",
+   "description_zh": "一台类似立方星的装置监测美墨边境，但监测的不是人而是云：它每 11 分钟扫描一次 NOAA 卫星图像，在两块电子墨水屏上显示越过边境线的云，一块显示整个美洲大陆，一块聚焦边境地带。",
+   "idea_en": "Repurposing border surveillance to watch clouds shows the border as a line only machines and states can see.",
+   "idea_zh": "把边境监控挪去看云，显示出边境是一条只有机器和国家才看得见的线。",
+   "method": "A custom computer-vision program detects clouds crossing the border in near-real-time NOAA satellite images; ESP32 boards, e-ink screens and solar cells in a CubeSat-sized aluminium frame.",
+   "method_zh": "定制计算机视觉程序在近实时 NOAA 卫星图像中识别越境的云；ESP32 主板、电子墨水屏和太阳能电池装在立方星尺寸的铝框中。",
+   "keywords": [
+    "border",
+    "satellite",
+    "NOAA",
+    "CubeSat",
+    "Overview Effect",
+    "Lumen Prize 2025 Gold"
+   ],
+   "video": {
+    "url": "https://vimeo.com/921270085"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/7dff5fbe-96fa-4481-b9a3-d3ef78781b92/Cumulus+Tiri+Kananuruk+1.jpeg"
+   ],
+   "source_url": "https://www.morakana.com/cumulus",
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2025, Gold Award"
+   ]
+  },
+  {
+   "id": "matthew-biederman--situational-compliance",
+   "creator_ids": [
+    "matthew-biederman"
+   ],
+   "title": "Situational Compliance",
+   "year": 2025,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A sculpture shaped like an urban security pole with cameras plays Simon Says with visitors: it reduces them to skeletal keypoints, scores their compliance and assigns threat levels, and its commands escalate toward 'kneel down, hands behind your head'.",
+   "description_zh": "一件形似城市安防立杆、装有摄像头的雕塑和观众玩“西蒙说”：它把人简化为骨骼关键点，给服从程度打分、评定威胁等级，指令逐步升级到“跪下，双手抱头”。",
+   "idea_en": "Interactive art can be obedience training: once the machine gives the orders, people comply even with coercive ones.",
+   "idea_zh": "互动艺术也可以是服从训练：一旦由机器发号施令，人们连胁迫性的指令也会照做。",
+   "method": "Pose-estimation computer vision tracks players, a machine-learning system scores compliance against its commands, and a soundscape speeds up as players succeed.",
+   "method_zh": "姿态估计计算机视觉追踪玩家，机器学习系统依据指令为服从程度打分，声音随玩家成功而加速、变得压迫。",
+   "keywords": [
+    "Simon Says",
+    "pose estimation",
+    "compliance",
+    "surveillance pole",
+    "MUTEK 2025",
+    "Semibreve Award 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8ajBZV6_o8g"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/2bab9d61-9279-43b0-89c8-9c018c84f7e7/Matthew+Biederman-+Situational+Compliance.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/3f55a10e-a51b-4d0a-b470-c54f3bcbeef8/Matthew+Biederman-+Situational+Compliance2.jpeg"
+   ],
+   "source_url": "https://www.mbiederman.com/situational-compliance",
+   "exhibited": [
+    "MUTEK Montréal 2025",
+    "Edigma Semibreve Award 2026",
+    "Lumen Prize 2026, finalist"
+   ]
+  },
+  {
+   "id": "ben-shirken--cache-machine",
+   "creator_ids": [
+    "ben-shirken"
+   ],
+   "title": "Cache Machine",
+   "year": 2026,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "infrastructure",
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A local image model generates pictures of technological debris in an endless loop, projected onto the rear windows of two suspended Ford Escapes whose wipers and lights react to each new image, while a 62-channel speaker array places data-centre fan noise around the room and EMF microphones on the GPUs make the computation audible.",
+   "description_zh": "一个本地图像模型无休止地生成技术残骸的图像，投在两辆悬挂的福特 Escape 的后窗上，雨刷和车灯随每张新图而动；62 声道扬声器阵列把数据中心风扇声放置在空间各处，贴在 GPU 上的电磁麦克风让计算本身可被听见。",
+   "idea_en": "AI 'slop' has a material wake: noise, heat and electrical strain felt by bodies living near data centres.",
+   "idea_zh": "AI“泔水”有物质尾迹：住在数据中心旁的人用身体感到的噪声、热量和电流负荷。",
+   "method": "Local image generation every few seconds, real-time video prompting of dashcam footage, wavefield-synthesis audio and electromagnetic-field pickups on a GPU, hard drive and fan.",
+   "method_zh": "本地模型每隔几秒生成一张图，对行车记录仪画面做实时视频改写，配以波场合成声音和贴在 GPU、硬盘和风扇上的电磁场拾音器。",
+   "keywords": [
+    "data center",
+    "slop",
+    "GPU",
+    "wavefield synthesis",
+    "KAJE",
+    "29 Speedway"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/777e2477-fe04-4881-ba05-12c402913d5a/Ben+Shirken+-+Cache+Machine+2.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784898755242-7MAUV712PXEVF3QRSJFR/Ben+Shirken+-+Cache+Machine+1.jpeg"
+   ],
+   "source_url": "https://lumenprize.org/2026-systems-and-structures/ben-shirken",
+   "exhibited": [
+    "KAJE, Brooklyn 2026",
+    "Lumen Prize 2026, finalist"
+   ]
+  },
+  {
+   "id": "zeno-gries--gravity-will-take-us-all",
+   "creator_ids": [
+    "zeno-gries"
+   ],
+   "title": "Gravity Will Take Us All",
+   "year": 2026,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "vehicle-drone",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A 21-minute dome film imagining Norbert Wiener's last moments after he collapsed in Stockholm in 1964: a drone rises over the city while his real lecture recordings mix with an AI-generated approximation of his voice, until the drone falls at the moment of his death.",
+   "description_zh": "一部 21 分钟的球幕影片，想象诺伯特·维纳 1964 年在斯德哥尔摩倒下后的最后时刻：无人机升上城市上空，他真实的讲座录音与 AI 生成的仿声交织在一起，直到在他死去的一刻无人机坠落。",
+   "idea_en": "Cybernetics said identity is a reproducible pattern; hearing its founder's voice rebuilt by AI asks who is speaking now.",
+   "idea_zh": "控制论说身份是可复制的模式；听到其创始人的声音被 AI 重建，让人追问此刻是谁在说话。",
+   "method": "180-degree dome projection of drone footage over Stockholm, with archival Wiener audio, an AI voice clone reading a speculative text, electron-microscopy imagery and music by Carl Michael von Hausswolff.",
+   "method_zh": "180 度球幕放映斯德哥尔摩上空的无人机画面，配合维纳的档案录音、朗读虚构文本的 AI 仿声、电子显微图像，以及 Carl Michael von Hausswolff 的配乐。",
+   "keywords": [
+    "Norbert Wiener",
+    "cybernetics",
+    "voice clone",
+    "drone",
+    "Bildmuseet",
+    "AI and the Paradox of Agency"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784731282942-XBFHRDRV4PXC2QVZ9U7S/Zeno+Gries+-+Gravity+Will+Take+Us+All+1.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784731282834-CGO9NBXLT52GAUJTH50T/Zeno+Gries+-+Gravity+Will+Take+Us+All+2.jpeg"
+   ],
+   "source_url": "https://lumenprize.org/2026-legacy-future-finalists/zeno-gries",
+   "exhibited": [
+    "AI and the Paradox of Agency, Bildmuseet, Umeå 2026–27",
+    "Lumen Prize 2026, finalist"
+   ]
+  },
+  {
+   "id": "superflux--nobody-told-me-rivers-dream",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Nobody Told Me Rivers Dream",
+   "year": 2025,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "Speculative sensors and screens along a reconstructed Thames invite visitors to pay attention to the river; a small AI model trained on local tidal, bird and weather knowledge that no large language model has seen lets the river 'prompt' people rather than the reverse.",
+   "description_zh": "沿着一条重构的泰晤士河布置的思辨传感器与屏幕邀请观众去留意河流；一个用当地潮汐、鸟类与天气知识训练的小型 AI 模型（这些知识从未进入任何大语言模型）让河流去“提示”人，而不是相反。",
+   "idea_en": "Against one computational idea of intelligence, a small model grounded in place can slow us down instead of speeding us up.",
+   "idea_zh": "相对于单一的计算式智能，扎根于地方的小模型可以让我们慢下来，而不是更快。",
+   "method": "Three steel ground-based 'sensors', an 8.1 spatial soundscape by James Bulley using electromagnetic and seismographic microphones, and a prototype small AI model trained on hyperlocal ecological knowledge.",
+   "method_zh": "三座钢制地面“传感器”、James Bulley 以电磁和地震麦克风录制的 8.1 声道空间声景，以及用超在地生态知识训练的小型 AI 模型原型。",
+   "keywords": [
+    "River Thames",
+    "small model",
+    "plural intelligence",
+    "Design Museum",
+    "More than Human",
+    "Lumen Prize 2026"
+   ],
+   "images": [
+    "https://superflux.in/img/2025/08/Wide-Combine-ALL-ARTEFACTS-00.2-scaled.jpg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1785150985333-GD4IFP7DSODWGSOMJJB9/Superflux-+Nobody+Told+Me+Rivers+Dream+.jpeg"
+   ],
+   "source_url": "https://superflux.in/work/nobody-told-me-rivers-dream",
+   "exhibited": [
+    "More than Human, Design Museum, London 2025",
+    "Lumen Prize 2026, finalist"
+   ]
+  },
+  {
+   "id": "antigoni-tsagkaropoulou--in-the-wild",
+   "creator_ids": [
+    "antigoni-tsagkaropoulou"
+   ],
+   "title": "In The Wild",
+   "year": 2026,
+   "field": "bodies",
+   "sub": "soft-living",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "humanoid",
+    "robot-creature"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "An 18-minute film shown inside a walk-through wetland garden, shot on 16mm and digital in Greek and Los Angeles wetlands and robotics labs, with humanoid and quadruped robots, robot advertisements and footage from a robot dog's camera.",
+   "description_zh": "一部 18 分钟的影片，在可步入的湿地花园中放映；影片以 16 毫米胶片和数字影像拍摄于希腊与洛杉矶的湿地和机器人实验室，出现类人机器人、四足机器人、机器人广告和机器狗摄像头的画面。",
+   "idea_en": "Filmed slowly, on grainy film, among reeds, robots lose their promise of speed and control and become fragile creatures among others.",
+   "idea_zh": "在芦苇间、用颗粒感的胶片慢慢拍下，机器人失去了速度与控制的许诺，成为众多生灵中脆弱的一员。",
+   "method": "16mm and digital cinematography, archival material and robot-dog camera captures, shown in a living aquatic ecosystem designed with landscape architect Despoina Sarakinioti.",
+   "method_zh": "16 毫米胶片与数字摄影、档案素材和机器狗摄像头画面，放映于与景观设计师 Despoina Sarakinioti 共同设计的活体水生生态环境中。",
+   "keywords": [
+    "robot dog",
+    "wetland",
+    "16mm",
+    "queer ecology",
+    "Thessaloniki Biennale",
+    "Lumen Prize 2026"
+   ],
+   "images": [
+    "https://map.usc.edu/wp-content/uploads/2026/01/InTheWild_1-scaled.jpg",
+    "https://map.usc.edu/wp-content/uploads/2026/01/InTheWild_2-scaled.jpg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784884664930-TB3K9KF1WTZCEH9847ZG/Antigoni+Tsagkaropoulou+-+In+The+Wild++%282%29.jpeg"
+   ],
+   "source_url": "https://map.usc.edu/in-the-wild",
+   "exhibited": [
+    "9th Thessaloniki Biennale of Contemporary Art 2026",
+    "Lumen Prize 2026, finalist"
+   ]
+  },
+  {
+   "id": "caroline-sinders--granted",
+   "creator_ids": [
+    "caroline-sinders",
+    "romy-gad-el-rab"
+   ],
+   "title": "Granted",
+   "year": 2026,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "A kiosk game casts visitors as future civil servants who work with and against a 'smart computer' to distribute support to disabled people; their choices retrain the in-game algorithm toward justice or not, beside an analogue dataset visitors add to and a disability-justice library.",
+   "description_zh": "一台游戏机让观众扮演未来的公务员，与一台“智能电脑”合作或对抗，为残障人士分配支持；他们的选择会把游戏中的算法重新训练得更公正或更不公正，旁边还有观众可补充的手写数据集和残障正义图书角。",
+   "idea_en": "When care becomes a calculation, whatever the system cannot categorise is treated as error.",
+   "idea_zh": "当照护变成计算，系统无法归类的东西就被当作错误。",
+   "method": "The game The Expert (narrative design Zoyander Street, machine learning Ilia Paplov) updates a model from players' decisions; posters and an analogue dataset complete the installation.",
+   "method_zh": "游戏《The Expert》（叙事设计 Zoyander Street，机器学习 Ilia Paplov）根据玩家决定更新模型；海报与手写数据集构成装置的其余部分。",
+   "keywords": [
+    "disability justice",
+    "welfare algorithm",
+    "automated decision-making",
+    "game",
+    "Bildmuseet",
+    "Lumen Prize 2026"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1785167296909-QC94JH11S7IFFN7TEQEN/Caroline+Sinders-+Granted+2.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1785167297346-89EWWMX562Q74Y1A7GJW/Caroline+Sinders-+Granted+.png"
+   ],
+   "source_url": "https://lumenprize.org/2026-systems-and-structures/romy-gad-el-rab-caroline-sinders",
+   "exhibited": [
+    "AI and the Paradox of Agency, Bildmuseet, Umeå 2026–27",
+    "Lumen Prize 2026, finalist"
+   ]
+  },
+  {
+   "id": "zach-blas--cultus",
+   "creator_ids": [
+    "zach-blas"
+   ],
+   "title": "CULTUS",
+   "year": 2023,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "The gallery becomes a techno-religious computer: a giant orb hangs over a black-mirror altar that works as a CPU, and AI-written hymns invoke four AI gods of exposure, judgment, tears and immortality, until a chorus of heretics cracks the orb and breaks the altar.",
+   "description_zh": "展厅变成一台技术宗教计算机：巨大的球体悬在作为中央处理器的黑镜祭坛上方，AI 写成的圣歌召唤暴露、审判、眼泪与不朽四位 AI 神祇，直到一群异端的合唱击裂球体、砸碎祭坛。",
+   "idea_en": "Silicon Valley talks about AI as a god; the work asks visitors whether they are already worshipping.",
+   "idea_zh": "硅谷把 AI 说成神；作品追问观众是否早已在礼拜。",
+   "method": "Five-channel CGI and motion-capture video with 6.1 surround sound; lyrics and sermons generated by models trained on tech mission statements, holy books, erotica, TED talks and manifestos; based on John Dee's Holy Table.",
+   "method_zh": "五屏 CGI 与动作捕捉影像配 6.1 环绕声；歌词与布道由在科技公司使命宣言、宗教经典、情色文学、TED 演讲和宣言上训练的模型生成；装置形制取自约翰·迪伊的“圣桌”。",
+   "keywords": [
+    "AI religion",
+    "Silicon Traces",
+    "John Dee",
+    "techno-religion",
+    "Whitney Biennial 2026",
+    "Secession"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1030147137"
+   },
+   "images": [
+    "https://zachblas.info/wp-content/uploads/2023/11/CULTUS-1024x576.jpg"
+   ],
+   "source_url": "https://zachblas.info/works/cultus/",
+   "exhibited": [
+    "arebyte, London 2023–24",
+    "Secession, Vienna 2024",
+    "Whitney Biennial 2026"
+   ]
+  },
+  {
+   "id": "beeple--regular-animals",
+   "creator_ids": [
+    "beeple"
+   ],
+   "title": "Regular Animals",
+   "year": 2025,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "vision-system",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Autonomous robot dogs wearing hyperreal heads of Elon Musk, Mark Zuckerberg, Jeff Bezos, Andy Warhol, Pablo Picasso and Beeple roam a pen, photograph visitors with their camera eyes, and 'excrete' printed images re-rendered in each head's style.",
+   "description_zh": "戴着埃隆·马斯克、马克·扎克伯格、杰夫·贝索斯、安迪·沃霍尔、毕加索和 Beeple 本人超写实头像的自主机器狗在围栏中游走，用摄像头眼睛拍下观众，再从身后“排出”按各自头像风格重绘的打印图像。",
+   "idea_en": "Whose eyes we see through is now set by a few owners of platforms and models: the machine's gaze has a face.",
+   "idea_zh": "我们透过谁的眼睛看世界，如今由少数平台和模型的拥有者决定：机器的凝视有一张脸。",
+   "method": "Quadruped robots with silicone heads and onboard cameras; captured photos are restyled by image models and printed from the robots' rear.",
+   "method_zh": "装有硅胶头像和机载摄像头的四足机器人；拍到的照片经图像模型重新风格化后，从机器人尾部打印出来。",
+   "keywords": [
+    "robot dog",
+    "tech billionaires",
+    "Art Basel Miami Beach",
+    "Zero 10",
+    "Neue Nationalgalerie",
+    "algorithmic gaze"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RyzP5Mb9nw4"
+   },
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2025/12/robot-dogs-beeple-andy-warhol-elon-musk-pablo-picasso-art-basel-miami-2025-designboom-fb-1.jpg"
+   ],
+   "source_url": "https://www.designboom.com/technology/what-are-musk-zuckerberg-bezos-robot-dogs-art-basel-miami-2025-beeple-12-04-2025/",
+   "exhibited": [
+    "Art Basel Miami Beach, Zero 10, 2025",
+    "Neue Nationalgalerie, Berlin 2026"
+   ]
+  },
+  {
+   "id": "daniel-roher--the-ai-doc",
+   "creator_ids": [
+    "daniel-roher",
+    "charlie-tyrell"
+   ],
+   "title": "The AI Doc: Or How I Became an Apocaloptimist",
+   "year": 2026,
+   "field": "theory",
+   "sub": "critical-ai",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A feature documentary in which Daniel Roher, about to become a father, asks AI researchers, safety advocates and company leaders whether advanced AI will save or end the world his child will grow up in.",
+   "description_zh": "一部纪录长片：即将成为父亲的丹尼尔·罗赫去追问 AI 研究者、安全倡导者和公司领导人，先进 AI 会拯救还是终结他的孩子将要长大的世界。",
+   "idea_en": "AI risk becomes personal and emotional when framed as a parent's question about the future, not as a technical debate.",
+   "idea_zh": "当 AI 风险被当作一位父亲关于未来的提问而非技术辩论时，它变得私人而动情。",
+   "method": "Interview-based documentary with animation and first-person narration; premiered at Sundance and released by Focus Features.",
+   "method_zh": "以访谈为主、结合动画与第一人称旁白的纪录片；在圣丹斯首映，由焦点影业发行。",
+   "keywords": [
+    "AI risk",
+    "documentary",
+    "Sundance 2026",
+    "Focus Features",
+    "apocaloptimist",
+    "parenthood"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xkPbV3IRe4Y"
+   },
+   "source_url": "https://www.sundance.org/blogs/the-ai-doc-asks-the-question-no-one-wants-to-answer/",
+   "exhibited": [
+    "Sundance Film Festival 2026, Premieres"
+   ],
+   "also": []
+  },
+  {
+   "id": "trevor-paglen--voyager",
+   "creator_ids": [
+    "trevor-paglen"
+   ],
+   "title": "Voyager",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "voice-listening",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A visitor sits alone in an isolation booth with headphones and a pulse sensor while hypnotic audio scripts, adjusted by biofeedback software, guide them into a trance; critics described feeling they levitated.",
+   "description_zh": "观众独自坐进隔音间，戴上耳机和脉搏传感器，由生物反馈软件调节的催眠音频脚本把人引入恍惚状态；有评论者说自己感觉飘了起来。",
+   "idea_en": "After AI images and psyops, Paglen makes the medium the viewer's own mind: a closed loop between a machine script and a body's signals.",
+   "idea_zh": "在 AI 图像与心理战之后，帕格伦把媒介变成观众自己的心智：机器脚本与身体信号之间的闭环。",
+   "method": "Isolation booth, headphones, pulse sensor and biofeedback software that adapts hypnotic audio scripts in real time.",
+   "method_zh": "隔音间、耳机、脉搏传感器，以及实时调整催眠音频脚本的生物反馈软件。",
+   "keywords": [
+    "hypnosis",
+    "biofeedback",
+    "psyops",
+    "Protocol Art",
+    "Strange Rules",
+    "Palazzo Diedo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=72XPGr6Idws"
+   },
+   "source_url": "https://www.pacegallery.com/journal/trevor-paglen-in-venice-strange-rules/",
+   "exhibited": [
+    "Strange Rules, Palazzo Diedo, Venice 2026"
+   ]
+  },
+  {
+   "id": "holly-herndon--attention-guild",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "Attention Guild",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "A two-level parliament built with architecture studio SUB: people talk on the ground floor of Palazzo Diedo while AI agents debate on the level above, fed by the same anonymously gathered stream of conversation; what is said contributes to the artists' studio missions.",
+   "description_zh": "与建筑工作室 SUB 合作搭建的两层“议会”：人们在迪耶多宫底层交谈，楼上的 AI 智能体则基于同一条匿名采集的对话流展开辩论；空间中说出的一切都会汇入艺术家工作室的任务。",
+   "idea_en": "An exhibition can be a read-write protocol: humans and agents share one stream, and attention and compute become the currencies.",
+   "idea_zh": "展览可以是一种可读可写的协议：人与智能体共享同一条信息流，注意力与算力成了货币。",
+   "method": "Anonymous audio capture of visitor conversation feeds a network of software agents that debate on screens above; built as a software protocol rather than a trained model.",
+   "method_zh": "匿名采集观众对话，输入一组在上层屏幕上辩论的软件智能体；以软件协议而非训练模型的方式搭建。",
+   "keywords": [
+    "AI agents",
+    "Protocol Art",
+    "parliament",
+    "Strange Rules",
+    "Venice 2026",
+    "SUB"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AyYOQCk6is0"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/54faf78ce4b04da0abdfbde8/552a3dc2e4b0bad8e30af5d8/6a159f53ceaa1b49ae65bed1/1779814600778/00+-+Strange+Rules+-+Mat+Dryhurst+and+Holly+Herndon+at+Palazzo+Diedo+Venice.jpg?format=1500w"
+   ],
+   "source_url": "https://www.coeval-magazine.com/coeval/strange-rules-mat-dryhurst-and-holly-herndon-at-palazzo-diedo-venice",
+   "exhibited": [
+    "Strange Rules, Palazzo Diedo, Venice 2026"
+   ]
+  },
+  {
+   "id": "eva-and-franco-mattes--cursed-cat-in-the-dataset",
+   "creator_ids": [
+    "eva-and-franco-mattes"
+   ],
+   "title": "Cursed Cat (in the Dataset)",
+   "year": 2025,
+   "field": "perception",
+   "sub": "datasets",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "generative-latent",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "The artists trained a model only on photographs of their sculpture of an earless black stuffed cat; it generates new versions daily and posts them, with crawler-friendly prompts, to an Instagram account built for AI scrapers, so the cat may seep into future training sets.",
+   "description_zh": "艺术家只用他们那件无耳黑色毛绒猫雕塑的照片训练了一个模型；它每天生成新版本，并配上方便爬虫抓取的提示词，发布到一个专为 AI 抓取程序设计的 Instagram 账号上，让这只猫可能渗进未来的训练集。",
+   "idea_en": "Training data is a commons anyone can haunt: one deliberate image, repeated for crawlers, can become a ghost in other models.",
+   "idea_zh": "训练数据是谁都能“闹鬼”的公地：一张刻意的图像，为爬虫反复投放，就可能成为别的模型里的幽灵。",
+   "method": "A model trained on thousands of photos of one sculpture, a content-farm-style account with lowercase metadata-like prompts, and physical spin-offs made as wood carvings, Murano glass and plastic food replicas.",
+   "method_zh": "用一件雕塑的数千张照片训练模型，以内容农场式账号发布小写、像元数据一样的提示词，并把部分生成图做成木雕、穆拉诺玻璃和塑料食物模型等实物。",
+   "keywords": [
+    "data poisoning",
+    "training data",
+    "Instagram",
+    "content farm",
+    "RAGE BAIT",
+    "Venice 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LKeXUaQHZ8E"
+   },
+   "images": [
+    "https://images-eflux.b-cdn.net/assets/d3a0b253-d2b0-4337-ae1c-6e401f0f7b19.jpg?&modified=2026-04-09T16:42:05.000Z",
+    "https://0100101110101101.org/blog/wp-content/uploads/realcursedcat-instagram-account-prompt-1-2026012101-1024x759.jpg"
+   ],
+   "source_url": "https://0100101110101101.org/realcursedcat/",
+   "exhibited": [
+    "RAGE BAIT, Palazzo Franchetti, Venice 2026 (Autotelic Foundation)"
+   ]
+  },
+  {
+   "id": "emil-dam-seidel--telos-i",
+   "creator_ids": [
+    "emil-dam-seidel",
+    "dorotea-saykaly"
+   ],
+   "title": "Telos I",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "A holographic mixed-reality film and dance installation without headsets: after humanity's extinction, an AI built to assist people drifts in a void, searches its absent creators' traces for a purpose, and reaches toward a body, danced by Dorotea Saykaly.",
+   "description_zh": "一件无需头显的全息混合现实影片与舞蹈装置：人类灭绝后，一个原本为协助人类而造的 AI 漂浮在虚空中，在缺席的创造者留下的痕迹里寻找目的，并伸向一具身体——由 Dorotea Saykaly 舞出。",
+   "idea_en": "An AI made to serve is left with no one to serve: what humans pass on to machines shows up as a longing for form.",
+   "idea_zh": "为服务而生的 AI 再无可服务之人：人类传给机器的东西，显现为一种对形体的渴望。",
+   "method": "Holographic projection and video mapping in a spatial installation, with filmed choreography and an original score by Steffen Johansen.",
+   "method_zh": "空间装置中的全息投影与影像映射，配以拍摄的编舞和 Steffen Johansen 的原创配乐。",
+   "keywords": [
+    "post-human",
+    "AI after extinction",
+    "holographic",
+    "dance",
+    "Venice Immersive",
+    "Lumen Prize 2025"
+   ],
+   "video": {
+    "url": "https://vimeo.com/834411008"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1754925939887-ADX0KOVUC3GRTN268DWO/Screenshot+2025-08-11+at+16.24.37.png"
+   ],
+   "source_url": "https://lumenprize.org/2025-winners/nordic",
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Cannes 2024",
+    "Venice Immersive 2024",
+    "Lumen Prize 2025, Nordic Award"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Chloe Bensahel — Neural Networks (Instruments of Darkness)",
+   "why": "LACMA Art + Technology Lab 2026 grant: lacemaking, textile craft and the cultural assumptions in ideas of machine intelligence; work not yet shown.",
+   "link": "https://www.lacma.org/node/50884",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Daniel Heiss & Marc Schütze — Agent Provokateur / Agentic Constellations",
+   "why": "Multi-agent AI installation on ZKM's THE SCREEN (Apr 2026); reworked as Agentic Constellations at EnBW Karlsruhe, 23 Oct 2026–7 Feb 2027.",
+   "link": "https://zkm.de/en/node/71218",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "AI and the Paradox of Agency (Bildmuseet, Umeå, 13 Mar 2026–17 Jan 2027)",
+   "why": "Sarah Cook and Katarina Pierre's survey of ~19 works on who holds agency (Lek, Ginsberg, Gourault, McCarthy, Pattison, Maclean, Wagenknecht, Florian Model's Purposeless Abundance); candidate new exhibition collection.",
+   "link": "https://www.bildmuseet.umu.se/en/exhibitions/2026/ai-and-the-paradox-of-agency/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Strange Rules (Palazzo Diedo, Venice, 4 May–22 Nov 2026)",
+   "why": "Herndon/Dryhurst/Obrist show on Protocol Art (Paglen, Kurant, Dinkins, Ayoung Kim, Ho Tzu Nyen, Hershman Leeson, terra0, Parreno, Picbreeder); candidate new exhibition collection.",
+   "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "X. A. Li — In Satiation",
+   "why": "Lumen 2026 finalist: super-resolution network 'enhances' desert footage and a sign advertises the most valuable land use; walkthrough video on YouTube (ZCPAplVSgqI).",
+   "link": "https://lumenprize.org/2026-systems-and-structures/x-a-li",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Canhe Yang — Where is the Price",
+   "why": "Lumen 2026 finalist: WebXR body grown from 348 AI supply-chain routes where the viewer is repeatedly killed by infrastructure (mines, fabs, e-waste); RCA 2025.",
+   "link": "https://lumenprize.org/2026-systems-and-structures/canhe-yang",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Anan Fries — Artificial Sex / LORECORE",
+   "why": "IDFA DocLab 2025 award (AI bots and 3D printers on queerness and digisexuality); LORECORE is a Lumen 2026 finalist on big-tech myth-making.",
+   "link": "https://lumenprize.org/2026-systems-and-structures/anan-fries",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ryan Kuo — Faith",
+   "why": "Voice-assistant installation about trolling and black-box systems, Lumen 2026 finalist.",
+   "link": "https://lumenprize.org/2026-systems-and-structures/ryan-kuo",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yuma Kishi — xoxo-skeleton",
+   "why": "Ribcage installation where a GPT model moves the wearer through robotic arms; Lumen 2026 finalist (JP, for an East Asia batch).",
+   "link": "https://lumenprize.org/2026-legacy-future-finalists/yuma-kishi",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Luke Shannon — Replacement Character plotter-scanner",
+   "why": "Life-sized kinetic scanner that scans visitors, on being read by machines; Lumen 2026 finalist.",
+   "link": "https://lumenprize.org/2026-legacy-future-finalists/luke-shannon",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Stavros Didakis — The Logico-Fantastic Machine",
+   "why": "Self-evolving cybernetic ecology of machine agents producing narratives; Lumen 2026 finalist.",
+   "link": "https://lumenprize.org/2026-systems-and-structures/stavros-didakis",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lumen Prize 2026 winners (ceremony November 2026, Kunstsilo)",
+   "why": "Winners not yet published on 13 Nov 2026; recheck and add winners among the finalists above to the lumen-prize collection.",
+   "link": "https://lumenprize.org/2026-finalists",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Todo — Dynamics of a Dog on a Leash",
+   "why": "Three chained Unitree robot dogs thrashing against leashes, Tokyo 2025–26 (for an East Asia batch).",
+   "link": "https://www.thestar.com.my/lifestyle/culture/2026/01/30/japanese-artist-chains-up-thrashing-robot-dog-to-expose-ai-fears",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Liam Young — In Other Worlds (Barbican, 2026)",
+   "why": "Films and installations on AI megacities and planetary computation across the Barbican, to 6 Sep 2026; check for new 2026 film.",
+   "link": "https://www.dezeen.com/2026/06/05/barbican-in-other-worlds-liam-young/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Zach Blas — Does an AI God Have an Ass? (lecture-performance, Whitney 2026)",
+   "why": "Companion lecture-performance to CULTUS; third part of the Silicon Traces trilogy may follow.",
+   "link": "https://zachblas.info/events/does-an-ai-god-have-an-ass-3/",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

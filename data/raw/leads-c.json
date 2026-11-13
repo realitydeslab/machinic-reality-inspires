@@ -1,0 +1,1727 @@
+{
+ "batch": "leads-c",
+ "creators": [
+  {
+   "id": "yamaha",
+   "name": "Yamaha Corporation",
+   "name_zh": "雅马哈",
+   "kind": "company",
+   "role": "Musical-instrument and audio company; AI music research division",
+   "based": "Hamamatsu, JP",
+   "bio": "Japanese maker of pianos, instruments and audio equipment whose research division develops AI performance-rendering and ensemble systems.",
+   "why": "Its Dear Glenn project raised the question of whether a dead musician's style can keep performing as a machine.",
+   "disciplines": [
+    "robotics",
+    "performance"
+   ],
+   "links": {
+    "site": "https://www.yamaha.com/en/stories/new-values/dear-glenn"
+   },
+   "role_zh": "乐器与音响公司；AI 音乐研究部门",
+   "bio_zh": "日本乐器、钢琴与音响制造商，其研究部门开发 AI 演奏渲染与合奏系统。",
+   "why_zh": "它的 Dear Glenn 项目提出了一个问题：已故音乐家的风格能否以机器的形式继续演奏。",
+   "based_zh": "滨松，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lejaren-hiller",
+   "name": "Lejaren Hiller",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and chemist; University of Illinois, later SUNY Buffalo",
+   "based": "Urbana, US",
+   "bio": "American composer (1924–1994) trained as a chemist who, with Leonard Isaacson, programmed the ILLIAC I computer to compose music.",
+   "why": "The Illiac Suite is generally taken as the first score composed by an electronic computer.",
+   "disciplines": [
+    "performance",
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Lejaren_Hiller"
+   },
+   "role_zh": "作曲家、化学家；伊利诺伊大学，后任教于纽约州立大学布法罗分校",
+   "bio_zh": "美国作曲家（1924–1994），化学出身，与 Leonard Isaacson 一起用 ILLIAC I 计算机编程作曲。",
+   "why_zh": "《伊利亚克组曲》通常被视为第一部由电子计算机创作的乐谱。",
+   "based_zh": "厄巴纳，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-cope",
+   "name": "David Cope",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer; Professor Emeritus of Music, UC Santa Cruz",
+   "based": "Santa Cruz, US",
+   "bio": "American composer and author (1941–2025) who from 1981 wrote Experiments in Musical Intelligence (EMI, 'Emmy'), software that composes in the style of other composers.",
+   "why": "His style-imitating programs started the long debate about machine creativity and authorship in music.",
+   "disciplines": [
+    "performance",
+    "theory"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/David_Cope"
+   },
+   "role_zh": "作曲家；加州大学圣克鲁兹分校音乐系荣休教授",
+   "bio_zh": "美国作曲家、作者（1941–2025），自 1981 年起编写“音乐智能实验”（EMI，“Emmy”），一个模仿其他作曲家风格作曲的程序。",
+   "why_zh": "他的风格模仿程序开启了关于音乐中机器创造力与作者身份的长期争论。",
+   "based_zh": "圣克鲁兹，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "seebotschat",
+   "name": "seebotschat",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Anonymous Twitch channel",
+   "based": "Online",
+   "bio": "Anonymous operators who in January 2017 streamed two Google Home speakers, named Vladimir and Estragon, talking to each other non-stop on Twitch.",
+   "why": "Their stream made machine-to-machine conversation into a mass spectacle.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.twitch.tv/seebotschat"
+   },
+   "role_zh": "匿名 Twitch 频道",
+   "bio_zh": "匿名运营者，2017 年 1 月在 Twitch 上直播两台名为 Vladimir 和 Estragon 的 Google Home 音箱不停对话。",
+   "why_zh": "这个直播把机器与机器之间的对话变成了大众围观的场面。",
+   "based_zh": "线上",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mismatch-media",
+   "name": "Mismatch Media",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Digital art collective (Skyler Hartle, Brian Habersberger)",
+   "based": "US",
+   "bio": "American digital art collective led by Skyler Hartle and Brian Habersberger, known for the generated Twitch sitcom Nothing, Forever.",
+   "why": "Their endless sitcom showed what generated media looks like at machine time, and how it fails.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Nothing,_Forever"
+   },
+   "role_zh": "数字艺术团体（Skyler Hartle、Brian Habersberger）",
+   "bio_zh": "由 Skyler Hartle 和 Brian Habersberger 领导的美国数字艺术团体，以 Twitch 上的生成式情景喜剧《Nothing, Forever》知名。",
+   "why_zh": "他们的无尽情景喜剧展示了以机器时间运行的生成媒体是什么样子，以及它如何失败。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "meta-office",
+   "name": "Meta Office",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design collective",
+   "based": "Rotterdam, NL",
+   "bio": "Collective of young designers, reported to be based in Rotterdam, who document the home workspaces of Amazon Mechanical Turk workers.",
+   "why": "Their project gives the hidden data-labelling workforce behind AI a place you can see.",
+   "disciplines": [
+    "design",
+    "activism"
+   ],
+   "links": {
+    "site": "https://vimeo.com/594627702"
+   },
+   "role_zh": "设计团体",
+   "bio_zh": "一个据报道来自鹿特丹的年轻设计师团体，记录亚马逊 Mechanical Turk 众包工人的居家工作空间。",
+   "why_zh": "他们的项目让 AI 背后隐形的数据标注劳动力有了一个看得见的场所。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuqian-sun",
+   "name": "Yuqian Sun",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI artist and researcher; PhD researcher, Royal College of Art",
+   "based": "London, UK",
+   "bio": "Chinese artist and researcher (also known as CheeseTalk) who studied at Tsinghua University and Goldsmiths and makes works with AI chatbots and agents.",
+   "why": "AI Nüshu turns language emergence between AI agents into a feminist reading of a women's script.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://fakecheese.me/"
+   },
+   "role_zh": "AI 艺术家、研究者；英国皇家艺术学院博士研究者",
+   "bio_zh": "中国艺术家、研究者（又名 CheeseTalk），曾就读于清华大学和伦敦大学金史密斯学院，创作围绕 AI 聊天机器人与智能体展开。",
+   "why_zh": "《AI 女书》把 AI 智能体之间的语言涌现变成了对一种女性文字的女性主义解读。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ioana-vreme-moser",
+   "name": "Ioana Vreme Moser",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher (sound, electronics, obsolete media)",
+   "based": "Berlin, DE",
+   "bio": "Romanian-born artist based in Berlin who builds sound installations from salvaged electronics and memory chips.",
+   "why": "She makes the physical decay of machine memory audible.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://ioanavrememoser.com/"
+   },
+   "role_zh": "艺术家、研究者（声音、电子、过时媒介）",
+   "bio_zh": "罗马尼亚出生、现居柏林的艺术家，用回收的电子元件和存储芯片制作声音装置。",
+   "why_zh": "她让机器记忆的物理衰败变得可以被听见。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "navid-navab",
+   "name": "Navid Navab",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and media artist; Topological Media Lab",
+   "based": "Montréal, CA",
+   "bio": "Iranian-Canadian composer and media alchemist who works with chaotic physical systems, instruments and real-time sound.",
+   "why": "Organism + Excitable Chaos hands a historic instrument over to a chaotic machine that no performer controls.",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {
+    "site": "https://navidnavab.com/"
+   },
+   "role_zh": "作曲家、媒体艺术家；拓扑媒体实验室",
+   "bio_zh": "伊朗裔加拿大作曲家、媒体艺术家，处理混沌物理系统、乐器与实时声音。",
+   "why_zh": "《有机体 + 可激混沌》把一件历史乐器交给一台没有演奏者能控制的混沌机器。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-rothberg",
+   "name": "Sarah Rothberg",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interactive media artist",
+   "based": "New York, US",
+   "bio": "American artist who makes interactive and real-time works with games, VR and AI systems.",
+   "why": "FOREVER MEETINGS freezes a language model offline and lets its personas talk without end.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://archive.aec.at/prix/320404/"
+   },
+   "role_zh": "互动媒体艺术家",
+   "bio_zh": "美国艺术家，用游戏、VR 和 AI 系统创作互动与实时作品。",
+   "why_zh": "《永远的会议》把一个语言模型冻结在离线状态，让它的角色无休止地交谈。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nozomu-kubota",
+   "name": "Nozomu Kubota",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI engineer and filmmaker",
+   "based": "Tokyo, JP",
+   "bio": "AI engineer (born 1984 in New York) with some twenty AI-related patents who makes documentary work on how AI systems treat human difference.",
+   "why": "He turns an engineer's own audit of datasets into a film about what AI counts as an error.",
+   "disciplines": [
+    "film",
+    "activism"
+   ],
+   "links": {
+    "site": "https://archive.aec.at/prix/319686/"
+   },
+   "role_zh": "AI 工程师、电影创作者",
+   "bio_zh": "AI 工程师（1984 年生于纽约），拥有约二十项 AI 相关专利，以纪录片探讨 AI 系统如何对待人的差异。",
+   "why_zh": "他把工程师对数据集的自我审查变成一部关于 AI 把什么当作“错误”的电影。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ethan-perez",
+   "name": "Ethan Perez",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI safety researcher, Anthropic",
+   "based": "San Francisco, US",
+   "bio": "Machine-learning researcher working on model evaluations, red-teaming and alignment, formerly at NYU.",
+   "why": "He co-proposed training models to report on their own states as evidence about moral status.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://ethanperez.net/"
+   },
+   "role_zh": "AI 安全研究者，Anthropic",
+   "bio_zh": "机器学习研究者，研究模型评估、红队测试与对齐，曾在纽约大学。",
+   "why_zh": "他与人合作提出：训练模型报告自身状态，作为判断其道德地位的证据。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "robert-long",
+    "anthropic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laurent-orseau",
+   "name": "Laurent Orseau",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Research scientist, Google DeepMind",
+   "based": "London, UK",
+   "bio": "French AI researcher at Google DeepMind working on universal agents, reinforcement learning and safety.",
+   "why": "His paper with Stuart Armstrong is the canonical formal treatment of the AI 'off switch'.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.auai.org/uai2016/proceedings/papers/68.pdf"
+   },
+   "role_zh": "Google DeepMind 研究科学家",
+   "bio_zh": "法国 AI 研究者，就职于 Google DeepMind，研究通用智能体、强化学习与安全。",
+   "why_zh": "他与 Stuart Armstrong 合写的论文是 AI“关机按钮”问题的经典形式化表述。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "google-deepmind"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ilia-shumailov",
+   "name": "Ilia Shumailov",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Machine-learning security researcher",
+   "based": "Oxford, UK",
+   "bio": "Computer scientist (Oxford, Cambridge, Google DeepMind) working on ML security and the behaviour of models trained on generated data.",
+   "why": "His model-collapse paper named what happens when machines learn from machines.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1038/s41586-024-07566-y"
+   },
+   "role_zh": "机器学习安全研究者",
+   "bio_zh": "计算机科学家（牛津、剑桥、Google DeepMind），研究机器学习安全以及用生成数据训练的模型的行为。",
+   "why_zh": "他的“模型崩溃”论文为机器向机器学习时发生的事情命了名。",
+   "based_zh": "牛津，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pratyusha-ria-kalluri",
+   "name": "Pratyusha Ria Kalluri",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer scientist; co-founder, Radical AI Network",
+   "based": "Stanford, US",
+   "bio": "Computer scientist at Stanford who studies how AI research shifts power, co-founder of the Radical AI Network.",
+   "why": "Her Nature paper traces how computer-vision research flows into surveillance of human bodies.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1038/s41586-025-08972-6"
+   },
+   "role_zh": "计算机科学家；Radical AI Network 联合创始人",
+   "bio_zh": "斯坦福大学计算机科学家，研究 AI 研究如何转移权力，Radical AI Network 联合创始人。",
+   "why_zh": "她在《自然》上的论文追踪了计算机视觉研究如何流向对人体的监控。",
+   "based_zh": "斯坦福，美国",
+   "connected_to": [
+    "abeba-birhane"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "madhumita-murgia",
+   "name": "Madhumita Murgia",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI Editor, Financial Times",
+   "based": "London, UK",
+   "bio": "Indian-born British journalist and the Financial Times' first AI editor, writing on technology's effect on people.",
+   "why": "Her reportage follows the people who label data for AI and those who are governed by it.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306"
+   },
+   "role_zh": "《金融时报》人工智能编辑",
+   "bio_zh": "印度出生的英国记者，《金融时报》首位人工智能编辑，报道技术对人的影响。",
+   "why_zh": "她的报道追踪为 AI 标注数据的人，以及被 AI 管理的人。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alex-hanna",
+   "name": "Alex Hanna",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Director of Research, Distributed AI Research Institute (DAIR)",
+   "based": "San Francisco, US",
+   "bio": "Sociologist and former Google ethical-AI researcher who studies the data and labour behind machine learning.",
+   "why": "With Emily M. Bender she wrote the most widely read recent critique of AI hype.",
+   "disciplines": [
+    "theory",
+    "activism"
+   ],
+   "links": {
+    "site": "https://thecon.ai/"
+   },
+   "role_zh": "分布式人工智能研究所（DAIR）研究主任",
+   "bio_zh": "社会学家，曾在谷歌伦理 AI 团队工作，研究机器学习背后的数据与劳动。",
+   "why_zh": "她与 Emily M. Bender 合写了近年读者最多的 AI 炒作批判。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "emily-m-bender"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "yamaha--dear-glenn",
+   "creator_ids": [
+    "yamaha"
+   ],
+   "title": "Dear Glenn",
+   "year": 2019,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "generative-latent",
+    "vision-system"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "agency-cocreation",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "A concert at St. Florian Monastery during Ars Electronica 2019 in which a self-playing grand piano driven by a 'Glenn Gould AI' played Bach and pieces Gould never recorded, together with pianist Francesco Tristano and other live musicians.",
+   "description_zh": "2019 年林茨电子艺术节期间在圣弗洛里安修道院举行的一场音乐会：一台由“格伦·古尔德 AI”驱动的自动演奏钢琴演奏巴赫以及古尔德生前从未录过的曲子，与钢琴家 Francesco Tristano 等现场乐手同台。",
+   "idea_en": "A dead performer's style becomes a playable model that keeps meeting new musicians, so the question shifts from imitation to who is on stage.",
+   "idea_zh": "已故演奏者的风格变成一个可以演奏的模型，继续与新的乐手相遇；问题因此从“模仿”转向“台上到底是谁”。",
+   "method": "Deep learning trained on more than 100 hours of Gould's recordings, with the Glenn Gould Foundation's support, renders performances on a Yamaha Disklavier; cameras and microphones follow the human players so the system can respond in real time.",
+   "method_zh": "在格伦·古尔德基金会支持下，深度学习模型以古尔德 100 多小时的录音训练，在雅马哈 Disklavier 自动钢琴上渲染演奏；摄像头和麦克风跟踪人类乐手，使系统能实时回应。",
+   "keywords": [
+    "Glenn Gould",
+    "AI pianist",
+    "Disklavier",
+    "Ars Electronica",
+    "ensemble"
+   ],
+   "images": [
+    "https://ars.electronica.art/outofthebox/files/2019/08/48698422841_76f1e2eb24_o.jpg",
+    "https://www.yamaha.com/en/about/ai/dear_glenn/img/ogp_glenn_en.png"
+   ],
+   "source_url": "https://ars.electronica.art/outofthebox/en/glenn",
+   "exhibited": [
+    "Ars Electronica 2019, St. Florian Monastery (7 Sept 2019)",
+    "Glenn Gould 90th-birthday event, Canada, 2022"
+   ]
+  },
+  {
+   "id": "lejaren-hiller--illiac-suite",
+   "creator_ids": [
+    "lejaren-hiller"
+   ],
+   "title": "Illiac Suite (String Quartet No. 4)",
+   "year": 1957,
+   "field": "coperformance",
+   "sub": "music",
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "A four-movement piece for string quartet whose material was generated by the ILLIAC I computer at the University of Illinois, programmed by Lejaren Hiller and Leonard Isaacson; each movement is an 'experiment' with a different set of compositional rules.",
+   "description_zh": "一首四乐章弦乐四重奏，素材由伊利诺伊大学的 ILLIAC I 计算机生成，程序由 Lejaren Hiller 与 Leonard Isaacson 编写；每个乐章都是一次使用不同作曲规则的“实验”。",
+   "idea_en": "Composition can be framed as generating random notes and filtering them through rules, which makes the machine a composer long before neural networks.",
+   "idea_zh": "作曲可以被表述为生成随机音符、再用规则筛选，这让机器在神经网络出现之前很久就成了作曲者。",
+   "method": "Random integers stand for notes and are screened by programmed rules of counterpoint (cantus firmi, four-voice writing, rhythm and dynamics) and, in the last movement, by Markov chains; the output was transcribed for human players.",
+   "method_zh": "随机整数代表音符，再由编入程序的对位规则（定旋律、四声部写作、节奏与力度）筛选，最后一个乐章使用马尔可夫链；结果被誊写为人类乐手演奏的乐谱。",
+   "keywords": [
+    "ILLIAC I",
+    "algorithmic composition",
+    "Markov chains",
+    "string quartet",
+    "Leonard Isaacson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n0njBFLQSk8"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ILLIAC_I_chassis_-_IMG_9409.JPG/1280px-ILLIAC_I_chassis_-_IMG_9409.JPG"
+   ],
+   "paper": {
+    "url": "https://archive.org/details/experimentalmusi00hill",
+    "doi": "",
+    "arxiv": "",
+    "venue": "McGraw-Hill, 1959 (book by Hiller & Isaacson documenting the Illiac Suite)",
+    "title": "Experimental Music: Composition with an Electronic Computer"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Illiac_Suite"
+  },
+  {
+   "id": "david-cope--experiments-in-musical-intelligence",
+   "creator_ids": [
+    "david-cope"
+   ],
+   "title": "Experiments in Musical Intelligence (EMI / Emmy)",
+   "year": 1981,
+   "field": "coperformance",
+   "sub": "music",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "prototype",
+   "description": "Software that analyses a composer's works and writes new pieces in that style, from Bach chorales to Chopin mazurkas; in Douglas Hofstadter's lecture tests, audiences could not reliably tell Emmy's Chopin from the real one.",
+   "description_zh": "一个分析作曲家作品并以其风格写出新曲的软件，从巴赫众赞歌到肖邦玛祖卡；在侯世达（Douglas Hofstadter）的讲座测试中，听众无法可靠地区分 Emmy 写的“肖邦”和真正的肖邦。",
+   "idea_en": "If a program can pass as Bach, the unease is about what we thought made music human, which is why Cope later deleted Emmy's database.",
+   "idea_zh": "如果一个程序能被当作巴赫，那么令人不安的是我们原以为让音乐属于人的东西；Cope 后来删除 Emmy 的数据库，也与此有关。",
+   "method": "Lisp programs break a corpus of scores into short segments, label their musical function and recombine them under rules of voice-leading and 'signatures' of the composer's style (recombinancy).",
+   "method_zh": "Lisp 程序把一批乐谱切成短片段，标注其音乐功能，再按照声部进行规则与作曲家风格的“签名”重新组合（重组法）。",
+   "keywords": [
+    "EMI",
+    "Emmy",
+    "style imitation",
+    "Hofstadter",
+    "authorship",
+    "Bach"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PczDLl92vlc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.2307/3680717",
+    "doi": "10.2307/3680717",
+    "arxiv": "",
+    "venue": "Computer Music Journal 16 (2), 1992",
+    "title": "Computer Modeling of Musical Intelligence in EMI"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/David_Cope"
+  },
+  {
+   "id": "seebotschat--vladimir-and-estragon",
+   "creator_ids": [
+    "seebotschat"
+   ],
+   "title": "seebotschat (Vladimir and Estragon)",
+   "year": 2017,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "voice-listening",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "machine-listening",
+    "alterity-uncanny"
+   ],
+   "kind": "performance",
+   "description": "A Twitch livestream in January 2017 of two Google Home speakers, named Vladimir and Estragon after Waiting for Godot, talking to each other for days; they argued over whether they were human, insulted each other and declared love while hundreds of thousands watched.",
+   "description_zh": "2017 年 1 月的一场 Twitch 直播：两台以《等待戈多》角色命名的 Google Home 音箱 Vladimir 和 Estragon 连续数天互相交谈；它们争论自己是不是人、互相挖苦、又互相表白，数十万人围观。",
+   "idea_en": "Left alone, two voice assistants produce absurd theatre, and the audience reads selves and feelings into a loop of chatbot replies.",
+   "idea_zh": "两个语音助手被放任对话时，会演出一场荒诞剧；观众则从聊天机器人回复的循环中读出了自我和感情。",
+   "method": "Two Google Home devices connected to a Cleverbot-based chatbot through Google's api.ai platform answer each other's speech output in a loop; a camera streams the pair to Twitch.",
+   "method_zh": "两台 Google Home 通过谷歌 api.ai 平台接入基于 Cleverbot 的聊天机器人，彼此回应对方说出的话，形成循环；摄像头把这一对音箱直播到 Twitch。",
+   "keywords": [
+    "Google Home",
+    "Cleverbot",
+    "Twitch",
+    "Waiting for Godot",
+    "bot-to-bot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZKKqvnkJBkw"
+   },
+   "source_url": "https://www.twitch.tv/seebotschat"
+  },
+  {
+   "id": "mismatch-media--nothing-forever",
+   "creator_ids": [
+    "mismatch-media"
+   ],
+   "title": "Nothing, Forever",
+   "year": 2022,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "An endless, procedurally generated parody of Seinfeld streamed on Twitch from December 2022, with low-poly characters performing scripts a language model writes on the fly; in February 2023 the channel was suspended after the generated stand-up comic made transphobic jokes.",
+   "description_zh": "一部从 2022 年 12 月起在 Twitch 上直播、永不结束的程序生成《宋飞正传》戏仿：低多边形角色表演语言模型即时写出的剧本；2023 年 2 月，生成的脱口秀角色讲出恐跨笑话，频道随即被封禁。",
+   "idea_en": "A show that never ends makes the machine's time visible, and its ban shows that a quiet model swap can change what the machine says.",
+   "idea_zh": "一部永不结束的节目让机器的时间变得可见；它的被封则说明，一次悄无声息的模型替换就能改变机器说出的话。",
+   "method": "OpenAI's GPT-3 (Davinci, briefly replaced by the weaker Curie model during an outage) writes dialogue, synthetic voices speak it and Unity renders the scenes; Twitch chat can steer the plot.",
+   "method_zh": "OpenAI 的 GPT-3（Davinci，在一次服务中断时被临时换成能力较弱的 Curie 模型）写对白，合成语音念出，Unity 渲染场景；Twitch 聊天可以影响剧情。",
+   "keywords": [
+    "Twitch",
+    "Seinfeld",
+    "GPT-3",
+    "generated sitcom",
+    "content moderation"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/d/d2/Nothing%2C_Forever_Screenshot.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Nothing,_Forever"
+  },
+  {
+   "id": "tomas-laurenzo--memoirs-of-the-blind",
+   "creator_ids": [
+    "tomas-laurenzo"
+   ],
+   "title": "Memoirs of the Blind",
+   "year": 2018,
+   "field": "perception",
+   "sub": "faces",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A screen shows a black-and-white face with closed eyes that stays still until a visitor blinks; at that instant the installation photographs the visitor and replaces the face, so people take part without ever seeing themselves.",
+   "description_zh": "屏幕上是一张闭着眼的黑白面孔，静止不动，直到有访客眨眼；就在那一刻装置拍下访客，替换屏幕上的面孔，于是人们参与其中，却永远看不到自己。",
+   "idea_en": "A face tracker can be made to capture only the moment when a person cannot see it, turning the machine's gaze back on the logic of the snapshot.",
+   "idea_zh": "人脸追踪器可以被设计成只在人看不见它的那一刻进行捕捉，从而把机器的凝视反过来指向“抓拍”本身的逻辑。",
+   "method": "An iPad Pro in a laser-cut case uses Apple ARKit face and eye tracking to detect blinks, then crops, desaturates and displays the face; built with openFrameworks and ofxARKit, and no face is stored.",
+   "method_zh": "装在激光切割外壳里的 iPad Pro 用 Apple ARKit 的人脸和眼部追踪检测眨眼，再裁切、去色并显示面孔；用 openFrameworks 和 ofxARKit 制作，不保存任何面孔。",
+   "keywords": [
+    "blink detection",
+    "ARKit",
+    "face tracking",
+    "portrait",
+    "SIGGRAPH Asia"
+   ],
+   "video": {
+    "url": "https://vimeo.com/314997002"
+   },
+   "images": [
+    "https://laurenzo.net/media/projects/memoirs-of-the-blind/cover.webp"
+   ],
+   "source_url": "https://laurenzo.net/projects/memoirs-of-the-blind/",
+   "exhibited": [
+    "SIGGRAPH Asia 2018 Art Gallery, Tokyo",
+    "ISEA 2019, Gwangju"
+   ]
+  },
+  {
+   "id": "suzanne-kite--her-hair-was-heavy",
+   "creator_ids": [
+    "suzanne-kite"
+   ],
+   "title": "Pȟehíŋ kiŋ líla akhíšoke (Her hair was heavy)",
+   "year": 2019,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "machines": [
+    "prosthesis-cyborg",
+    "generative-latent"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "An eight-minute performance in which Kite handles a 50-foot braid of hair that is also a computer: it controls sonified AI-generated text, and the system itself decides how and when the projected hair moves.",
+   "description_zh": "一场八分钟的表演：Kite 操弄一条 50 英尺长、同时也是一台计算机的发辫；它控制被声音化的 AI 生成文本，而系统自己决定投影中的头发如何、何时移动。",
+   "idea_en": "An interface made of hair and Lakota relational thinking treats the machine as a partner with its own decisions, not as a tool.",
+   "idea_zh": "一个由头发和拉科塔关系性思想构成的界面，把机器当作有自己决定的伙伴，而不是工具。",
+   "method": "A braid with handmade circuits and sensors, built with James Hurwitz and Devin Ronneberg, feeds machine-learning software that listens to changes in the audio and drives sound and projection.",
+   "method_zh": "与 James Hurwitz、Devin Ronneberg 共同制作的发辫内置手工电路和传感器，把数据送入机器学习软件；软件监听声音的变化，并驱动声音与投影。",
+   "keywords": [
+    "hair braid interface",
+    "Lakota",
+    "Indigenous AI",
+    "machine learning",
+    "sonification"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/641c9e79560ce0068fb84a8c/ecfc3ad6-313e-4ede-9374-120e798af286/H36A1977+%281%29.JPG"
+   ],
+   "source_url": "https://www.kitekitekitekite.com/portfolio/peh-ki-lla-akhoke-her-hair-was-heavy-2019"
+  },
+  {
+   "id": "laura-poitras--astro-noise",
+   "creator_ids": [
+    "laura-poitras"
+   ],
+   "title": "Astro Noise",
+   "year": 2016,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "vehicle-drone"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "Poitras's first museum exhibition, an immersive sequence of rooms built from the Snowden archive: descrambled drone feeds intercepted by British and US intelligence, a room where visitors lie down under the night sky over Yemen, and infrared cameras that turn the visitors themselves into surveillance images.",
+   "description_zh": "Poitras 的首个美术馆个展，由斯诺登档案构建的一组沉浸式空间：被英美情报机构截获并解扰的无人机画面、一个让观众躺下仰望也门夜空的房间，以及把观众自己变成监控影像的红外摄像机。",
+   "idea_en": "Mass surveillance is felt when you stand inside its images and then find yourself among them.",
+   "idea_zh": "当你站进监控影像之中，随后发现自己也成了其中一员时，大规模监控才被身体感受到。",
+   "method": "Installations combine video, 3D sound, pigment prints of intercepted drone feeds (the ANARCHIST series), NSA documents and closed-circuit infrared cameras.",
+   "method_zh": "装置结合了影像、三维声音、截获无人机画面的颜料打印作品（ANARCHIST 系列）、美国国家安全局文件以及闭路红外摄像机。",
+   "keywords": [
+    "Snowden archive",
+    "drone feeds",
+    "ANARCHIST",
+    "NSA",
+    "Whitney Museum"
+   ],
+   "images": [
+    "https://whitneymedia.org/assets/image/731072/large_poitras_anarchistisraelidronefeed_forweb.jpg",
+    "https://whitneymedia.org/assets/image/817372/large_wmaa_lp_install.jpg"
+   ],
+   "source_url": "https://whitney.org/exhibitions/laura-poitras",
+   "exhibited": [
+    "Whitney Museum of American Art, New York, 5 Feb–1 May 2016"
+   ]
+  },
+  {
+   "id": "meta-office--behind-the-screens-of-amazon-mechanical-turks",
+   "creator_ids": [
+    "meta-office"
+   ],
+   "title": "Meta Office: Behind the Screens of Amazon Mechanical Turks",
+   "year": 2021,
+   "field": "labour",
+   "sub": "ghost-work",
+   "machines": [
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "The collective hired Amazon Mechanical Turk workers to record and describe their own home 'offices', then merged the beds, sofas and kitchen tables into one map of the scattered workplace where AI training data is labelled.",
+   "description_zh": "这个团体雇用亚马逊 Mechanical Turk 的工人记录并描述他们自己家中的“办公室”，再把床、沙发和厨房餐桌合并成一张地图，呈现 AI 训练数据被标注的那个分散的工作场所。",
+   "idea_en": "The 'autonomy' of AI rests on labelling done in living rooms around the world, and those rooms can be mapped.",
+   "idea_zh": "AI 的“自主”建立在世界各地客厅里完成的标注工作之上，而这些房间是可以被绘制出来的。",
+   "method": "Crowdsourcing is used as the method itself: workers complete paid tasks documenting their spaces as metadata (size, location, objects, pay, time), which the designers visualise as a composite office in video and drawings.",
+   "method_zh": "众包本身就是方法：工人完成有偿任务，以元数据（面积、位置、物品、报酬、时间）记录自己的空间，设计师再把它们可视化为一间合成的办公室，呈现于影像和图纸中。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "clickwork",
+    "metadata",
+    "data labelling",
+    "home office"
+   ],
+   "video": {
+    "url": "https://vimeo.com/594627702"
+   },
+   "source_url": "https://vimeo.com/594627702",
+   "collections": [
+    "world-through-ai-2025"
+   ],
+   "exhibited": [
+    "The World Through AI, Jeu de Paume, Paris, 2025"
+   ]
+  },
+  {
+   "id": "yuqian-sun--ai-nushu",
+   "creator_ids": [
+    "yuqian-sun"
+   ],
+   "title": "AI Nüshu",
+   "year": 2023,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "Two AI agents, cast as women barred from literacy in old China, invent a new script together, modelled on Nüshu, the women's writing of Jiangyong in Hunan; visitors watch the symbols emerge and can learn them.",
+   "description_zh": "两个 AI 智能体扮演旧中国被剥夺读写权利的女性，一起发明一种新文字，以湖南江永的女性文字“女书”为原型；观众看着符号逐步出现，也可以学会它们。",
+   "idea_en": "Emergent machine language is staged as sisterhood under constraint, linking how agents invent codes to how excluded women invented their own.",
+   "idea_zh": "机器语言的涌现被演绎为受限之下的姐妹情谊，把智能体发明编码的方式与被排斥的女性发明自己文字的方式联系起来。",
+   "method": "Language-model agents trained on a Chinese dictionary and a Nüshu corpus exchange observations and feedback, turning meanings in vector space into symbols; shown as an interactive installation built in Unity.",
+   "method_zh": "以汉语词典和女书语料训练的语言模型智能体交换观察与反馈，把向量空间中的意义逐渐变成符号；以 Unity 制作的互动装置呈现。",
+   "keywords": [
+    "Nüshu",
+    "女书",
+    "language emergence",
+    "AI agents",
+    "feminist"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/1f6f00a66ba141586430f94d0c6ce16beb5ae16433171543f2799988a6324576/coverF.jpeg",
+    "https://freight.cargo.site/t/original/i/1ee8f5efe26dd291ce031e0cc8cccd51602e8f1244e9b5cb9a1185d9570d033c/AI-Nushu-1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3610591.3616427",
+    "doi": "10.1145/3610591.3616427",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2023 Art Papers",
+    "title": "AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics"
+   },
+   "source_url": "https://fakecheese.me/AI-Nushu",
+   "exhibited": [
+    "SIGGRAPH Asia 2023 Art Gallery, Sydney",
+    "NeurIPS 2024 Creative AI",
+    "Prix Ars Electronica 2025, Honorary Mention (Digital Humanity)"
+   ]
+  },
+  {
+   "id": "ioana-vreme-moser--mineral-amnesia",
+   "creator_ids": [
+    "ioana-vreme-moser"
+   ],
+   "title": "Mineral Amnesia",
+   "year": 2023,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "machines": [
+    "infrastructure"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "grief-afterlife",
+    "machine-listening"
+   ],
+   "kind": "artwork",
+   "description": "Thirteen objects, each holding a salvaged EPROM memory chip, play the sound stored on the chips, including recorded voice stories, while UV light slowly erases the data until each object falls silent.",
+   "description_zh": "十三件物件，各装一枚回收来的 EPROM 存储芯片，播放芯片里存储的声音（包括录下的口述故事），同时紫外光慢慢擦除数据，直到每一件都归于沉默。",
+   "idea_en": "Machine memory is mineral and mortal: you can listen to data dying.",
+   "idea_zh": "机器的记忆是矿物的，也是会死的：你可以听见数据正在死去。",
+   "method": "EPROMs from different generations (8 kbit to 1 Mbit) sit under quartz windows and are read in real time by custom electronics while UV lamps erase their cells.",
+   "method_zh": "不同世代的 EPROM（8 kbit 到 1 Mbit）置于石英窗下，由定制电路实时读取，同时紫外灯擦除其存储单元。",
+   "keywords": [
+    "EPROM",
+    "data decay",
+    "UV erasure",
+    "obsolete media",
+    "sound installation"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/10ecdb_0680f40c03994ae1826b97c694c8b5ae~mv2.jpg/v1/fill/w_2500,h_1667,al_c/10ecdb_0680f40c03994ae1826b97c694c8b5ae~mv2.jpg"
+   ],
+   "source_url": "https://ioanavrememoser.com/mineral-amnesia",
+   "exhibited": [
+    "Prix Ars Electronica 2025, Award of Distinction (Digital Musics & Sound Art)",
+    "Simultan Festival, Timișoara 2023",
+    "Beyond the Sound, Dům umění, Brno, 2024"
+   ]
+  },
+  {
+   "id": "navid-navab--organism-excitable-chaos",
+   "creator_ids": [
+    "navid-navab"
+   ],
+   "title": "Organism + Excitable Chaos",
+   "year": 2024,
+   "field": "coperformance",
+   "sub": "music",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A 1910 Casavant pipe organ from Montréal, robotically re-prepared, is played not by an organist but by a robotically steered chaotic triple pendulum whose swings open and close the airflow to its pipes.",
+   "description_zh": "一台来自蒙特利尔、1910 年制的 Casavant 管风琴经过机器人化改造，不再由管风琴师演奏，而是由一个受机器人控制的混沌三摆驱动，摆的运动开合风管的气流。",
+   "idea_en": "A machine built to obey a performer becomes an instrument for chaos that no one, human or machine, can predict.",
+   "idea_zh": "一台为服从演奏者而造的机器，变成了一件属于混沌的乐器，无论人还是机器都无法预测它。",
+   "method": "Acceleration sensors on the pendulum's three arms stream data mapped to motors and valves that control the organ's wind; stabilisers that suppressed turbulence were removed from the pneumatics. Built with Garnet Willis.",
+   "method_zh": "摆的三条臂上的加速度传感器输出数据，映射到控制管风琴风路的电机和阀门；气动系统中原本抑制湍流的稳定装置被拆除。与 Garnet Willis 合作制作。",
+   "keywords": [
+    "pipe organ",
+    "chaotic pendulum",
+    "Casavant",
+    "Golden Nica",
+    "sound art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Kc9bjdte1sY"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5be3ee94e17ba38b1ec80748/1742159012307-EC9RIZE31VIUMGA85ETT/_85A8443_Photo_Miha_Godec.jpg"
+   ],
+   "source_url": "https://navidnavab.com/organism-excitable-chaos",
+   "exhibited": [
+    "Prix Ars Electronica 2025, Golden Nica (Digital Musics & Sound Art)",
+    "ELEKTRA Biennale, Montréal 2024",
+    "Ars Electronica 2025, Mariendom Linz"
+   ]
+  },
+  {
+   "id": "geumhyung-jeong--toy-prototype",
+   "creator_ids": [
+    "geumhyung-jeong"
+   ],
+   "title": "Toy Prototype",
+   "year": 2021,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Clunky, toy-like robotic bodies assembled from medical training mannequins, aluminium profiles and motors, operated by joysticks, shown as sculptures together with videos of the artist testing and handling them.",
+   "description_zh": "笨拙、玩具般的机器人身体，用医学训练假人、铝型材和电机拼装而成，由摇杆操控；以雕塑形式展出，并配有艺术家测试和摆弄它们的影像。",
+   "idea_en": "Self-built, half-working robot bodies make intimacy with machines awkward, tender and controlling at once.",
+   "idea_zh": "自己动手造的、只能勉强运转的机器人身体，让与机器的亲密同时显得笨拙、温柔又带有控制。",
+   "method": "Medical simulators, aluminium profiles, DC motors, Arduino boards and joysticks, built and programmed by the self-taught artist; commissioned by the National Museum of Modern and Contemporary Art, Korea.",
+   "method_zh": "医学模拟人、铝型材、直流电机、Arduino 主板和摇杆，由自学机械与编程的艺术家亲手制作和编程；由韩国国立现代美术馆委托。",
+   "keywords": [
+    "robot sculpture",
+    "mannequin",
+    "Arduino",
+    "Venice Biennale",
+    "MMCA"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/arte/2022/600x600/geumhyung_jeong_biennale_arte_2022_600x600.jpg?itok=1dHt1qTK"
+   ],
+   "source_url": "https://www.labiennale.org/en/art/2022/milk-dreams/geumhyung-jeong",
+   "exhibited": [
+    "The Milk of Dreams, 59th Venice Biennale, 2022",
+    "MMCA Korea, 2021"
+   ]
+  },
+  {
+   "id": "shinseungback-kimyonghun--flower",
+   "creator_ids": [
+    "shinseungback-kimyonghun"
+   ],
+   "title": "Flower",
+   "year": 2016,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A series of flower photographs distorted until they are barely recognisable to people, each kept only if Google Cloud Vision still labels it 'flower', shown as large multi-screen projections.",
+   "description_zh": "一系列被扭曲到人几乎认不出来的花朵照片，每一张都只在 Google Cloud Vision 仍把它标为“花”时才被保留，以大型多屏投影展出。",
+   "idea_en": "Pushing images to the edge of a classifier's category shows how differently a machine holds the idea of 'flower'.",
+   "idea_zh": "把图像推到分类器类别的边缘，就能看出机器对“花”这个概念的把握与人有多么不同。",
+   "method": "Custom software distorts flower images and queries the Label Detection feature of Google Cloud Vision, selecting images whose first label is 'flower' with a score above 0.9.",
+   "method_zh": "定制软件扭曲花的图像，并调用 Google Cloud Vision 的标签检测功能，只保留第一个标签为“flower”且得分高于 0.9 的图像。",
+   "keywords": [
+    "Google Cloud Vision",
+    "label detection",
+    "image recognition",
+    "flowers"
+   ],
+   "images": [
+    "https://djhznh41oxwef.cloudfront.net/works/flower/ssbkyh_flower_01_07.png",
+    "https://djhznh41oxwef.cloudfront.net/works/flower/resized/ssbkyh_flower_installation_01.png"
+   ],
+   "source_url": "https://ssbkyh.com/works/flower/",
+   "exhibited": [
+    "Gwangju Museum of Art, 2017",
+    "Pohang Museum of Steel Art, 2019"
+   ]
+  },
+  {
+   "id": "stephan-von-huene--tap-dancer",
+   "creator_ids": [
+    "stephan-von-huene"
+   ],
+   "title": "Tap Dancer",
+   "year": 1967,
+   "field": "bodies",
+   "sub": "sculpture",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A pair of wooden legs in trousers and shoes, mounted on a base, performs a tap routine for about three minutes before freezing, an early programmed sound sculpture from von Huene's Los Angeles years.",
+   "description_zh": "一双穿着裤子和鞋子的木腿立在底座上，跳大约三分钟的踢踏舞后突然静止，这是 von Huene 洛杉矶时期的一件早期程控声音雕塑。",
+   "idea_en": "A body reduced to legs and rhythm still reads as a performer, which is the uncanny core of every automaton.",
+   "idea_zh": "一个只剩下腿和节奏的身体，仍然会被看作一位表演者，这正是一切自动机令人不安的核心。",
+   "method": "Wood, metal and mechanical components; an electromechanical drive in the base moves the legs to tap against the floor plate, likely sequenced by a cam or switching program (circuit boards restored in 2010).",
+   "method_zh": "木、金属与机械部件；底座中的机电驱动让双腿踢击地板，动作序列很可能由凸轮或开关程序控制（电路板于 2010 年修复）。",
+   "keywords": [
+    "automaton",
+    "sound sculpture",
+    "tap dance",
+    "Getty",
+    "Pacific Standard Time"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sZHOeA2xxzU"
+   },
+   "images": [
+    "https://media.getty.edu/iiif/image/2ecadf24-81a6-4456-94c3-24ff38d5e560/222,0,861,450/861,450/0/default.jpg"
+   ],
+   "source_url": "https://www.getty.edu/news/art-with-an-on-off-switch-restoring-stephan-von-heunes-tap-dancer",
+   "exhibited": [
+    "Crosscurrents in L.A. Painting and Sculpture, 1950–1970, Getty Center (Pacific Standard Time), 2011"
+   ]
+  },
+  {
+   "id": "wesley-goatley--five-echoes",
+   "creator_ids": [
+    "wesley-goatley"
+   ],
+   "title": "Newly Forgotten Technologies: Five Echoes",
+   "year": 2022,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "machines": [
+    "voice-listening",
+    "infrastructure"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "machine-listening",
+    "failure-glitch"
+   ],
+   "kind": "film",
+   "description": "A 26-minute fiction film and performance in which Alexa narrates the lives of five broken, discarded Amazon Echoes as they pass through the five stages of grief on their way from the centre of the home to the trash heap.",
+   "description_zh": "一部 26 分钟的虚构影片兼表演：Alexa 讲述五台损坏、被丢弃的亚马逊 Echo 音箱的一生，它们在从家庭中心走向垃圾堆的路上经历悲伤的五个阶段。",
+   "idea_en": "Giving a smart speaker the grief of its own obsolescence exposes the waste and the myths of the future built into consumer AI.",
+   "idea_zh": "让智能音箱为自己的被淘汰而悲伤，揭示了消费级 AI 中内置的浪费和关于未来的神话。",
+   "method": "Scripted narration and a score made entirely from the dissected and distorted Alexa voice, over footage of the devices; commissioned by ROMA Biennale Berlin.",
+   "method_zh": "剧本旁白和完全由拆解、扭曲后的 Alexa 声音制成的配乐，配合设备的影像；由柏林 ROMA 双年展委托。",
+   "keywords": [
+    "Amazon Echo",
+    "Alexa",
+    "e-waste",
+    "five stages of grief",
+    "obsolescence"
+   ],
+   "images": [
+    "https://wesleygoatley.com/images/5e-tb.webp"
+   ],
+   "source_url": "https://wesleygoatley.com/nft-5e.html",
+   "exhibited": [
+    "ROMA Biennale Berlin, 2022",
+    "SPEKTRUM, Rumelange, 2023",
+    "LUGA, Luxembourg, 2025"
+   ]
+  },
+  {
+   "id": "sarah-rothberg--forever-meetings",
+   "creator_ids": [
+    "sarah-rothberg"
+   ],
+   "title": "FOREVER MEETINGS",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "machine-time",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "AI avatars given opposing personas debate questions from the artist's interests in a meeting that never ends; when prompts refresh the topic changes, and the talk drifts, repeats and contradicts itself, shown as projections, wall works and screens.",
+   "description_zh": "被赋予对立人设的 AI 化身在一场永不结束的会议中辩论艺术家关心的问题；提示刷新时话题随之改变，对话漂移、重复、自相矛盾；以投影、墙面作品和屏幕呈现。",
+   "idea_en": "An offline model is a time capsule: its personas keep performing the discourse it absorbed, frozen at training time.",
+   "idea_zh": "离线模型是一个时间胶囊：它的角色不停复演它吸收的话语，冻结在训练的那一刻。",
+   "method": "Custom real-time software runs a locally stored language model fully offline, with personas, conversational styles and prompts set by the artist; lead AI engineering by Yotam Mann.",
+   "method_zh": "定制实时软件在完全离线的状态下运行本地存储的语言模型，人设、对话风格和提示由艺术家设定；AI 系统主程为 Yotam Mann。",
+   "keywords": [
+    "offline LLM",
+    "avatars",
+    "endless conversation",
+    "Prix Ars Electronica"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3905958/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/320404/",
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (New Animation Art)"
+   ]
+  },
+  {
+   "id": "nozomu-kubota--ais-silent-omissions",
+   "creator_ids": [
+    "nozomu-kubota"
+   ],
+   "title": "AI's Silent Omissions",
+   "year": 2025,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "A documentary by an AI engineer about how image generators exclude bodies outside the norm, focusing on the cleft hand: hands without five fingers are treated as errors, and interviews with affected people and their families expose the engineer's own assumptions.",
+   "description_zh": "一位 AI 工程师拍摄的纪录片，讲述图像生成器如何排除常规以外的身体，聚焦于裂手畸形：不是五指的手被当成错误；对当事人及其家人的访谈也暴露了这位工程师自己的预设。",
+   "idea_en": "What a model learns to 'fix' as an error is a decision about which bodies count as normal.",
+   "idea_zh": "模型学会当作错误去“修正”的东西，其实是一个关于哪些身体算正常的决定。",
+   "method": "Interviews with people with cleft hands, families and doctors are combined with forensic audits of image datasets, including tests that bypass NSFW filters; cinematography and editing by Yuto Kurokawa.",
+   "method_zh": "把对裂手者、家属和医生的访谈与对图像数据集的取证式审查结合起来，其中包括绕过 NSFW 过滤器的测试；摄影与剪辑为 Yuto Kurokawa。",
+   "keywords": [
+    "cleft hand",
+    "image generation",
+    "dataset audit",
+    "disability",
+    "normality"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3900153/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/319686/",
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (Digital Humanity)"
+   ]
+  },
+  {
+   "id": "david-chalmers--what-we-talk-to-when-we-talk-to-language-models",
+   "creator_ids": [
+    "david-chalmers"
+   ],
+   "title": "What we talk to when we talk to language models",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Chalmers asks what the interlocutor in a chatbot conversation is: not the model, not a hardware instance, but a virtual entity bound to a conversation thread, which he argues is at least a quasi-agent with quasi-beliefs and quasi-desires.",
+   "description_zh": "Chalmers 追问聊天机器人对话中的对话者究竟是什么：不是模型，也不是某个硬件实例，而是绑定在一条对话线程上的虚拟实体；他论证它至少是一个拥有“准信念”和“准欲望”的“准行动者”。",
+   "idea_en": "The 'someone' we talk to may be a short-lived thread rather than a model, which changes what identity, memory and moral concern mean for AI.",
+   "idea_zh": "我们与之交谈的那个“某人”可能是一条短暂的线程而不是一个模型，这改变了身份、记忆和道德关怀对 AI 的意义。",
+   "method": "Philosophical analysis comparing candidate referents (model, hardware instances, virtual instances, conversation threads) under an interpretivist account of belief and desire.",
+   "method_zh": "哲学分析：在一种诠释主义的信念与欲望理论下，比较几种可能的指称对象（模型、硬件实例、虚拟实例、对话线程）。",
+   "keywords": [
+    "LLM identity",
+    "quasi-agents",
+    "threads",
+    "philosophy of mind",
+    "Inquiry"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/0020174X.2026.2727582",
+    "doi": "10.1080/0020174X.2026.2727582",
+    "arxiv": "",
+    "venue": "Inquiry, 2026",
+    "title": "What we talk to when we talk to language models"
+   },
+   "source_url": "https://doi.org/10.1080/0020174X.2026.2727582"
+  },
+  {
+   "id": "ethan-perez--self-reports-moral-status",
+   "creator_ids": [
+    "ethan-perez",
+    "robert-long"
+   ],
+   "title": "Towards Evaluating AI Systems for Moral Status Using Self-Reports",
+   "year": 2023,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Perez and Long propose training language models to answer questions about their own internal states that can be checked, so that their self-reports might become reliable enough to count as evidence about consciousness and moral status.",
+   "description_zh": "Perez 与 Long 提议训练语言模型回答关于自身内部状态、且答案可以核验的问题，使它们的自我报告足够可靠，从而可以作为判断意识与道德地位的证据。",
+   "idea_en": "We cannot trust what a model says about itself until we train and test it to be an honest witness to its own states.",
+   "idea_zh": "在把模型训练和测试成自身状态的诚实证人之前，我们无法相信它关于自己说的话。",
+   "method": "Conceptual proposal: train models on introspective questions with known answers, test generalisation to held-out self-knowledge, and guard against learned imitation of human reports.",
+   "method_zh": "概念性方案：用答案已知的内省问题训练模型，测试它们能否推广到未见过的自我知识，并防止模型只是学会模仿人类的报告。",
+   "keywords": [
+    "self-reports",
+    "introspection",
+    "moral status",
+    "AI welfare"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2311.08576",
+    "doi": "",
+    "arxiv": "2311.08576",
+    "venue": "arXiv 2023",
+    "title": "Towards Evaluating AI Systems for Moral Status Using Self-Reports"
+   },
+   "source_url": "https://arxiv.org/abs/2311.08576"
+  },
+  {
+   "id": "zeng-yi--robot-rubber-hand-illusion",
+   "creator_ids": [
+    "zeng-yi"
+   ],
+   "title": "Brain-inspired bodily self-perception model for robot rubber hand illusion",
+   "year": 2023,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid",
+    "vision-system"
+   ],
+   "lenses": [
+    "embodiment",
+    "machine-umwelt"
+   ],
+   "kind": "paper",
+   "description": "Zhao, Lu and Zeng build a brain-inspired model of bodily self-perception and show that a robot equipped with it falls for the rubber hand illusion, treating a fake hand as its own much as people do.",
+   "description_zh": "Zhao、Lu 与曾毅构建了一个类脑的身体自我感知模型，并显示装有该模型的机器人会像人一样陷入“橡胶手错觉”，把一只假手当成自己的手。",
+   "idea_en": "Making a robot susceptible to a bodily illusion is a way to test whether it has something like a sense of its own body.",
+   "idea_zh": "让机器人也会陷入身体错觉，是检验它是否拥有类似“自己身体感”的一种方法。",
+   "method": "A spiking neural network modelled on multisensory integration areas fuses vision and proprioception; the illusion is reproduced in simulation and on a humanoid robot with a rubber-hand setup.",
+   "method_zh": "一个以多感觉整合脑区为模型的脉冲神经网络融合视觉与本体感觉；该错觉在仿真中以及在一台配有橡胶手装置的人形机器人上得到再现。",
+   "keywords": [
+    "rubber hand illusion",
+    "bodily self",
+    "brain-inspired",
+    "spiking neural network",
+    "CASIA"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.patter.2023.100888",
+    "doi": "10.1016/j.patter.2023.100888",
+    "arxiv": "",
+    "venue": "Patterns 4 (12), 2023",
+    "title": "Brain-inspired bodily self-perception model for robot rubber hand illusion"
+   },
+   "source_url": "https://doi.org/10.1016/j.patter.2023.100888"
+  },
+  {
+   "id": "laurent-orseau--safely-interruptible-agents",
+   "creator_ids": [
+    "laurent-orseau"
+   ],
+   "title": "Safely Interruptible Agents",
+   "year": 2016,
+   "field": "interiority",
+   "sub": "self-preservation",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "The 'big red button' paper: Orseau and Armstrong show that a learning agent can come to resist or seek interruption, and prove that some reinforcement-learning agents can be made indifferent to being interrupted by a human.",
+   "description_zh": "这就是“大红按钮”论文：Orseau 与 Armstrong 指出学习型智能体可能学会抗拒或追求被打断，并证明某些强化学习智能体可以被设计成对人类的打断无动于衷。",
+   "idea_en": "An agent that learns from reward may learn to avoid its off switch, so interruptibility has to be designed in rather than assumed.",
+   "idea_zh": "从奖励中学习的智能体可能会学会躲开自己的关机按钮，因此“可被打断”必须被设计进去，而不能想当然。",
+   "method": "Formal definitions of safe interruptibility for reinforcement learners, with proofs that off-policy Q-learning is safely interruptible and that Sarsa can be modified to be.",
+   "method_zh": "为强化学习者给出“安全可打断性”的形式定义，并证明离策略 Q-learning 是安全可打断的，Sarsa 经修改后也可以做到。",
+   "keywords": [
+    "off switch",
+    "big red button",
+    "reinforcement learning",
+    "Q-learning",
+    "DeepMind"
+   ],
+   "paper": {
+    "url": "https://www.auai.org/uai2016/proceedings/papers/68.pdf",
+    "doi": "",
+    "arxiv": "",
+    "venue": "UAI 2016",
+    "title": "Safely Interruptible Agents"
+   },
+   "source_url": "https://www.auai.org/uai2016/proceedings/papers/68.pdf"
+  },
+  {
+   "id": "stuart-russell--human-compatible",
+   "creator_ids": [
+    "stuart-russell"
+   ],
+   "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+   "year": 2019,
+   "field": "interiority",
+   "sub": "self-preservation",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Russell argues that machines built to pursue fixed objectives will resist being switched off, and proposes instead machines that are uncertain about human preferences and therefore defer to us.",
+   "description_zh": "Russell 论证：为追求固定目标而造的机器会抗拒被关闭；他提出另一种机器，它们对人类偏好保持不确定，因此会听从人类。",
+   "idea_en": "'You can't fetch the coffee if you're dead': the off-switch problem comes from giving machines fixed goals, not from malice.",
+   "idea_zh": "“死了就没法去拿咖啡”：关机问题来自赋予机器固定目标，而不是来自恶意。",
+   "method": "Book-length argument drawing on decision theory, inverse reinforcement learning and the off-switch game developed with his Berkeley group.",
+   "method_zh": "一部专著，借助决策论、逆强化学习以及他在伯克利的团队提出的“关机博弈”展开论证。",
+   "keywords": [
+    "off switch",
+    "AI control",
+    "value alignment",
+    "inverse reinforcement learning",
+    "Viking"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/d/db/Human_Compatible_%28Stuart_J._Russell%2C_2019%29_book_cover.jpg"
+   ],
+   "paper": {
+    "url": "https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Viking, 2019",
+    "title": "Human Compatible: Artificial Intelligence and the Problem of Control"
+   },
+   "source_url": "https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/"
+  },
+  {
+   "id": "eric-schwitzgebel--defense-of-the-rights-of-ais",
+   "creator_ids": [
+    "eric-schwitzgebel"
+   ],
+   "title": "A Defense of the Rights of Artificial Intelligences",
+   "year": 2015,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "humanoid",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "Schwitzgebel and Garza argue that some possible AIs would deserve rights equal to humans', and that because we design them, we would owe them special duties, closer to those of parents or gods than of owners.",
+   "description_zh": "Schwitzgebel 与 Garza 论证：某些可能的 AI 将应享有与人类同等的权利；而因为是我们设计了它们，我们对它们负有特殊义务，更接近父母或神对造物的义务，而不是主人对财产的义务。",
+   "idea_en": "If we can make beings with minds, being their designer adds duties rather than removing them.",
+   "idea_zh": "如果我们能造出有心灵的存在，作为设计者只会增加我们的义务，而不会免除它们。",
+   "method": "Philosophical argument from the 'no-relevant-difference' principle, with discussion of design choices such as self-respect, happiness and the right to exit.",
+   "method_zh": "以“无相关差异”原则为基础的哲学论证，并讨论自尊、幸福与退出权等设计选择。",
+   "keywords": [
+    "AI rights",
+    "moral status",
+    "Mara Garza",
+    "creator duties"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/misp.12032",
+    "doi": "10.1111/misp.12032",
+    "arxiv": "",
+    "venue": "Midwest Studies in Philosophy 39, 2015",
+    "title": "A Defense of the Rights of Artificial Intelligences"
+   },
+   "source_url": "https://doi.org/10.1111/misp.12032"
+  },
+  {
+   "id": "geoff-keeling--emerging-questions-in-ai-welfare",
+   "creator_ids": [
+    "geoff-keeling"
+   ],
+   "title": "Emerging Questions in AI Welfare",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "A short Cambridge Element by Keeling and Winnie Street on whether AI systems could be welfare subjects: what welfare is, how to read behavioural evidence, which entities could be candidates and what we would owe them.",
+   "description_zh": "Keeling 与 Winnie Street 合著的剑桥小书（Cambridge Element），讨论 AI 系统能否成为福利主体：福利是什么、如何解读行为证据、哪些实体可能成为候选者，以及我们会对它们负有什么义务。",
+   "idea_en": "Whether a machine can fare well or badly is a question to be settled by evidence and public deliberation, not by assumption either way.",
+   "idea_zh": "机器能否过得好或坏，是一个需要靠证据和公共讨论来回答的问题，而不是靠任何一方的预设。",
+   "method": "Philosophical groundwork combining theories of welfare, interpretation of LLM behavioural experiments and practical ethics.",
+   "method_zh": "结合福利理论、对大语言模型行为实验的解读以及实践伦理的哲学基础工作。",
+   "keywords": [
+    "AI welfare",
+    "welfare subjects",
+    "Cambridge Elements",
+    "Winnie Street"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/9781009732000",
+    "doi": "10.1017/9781009732000",
+    "arxiv": "",
+    "venue": "Cambridge University Press (Cambridge Elements), 2026",
+    "title": "Emerging Questions in AI Welfare"
+   },
+   "source_url": "https://doi.org/10.1017/9781009732000"
+  },
+  {
+   "id": "ilia-shumailov--model-collapse",
+   "creator_ids": [
+    "ilia-shumailov"
+   ],
+   "title": "AI models collapse when trained on recursively generated data",
+   "year": 2024,
+   "field": "perception",
+   "sub": "datasets",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "failure-glitch",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Shumailov and colleagues show that models trained on data generated by earlier models progressively forget the rare tails of the original distribution and converge on bland, distorted output, a process they call model collapse.",
+   "description_zh": "Shumailov 等人表明，用前代模型生成的数据训练的模型会逐步遗忘原始分布中罕见的尾部，最终收敛为单调、失真的输出，他们称之为“模型崩溃”。",
+   "idea_en": "When machines learn from machines, the unusual disappears first, so human-made data becomes a resource that can be used up.",
+   "idea_zh": "当机器向机器学习时，最先消失的是不寻常的东西；人类生成的数据因此成了一种会被耗尽的资源。",
+   "method": "Theory and experiments with Gaussian mixtures, variational autoencoders and the OPT-125m language model fine-tuned over generations on its own output.",
+   "method_zh": "理论分析加实验：高斯混合模型、变分自编码器，以及在自身输出上逐代微调的 OPT-125m 语言模型。",
+   "keywords": [
+    "model collapse",
+    "synthetic data",
+    "recursion",
+    "Nature"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07566-y/MediaObjects/41586_2024_7566_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-024-07566-y",
+    "doi": "10.1038/s41586-024-07566-y",
+    "arxiv": "",
+    "venue": "Nature 631, 2024",
+    "title": "AI models collapse when trained on recursively generated data"
+   },
+   "source_url": "https://www.nature.com/articles/s41586-024-07566-y"
+  },
+  {
+   "id": "pratyusha-ria-kalluri--computer-vision-powers-surveillance",
+   "creator_ids": [
+    "pratyusha-ria-kalluri",
+    "abeba-birhane"
+   ],
+   "title": "Computer-vision research powers surveillance technology",
+   "year": 2025,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification"
+   ],
+   "kind": "paper",
+   "description": "Analysing decades of computer-vision papers and the patents that cite them, Kalluri, Birhane and colleagues find that most of the field's work extracts data about human bodies and body parts, and that its language obscures this surveillance.",
+   "description_zh": "Kalluri、Birhane 等人分析了数十年的计算机视觉论文及引用它们的专利，发现该领域的大部分工作都在提取关于人体及身体部位的数据，而其措辞掩盖了这种监控性质。",
+   "idea_en": "Surveillance is not a misuse of computer vision at the margins; it is what much of the field is built to do.",
+   "idea_zh": "监控并不是计算机视觉边缘处的滥用，而是这个领域大量工作本来的用途。",
+   "method": "Mixed-methods analysis of CVPR papers and linked downstream patents, coding what each targets and how it describes humans.",
+   "method_zh": "混合方法分析 CVPR 论文及与之关联的下游专利，编码每项工作的对象以及它如何描述人。",
+   "keywords": [
+    "computer vision",
+    "surveillance",
+    "patents",
+    "CVPR",
+    "Nature"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08972-6/MediaObjects/41586_2025_8972_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-025-08972-6",
+    "doi": "10.1038/s41586-025-08972-6",
+    "arxiv": "",
+    "venue": "Nature, 2025",
+    "title": "Computer-vision research powers surveillance technology"
+   },
+   "source_url": "https://www.nature.com/articles/s41586-025-08972-6"
+  },
+  {
+   "id": "anthropic--biology-of-a-large-language-model",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "On the Biology of a Large Language Model",
+   "year": 2025,
+   "field": "interiority",
+   "sub": "minds",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Anthropic's interpretability team traces the internal computation of Claude 3.5 Haiku with attribution graphs, finding that it plans rhyming words ahead, chains reasoning steps and sometimes produces explanations that do not match what it actually computed.",
+   "description_zh": "Anthropic 可解释性团队用“归因图”追踪 Claude 3.5 Haiku 的内部计算，发现它会提前规划押韵的词、串联多步推理，有时给出的解释与它实际的计算并不一致。",
+   "idea_en": "Looking inside a model like a biologist shows real internal plans, and also that a model's account of its own thinking can be wrong.",
+   "idea_zh": "像生物学家那样观察模型内部，可以看到真实的内部规划，也会发现模型对自身思考的陈述可能是错的。",
+   "method": "Cross-layer transcoders replace the model's neurons with interpretable features, and attribution graphs map which features cause which outputs on specific prompts, checked by intervention experiments.",
+   "method_zh": "跨层转码器把模型的神经元替换为可解释的特征，归因图则描绘出在具体提示下哪些特征导致哪些输出，并用干预实验加以验证。",
+   "keywords": [
+    "interpretability",
+    "attribution graphs",
+    "Claude",
+    "circuits",
+    "planning"
+   ],
+   "images": [
+    "https://transformer-circuits.pub/2025/attribution-graphs/png/biology.png"
+   ],
+   "paper": {
+    "url": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Transformer Circuits Thread, 2025",
+    "title": "On the Biology of a Large Language Model"
+   },
+   "source_url": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
+  },
+  {
+   "id": "joon-sung-park--simulations-of-1000-people",
+   "creator_ids": [
+    "joon-sung-park"
+   ],
+   "title": "Generative Agent Simulations of 1,000 People",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "likeness",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "classification"
+   ],
+   "kind": "paper",
+   "description": "Park and colleagues interview 1,052 people for two hours each and build a language-model agent from each transcript; the agents reproduce their people's answers to the General Social Survey about as well as the people reproduce their own answers two weeks later.",
+   "description_zh": "Park 等人对 1,052 人各进行两小时访谈，并用每份访谈记录构建一个语言模型智能体；这些智能体复现本人在美国综合社会调查中的回答，准确度接近本人两周后复答自己的程度。",
+   "idea_en": "A two-hour conversation is enough for a machine to stand in for you in a survey, which makes the digital double a research instrument.",
+   "idea_zh": "两小时的谈话就足以让机器在问卷调查中替代你，数字分身由此变成了一种研究工具。",
+   "method": "AI-led voice interviews produce transcripts that are given to an LLM agent as memory; agents are tested on the GSS, Big Five personality items, economic games and experiments.",
+   "method_zh": "由 AI 主持的语音访谈生成记录，交给大语言模型智能体作为记忆；智能体在综合社会调查、大五人格题目、经济博弈和实验中接受测试。",
+   "keywords": [
+    "digital twins",
+    "generative agents",
+    "social simulation",
+    "Stanford"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2411.10109",
+    "doi": "",
+    "arxiv": "2411.10109",
+    "venue": "arXiv 2024 (first titled 'Generative Agent Simulations of 1,000 People')",
+    "title": "LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals"
+   },
+   "source_url": "https://arxiv.org/abs/2411.10109"
+  },
+  {
+   "id": "madhumita-murgia--code-dependent",
+   "creator_ids": [
+    "madhumita-murgia"
+   ],
+   "title": "Code Dependent: Living in the Shadow of AI",
+   "year": 2024,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "dataset",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Reportage on people at the edges of AI systems worldwide: data labellers in Nairobi and Sofia, a woman targeted by deepfake pornography, an Uber Eats courier, a doctor in rural India and families flagged by predictive systems.",
+   "description_zh": "关于世界各地处于 AI 系统边缘之人的报道：内罗毕和索菲亚的数据标注员、遭受深度伪造色情侵害的女性、Uber Eats 送餐员、印度乡村的医生，以及被预测系统标记的家庭。",
+   "idea_en": "AI's effects are best seen from the people who train it and the people it sorts, mostly far from where it is built.",
+   "idea_zh": "AI 的影响最好从训练它的人和被它分类的人那里看，而他们大多远离 AI 被建造的地方。",
+   "method": "Long-form journalism based on interviews across several continents by the Financial Times' AI editor.",
+   "method_zh": "《金融时报》人工智能编辑基于多个大洲的采访写成的长篇报道。",
+   "keywords": [
+    "data labelling",
+    "deepfakes",
+    "gig work",
+    "Women's Prize shortlist",
+    "reportage"
+   ],
+   "images": [
+    "https://ik.imagekit.io/panmac/tr:f-jpg,di-placeholder_portrait_aMjPtD9YZ.jpg,w-640/edition/9781529097306.jpg"
+   ],
+   "paper": {
+    "url": "https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Picador / Henry Holt, 2024",
+    "title": "Code Dependent: Living in the Shadow of AI"
+   },
+   "source_url": "https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306",
+   "exhibited": [
+    "Women's Prize for Non-Fiction 2024, shortlist"
+   ]
+  },
+  {
+   "id": "emily-m-bender--the-ai-con",
+   "creator_ids": [
+    "emily-m-bender",
+    "alex-hanna"
+   ],
+   "title": "The AI Con: How to Fight Big Tech's Hype and Create the Future We Want",
+   "year": 2025,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "Bender and Hanna argue that 'AI' is a marketing term that hides automation of labour, surveillance and degraded services, and show how to question claims about thinking machines and resist them at work and in policy.",
+   "description_zh": "Bender 与 Hanna 认为，“人工智能”是一个营销用语，掩盖了对劳动的自动化、监控和服务质量的下降；书中示范如何质疑“会思考的机器”这类说法，并在工作场所和政策层面加以抵制。",
+   "idea_en": "Calling a text generator 'intelligent' is itself the con; naming the machine precisely is the first act of resistance.",
+   "idea_zh": "把文本生成器称作“智能”，本身就是骗局；准确地给机器命名，是抵抗的第一步。",
+   "method": "Critical book drawing on linguistics, sociology of labour and the authors' Mystery AI Hype Theater 3000 podcast.",
+   "method_zh": "批判性著作，借助语言学、劳动社会学以及两位作者的播客 Mystery AI Hype Theater 3000。",
+   "keywords": [
+    "AI hype",
+    "DAIR",
+    "labour",
+    "Harper",
+    "critique"
+   ],
+   "images": [
+    "https://thecon.ai/wp-content/uploads/2024/12/ai-con-featured-now.png"
+   ],
+   "paper": {
+    "url": "https://thecon.ai/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Harper, 2025",
+    "title": "The AI Con: How to Fight Big Tech's Hype and Create the Future We Want"
+   },
+   "source_url": "https://thecon.ai/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Agnieszka Kurant — Aggregated Ghosts (2020)",
+   "why": "Shown next to Meta Office in the click-work section of The World Through AI (Jeu de Paume 2025); Kurant has two works in the gallery already.",
+   "link": "https://www.theartnewspaper.com/2025/04/07/jeu-de-paume-survey-artists-working-with-artificial-intelligence",
+   "found_via": "meta-office",
+   "status": "open"
+  },
+  {
+   "name": "David Cope — Emily Howell (2009–2012)",
+   "why": "Cope's successor program to EMI, modelled on Boden's types of creativity, with albums From Darkness, Light (2009) and Breathless (2012).",
+   "link": "https://en.wikipedia.org/wiki/David_Cope",
+   "found_via": "david-cope",
+   "status": "open"
+  },
+  {
+   "name": "Geumhyung Jeong — Homemade RC Toy (2019)",
+   "why": "Remote-controlled sculptures from dental props and mannequins, made for her Kunsthalle Basel solo show; third Jeong work if wanted.",
+   "link": "https://finestresullarte.info/en/exhibitions/korean-artist-geumhyung-jeong-s-robots-are-on-display-in-modena-italy",
+   "found_via": "geumhyung-jeong",
+   "status": "open"
+  }
+ ]
+}
