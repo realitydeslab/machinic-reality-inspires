@@ -1,0 +1,334 @@
+{
+ "Lev Manovich — A Medium That Thinks: AI and Media Cognition (2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Re-checked manovich.net 2026-11-24: still described as 'the first part of my article (in progress)'. Not yet complete.",
+  "pass": "2026-11b"
+ },
+ "Amelie Knecht, Ulysse Schaller, Christopher Summerfield, Thilo Hagendorff, Shutdown Sabotage Propensities in Multi-Agent Systems (arXiv 2609.28274, Sept 2026)": {
+  "status": "added",
+  "work_ids": [
+   "amelie-knecht--shutdown-sabotage-multi-agent"
+  ],
+  "note": "arXiv 2609.28274 verified 2026-11; abstract read. New creator amelie-knecht.",
+  "pass": "2026-11b"
+ },
+ "Star Trek: The Next Generation, The Measure of a Man (1989)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: facts confirmed on Wikipedia (first aired 13 Feb 1989, written by Melinda M. Snodgrass), but only fan-uploaded clips found on YouTube; needs an official still or clip before adding.",
+  "pass": "2026-11b"
+ },
+ "Masahiko Inami lab — MetaLimbs (2017)": {
+  "status": "added",
+  "work_ids": [
+   "masahiko-inami--metalimbs"
+  ],
+  "note": "2026-11: Inami Lab video and DOI 10.1145/3084822.3084837 verified (SIGGRAPH 2017 Emerging Technologies; Sasaki, Saraiji, Fernando, Minamizawa, Inami). Foot control marked 'likely'. Filed under existing creator masahiko-inami.",
+  "pass": "2026-11b"
+ },
+ "Lin Pey-Chwen (林珮淳) – Eve Clone series (2006–)": {
+  "status": "added",
+  "work_ids": [
+   "lin-pey-chwen--eve-clone"
+  ],
+  "note": "2026-11: added as a series entry (begun 2006) from the artist's Spotlight Taiwan lecture abstract and English Wikipedia; video from the artist's YouTube channel. Individual works are not dated in the sources read.",
+  "pass": "2026-11b"
+ },
+ "Iyo Bisseck — Face Access (2019)": {
+  "status": "added",
+  "work_ids": [
+   "iyo-bisseck--face-access"
+  ],
+  "note": "2026-11: HEK blog text and screenshot verified. Existing creator iyo-bisseck.",
+  "pass": "2026-11b"
+ },
+ "Sondra Perry — netherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 1.0.3 (2016)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: Wikipedia confirms the work was shown at The Kitchen (Resident Evil, 2016) and as 1.0.2 on MOCA's site, but no video or image of it was found in this pass.",
+  "pass": "2026-11b"
+ },
+ "Hans Haacke — Condensation Cube (1963–65) / Visitor's Profile and News (Software, 1970)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: Artforum (Anne M. Wagner on Software) confirms News used Teletype machines and Visitors' Profile fed visitors' answers into a computer that printed statistical profiles (both dated 1969, shown in Software 1970). No image of either work found; the Artforum images show SEEK and Labyrinth. Add once an image is located.",
+  "pass": "2026-11b"
+ },
+ "Nicholas Negroponte — Soft Architecture Machines (MIT Press, 1975)": {
+  "status": "added",
+  "work_ids": [
+   "nicholas-negroponte--soft-architecture-machines"
+  ],
+  "note": "2026-11: MIT Press DOI 10.7551/mitpress/6317.001.0001 verified. Open Library gives first publication 1975, Crossref and Wikipedia 1976; entered as 1975. mitpress.mit.edu blocks automated fetches. New creator nicholas-negroponte.",
+  "pass": "2026-11b"
+ },
+ "Geumhyung Jeong — Homemade RC Toy (2019)": {
+  "status": "added",
+  "work_ids": [
+   "geumhyung-jeong--homemade-rc-toy"
+  ],
+  "note": "2026-11: Kunsthalle Basel video (3 May–11 Aug 2019) and og:image verified. Existing creator geumhyung-jeong.",
+  "pass": "2026-11b"
+ },
+ "Chloe Bensahel — Neural Networks (Instruments of Darkness)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Re-checked LACMA page 2026-11-24: still future tense ('will investigate'); no work shown yet.",
+  "pass": "2026-11b"
+ },
+ "Daniel Heiss & Marc Schütze — Agent Provokateur / Agentic Constellations": {
+  "status": "added",
+  "work_ids": [
+   "daniel-heiss-marc-schutze--agent-provokateur"
+  ],
+  "note": "2026-11: added as Agent Provokateur (ZKM, THE SCREEN, 2026) from the ZKM page, image verified. The Agentic Constellations rework at EnBW could not be re-verified (no page found), so it is not mentioned in the entry.",
+  "pass": "2026-11b"
+ },
+ "Canhe Yang — Where is the Price": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: Lumen page text and four images verified, but the year of first showing could not be confirmed (artist site unreachable, nothing on the Lumen page). Did not win a 2026 Lumen award. Ready to add once the year is known.",
+  "pass": "2026-11b"
+ },
+ "Yuma Kishi — xoxo-skeleton": {
+  "status": "added",
+  "work_ids": [
+   "yuma-kishi--xoxo-skeleton"
+  ],
+  "note": "2026-11: Lumen page text and images verified; also a Falling Walls Global Call 2026 finalist. Year of first showing not confirmed; entered as 2026 with that stated in the method field. Did not win a 2026 Lumen award.",
+  "pass": "2026-11b"
+ },
+ "Luke Shannon — Replacement Character plotter-scanner": {
+  "status": "added",
+  "work_ids": [
+   "luke-shannon--replacement-character-plotter-scanner"
+  ],
+  "note": "2026-11: won the Lumen Prize 2026 Onassis ONX Award (winners page dated 14 Nov 2026). First shown at Heft Gallery, New York, 2025 (Right Click Save, 3 Nov 2025). Tagged lumen-prize.",
+  "pass": "2026-11b"
+ },
+ "Lumen Prize 2026 winners (ceremony November 2026, Kunstsilo)": {
+  "status": "added",
+  "work_ids": [
+   "luke-shannon--replacement-character-plotter-scanner"
+  ],
+  "note": "Winners published 14 Nov 2026 (lumenprize.org/2026-winners). Of the earlier finalist leads only Luke Shannon won (Onassis ONX Award), now added and tagged. Three winners are already in the gallery and should be appended to data/collections/lumen-prize.json: mimi-onuoha--ground-truths (Legacy Futures Award), kate-crawford--calculating-empires (Gold Award), lauren-lee-mccarthy--auto (Experiential Innovation Award). Other winners: Sasha Stiles, Robin Kane, Aiwen Ding & Zhi Geng, Theo Triantafyllidis, DesLauriers/Golid/Rau.",
+  "pass": "2026-11b"
+ },
+ "Todo — Dynamics of a Dog on a Leash": {
+  "status": "duplicate",
+  "work_ids": [
+   "takayuki-todo--dog-on-a-leash"
+  ],
+  "note": "Already in the gallery.",
+  "pass": "2026-11b"
+ },
+ "Lawrence Lek — Empty Rider (2024)": {
+  "status": "added",
+  "work_ids": [
+   "lawrence-lek--empty-rider"
+  ],
+  "note": "2026-11: artist's page verified (2024, 16 min, commissioned for BIM'24, Centre d'Art Contemporain Genève); two images verified. Existing creator lawrence-lek.",
+  "pass": "2026-11b"
+ },
+ "Will Aronson & Hue Park — Maybe Happy Ending (Seoul 2016; Broadway 2024; Tony Best Musical 2025)": {
+  "status": "added",
+  "work_ids": [
+   "will-aronson-hue-park--maybe-happy-ending"
+  ],
+  "note": "2026-11: facts from Wikipedia (Seoul 2016, Broadway 2024, six Tony Awards 2025); official Broadway trailer verified. New creator will-aronson-hue-park.",
+  "pass": "2026-11b"
+ },
+ "Wang Lien-cheng 王连晟 — Utopian Ethical Machine (2025), National Taiwan Museum of Fine Arts": {
+  "status": "added",
+  "work_ids": [
+   "wang-lien-cheng--utopian-ethical-machine"
+  ],
+  "note": "2026-11: description taken from the TNUA Center for Art and Technology page for the December 2024 stage 'Machines of Morality'; the NTMoFA solo show opened 11 Jan 2025. Video is NTMoFA's opening-ceremony upload; no still image found.",
+  "pass": "2026-11b"
+ },
+ "Neo Sora — Happyend (2024)": {
+  "status": "added",
+  "work_ids": [
+   "neo-sora--happyend"
+  ],
+  "note": "2026-11: facts from Wikipedia (Venice Orizzonti premiere 2 Sep 2024); Film Movement trailer verified.",
+  "pass": "2026-11b"
+ },
+ "Lam Pok-yin — An Increasingly Difficult and Futile Task (2021)": {
+  "status": "added",
+  "work_ids": [
+   "lam-pok-yin--an-increasingly-difficult-and-futile-task"
+  ],
+  "note": "2026-11: Vanguard Gallery page verified (MTurk task, over 800 participants, shown at Tai Kwun 2025–26); two images verified. The artist's Chinese name was not confirmed, so name_zh is empty.",
+  "pass": "2026-11b"
+ },
+ "Júlia Nueno Guitart — Sabot: Riding the Algorithm (2022–)": {
+  "status": "added",
+  "work_ids": [
+   "julia-nueno-guitart--sabot"
+  ],
+  "note": "2026-11: Ars Electronica archive text and images verified; prototype dated 2022.",
+  "pass": "2026-11b"
+ },
+ "Mardiya Siba — Adventures of the Witch's Garden": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: project page read (game set in the fictional Anagh, funded by APC's Feminist Tech Joy Grant), but it gives no year of first showing.",
+  "pass": "2026-11b"
+ },
+ "Rachel Maclean — DUCK (2024)": {
+  "status": "added",
+  "work_ids": [
+   "rachel-maclean--duck"
+  ],
+  "note": "2026-11: British Council film database verified (16 min 30, world premiere IFFR 2024); IFFR trailer and still verified. Creator rachel-maclean is defined by recent-art-2026b in this same update, so no creator record here.",
+  "pass": "2026-11b"
+ },
+ "Peace Olatunji — Untangler (2026)": {
+  "status": "added",
+  "work_ids": [
+   "peace-olatunji--untangler"
+  ],
+  "note": "2026-11: S+T+ARTS Prize 2026 nomination page and images verified. Tagged starts-prize.",
+  "pass": "2026-11b"
+ },
+ "Data Against Feminicide — AI tools and data activism (2019–)": {
+  "status": "added",
+  "work_ids": [
+   "catherine-dignazio--counting-feminicide"
+  ],
+  "note": "2026-11: added as Catherine D'Ignazio's book Counting Feminicide (MIT Press 2024, DOI 10.7551/mitpress/14671.001.0001), which reports on the project. Paper-only card. The S+T+ARTS 2025 Honorary Mention was not re-verified, so no collection tag.",
+  "pass": "2026-11b"
+ },
+ "Yuging Li, Leo Mühlfeld, Alan Schiegl — Large Language Writer (2025)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: project page re-read (June 2024, with Lucy Li and Alan Schiegl; German text on 'honest interfaces'). Not added this pass; no further media checked.",
+  "pass": "2026-11b"
+ },
+ "Sofia Isupova — Mapping Uncertain Landscape: The Satellite (2022–23)": {
+  "status": "added",
+  "work_ids": [
+   "sofia-isupova--mapping-uncertain-landscape-the-satellite"
+  ],
+  "note": "2026-11: artist's page and two images verified (HEAD – Genève 2023). The S+T+ARTS 2024 Honorary Mention was not re-verified, so no collection tag.",
+  "pass": "2026-11b"
+ },
+ "Yuan Goang-Ming — Flat World (2024)": {
+  "status": "added",
+  "work_ids": [
+   "yuan-goang-ming--flat-world"
+  ],
+  "note": "2026-11: the artist's own YouTube demo (1 min) verified; description from the e-flux announcement of Everyday War. Existing creator yuan-goang-ming.",
+  "pass": "2026-11b"
+ },
+ "Shinichi Furuya — Surpassing Limits of Virtuosity of Pianists by Exoskeleton (2025)": {
+  "status": "added",
+  "work_ids": [
+   "shinichi-furuya--hand-exoskeleton-pianists"
+  ],
+  "note": "2026-11: DOI 10.1126/scirobotics.adn3802 verified (Science Robotics, Jan 2025) and abstract read; New Scientist video verified. The S+T+ARTS 2025 nomination was not re-verified, so no collection tag.",
+  "pass": "2026-11b"
+ },
+ "Jungwoo Lee — In Writing 'Hurrah for Freedom': Cinema and History": {
+  "status": "duplicate",
+  "work_ids": [
+   "lee-jungwoo--written-film-history-to-be-written"
+  ],
+  "note": "Same work as the gallery's entry on the AI reconstruction of Viva Freedom! (1946), listed under its MMCA title.",
+  "pass": "2026-11b"
+ },
+ "Lo-Def Film Factory — Dzata: The Institute of Technological Consciousness (2023)": {
+  "status": "added",
+  "work_ids": [
+   "lo-def-film-factory--dzata"
+  ],
+  "note": "2026-11: Lumen 2023 Global Majority Award page verified; full film on the collective's YouTube channel verified. Existing creator lo-def-film-factory. Tagged lumen-prize.",
+  "pass": "2026-11b"
+ },
+ "Mahmoud Alhaj — Control Anatomy (2021–24)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: MERIP essay read (Control Anatomy was his first solo show, Zawyeh Gallery, Ramallah, June 2024; digital works on surveillance under occupation). No single work chosen and images not verified.",
+  "pass": "2026-11b"
+ },
+ "Superflux — Relics of Abundance (2026), Weltmuseum Wien": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Re-checked superflux.in 2026-11-24: the title appears in a news item, but no project page with a description or media was found.",
+  "pass": "2026-11b"
+ },
+ "Melisa Kayowa — Woven Territories (Kinshasa, 2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: the C& article lists 'Territoires tissés' by Melisa Kayowan among nine Afropean Intelligence residencies but does not describe it or show images.",
+  "pass": "2026-11b"
+ },
+ "Erin Robinson & Anthony Frisby — XXX Machina": {
+  "status": "added",
+  "work_ids": [
+   "erin-robinson--xxx-machina"
+  ],
+  "note": "2026-11: artist's site verified (installation text, images, Prix Ars Electronica 2025 Distinction badge; shown at Ars Electronica Festival 2025). Entered as 2025. Tagged prix-ars-ai-life.",
+  "pass": "2026-11b"
+ },
+ "Arvida Byström — PET: Projected Emotional Technologies (2026)": {
+  "status": "added",
+  "work_ids": [
+   "arvida-bystrom--pet-projected-emotional-technologies"
+  ],
+  "note": "2026-11: S+T+ARTS Prize 2026 nomination page and images verified. Tagged starts-prize.",
+  "pass": "2026-11b"
+ },
+ "Amy Karle & Eduardo Reck Miranda — Cortical Echoes (2025)": {
+  "status": "added",
+  "work_ids": [
+   "amy-karle--cortical-echoes"
+  ],
+  "note": "2026-11: S+T+ARTS page, artist's page and Vimeo video verified. The artist's site dates the work 2026 (the lead said 2025); entered as 2026. Tagged starts-prize.",
+  "pass": "2026-11b"
+ },
+ "Andreas Refsgaard & Sofie Burgos-Thorsen — Wicked Mirror (2026)": {
+  "status": "duplicate",
+  "work_ids": [
+   "andreas-refsgaard--wicked-mirror"
+  ],
+  "note": "Added in this same update by the recent-art-2026b batch.",
+  "pass": "2026-11b"
+ },
+ "Nick Couldry, Predatory AI: How We Can Resist Corporate Capture of the Human Mind (Polity, Nov 2026)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "Re-checked 2026-11-24: announced publication date is 26 Nov 2026, two days after this check; the Polity page could not be fetched. Re-check in the next pass.",
+  "pass": "2026-11b"
+ },
+ "Jan Ole Rixen, Kathrin Gerling, Barbara Bruno, Long-Term Integration of a Robot in an Inclusive Daycare (HRI 2026 best paper)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: DOI 10.1145/3757279.3785578 verified (HRI 2026) and best-paper listing confirmed on the HRI 2026 site; abstract not available through Crossref, so not written up.",
+  "pass": "2026-11b"
+ },
+ "Iason Gabriel et al., The Ethics of Advanced AI Assistants (Google DeepMind, 2024)": {
+  "status": "open",
+  "work_ids": [],
+  "note": "2026-11: arXiv API returned HTTP 429 on three attempts, so the id could not be re-verified in this pass.",
+  "pass": "2026-11b"
+ },
+ "Nick Couldry & Ulises A. Mejias, Data Grab: The New Colonialism of Big Tech (2024)": {
+  "status": "added",
+  "work_ids": [
+   "ulises-mejias--data-grab"
+  ],
+  "note": "2026-11: DOI verified (University of Chicago Press, 2024); publisher's description read. Crossref lists the authors as Mejias and Couldry. New creators ulises-mejias and nick-couldry.",
+  "pass": "2026-11b"
+ },
+ "Giustina B. Baron & Hongjin Song, A prolonged journey: Mourning and digital resurrection in the Chinese context (2025)": {
+  "status": "added",
+  "work_ids": [
+   "giustina-baron--a-prolonged-journey"
+  ],
+  "note": "2026-11: DOI verified and abstract read via Crossref (authors Giustina Benedetta Baron and Hongjin Song). Crossref gives the title only as 'A prolonged journey'.",
+  "pass": "2026-11b"
+ }
+}

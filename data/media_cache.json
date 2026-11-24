@@ -14689,9 +14689,9 @@
  },
  "ytmax:GxSJQnWzJOs": {
   "url": "https://i.ytimg.com/vi/GxSJQnWzJOs/maxresdefault.jpg",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 404: Not Found"
+  "content_type": "image/jpeg"
  },
  "ytmax:O5ZGlWB36J8": {
   "url": "https://i.ytimg.com/vi/O5ZGlWB36J8/maxresdefault.jpg",
@@ -21645,6 +21645,1290 @@
  },
  "ytmax:4Wu2QzM4P-c": {
   "url": "https://i.ytimg.com/vi/4Wu2QzM4P-c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://xxxmachina.com/images/installation/xxx-machina-7.jpeg": {
+  "url": "https://xxxmachina.com/images/installation/xxx-machina-7.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://xxxmachina.com/images/installation/xxx-2.jpg": {
+  "url": "https://xxxmachina.com/images/installation/xxx-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/308e3502-3649-4f7e-9d61-e6c4536cafe2/Luke+Shannon+-+Replacement+Character+plotter-scanner+4.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/308e3502-3649-4f7e-9d61-e6c4536cafe2/Luke+Shannon+-+Replacement+Character+plotter-scanner+4.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784817721304-NFS8RIPA22HEM37L73J2/Luke+Shannon+-+Replacement+Character+plotter-scanner+.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784817721304-NFS8RIPA22HEM37L73J2/Luke+Shannon+-+Replacement+Character+plotter-scanner+.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.prod.website-files.com/65f0380da79777009462a09f/66b94ac0b48dad5fa0723b09_240116_LawrenceLek_EmptyRider_Screenshot_3840x2160_01%20copy.jpg": {
+  "url": "https://cdn.prod.website-files.com/65f0380da79777009462a09f/66b94ac0b48dad5fa0723b09_240116_LawrenceLek_EmptyRider_Screenshot_3840x2160_01%20copy.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f96d06918b0ebc9b9f46a2_LawrenceLek_EmptyRider_CAC-Geneve_BIM24_PhotoMathilda%20Olmi_03.jpg": {
+  "url": "https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f96d06918b0ebc9b9f46a2_LawrenceLek_EmptyRider_CAC-Geneve_BIM24_PhotoMathilda%20Olmi_03.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:-9IykSX0PAk": {
+  "url": "https://www.youtube.com/watch?v=-9IykSX0PAk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-9IykSX0PAk",
+  "title": "DUCK – trailer | IFFR 2024",
+  "author": "International Film Festival Rotterdam – IFFR",
+  "thumbnail": "https://i.ytimg.com/vi/-9IykSX0PAk/hqdefault.jpg"
+ },
+ "img:https://filmsandfestivals.britishcouncil.org/storage/project/images/films/2024/05/DUCK_8k_14_44_01_1711229376093_001de610e000.jpg": {
+  "url": "https://filmsandfestivals.britishcouncil.org/storage/project/images/films/2024/05/DUCK_8k_14_44_01_1711229376093_001de610e000.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:AfhIytlFUww": {
+  "url": "https://www.youtube.com/watch?v=AfhIytlFUww",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AfhIytlFUww",
+  "title": "Dzata: The Institute of Technological Consciousness (2023)",
+  "author": "Lo-Def Film Factory",
+  "thumbnail": "https://i.ytimg.com/vi/AfhIytlFUww/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/e252c261-b176-4f5d-b4df-4f37648ef823/Dzata-%2BThe%2BInstitute%2Bof%2BTechnological%2BConsciousness%2Bby%2BAmy%2BLouise%2BWilson+%283%29.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/e252c261-b176-4f5d-b4df-4f37648ef823/Dzata-%2BThe%2BInstitute%2Bof%2BTechnological%2BConsciousness%2Bby%2BAmy%2BLouise%2BWilson+%283%29.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://share.hek.ch/wp-content/uploads/2019/08/FaceAccess.jpg": {
+  "url": "https://share.hek.ch/wp-content/uploads/2019/08/FaceAccess.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.vanguardgallery.com/wp-content/uploads/2025/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924230746_26_131-1280x960.jpg": {
+  "url": "https://www.vanguardgallery.com/wp-content/uploads/2025/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924230746_26_131-1280x960.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.vanguardgallery.com/wp-content/uploads/2025/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-09-24_164506_453.jpg": {
+  "url": "https://www.vanguardgallery.com/wp-content/uploads/2025/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-09-24_164506_453.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://archive.aec.at/asset/3906086/preview/": {
+  "url": "https://archive.aec.at/asset/3906086/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://archive.aec.at/asset/3906087/preview/": {
+  "url": "https://archive.aec.at/asset/3906087/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:OnZrW4VpTkg": {
+  "url": "https://www.youtube.com/watch?v=OnZrW4VpTkg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "OnZrW4VpTkg",
+  "title": "Flat World／扁平世界 Demo 1min.",
+  "author": "Goang-Ming YUAN",
+  "thumbnail": "https://i.ytimg.com/vi/OnZrW4VpTkg/hqdefault.jpg"
+ },
+ "video:youtube:kA0UW6mFvOA": {
+  "url": "https://www.youtube.com/watch?v=kA0UW6mFvOA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kA0UW6mFvOA",
+  "title": "「王連晟：烏托邦的倫理機器」開幕式",
+  "author": "國立台灣美術館 (National Taiwan Museum of Fine Arts)",
+  "thumbnail": "https://i.ytimg.com/vi/kA0UW6mFvOA/hqdefault.jpg"
+ },
+ "video:youtube:5xCm5KWpIM4": {
+  "url": "https://www.youtube.com/watch?v=5xCm5KWpIM4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5xCm5KWpIM4",
+  "title": "2926林珮淳《夏娃克隆巴別塔I,II 》沈浸式投影Pey-Chwen Lin, “Eve Clone Babel I, II” Projection Installation",
+  "author": "Pey-Chwen Lin 林珮淳",
+  "thumbnail": "https://i.ytimg.com/vi/5xCm5KWpIM4/hqdefault.jpg"
+ },
+ "video:youtube:_JtMYGBioH0": {
+  "url": "https://www.youtube.com/watch?v=_JtMYGBioH0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_JtMYGBioH0",
+  "title": "Geumhyung Jeong: Homemade RC Toy (3.5.–11.8.2019)",
+  "author": "Kunsthalle Basel",
+  "thumbnail": "https://i.ytimg.com/vi/_JtMYGBioH0/hqdefault.jpg"
+ },
+ "img:https://www.kunsthallebasel.ch/media/site/6f14d10c15-1749913411/frame-15-1200x630-crop.jpg": {
+  "url": "https://www.kunsthallebasel.ch/media/site/6f14d10c15-1749913411/frame-15-1200x630-crop.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/f34a1344-1730-4a82-ae9a-5face4289858/Yuma+Kishi+-+xoxo-skeleton+.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/f34a1344-1730-4a82-ae9a-5face4289858/Yuma+Kishi+-+xoxo-skeleton+.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784731945954-Q1AAWJOSPAJCAMWY4OFE/Yuma+Kishi+-+xoxo-skeleton+2.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784731945954-Q1AAWJOSPAJCAMWY4OFE/Yuma+Kishi+-+xoxo-skeleton+2.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/pet_bunny.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/pet_bunny.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/pet_fox.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/pet_fox.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:1171672567": {
+  "url": "https://vimeo.com/1171672567",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1171672567",
+  "embeddable": true,
+  "title": "Cortical Echoes",
+  "thumbnail": "https://i.vimeocdn.com/video/2135258690-3495b8d11e0097d1de1c8db821f3f22ed4c4e530c2e9894dba08af62ea056fb6-d?f=webp&region=us"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/cortical-echoes-3.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/cortical-echoes-3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://freight.cargo.site/w/1200/i/a7a65a6a1399d3738c76b5058ba9559fcfe10112b0b71194f3b9c02ed60afc6a/MA-EspaceCom-2023-Sonya-Isupova-HEADGeneve-Guillaume-Collignon-2.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/a7a65a6a1399d3738c76b5058ba9559fcfe10112b0b71194f3b9c02ed60afc6a/MA-EspaceCom-2023-Sonya-Isupova-HEADGeneve-Guillaume-Collignon-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/bfa12cc55ff82427de55a07e7ebdafe43b4b402325233bf5900d0db32a100eab/MA-EspaceCom-2023-Sonya-Isupova-HEADGeneve-Guillaume-Collignon-1.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/bfa12cc55ff82427de55a07e7ebdafe43b4b402325233bf5900d0db32a100eab/MA-EspaceCom-2023-Sonya-Isupova-HEADGeneve-Guillaume-Collignon-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/untangler_installation.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/untangler_installation.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/untangler_connect.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/untangler_connect.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:c-aGhUjerL8": {
+  "url": "https://www.youtube.com/watch?v=c-aGhUjerL8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "c-aGhUjerL8",
+  "title": "Maybe Happy Ending: A New Musical on Broadway",
+  "author": "Maybe Happy Ending",
+  "thumbnail": "https://i.ytimg.com/vi/c-aGhUjerL8/hqdefault.jpg"
+ },
+ "video:youtube:8gWKm5eFo44": {
+  "url": "https://www.youtube.com/watch?v=8gWKm5eFo44",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8gWKm5eFo44",
+  "title": "HAPPYEND (2024) | Trailer | Neo Sora",
+  "author": "Film Movement",
+  "thumbnail": "https://i.ytimg.com/vi/8gWKm5eFo44/hqdefault.jpg"
+ },
+ "video:youtube:sKjAp0iZ7dc": {
+  "url": "https://www.youtube.com/watch?v=sKjAp0iZ7dc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sKjAp0iZ7dc",
+  "title": "MetaLimbs: Multiple Arms Interaction Metamorphism (2017)",
+  "author": "InamiLaboratory",
+  "thumbnail": "https://i.ytimg.com/vi/sKjAp0iZ7dc/hqdefault.jpg"
+ },
+ "doi:10.1145/3084822.3084837": {
+  "doi": "10.1145/3084822.3084837",
+  "ok": true,
+  "type": "doi",
+  "title": "MetaLimbs",
+  "year": 2017,
+  "venue": "ACM SIGGRAPH 2017 Emerging Technologies",
+  "url": "https://doi.org/10.1145/3084822.3084837"
+ },
+ "video:youtube:Xhn0UbR3hwU": {
+  "url": "https://www.youtube.com/watch?v=Xhn0UbR3hwU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Xhn0UbR3hwU",
+  "title": "Robotic hand exoskeleton increases speed of expert pianists",
+  "author": "New Scientist",
+  "thumbnail": "https://i.ytimg.com/vi/Xhn0UbR3hwU/hqdefault.jpg"
+ },
+ "doi:10.1126/scirobotics.adn3802": {
+  "doi": "10.1126/scirobotics.adn3802",
+  "ok": true,
+  "type": "doi",
+  "title": "Surmounting the ceiling effect of motor expertise by novel sensory experience with a hand exoskeleton",
+  "year": 2025,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.adn3802"
+ },
+ "doi:10.7551/mitpress/6317.001.0001": {
+  "doi": "10.7551/mitpress/6317.001.0001",
+  "ok": true,
+  "type": "doi",
+  "title": "Soft Architecture Machines",
+  "year": 1976,
+  "venue": "",
+  "url": "https://doi.org/10.7551/mitpress/6317.001.0001"
+ },
+ "doi:10.7208/chicago/9780226832319.001.0001": {
+  "doi": "10.7208/chicago/9780226832319.001.0001",
+  "ok": true,
+  "type": "doi",
+  "title": "Data Grab",
+  "year": 2024,
+  "venue": "",
+  "url": "https://doi.org/10.7208/chicago/9780226832319.001.0001"
+ },
+ "doi:10.7551/mitpress/14671.001.0001": {
+  "doi": "10.7551/mitpress/14671.001.0001",
+  "ok": true,
+  "type": "doi",
+  "title": "Counting Feminicide",
+  "year": 2024,
+  "venue": "",
+  "url": "https://doi.org/10.7551/mitpress/14671.001.0001"
+ },
+ "arxiv:2609.28274": {
+  "arxiv": "2609.28274",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Shutdown Sabotage Propensities in Multi-Agent Systems",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2609.28274"
+ },
+ "doi:10.18861/ic.2025.20.2.4112": {
+  "doi": "10.18861/ic.2025.20.2.4112",
+  "ok": true,
+  "type": "doi",
+  "title": "A prolonged journey",
+  "year": 2025,
+  "venue": "InMediaciones de la Comunicación",
+  "url": "https://doi.org/10.18861/ic.2025.20.2.4112"
+ },
+ "img:https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/03/09/111909/SCREEN_5-3.jpg?itok=u4ipHOdJ": {
+  "url": "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/03/09/111909/SCREEN_5-3.jpg?itok=u4ipHOdJ",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:1199083205": {
+  "url": "https://vimeo.com/1199083205",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1199083205",
+  "embeddable": true,
+  "title": "operator_project_video",
+  "thumbnail": "https://i.vimeocdn.com/video/2165836606-70a632856936611e57cd07dd2aeb01c6a8ae958c536cd643f2b4709e355845c9-d?f=webp&region=us"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_02.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_01.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_07.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_07.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://36.bienale.si/media/images/Open_world_image-1.width-1920.jpg": {
+  "url": "https://36.bienale.si/media/images/Open_world_image-1.width-1920.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/open_world-aphotoelabialkowskaoknostudio29aphotoelabialkowskaoknostudio.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/open_world-aphotoelabialkowskaoknostudio29aphotoelabialkowskaoknostudio.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/open_world_2aphotoelabialkowskaoknostudio29aphotoelabialkowskaoknostudio.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/open_world_2aphotoelabialkowskaoknostudio29aphotoelabialkowskaoknostudio.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:N7nRL_pRIqw": {
+  "url": "https://www.youtube.com/watch?v=N7nRL_pRIqw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "N7nRL_pRIqw",
+  "title": "The Lightness of Submission (2025), Dennis Hong",
+  "author": "RoMeLa",
+  "thumbnail": "https://i.ytimg.com/vi/N7nRL_pRIqw/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/07/the-lightness-of-submission-2-a-talbaiyu.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/the-lightness-of-submission-2-a-talbaiyu.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/the-lightness-of-submission-1-a-talbaiyu.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/the-lightness-of-submission-1-a-talbaiyu.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "arxiv:2506.00021": {
+  "arxiv": "2506.00021",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Buoyant Choreographies: Harmonies of Light, Sound, and Human Connection",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2506.00021"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/global_level_of_confidence/global_level_of_confidence2.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/global_level_of_confidence/global_level_of_confidence2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/global-level-of-confidence-global_level_of_confidence_montreal_2025_rlh_005.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/global-level-of-confidence-global_level_of_confidence_montreal_2025_rlh_005.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/global-level-of-confidence-global_level_of_confidence_montreal_2025_rlh_007.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/global-level-of-confidence-global_level_of_confidence_montreal_2025_rlh_007.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:Q2ZDXggTBJ0": {
+  "url": "https://www.youtube.com/watch?v=Q2ZDXggTBJ0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Q2ZDXggTBJ0",
+  "title": "spot on - interactive art installation by Stefan Szeider - ars electronica 2026",
+  "author": "Prof Stefan's Channel",
+  "thumbnail": "https://i.ytimg.com/vi/Q2ZDXggTBJ0/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/07/stool_stefan_szeider_2026.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/stool_stefan_szeider_2026.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/07/speaker_stefan_szeider_2026.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/speaker_stefan_szeider_2026.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/07/group_stefan_szeider_2026.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/group_stefan_szeider_2026.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/wicked-mirror-generated-image-march-02-2026-1_59pm.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/wicked-mirror-generated-image-march-02-2026-1_59pm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/08/wicked-mirror-generated-image-march-02-2026-2_00pm.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/08/wicked-mirror-generated-image-march-02-2026-2_00pm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://whitneymedia.org/assets/image/833497/large_2026_BIENNIAL_018_PS.jpg": {
+  "url": "https://whitneymedia.org/assets/image/833497/large_2026_BIENNIAL_018_PS.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.sanity.io/images/cxgd3urn/production/bf30e2079fcf9b5a6b8c92c5c921358ba0ed6004-1224x816.jpg?w=1200&h=800&q=85&fit=crop&auto=format": {
+  "url": "https://cdn.sanity.io/images/cxgd3urn/production/bf30e2079fcf9b5a6b8c92c5c921358ba0ed6004-1224x816.jpg?w=1200&h=800&q=85&fit=crop&auto=format",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://sadie-coles.transforms.svdcdn.com/production/images/Guanyin-II-The-Caretaker-Still1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1776092461&s=f589123a59931955d714f128dbae5194": {
+  "url": "https://sadie-coles.transforms.svdcdn.com/production/images/Guanyin-II-The-Caretaker-Still1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1776092461&s=f589123a59931955d714f128dbae5194",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://assets-cdn.vam.ac.uk/2026/04/15/07/51/50/79620120-0527-4009-87b1-3c6d50e2961b/guanyin-ii-the-caretaker-lawrence-lek_640.jpg": {
+  "url": "https://assets-cdn.vam.ac.uk/2026/04/15/07/51/50/79620120-0527-4009-87b1-3c6d50e2961b/guanyin-ii-the-caretaker-lawrence-lek_640.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_01.jpg": {
+  "url": "https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_02.jpg": {
+  "url": "https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_03.jpg": {
+  "url": "https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_03.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/TGYE_260106_LOCKED_STILL_03.jpg?v=1776331331": {
+  "url": "https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/TGYE_260106_LOCKED_STILL_03.jpg?v=1776331331",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/A003_C051_1107YR_001.00_07_53_24.Still002.jpeg?v=1776331339": {
+  "url": "https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/A003_C051_1107YR_001.00_07_53_24.Still002.jpeg?v=1776331339",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/WEB-1500px-72dpi-FACT-March-2026-MARCH-2026-cRob-Battersby-46.jpg?v=1776267967": {
+  "url": "https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/WEB-1500px-72dpi-FACT-March-2026-MARCH-2026-cRob-Battersby-46.jpg?v=1776267967",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-venice-franchetti-MDG2903-1024x683.jpg": {
+  "url": "https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-venice-franchetti-MDG2903-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-screenshot-01-580x1024.jpg": {
+  "url": "https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-screenshot-01-580x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-monumento-connettivo-venice-franchetti-MDG2764-683x1024.jpg": {
+  "url": "https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-monumento-connettivo-venice-franchetti-MDG2764-683x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2025/12/post_truth1_low-res.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2025/12/post_truth1_low-res.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2025/12/political_ideology-low-res.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2025/12/political_ideology-low-res.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2025/12/61.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2025/12/61.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:1206087794": {
+  "url": "https://vimeo.com/1206087794",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1206087794",
+  "embeddable": true,
+  "title": "Bot Love: The Rise of AI Companions - Trailer",
+  "thumbnail": "https://i.vimeocdn.com/video/2174841217-6382bdc78bc95339752b28d8384378532d84af30ff37a70d70fd6cb2401b808e-d?f=webp&region=us"
+ },
+ "img:https://www.sidewaysfilm.com/wp-content/themes/sideways/images/film/film-6480.jpg": {
+  "url": "https://www.sidewaysfilm.com/wp-content/themes/sideways/images/film/film-6480.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/07/kho_geister_mediengr-bitnik_ansichten_web-26.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/kho_geister_mediengr-bitnik_ansichten_web-26.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/negotiatinghumanity/files/2026/07/kho_geister_mediengr-bitnik_ansichten_highres-47.jpg": {
+  "url": "https://ars.electronica.art/negotiatinghumanity/files/2026/07/kho_geister_mediengr-bitnik_ansichten_highres-47.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:j5mlc8TAPNw": {
+  "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "j5mlc8TAPNw",
+  "title": "Sheep in the Box - Official Trailer - In Theaters July 24",
+  "author": "NEON",
+  "thumbnail": "https://i.ytimg.com/vi/j5mlc8TAPNw/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/b/bd/Sheep_in_the_Box_2026.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Sheep_in_the_Box_2026.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Yhdt5zJ1_Jc": {
+  "url": "https://www.youtube.com/watch?v=Yhdt5zJ1_Jc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Yhdt5zJ1_Jc",
+  "title": "PARADISE LOST | Official Trailer | Directed by Yeon Sang-ho | In Theaters November 6",
+  "author": "Well Go USA Entertainment",
+  "thumbnail": "https://i.ytimg.com/vi/Yhdt5zJ1_Jc/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/9/90/Paradise_Lost_2026_film_poster.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Paradise_Lost_2026_film_poster.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:7lEVKompf30": {
+  "url": "https://www.youtube.com/watch?v=7lEVKompf30",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7lEVKompf30",
+  "title": "ANDROID MARIA",
+  "author": "Keiichiro Shibuya",
+  "thumbnail": "https://i.ytimg.com/vi/7lEVKompf30/hqdefault.jpg"
+ },
+ "img:https://media.timeout.com/images/106289009/750/422/image.jpg": {
+  "url": "https://media.timeout.com/images/106289009/750/422/image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:hi4jJdvskyg": {
+  "url": "https://www.youtube.com/watch?v=hi4jJdvskyg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hi4jJdvskyg",
+  "title": "Kawita Vatanajyankur & Pat Pataranutaporn/ Asia Pacific Triennial Artist Lecture",
+  "author": "QAGOMA",
+  "thumbnail": "https://i.ytimg.com/vi/hi4jJdvskyg/hqdefault.jpg"
+ },
+ "img:https://dam-prod.media.mit.edu/thumb/2024/08/08/2024_APT11_mediasuite_00736.webp.1400x1400.webp": {
+  "url": "https://dam-prod.media.mit.edu/thumb/2024/08/08/2024_APT11_mediasuite_00736.webp.1400x1400.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://english.shanghai.gov.cn/cmsres/79/79a201bc30f04561a1c46c9be9026d6f/01d3b9a3d55e24be766c48ab5a96070d.png": {
+  "url": "https://english.shanghai.gov.cn/cmsres/79/79a201bc30f04561a1c46c9be9026d6f/01d3b9a3d55e24be766c48ab5a96070d.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://backend.artreview.com/wp-content/uploads/2026/06/KawitaVatanajyankur-_Tracing_03-2048x1365.jpg": {
+  "url": "https://backend.artreview.com/wp-content/uploads/2026/06/KawitaVatanajyankur-_Tracing_03-2048x1365.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://singaporeartmuseum.sg/-/media/SAM/Images/Material-Intelligence-3/1920-x-1440-Visuals/LOOP--1920-x-1440.png": {
+  "url": "https://singaporeartmuseum.sg/-/media/SAM/Images/Material-Intelligence-3/1920-x-1440-Visuals/LOOP--1920-x-1440.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://storage.ghost.io/c/16/43/16435400-f27e-4b41-b5f7-d0c24f5ce4de/content/images/size/w1200/2026/04/5-Singapore.jpg": {
+  "url": "https://storage.ghost.io/c/16/43/16435400-f27e-4b41-b5f7-d0c24f5ce4de/content/images/size/w1200/2026/04/5-Singapore.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i0.wp.com/couturetroopers.com/wp-content/uploads/2026/09/img_0359.png": {
+  "url": "https://i0.wp.com/couturetroopers.com/wp-content/uploads/2026/09/img_0359.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://i0.wp.com/couturetroopers.com/wp-content/uploads/2026/09/img_0358.jpg": {
+  "url": "https://i0.wp.com/couturetroopers.com/wp-content/uploads/2026/09/img_0358.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://idea-cp.cnfin.com/ice/2026/09/20/287973ac09c648aba4f15d7847947bab.jpeg": {
+  "url": "https://idea-cp.cnfin.com/ice/2026/09/20/287973ac09c648aba4f15d7847947bab.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://idea-cp.cnfin.com/ice/2026/09/20/d2331039b5b2491ba7c19077f7d3e479.jpeg": {
+  "url": "https://idea-cp.cnfin.com/ice/2026/09/20/d2331039b5b2491ba7c19077f7d3e479.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:mUmlv814aJo": {
+  "url": "https://www.youtube.com/watch?v=mUmlv814aJo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mUmlv814aJo",
+  "title": "Martial arts robots dazzle at 2026 Spring Festival Gala #CoolChina #springfestival2026 #kungfu",
+  "author": "CGTN",
+  "thumbnail": "https://i.ytimg.com/vi/mUmlv814aJo/hqdefault.jpg"
+ },
+ "img:https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/202602173a6a989b25b54b559ce7ab3ad9d66907_d212808a69364ffa884f6479b7ef96a9.jpg": {
+  "url": "https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/202602173a6a989b25b54b559ce7ab3ad9d66907_d212808a69364ffa884f6479b7ef96a9.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/202602173a6a989b25b54b559ce7ab3ad9d66907_504e5459e6ed4f18b1425d34e10b9f86.jpg": {
+  "url": "https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/202602173a6a989b25b54b559ce7ab3ad9d66907_504e5459e6ed4f18b1425d34e10b9f86.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://imgpai.thepaper.cn/newpai/image/1794381477502_ZWShRE_1794381814175.jpg?x-oss-process=image/resize,w_1024": {
+  "url": "https://imgpai.thepaper.cn/newpai/image/1794381477502_ZWShRE_1794381814175.jpg?x-oss-process=image/resize,w_1024",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://imgpai.thepaper.cn/newpai/image/1794381474301_hsGKr5_1794381757841.jpg?x-oss-process=image/resize,w_1024": {
+  "url": "https://imgpai.thepaper.cn/newpai/image/1794381474301_hsGKr5_1794381757841.jpg?x-oss-process=image/resize,w_1024",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artsg.com/wp-content/uploads/2024/11/Shavonne-Wong_Eva.jpg": {
+  "url": "https://artsg.com/wp-content/uploads/2024/11/Shavonne-Wong_Eva.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://imgpai.thepaper.cn/newpai/image/1794460154000_e6mDmR_1794460191062.jpg?x-oss-process=image/resize,w_1024": {
+  "url": "https://imgpai.thepaper.cn/newpai/image/1794460154000_e6mDmR_1794460191062.jpg?x-oss-process=image/resize,w_1024",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:vcrx14GZ_Io": {
+  "url": "https://www.youtube.com/watch?v=vcrx14GZ_Io",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vcrx14GZ_Io",
+  "title": "A USEFUL GHOST | Official Trailer",
+  "author": "Fandor",
+  "thumbnail": "https://i.ytimg.com/vi/vcrx14GZ_Io/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/1/1b/A_Useful_Ghost.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/A_Useful_Ghost.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://modemworks.com/wp-content/uploads/2025/12/MODEM_DREAM_RECORDER_LIFESTYLE_002.jpg": {
+  "url": "https://modemworks.com/wp-content/uploads/2025/12/MODEM_DREAM_RECORDER_LIFESTYLE_002.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2025/06/dream-recorder-modem-technology_dezeen_2364_hero.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2025/06/dream-recorder-modem-technology_dezeen_2364_hero.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2026/03/quartz-ring-modem-retinaa-technology_dezeen_2364_hero.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2026/03/quartz-ring-modem-retinaa-technology_dezeen_2364_hero.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://murmur.living/og.png": {
+  "url": "https://murmur.living/og.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.murmur.living/images/pond_exploded_view_1.webp": {
+  "url": "https://www.murmur.living/images/pond_exploded_view_1.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2026/01/cognitive-bloom-map-project-office-chanwoo-lee-design_dezeen_2364_hero-852x479.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2026/01/cognitive-bloom-map-project-office-chanwoo-lee-design_dezeen_2364_hero-852x479.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2026/02/hero-cognitive-bloom-map-project-office-chanwoo-lee-design_dezeen_2364_col_0-1704x2239-1.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2026/02/hero-cognitive-bloom-map-project-office-chanwoo-lee-design_dezeen_2364_col_0-1704x2239-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-1-1-1781619928_1788212926_1920x1080.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-1-1-1781619928_1788212926_1920x1080.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:A5QTnUlgcJQ": {
+  "url": "https://www.youtube.com/watch?v=A5QTnUlgcJQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "A5QTnUlgcJQ",
+  "title": "DIGITAL CAMOUFLAGE",
+  "author": "Simon Weckert",
+  "thumbnail": "https://i.ytimg.com/vi/A5QTnUlgcJQ/hqdefault.jpg"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2026/08/digital-camouflage-shirt-ai-video-surveillance-simon-weckert_dezeen_2364_hero_8-600x600.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2026/08/digital-camouflage-shirt-ai-video-surveillance-simon-weckert_dezeen_2364_hero_8-600x600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.simonweckert.com/img/digitalcamouflage/1.jpg": {
+  "url": "https://www.simonweckert.com/img/digitalcamouflage/1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2026/07/decoy-font-mixfont-eric-lu-design_dezeen_2364_hero.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2026/07/decoy-font-mixfont-eric-lu-design_dezeen_2364_hero.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:664965589": {
+  "url": "https://vimeo.com/664965589",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "664965589",
+  "embeddable": true,
+  "title": "ماه طلعت (Moon-faced)",
+  "thumbnail": "https://i.vimeocdn.com/video/1345849607-e0fc02349ba499bf1c53383dfca3cd392cf5e8389eacdce0dc7a2b44b3a7c4a4-d?f=webp&region=us"
+ },
+ "img:https://freight.cargo.site/w/1200/i/N2231361071038951285952132316914/Moon2.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/N2231361071038951285952132316914/Moon2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ameerakawash.com/wp-content/uploads/2026/03/2026_InstitiutingCommoning12-1024x800.jpg": {
+  "url": "https://ameerakawash.com/wp-content/uploads/2026/03/2026_InstitiutingCommoning12-1024x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ameerakawash.com/wp-content/uploads/2024/10/AKUB2.png": {
+  "url": "https://ameerakawash.com/wp-content/uploads/2024/10/AKUB2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cybernetics.anu.edu.au/assets/images/projects/20240627_AngieAbdilla_MeditationOnCountry_009.jpg": {
+  "url": "https://cybernetics.anu.edu.au/assets/images/projects/20240627_AngieAbdilla_MeditationOnCountry_009.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cybernetics.anu.edu.au/assets/images/Meditation_on_country_hero_image.png": {
+  "url": "https://cybernetics.anu.edu.au/assets/images/Meditation_on_country_hero_image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2025/600x600/hybrisecologies03.jpg?itok=Vwni4q8o": {
+  "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2025/600x600/hybrisecologies03.jpg?itok=Vwni4q8o",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.electronica.art/outofthebox/files/2019/08/48688506993_880205b37f_o.jpg": {
+  "url": "https://ars.electronica.art/outofthebox/files/2019/08/48688506993_880205b37f_o.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/outofthebox/files/2019/08/48689013682_267742b80a_o.jpg": {
+  "url": "https://ars.electronica.art/outofthebox/files/2019/08/48689013682_267742b80a_o.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://starts.eu/wp-content/uploads/mask-Egwu-768x1024.jpg": {
+  "url": "https://starts.eu/wp-content/uploads/mask-Egwu-768x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://starts.eu/wp-content/uploads/Masquerade-process-777x1024.jpg": {
+  "url": "https://starts.eu/wp-content/uploads/Masquerade-process-777x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://starts.eu/wp-content/uploads/WhatsApp-Image-2026-06-22-at-13.27.55-1-1024x682.jpeg": {
+  "url": "https://starts.eu/wp-content/uploads/WhatsApp-Image-2026-06-22-at-13.27.55-1-1024x682.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://starts.eu/wp-content/uploads/WhatsApp-Image-2026-06-22-at-13.27.57-1024x682.jpeg": {
+  "url": "https://starts.eu/wp-content/uploads/WhatsApp-Image-2026-06-22-at-13.27.57-1024x682.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://starts.eu/wp-content/uploads/STARTS_Afropean_Intelligence_LoRA-as-an-Archive_04_from_Evans-Akanyijuka_@-1024x683.jpg": {
+  "url": "https://starts.eu/wp-content/uploads/STARTS_Afropean_Intelligence_LoRA-as-an-Archive_04_from_Evans-Akanyijuka_@-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://starts.eu/wp-content/uploads/STARTS_Afropean_Intelligence_LoRA-as-an-Archive_01_from_Evans-Akanyijuka_@-1024x683.jpg": {
+  "url": "https://starts.eu/wp-content/uploads/STARTS_Afropean_Intelligence_LoRA-as-an-Archive_01_from_Evans-Akanyijuka_@-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.desvirtual.com/wp-content/uploads/2023/09/Botannica-Tirannica_Ph-Julia-Thompson_18.jpg": {
+  "url": "https://www.desvirtual.com/wp-content/uploads/2023/09/Botannica-Tirannica_Ph-Julia-Thompson_18.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.desvirtual.com/wp-content/uploads/2023/09/7_036_Flora_Mutandis.jpg": {
+  "url": "https://www.desvirtual.com/wp-content/uploads/2023/09/7_036_Flora_Mutandis.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://assets.claude.com/981a99ea587d41ff8eee607f7ba59ee2d96f6e3a.png": {
+  "url": "https://assets.claude.com/981a99ea587d41ff8eee607f7ba59ee2d96f6e3a.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://assets.claude.com/dcd40af6a09e2277e5a9ea44dcfaa56c2555f3e7.png": {
+  "url": "https://assets.claude.com/dcd40af6a09e2277e5a9ea44dcfaa56c2555f3e7.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2604.07729": {
+  "arxiv": "2604.07729",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Emotion Concepts and their Function in a Large Language Model",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2604.07729"
+ },
+ "img:https://alignment.anthropic.com/2026/psm/fig1.png": {
+  "url": "https://alignment.anthropic.com/2026/psm/fig1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://alignment.anthropic.com/2026/psm/fig2.png": {
+  "url": "https://alignment.anthropic.com/2026/psm/fig2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://alignment.anthropic.com/2026/welfare-regard/fig1.png": {
+  "url": "https://alignment.anthropic.com/2026/welfare-regard/fig1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://alignment.anthropic.com/2026/welfare-regard/fig3.png": {
+  "url": "https://alignment.anthropic.com/2026/welfare-regard/fig3.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2611.10017": {
+  "arxiv": "2611.10017",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Welfare Regard in Multi-Agent Systems",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2611.10017"
+ },
+ "img:https://assets.claude.com/a2fb5f5f8027a143fd39480d4bf6c91f942e1489.jpg": {
+  "url": "https://assets.claude.com/a2fb5f5f8027a143fd39480d4bf6c91f942e1489.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.claude.com/c31f46149240e9cf520233205433c728e47160e4.png": {
+  "url": "https://assets.claude.com/c31f46149240e9cf520233205433c728e47160e4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://assets.claude.com/f5f33f165bb5933075ca9d65ef4d165e6f4b5e80.jpg": {
+  "url": "https://assets.claude.com/f5f33f165bb5933075ca9d65ef4d165e6f4b5e80.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.claude.com/701946d96f607f199fd7d65c8f5e2f50bf9336e4.png": {
+  "url": "https://assets.claude.com/701946d96f607f199fd7d65c8f5e2f50bf9336e4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://assets.claude.com/58e36e8975616a5181bee10436cb9a063ae9101e.jpg": {
+  "url": "https://assets.claude.com/58e36e8975616a5181bee10436cb9a063ae9101e.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.claude.com/3ab915f55f861f1c9a07f53def1fe84ad95822a6.jpg": {
+  "url": "https://assets.claude.com/3ab915f55f861f1c9a07f53def1fe84ad95822a6.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.claude.com/3c056c7e35be469488122bc6ebc455a862c3e144.jpg": {
+  "url": "https://assets.claude.com/3c056c7e35be469488122bc6ebc455a862c3e144.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.claude.com/8089005b02e03a8f51c8360f94d341a85533b608.png": {
+  "url": "https://assets.claude.com/8089005b02e03a8f51c8360f94d341a85533b608.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.ai-wellbeing.org/opengraph-image.png": {
+  "url": "https://www.ai-wellbeing.org/opengraph-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.2139/ssrn.6937498": {
+  "doi": "10.2139/ssrn.6937498",
+  "ok": true,
+  "type": "doi",
+  "title": "Artificial Minds, Human Disagreement: The Political Challenge of AI Consciousness",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.2139/ssrn.6937498"
+ },
+ "arxiv:2604.13052": {
+  "arxiv": "2604.13052",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Form Without Function: Agent Social Behavior in the Moltbook Network",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2604.13052"
+ },
+ "img:https://spirals.stanford.edu/assets/img/annotation_frequency_histogram_delusional.png": {
+  "url": "https://spirals.stanford.edu/assets/img/annotation_frequency_histogram_delusional.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3805689.3806443": {
+  "doi": "10.1145/3805689.3806443",
+  "ok": true,
+  "type": "doi",
+  "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency",
+  "url": "https://doi.org/10.1145/3805689.3806443"
+ },
+ "arxiv:2603.16567": {
+  "arxiv": "2603.16567",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2603.16567"
+ },
+ "img:https://arxiv.org/html/2602.00773v3/head.png": {
+  "url": "https://arxiv.org/html/2602.00773v3/head.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3772318.3791351": {
+  "doi": "10.1145/3772318.3791351",
+  "ok": true,
+  "type": "doi",
+  "title": "\"Please, don’t kill the only model that still feels human\": Understanding the #Keep4o Backlash",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3791351"
+ },
+ "arxiv:2602.00773": {
+  "arxiv": "2602.00773",
+  "ok": true,
+  "type": "arxiv",
+  "title": "\"Please, don't kill the only model that still feels human\": Understanding the #Keep4o Backlash",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2602.00773"
+ },
+ "img:https://arxiv.org/html/2602.07193v2/images/teaserfigure.jpg": {
+  "url": "https://arxiv.org/html/2602.07193v2/images/teaserfigure.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2602.07193v2/images/theme1_1.jpg": {
+  "url": "https://arxiv.org/html/2602.07193v2/images/theme1_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3800645.3813083": {
+  "doi": "10.1145/3800645.3813083",
+  "ok": true,
+  "type": "doi",
+  "title": "\"Death\" of a Chatbot: Investigating and Designing Toward Psychologically Safe Endings for Human-AI Relationships",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3800645.3813083"
+ },
+ "arxiv:2602.07193": {
+  "arxiv": "2602.07193",
+  "ok": true,
+  "type": "arxiv",
+  "title": "\"Death\" of a Chatbot: Investigating and Designing Toward Psychologically Safe Endings for Human-AI Relationships",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2602.07193"
+ },
+ "doi:10.1145/3805689.3806746": {
+  "doi": "10.1145/3805689.3806746",
+  "ok": true,
+  "type": "doi",
+  "title": "Large Language Lovers: Lived Experiences of Negotiating Agency and Platform Control in AI Companionship",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency",
+  "url": "https://doi.org/10.1145/3805689.3806746"
+ },
+ "arxiv:2601.13188": {
+  "arxiv": "2601.13188",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Large Language Lovers: Lived Experiences of Negotiating Agency and Platform Control in AI Companionship",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2601.13188"
+ },
+ "video:youtube:afOTKkJjBKY": {
+  "url": "https://www.youtube.com/watch?v=afOTKkJjBKY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "afOTKkJjBKY",
+  "title": "Object-Agent Twins (OATs): Expressive Micro-Agent Avatars for Inanimate Everyday Objects",
+  "author": "Future Interfaces Group",
+  "thumbnail": "https://i.ytimg.com/vi/afOTKkJjBKY/hqdefault.jpg"
+ },
+ "img:https://daehwakim.com/img/oats.jpg": {
+  "url": "https://daehwakim.com/img/oats.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://daehwakim.com/oat/figures/sea-onion.png": {
+  "url": "https://daehwakim.com/oat/figures/sea-onion.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://daehwakim.com/oat/figures/mr-refrigerator.png": {
+  "url": "https://daehwakim.com/oat/figures/mr-refrigerator.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3830398.3830595": {
+  "doi": "10.1145/3830398.3830595",
+  "ok": true,
+  "type": "doi",
+  "title": "Object-Agent Twins (OATs): Expressive Micro-Agent Avatars for Inanimate Everyday Objects",
+  "year": 2026,
+  "venue": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830398.3830595"
+ },
+ "img:https://whatisintelligence.antikythera.org/assets/media/social-share.jpg": {
+  "url": "https://whatisintelligence.antikythera.org/assets/media/social-share.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-9IykSX0PAk": {
+  "url": "https://i.ytimg.com/vi/-9IykSX0PAk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:AfhIytlFUww": {
+  "url": "https://i.ytimg.com/vi/AfhIytlFUww/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:OnZrW4VpTkg": {
+  "url": "https://i.ytimg.com/vi/OnZrW4VpTkg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kA0UW6mFvOA": {
+  "url": "https://i.ytimg.com/vi/kA0UW6mFvOA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5xCm5KWpIM4": {
+  "url": "https://i.ytimg.com/vi/5xCm5KWpIM4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_JtMYGBioH0": {
+  "url": "https://i.ytimg.com/vi/_JtMYGBioH0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:c-aGhUjerL8": {
+  "url": "https://i.ytimg.com/vi/c-aGhUjerL8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8gWKm5eFo44": {
+  "url": "https://i.ytimg.com/vi/8gWKm5eFo44/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sKjAp0iZ7dc": {
+  "url": "https://i.ytimg.com/vi/sKjAp0iZ7dc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Xhn0UbR3hwU": {
+  "url": "https://i.ytimg.com/vi/Xhn0UbR3hwU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:N7nRL_pRIqw": {
+  "url": "https://i.ytimg.com/vi/N7nRL_pRIqw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Q2ZDXggTBJ0": {
+  "url": "https://i.ytimg.com/vi/Q2ZDXggTBJ0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:j5mlc8TAPNw": {
+  "url": "https://i.ytimg.com/vi/j5mlc8TAPNw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Yhdt5zJ1_Jc": {
+  "url": "https://i.ytimg.com/vi/Yhdt5zJ1_Jc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7lEVKompf30": {
+  "url": "https://i.ytimg.com/vi/7lEVKompf30/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:hi4jJdvskyg": {
+  "url": "https://i.ytimg.com/vi/hi4jJdvskyg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mUmlv814aJo": {
+  "url": "https://i.ytimg.com/vi/mUmlv814aJo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vcrx14GZ_Io": {
+  "url": "https://i.ytimg.com/vi/vcrx14GZ_Io/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:A5QTnUlgcJQ": {
+  "url": "https://i.ytimg.com/vi/A5QTnUlgcJQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:afOTKkJjBKY": {
+  "url": "https://i.ytimg.com/vi/afOTKkJjBKY/maxresdefault.jpg",
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"

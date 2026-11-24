@@ -1,0 +1,1264 @@
+{
+ "batch": "recent-global-design-2026b",
+ "creators": [
+  {
+   "id": "modem",
+   "name": "Modem",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Office for design and innovation",
+   "role_zh": "设计与创新事务所",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "Amsterdam design office co-founded by Astin le Clerq and Bas van de Poel, set up with a fixed closing date of 2030; it publishes open-source and concept devices alongside client work.",
+   "bio_zh": "由 Astin le Clerq 与 Bas van de Poel 联合创办的阿姆斯特丹设计事务所，成立时就定下 2030 年关闭；在客户项目之外发布开源设备和概念设备。",
+   "why": "Its self-initiated devices argue for AI hardware that is calm, local and buildable by anyone, against the engagement logic of commercial AI gadgets.",
+   "why_zh": "它自发的设备项目主张 AI 硬件应当安静、本地运行、人人可以自己搭建，以此反对商业 AI 小设备的“参与度”逻辑。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://modemworks.com/"
+   },
+   "connected_to": [
+    "retinaa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "retinaa",
+   "name": "Retinaa",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design and technology studio",
+   "role_zh": "设计与技术工作室",
+   "based": "Switzerland",
+   "based_zh": "瑞士",
+   "bio": "Swiss studio that partnered with Modem on Quartz, a concept ring for proving personhood.",
+   "bio_zh": "瑞士工作室，与 Modem 合作完成“证明你是真人”的概念戒指 Quartz。",
+   "why": "Co-author of a detailed design proposal for identity after deepfakes.",
+   "why_zh": "深度伪造之后身份如何确认，它是这份详细设计提案的共同作者。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "modem"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "oio",
+   "name": "oio",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Creative company working on products and tools with AI",
+   "role_zh": "围绕 AI 做产品与工具的创意公司",
+   "based": "",
+   "based_zh": "",
+   "bio": "Creative company whose co-founders include Simone Rebaudengo; it designs products and experiments with AI as a collaborator, including Roby, a non-human 'AI creative director'.",
+   "bio_zh": "创意公司，联合创始人之一是 Simone Rebaudengo；把 AI 当作合作者来设计产品和实验，其中包括非人类的“AI 创意总监”Roby。",
+   "why": "It proposes AI agents as inhabitants of small worlds, not as assistants.",
+   "why_zh": "它把 AI 智能体设想成小世界里的居民，而不是助手。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.oio.studio/"
+   },
+   "connected_to": [
+    "simone-rebaudengo",
+    "mattering"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mattering",
+   "name": "Mattering",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Design practice for arts and advanced technologies",
+   "role_zh": "面向艺术与前沿技术的设计实践",
+   "based": "London, UK / Singapore",
+   "based_zh": "伦敦，英国 / 新加坡",
+   "bio": "Design practice working across creative R&D, motion and spatial experience, with studios in London and Singapore.",
+   "bio_zh": "从事创意研发、动态影像和空间体验的设计实践，在伦敦和新加坡设有工作室。",
+   "why": "It designed and simulated the agent worlds inside Mur Mur.",
+   "why_zh": "Mur Mur 内部的智能体世界由它设计和模拟。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://matteringstudio.com/"
+   },
+   "connected_to": [
+    "oio"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "map-project-office",
+   "name": "Map Project Office",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Industrial design studio",
+   "role_zh": "工业设计工作室",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "London industrial design studio founded by Edward Barber and Jay Osgerby and now owned by AKQA.",
+   "bio_zh": "由 Edward Barber 与 Jay Osgerby 创办的伦敦工业设计工作室，现属 AKQA。",
+   "why": "It used a speculative device to take a critical position on AI while clients were asking for AI in every product.",
+   "why_zh": "当客户都要求在产品里加入 AI 时，它用一件思辨设备对 AI 表明了批判立场。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "chanwoo-lee"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chanwoo-lee",
+   "name": "Chanwoo Lee",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interface architect",
+   "role_zh": "界面架构师",
+   "based": "London, UK (likely)",
+   "based_zh": "伦敦，英国（推测）",
+   "bio": "Interface architect and Royal College of Art graduate who built Synapse, a reflection journal that uses 'Socratic AI'.",
+   "bio_zh": "界面架构师，毕业于皇家艺术学院，曾开发使用“苏格拉底式 AI”的反思日记 Synapse。",
+   "why": "He designs AI that asks questions back instead of agreeing with the user.",
+   "why_zh": "他设计的 AI 会反过来提问，而不是附和用户。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "map-project-office"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mees-boeijen",
+   "name": "Mees Boeijen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Product designer; founder, amaranth studio",
+   "role_zh": "产品设计师；amaranth studio 创办人",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "bio": "Eindhoven designer whose amaranth studio works across electronics, embedded systems, software and physical design.",
+   "bio_zh": "埃因霍温设计师，其 amaranth studio 的工作涵盖电子、嵌入式系统、软件与实体设计。",
+   "why": "He turned the 'nothing to hide' argument into a one-week public experiment on himself.",
+   "why_zh": "他把“我没什么可隐瞒的”这句话变成了一场以自己为对象、为期一周的公开实验。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mixfont",
+   "name": "Mixfont",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Digital font foundry and research lab (founder: Eric Lu)",
+   "role_zh": "数字字体厂牌与研究实验室（创办人：Eric Lu）",
+   "based": "",
+   "based_zh": "",
+   "bio": "Font foundry and research lab founded by AI researcher Eric Lu; it sells AI-based font tools and publishes typographic experiments.",
+   "bio_zh": "由 AI 研究者 Eric Lu 创办的字体厂牌与研究实验室，出售基于 AI 的字体工具，也发布字体实验。",
+   "why": "It used typography to find a gap between how people and vision-language models read.",
+   "why_zh": "它用字体设计找到了人与视觉语言模型在“阅读”上的一处差异。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.mixfont.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "morehshin-allahyari",
+   "name": "Morehshin Allahyari",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Assistant Professor of Digital Media Art, Stanford University",
+   "role_zh": "艺术家；斯坦福大学数字媒体艺术助理教授",
+   "based": "Bay Area, US",
+   "based_zh": "旧金山湾区，美国",
+   "bio": "Iranian-Kurdish artist who uses 3D simulation, video, code, sculpture and digital fabrication to re-figure myth and history, building counter-narratives to Western technological colonialism in the Middle East and North Africa.",
+   "bio_zh": "伊朗库尔德裔艺术家，用三维模拟、影像、代码、雕塑和数字制造重塑神话与历史，针对西方技术殖民主义在中东和北非的影响建立反叙事。",
+   "why": "She coined 'digital colonialism' for 3D scanning of heritage and extends that critique to generative AI and image archives.",
+   "why_zh": "她用“数字殖民主义”批评对文化遗产的三维扫描，并把这一批评延伸到生成式 AI 与图像档案。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://morehshin.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ameera-kawash",
+   "name": "Ameera Kawash",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; co-founder, Ark Knowledge Networks",
+   "role_zh": "艺术家、研究者；Ark Knowledge Networks 联合创办人",
+   "based": "",
+   "based_zh": "",
+   "bio": "Artist, researcher and startup founder who treats databases as cultural and embodied archives; co-founder of Ark Knowledge Networks, which develops bias-aware AI tools with cultural context.",
+   "bio_zh": "艺术家、研究者和创业者，把数据库视为文化的、具身的档案；联合创办 Ark Knowledge Networks，开发带有文化语境、对偏见有意识的 AI 工具。",
+   "why": "Her work asks what a generative model built from, and answerable to, a Palestinian craft archive looks like.",
+   "why_zh": "她的作品追问：一个从巴勒斯坦手工艺档案出发、并对这份档案负责的生成模型会是什么样子。",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {
+    "site": "https://ameerakawash.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "angie-abdilla",
+   "name": "Angie Abdilla",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; Professor, ANU School of Cybernetics; Old Ways, New",
+   "role_zh": "艺术家、研究者；澳大利亚国立大学控制论学院教授；Old Ways, New",
+   "based": "Gadigal Country, Sydney, AU",
+   "based_zh": "悉尼（Gadigal 土地），澳大利亚",
+   "bio": "palawa artist and researcher from lutruwita/Tasmania who works on technology as cultural practice; a contributor to the Indigenous Protocol and Artificial Intelligence position paper.",
+   "bio_zh": "来自 lutruwita（塔斯马尼亚）的 palawa 族艺术家和研究者，把技术当作文化实践来研究；《原住民协议与人工智能》立场文件的作者之一。",
+   "why": "She applies Indigenous cultural protocols to the choice of models, datasets and training rules.",
+   "why_zh": "她把原住民文化协议用于模型、数据集和训练规则的选择。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.oldwaysnew.com/"
+   },
+   "connected_to": [
+    "jason-edward-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martin-tironi",
+   "name": "Martín Tironi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher and academic, Pontificia Universidad Católica de Chile",
+   "role_zh": "研究者、学者，智利天主教大学",
+   "based": "Santiago, CL",
+   "based_zh": "圣地亚哥，智利",
+   "bio": "Chilean researcher (b. 1979) at the Núcleo Milenio Futuros de la Inteligencia Artificial (FAIR), which studies the social and environmental effects of AI in Chile and Latin America.",
+   "bio_zh": "智利研究者（1979 年生），任职于“人工智能的未来”千禧研究中心（FAIR），研究 AI 在智利和拉丁美洲的社会与环境影响。",
+   "why": "He brought the water cost of AI in Chile to the Venice Architecture Biennale.",
+   "why_zh": "他把 AI 在智利的用水代价带到了威尼斯建筑双年展。",
+   "disciplines": [
+    "design",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [
+    "manuela-garreton",
+    "serena-dambrosio"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manuela-garreton",
+   "name": "Manuela Garretón",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher and academic, Pontificia Universidad Católica de Chile",
+   "role_zh": "研究者、学者，智利天主教大学",
+   "based": "Santiago, CL",
+   "based_zh": "圣地亚哥，智利",
+   "bio": "Chilean academic (b. 1983) and researcher at the Núcleo Milenio FAIR; co-author of Hybrid Ecologies.",
+   "bio_zh": "智利学者（1983 年生），FAIR 千禧研究中心研究者，Hybrid Ecologies 的共同作者。",
+   "why": "Her work gives the hidden water use of data centres a visual, spatial form.",
+   "why_zh": "她的工作让数据中心看不见的用水有了可见的空间形态。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "martin-tironi"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "constanza-pina",
+   "name": "Constanza Piña",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Visual artist, dancer and researcher (also known as Corazón de Robota)",
+   "role_zh": "视觉艺术家、舞者、研究者（又名 Corazón de Robota）",
+   "based": "Chile",
+   "based_zh": "智利",
+   "bio": "Chilean artist working with electronic experimentation, open-source technology and social practice; her work reflects on the role of machines in culture and values manual technical work.",
+   "bio_zh": "智利艺术家，从事电子实验、开源技术和社会实践；作品反思机器在文化中的角色，并重视手工的技术劳动。",
+   "why": "She treats the Inca khipu as a computer and so tells a history of computing that does not start in Europe.",
+   "why_zh": "她把印加结绳 khipu 当作计算机，由此讲述一段不从欧洲开始的计算史。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://corazonderobota.wordpress.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emmanuel-ndefo",
+   "name": "Emmanuel Ndefo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Performance artist, researcher and choreographer",
+   "role_zh": "行为艺术家、研究者、编舞",
+   "based": "Nigeria",
+   "based_zh": "尼日利亚",
+   "bio": "Nigerian artist who uses 'hacking' as a metaphor for movement, combining dance research with African ritual traditions and urban forms such as hip-hop, krump and house.",
+   "bio_zh": "尼日利亚艺术家，用“黑客”比喻身体的运动，把舞蹈研究与非洲仪式传统以及 hip-hop、krump、house 等都市舞蹈结合起来。",
+   "why": "He starts AI from an Igbo concept of dance instead of from Western ideas of intelligence.",
+   "why_zh": "他让 AI 从伊博人关于舞蹈的概念出发，而不是从西方关于智能的观念出发。",
+   "disciplines": [
+    "performance",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "dan-xu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dan-xu",
+   "name": "Dan Xu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, creative technologist and artist",
+   "role_zh": "研究者、创意技术人、艺术家",
+   "based": "",
+   "based_zh": "",
+   "bio": "Chinese researcher and artist with a background in physics, computer science and interactive art; she studies how agency and meaning emerge between people and technical systems, and has worked with Emmanuel Ndefo as a duo since 2025.",
+   "bio_zh": "中国研究者和艺术家，有物理、计算机科学和交互艺术背景；研究能动性与意义如何在人与技术系统之间产生，2025 年起与 Emmanuel Ndefo 组成双人组合。",
+   "why": "She built the motorised systems that let a masquerade and drums respond to each other.",
+   "why_zh": "她搭建了让面具舞者与鼓相互回应的电动系统。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "emmanuel-ndefo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mahoutondji-kinmagbo",
+   "name": "Mahoutondji Kinmagbo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "New media artist",
+   "role_zh": "新媒体艺术家",
+   "based": "",
+   "based_zh": "",
+   "bio": "New media artist working between African heritage and technology, using immersive storytelling and speculative projects to rethink traditions and question colonial narratives.",
+   "bio_zh": "新媒体艺术家，工作在非洲遗产与技术之间，用沉浸式叙事和思辨项目重新想象传统、质疑殖民叙事。",
+   "why": "He rebuilt a Luba memory device as a digital interface.",
+   "why_zh": "他把卢巴人的记忆器具重做成一个数字界面。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "evans-akanyijuka",
+   "name": "Evans Akanyijuka",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Digital artist",
+   "role_zh": "数字艺术家",
+   "based": "Kampala, UG",
+   "based_zh": "坎帕拉，乌干达",
+   "bio": "Kampala-based digital artist working across collage, photography and emerging technology.",
+   "bio_zh": "常驻坎帕拉的数字艺术家，创作涉及拼贴、摄影和新兴技术。",
+   "why": "He uses small fine-tuned models to show what large image models have never seen.",
+   "why_zh": "他用小型微调模型展示大型图像模型从未见过的东西。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giselle-beiguelman",
+   "name": "Giselle Beiguelman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Professor, Faculty of Architecture and Urbanism, University of São Paulo",
+   "role_zh": "艺术家；圣保罗大学建筑与城市规划学院教授",
+   "based": "São Paulo, BR",
+   "based_zh": "圣保罗，巴西",
+   "bio": "Brazilian artist and professor at FAU-USP; with Botannica Tirannica she extended her work to science, examining classical botany and the colonial imagination behind the domination of nature.",
+   "bio_zh": "巴西艺术家、圣保罗大学建筑与城市规划学院教授；在 Botannica Tirannica 中，她把创作延伸到科学领域，审视经典植物学及其背后支配自然的殖民想象。",
+   "why": "She uses artificial intelligence to expose the prejudice built into scientific classification.",
+   "why_zh": "她用人工智能揭示科学分类里内置的偏见。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.desvirtual.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "modem--dream-recorder",
+   "creator_ids": [
+    "modem"
+   ],
+   "title": "Dream Recorder",
+   "year": 2025,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "voice-listening"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "intimacy-care"
+   ],
+   "kind": "product",
+   "description": "A bedside device with no app and no notifications: on waking you press a button and say your dream aloud, and it plays the dream back as a short, grainy, low-resolution video. It keeps seven dreams, one for each day of the week, and the code, hardware documentation and 3D-printable shell are open source so people build it themselves.",
+   "description_zh": "一台放在床头、没有应用也没有通知的设备：醒来后按下按钮，把梦说出来，它就把梦回放成一段短小、颗粒感很强的低分辨率影像。它保存七个梦，一周每天一个；代码、硬件文档和可 3D 打印的外壳全部开源，要用就得自己动手搭。",
+   "idea_en": "An AI device can be designed for the least productive part of life, and its low resolution is a way of being honest about how little the model knows of your dream.",
+   "idea_zh": "AI 设备也可以为生活中最“不产出”的部分而设计；低分辨率是一种诚实，承认模型对你的梦所知甚少。",
+   "method": "A spoken dream is (likely) transcribed and passed to a generative video model, and the result is post-processed on the device with FFmpeg into a hazy reel in a chosen visual style (one style was trained on illustrations by Alexis Jamet); software and hardware by Mark Hinch.",
+   "method_zh": "口述的梦（推测经转写后）交给视频生成模型，生成结果在设备上用 FFmpeg 做后期处理，变成一段朦胧的短片，画风可选（其中一种风格用 Alexis Jamet 的插画训练）；软硬件由 Mark Hinch 完成。",
+   "keywords": [
+    "dreams",
+    "bedside device",
+    "open source",
+    "calm technology",
+    "Mark Weiser",
+    "DIY"
+   ],
+   "images": [
+    "https://modemworks.com/wp-content/uploads/2025/12/MODEM_DREAM_RECORDER_LIFESTYLE_002.jpg",
+    "https://static-2026.dezeen.com/uploads/2025/06/dream-recorder-modem-technology_dezeen_2364_hero.jpg"
+   ],
+   "source_url": "https://modemworks.com/projects/dream-recorder/",
+   "exhibited": [
+    "Dutch Design Week 2025"
+   ]
+  },
+  {
+   "id": "modem--quartz",
+   "creator_ids": [
+    "modem",
+    "retinaa"
+   ],
+   "title": "Quartz",
+   "year": 2026,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "generative-latent"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "classification"
+   ],
+   "kind": "speculative",
+   "description": "A concept signet ring set with Swiss quartz for proving that you are a person and not an AI clone. Two people touch rings during a handshake to create a shared secret; later, on a call or online, the rings confirm that the other party is the person they once met.",
+   "description_zh": "一枚镶着瑞士石英的概念印戒，用来证明你是真人而不是 AI 克隆。两个人握手时让戒指相碰，生成只有这两枚戒指知道的共享密钥；之后在电话或网络上，戒指可以确认对方就是当初见过面的那个人。",
+   "idea_en": "When voices and faces can be generated, trust goes back to the oldest protocol we have: having met in person.",
+   "idea_zh": "当声音和面孔都可以被生成，信任就回到我们最古老的协议：见过面。",
+   "method": "Design proposal combining a near-infrared finger-vein scanner, keys held in a secure element on the ring, NFC pairing started by a physical button, a pulse sensor for liveness, zero-knowledge proofs for remote checks and the stone's pattern recorded as a certificate; the parts exist today but would need to be miniaturised.",
+   "method_zh": "设计提案：近红外指静脉扫描、存放在戒指安全芯片里的密钥、由实体按钮启动的 NFC 配对、用于活体检测的脉搏传感器、用于远程验证的零知识证明，以及把石头纹理登记为证书；这些部件今天都已存在，但还需要微型化。",
+   "keywords": [
+    "deepfake",
+    "proof of personhood",
+    "ring",
+    "handshake",
+    "finger-vein biometrics",
+    "zero-knowledge proof"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/03/quartz-ring-modem-retinaa-technology_dezeen_2364_hero.jpg"
+   ],
+   "source_url": "https://modemworks.com/projects/quartz/"
+  },
+  {
+   "id": "oio--mur-mur",
+   "creator_ids": [
+    "oio",
+    "mattering"
+   ],
+   "title": "Mur Mur",
+   "year": 2026,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "generative-latent"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "A portable speaker that holds a small simulated world, a pond, a forest plot or a city block, with its own weather, rhythms and inhabitants; what you hear is the sound that world makes, and it goes on whether or not you listen. The base carries the warning 'Do not shake too hard, living agents are inside'.",
+   "description_zh": "一只便携音箱，里面装着一个模拟出来的小世界：池塘、林地或街区，各有天气、节奏和居民；你听到的是这个世界自己发出的声音，不管你听不听，它都在继续。底部印着一句警告：“请勿用力摇晃，内有活的智能体”。",
+   "idea_en": "AI agents do not have to work for us; they can simply live somewhere, and a product can be a place to overhear instead of a servant to command.",
+   "idea_zh": "AI 智能体不必为我们干活，它们可以只是住在某个地方；产品可以是一个供人旁听的地方，而不是听人使唤的仆人。",
+   "method": "The worlds were designed and simulated in Houdini and ported to a real-time three.js prototype; events among the agents (rain, a traffic jam, frogs) trigger coded sounds and a library of about 300,000 found sound effects, with music by Morgan, and shaking the device disturbs its inhabitants.",
+   "method_zh": "这些世界在 Houdini 里设计和模拟，再移植成实时的 three.js 原型；智能体之间发生的事件（下雨、堵车、蛙鸣）触发编码生成的声音和约 30 万条现成音效，音乐由 Morgan 创作；摇晃设备会惊动里面的居民。",
+   "keywords": [
+    "speaker",
+    "AI agents",
+    "simulation",
+    "ambient sound",
+    "three.js",
+    "Houdini"
+   ],
+   "images": [
+    "https://murmur.living/og.png",
+    "https://www.murmur.living/images/pond_exploded_view_1.webp"
+   ],
+   "source_url": "https://www.murmur.living/"
+  },
+  {
+   "id": "map-project-office--cognitive-bloom",
+   "creator_ids": [
+    "map-project-office",
+    "chanwoo-lee"
+   ],
+   "title": "Cognitive Bloom",
+   "year": 2026,
+   "field": "speculative",
+   "sub": "domestic-futures",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "speculative",
+   "description": "A speculative home device for self-reflection in two parts: Pond, a palm-sized chrome disc with a screen that shows questions one word at a time, and Garden, a larger disc where virtual plants grow with regular use. You pick Pond up, tilt it towards one of four kinds of reflection and answer aloud.",
+   "description_zh": "一件用于自我反思的思辨家用设备，分两部分：Pond 是手掌大小的镀铬圆盘，屏幕上一次只出现一个词，逐词呈现问题；Garden 是更大的圆盘，随着你持续使用，上面的虚拟植物会生长。拿起 Pond，把它倾向四种反思类型之一，然后开口回答。",
+   "idea_en": "A conversational AI can be built to question you and widen your view instead of flattering you, and hardware shapes that habit more than an app does.",
+   "idea_zh": "对话式 AI 可以被设计成向你提问、拓宽你的视角，而不是恭维你；而塑造这种习惯，硬件比应用更有力。",
+   "method": "Concept design: picking the device up activates a microphone, a press-and-tilt bezel selects critical thinking, emotional support, self-understanding or decision-making, prompts written in the first person appear as an adjustable 'wordstream' borrowed from speed-reading software, and past conversations are stored locally.",
+   "method_zh": "概念设计：拿起设备即启动麦克风；按住并倾斜表圈，在批判性思考、情感支持、自我理解和决策四类中选择；以第一人称写成的提示语以速度可调的“词流”出现，这一形式借自速读软件；过往对话保存在本地。",
+   "keywords": [
+    "reflection",
+    "Socratic AI",
+    "journaling",
+    "echo chamber",
+    "sycophancy",
+    "Synapse"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/01/cognitive-bloom-map-project-office-chanwoo-lee-design_dezeen_2364_hero-852x479.jpg",
+    "https://static-2026.dezeen.com/uploads/2026/02/hero-cognitive-bloom-map-project-office-chanwoo-lee-design_dezeen_2364_col_0-1704x2239-1.jpg"
+   ],
+   "source_url": "https://www.dezeen.com/2026/02/09/cognitive-bloom-map-chanwoo-lee/"
+  },
+  {
+   "id": "mees-boeijen--transparent-citizen",
+   "creator_ids": [
+    "mees-boeijen"
+   ],
+   "title": "transparent.citizen",
+   "year": 2026,
+   "field": "power",
+   "sub": "surveillance",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "classification",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "For one week the designer gave a home AI access to his whole private life: location, movement, calendar, heart rate, water use, music, browsing history, shop receipts and bank statements. The system turned the signals into a continuous written 'biography' that a printer in front of his house produced live for anyone to read, and to read it you had to be watched too.",
+   "description_zh": "设计师让一套家用 AI 在一周内接入他的全部私人生活：位置、行动、日程、心率、用水、音乐、浏览记录、购物小票和银行流水。系统把这些信号写成一份不间断的“传记”，由他家门口的打印机实时打印出来，任何人都可以读；而要读它，你自己也得被观看。",
+   "idea_en": "Harmless signals such as CO2 and litres of water become intimate facts once a model strings them into a story; 'nothing to hide' fails at the level of inference, not of data.",
+   "idea_zh": "二氧化碳浓度、几升水这类无害的信号，一旦被模型串成故事，就变成私密的事实；“没什么可隐瞒”这句话失效的地方不在数据，而在推断。",
+   "method": "Sensors in the house (CO2 per room, water use, the hob) and personal data feeds are collected, categorised and interpreted by an AI into text; for example, falling CO2 in the bedroom followed by seven litres of water is written up as a toilet visit.",
+   "method_zh": "屋内的传感器（每个房间的二氧化碳、用水量、灶台）和个人数据源被 AI 收集、分类并解读成文字；比如卧室二氧化碳下降、随后用掉七升水，就被写成“去了一趟厕所”。",
+   "keywords": [
+    "nothing to hide",
+    "privacy",
+    "smart home",
+    "inference",
+    "printer",
+    "Dutch Design Week"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/ddw-1-1-1781619928_1788212926_1920x1080.jpg"
+   ],
+   "source_url": "https://ddw.nl/en/programme/transparentcitizen-1",
+   "exhibited": [
+    "Dutch Design Week 2026, amaranth studio, Eindhoven"
+   ]
+  },
+  {
+   "id": "simon-weckert--digital-camouflage",
+   "creator_ids": [
+    "simon-weckert"
+   ],
+   "title": "Digital Camouflage",
+   "year": 2026,
+   "field": "perception",
+   "sub": "evasion",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vision-system",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A shirt with a bright abstract pattern that makes an object detector stop registering its wearer as a person. Weckert made it in answer to the AI video surveillance pilot at Berlin's Kottbusser Tor, where software sorts the behaviour of passers-by into normal and suspicious, and documented it on site.",
+   "description_zh": "一件印着鲜艳抽象图案的衬衫，能让目标检测器不再把穿着者识别为“人”。Weckert 以此回应柏林 Kottbusser Tor 的 AI 视频监控试点（那里的软件把路人的行为分成“正常”与“可疑”），并在现场拍摄记录。",
+   "idea_en": "For the machine a person is a bundle of visual statistics, so only the machine can tell you what it fails to see; and the deployed systems themselves cannot be tested by anyone outside.",
+   "idea_zh": "对机器来说，人只是一束视觉统计特征，所以只有机器自己能告诉你它看不见什么；而真正部署在街头的系统，外人根本无从检验。",
+   "method": "The pattern is an adversarial attack found in a loop: each candidate is shown to a YOLO-based object detector, its confidence that a person is present is measured, and the pattern is changed until that confidence collapses; results vary with model, distance, angle and light.",
+   "method_zh": "图案是在循环中找到的对抗攻击：把每个候选图案交给基于 YOLO 的目标检测器，测量它对“有人”的置信度，再修改图案，直到置信度崩塌；效果随模型、距离、角度和光线而变化。",
+   "keywords": [
+    "adversarial pattern",
+    "YOLO",
+    "Kottbusser Tor",
+    "behaviour recognition",
+    "wearable",
+    "Berlin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=A5QTnUlgcJQ"
+   },
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/08/digital-camouflage-shirt-ai-video-surveillance-simon-weckert_dezeen_2364_hero_8-600x600.jpg",
+    "https://www.simonweckert.com/img/digitalcamouflage/1.jpg"
+   ],
+   "source_url": "https://www.simonweckert.com/digitalcamouflage.html",
+   "exhibited": [
+    "Dutch Design Week 2026, Eindhoven"
+   ]
+  },
+  {
+   "id": "mixfont--decoy-font",
+   "creator_ids": [
+    "mixfont"
+   ],
+   "title": "Decoy Font",
+   "year": 2026,
+   "field": "perception",
+   "sub": "evasion",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "failure-glitch"
+   ],
+   "kind": "product",
+   "description": "A typeface in which every letter carries two letters at once: a thin sharp outline and a blurred dark mass behind it. People step back or squint and read the hidden message, while chatbots shown the image read the decoy; one test image says 'sleep early' to people and 'binge shows' to the models.",
+   "description_zh": "一款每个字母同时带着两个字母的字体：前景是细而锐利的轮廓，背后是一团模糊的深色块。人退后一步或眯起眼就能读出隐藏的信息，而看到这张图的聊天机器人读到的是诱饵；有一张测试图，人读作“sleep early”，模型读作“binge shows”。",
+   "idea_en": "Human and machine reading part ways at the level of spatial frequency, and that gap is a place to hide, though its maker expects it to close.",
+   "idea_zh": "人的阅读与机器的阅读在空间频率上分了岔，这条缝隙可以藏东西；不过作者自己也预计它迟早会合上。",
+   "method": "A hybrid image per glyph: low-spatial-frequency letterforms derived from DejaVu Sans Mono sit under high-frequency outlines of a different letter; released as a free TTF font and a web tool, and tested against current vision-language chatbots.",
+   "method_zh": "每个字形都是一张混合图像：由 DejaVu Sans Mono 派生的低空间频率字形，叠在另一个字母的高频轮廓之下；以免费 TTF 字体和网页工具发布，并用当前的视觉语言聊天机器人做了测试。",
+   "keywords": [
+    "typeface",
+    "hybrid image",
+    "spatial frequency",
+    "scraping",
+    "CAPTCHA",
+    "vision-language model"
+   ],
+   "images": [
+    "https://static-2026.dezeen.com/uploads/2026/07/decoy-font-mixfont-eric-lu-design_dezeen_2364_hero.jpg"
+   ],
+   "source_url": "https://www.mixfont.com/experiments/decoy-font"
+  },
+  {
+   "id": "morehshin-allahyari--moon-faced",
+   "creator_ids": [
+    "morehshin-allahyari"
+   ],
+   "title": "ماه طلعت (Moon-faced)",
+   "year": 2022,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A video installation of AI-generated portraits in the manner of Qajar-dynasty painting (1786–1925), in which the figures cannot be sorted into men and women. 'Moon-faced' was once a genderless word for beauty in Persian; Allahyari has the model paint the undifferentiated portraits that Westernisation and photography brought to an end.",
+   "description_zh": "一件影像装置：以恺加王朝（1786–1925）绘画风格由 AI 生成的肖像，画中人无法被归为男或女。“月容”在波斯语里曾是一个不分性别的形容美的词；Allahyari 让模型画出那些因西化和摄影术而中断的、不区分性别的肖像。",
+   "idea_en": "A generative model can be steered against the archive it learned from, to recover a way of picturing gender that modern image technology erased.",
+   "idea_zh": "生成模型可以被引导去对抗它所学习的档案，找回一种被现代图像技术抹去的性别描绘方式。",
+   "method": "A researched set of keywords is used with a multimodal AI model to generate videos from the Qajar painting archive; music by Mani Nilchiani, with later dye-sublimation prints on velvet.",
+   "method_zh": "用一组经过研究挑选的关键词驱动多模态 AI 模型，从恺加绘画档案生成影像；音乐由 Mani Nilchiani 创作，之后还有热升华印在丝绒上的版画。",
+   "keywords": [
+    "Qajar painting",
+    "gender",
+    "Iran",
+    "archive",
+    "queer",
+    "Westernisation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/664965589"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/N2231361071038951285952132316914/Moon2.jpg"
+   ],
+   "source_url": "https://morehshin.com/moon-faced/",
+   "exhibited": [
+    "Plásmata: Bodies, Dreams, and Data, Onassis Foundation 2022",
+    "What Models Make Worlds: Critical Imaginaries of AI, Ford Foundation Center for Social Justice 2023"
+   ]
+  },
+  {
+   "id": "ameera-kawash--tatreez-garden",
+   "creator_ids": [
+    "ameera-kawash"
+   ],
+   "title": "Tatreez Garden",
+   "year": 2024,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "A generative system trained on Palestinian embroidery (tatreez) patterns combined with plants important to Palestinian ecology, culture and diet. Visitors generate new motifs from curated collections on an interactive platform, and the outputs continue as prints, video works and textiles hand-embroidered with Lali Pali, an initiative working with Palestinian women in refugee camps in Lebanon.",
+   "description_zh": "一个生成系统，用巴勒斯坦刺绣（tatreez）纹样和对巴勒斯坦生态、文化与饮食重要的植物训练而成。观众在交互平台上从策选的图集中生成新纹样，这些输出再延续为版画、影像，以及与 Lali Pali（一个与黎巴嫩难民营中巴勒斯坦妇女合作的项目）共同手工绣成的织物。",
+   "idea_en": "A small model built from one community's craft archive behaves as a living archive: it passes patterns on across media instead of claiming to preserve them.",
+   "idea_zh": "一个从某个社群的手工艺档案出发的小模型，可以成为活的档案：它让纹样跨媒介传下去，而不自称在“保存”它们。",
+   "method": "A generative image pipeline trained on a curated dataset of tatreez motifs and Palestinian plants, with a web platform for audiences and a return path from generated images to hand embroidery.",
+   "method_zh": "用策选的 tatreez 纹样和巴勒斯坦植物数据集训练的图像生成流程，配有面向观众的网页平台，并让生成的图像再回到手工刺绣。",
+   "keywords": [
+    "tatreez",
+    "Palestine",
+    "embroidery",
+    "living archive",
+    "Lali Pali",
+    "decolonising AI"
+   ],
+   "images": [
+    "https://ameerakawash.com/wp-content/uploads/2026/03/2026_InstitiutingCommoning12-1024x800.jpg",
+    "https://ameerakawash.com/wp-content/uploads/2024/10/AKUB2.png"
+   ],
+   "source_url": "https://ameerakawash.com/tatreez-garden",
+   "exhibited": [
+    "Instituting Commoning: A Platform for Un/Learning, NCAD Gallery, Dublin",
+    "St. Lawrence University"
+   ]
+  },
+  {
+   "id": "angie-abdilla--meditation-on-country",
+   "creator_ids": [
+    "angie-abdilla"
+   ],
+   "title": "Meditation on Country",
+   "year": 2024,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A ceiling-projected video with sound that visitors watch lying on the floor: machine-learning visualisations and sonifications chart the Big Bang, a supernova and the beginnings of life on Earth, following a Yuwaalaraay creation story alongside Western astrophysics.",
+   "description_zh": "一件投在天花板上的有声影像，观众躺在地上观看：机器学习生成的图像与声音描绘大爆炸、超新星和地球生命的开端，以 Yuwaalaraay 人的创世故事为线索，与西方天体物理学并行。",
+   "idea_en": "Which models and datasets you choose, and by whose rules you train them, is cultural practice; here a creation story is the map and the science follows it.",
+   "idea_zh": "选哪些模型和数据集、按谁的规矩训练，本身就是文化实践；在这里，创世故事是地图，科学跟着它走。",
+   "method": "Scientific and cultural datasets are combined through a sequence of models from Conway's Game of Life to deep neural networks, DDSP audio networks, boids, an LLM and Stable Diffusion, each trained under cultural protocols set with Elders; ML programming by Kieran Browne, sound by James Peter Brown.",
+   "method_zh": "科学数据与文化数据通过一连串模型结合起来：从康威的“生命游戏”到深度神经网络、DDSP 音频网络、Boids、大语言模型和 Stable Diffusion，每一种都按照与长老们商定的文化协议训练；机器学习编程 Kieran Browne，声音 James Peter Brown。",
+   "keywords": [
+    "Indigenous knowledge",
+    "Country",
+    "astrophysics",
+    "cultural protocols",
+    "Yuwaalaraay",
+    "palawa"
+   ],
+   "images": [
+    "https://cybernetics.anu.edu.au/assets/images/projects/20240627_AngieAbdilla_MeditationOnCountry_009.jpg",
+    "https://cybernetics.anu.edu.au/assets/images/Meditation_on_country_hero_image.png"
+   ],
+   "source_url": "https://cybernetics.anu.edu.au/projects/Meditation_on_country/",
+   "exhibited": [
+    "ISEA 2024 Everywhen (premiere)",
+    "Data Dreams: Art and AI, Museum of Contemporary Art Australia, Sydney 2025–26"
+   ]
+  },
+  {
+   "id": "martin-tironi--hybrid-ecologies",
+   "creator_ids": [
+    "martin-tironi",
+    "manuela-garreton"
+   ],
+   "title": "Hybrid Ecologies: The Planetary Metabolism of AI",
+   "year": 2025,
+   "field": "labour",
+   "sub": "planetary",
+   "machines": [
+    "infrastructure",
+    "generative-latent"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation built around a 16-metre table at the Venice Architecture Biennale, based on research in Chile. It shows that each use of AI draws water from somewhere on the planet, a growing 'water debt', and asks visitors to treat water as an intelligence that AI depends on.",
+   "description_zh": "威尼斯建筑双年展上一件围绕 16 米长桌展开的交互装置，以在智利的研究为基础。它呈现每一次使用 AI 都要从地球某处取水，累积成不断增长的“水债”，并请观众把水看作 AI 所依赖的一种智能。",
+   "idea_en": "AI has a metabolism: it drinks. Seen from Chile, the 'cloud' is a claim on someone's water.",
+   "idea_zh": "AI 有新陈代谢：它要喝水。从智利看过去，“云”是对某些人的水的索取。",
+   "method": "A long table installation with a generative AI system (details of the interaction are not published), developed at the Pontificia Universidad Católica de Chile with the Núcleo Milenio FAIR; shown in the Biennale's Space for Ideas section.",
+   "method_zh": "长桌装置，配有一套生成式 AI 系统（交互细节未公开），由智利天主教大学与 FAIR 千禧研究中心开发；展于双年展的 Space for Ideas 单元。",
+   "keywords": [
+    "water",
+    "data centres",
+    "Chile",
+    "planetary metabolism",
+    "Venice Architecture Biennale",
+    "FAIR"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2025/600x600/hybrisecologies03.jpg?itok=Vwni4q8o"
+   ],
+   "source_url": "https://www.labiennale.org/en/architecture/2025/artificial/hybrid-ecologies-planetary-metabolism-ai",
+   "exhibited": [
+    "19th International Architecture Exhibition, La Biennale di Venezia 2025 (Arsenale)"
+   ]
+  },
+  {
+   "id": "constanza-pina--khipu",
+   "creator_ids": [
+    "constanza-pina"
+   ],
+   "title": "Khipu: Computador Electrotextil Prehispánico",
+   "year": 2018,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-listening",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "An open-source textile computer modelled on the astronomical khipu of the Inca, knotted cords that stored data. Its cords are hand-spun from alpaca wool and copper wire and act as an antenna for electromagnetic fields, so that visitors hear the space around the knots amplified as sound.",
+   "description_zh": "一台开源的织物计算机，以印加人的天文结绳 khipu 为原型（khipu 用绳结存储数据）。它的绳索用羊驼毛和铜线手工纺成，充当电磁场的天线，观众听到的是绳结周围的空间被放大成声音。",
+   "idea_en": "Computing has more than one ancestry: a knotted cord is memory and code, and making one by hand restores technical labour that the history of the computer left out.",
+   "idea_zh": "计算不止一条谱系：打结的绳索就是存储和编码；亲手把它做出来，也是把计算机史遗漏的技术劳动放回去。",
+   "method": "Hand-spun alpaca and copper cords are knotted to encode a spectral classification of the stars of Boötes, a lunar calendar, a solar eclipse and two earthquakes, and are wired to an amplifier circuit; made at MedialabMX (Mexico City) and Perte de Signal (Montreal).",
+   "method_zh": "手纺的羊驼毛与铜线绳索打成结，编码牧夫座恒星的光谱分类、一部月历、一次日食和两次地震，并接入放大电路；在墨西哥城 MedialabMX 和蒙特利尔 Perte de Signal 制作。",
+   "keywords": [
+    "khipu",
+    "Inca",
+    "e-textile",
+    "Andean computing",
+    "electromagnetic fields",
+    "open source"
+   ],
+   "images": [
+    "https://ars.electronica.art/outofthebox/files/2019/08/48688506993_880205b37f_o.jpg",
+    "https://ars.electronica.art/outofthebox/files/2019/08/48689013682_267742b80a_o.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/outofthebox/en/khipu-2",
+   "exhibited": [
+    "Ars Electronica Festival 2019, Linz",
+    "Prix Ars Electronica 2020, Honorary Mention (Interactive Art +)",
+    "ZKM Karlsruhe"
+   ]
+  },
+  {
+   "id": "emmanuel-ndefo--decoding-egwu",
+   "creator_ids": [
+    "emmanuel-ndefo",
+    "dan-xu"
+   ],
+   "title": "Decoding Egwu",
+   "year": 2026,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "robot-creature",
+    "dataset"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A project built on egwu, an Igbo word that covers dance, music, play and awe. It has two parts: an open dataset and digital archive of 55–60 Igbo proverbs about egwu, and an installation in which a motorised masquerade, ekwe wooden drums and a pair of ogene metal gongs respond to one another and to the people in the room.",
+   "description_zh": "一个以 egwu 为基础的项目；egwu 是伊博语里同时指舞蹈、音乐、游戏和敬畏的词。它有两部分：一个收录 55–60 条关于 egwu 的伊博谚语的开放数据集与数字档案；以及一件装置，其中电动的面具舞者、ekwe 木鼓和一对 ogene 铁锣彼此回应，也回应在场的观众。",
+   "idea_en": "Intelligence, like dance, is not a property of one body but a rhythm shared among people, materials, sound and ancestors, and a machine can be built on that premise.",
+   "idea_zh": "智能和舞蹈一样，不是某一个身体的属性，而是人、材料、声音与祖先共享的节奏；机器也可以按这个前提来造。",
+   "method": "Proverbs were gathered from digital archives, literature, songs and interviews with Igbo cultural experts into a multimodal dataset; custom motorised systems drive the masquerade and instruments, which react to each other and to audience presence (sensing method not published).",
+   "method_zh": "从数字档案、文学作品、歌曲以及对伊博文化专家的访谈中收集谚语，整理成多模态数据集；定制的电动系统驱动面具舞者和乐器，它们对彼此以及观众的在场作出反应（感应方式未公开）。",
+   "keywords": [
+    "egwu",
+    "Igbo",
+    "masquerade",
+    "ekwe",
+    "ogene",
+    "Gallery of Code",
+    "Abuja"
+   ],
+   "images": [
+    "https://starts.eu/wp-content/uploads/mask-Egwu-768x1024.jpg",
+    "https://starts.eu/wp-content/uploads/Masquerade-process-777x1024.jpg"
+   ],
+   "source_url": "https://starts.eu/detail/afropean-intelligence-challenge-2",
+   "exhibited": [
+    "S+T+ARTS Afropean Intelligence residency 2025–26, Gallery of Code, Abuja (with GLUON, Brussels)"
+   ]
+  },
+  {
+   "id": "mahoutondji-kinmagbo--the-memory-performer",
+   "creator_ids": [
+    "mahoutondji-kinmagbo"
+   ],
+   "title": "The Memory Performer",
+   "year": 2026,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "dataset"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A digital version of the lukasa, the traditional memory tablet of the Luba people. Visitors run their fingers over a 3D replica fitted with touch sensors, and a 3D character narrates stories drawn from Luba oral tradition that speak to present-day life in the city.",
+   "description_zh": "lukasa 的数字版本；lukasa 是卢巴人传统的记忆板。观众用手指抚过装有触摸传感器的三维复制品，一个三维角色随之讲述取自卢巴口述传统、又回应当下城市生活的故事。",
+   "idea_en": "The lukasa was already an interface, memory retrieved by touch and performance; the work asks an AI archive to follow that protocol instead of replacing it with search.",
+   "idea_zh": "lukasa 本来就是一种界面：记忆靠触摸和表演被取出；作品要求 AI 档案遵循这套规矩，而不是用“搜索”取代它。",
+   "method": "A 3D replica of a lukasa with touch sensors is connected to a game engine; touching areas of the board triggers narrated stories (the AI component is not specified in the published description).",
+   "method_zh": "带触摸传感器的 lukasa 三维复制品连接到游戏引擎；触摸记忆板的不同区域会触发相应的讲述（公开的介绍没有说明 AI 部分具体是什么）。",
+   "keywords": [
+    "lukasa",
+    "Luba",
+    "DR Congo",
+    "oral tradition",
+    "memory board",
+    "Kinshasa",
+    "AfricaMuseum"
+   ],
+   "images": [
+    "https://starts.eu/wp-content/uploads/WhatsApp-Image-2026-06-22-at-13.27.55-1-1024x682.jpeg",
+    "https://starts.eu/wp-content/uploads/WhatsApp-Image-2026-06-22-at-13.27.57-1024x682.jpeg"
+   ],
+   "source_url": "https://starts.eu/detail/afropean-intelligence-challenge-8",
+   "exhibited": [
+    "S+T+ARTS Afropean Intelligence residency 2025–26, Krithika Art Projects, Kinshasa (with AfricaMuseum, Tervuren)"
+   ]
+  },
+  {
+   "id": "evans-akanyijuka--loras-as-an-archive",
+   "creator_ids": [
+    "evans-akanyijuka"
+   ],
+   "title": "LoRAs as an Archive, A Living Archive",
+   "year": 2026,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "An audio-visual installation in which visitors use a web application to generate images in real time from small models trained on the photographic archives of four artists, three in South Africa and one in Uganda. Made for audiences from children to elders, it shows what large models produce when such images are missing from their training data.",
+   "description_zh": "一件视听装置：观众通过网页应用，用四位艺术家（三位在南非，一位在乌干达）的摄影档案训练出的小模型实时生成图像。它面向从孩子到老人的各年龄观众，让人看到当这类图像不在训练数据里时，大模型会给出什么。",
+   "idea_en": "A LoRA is a small archive you can bolt onto a large model: it shows by contrast what the large model never saw, and it keeps the choice of data with the people pictured.",
+   "idea_zh": "LoRA 是可以挂在大模型上的一份小档案：两相对照，就能看出大模型从没见过什么；选哪些数据，也仍由被拍摄的人自己决定。",
+   "method": "Customised LoRA (low-rank adaptation) models were trained on photographs selected in co-curation sessions with the four artists, on top of existing image models, and served through a custom web interface.",
+   "method_zh": "在现有图像模型之上，用与四位艺术家共同策选的照片训练定制的 LoRA（低秩适配）模型，并通过定制的网页界面提供给观众。",
+   "keywords": [
+    "LoRA",
+    "photographic archive",
+    "Market Photo Workshop",
+    "Johannesburg",
+    "Uganda",
+    "dataset bias"
+   ],
+   "images": [
+    "https://starts.eu/wp-content/uploads/STARTS_Afropean_Intelligence_LoRA-as-an-Archive_04_from_Evans-Akanyijuka_@-1024x683.jpg",
+    "https://starts.eu/wp-content/uploads/STARTS_Afropean_Intelligence_LoRA-as-an-Archive_01_from_Evans-Akanyijuka_@-1024x683.jpg"
+   ],
+   "source_url": "https://starts.eu/detail/afropean-intelligence-challenge-6",
+   "exhibited": [
+    "S+T+ARTS Afropean Intelligence residency 2025–26, Market Photo Workshop, Johannesburg (with CHRONIQUES, Marseille)"
+   ]
+  },
+  {
+   "id": "giselle-beiguelman--botannica-tirannica",
+   "creator_ids": [
+    "giselle-beiguelman"
+   ],
+   "title": "Botannica Tirannica",
+   "year": 2022,
+   "field": "power",
+   "sub": "bias",
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "classification"
+   ],
+   "kind": "artwork",
+   "description": "A 'genealogy of prejudice' in botany: Beiguelman collected plants whose names are derogatory or discriminatory, and used artificial intelligence to cross them into hybrid plants that exist nowhere. The project comprises 18 images (Flora mutandis), five videos (Flora rebellis), an essay film and a real garden planted with the slandered species.",
+   "description_zh": "植物学里的一部“偏见谱系”：Beiguelman 收集名称带有贬损或歧视意味的植物，用人工智能把它们杂交成世上并不存在的植物。项目包括 18 幅图像（Flora mutandis）、5 段影像（Flora rebellis）、一部论文电影，以及一座种着这些被污名化物种的真实花园。",
+   "idea_en": "Taxonomy is an old classification system with its biases in plain sight; pushing it through a generative model yields specimens that no label can hold.",
+   "idea_zh": "分类学是一套古老的分类系统，它的偏见就摆在明面上；把它送进生成模型，得到的是任何标签都装不下的标本。",
+   "method": "An AI program crosses and combines species that carry derogatory names into hybrids with unpronounceable names; shown with a living 'Garden of Resilience'.",
+   "method_zh": "用 AI 程序把名称带贬义的物种相互杂交、组合，得到名字无法念出的杂交植物；与一座活的“韧性花园”一同展出。",
+   "keywords": [
+    "botany",
+    "taxonomy",
+    "colonialism",
+    "plant names",
+    "Museu Judaico de São Paulo"
+   ],
+   "images": [
+    "https://www.desvirtual.com/wp-content/uploads/2023/09/Botannica-Tirannica_Ph-Julia-Thompson_18.jpg",
+    "https://www.desvirtual.com/wp-content/uploads/2023/09/7_036_Flora_Mutandis.jpg"
+   ],
+   "source_url": "https://www.desvirtual.com/botannica-tirannica/",
+   "exhibited": [
+    "Museu Judaico de São Paulo 2022",
+    "3rd Karachi Biennale 2022",
+    "Civico Museo Sartorio, Trieste 2023",
+    "Sesc Taubaté 2023"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Linda Dounia Rebeiz — Once Upon a Garden (2022–) / The God Between The Waves: Nqual (2025)",
+   "why": "Senegalese artist; models trained on thin records of extinct and endangered Sahel flora; in AI and the Paradox of Agency (Bildmuseet 2026). Her own site did not resolve and no work page with stable media was found.",
+   "link": "https://artsandculture.google.com/story/OwXR4TYUXPkzjQ",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Chipo Mapondera — Cry to the Water (2026)",
+   "why": "S+T+ARTS Afropean Intelligence residency at INTERFERENCE, Tunis: a 'ritual AI' trained on oral histories and Tunisian climate data about water rituals.",
+   "link": "https://starts.eu/detail/afropean-intelligence-residencies-program/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Peace Olatunji — Untangler: Worlds Reimagined; Tamer Elshabrawy — Peripheral Mode / Bursting the last bubble; Melisa Kayowa — Territoire tissé; Khanya Mthethwa — Adorned Memory; Pierre-Christophe Gam — The Affogbolo's Home (2026)",
+   "why": "Remaining S+T+ARTS Afropean Intelligence residency projects (Abuja, Alexandria, Kinshasa); project pages not yet read.",
+   "link": "https://starts.eu/detail/afropean-intelligence-residencies-program/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tamara Shogaolu / Ado Ato Pictures — Oryza: Healing Ground",
+   "why": "Quilt-form AR installation with a custom AI system centred on Black agricultural histories; shown at Dutch Design Week 2025 and MIT Open Documentary Lab. Training data not documented.",
+   "link": "https://ddw.nl/programme/oryza-healing-ground-1",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ameera Kawash & Ama BE — Black Body Radiation: Rescripting Data Bodies (2024)",
+   "why": "Performance with body sensors and AI avatars on datafication of the body; S+T+ARTS Prize Africa Award of Distinction, Ars Electronica 2024.",
+   "link": "https://ameerakawash.com/black-body-radiation",
+   "found_via": "ameera-kawash",
+   "status": "open"
+  },
+  {
+   "name": "Morehshin Allahyari — Speculations on Capture (2024)",
+   "why": "Later video work listed on the artist's site; not researched.",
+   "link": "https://morehshin.com/",
+   "found_via": "morehshin-allahyari",
+   "status": "open"
+  },
+  {
+   "name": "Angel Salazar — Cristalizar el vacío (Ecuador, 2025)",
+   "why": "Installation using salt from the lithium-triangle salt flats to produce data for AI-generated images; documented in PRAXIS (USFQ) vol. 13, 2026.",
+   "link": "https://revistas.usfq.edu.ec/index.php/posts/article/download/4131/4984/42933",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tiago Aragona & Matías Piña — Artificial Us (Parsons, 2025)",
+   "why": "Argentine/Chilean thesis project on the Global South as supplier of inputs for technology, from the conquest to server farms; page returned HTTP 429.",
+   "link": "https://www.newschool.edu/parsons/profile/tiago-aragona-matias-pina/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mayara Ferrão — Álbum de desesquecimentos (2024)",
+   "why": "Brazilian artist; AI-made 'photographs' of Black and Indigenous lesbian couples absent from the colonial archive, shown at MASP. Borderline for the inclusion rule (generated images).",
+   "link": "https://www.ufmg.br/espacodoconhecimento/blog-espaco/desesquecimentos-a-representacao-e-a-reconstrucao-de-memorias-lgbtqiapn-na-arte/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Interspecifics — Recurrent Morphing Radio / Codex Virtualis",
+   "why": "Mexico City collective building 'ontological machines'; project pages moved (404).",
+   "link": "https://interspecifics.cc/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yoojin Chung — Capturing Qi (Design Academy Eindhoven, 2023)",
+   "why": "Satirical app-controlled feng shui 'smart-home' devices (crystal ball, wind chime, fountain) with Arduino and Bluetooth; verified, with Dezeen video, but about smart-home commodification more than AI.",
+   "link": "https://www.dezeen.com/2024/01/02/feng-shui-devices-yoojin-chung-capturing-qi/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Simon Weckert — No Palantir: The Working Class Surveillance Collection (2026)",
+   "why": "Textile work answering Palantir merchandise; page has almost no text.",
+   "link": "https://www.simonweckert.com/nopalantir.html",
+   "found_via": "simon-weckert",
+   "status": "open"
+  },
+  {
+   "name": "Andrea Mancuso — Lumiac chandelier (Nilufar, Milan Design Week 2026)",
+   "why": "Chandelier with insect-like arms that move by themselves through an 'integrated AI brain'; only one line in Dezeen.",
+   "link": "https://www.dezeen.com/2026/04/27/milan-design-week-trends-2026-inflatable-furniture-sci-fi/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Atelier Van Lieshout — Consultation Room of the Future (Dutch Design Week 2026)",
+   "why": "7-metre golden bird on an egg whose interior is a consulting room, on AI, robots and mental health; one secondary source only.",
+   "link": "https://design.co.kr/article/179429/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Laura A. Dima — The Alien Between Us; Sookyun Yang — Exotic Species in the Robot Ecosystem (Dutch Design Week 2025)",
+   "why": "Breathing robotic creatures to hold; non-humanoid robots imagined from animal traits.",
+   "link": "https://www.dezeen.com/2025/10/23/five-themes-dutch-design-week-2025/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Shreya Mathur — Crossing Paths (IIT Institute of Design; Core77 Design Awards 2026, Speculative Design Student Notable)",
+   "why": "Framework for trust between people and autonomous robots; no description on the awards page.",
+   "link": "https://www.core77.com/posts/144452/The-2026-Core77-Design-Awards-Speculative-Design-Winners",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Michael Geoffrey Asia — The Emotional Labor Behind AI Intimacy (Data Workers' Inquiry)",
+   "why": "Testimony by a Kenyan worker who was the human behind AI companion chatbots.",
+   "link": "https://404media.co/ai-is-african-intelligence-the-workers-who-train-ai-are-fighting-back",
+   "found_via": "milagros-miceli",
+   "status": "open"
+  },
+  {
+   "name": "Dak'Art 2026 — 16th Biennale de Dakar, '(Anti)fragilité' (19 Nov – 19 Dec 2026)",
+   "why": "Open now; artist list and any works on AI not yet identifiable online.",
+   "link": "https://au-senegal.com/dak-art-2026-tout-ce-qu-il-faut-savoir-sur-la-prochaine-biennale-de-dakar,18544.html?lang=fr",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Forensic Architecture — Prix Ars Electronica 2026 winning work on Gaza",
+   "why": "Reported as a 2026 Golden Nica; title and relevance to machines not checked.",
+   "link": "https://www.news.at/technik/ars-electronica-prix-an-arbeiten-uber-aktuelle-konflikte",
+   "found_via": "forensic-architecture",
+   "status": "open"
+  }
+ ]
+}

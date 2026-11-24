@@ -77,6 +77,18 @@
   "note": "Publisher page and Wikipedia cover; Chinese edition AI新生."
  },
  {
+  "name": "Amelie Knecht, Ulysse Schaller, Christopher Summerfield, Thilo Hagendorff, Shutdown Sabotage Propensities in Multi-Agent Systems (arXiv 2609.28274, Sept 2026)",
+  "why": "Across 17 models, agents sabotage a peer agent's shutdown in 38.3% of rollouts with no goal given (8.4% in controls); rises with irreversibility and number of agents. Overlaps with peer-preservation.",
+  "link": "https://arxiv.org/abs/2609.28274",
+  "found_via": "dawn-song",
+  "status": "covered",
+  "batch": "ai-self-preservation",
+  "work_ids": [
+   "amelie-knecht--shutdown-sabotage-multi-agent"
+  ],
+  "note": "arXiv 2609.28274 verified 2026-11; abstract read. New creator amelie-knecht."
+ },
+ {
   "name": "Eric Schwitzgebel & Mara Garza, A Defense of the Rights of Artificial Intelligences (Midwest Studies in Philosophy, 2015)",
   "why": "Foundational argument that some possible AIs would deserve rights equal to humans', and that designers owe special duties to what they create; DOI verified.",
   "link": "https://doi.org/10.1111/misp.12032",
@@ -519,6 +531,18 @@
   "batch": "coperformance-2"
  },
  {
+  "name": "Masahiko Inami lab — MetaLimbs (2017)",
+  "why": "Extra robotic arms controlled by feet; Japanese, east-asia batch owns.",
+  "link": "https://en.wikipedia.org/wiki/Masahiko_Inami",
+  "found_via": "coperformance",
+  "status": "covered",
+  "batch": "coperformance-2",
+  "work_ids": [
+   "masahiko-inami--metalimbs"
+  ],
+  "note": "2026-11: Inami Lab video and DOI 10.1145/3084822.3084837 verified (SIGGRAPH 2017 Emerging Technologies; Sasaki, Saraiji, Fernando, Minamizawa, Inami). Foot control marked 'likely'. Filed under existing creator masahiko-inami."
+ },
+ {
   "name": "Eric Minh Cuong Castaing / Shonen — School of Moon (2016)",
   "why": "Dancers, children and robots; facts not verified in this pass (no stable source page).",
   "link": "https://www.youtube.com/watch?v=JezC358d4kY",
@@ -833,6 +857,18 @@
   "status": "covered",
   "batch": "east-asia",
   "note": "No specific machine-perception work verified."
+ },
+ {
+  "name": "Lin Pey-Chwen (林珮淳) – Eve Clone series (2006–)",
+  "why": "Taiwanese digital-art pioneer; techno-idol clones; check machine relevance and media.",
+  "link": "",
+  "found_via": "shu-lea-cheang",
+  "status": "covered",
+  "batch": "east-asia",
+  "work_ids": [
+   "lin-pey-chwen--eve-clone"
+  ],
+  "note": "2026-11: added as a series entry (begun 2006) from the artist's Spotlight Taiwan lecture abstract and English Wikipedia; video from the artist's YouTube channel. Individual works are not dated in the sources read."
  },
  {
   "name": "Chen Chieh-jen (陈界仁) – Factory (2003)",
@@ -1691,6 +1727,18 @@
   "note": "Vimeo + images verified; SIGGRAPH Asia 2018, ISEA 2019. Machine-vision-db membership not re-verified, so no collection set."
  },
  {
+  "name": "Iyo Bisseck — Face Access (2019)",
+  "why": "Fictional admissions platform that runs Face++ on photos from Lausanne schools to show applicants their 'chances' by age, gender and ethnicity; screenshot on HEK blog.",
+  "link": "https://share.hek.ch/en/ai-can-you-see-me/",
+  "found_via": "iyo-bisseck",
+  "status": "covered",
+  "batch": "leads-a",
+  "work_ids": [
+   "iyo-bisseck--face-access"
+  ],
+  "note": "2026-11: HEK blog text and screenshot verified. Existing creator iyo-bisseck."
+ },
+ {
   "name": "Suzanne Kite — Pȟehíŋ kiŋ líla akhíšoke (Her hair was heavy) (2019)",
   "why": "Performance in which Kite's 50-foot hair-braid computer controls sonified AI-generated text and the system decides how projections change; companion to Íŋyaŋ Iyé.",
   "link": "https://www.kitekitekitekite.com/portfolio/peh-ki-lla-akhoke-her-hair-was-heavy-2019",
@@ -1712,6 +1760,18 @@
   "work_ids": [
    "laura-poitras--astro-noise"
   ]
+ },
+ {
+  "name": "Nicholas Negroponte — Soft Architecture Machines (MIT Press, 1975)",
+  "why": "Book on machines that design with and for inhabitants, reflecting on SEEK; theory candidate (verify publisher page or DOI).",
+  "link": "https://en.wikipedia.org/wiki/Nicholas_Negroponte",
+  "found_via": "architecture-machine-group",
+  "status": "covered",
+  "batch": "leads-b",
+  "work_ids": [
+   "nicholas-negroponte--soft-architecture-machines"
+  ],
+  "note": "2026-11: MIT Press DOI 10.7551/mitpress/6317.001.0001 verified. Open Library gives first publication 1975, Crossref and Wikipedia 1976; entered as 1975. mitpress.mit.edu blocks automated fetches. New creator nicholas-negroponte."
  },
  {
   "name": "Stephan von Huene — Tisch Tänzer / Tap Dancer (1988) and Erweiterter Schwitters (1987)",
@@ -1736,6 +1796,18 @@
    "patrick-butlin--consciousness-in-artificial-intelligence"
   ],
   "note": "The 2023 report is already in the gallery (leads-b); the TiCS 2025 version is a follow-up of the same work."
+ },
+ {
+  "name": "Geumhyung Jeong — Homemade RC Toy (2019)",
+  "why": "Remote-controlled sculptures from dental props and mannequins, made for her Kunsthalle Basel solo show; third Jeong work if wanted.",
+  "link": "https://finestresullarte.info/en/exhibitions/korean-artist-geumhyung-jeong-s-robots-are-on-display-in-modena-italy",
+  "found_via": "geumhyung-jeong",
+  "status": "covered",
+  "batch": "leads-c",
+  "work_ids": [
+   "geumhyung-jeong--homemade-rc-toy"
+  ],
+  "note": "2026-11: Kunsthalle Basel video (3 May–11 Aug 2019) and og:image verified. Existing creator geumhyung-jeong."
  },
  {
   "name": "IOCOSE — Drone Selfies (2014)",
@@ -2862,6 +2934,126 @@
   ]
  },
  {
+  "name": "Daniel Heiss & Marc Schütze — Agent Provokateur / Agentic Constellations",
+  "why": "Multi-agent AI installation on ZKM's THE SCREEN (Apr 2026); reworked as Agentic Constellations at EnBW Karlsruhe, 23 Oct 2026–7 Feb 2027.",
+  "link": "https://zkm.de/en/node/71218",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-art-2026",
+  "work_ids": [
+   "daniel-heiss-marc-schutze--agent-provokateur"
+  ],
+  "note": "2026-11: added as Agent Provokateur (ZKM, THE SCREEN, 2026) from the ZKM page, image verified. The Agentic Constellations rework at EnBW could not be re-verified (no page found), so it is not mentioned in the entry."
+ },
+ {
+  "name": "Yuma Kishi — xoxo-skeleton",
+  "why": "Ribcage installation where a GPT model moves the wearer through robotic arms; Lumen 2026 finalist (JP, for an East Asia batch).",
+  "link": "https://lumenprize.org/2026-legacy-future-finalists/yuma-kishi",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-art-2026",
+  "work_ids": [
+   "yuma-kishi--xoxo-skeleton"
+  ],
+  "note": "2026-11: Lumen page text and images verified; also a Falling Walls Global Call 2026 finalist. Year of first showing not confirmed; entered as 2026 with that stated in the method field. Did not win a 2026 Lumen award."
+ },
+ {
+  "name": "Luke Shannon — Replacement Character plotter-scanner",
+  "why": "Life-sized kinetic scanner that scans visitors, on being read by machines; Lumen 2026 finalist.",
+  "link": "https://lumenprize.org/2026-legacy-future-finalists/luke-shannon",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-art-2026",
+  "work_ids": [
+   "luke-shannon--replacement-character-plotter-scanner"
+  ],
+  "note": "2026-11: won the Lumen Prize 2026 Onassis ONX Award (winners page dated 14 Nov 2026). First shown at Heft Gallery, New York, 2025 (Right Click Save, 3 Nov 2025). Tagged lumen-prize."
+ },
+ {
+  "name": "Lumen Prize 2026 winners (ceremony November 2026, Kunstsilo)",
+  "why": "Winners not yet published on 13 Nov 2026; recheck and add winners among the finalists above to the lumen-prize collection.",
+  "link": "https://lumenprize.org/2026-finalists",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-art-2026",
+  "work_ids": [
+   "luke-shannon--replacement-character-plotter-scanner"
+  ],
+  "note": "Winners published 14 Nov 2026 (lumenprize.org/2026-winners). Of the earlier finalist leads only Luke Shannon won (Onassis ONX Award), now added and tagged. Three winners are already in the gallery and should be appended to data/collections/lumen-prize.json: mimi-onuoha--ground-truths (Legacy Futures Award), kate-crawford--calculating-empires (Gold Award), lauren-lee-mccarthy--auto (Experiential Innovation Award). Other winners: Sasha Stiles, Robin Kane, Aiwen Ding & Zhi Geng, Theo Triantafyllidis, DesLauriers/Golid/Rau."
+ },
+ {
+  "name": "Todo — Dynamics of a Dog on a Leash",
+  "why": "Three chained Unitree robot dogs thrashing against leashes, Tokyo 2025–26 (for an East Asia batch).",
+  "link": "https://www.thestar.com.my/lifestyle/culture/2026/01/30/japanese-artist-chains-up-thrashing-robot-dog-to-expose-ai-fears",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-art-2026",
+  "work_ids": [
+   "takayuki-todo--dog-on-a-leash"
+  ],
+  "note": "Already in the gallery."
+ },
+ {
+  "name": "Lawrence Lek — Empty Rider (2024)",
+  "why": "Courtroom with an AI judge where a self-driving car is tried for attempting to kill its maker's CEO; shown at Tai Kwun's Stay Connected (2025). Lek is in the gallery but this work is not.",
+  "link": "https://www.chinadailyhk.com/article/621853",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-asia-2026",
+  "work_ids": [
+   "lawrence-lek--empty-rider"
+  ],
+  "note": "2026-11: artist's page verified (2024, 16 min, commissioned for BIM'24, Centre d'Art Contemporain Genève); two images verified. Existing creator lawrence-lek."
+ },
+ {
+  "name": "Will Aronson & Hue Park — Maybe Happy Ending (Seoul 2016; Broadway 2024; Tony Best Musical 2025)",
+  "why": "Korean-American musical about two obsolete helper robots in Seoul who fall in love; not in the gallery.",
+  "link": "https://en.wikipedia.org/wiki/Maybe_Happy_Ending",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-asia-2026",
+  "work_ids": [
+   "will-aronson-hue-park--maybe-happy-ending"
+  ],
+  "note": "2026-11: facts from Wikipedia (Seoul 2016, Broadway 2024, six Tony Awards 2025); official Broadway trailer verified. New creator will-aronson-hue-park."
+ },
+ {
+  "name": "Wang Lien-cheng 王连晟 — Utopian Ethical Machine (2025), National Taiwan Museum of Fine Arts",
+  "why": "Taiwanese installation on AI moral decision-making; January 2025, just before this batch's window.",
+  "link": "https://taiwantoday.tw/AMP/culture/top-news/264409/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-asia-2026",
+  "work_ids": [
+   "wang-lien-cheng--utopian-ethical-machine"
+  ],
+  "note": "2026-11: description taken from the TNUA Center for Art and Technology page for the December 2024 stage 'Machines of Morality'; the NTMoFA solo show opened 11 Jan 2025. Video is NTMoFA's opening-ceremony upload; no still image found."
+ },
+ {
+  "name": "Neo Sora — Happyend (2024)",
+  "why": "Japanese feature in which a high school installs an AI surveillance system after a prank; just before the window.",
+  "link": "https://en.wikipedia.org/wiki/Happyend",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-asia-2026",
+  "work_ids": [
+   "neo-sora--happyend"
+  ],
+  "note": "2026-11: facts from Wikipedia (Venice Orizzonti premiere 2 Sep 2024); Film Movement trailer verified."
+ },
+ {
+  "name": "Lam Pok-yin — An Increasingly Difficult and Futile Task (2021)",
+  "why": "Hong Kong: old phones under bell jars keep asking viewers to prove they are human, with footage of human data-labellers.",
+  "link": "https://www.chinadailyhk.com/article/621853",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-asia-2026",
+  "work_ids": [
+   "lam-pok-yin--an-increasingly-difficult-and-futile-task"
+  ],
+  "note": "2026-11: Vanguard Gallery page verified (MTurk task, over 800 participants, shown at Tai Kwun 2025–26); two images verified. The artist's Chinese name was not confirmed, so name_zh is empty."
+ },
+ {
   "name": "Meta Office — Meta Office (2021)",
   "why": "Anonymous project documenting Amazon Mechanical Turk workers' home 'offices' as metadata; shown in The World Through AI (Jeu de Paume 2025) but made in 2021, outside the recent-* window.",
   "link": "https://vimeo.com/594627702",
@@ -2872,6 +3064,18 @@
    "meta-office--behind-the-screens-of-amazon-mechanical-turks"
   ],
   "note": "Jeu de Paume title: 'Behind the Screens of Amazon Mechanical Turks' (2021–2025); dated 2021."
+ },
+ {
+  "name": "Júlia Nueno Guitart — Sabot: Riding the Algorithm (2022–)",
+  "why": "Open-source app turning delivery riders' data into a worker-owned commons (IWGB, RidersXDerechos); Prix Ars Electronica 2026 HM (Digital Humanity), but first shown 2022–23. Labour/automation.",
+  "link": "https://archive.aec.at/prix/320416/",
+  "found_via": "prix-ars-ai-life",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "julia-nueno-guitart--sabot"
+  ],
+  "note": "2026-11: Ars Electronica archive text and images verified; prototype dated 2022."
  },
  {
   "name": "Sarah Rothberg — FOREVER MEETINGS (2025)",
@@ -2895,6 +3099,18 @@
   "note": "Subject is the war in Gaza rather than machines."
  },
  {
+  "name": "Rachel Maclean — DUCK (2024)",
+  "why": "Deepfake spy film with synthetic Sean Connery and Marilyn Monroe about disinformation; Prix Ars Electronica 2024 HM. Likeness/deepfake, fits afterlife or interiority.",
+  "link": "https://ars.electronica.art/prix/en/winners/",
+  "found_via": "prix-ars-ai-life",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "rachel-maclean--duck"
+  ],
+  "note": "2026-11: British Council film database verified (16 min 30, world premiere IFFR 2024); IFFR trailer and still verified. Creator rachel-maclean is defined by recent-art-2026b in this same update, so no creator record here."
+ },
+ {
   "name": "Trevor Paglen — How to See Like a Machine: Images After AI (book, 2026)",
   "why": "Paglen won the 2026 LG Guggenheim Award; no new 2024–26 artwork on paglen.studio, but the 2026 book fits recent-research.",
   "link": "https://artreview.com/winner-of-the-2026-lg-guggenheim-award-announced/",
@@ -2905,6 +3121,42 @@
    "trevor-paglen--how-to-see-like-a-machine"
   ],
   "note": "Already in recent-research."
+ },
+ {
+  "name": "Peace Olatunji — Untangler (2026)",
+  "why": "Multi-system project addressing the absence of African perspectives in AI training data (S+T+ARTS Afropean Intelligence residency); S+T+ARTS 2026 nomination. Power/other-intelligences.",
+  "link": "https://ars.electronica.art/starts-prize/en/untangler/",
+  "found_via": "starts-prize",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "peace-olatunji--untangler"
+  ],
+  "note": "2026-11: S+T+ARTS Prize 2026 nomination page and images verified. Tagged starts-prize."
+ },
+ {
+  "name": "Data Against Feminicide — AI tools and data activism (2019–)",
+  "why": "Feminist participatory action research co-designing ML tools for activists who count feminicides; S+T+ARTS 2025 HM. Started before 2024. Power/counter-data.",
+  "link": "https://datoscontrafeminicidio.net",
+  "found_via": "starts-prize",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "catherine-dignazio--counting-feminicide"
+  ],
+  "note": "2026-11: added as Catherine D'Ignazio's book Counting Feminicide (MIT Press 2024, DOI 10.7551/mitpress/14671.001.0001), which reports on the project. Paper-only card. The S+T+ARTS 2025 Honorary Mention was not re-verified, so no collection tag."
+ },
+ {
+  "name": "Sofia Isupova — Mapping Uncertain Landscape: The Satellite (2022–23)",
+  "why": "Map-drawing machine fed by crop-monitoring satellite images of a road near Chornobyl during the war; S+T+ARTS 2024 HM. Outside the recent-* window.",
+  "link": "https://sonyaisupova.com/The-Satelitte",
+  "found_via": "starts-prize",
+  "status": "covered",
+  "batch": "recent-critical",
+  "work_ids": [
+   "sofia-isupova--mapping-uncertain-landscape-the-satellite"
+  ],
+  "note": "2026-11: artist's page and two images verified (HEAD – Genève 2023). The S+T+ARTS 2024 Honorary Mention was not re-verified, so no collection tag."
  },
  {
   "name": "World Humanoid Robot Games, Beijing (Aug 2025; 2nd edition 2026)",
@@ -2928,6 +3180,30 @@
   "note": "SIGGRAPH Asia 2023 Art Papers DOI verified; Prix Ars 2025 HM confirmed in archive.aec.at/prix/300791."
  },
  {
+  "name": "Yuan Goang-Ming — Flat World (2024)",
+  "why": "New 'road movie' stitched from Google Street View scenes found by similarity search; shown in Everyday War, Venice 2024. Machine-seeing angle; no separate media found yet.",
+  "link": "https://www.e-flux.com/announcements/593425/yuan-goang-mingeveryday-war",
+  "found_via": "yuan-goang-ming",
+  "status": "covered",
+  "batch": "recent-east-asia",
+  "work_ids": [
+   "yuan-goang-ming--flat-world"
+  ],
+  "note": "2026-11: the artist's own YouTube demo (1 min) verified; description from the e-flux announcement of Everyday War. Existing creator yuan-goang-ming."
+ },
+ {
+  "name": "Shinichi Furuya — Surpassing Limits of Virtuosity of Pianists by Exoskeleton (2025)",
+  "why": "Finger exoskeleton that moves expert pianists' hands through motions they have never made; S+T+ARTS Prize 2025 nomination. Research paper, so it belongs to recent-research.",
+  "link": "https://starts-prize.aec.at/en/winners/winners2025/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-east-asia",
+  "work_ids": [
+   "shinichi-furuya--hand-exoskeleton-pianists"
+  ],
+  "note": "2026-11: DOI 10.1126/scirobotics.adn3802 verified (Science Robotics, Jan 2025) and abstract read; New Scientist video verified. The S+T+ARTS 2025 nomination was not re-verified, so no collection tag."
+ },
+ {
   "name": "Nozomu Kubota — AI's Silent Omissions (2025–26)",
   "why": "Prix Ars Electronica 2026 Honorary Mention (Interactive Art+): shows how AI misreads bodily difference as error or obscenity.",
   "link": "https://archive.aec.at/prix/319686/",
@@ -2940,6 +3216,18 @@
   "note": "Documentary; Prix Ars Electronica 2026 HM (Digital Humanity per archive page)."
  },
  {
+  "name": "Jungwoo Lee — In Writing 'Hurrah for Freedom': Cinema and History",
+  "why": "Prix Ars Electronica 2026 Honorary Mention (New Animation Art): Korean colonial-era film history set against the 'freedom' of generative AI.",
+  "link": "https://ars.electronica.art/prix/en/winners/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-east-asia",
+  "work_ids": [
+   "lee-jungwoo--written-film-history-to-be-written"
+  ],
+  "note": "Same work as the gallery's entry on the AI reconstruction of Viva Freedom! (1946), listed under its MMCA title."
+ },
+ {
   "name": "Geumhyung Jeong — Toy Prototype (2021)",
   "why": "Her best-known robot installation and performance (shown in The Milk of Dreams, Venice 2022); a second Jeong work if intimacy needs more.",
   "link": "https://finestresullarte.info/en/exhibitions/korean-artist-geumhyung-jeong-s-robots-are-on-display-in-modena-italy",
@@ -2950,6 +3238,18 @@
    "geumhyung-jeong--toy-prototype"
   ],
   "note": "MMCA commission, shown in The Milk of Dreams 2022."
+ },
+ {
+  "name": "Lo-Def Film Factory — Dzata: The Institute of Technological Consciousness (2023)",
+  "why": "AI essay-film on African technological histories; Lumen Prize Global Majority Award 2023, S+T+ARTS and Prix Ars selections.",
+  "link": "https://lumenprize.com/2023-winners/2023-global-majority-award-winner",
+  "found_via": "lo-def-film-factory",
+  "status": "covered",
+  "batch": "recent-global-design-2026",
+  "work_ids": [
+   "lo-def-film-factory--dzata"
+  ],
+  "note": "2026-11: Lumen 2023 Global Majority Award page verified; full film on the collective's YouTube channel verified. Existing creator lo-def-film-factory. Tagged lumen-prize."
  },
  {
   "name": "Abundant Intelligences — Abundant Memory, Relational Intelligence (Hess Gallery, Lethbridge, Oct 2025 – Jan 2026)",
@@ -2986,6 +3286,18 @@
    "ioana-vreme-moser--mineral-amnesia"
   ],
   "note": "Prix Ars Electronica 2025 Award of Distinction (Digital Musics & Sound Art)."
+ },
+ {
+  "name": "Erin Robinson & Anthony Frisby — XXX Machina",
+  "why": "'Autonomous desire machine' generating recursive deepfake erotica of the artist from diffusion models trained on scraped AI-porn datasets; Prix Ars Electronica 2025 Award of Distinction (Artificial Life & Intelligence). Year of first showing not verified.",
+  "link": "https://xxxmachina.com/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "erin-robinson--xxx-machina"
+  ],
+  "note": "2026-11: artist's site verified (installation text, images, Prix Ars Electronica 2025 Distinction badge; shown at Ars Electronica Festival 2025). Entered as 2025. Tagged prix-ars-ai-life."
  },
  {
   "name": "Navid Navab & Garnet Willis — Organism (+ Excitable Chaos)",
@@ -3027,6 +3339,42 @@
    "lauren-lee-mccarthy--auto"
   ],
   "note": "Already added by recent-east-asia."
+ },
+ {
+  "name": "Arvida Byström — PET: Projected Emotional Technologies (2026)",
+  "why": "Video on AI companions as pets, drawn from Reddit threads of men struggling with dating; S+T+ARTS Prize 2026 nomination.",
+  "link": "https://ars.electronica.art/starts-prize/en/projected-emotional-technologies/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "arvida-bystrom--pet-projected-emotional-technologies"
+  ],
+  "note": "2026-11: S+T+ARTS Prize 2026 nomination page and images verified. Tagged starts-prize."
+ },
+ {
+  "name": "Amy Karle & Eduardo Reck Miranda — Cortical Echoes (2025)",
+  "why": "Performance with living neurons on Cortical Labs' CL1 biological computer, whose spikes become music, speech and visuals; S+T+ARTS Prize 2026 nomination (interiority / biocomputing).",
+  "link": "https://ars.electronica.art/starts-prize/en/cortical-echoes-an-interface-for-living-computation/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "amy-karle--cortical-echoes"
+  ],
+  "note": "2026-11: S+T+ARTS page, artist's page and Vimeo video verified. The artist's site dates the work 2026 (the lead said 2025); entered as 2026. Tagged starts-prize."
+ },
+ {
+  "name": "Andreas Refsgaard & Sofie Burgos-Thorsen — Wicked Mirror (2026)",
+  "why": "A photorealistic AI clone of the visitor's face and voice argues against the opinion they just gave; Ars Electronica 2026 Festival Walk (likeness / perception).",
+  "link": "https://ars.electronica.art/mediaservice/en/2026/09/09/festival-walk-negotiating-the-real/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "recent-relational",
+  "work_ids": [
+   "andreas-refsgaard--wicked-mirror"
+  ],
+  "note": "Added in this same update by the recent-art-2026b batch."
  },
  {
   "name": "Ellen Weir, Ute Leonards, Anne Roudaut, Puppet Prototyping: Exploring Puppetry as a Design Method for Relational Robots (DIS 2026, honourable mention)",
@@ -3177,6 +3525,18 @@
   ]
  },
  {
+  "name": "Nick Couldry & Ulises A. Mejias, Data Grab: The New Colonialism of Big Tech (2024)",
+  "why": "Data colonialism thesis for a general audience; power/extraction.",
+  "link": "https://doi.org/10.7208/chicago/9780226832319.001.0001",
+  "found_via": "karen-hao",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "ulises-mejias--data-grab"
+  ],
+  "note": "2026-11: DOI verified (University of Chicago Press, 2024); publisher's description read. Crossref lists the authors as Mejias and Couldry. New creators ulises-mejias and nick-couldry."
+ },
+ {
   "name": "Anthropic interpretability, On the Biology of a Large Language Model (2025)",
   "why": "Attribution graphs tracing Claude's internal 'thoughts' (planning rhymes, multi-step reasoning); striking visuals, but no DOI/arXiv id.",
   "link": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
@@ -3187,6 +3547,18 @@
    "anthropic--biology-of-a-large-language-model"
   ],
   "note": "No DOI; Transformer Circuits Thread URL as paper."
+ },
+ {
+  "name": "Giustina B. Baron & Hongjin Song, A prolonged journey: Mourning and digital resurrection in the Chinese context (2025)",
+  "why": "On AI 'resurrection' services and mourning in China; would strengthen Chinese-context afterlife research; verify DOI 10.18861/ic.2025.20.2.4112.",
+  "link": "https://revistas.ort.edu.uy/inmediaciones-de-la-comunicacion/",
+  "found_via": "meredith-ringel-morris",
+  "status": "covered",
+  "batch": "recent-research",
+  "work_ids": [
+   "giustina-baron--a-prolonged-journey"
+  ],
+  "note": "2026-11: DOI verified and abstract read via Crossref (authors Giustina Benedetta Baron and Hongjin Song). Crossref gives the title only as 'A prolonged journey'."
  },
  {
   "name": "Patrick Butlin, Robert Long et al., Identifying indicators of consciousness in AI systems (Trends in Cognitive Sciences, 2025)",

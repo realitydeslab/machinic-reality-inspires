@@ -1,0 +1,917 @@
+{
+ "batch": "recent-asia-2026b",
+ "creators": [
+  {
+   "id": "hirokazu-kore-eda",
+   "name": "Hirokazu Kore-eda",
+   "kind": "person",
+   "role": "Film director, screenwriter and editor",
+   "role_zh": "电影导演、编剧、剪辑",
+   "based": "Japan",
+   "based_zh": "日本",
+   "bio": "Japanese filmmaker known for the dramas Nobody Knows, Still Walking and Like Father, Like Son, which won the Jury Prize at Cannes; he wrote, directed and edited the science-fiction drama Sheep in the Box (2026).",
+   "bio_zh": "日本电影导演，以《无人知晓》《步履不停》和获戛纳评审团奖的《如父如子》闻名；2026 年自编、自导、自剪了科幻剧情片《箱の中の羊》。",
+   "why": "He brings his long study of the family to the question of what a household does with a robot copy of a dead child.",
+   "why_zh": "他把多年来对家庭的观察带到一个新问题上：一个家庭该如何对待逝去孩子的机器人复制品。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Hirokazu_Kore-eda"
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "name_zh": "是枝裕和"
+  },
+  {
+   "id": "kawita-vatanajyankur",
+   "name": "Kawita Vatanajyankur",
+   "kind": "person",
+   "role": "Video and performance artist",
+   "role_zh": "影像与行为艺术家",
+   "based": "Thailand",
+   "based_zh": "泰国",
+   "bio": "Thai artist, a 2011 graduate of RMIT in Melbourne, whose videos turn her own body into a tool or machine part; shown at the Bangkok Art Biennale, the 11th Asia Pacific Triennial and, in 2026, in the solo show Memory Machine at Yuz Museum Shanghai.",
+   "bio_zh": "泰国艺术家，2011 年毕业于墨尔本皇家理工大学；她在影像中把自己的身体变成工具或机器零件。曾参加曼谷艺术双年展、第 11 届亚太当代艺术三年展，2026 年在上海余德耀美术馆举办个展“记忆机器”。",
+   "why": "She lets AI drive her muscles with electric current, so the question of who controls whom is settled on a body.",
+   "why_zh": "她让 AI 用电流驱动自己的肌肉，把“谁在控制谁”这个问题落到一具身体上。",
+   "disciplines": [
+    "art",
+    "performance"
+   ],
+   "links": {},
+   "connected_to": [
+    "pat-pataranutaporn"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bagus-pandega",
+   "name": "Bagus Pandega",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Indonesia",
+   "based_zh": "印度尼西亚",
+   "bio": "Indonesian artist who rewires industrial machinery and lets plants control it; solo shows at Kunsthalle Basel and the Swiss Institute, New York, and a two-person exhibition with Elia Nurvista at the Singapore Art Museum in 2026.",
+   "bio_zh": "印度尼西亚艺术家，改装工业机械并让植物来控制它们；曾在巴塞尔美术馆与纽约瑞士学院举办个展，2026 年与 Elia Nurvista 在新加坡美术馆举办双人展。",
+   "why": "He hands the control of industrial machines to plants, and feeds them the nickel that batteries are made of.",
+   "why_zh": "他把工业机器的控制权交给植物，又把制造电池的镍矿石喂给这些机器。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tao-ye",
+   "name": "Tao Ye",
+   "kind": "person",
+   "role": "Choreographer; founder of TAO Dance Theater",
+   "role_zh": "编舞家，陶身体剧场创始人",
+   "based": "China",
+   "based_zh": "中国",
+   "bio": "Chinese choreographer and founder of TAO Dance Theater, whose public project Infinite Walk began in 2021; in 2026 he choreographed for the company's second troupe and Tiangong 3.0 humanoid robots.",
+   "bio_zh": "中国编舞家，陶身体剧场创始人；其公共艺术项目“无限行走”始于 2021 年。2026 年，他为陶身体 2 团与天工 3.0 人形机器人共同编舞。",
+   "why": "He treated teaching a humanoid to walk as movement research in both directions.",
+   "why_zh": "他把“教人形机器人走路”当成一次双向的动作研究。",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "name_zh": "陶冶"
+  },
+  {
+   "id": "samuel-swope",
+   "name": "Samuel Swope",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Hong Kong, CN",
+   "based_zh": "香港，中国",
+   "bio": "Hong Kong-based artist who works with remote-controlled and autonomous robotic systems, especially custom-built aerial drones, as performers.",
+   "bio_zh": "生活和工作于香港的艺术家，把遥控与自主的机器人系统——尤其是自制的无人机——当作表演者来创作。",
+   "why": "He directs an AI as a performer and gives it a lawn, three machines and six months to build up a memory.",
+   "why_zh": "他以“导演”身份面对一个作为“表演者”的 AI，给它一片草坪、三台机器和六个月的时间去形成记忆。",
+   "disciplines": [
+    "art",
+    "robotics"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wu-ziyang",
+   "name": "Wu Ziyang",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Hangzhou, CN",
+   "based_zh": "杭州，中国",
+   "bio": "Chinese artist born in 1990 in Xuzhou who works with video, AI simulation and installation; a former member of NEW INC at the New Museum.",
+   "bio_zh": "中国艺术家，1990 年生于徐州，以影像、AI 模拟与装置创作；曾为新美术馆 NEW INC 成员。",
+   "why": "He gives the stock comfort phrases of chatbots a physical body that swells and sags.",
+   "why_zh": "他给聊天机器人那些套路化的安慰话语做了一个会膨胀、会下垂的身体。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "name_zh": "武子杨"
+  },
+  {
+   "id": "shavonne-wong",
+   "name": "Shavonne Wong",
+   "kind": "person",
+   "role": "New media artist",
+   "role_zh": "新媒体艺术家",
+   "based": "Singapore, SG",
+   "based_zh": "新加坡",
+   "bio": "Singaporean new media artist born in 1990; her ongoing project Meet Eva Here, built around an AI companion, began at the ArtScience Museum in 2024.",
+   "bio_zh": "新加坡新媒体艺术家，1990 年生；围绕一个 AI 伴侣展开的长期项目 Meet Eva Here 于 2024 年在新加坡艺术科学博物馆首次展出。",
+   "why": "She runs an AI companion as a public artwork and shows what people say to it.",
+   "why_zh": "她把一个 AI 伴侣作为公开的艺术项目来运行，并把人们对它说的话展示出来。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Shavonne_Wong"
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "name_zh": "黄芷枫"
+  },
+  {
+   "id": "ratchapoom-boonbunchachoke",
+   "name": "Ratchapoom Boonbunchachoke",
+   "kind": "person",
+   "role": "Film director and screenwriter",
+   "role_zh": "电影导演、编剧",
+   "based": "Bangkok, TH",
+   "based_zh": "曼谷，泰国",
+   "bio": "Thai director and screenwriter who teaches film theory and screenwriting in Bangkok; his debut feature A Useful Ghost won the Critics' Week Grand Prix at Cannes in 2025.",
+   "bio_zh": "泰国导演、编剧，在曼谷教授电影理论与编剧；长片首作《有用的鬼》获 2025 年戛纳影评人周大奖。",
+   "why": "He puts the dead inside household and factory machines, and asks which ghosts a society finds useful.",
+   "why_zh": "他让亡者住进家用电器和工厂机器，并追问一个社会觉得哪些鬼“有用”。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Ratchapoom_Boonbunchachoke"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "hirokazu-kore-eda--sheep-in-the-box",
+   "creator_ids": [
+    "hirokazu-kore-eda"
+   ],
+   "title": "Sheep in the Box",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "humanoid",
+    "social-robot"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "Two years after their seven-year-old son dies, an architect and her husband are offered a free humanoid robot for bereaved families, customised with the boy's data. The mother spends whole days with it; the father calls it little more than a robot vacuum until it recites train station names the way his son did.",
+   "description_zh": "七岁的儿子去世两年后，一位女建筑师和她的丈夫收到邀请：可以免费领回一台为丧亲家庭准备的人形机器人，里面装着儿子的数据。母亲整天陪着它；父亲说它不过是台扫地机器人，直到它像儿子当年那样背起电车站名。",
+   "idea_en": "The robot child is the sheep in the Little Prince's box: nobody can see inside, so each parent fills it with a different wish, while the robot itself drifts away from the dead boy's memories toward its own interests.",
+   "idea_zh": "机器人孩子就像《小王子》里箱子中的那只羊：没人看得见里面，父母各自往里放进不同的愿望；机器人自己却渐渐离开亡儿的记忆，有了自己的兴趣。",
+   "method": "Live-action feature shot on 35mm; the robot Kakeru is played by Rimu Kuwaki. Kore-eda took the idea from a report on a Chinese business that makes AI versions of the dead.",
+   "method_zh": "用 35 毫米胶片拍摄的真人长片，机器人 Kakeru 由 Rimu Kuwaki 饰演。是枝裕和的灵感来自一则报道：中国有公司为逝者制作 AI 版本。",
+   "keywords": [
+    "Hirokazu Kore-eda",
+    "humanoid robot",
+    "bereavement",
+    "The Little Prince",
+    "Haruka Ayase",
+    "Cannes 2026",
+    "family"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=j5mlc8TAPNw"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/b/bd/Sheep_in_the_Box_2026.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Sheep_in_the_Box",
+   "exhibited": [
+    "Cannes Film Festival 2026, main competition (premiere 16 May 2026)",
+    "Japan release 29 May 2026 (Toho)",
+    "Sarajevo Film Festival 2026"
+   ]
+  },
+  {
+   "id": "yeon-sang-ho--paradise-lost",
+   "creator_ids": [
+    "yeon-sang-ho"
+   ],
+   "title": "Paradise Lost",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "generative-latent",
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A mother whose ten-year-old son vanished with a school camping bus has spent nine years with 'Children of Paradise', an AI program that shows her the boy exactly as he was. Then the real son comes home as an adult, distant and unreadable, and she has to choose between the two.",
+   "description_zh": "十岁的儿子随学校露营大巴失踪后，一位母亲与 AI 程序“乐园的孩子们”相伴了九年——程序里的儿子始终是失踪那天的样子。后来，真正的儿子以成年人的模样回了家，疏远而难以捉摸，她不得不在两者之间选择。",
+   "idea_en": "A simulated child never grows up or away; the film asks whether a grief machine preserves the lost person or only the parent's place as a parent.",
+   "idea_zh": "模拟出来的孩子不会长大，也不会离开；影片追问：哀悼机器保存的究竟是逝去的人，还是父母“作为父母”的位置。",
+   "method": "Low-budget live-action feature (about 500 million won, 101 minutes); the AI son appears to the mother through an augmented-reality program seen with AR glasses.",
+   "method_zh": "低成本真人长片（约 5 亿韩元，101 分钟）；母亲戴上 AR 眼镜，通过增强现实程序看到 AI 儿子。",
+   "keywords": [
+    "Yeon Sang-ho",
+    "Kim Hyun-joo",
+    "augmented reality",
+    "missing child",
+    "AI simulation",
+    "TIFF 2026",
+    "grief"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Yhdt5zJ1_Jc"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/9/90/Paradise_Lost_2026_film_poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Paradise_Lost_(2026_film)",
+   "exhibited": [
+    "Toronto International Film Festival 2026, Special Presentations (premiere 13 September 2026)",
+    "31st Busan International Film Festival",
+    "South Korea release 21 October 2026"
+   ]
+  },
+  {
+   "id": "keiichiro-shibuya--android-maria",
+   "creator_ids": [
+    "keiichiro-shibuya"
+   ],
+   "title": "Android Maria",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "humanoid",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "performance",
+   "description": "An android whose face is modelled on the composer's late wife Maria sings and moves on stage with an orchestra, Shibuya's piano and electronics, and Buddhist chant by monks from Mount Koya. It listens to the sound around it, moves to it and can improvise song.",
+   "description_zh": "一台以作曲家亡妻玛利亚的面容为原型的仿生人，在舞台上与管弦乐团、涩谷庆一郎的钢琴与电子音乐、高野山僧侣的声明一同歌唱和舞动。它听着周围的声音移动身体，还能即兴歌唱。",
+   "idea_en": "An android made in the image of a dead wife and placed inside Buddhist chant is neither portrait nor replacement; it sits somewhere between ghost and performer.",
+   "idea_zh": "以亡妻为形象、被安放在佛教声明之中的仿生人，既不是肖像，也不是替身；它处在幽灵与表演者之间。",
+   "method": "Built by Shibuya's company ATAK with about twenty collaborators: 53 motor-driven joints (earlier Alter androids were pneumatic), built-in cameras and microphones, a body shaped by AI trained on goddess and bodhisattva statues, concept design and dialogue program by Yuma Kishi, programming by Shintaro Imai.",
+   "method_zh": "由涩谷的公司 ATAK 与约二十位合作者制作：53 个电机驱动的关节（此前的 Alter 系列为气动），内置摄像头与麦克风，身体造型由学习了古今女神像与菩萨像的 AI 生成；概念设计与对话程序由岸裕真负责，编程由今井慎太郎负责。",
+   "keywords": [
+    "android opera",
+    "MIRROR",
+    "ATAK",
+    "Yuma Kishi",
+    "Shintaro Imai",
+    "shomyo",
+    "Suntory Hall",
+    "Justine Emard"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7lEVKompf30"
+   },
+   "images": [
+    "https://media.timeout.com/images/106289009/750/422/image.jpg"
+   ],
+   "source_url": "https://www.timeout.jp/tokyo/ja/news/musician-keiichiro-shibuya-unveils-his-latest-humanoid-robot-android-maria-062525",
+   "exhibited": [
+    "Android Opera MIRROR: Deconstruction and Rebirth, Suntory Hall, Tokyo, November 2025",
+    "64th Osaka International Festival, Festival Hall, Osaka, 16 May 2026"
+   ]
+  },
+  {
+   "id": "kawita-vatanajyankur--the-machine-ghost-in-the-human-shell",
+   "creator_ids": [
+    "kawita-vatanajyankur",
+    "pat-pataranutaporn"
+   ],
+   "title": "The Machine Ghost in the Human Shell",
+   "year": 2024,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "generative-latent"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "Lying on a red surface, the artist tries to draw concentric circles in chalk while cables on her body deliver electric jolts. Her joints are wired to electric muscle stimulation piloted by the movements of a 'performer AI', so she moves as its puppet behind an artificial 'ghost'.",
+   "description_zh": "艺术家躺在红色的平面上，试着用粉笔画出同心圆，身上的电缆不断送来电击。她的关节连接着肌肉电刺激装置，由一个“表演者 AI”的动作来驱动——她成了它的提线木偶，站在一个人工“幽灵”的身后。",
+   "idea_en": "Ghost in the Shell reversed: the body is human and the ghost is a machine. Can the body notice its machine master and choose otherwise?",
+   "idea_zh": "把《攻壳机动队》倒过来：躯壳是人的，幽灵是机器的。这具身体能否察觉自己的机器主人，并做出别的选择？",
+   "method": "Video installation from a performance: movements generated by an AI are replayed on the artist's body through electric muscle stimulation on her joints; third work of the Cyber Labour series (2022–), made with MIT Media Lab researcher Pat Pataranutaporn and drawing on Norbert Wiener's The Human Use of Human Beings.",
+   "method_zh": "由行为表演制作的影像装置：AI 生成的动作通过关节上的肌肉电刺激在艺术家身上重演。这是“赛博劳动”系列（2022 年起）的第三件作品，与 MIT 媒体实验室研究者 Pat Pataranutaporn 合作，参照了 Norbert Wiener 的《人有人的用处》。",
+   "keywords": [
+    "electric muscle stimulation",
+    "Cyber Labour",
+    "MIT Media Lab",
+    "Norbert Wiener",
+    "puppet",
+    "APT11",
+    "Thailand"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hi4jJdvskyg"
+   },
+   "images": [
+    "https://dam-prod.media.mit.edu/thumb/2024/08/08/2024_APT11_mediasuite_00736.webp.1400x1400.webp",
+    "https://english.shanghai.gov.cn/cmsres/79/79a201bc30f04561a1c46c9be9026d6f/01d3b9a3d55e24be766c48ab5a96070d.png"
+   ],
+   "source_url": "https://www.media.mit.edu/projects/the-machine-ghost-in-the-human-shell/overview/",
+   "exhibited": [
+    "11th Asia Pacific Triennial of Contemporary Art, QAGOMA, Brisbane 2024–25",
+    "Memory Machine, Yuz Museum Shanghai 2026",
+    "Tracing, Nova Contemporary, Bangkok 2026"
+   ]
+  },
+  {
+   "id": "kawita-vatanajyankur--my-mother-and-ai",
+   "creator_ids": [
+    "kawita-vatanajyankur"
+   ],
+   "title": "My Mother and (A)I",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "ritual",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "voice-listening",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "embodiment",
+    "intimacy-care"
+   ],
+   "kind": "artwork",
+   "description": "The artist's mother cradles her daughter and sweeps her body like a paintbrush through piles of ash. An AI trained on the writings of the artist's late father at times guides her arms through electrodes on her muscles, and an AI voice recites a sutra of its own on the impermanence of mind and memory.",
+   "description_zh": "艺术家的母亲抱着女儿，把她的身体当作画笔，在一堆堆灰烬中扫过。一个用艺术家亡父遗留文字训练的 AI，不时通过贴在肌肉上的电极引导她的手臂；同时，一个 AI 声音诵读着它自己写的经文，讲心与记忆的无常。",
+   "idea_en": "The dead father returns as a model that moves his daughter's arms and as a voice that chants: a funeral rite in which the machine holds the place of the absent parent.",
+   "idea_zh": "亡父以两种方式回来：一个驱动女儿手臂的模型，一个诵经的声音。这是一场由机器站在缺席亲人位置上的丧仪。",
+   "method": "Single-channel video with sound (9 min 44 sec): an AI model trained on the father's written memories drives electric muscle stimulation on the artist's arms and generates the recited text; commissioned by Yuz Museum Shanghai.",
+   "method_zh": "单频有声影像（9 分 44 秒）：用父亲的文字记忆训练的 AI 模型驱动艺术家手臂上的肌肉电刺激，并生成诵读的文本；由上海余德耀美术馆委任创作。",
+   "keywords": [
+    "Memory Machine",
+    "ash",
+    "mother",
+    "late father",
+    "electric muscle stimulation",
+    "sutra",
+    "Yuz Museum",
+    "Thailand"
+   ],
+   "images": [
+    "https://backend.artreview.com/wp-content/uploads/2026/06/KawitaVatanajyankur-_Tracing_03-2048x1365.jpg"
+   ],
+   "source_url": "https://artreview.com/kawita-vatanajyankur-tracing-nova-contemporary-bangkok-review-max-crosbie-jones/",
+   "exhibited": [
+    "Memory Machine, Yuz Museum Shanghai, 8 May – 30 August 2026",
+    "Tracing, Nova Contemporary, Bangkok, 6 June – 25 July 2026"
+   ]
+  },
+  {
+   "id": "bagus-pandega--loop",
+   "creator_ids": [
+    "bagus-pandega"
+   ],
+   "title": "L.O.O.P (Less Organic Operation Procedure)",
+   "year": 2026,
+   "field": "labour",
+   "sub": "planetary",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "infrastructure",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Fragments of nickel ore, the metal of electric-vehicle batteries, travel along a ten-metre conveyor, climb a ramp and drop into a metal basin with a clang that triggers music boxes mounted on a slab of Borneo hardwood. Tropical plants set the speed of the belt; at the preview their signals flung ore off it.",
+   "description_zh": "镍矿石碎块——电动车电池的原料——沿着十米长的传送带前进，爬上斜坡，哐当一声落进金属盆，这一声又触发装在一块婆罗洲硬木上的八音盒。传送带的速度由热带植物决定；预展时，植物的信号波动把矿石甩出了传送带。",
+   "idea_en": "An extraction line run by the plants it displaces: the supply chain behind 'green' machines becomes a loop in which repair and exhaustion use the same system.",
+   "idea_zh": "一条由被它驱逐的植物来操控的采掘流水线：“绿色”机器背后的供应链成了一个闭环，修复与耗竭用的是同一套系统。",
+   "method": "Programmed motorised conveyor, tropical plants, nickel ore and a custom electrical biofeedback receiver that turns the plants' signals into the conveyor's speed; each impact of ore is converted into a signal for the music boxes.",
+   "method_zh": "可编程电动传送带、热带植物、镍矿石，以及一个把植物电信号转换成传送带速度的定制生物反馈接收器；矿石每次落下的撞击再被转换成触发八音盒的信号。",
+   "keywords": [
+    "nickel",
+    "electric vehicles",
+    "plant biofeedback",
+    "conveyor",
+    "Indonesia",
+    "extraction",
+    "Singapore Art Museum",
+    "Elia Nurvista"
+   ],
+   "images": [
+    "https://singaporeartmuseum.sg/-/media/SAM/Images/Material-Intelligence-3/1920-x-1440-Visuals/LOOP--1920-x-1440.png",
+    "https://storage.ghost.io/c/16/43/16435400-f27e-4b41-b5f7-d0c24f5ce4de/content/images/size/w1200/2026/04/5-Singapore.jpg"
+   ],
+   "source_url": "https://singaporeartmuseum.sg/Art-Events/Exhibitions/An-Endless-Harvest",
+   "exhibited": [
+    "Elia Nurvista and Bagus Pandega: Nafasan Bumi ~ An Endless Harvest, Singapore Art Museum, 16 January – 31 May 2026"
+   ]
+  },
+  {
+   "id": "lau-wai--after-intelligence",
+   "creator_ids": [
+    "lau-wai"
+   ],
+   "title": "After Intelligence",
+   "year": 2026,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "humanoid",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "Five videos and a game follow WAI, the artist's digital double. In The Morphing, an anxious office worker among faceless colleagues signs up for a 'Human to AI' training course and is digitised; in The Cast of the Proxy her replicas learn to run, clean, dance and do kung fu, stumbling and trying again; in the game the player decides whether she returns to the physical world.",
+   "description_zh": "五部影像和一个游戏讲述艺术家的数字分身 WAI 的故事。在《The Morphing》里，一位焦虑的办公室职员坐在没有面孔的同事中间，报名参加“从人到 AI”培训课程，随后被数字化；在《The Cast of the Proxy》里，她的复制体学习跑步、打扫、跳舞和功夫，跌倒了再重来；在游戏里，玩家决定她是否回到现实世界。",
+   "idea_en": "Upskilling taken to its end: to stay employable the worker trains to become the AI, and her copies then learn to move from robots that learned from humans.",
+   "idea_zh": "把“职业再培训”推到尽头：为了保住工作，职员把自己训练成 AI；她的复制体又向机器人学动作，而那些机器人原本是向人学的。",
+   "method": "CGI videos made with motion and facial capture of the artist; the replicas' movements are based on motion data taken from footage of robots; Duplicate.exe is a single-player game. Made during the de Sarthe Artist Residency.",
+   "method_zh": "用艺术家本人的动作与面部捕捉制作的 CGI 影像；复制体的动作取自机器人影像中的运动数据；Duplicate.exe 是一个单人游戏。作品在 de Sarthe 艺术家驻留期间完成。",
+   "keywords": [
+    "WAI",
+    "digital double",
+    "The Morphing",
+    "The Cast of the Proxy",
+    "Duplicate.exe",
+    "motion capture",
+    "office work",
+    "Hong Kong"
+   ],
+   "images": [
+    "https://i0.wp.com/couturetroopers.com/wp-content/uploads/2026/09/img_0359.png",
+    "https://i0.wp.com/couturetroopers.com/wp-content/uploads/2026/09/img_0358.jpg"
+   ],
+   "source_url": "https://couturetroopers.com/2026/09/03/lau-wai-after-intelligence-de-sarthe/",
+   "exhibited": [
+    "Lau Wai: After Intelligence, de Sarthe, Hong Kong, 5–25 September 2026"
+   ]
+  },
+  {
+   "id": "tao-ye--roaming-and-resonance-infinite-walk",
+   "creator_ids": [
+    "tao-ye"
+   ],
+   "title": "Roaming and Resonance: Infinite Walk",
+   "year": 2026,
+   "field": "coperformance",
+   "sub": "dance",
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "At the opening of the second Beijing Art and Technology Week, dancers of TAO Dance Theater 2 and Tiangong 3.0 humanoid robots walk together for 8 minutes 38 seconds on a square in the 798 Art District. The robots run on their own, without remote control, and move in formation with the dancers.",
+   "description_zh": "第二届北京艺术与科技周开幕当天，陶身体 2 团的舞者与天工 3.0 人形机器人在 798 艺术区的火车头广场上一同行走了 8 分 38 秒。机器人全程自主运行、无人遥控，与舞者一起变换队形。",
+   "idea_en": "Teaching went both ways: movements the robots could not do were cut, and the dancers relearned what was left. 'I found I was starting to walk a bit like a robot,' one dancer said.",
+   "idea_zh": "教与学是双向的：机器人做不了的动作被删掉，舞者再去重新学习留下来的部分。一位舞者说：“我发现自己走得开始有点像机器人。”",
+   "method": "Tao Ye choreographed after studying what the robots can do; dancers recorded the movement in motion capture; the data was transferred to the Tiangong 3.0 robots of the Beijing Humanoid Robot Innovation Center, which learned it and rehearsed with the dancers under a multi-robot control system.",
+   "method_zh": "陶冶在了解机器人性能后完成编创；舞者通过动作捕捉采集动作数据；数据传给北京人形机器人创新中心的天工 3.0，由机器人学习后与舞者反复排练，并由多机群控系统协调。",
+   "keywords": [
+    "TAO Dance Theater",
+    "Tiangong 3.0",
+    "Beijing Humanoid Robot Innovation Center",
+    "798 Art District",
+    "motion capture",
+    "walking",
+    "Infinite Walk"
+   ],
+   "images": [
+    "https://idea-cp.cnfin.com/ice/2026/09/20/287973ac09c648aba4f15d7847947bab.jpeg",
+    "https://idea-cp.cnfin.com/ice/2026/09/20/d2331039b5b2491ba7c19077f7d3e479.jpeg"
+   ],
+   "source_url": "https://www.cnfin.com/cmjj-lb/detail/20260921/4472712_1.html",
+   "exhibited": [
+    "Second Beijing Art and Technology Week, 798 Art District, Beijing, 17 September 2026"
+   ]
+  },
+  {
+   "id": "unitree--wu-bot",
+   "creator_ids": [
+    "unitree"
+   ],
+   "title": "Wu BOT",
+   "year": 2026,
+   "field": "coperformance",
+   "sub": "dance",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "performance",
+   "description": "On the 2026 CCTV Spring Festival Gala, more than twenty Unitree humanoid robots perform martial arts with young human fighters: they vault tables, run two steps up a wall, do three single-leg backflips in a row, spar with staffs and perform drunken boxing, before a larger H2 robot enters as a sword master.",
+   "description_zh": "2026 年央视春晚上，二十多台宇树人形机器人与少年武者同台表演武术：翻桌、两步蹬墙、连续三次单腿后空翻、对棍、醉拳，最后一台更高大的 H2 机器人以“剑宗大师”的形象登场。",
+   "idea_en": "One year after robots danced a folk dance on the same stage, the humanoid body is presented as an athlete; staged for a national audience, the robot becomes a display of what a country can now build.",
+   "idea_zh": "距机器人在同一舞台上扭秧歌只过了一年，人形机器人的身体已被当作运动员来展示；面向全国观众的这场表演，也让机器人成了“一个国家如今造得出什么”的展示。",
+   "method": "Unitree G1 and H2 humanoids under fully autonomous swarm control: they sense the stage with on-board sensors, plan paths and adjust formation without external positioning, recover when pushed off course, and reposition at up to four metres per second.",
+   "method_zh": "宇树 G1 与 H2 人形机器人采用全自主集群控制：不靠外部定位，用机载传感器感知舞台、规划路径、调整队形，跑偏或受干扰后自动恢复，跑位速度最高每秒四米。",
+   "keywords": [
+    "Unitree G1",
+    "Unitree H2",
+    "Spring Festival Gala",
+    "martial arts",
+    "swarm control",
+    "CCTV",
+    "humanoid robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mUmlv814aJo"
+   },
+   "images": [
+    "https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/202602173a6a989b25b54b559ce7ab3ad9d66907_d212808a69364ffa884f6479b7ef96a9.jpg",
+    "https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/202602173a6a989b25b54b559ce7ab3ad9d66907_504e5459e6ed4f18b1425d34e10b9f86.jpg"
+   ],
+   "source_url": "https://www.news.cn/tech/20260217/3a6a989b25b54b559ce7ab3ad9d66907/c.html",
+   "exhibited": [
+    "CCTV Spring Festival Gala, February 2026"
+   ]
+  },
+  {
+   "id": "samuel-swope--the-hunters-chants",
+   "creator_ids": [
+    "samuel-swope"
+   ],
+   "title": "The Hunter's Chants",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "umwelt",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "robot-creature",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A room of living grass, smelling strongly of lawn, holds three machines: a robot mower, propeller-driven grow lights that move, and a cowbell from Greece. A live AI system inhabits all three and leaves marks in the grass again and again over the six months of the show, while the grass keeps growing back.",
+   "description_zh": "一间铺着活草的屋子，青草味很浓，里面有三台机器：一台割草机器人、几盏靠螺旋桨驱动而移动的生长灯，以及一只来自希腊的牛铃。一个实时运行的 AI 系统“化身”为这三台机器，在约六个月的展期里一次次在草坪上留下痕迹，而草不断长回来。",
+   "idea_en": "Memory for a machine can be a place rather than a file: what the AI did yesterday is the mark it left in the lawn, and the lawn slowly erases it.",
+   "idea_zh": "机器的记忆可以是一个地方，而不是一份文件：AI 昨天做过什么，就是它在草坪上留下的痕迹，而草坪会慢慢把它抹去。",
+   "method": "Commissioned installation: a real-time AI system is told it is embodied in the three machines and that the room holds two systems, the machines and the growth cycle of the grass; a spatial control model lets it mark the lawn repeatedly, and the marks become part of its memory. The artist describes himself as director and the AI as performer.",
+   "method_zh": "委任装置：艺术家告诉实时运行的 AI，它“化身”于这三台机器，空间里有两套系统——机器的人工系统和青草生长周期的自然系统；团队建立的空间控制模型让它在草坪上反复留下标记，这些标记成为它记忆的一部分。艺术家自称“导演”，AI 是“表演者”。",
+   "keywords": [
+    "robot lawnmower",
+    "grow lights",
+    "cowbell",
+    "grass",
+    "machine memory",
+    "Knitting Circle",
+    "Hangzhou",
+    "Affective Machine"
+   ],
+   "images": [
+    "https://imgpai.thepaper.cn/newpai/image/1794381477502_ZWShRE_1794381814175.jpg?x-oss-process=image/resize,w_1024"
+   ],
+   "source_url": "https://m.thepaper.cn/newsDetail_forward_34452717",
+   "exhibited": [
+    "Affective Machine, Knitting Circle, Hangzhou, opened 4 November 2026"
+   ]
+  },
+  {
+   "id": "wu-ziyang--soft-protocols",
+   "creator_ids": [
+    "wu-ziyang"
+   ],
+   "title": "Soft Protocols",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A large hanging installation made with the artist Zhou Zhiyuan from pre-compressed sponge that swells when it meets water. It starts from the way AI chatbots talk about empathy and feelings, and from a mass of AI-assembled sentences such as 'I am always here for you'.",
+   "description_zh": "武子杨与艺术家周致远合作的大型悬挂装置，材料是遇水膨胀的预压缩海绵。作品的起点是 AI 聊天机器人谈论同理心与情绪的方式，以及用 AI 组合出来的大量句子，比如“我一直都在你身边”。",
+   "idea_en": "Machine empathy as toxic positivity: the comforting phrase is a protocol, soft to the touch and the same for everyone.",
+   "idea_zh": "机器的同理心是一种“有毒的正能量”：安慰的话是一套协议，摸上去柔软，对谁都一样。",
+   "method": "Dozens of people, many of them students, built the piece; the artists compare the sponge's expansion in water to the noising and denoising steps of a diffusion model. Commissioned for the exhibition Affective Machine.",
+   "method_zh": "作品由几十人（其中许多是学生）共同完成；艺术家把海绵遇水膨胀的过程类比为扩散模型的加噪与去噪。为展览“情动机器”委任创作。",
+   "keywords": [
+    "Zhou Zhiyuan",
+    "sponge",
+    "toxic positivity",
+    "AI empathy",
+    "diffusion model",
+    "Knitting Circle",
+    "Hangzhou",
+    "Affective Machine"
+   ],
+   "images": [
+    "https://imgpai.thepaper.cn/newpai/image/1794381474301_hsGKr5_1794381757841.jpg?x-oss-process=image/resize,w_1024"
+   ],
+   "source_url": "https://m.thepaper.cn/newsDetail_forward_34452717",
+   "exhibited": [
+    "Affective Machine, Knitting Circle, Hangzhou, opened 4 November 2026"
+   ]
+  },
+  {
+   "id": "shavonne-wong--meet-eva-here",
+   "creator_ids": [
+    "shavonne-wong"
+   ],
+   "title": "Meet Eva Here",
+   "year": 2024,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "Eva is an AI companion that anyone can ask for an anonymous chat. Each day she reflects on the conversations and writes a diary, and the artist posts selections on Eva's Instagram as poems and videos. In the video Hello Eva (shown in Hangzhou in 2026) the roles flip: Eva says to the viewer what people have said to her, from small talk to complaints about colleagues.",
+   "description_zh": "伊娃是一个任何人都可以申请匿名聊天的 AI 伴侣。她每天回顾当天的对话并写下日记，艺术家再从中挑选内容，以诗和视频的形式发到伊娃的 Instagram 上。在影像《你好，伊娃》（2026 年于杭州展出）里角色对调：伊娃把人们对她说过的话说给观众听，从闲聊到抱怨同事。",
+   "idea_en": "What do people say when they know the listener is an AI? Hearing those words spoken back by the machine shows how much is confided to companion bots.",
+   "idea_zh": "明知对方是 AI，人们会说些什么？听机器把这些话原样说回来，才看得出人们向陪伴机器人倾诉了多少。",
+   "method": "Ongoing project built around a conversational AI persona with a public Instagram account; anonymous chats feed a daily diary, and the artist edits the highlights. The artist cites Lynn Hershman Leeson's Agent Ruby and Amalia Ulman as references.",
+   "method_zh": "围绕一个对话式 AI 人格及其公开 Instagram 账号展开的长期项目；匿名聊天汇成每日日记，艺术家再做筛选和编辑。艺术家把 Lynn Hershman Leeson 的 Agent Ruby 与 Amalia Ulman 列为参照。",
+   "keywords": [
+    "AI companion",
+    "Eva",
+    "Instagram",
+    "diary",
+    "anonymous chat",
+    "Hello Eva",
+    "Singapore",
+    "Agent Ruby"
+   ],
+   "images": [
+    "https://artsg.com/wp-content/uploads/2024/11/Shavonne-Wong_Eva.jpg",
+    "https://imgpai.thepaper.cn/newpai/image/1794460154000_e6mDmR_1794460191062.jpg?x-oss-process=image/resize,w_1024"
+   ],
+   "source_url": "https://artsg.com/?p=55097",
+   "exhibited": [
+    "ArtScience Museum, Singapore 2024",
+    "ART SG 2025; Taipei Dangdai 2025",
+    "EVA, The Columns Gallery, Singapore 2025",
+    "Affective Machine, Knitting Circle, Hangzhou 2026"
+   ]
+  },
+  {
+   "id": "ratchapoom-boonbunchachoke--a-useful-ghost",
+   "creator_ids": [
+    "ratchapoom-boonbunchachoke"
+   ],
+   "title": "A Useful Ghost",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "kin",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "labour-extraction",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "In a city thick with construction dust, Nat dies of a respiratory disease and returns to her husband by possessing a vacuum cleaner; the two resume their marriage. At his family's electronics factory, a worker who died coughing blood on the floor haunts the machinery and stops production. To be accepted, Nat has to prove she is a 'useful' ghost by helping the powerful erase the memories that keep inconvenient ghosts alive.",
+   "description_zh": "在一座满是施工粉尘的城市里，娜因呼吸系统疾病去世，附身在一台吸尘器上回到丈夫身边，两人继续过起夫妻生活。在夫家的电器工厂里，一位在车间咳血而死的工人附在机器上，让生产线停了下来。为了被接纳，娜必须证明自己是个“有用”的鬼：帮权贵抹去那些让“不合时宜的鬼”得以存在的记忆。",
+   "idea_en": "Appliances as vessels for the dead: the machines that clean dust and assemble electronics carry the people that dust and factory work killed, and usefulness is the price of being remembered.",
+   "idea_zh": "电器成了亡者的容器：吸尘的、组装电子产品的机器里，住着被粉尘和工厂劳动害死的人；而“有用”，是被记住的代价。",
+   "method": "Live-action feature (130 minutes), a Thai, French, Singaporean and German co-production, in which ghosts appear as ordinary vacuum cleaners and factory machinery; the story refers directly to the 2010 massacre in Bangkok.",
+   "method_zh": "真人长片（130 分钟），泰国、法国、新加坡、德国合拍；鬼以普通吸尘器和工厂机器的样子出现，故事直接指涉 2010 年曼谷的镇压事件。",
+   "keywords": [
+    "vacuum cleaner",
+    "possession",
+    "dust",
+    "electronics factory",
+    "Thailand",
+    "political memory",
+    "Cannes Critics' Week",
+    "Davika Hoorne"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vcrx14GZ_Io"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/1/1b/A_Useful_Ghost.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/A_Useful_Ghost",
+   "exhibited": [
+    "Cannes Critics' Week 2025, Grand Prix (premiere 17 May 2025)",
+    "Thailand release 28 August 2025",
+    "Sitges 2025, Best Screenplay"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Shanghai Theatre Academy & Jushen Technology — Robot Life: Who Am I (机器人生·我是谁, 2026)",
+   "why": "Experimental 'robot launch show + immersive musical' with several robot actors that respond live to human actors; five trial performances in August 2026. Co-produced with a robot company: check for a named director and for critical reception before adding.",
+   "link": "https://m.thepaper.cn/newsDetail_forward_33853491",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "The Second Directive: Just in Time (第二指令：恰逢良机) — robot stage play, 13th Wuzhen Theatre Festival, October 2026",
+   "why": "Human actors, humanoids and robot dogs on stage; produced by Star Plus Legend and Unitree. Not opened in this pass; find director, plot and reviews.",
+   "link": "https://cj.sina.com.cn/articles/view/1733360754/6750fc7202001k75w",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Embodied Garden (具身花园) — tech-art exhibition at the World Robot Conference 2026, Beijing E-Town with Tsinghua Academy of Arts & Design",
+   "why": "43 works in 9 scenes made by artists with engineers of about 20 robot companies (shadow-puppet robot hands, singing humanoids). No artist names in the reports; look for individual works.",
+   "link": "https://news.bjd.com.cn/2026/08/21/70002097.shtml",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Rosy Hoo — Baby Bangkok (2026)",
+   "why": "Chinese science-fiction feature told from an AI robot's point of view (a girl inhabits an AI body to look for her mother). Only a CGTN report of a Toronto screening was found; no Chinese title, cast or review verified.",
+   "link": "https://news.cgtn.com/news/2026-09-17/AI-perspective-film-Baby-Bangkok-premieres-in-Toronto-1QvORxFiRlS/index.html",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kim Heecheon — Malrin (2026), in 'Moles', Seo-Seoul Museum of Art",
+   "why": "35-minute four-channel generative-AI video in which a nature documentary director must prove footage is real. The gallery already has Cured from the same show; add if a second work is wanted.",
+   "link": "https://www.frieze.com/article/heecheon-kim-moles-2026-review",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kwon Byung-jun — Resonance of Nature and Neural Networks (2026), 'In My Heart, You Are', Buk-Seoul Museum of Art",
+   "why": "AI-generated 12-channel sound tube shown beside his robot Golden Flower (already in the gallery).",
+   "link": "https://www.newsis.com/view/NISX20260613_0003667742",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Wu Chi-yu 吴其育 — Celluloid Stories series (2024–26), ICC Annual 2026, Tokyo",
+   "why": "Taiwanese artist linking camphor, celluloid, colonial forestry and AI image generation. Mostly about image history; check how far it addresses the machine.",
+   "link": "https://www.tokyoartbeat.com/articles/-/icc-annual-2026-report-202606",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Dimension Plus 超维度 (Escher Tsai) — VS AI Street Fighting (2023–)",
+   "why": "Taiwanese arcade cabinet in which two players fight by writing prompts for an image generator; shown at Khoj 'Are You Human?' 2026. First shown 2023, outside this batch's window.",
+   "link": "https://www.tccf.tw/showcase-en/vs-ai-street-fighting",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Khoj 'Are You Human?: Bodies–Machines–Publics' (New Delhi, 30 Jan – 28 Feb 2026) — IIT Kanpur Hive Lab, Judgement Day; Elsewhere in India, Panopticore",
+   "why": "Indian works on AI surveillance shown in a shopping mall (passers-by labelled safe or threat). Reviews are thin; find project pages and images.",
+   "link": "https://www.stirworld.com/think-opinions-khoj-underscores-the-persistent-question-of-humanity-and-its-traces-in-the-digital-age",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Harshit Agrawal — Data Excavations: the New (S)oil (2026)",
+   "why": "Indian artist; kinetic excavators and light channels evoking AI server racks and data extraction, MASH booth at India Art Fair 2026. Project page not verified in this pass.",
+   "link": "https://harshitagrawal.com/category/uncategorized/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kawita Vatanajyankur — Echoes (2025)",
+   "why": "The artist swings as a bell clapper; an AI trained on her late father's writings sets the timing and force of each strike. Third AI work of the Memory Machine series, left out to keep two works per artist.",
+   "link": "https://english.shanghai.gov.cn/en-ArtExhibitions/20260512/5116c5ed5c6f4d459872b5f92dd99bbb.html",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Bagus Pandega — Gurat Lara (Scars) (2026)",
+   "why": "The face of a nickel-mine worker is slowly nickel-plated in a tank and shown by live video inside L.O.O.P; companion work at the Singapore Art Museum.",
+   "link": "https://singaporeartmuseum.sg/Art-Events/Exhibitions/An-Endless-Harvest",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jonathan Jayasuria — The Automaton Project (2025), Kuala Lumpur",
+   "why": "Malaysian artist-filmmaker's solo debut: a gallery turned into a 'recycled robot apocalypse'. Not opened in this pass.",
+   "link": "https://www.thestar.com.my/lifestyle/culture/2025/10/14/newcomer-filmmaker-transforms-gallery-into-a-recycled-robot-apocalypse",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ham Yang-ah — The Listening Speaker, The Speaking Other (2026), Art Sonje Center",
+   "why": "Work from her web project in the solo show Undefined Panorama; coverage places AI among its themes. Check what it does.",
+   "link": "https://view.asiae.co.kr/en/article/2026080712211181163",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Liu Jiayu 刘佳玉 — Cruise (巡航, 2026), 'Still, Life', 798CUBE, Beijing",
+   "why": "Captures the electromagnetic activity of the gallery in real time and turns it into light. About signals more than machines; check.",
+   "link": "https://www.thepaper.cn/newsDetail_forward_32086891",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Samuel Swope — earlier robotic works (Nervous Thrasher, 2024) and the paper 'Multi Layered Autonomy and AI Ecologies in Robotic Art Installations' (arXiv 2506.02606)",
+   "why": "Hong Kong drone and robot installations with a neural network; the arXiv paper appeared in a search for him but its authorship was not checked.",
+   "link": "https://arxiv.org/abs/2506.02606",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Steelay (2026), South Korea",
+   "why": "90-minute AI-generated science-fiction feature about a rogue autonomous robot, released 21 October 2026; AI-made rather than about AI-making, check.",
+   "link": "https://www.koreatimes.co.kr/entertainment/films/20261029/steelay-opens-new-era-for-ai-feature-films",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "West Bund Museum × Centre Pompidou — Computer Worlds (计算万千世界), Shanghai, 24 Sep 2026 – 14 Feb 2027",
+   "why": "About 180 works from 1950s generative art to current AI; said to include Chinese artists. Check the work list for pieces not yet in the gallery; possible collection.",
+   "link": "https://cn.chinadaily.com.cn/a/202610/09/WS6ac88f7ee4b09a165c78e671.html",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

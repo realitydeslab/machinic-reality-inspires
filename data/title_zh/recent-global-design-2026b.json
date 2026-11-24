@@ -1,0 +1,66 @@
+{
+ "modem--dream-recorder": {
+  "zh": "梦境记录仪",
+  "src": "translated"
+ },
+ "modem--quartz": {
+  "zh": "Quartz",
+  "src": "keep"
+ },
+ "oio--mur-mur": {
+  "zh": "Mur Mur",
+  "src": "keep"
+ },
+ "map-project-office--cognitive-bloom": {
+  "zh": "认知之花",
+  "src": "translated"
+ },
+ "mees-boeijen--transparent-citizen": {
+  "zh": "透明公民",
+  "src": "translated"
+ },
+ "simon-weckert--digital-camouflage": {
+  "zh": "数字迷彩",
+  "src": "translated"
+ },
+ "mixfont--decoy-font": {
+  "zh": "诱饵字体",
+  "src": "translated"
+ },
+ "morehshin-allahyari--moon-faced": {
+  "zh": "月容",
+  "src": "translated"
+ },
+ "ameera-kawash--tatreez-garden": {
+  "zh": "刺绣花园",
+  "src": "translated"
+ },
+ "angie-abdilla--meditation-on-country": {
+  "zh": "对土地的冥想",
+  "src": "translated"
+ },
+ "martin-tironi--hybrid-ecologies": {
+  "zh": "混合生态：AI 的行星代谢",
+  "src": "translated"
+ },
+ "constanza-pina--khipu": {
+  "zh": "Khipu：前西班牙时期的电子织物计算机",
+  "src": "translated"
+ },
+ "emmanuel-ndefo--decoding-egwu": {
+  "zh": "解码 Egwu",
+  "src": "translated"
+ },
+ "mahoutondji-kinmagbo--the-memory-performer": {
+  "zh": "记忆表演者",
+  "src": "translated"
+ },
+ "evans-akanyijuka--loras-as-an-archive": {
+  "zh": "作为档案的 LoRA：活的档案",
+  "src": "translated"
+ },
+ "giselle-beiguelman--botannica-tirannica": {
+  "zh": "暴政植物学",
+  "src": "translated"
+ }
+}

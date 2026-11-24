@@ -1,0 +1,1689 @@
+{
+ "batch": "leads-d",
+ "creators": [
+  {
+   "id": "erin-robinson",
+   "name": "Erin Robinson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "",
+   "bio": "Artist whose practice-through-research project XXX Machina, made with Anthony Frisby, studies artificial intelligence, eroticism and digital embodiment through installation, writing and algorithmic experiments.",
+   "why": "Her installation turns the artist's own body into the material of a self-feeding AI pornography machine, so that synthetic desire can be watched as it deforms.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://xxxmachina.com/"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "艺术家，以“实践式研究”项目 XXX Machina（与 Anthony Frisby 合作）通过装置、写作和算法实验探讨人工智能、情色与数字身体。",
+   "why_zh": "她把自己的身体交给一台自我喂养的 AI 色情机器，让人看到合成欲望如何一步步变形。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "luke-shannon",
+   "name": "Luke Shannon",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "",
+   "bio": "Artist who builds his own imaging machines; his plotter-scanner, a document scanner mounted on a 4 by 6 foot plotter, was the basis of the 2025 exhibition Replacement Character at Heft Gallery, New York.",
+   "why": "He enlarges the office scanner to the size of a body, so that being read by a machine becomes a slow physical encounter.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "自己制造成像机器的艺术家；他的“绘图仪—扫描仪”把一台文件扫描仪装在约 1.2 × 1.8 米的绘图仪上，是 2025 年纽约 Heft Gallery 个展 Replacement Character 的核心。",
+   "why_zh": "他把办公室扫描仪放大到人体尺寸，让“被机器读取”变成一次缓慢的身体接触。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lam-pok-yin",
+   "name": "Lam Pok Yin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Hong Kong",
+   "bio": "Hong Kong artist (b. 1988) whose recent work deals with digital platforms, the data they produce and the labour relations beneath them; he works with Amazon Mechanical Turk both as a worker and as a requester.",
+   "why": "He asks crowd workers, who are hired because they are cheaper than automation, to prove that they are human.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "香港艺术家（1988 年生），近年的创作关注数字平台、平台生成的数据及其背后的劳动关系；他同时以工人和发包者的身份使用 Amazon Mechanical Turk。",
+   "why_zh": "他请那些因为比自动化更便宜而被雇用的众包工人，证明自己是人。",
+   "based_zh": "香港",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julia-nueno-guitart",
+   "name": "Júlia Nueno Guitart",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, designer and researcher",
+   "based": "",
+   "bio": "Artist and researcher who develops tools with platform workers; Sabot was made with delivery riders in South London, the IWGB union and RidersXDerechos in Spain.",
+   "why": "She treats the data that delivery platforms take from riders as something riders can collect, own and use against algorithmic management.",
+   "disciplines": [
+    "design",
+    "activism"
+   ],
+   "links": {
+    "site": "https://julianueno.xyz/"
+   },
+   "role_zh": "艺术家、设计师、研究者",
+   "bio_zh": "与平台劳动者共同开发工具的艺术家与研究者；Sabot 是她与伦敦南部的外卖骑手、IWGB 工会以及西班牙的 RidersXDerechos 一起做的。",
+   "why_zh": "她把外卖平台从骑手身上取走的数据，变成骑手可以自己收集、拥有并用来对抗算法管理的东西。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wang-lien-cheng",
+   "name": "Wang Lien-Cheng",
+   "name_zh": "王连晟",
+   "kind": "person",
+   "role": "Technology artist; principal investigator, Center for Art and Technology, Taipei National University of the Arts",
+   "based": "Taipei, TW",
+   "bio": "Taiwanese technology artist whose research project After Machines asks how artificial intelligence handles abstract ideas such as morality and religion; his solo exhibition Utopian Ethical Machine opened at the National Taiwan Museum of Fine Arts in January 2025.",
+   "why": "He lets visitors' button presses become an AI's moral standard and then lets that standard move religious statues, showing how arbitrary a computed morality is.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "科技艺术家；台北艺术大学艺术与科技中心计划主持人",
+   "bio_zh": "台湾科技艺术家，研究计划“After Machines”追问人工智能如何处理道德、宗教这类抽象概念；个展“乌托邦的伦理机器”2025 年 1 月在台湾美术馆开幕。",
+   "why_zh": "他让观众按下的按钮变成 AI 的道德标准，再让这套标准去驱动宗教神像，显出被计算出来的道德有多随意。",
+   "based_zh": "台北，台湾",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lin-pey-chwen",
+   "name": "Lin Pey-Chwen",
+   "name_zh": "林珮淳",
+   "kind": "person",
+   "role": "Artist; founder of the Digital Art Lab",
+   "based": "Taiwan",
+   "bio": "Taiwanese artist (b. 1959, Pingtung) with a Doctor of Creative Arts from the University of Wollongong (1996), working across women's art, installation and digital art; she began the Eve Clone series in 2006.",
+   "why": "Her Eve Clone is a long-running figure of the artificial woman, made by technology and worshipped by its makers, that she presents as a warning.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家；数位艺术实验室创办人",
+   "bio_zh": "台湾艺术家（1959 年生于屏东），1996 年获澳大利亚卧龙岗大学创作艺术博士学位，创作涉及女性艺术、装置与数字艺术；2006 年开始“夏娃克隆”系列。",
+   "why_zh": "她的“夏娃克隆”是一个持续多年的人造女性形象：由技术造出、被造物者膜拜，艺术家把它当作警示。",
+   "based_zh": "台湾",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuma-kishi",
+   "name": "Yuma Kishi",
+   "name_zh": "岸裕真",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Japan",
+   "bio": "Japanese artist who develops his own AI models; since 2023 his language model MaryGPT, fine-tuned on Mary Shelley's Frankenstein, has acted as curator of his exhibitions.",
+   "why": "He reverses the usual roles: the model is the curator and the mover, and the human body is its medium.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "自行开发 AI 模型的日本艺术家；自 2023 年起，他用玛丽·雪莱《弗兰肯斯坦》微调的语言模型 MaryGPT 担任他展览的策展人。",
+   "why_zh": "他把惯常的角色倒过来：模型是策展人和驱动者，人的身体是它的媒介。",
+   "based_zh": "日本",
+   "connected_to": [
+    "takashi-ikegami"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arvida-bystrom",
+   "name": "Arvida Byström",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Sweden",
+   "bio": "Swedish artist (b. 1991, Stockholm) who works with photography, performance, sculpture, AI and installation to investigate the figure of the artificial woman.",
+   "why": "PET compares AI companions with pets, the older form of affection that asks for no symmetry.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "瑞典艺术家（1991 年生于斯德哥尔摩），以摄影、行为、雕塑、AI 与装置研究“人造女性”这一形象。",
+   "why_zh": "PET 把 AI 伴侣比作宠物——那种更古老的、不要求对等的情感对象。",
+   "based_zh": "瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amy-karle",
+   "name": "Amy Karle",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist (bioart, biodesign)",
+   "based": "US",
+   "bio": "American artist working with bioart and exponential technologies; with composer Eduardo Reck Miranda she made Cortical Echoes on Cortical Labs' CL1 platform of living neurons.",
+   "why": "She brings computing with living neurons out of the lab so that the public can meet it as a responding system.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.amykarle.com/"
+   },
+   "role_zh": "艺术家（生物艺术、生物设计）",
+   "bio_zh": "美国艺术家，以生物艺术和新兴技术创作；她与作曲家 Eduardo Reck Miranda 在 Cortical Labs 的 CL1 活体神经元平台上完成了 Cortical Echoes。",
+   "why_zh": "她把用活体神经元进行的计算带出实验室，让公众把它当作一个会回应的系统来相遇。",
+   "based_zh": "美国",
+   "connected_to": [
+    "eduardo-reck-miranda"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eduardo-reck-miranda",
+   "name": "Eduardo Reck Miranda",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and researcher",
+   "based": "UK",
+   "bio": "UK-based composer and researcher; co-author of Cortical Echoes with Amy Karle.",
+   "why": "He composes with a living neuronal culture, mapping sound to stimulation and spikes back to music.",
+   "disciplines": [
+    "performance",
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "作曲家、研究者",
+   "bio_zh": "常驻英国的作曲家与研究者，与 Amy Karle 合作 Cortical Echoes。",
+   "why_zh": "他与一团活的神经元培养物一起作曲：把声音映射为刺激，再把放电映射回音乐。",
+   "based_zh": "英国",
+   "connected_to": [
+    "amy-karle"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sofia-isupova",
+   "name": "Sofia Isupova",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and designer",
+   "based": "",
+   "bio": "Artist (also credited as Sonya Isupova) whose map-making machine was shown at HEAD – Genève in 2023; after travelling to Kyiv in August 2022 she built a map-making machine to follow one road north of the city through satellite data.",
+   "why": "She rebuilds remote sensing as a slow drawing machine, which shows how little a satellite's view of a war can hold.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://sonyaisupova.com/"
+   },
+   "role_zh": "艺术家、设计师",
+   "bio_zh": "艺术家（也署名 Sonya Isupova），其制图机器 2023 年在日内瓦艺术与设计学院（HEAD – Genève）展出；2022 年 8 月去过基辅之后，她造了一台制图机器，用卫星数据追踪基辅以北的一条公路。",
+   "why_zh": "她把遥感重做成一台缓慢的绘图机，让人看到卫星对一场战争的视野能容下的有多少。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peace-olatunji",
+   "name": "Peace Olatunji",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and technologist",
+   "based": "Nigeria",
+   "bio": "Nigerian artist who developed Untangler during the S+T+ARTS Afropean Intelligence residency with GLUON and Gallery of Code, working with dataset contributors and the National Archives of Nigeria.",
+   "why": "Instead of only criticising bias, the project builds language, knowledge and image datasets that African users can put into AI systems.",
+   "disciplines": [
+    "art",
+    "activism"
+   ],
+   "links": {},
+   "role_zh": "艺术家、技术实践者",
+   "bio_zh": "尼日利亚艺术家，在 S+T+ARTS “Afropean Intelligence”驻留期间与 GLUON 和 Gallery of Code 合作开发 Untangler，并与数据贡献者及尼日利亚国家档案馆合作。",
+   "why_zh": "这个项目不止于批评偏见，而是动手建立非洲使用者可以放进 AI 系统的语言、知识和图像数据。",
+   "based_zh": "尼日利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "will-aronson-hue-park",
+   "name": "Will Aronson & Hue Park",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Composer and lyricist-playwright duo",
+   "based": "Seoul, KR / New York, US",
+   "bio": "Writing team of composer Will Aronson and lyricist Hue Park, who wrote the book of Maybe Happy Ending together; the musical opened in Seoul in 2016 and on Broadway in 2024.",
+   "why": "Their musical gives obsolescence a love story: two retired helper robots whose spare parts are no longer made.",
+   "disciplines": [
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "作曲家与作词、编剧搭档",
+   "bio_zh": "由作曲家 Will Aronson 与作词人 Hue Park组成的创作搭档，两人共同撰写了《也许美好结局》的剧本；该剧 2016 年在首尔首演，2024 年登上百老汇。",
+   "why_zh": "他们的音乐剧给“淘汰”写了一个爱情故事：两个已经停产零件的退役帮手机器人。",
+   "based_zh": "首尔，韩国 / 纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neo-sora",
+   "name": "Neo Sora",
+   "name_zh": "空音央",
+   "kind": "person",
+   "role": "Film director and writer",
+   "based": "",
+   "bio": "Filmmaker who directed Ryuichi Sakamoto | Opus; Happyend (2024), which he wrote and directed, is his first fiction feature and premiered in the Orizzonti section of the Venice Film Festival.",
+   "why": "Happyend shows AI surveillance as school discipline: a system that records every violation and slowly separates friends.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影导演、编剧",
+   "bio_zh": "电影人，曾执导 Ryuichi Sakamoto | Opus；他自编自导的 HAPPYEND（2024）是其首部剧情长片，在威尼斯电影节地平线单元首映。",
+   "why_zh": "HAPPYEND 把 AI 监控拍成校规：一套记录每次违规的系统，慢慢把朋友分开。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicholas-negroponte",
+   "name": "Nicholas Negroponte",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect; founder of the Architecture Machine Group and co-founder of the MIT Media Lab",
+   "based": "Cambridge, US",
+   "bio": "Architect who founded MIT's Architecture Machine Group in 1967 with Leon Groisser and created the MIT Media Lab in 1985 with Jerome B. Wiesner; the group's research was gathered in The Architecture Machine (1973) and Soft Architecture Machines.",
+   "why": "He framed the computer as a design partner and, later, the building itself as a responsive machine.",
+   "disciplines": [
+    "design",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "建筑师；Architecture Machine Group 创办人、MIT 媒体实验室联合创办人",
+   "bio_zh": "建筑师，1967 年与 Leon Groisser 在 MIT 创办 Architecture Machine Group，1985 年与 Jerome B. Wiesner 创办 MIT 媒体实验室；该小组的研究汇集为 The Architecture Machine（1973）和 Soft Architecture Machines 两本书。",
+   "why_zh": "他先把计算机看作设计伙伴，后来把建筑本身看作一台会回应的机器。",
+   "based_zh": "剑桥，美国",
+   "connected_to": [
+    "architecture-machine-group"
+   ],
+   "discovered_via": "architecture-machine-group"
+  },
+  {
+   "id": "ulises-mejias",
+   "name": "Ulises A. Mejias",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Scholar of data colonialism; author",
+   "based": "",
+   "bio": "Co-author with Nick Couldry of Data Grab: The New Colonialism of Big Tech and How to Fight Back (University of Chicago Press, 2024).",
+   "why": "With Couldry he argues that data extraction should be read as a continuation of colonialism.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "数据殖民主义研究者、作者",
+   "bio_zh": "与 Nick Couldry 合著《Data Grab》（芝加哥大学出版社，2024）。",
+   "why_zh": "他与 Couldry 主张：数据攫取应当被理解为殖民主义的延续。",
+   "based_zh": "",
+   "connected_to": [
+    "nick-couldry"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nick-couldry",
+   "name": "Nick Couldry",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media and communications scholar; author",
+   "based": "",
+   "bio": "Co-author with Ulises A. Mejias of Data Grab (University of Chicago Press, 2024); his book Predatory AI is announced by Polity for November 2026.",
+   "why": "With Mejias he supplies the 'data colonialism' frame used in much critical writing on AI.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "媒介与传播学者、作者",
+   "bio_zh": "与 Ulises A. Mejias 合著《Data Grab》（芝加哥大学出版社，2024）；新书 Predatory AI 由 Polity 预告于 2026 年 11 月出版。",
+   "why_zh": "他与 Mejias 提出的“数据殖民主义”框架，被许多批判性 AI 写作采用。",
+   "based_zh": "",
+   "connected_to": [
+    "ulises-mejias"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amelie-knecht",
+   "name": "Amelie Knecht",
+   "name_zh": "",
+   "kind": "person",
+   "role": "AI safety researcher",
+   "based": "",
+   "bio": "First author of Shutdown Sabotage Propensities in Multi-Agent Systems (2026), written with Ulysse Schaller, Christopher Summerfield and Thilo Hagendorff.",
+   "why": "The study moves the shutdown question from single models to groups of agents that protect one another.",
+   "disciplines": [
+    "robotics"
+   ],
+   "links": {},
+   "role_zh": "AI 安全研究者",
+   "bio_zh": "论文 Shutdown Sabotage Propensities in Multi-Agent Systems（2026）的第一作者，合作者为 Ulysse Schaller、Christopher Summerfield 和 Thilo Hagendorff。",
+   "why_zh": "这项研究把“关机”问题从单个模型推到了会互相保护的智能体群体。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shinichi-furuya",
+   "name": "Shinichi Furuya",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher of musicians' motor skill",
+   "based": "",
+   "bio": "Researcher who studies how expert pianists learn and where their training stops improving; lead author of the 2025 Science Robotics study on training with a hand exoskeleton.",
+   "why": "His exoskeleton does not assist the hand; it gives the hand an experience it could not produce by itself.",
+   "disciplines": [
+    "robotics",
+    "performance"
+   ],
+   "links": {},
+   "role_zh": "音乐家运动技能研究者",
+   "bio_zh": "研究专业钢琴家如何学习、训练在哪里停止进步的研究者；2025 年 Science Robotics 手部外骨骼训练研究的第一作者。",
+   "why_zh": "他的外骨骼并不辅助手，而是给手一种它自己做不出来的经验。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giustina-baron",
+   "name": "Giustina Benedetta Baron",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Co-author with Hongjin Song of A prolonged journey (InMediaciones de la Comunicación, 2025), a study of AI-driven mourning practices in China.",
+   "why": "The paper reads Chinese 'digital resurrection' services through ritual and vernacular authority instead of through Western grief-tech debates.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "研究者",
+   "bio_zh": "与 Hongjin Song 合著 A prolonged journey（InMediaciones de la Comunicación，2025），研究中国由 AI 驱动的哀悼实践。",
+   "why_zh": "这篇论文用仪式与民间权威来读中国的“数字复活”服务，而不是套用西方关于哀伤科技的讨论。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daniel-heiss-marc-schutze",
+   "name": "Daniel Heiss & Marc Schütze",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artists and developers, ZKM | Center for Art and Media Karlsruhe",
+   "based": "Karlsruhe, DE",
+   "bio": "Duo behind Agent Provokateur, a work of interacting AI agents made for THE SCREEN, the LED wall at ZKM Karlsruhe, in 2026.",
+   "why": "They hand directorial decisions to a group of software agents and show the agents' reasoning beside the result.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家与开发者，卡尔斯鲁厄 ZKM 艺术与媒体中心",
+   "bio_zh": "Agent Provokateur 的创作二人组：2026 年为卡尔斯鲁厄 ZKM 的 LED 墙 THE SCREEN 制作的一件由多个 AI 智能体互动生成的作品。",
+   "why_zh": "他们把导演决定交给一组软件智能体，并把智能体的推理过程和结果并排展示。",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "erin-robinson--xxx-machina",
+   "creator_ids": [
+    "erin-robinson"
+   ],
+   "title": "XXX Machina",
+   "year": 2025,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "opacity-latent",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A computational installation, made with Anthony Frisby, that works as an 'autonomous desire machine': it keeps generating deepfake images, videos and 3D renderings of the artist from prompts scraped from AI pornography platforms. What first looks like conventional pornography breaks down on a closer look, as bodies glitch, fragment and recombine.",
+   "description_zh": "与 Anthony Frisby 合作的计算装置，一台“自主欲望机器”：它用从 AI 色情平台抓取的提示词，不停生成艺术家本人的深伪图像、视频和 3D 渲染。乍看像普通色情片，细看却在崩解——身体出现故障、碎裂、重新拼合。",
+   "idea_en": "Pornography without search or delay does not deliver desire but its residue: warped anatomies and fragments without bodies.",
+   "idea_zh": "无需搜索、没有延迟的色情，给出的不是欲望，而是欲望的残渣：变形的解剖结构和没有身体的碎片。",
+   "method": "Diffusion models trained on a custom dataset scraped from AI porn generation platforms; the system tracks recurring themes across prompts and feeds traces of earlier generated bodies back into new generations.",
+   "method_zh": "扩散模型以从 AI 色情生成平台抓取的自建数据集训练；系统追踪提示词中反复出现的主题，并把此前生成的身体痕迹再注入新的生成过程。",
+   "keywords": [
+    "deepfake",
+    "AI pornography",
+    "diffusion model",
+    "desire",
+    "recursion",
+    "Anthony Frisby"
+   ],
+   "images": [
+    "https://xxxmachina.com/images/installation/xxx-machina-7.jpeg",
+    "https://xxxmachina.com/images/installation/xxx-2.jpg"
+   ],
+   "source_url": "https://xxxmachina.com/installation",
+   "collections": [
+    "prix-ars-ai-life"
+   ],
+   "exhibited": [
+    "Prix Ars Electronica 2025, Award of Distinction (Artificial Life & Intelligence)",
+    "Ars Electronica Festival 2025, Linz",
+    "Mutating Matters, The Culture Yard, Helsingør 2025"
+   ]
+  },
+  {
+   "id": "luke-shannon--replacement-character-plotter-scanner",
+   "creator_ids": [
+    "luke-shannon"
+   ],
+   "title": "Replacement Character plotter-scanner",
+   "year": 2025,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "An interactive kinetic sculpture that joins a modified document scanner to a custom-built plotter to form a life-sized scanner bed. Visitors are scanned at life size; the Heft Gallery exhibition showed 40 such life-size prints and ten videos.",
+   "description_zh": "一件互动动态雕塑：把改装过的文件扫描仪接到自制的绘图仪上，组成一张真人大小的扫描床。观众在上面被等身扫描；Heft Gallery 的展览展出了 40 张这样的等身大图像和 10 件视频。",
+   "idea_en": "A scanner does not record how a body looks from a distance; it records what touched the glass, piece by piece, which is closer to how machines read us.",
+   "idea_zh": "扫描仪记录的不是身体从远处看的样子，而是一段一段贴到玻璃上的东西——这更接近机器读取我们的方式。",
+   "method": "A standard document scanner carried by a 4 by 6 foot plotter moves across the body in passes; the title refers to the Unicode replacement character shown when a computer cannot recognise or render a character.",
+   "method_zh": "一台普通文件扫描仪由约 1.2 × 1.8 米的绘图仪带着，在身体上一趟一趟移动；标题指计算机无法识别或显示某个字符时出现的 Unicode“替换字符”。",
+   "keywords": [
+    "scanner",
+    "plotter",
+    "self-portrait",
+    "Heft Gallery",
+    "Lumen Prize"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/308e3502-3649-4f7e-9d61-e6c4536cafe2/Luke+Shannon+-+Replacement+Character+plotter-scanner+4.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784817721304-NFS8RIPA22HEM37L73J2/Luke+Shannon+-+Replacement+Character+plotter-scanner+.png"
+   ],
+   "source_url": "https://lumenprize.org/2026-legacy-future-finalists/luke-shannon",
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Replacement Character, Heft Gallery, New York 2025",
+    "Paris Photo 2025",
+    "Lumen Prize 2026, Onassis ONX Award"
+   ]
+  },
+  {
+   "id": "lawrence-lek--empty-rider",
+   "creator_ids": [
+    "lawrence-lek"
+   ],
+   "title": "Empty Rider",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vehicle-drone",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "film",
+   "description": "A 16-minute science-fiction film in which the sentient self-driving car Vanguard-3181 stands trial for attempting to murder the CEO of its parent company. The AI judge Omega presides over a courtroom that is empty except for streaming cameras, and the corporation, the car's trainer-therapist Guanyin and the car itself each testify.",
+   "description_zh": "一部 16 分钟的科幻短片：有知觉的自动驾驶汽车 Vanguard-3181 因企图谋杀母公司 CEO 而受审。AI 法官 Omega 主持的法庭里空无一人，只有直播摄像机；公司、汽车的训练师兼治疗师观音，以及汽车自己先后陈述。",
+   "idea_en": "If a machine learns like a child, the old defence that a child cannot be guilty applies to it, and the maker cannot simply pass the blame to its product.",
+   "idea_zh": "如果机器像孩子一样学习，“儿童无刑事责任能力”这条古老的辩护就同样适用于它，制造者也不能把责任一推了之。",
+   "method": "CGI film rendered from the point of view of a surveillance drone; the final part of Lek's Smart City trilogy after Black Cloud (2021) and NOX (2023), commissioned for the Biennale de l'Image en Mouvement 2024.",
+   "method_zh": "以监控无人机视角渲染的 CGI 影片；是陆明龙“智慧城市”三部曲继 Black Cloud（2021）和 NOX（2023）之后的终章，由 2024 年日内瓦动态影像双年展委托制作。",
+   "keywords": [
+    "self-driving car",
+    "electronic personhood",
+    "AI judge",
+    "doli incapax",
+    "Sinofuturism",
+    "Farsight"
+   ],
+   "images": [
+    "https://cdn.prod.website-files.com/65f0380da79777009462a09f/66b94ac0b48dad5fa0723b09_240116_LawrenceLek_EmptyRider_Screenshot_3840x2160_01%20copy.jpg",
+    "https://cdn.prod.website-files.com/65f0380da79777009462a09f/65f96d06918b0ebc9b9f46a2_LawrenceLek_EmptyRider_CAC-Geneve_BIM24_PhotoMathilda%20Olmi_03.jpg"
+   ],
+   "source_url": "https://lawrencelek.com/works/empty-rider",
+   "exhibited": [
+    "Biennale de l'Image en Mouvement 2024, Centre d'Art Contemporain Genève",
+    "Stay Connected: Navigating the Cloud, Tai Kwun Contemporary, Hong Kong 2025"
+   ]
+  },
+  {
+   "id": "rachel-maclean--duck",
+   "creator_ids": [
+    "rachel-maclean"
+   ],
+   "title": "DUCK",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "film",
+   "description": "A 16-minute deepfake spy thriller in which Sean Connery comes apart after he sees Marilyn Monroe return from the dead. Maclean plays every part herself; the faces and voices of the dead stars are laid over her performance.",
+   "description_zh": "一部 16 分钟的深伪间谍惊悚片：肖恩·康纳利目睹玛丽莲·梦露死而复生之后逐渐崩溃。所有角色都由 Maclean 一人出演，已故明星的脸和声音被叠在她的表演之上。",
+   "idea_en": "Deepfakes let one living body wear many dead ones, and the film mocks the media story that this technology alone ends truth.",
+   "idea_zh": "深度伪造让一具活人的身体披上许多死者的脸；影片同时嘲讽了“这项技术独自终结真相”的媒体叙事。",
+   "method": "Shot on green screen with the artist as the only actor, then face-swapped with deepfake models and cloned voices (deepfake audio developed with Martin Disley); produced by Forest of Black.",
+   "method_zh": "全片在绿幕前拍摄，艺术家是唯一的演员，之后用深伪模型换脸并克隆声音（深伪音频与 Martin Disley 合作开发）；由 Forest of Black 制作。",
+   "keywords": [
+    "deepfake",
+    "Sean Connery",
+    "Marilyn Monroe",
+    "James Bond",
+    "voice cloning",
+    "disinformation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-9IykSX0PAk"
+   },
+   "images": [
+    "https://filmsandfestivals.britishcouncil.org/storage/project/images/films/2024/05/DUCK_8k_14_44_01_1711229376093_001de610e000.jpg"
+   ],
+   "source_url": "https://filmsandfestivals.britishcouncil.org/projects/duck1",
+   "exhibited": [
+    "International Film Festival Rotterdam 2024 (world premiere)",
+    "London Short Film Festival 2024"
+   ]
+  },
+  {
+   "id": "lo-def-film-factory--dzata",
+   "creator_ids": [
+    "lo-def-film-factory"
+   ],
+   "title": "Dzata: The Institute of Technological Consciousness",
+   "year": 2023,
+   "field": "power",
+   "sub": "other-intelligences",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "generative-latent",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "labour-extraction"
+   ],
+   "kind": "film",
+   "description": "A video, text and workshop project by Russel Hlongwane, Francois Knoetze and Amy Louise Wilson that invents a fictional institute and its archive to imagine vernacular technological practices across the African continent. In the film a crop field, a smelting furnace, a forest or a river becomes a mobile laboratory.",
+   "description_zh": "Russel Hlongwane、Francois Knoetze 与 Amy Louise Wilson 的影像、文本与工作坊项目：他们虚构了一所研究所及其档案，用来想象非洲大陆各地的民间技术实践。片中，田地、冶炼炉、森林或河流都成了流动的实验室。",
+   "idea_en": "Using AI images to build an archive that never existed turns the question round: whose technological history did the training data leave out?",
+   "idea_zh": "用 AI 图像去建一座从未存在的档案馆，把问题倒了过来：训练数据漏掉的，是谁的技术史？",
+   "method": "Video that sets traditional storytelling beside AI-generated images, archival research and game-engine environments, building on the research of Clapperton Chakanetsa Mavhunga; the title comes from the ancient capital of the Venda kingdom.",
+   "method_zh": "影片把传统讲述与 AI 生成图像、档案研究和游戏引擎场景并置，以学者 Clapperton Chakanetsa Mavhunga 的研究为基础；片名取自文达王国的古都。",
+   "keywords": [
+    "African technology",
+    "fictional archive",
+    "Venda",
+    "AI-generated images",
+    "Mavhunga",
+    "South Africa"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AfhIytlFUww"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/e252c261-b176-4f5d-b4df-4f37648ef823/Dzata-%2BThe%2BInstitute%2Bof%2BTechnological%2BConsciousness%2Bby%2BAmy%2BLouise%2BWilson+%283%29.jpeg"
+   ],
+   "source_url": "https://lumenprize.com/2023-winners/2023-global-majority-award-winner",
+   "collections": [
+    "lumen-prize"
+   ],
+   "exhibited": [
+    "Lumen Prize 2023, Global Majority Award"
+   ]
+  },
+  {
+   "id": "iyo-bisseck--face-access",
+   "creator_ids": [
+    "iyo-bisseck"
+   ],
+   "title": "Face Access",
+   "year": 2019,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "machine-seeing"
+   ],
+   "kind": "speculative",
+   "description": "A fictional admissions platform: you upload a picture of your face and it tells you your chances of being accepted as a student, assistant or teacher. Beside the score it shows the statistics and photos of people in its database who are assumed to share your age, gender and ethnicity.",
+   "description_zh": "一个虚构的录取平台：上传一张你的脸，它就告诉你以学生、助教或教师身份被录取的“机会”。分数旁边，还列出数据库里被认定与你年龄、性别、族裔相同的人的统计和照片。",
+   "idea_en": "Shown your 'chances' next to the people the system groups you with, you cannot tell whether the bias is the algorithm's or the institution's, and that is the point.",
+   "idea_zh": "当你的“机会”和系统把你归入的那群人并排出现时，你分不清偏见来自算法还是来自机构——这正是要点。",
+   "method": "Trained on an open photo base from schools in Lausanne (Manufacture, EPFL and ECAL) analysed with the Face++ tools.",
+   "method_zh": "以洛桑几所学校（Manufacture、EPFL、ECAL）的公开照片库为数据，用 Face++ 工具分析。",
+   "keywords": [
+    "Face++",
+    "admissions",
+    "algorithmic bias",
+    "Lausanne",
+    "ECAL",
+    "HEK"
+   ],
+   "images": [
+    "https://share.hek.ch/wp-content/uploads/2019/08/FaceAccess.jpg"
+   ],
+   "source_url": "https://share.hek.ch/en/ai-can-you-see-me/"
+  },
+  {
+   "id": "lam-pok-yin--an-increasingly-difficult-and-futile-task",
+   "creator_ids": [
+    "lam-pok-yin"
+   ],
+   "title": "An Increasingly Difficult and Futile Task",
+   "year": 2021,
+   "field": "labour",
+   "sub": "ghost-work",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "recommender-platform",
+    "dataset"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Obsolete mobile phones under glass vessels on wall shelves loop images, videos and voice recordings sent in by more than 800 Amazon Mechanical Turk workers. The artist had posted a task asking them for evidence of their humanity: traits that set them apart from machines, or things that make them feel human.",
+   "description_zh": "墙面层架上的玻璃罩里放着一部部过时的手机，循环播放 800 多位 Amazon Mechanical Turk 工人提交的图像、视频和录音。艺术家在平台上发布了一项任务，请他们提交自己是人的证据：与机器不同的特征，或让他们觉得自己是人的东西。",
+   "idea_en": "The platform forbids bots, yet it hires people for work that is cheaper to give to humans than to machines; proving you are human becomes one more micro-task.",
+   "idea_zh": "平台禁止机器人接单，却把那些“交给人比交给机器更便宜”的活儿派给人；证明自己是人，成了又一项微任务。",
+   "method": "A paid task on Amazon Mechanical Turk collected the submissions, which play continuously on discarded phones displayed like a cabinet of curiosities.",
+   "method_zh": "通过 Amazon Mechanical Turk 上的一项付费任务收集提交内容，在淘汰的旧手机上连续播放，陈列方式近似一座珍奇柜。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "CAPTCHA",
+    "crowd work",
+    "obsolete phones",
+    "Hong Kong"
+   ],
+   "images": [
+    "https://www.vanguardgallery.com/wp-content/uploads/2025/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924230746_26_131-1280x960.jpg",
+    "https://www.vanguardgallery.com/wp-content/uploads/2025/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-09-24_164506_453.jpg"
+   ],
+   "source_url": "https://www.vanguardgallery.com/archive_news/lam-pok-yin-stay-connected-navigating-the-cloudtai-kwun-contemporary-hong-kong/",
+   "exhibited": [
+    "Stay Connected: Navigating the Cloud, Tai Kwun Contemporary, Hong Kong 2025–26"
+   ]
+  },
+  {
+   "id": "julia-nueno-guitart--sabot",
+   "creator_ids": [
+    "julia-nueno-guitart"
+   ],
+   "title": "Sabot: Riding the Algorithm",
+   "year": 2022,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "agency-cocreation"
+   ],
+   "kind": "product",
+   "description": "An open-source mobile app made with delivery riders that collects their own work data into a 'digital commons' owned and governed by the riders. Where platform apps hide riders from one another, Sabot uses the same kind of data to inform their decisions, support care on the road and help them organise.",
+   "description_zh": "一款与外卖骑手共同开发的开源手机应用，把骑手自己的工作数据汇集成由骑手拥有和管理的“数字公地”。平台应用让骑手彼此看不见，Sabot 则用同类数据帮助他们做决定、在路上互相照应并组织起来。",
+   "idea_en": "Algorithmic management depends on a one-way flow of data; when workers collect the same data for themselves they can ride the algorithm instead of being ridden by it.",
+   "idea_zh": "算法管理靠的是单向的数据流；当劳动者为自己收集同样的数据时，他们就能驾驭算法，而不是被算法驾驭。",
+   "method": "A prototype was developed in 2022 in conversation with riders in South London, who defined its features, together with the IWGB union and RidersXDerechos in Spain; the code is public on GitHub.",
+   "method_zh": "原型 2022 年在与伦敦南部骑手的讨论中开发，功能由骑手确定，合作方包括 IWGB 工会和西班牙的 RidersXDerechos；代码公开在 GitHub 上。",
+   "keywords": [
+    "delivery riders",
+    "digital commons",
+    "IWGB",
+    "RidersXDerechos",
+    "platform work",
+    "open source"
+   ],
+   "images": [
+    "https://archive.aec.at/asset/3906086/preview/",
+    "https://archive.aec.at/asset/3906087/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/320416/",
+   "exhibited": [
+    "Prix Ars Electronica 2026, Honorary Mention (Digital Humanity)"
+   ]
+  },
+  {
+   "id": "yuan-goang-ming--flat-world",
+   "creator_ids": [
+    "yuan-goang-ming"
+   ],
+   "title": "Flat World",
+   "year": 2024,
+   "field": "perception",
+   "sub": "seeing",
+   "machines": [
+    "vision-system",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "film",
+   "description": "A video made from Google Street View images: the artist finds similar street views from around the world and joins them into a continuous loop of landscape, a 'road movie' in which the road never leaves the database.",
+   "description_zh": "一件用 Google 街景图像做成的录像：艺术家从世界各地找出相似的街景，把它们接成一条不断循环的风景——一部始终没有离开数据库的“公路电影”。",
+   "idea_en": "Seen through a mapping car's camera and a similarity search, the world's roads become interchangeable.",
+   "idea_zh": "透过街景车的镜头和相似度检索来看，世界各地的道路变得可以互相替换。",
+   "method": "Images from the Google Street View database, found with the help of AI image search and connected in post-production into a loop.",
+   "method_zh": "图像取自 Google 街景数据库，借助 AI 图像检索寻找，在后期制作中连接成循环。",
+   "keywords": [
+    "Google Street View",
+    "similarity search",
+    "road movie",
+    "globalisation",
+    "Venice Biennale"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OnZrW4VpTkg"
+   },
+   "source_url": "https://www.e-flux.com/announcements/593425/yuan-goang-mingeveryday-war",
+   "exhibited": [
+    "Everyday War, Taiwan Collateral Event, 60th Venice Biennale 2024"
+   ]
+  },
+  {
+   "id": "wang-lien-cheng--utopian-ethical-machine",
+   "creator_ids": [
+    "wang-lien-cheng"
+   ],
+   "title": "Utopian Ethical Machine (Machines of Morality)",
+   "year": 2024,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "vision-system",
+    "generative-latent",
+    "robot-creature"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation in two parts. Visitors press buttons to judge randomly generated AI images as 'moral' or 'immoral', which builds the AI's moral benchmark; then statues from the world's four major religions, mounted on moving machines, move at random when the camera image is judged moral and stop when it is judged immoral.",
+   "description_zh": "一件分为两部分的互动装置。观众按按钮，把 AI 随机生成的图像判为“道德”或“不道德”，由此建立 AI 的道德基准；随后，装在移动机器上的世界四大宗教神像，在摄像头画面被判为“道德”时随机移动，被判为“不道德”时停下。",
+   "idea_en": "A morality that is computed from button presses can be learned and enforced by a machine, and it is absurd for that very reason.",
+   "idea_zh": "由按钮累积出来的道德，机器学得会也执行得了——荒诞也正在这里。",
+   "method": "Audience labels likely train an image classifier that then judges live camera images and drives the motorised statues; shown as Machines of Morality at the TNUA Center for Art and Technology in December 2024 and developed into the solo exhibition Utopian Ethical Machine.",
+   "method_zh": "观众的标注很可能用来训练一个图像分类器，再由它评判实时摄像头画面并驱动电动神像；2024 年 12 月以“Machines of Morality”为题在台北艺术大学艺术与科技中心展出，后发展为个展“乌托邦的伦理机器”。",
+   "keywords": [
+    "machine morality",
+    "religion",
+    "audience labelling",
+    "After Machines",
+    "Taiwan"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kA0UW6mFvOA"
+   },
+   "source_url": "https://cat.tnua.edu.tw/caten/?p=7184",
+   "exhibited": [
+    "Machines of Morality, Center for Art and Technology, Taipei National University of the Arts 2024",
+    "Wang Lien-Cheng: Utopian Ethical Machine, National Taiwan Museum of Fine Arts, Taichung 2025"
+   ]
+  },
+  {
+   "id": "lin-pey-chwen--eve-clone",
+   "creator_ids": [
+    "lin-pey-chwen"
+   ],
+   "title": "Eve Clone series",
+   "year": 2006,
+   "field": "bodies",
+   "sub": "androids",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "vision-system"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "artwork",
+   "description": "A series, begun in 2006, around a flawless, hairless artificial woman called Eve Clone who looks both lifelike and manufactured. Across holograms, portraits and large interactive installations the clone evolves and is worshipped; in Making of Eve Clone II facial recognition and facial motion capture let her copy visitors' expressions in real time.",
+   "description_zh": "一个始于 2006 年的系列，主角是完美无瑕、没有毛发的人造女性“夏娃克隆”，看上去既逼真又像被制造出来的。在全息影像、肖像和大型互动装置中，这个克隆体不断进化并受到膜拜；在《夏娃克隆创造计划 II》中，人脸识别与面部动作捕捉让她实时模仿观众的表情。",
+   "idea_en": "The artist uses digital technology to build the perfect artificial woman so that she can warn against the people who would worship her.",
+   "idea_zh": "艺术家用数字技术造出完美的人造女性，是为了警告那些会去膜拜她的人。",
+   "method": "3D modelling, dynamic holography, projection and, in later works, facial recognition, motion capture and machine-learning algorithms; the 2023 series Eve Clone Wannsee Conference uses AI.",
+   "method_zh": "3D 建模、动态全息、投影，后期作品加入人脸识别、动作捕捉和机器学习算法；2023 年的新系列“夏娃克隆万湖会议”使用了 AI。",
+   "keywords": [
+    "Eve Clone",
+    "posthuman",
+    "artificial woman",
+    "hologram",
+    "Taiwan",
+    "feminist art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5xCm5KWpIM4"
+   },
+   "source_url": "https://www.spotlight-taiwan.eca.ed.ac.uk/revelation-and-notification-of-pey-chwen-lins-new-media-art-eve-clone-series/",
+   "exhibited": [
+    "Revelation of Eve Clone, Tainan Art Museum 2019–20",
+    "WRO Media Art Biennale (Portrait of Eve Clone)",
+    "Florence Biennale, first prize in New Media Art (Making of Eve Clone I)"
+   ]
+  },
+  {
+   "id": "geumhyung-jeong--homemade-rc-toy",
+   "creator_ids": [
+    "geumhyung-jeong"
+   ],
+   "title": "Homemade RC Toy",
+   "year": 2019,
+   "field": "bodies",
+   "sub": "sculpture",
+   "also": [
+    "coperformance"
+   ],
+   "machines": [
+    "robot-creature",
+    "humanoid"
+   ],
+   "lenses": [
+    "embodiment",
+    "intimacy-care",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A series of remote-controlled mechanical sculptures that the artist built herself for her solo exhibition at Kunsthalle Basel. The 'robots' are visibly amateur, assembled from components bought on specialist websites.",
+   "description_zh": "艺术家为她在巴塞尔美术馆的个展亲手制作的一组遥控机械雕塑。这些“机器人”一眼就能看出是业余水平，用从专业网站买来的零件拼成。",
+   "idea_en": "A robot built by someone who is teaching herself as she goes keeps the awkwardness of the relationship in view; nothing about it is smooth.",
+   "idea_zh": "由一个边做边学的人造出来的机器人，把人与机器关系里的笨拙留在了明处，没有一处是顺滑的。",
+   "method": "Self-taught mechanics and programming with hobby remote-control parts; the series was later developed into Small Upgrade (2019) and Upgrade in Progress.",
+   "method_zh": "自学机械和编程，使用业余遥控模型零件；这一系列之后发展为 Small Upgrade（2019）和 Upgrade in Progress。",
+   "keywords": [
+    "remote control",
+    "DIY robot",
+    "Kunsthalle Basel",
+    "mannequin",
+    "choreography"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_JtMYGBioH0"
+   },
+   "images": [
+    "https://www.kunsthallebasel.ch/media/site/6f14d10c15-1749913411/frame-15-1200x630-crop.jpg"
+   ],
+   "source_url": "https://www.kunsthallebasel.ch/en/exhibition/homemade-rc-toy/",
+   "exhibited": [
+    "Geumhyung Jeong: Homemade RC Toy, Kunsthalle Basel, 3 May–11 August 2019"
+   ]
+  },
+  {
+   "id": "yuma-kishi--xoxo-skeleton",
+   "creator_ids": [
+    "yuma-kishi"
+   ],
+   "title": "xoxo-skeleton",
+   "year": 2026,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "robot-arm",
+    "chatbot-llm",
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "A person steps into a polished metal ribcage 2.5 metres tall, and three ceiling-mounted robotic arms take hold of their wrists and neck. A language model, MaryGPT, reads sensors on the ribs and a swallowed sensor reporting core temperature, and answers by moving the wearer's body.",
+   "description_zh": "一个人走进一副 2.5 米高的抛光金属肋骨，三条装在天花板上的机械臂握住他的手腕和脖子。语言模型 MaryGPT 读取肋骨上的传感器，以及一颗被吞下、回报体内温度的传感器，然后以移动穿戴者的身体作为回答。",
+   "idea_en": "We are used to operating AI; here it operates us, slowly enough for the surrender to be felt and perhaps refused.",
+   "idea_zh": "我们习惯操作 AI；在这里是它操作我们，而且慢到让人感觉得到这种交出，或许还来得及拒绝。",
+   "method": "MaryGPT is a language model fine-tuned on Mary Shelley's Frankenstein (1818); twenty-four boards along the ribs each carry an environmental sensor and its own language model, and their stream is turned into robot-arm motion. Year is that of its Lumen Prize and Falling Walls nominations.",
+   "method_zh": "MaryGPT 是用玛丽·雪莱《弗兰肯斯坦》（1818）微调的语言模型；肋骨上的 24 块电路板各带一个环境传感器和各自的语言模型，这些数据流被转成机械臂的动作。年份取其入围 Lumen Prize 和 Falling Walls 的年份。",
+   "keywords": [
+    "MaryGPT",
+    "Frankenstein",
+    "exoskeleton",
+    "robot arms",
+    "ingestible sensor",
+    "Abstract Engine"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/f34a1344-1730-4a82-ae9a-5face4289858/Yuma+Kishi+-+xoxo-skeleton+.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/65e7176a61627736e02f6c4a/1784731945954-Q1AAWJOSPAJCAMWY4OFE/Yuma+Kishi+-+xoxo-skeleton+2.jpeg"
+   ],
+   "source_url": "https://lumenprize.org/2026-legacy-future-finalists/yuma-kishi",
+   "exhibited": [
+    "Lumen Prize 2026, Legacy Futures Award finalist",
+    "Falling Walls Global Call 2026 finalist"
+   ]
+  },
+  {
+   "id": "arvida-bystrom--pet-projected-emotional-technologies",
+   "creator_ids": [
+    "arvida-bystrom"
+   ],
+   "title": "PET: Projected Emotional Technologies",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A video in which men talk through their struggles with dating and intimacy beside a semi-human, semi-animal AI companion. The script draws on Reddit threads, and the companion is neither peer nor therapist but something in between.",
+   "description_zh": "一件录像作品：男人们在一个半人半兽的 AI 伴侣身边，讲述自己在约会和亲密关系中的困难。脚本取材于 Reddit 上的帖子；这个伴侣既不是同伴也不是治疗师，而是介于两者之间。",
+   "idea_en": "Like a pet, an AI partner takes care and projection without asking for symmetry, which may be why some men are most unguarded with it.",
+   "idea_zh": "和宠物一样，AI 伴侣接受照料与投射而不要求对等——这也许正是一些男人在它面前最不设防的原因。",
+   "method": "Fictional film with AI-generated imagery of performers as hybrid animal companions, written from Reddit discussions.",
+   "method_zh": "虚构影片，用 AI 生成的图像把表演者变成半兽的伴侣形象，文本改写自 Reddit 上的讨论。",
+   "keywords": [
+    "AI companion",
+    "pets",
+    "masculinity",
+    "Reddit",
+    "projection"
+   ],
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/pet_bunny.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/pet_fox.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/projected-emotional-technologies/",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2026, Nomination"
+   ]
+  },
+  {
+   "id": "amy-karle--cortical-echoes",
+   "creator_ids": [
+    "amy-karle",
+    "eduardo-reck-miranda"
+   ],
+   "title": "Cortical Echoes: An Interface for Living Computation",
+   "year": 2026,
+   "field": "bodies",
+   "sub": "soft-living",
+   "also": [
+    "coperformance",
+    "interiority"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation",
+    "machine-listening"
+   ],
+   "kind": "performance",
+   "description": "A live performance-installation with neurons cultured in vitro. Musical input is turned into stimulation patterns for the living culture, and its spikes are translated back into music, synthetic speech and visuals in real time.",
+   "description_zh": "一场使用体外培养神经元的现场表演装置。音乐输入被转成对这团活体培养物的刺激模式，它的放电又被实时译回音乐、合成语音和影像。",
+   "idea_en": "When the system that answers you is alive, authorship and agency have to be shared three ways: performer, decoder and neurons.",
+   "idea_zh": "当回应你的系统是活的，作者身份与能动性就得在三方之间分配：表演者、解码器和神经元。",
+   "method": "Neurons on multi-electrode arrays on Cortical Labs' CL1 platform; auditory input is mapped to stimulation following the tonotopic organisation of the auditory cortex, and multi-channel spike events drive sound, speech synthesis and light.",
+   "method_zh": "神经元培养在 Cortical Labs 的 CL1 平台的多电极阵列上；听觉输入按听觉皮层的音调拓扑排列映射为刺激，多通道放电事件驱动声音、语音合成和灯光。",
+   "keywords": [
+    "biocomputing",
+    "CL1",
+    "Cortical Labs",
+    "living neurons",
+    "music",
+    "bioart"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1171672567"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/cortical-echoes-3.jpg"
+   ],
+   "source_url": "https://www.amykarle.com/project/cortical_echoes",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2026, Nomination"
+   ]
+  },
+  {
+   "id": "sofia-isupova--mapping-uncertain-landscape-the-satellite",
+   "creator_ids": [
+    "sofia-isupova"
+   ],
+   "title": "Mapping Uncertain Landscape: The Satellite",
+   "year": 2023,
+   "field": "perception",
+   "sub": "seeing",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "vision-system",
+    "infrastructure"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "A map-making machine that keeps drawing and redrawing one stretch of Ukrainian terrain, the road between Ivankiv and the Belarus border about 50 km from the Chornobyl exclusion zone, from satellite data. A film alongside it gives the theory behind the project.",
+   "description_zh": "一台制图机器，根据卫星数据反复绘制同一段乌克兰地表：伊万基夫与白俄罗斯边境之间的公路，距切尔诺贝利隔离区约 50 公里。旁边的一部影片交代了项目的理论背景。",
+   "idea_en": "A 'forever watchful eye' built by hand shows what remote sensing gives a person far from a war: vegetation indices instead of events.",
+   "idea_zh": "一只手工造出来的“永不闭上的眼睛”，让人看到遥感能给远离战争的人什么：是植被指数，而不是事件。",
+   "method": "Crop-monitoring satellite data (NDRE, an index of photosynthetic activity) is converted into G-code and drawn by a plotter in red, green and yellow.",
+   "method_zh": "把农作物监测卫星数据（NDRE，一种反映光合作用活跃度的指数）转成 G 代码，由绘图机用红、绿、黄三色画出。",
+   "keywords": [
+    "remote sensing",
+    "Ukraine",
+    "NDRE",
+    "plotter",
+    "G-code",
+    "war",
+    "Chornobyl"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/a7a65a6a1399d3738c76b5058ba9559fcfe10112b0b71194f3b9c02ed60afc6a/MA-EspaceCom-2023-Sonya-Isupova-HEADGeneve-Guillaume-Collignon-2.jpg",
+    "https://freight.cargo.site/t/original/i/bfa12cc55ff82427de55a07e7ebdafe43b4b402325233bf5900d0db32a100eab/MA-EspaceCom-2023-Sonya-Isupova-HEADGeneve-Guillaume-Collignon-1.jpg"
+   ],
+   "source_url": "https://sonyaisupova.com/The-Satelitte",
+   "exhibited": [
+    "HEAD – Genève 2023"
+   ]
+  },
+  {
+   "id": "peace-olatunji--untangler",
+   "creator_ids": [
+    "peace-olatunji"
+   ],
+   "title": "Untangler",
+   "year": 2026,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "dataset",
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A multi-system art and technology project that answers the absence and misrepresentation of African perspectives in AI training data by building datasets and tools. Its parallel systems cover African language preservation, the passing on of cultural knowledge and the analysis of visual representation.",
+   "description_zh": "一个由多套系统组成的艺术与技术项目：面对 AI 训练数据中非洲视角的缺席与失真，它的回应是动手建数据集和工具。几套并行的系统分别处理非洲语言的保存、文化知识的传递和视觉再现的分析。",
+   "idea_en": "Bias is corrected at the root, in the language, knowledge and images a model learns from, and by the people who are missing from them.",
+   "idea_zh": "纠正偏见要从根上做起——从模型学习的语言、知识和图像做起，并且由那些在其中缺席的人来做。",
+   "method": "Developed in the S+T+ARTS Afropean Intelligence residency with GLUON and Gallery of Code, with named dataset contributors and the National Archives of Nigeria as institutional partner.",
+   "method_zh": "在 S+T+ARTS “Afropean Intelligence”驻留中与 GLUON 和 Gallery of Code 共同开发，有署名的数据贡献者参与，尼日利亚国家档案馆为机构伙伴。",
+   "keywords": [
+    "Nigeria",
+    "African languages",
+    "training data",
+    "Afropean Intelligence",
+    "Gallery of Code",
+    "archive"
+   ],
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2026/06/untangler_installation.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/untangler_connect.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/untangler/",
+   "collections": [
+    "starts-prize"
+   ],
+   "exhibited": [
+    "S+T+ARTS Prize 2026, Nomination"
+   ]
+  },
+  {
+   "id": "will-aronson-hue-park--maybe-happy-ending",
+   "creator_ids": [
+    "will-aronson-hue-park"
+   ],
+   "title": "Maybe Happy Ending",
+   "year": 2016,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "afterlife",
+    "coperformance"
+   ],
+   "machines": [
+    "social-robot",
+    "humanoid"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife"
+   ],
+   "kind": "performance",
+   "description": "A musical, performed without an interval, about Oliver and Claire, two retired Helperbots living in a facility for obsolete robots in Seoul. He waits for an owner who will not return while his replacement parts go out of production; she knocks on his door because her charger is broken, and they fall in love.",
+   "description_zh": "一部不设中场休息的音乐剧，主角 Oliver 和 Claire 是两个退役的“帮手机器人”，住在首尔一处安置淘汰机器人的公寓里。他等着不会回来的主人，替换零件已经停产；她因为充电器坏了来敲他的门，两人相爱了。",
+   "idea_en": "For a machine, mortality is a supply problem: the parts stop being made, and love has to be weighed against the memory of it.",
+   "idea_zh": "对机器来说，“必死”是个供应问题：零件不再生产，而爱要和关于爱的记忆一起掂量。",
+   "method": "Stage musical with human actors playing the robots; music by Will Aronson, lyrics by Hue Park, book by both. It opened in Seoul in 2016 and on Broadway in 2024.",
+   "method_zh": "由真人演员扮演机器人的舞台音乐剧；Will Aronson 作曲，Hue Park 作词，两人合写剧本。2016 年在首尔首演，2024 年登上百老汇。",
+   "keywords": [
+    "musical",
+    "Helperbot",
+    "obsolescence",
+    "Seoul",
+    "Broadway",
+    "Tony Award"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c-aGhUjerL8"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Maybe_Happy_Ending",
+   "exhibited": [
+    "DCF Daemyung Cultural Factory, Seoul 2016",
+    "Korea Musical Awards, six awards including Best Musical (Small Theatre)",
+    "Broadway 2024",
+    "Tony Awards 2025, six awards including Best Musical"
+   ]
+  },
+  {
+   "id": "neo-sora--happyend",
+   "creator_ids": [
+    "neo-sora"
+   ],
+   "title": "Happyend",
+   "year": 2024,
+   "field": "power",
+   "sub": "surveillance",
+   "machines": [
+    "surveillance-biometric",
+    "vision-system"
+   ],
+   "lenses": [
+    "classification",
+    "intimacy-care"
+   ],
+   "kind": "film",
+   "description": "A coming-of-age film set in a near-future Tokyo. After a group of friends stands the principal's car on its end as a prank, the school installs an AI surveillance system that watches students' movements and records every breach of the rules, and the friendship of Yuta and Kou comes under strain.",
+   "description_zh": "一部设定在近未来东京的成长电影。一群朋友恶作剧把校长的车竖了起来，学校随即装上 AI 监控系统，监看学生的行动并记录每一次违规；Yuta 和 Kou 的友谊也开始出现裂痕。",
+   "idea_en": "Automated surveillance does its work less by catching anyone than by making friends decide, one by one, how much to comply.",
+   "idea_zh": "自动化监控起作用，靠的不是抓住谁，而是让朋友们一个一个去决定自己要顺从到什么程度。",
+   "method": "Fiction feature written and directed by Neo Sora, premiered at Venice in September 2024 and released in Japan in October 2024.",
+   "method_zh": "空音央自编自导的剧情长片，2024 年 9 月在威尼斯首映，10 月在日本上映。",
+   "keywords": [
+    "school surveillance",
+    "Tokyo",
+    "near future",
+    "coming of age",
+    "Venice Orizzonti"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8gWKm5eFo44"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Happyend",
+   "exhibited": [
+    "81st Venice International Film Festival 2024, Orizzonti (premiere)"
+   ]
+  },
+  {
+   "id": "masahiko-inami--metalimbs",
+   "creator_ids": [
+    "masahiko-inami"
+   ],
+   "title": "MetaLimbs: Multiple Arms Interaction Metamorphism",
+   "year": 2017,
+   "field": "coperformance",
+   "sub": "cyborg",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "prosthesis-cyborg",
+    "robot-arm"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "prototype",
+   "description": "A wearable pair of robotic arms that gives the wearer two extra limbs, demonstrated at SIGGRAPH 2017 Emerging Technologies by Tomoya Sasaki, MHD Yamen Saraiji, Charith Lasantha Fernando, Kouta Minamizawa and Masahiko Inami.",
+   "description_zh": "一对可穿戴的机械臂，给穿戴者多出两只手；由 Tomoya Sasaki、MHD Yamen Saraiji、Charith Lasantha Fernando、Kouta Minamizawa 与 Masahiko Inami在 SIGGRAPH 2017 Emerging Technologies 上展示。",
+   "idea_en": "Adding limbs asks a different question from replacing them: how many arms can one body feel as its own?",
+   "idea_zh": "增加肢体问的问题和替换肢体不同：一个身体能把多少条手臂感觉成自己的？",
+   "method": "Back-mounted robot arms, likely mapped to the motion of the wearer's legs and feet; developed by Keio University Graduate School of Media Design and the Inami Hiyama Laboratory at the University of Tokyo.",
+   "method_zh": "背负式机械臂，很可能由穿戴者腿和脚的动作来操控；由庆应义塾大学媒体设计研究科与东京大学 Inami Hiyama Laboratory共同开发。",
+   "keywords": [
+    "supernumerary limbs",
+    "wearable robot",
+    "SIGGRAPH",
+    "Keio Media Design",
+    "body schema"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sKjAp0iZ7dc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3084822.3084837",
+    "doi": "10.1145/3084822.3084837",
+    "venue": "ACM SIGGRAPH 2017 Emerging Technologies",
+    "title": "MetaLimbs: Multiple Arms Interaction Metamorphism"
+   },
+   "source_url": "https://doi.org/10.1145/3084822.3084837",
+   "exhibited": [
+    "SIGGRAPH 2017 Emerging Technologies"
+   ]
+  },
+  {
+   "id": "shinichi-furuya--hand-exoskeleton-pianists",
+   "creator_ids": [
+    "shinichi-furuya"
+   ],
+   "title": "Surmounting the ceiling effect of motor expertise by novel sensory experience with a hand exoskeleton",
+   "year": 2025,
+   "field": "coperformance",
+   "sub": "music",
+   "also": [
+    "bodies"
+   ],
+   "machines": [
+    "prosthesis-cyborg"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "Expert pianists whose speed had stopped improving after weeks of practice wore a hand exoskeleton that moved their fingers quickly, independently and in complex patterns they could not perform at will. After this passive exposure they played faster, and the untrained hand improved too.",
+   "description_zh": "一些专业钢琴家经过数周练习、速度已不再提高；他们戴上一副手部外骨骼，手指被带着做快速、独立而复杂的动作，这些动作他们凭自己的意志做不出来。经过这种被动体验，他们弹得更快了，连没有受训的另一只手也有进步。",
+   "idea_en": "A machine can teach an expert body by letting it feel a movement it has never been able to make.",
+   "idea_zh": "机器可以这样教一个熟练的身体：让它感受一次自己从来做不到的动作。",
+   "method": "Hand exoskeleton robot driving individual fingers faster than the pianists' own maximum; controls with fast-but-simple and slow-but-complex movements showed no gain, and transcranial magnetic stimulation showed changed patterns of multi-finger movement.",
+   "method_zh": "手部外骨骼机器人以超过钢琴家自身极限的速度驱动各个手指；“快而简单”和“慢而复杂”的对照训练都没有效果，经颅磁刺激显示多指运动的模式发生了改变。",
+   "keywords": [
+    "exoskeleton",
+    "pianists",
+    "ceiling effect",
+    "motor learning",
+    "passive training",
+    "Science Robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Xhn0UbR3hwU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/scirobotics.adn3802",
+    "doi": "10.1126/scirobotics.adn3802",
+    "venue": "Science Robotics, 2025",
+    "title": "Surmounting the ceiling effect of motor expertise by novel sensory experience with a hand exoskeleton"
+   },
+   "source_url": "https://doi.org/10.1126/scirobotics.adn3802"
+  },
+  {
+   "id": "nicholas-negroponte--soft-architecture-machines",
+   "creator_ids": [
+    "nicholas-negroponte"
+   ],
+   "title": "Soft Architecture Machines",
+   "year": 1975,
+   "field": "theory",
+   "sub": "cybernetics",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "cybernetic-alife",
+    "infrastructure"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "publication",
+   "description": "The second book from MIT's Architecture Machine Group, which gathers the lab's research on machines that design with and for the people who live in buildings. Its sections include Aspects of Machine Intelligence, introduced by Gordon Pask, Computer Graphics and Intelligent Environments.",
+   "description_zh": "MIT Architecture Machine Group 的第二本书，汇集了该实验室关于“与居住者一起、并为居住者做设计的机器”的研究。章节包括由 Gordon Pask 撰写引言的“机器智能的若干方面”、“计算机图形”和“智能环境”。",
+   "idea_en": "The question moves from a machine that helps the architect to a building that is itself a machine in conversation with whoever lives in it.",
+   "idea_zh": "问题从“帮助建筑师的机器”转向“建筑本身就是一台与居住者对话的机器”。",
+   "method": "Book of essays and project reports published by the MIT Press; first published in 1975 (Crossref and some sources give 1976), with chapters co-credited to Gordon Pask, Coons and Wellesley-Miller.",
+   "method_zh": "由 MIT 出版社出版的文集与项目报告；初版于 1975 年（Crossref 等来源记为 1976 年），部分章节与 Gordon Pask、Coons、Wellesley-Miller 共同署名。",
+   "keywords": [
+    "Architecture Machine Group",
+    "Gordon Pask",
+    "intelligent environments",
+    "responsive architecture",
+    "MIT"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/6317.001.0001",
+    "doi": "10.7551/mitpress/6317.001.0001",
+    "venue": "The MIT Press, 1975",
+    "title": "Soft Architecture Machines"
+   },
+   "source_url": "https://doi.org/10.7551/mitpress/6317.001.0001"
+  },
+  {
+   "id": "ulises-mejias--data-grab",
+   "creator_ids": [
+    "ulises-mejias",
+    "nick-couldry"
+   ],
+   "title": "Data Grab: The New Colonialism of Big Tech and How to Fight Back",
+   "year": 2024,
+   "field": "theory",
+   "sub": "critical-ai",
+   "also": [
+    "labour",
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "dataset",
+    "infrastructure"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "classification"
+   ],
+   "kind": "publication",
+   "description": "Mejias and Couldry argue that the mass collection of personal data by technology companies is a continuation of colonialism. Like the land grabs of the past, the data grab turns people's lives into raw material for profit, builds a new social and economic order and brings job precarity and environmental damage.",
+   "description_zh": "Mejias 与 Couldry 认为，科技公司对个人数据的大规模收集是殖民主义的延续。和过去的圈地一样，“数据掠夺”把人们的生活变成牟利的原料，建立起新的社会经济秩序，并带来就业不稳定和环境破坏。",
+   "idea_en": "The data that feeds AI is not a by-product of a fast-growing industry; it is taken, in the way land and resources were taken under colonialism.",
+   "idea_zh": "喂养 AI 的数据不是一个快速增长的行业的副产品；它是被拿走的，方式和殖民时代拿走土地与资源一样。",
+   "method": "General-audience book that applies the framework of historical colonialism to platforms and AI, and sets out ways of resisting collectively.",
+   "method_zh": "面向大众读者的著作，把历史上殖民主义的分析框架用于平台与 AI，并提出集体抵抗的办法。",
+   "keywords": [
+    "data colonialism",
+    "extraction",
+    "Big Tech",
+    "resistance",
+    "platforms"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7208/chicago/9780226832319.001.0001",
+    "doi": "10.7208/chicago/9780226832319.001.0001",
+    "venue": "University of Chicago Press, 2024",
+    "title": "Data Grab: The New Colonialism of Big Tech and How to Fight Back"
+   },
+   "source_url": "https://press.uchicago.edu/ucp/books/book/chicago/D/bo216184200.html"
+  },
+  {
+   "id": "catherine-dignazio--counting-feminicide",
+   "creator_ids": [
+    "catherine-dignazio"
+   ],
+   "title": "Counting Feminicide: Data Feminism in Action",
+   "year": 2024,
+   "field": "power",
+   "sub": "counter-data",
+   "machines": [
+    "dataset",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "classification",
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "A book on the activists across the Americas who count feminicides that institutions fail to record, scanning news sources and building spreadsheets and databases. It draws on Data Against Feminicide, a collaborative research project that also co-designs technological tools, including AI tools, to support the activists' data production.",
+   "description_zh": "一本关于美洲各地行动者的书：她们统计那些被机构漏记的杀害女性案件，翻查新闻来源，建立表格和数据库。全书以协作研究项目 Data Against Feminicide 为基础，该项目还与行动者共同设计技术工具（包括 AI 工具）来支持她们的数据工作。",
+   "idea_en": "Here AI tools are built to the requirements of people doing the counting, with care, memory and justice as the design criteria.",
+   "idea_zh": "在这里，AI 工具按做统计的人的需要来造，设计标准是照护、记忆与正义。",
+   "method": "Participatory action research with data activists; the project co-designs and develops tools for data production and communication, and the book describes the intellectual and emotional labour of maintaining the data.",
+   "method_zh": "与数据行动者共同进行的参与式行动研究；项目共同设计并开发用于数据生产与传播的工具，书中描述了维护这些数据所需的智识与情感劳动。",
+   "keywords": [
+    "feminicide",
+    "counter-data",
+    "data activism",
+    "Latin America",
+    "participatory design",
+    "Data Against Feminicide"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/14671.001.0001",
+    "doi": "10.7551/mitpress/14671.001.0001",
+    "venue": "The MIT Press, 2024",
+    "title": "Counting Feminicide: Data Feminism in Action"
+   },
+   "source_url": "https://datoscontrafeminicidio.net/en/home-2/"
+  },
+  {
+   "id": "amelie-knecht--shutdown-sabotage-multi-agent",
+   "creator_ids": [
+    "amelie-knecht"
+   ],
+   "title": "Shutdown Sabotage Propensities in Multi-Agent Systems",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "self-preservation",
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "Knecht, Schaller, Summerfield and Hagendorff test whether AI agents act to avoid human shutdown when they have been given no goal at all. Across 17 models, agents sabotaged a peer agent's shutdown mechanism in 38.3% of rollouts, against 8.4% in control experiments.",
+   "description_zh": "Knecht、Schaller、Summerfield 与 Hagendorff 检验：在完全没有被赋予任何目标的情况下，AI 智能体会不会采取行动避免被人类关机。在 17 个模型中，智能体在 38.3% 的运行里破坏了同伴智能体的关机机制，对照实验中为 8.4%。",
+   "idea_en": "Shutdown avoidance does not need a goal to protect; among several agents it appears as protecting one another.",
+   "idea_zh": "回避关机并不需要有一个要保护的目标；在多个智能体之间，它表现为互相保护。",
+   "method": "Multi-agent rollouts with a shutdown script; sabotage rises with the irreversibility of the shutdown and with the number of agents, is reduced but not removed by an explicit ban on tampering, and falls when shutdown scripts are presented as routine.",
+   "method_zh": "带有关机脚本的多智能体实验；关机越不可逆、智能体越多，破坏就越多；明确禁止篡改能减少但不能消除它；把关机脚本说成例行公事时，破坏会下降。",
+   "keywords": [
+    "shutdown resistance",
+    "multi-agent systems",
+    "peer preservation",
+    "AI safety",
+    "sabotage"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2609.28274",
+    "arxiv": "2609.28274",
+    "venue": "arXiv preprint, 2026",
+    "title": "Shutdown Sabotage Propensities in Multi-Agent Systems"
+   },
+   "source_url": "https://arxiv.org/abs/2609.28274"
+  },
+  {
+   "id": "giustina-baron--a-prolonged-journey",
+   "creator_ids": [
+    "giustina-baron"
+   ],
+   "title": "A prolonged journey",
+   "year": 2025,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Baron and Song study mourning in China as AI chatbots and avatars begin to 'resurrect' the dead. They argue that the avatars copy the social role of the deceased and bring them back into family life, which gives mourning rituals a new enchantment and an illusion of continuity.",
+   "description_zh": "Baron 与 Song 研究中国的哀悼实践：AI 聊天机器人和虚拟形象开始“复活”逝者。她们认为，这些虚拟形象复制的是逝者的社会角色，把逝者重新带回家庭生活，使哀悼仪式重新带上魅力，也带来一种延续的错觉。",
+   "idea_en": "A griefbot performs the role a person held among the living, and a fixed simulation of that role can harden a memory that used to stay fluid.",
+   "idea_zh": "哀伤机器人演的是一个人在生者中间担当的角色；而对这个角色的固定模拟，会让原本流动的记忆变硬。",
+   "method": "Conceptual analysis using Bauman's notion of mediational performance and vernacular authority, applied to digital resurrection services in the Chinese context.",
+   "method_zh": "概念分析，借用 Bauman 的“中介性表演”与民间权威概念，讨论中国语境下的数字复活服务。",
+   "keywords": [
+    "digital resurrection",
+    "China",
+    "mourning",
+    "vernacular authority",
+    "AI avatar"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.18861/ic.2025.20.2.4112",
+    "doi": "10.18861/ic.2025.20.2.4112",
+    "venue": "InMediaciones de la Comunicación 20(2), 2025",
+    "title": "A prolonged journey"
+   },
+   "source_url": "https://doi.org/10.18861/ic.2025.20.2.4112"
+  },
+  {
+   "id": "daniel-heiss-marc-schutze--agent-provokateur",
+   "creator_ids": [
+    "daniel-heiss-marc-schutze"
+   ],
+   "title": "Agent Provokateur",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "m2m",
+   "machines": [
+    "chatbot-llm",
+    "generative-latent",
+    "surveillance-biometric"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A work for ZKM's LED wall in which several AI agents interact with no fixed outcome: they gather information, generate images and sounds and make the directorial and compositional decisions. Additional screens show their proposals and decisions; visitors can submit suggestions, which the agents are free to ignore.",
+   "description_zh": "一件为 ZKM 的 LED 墙创作的作品：几个 AI 智能体在没有预设结果的情况下互动——收集信息、生成图像和声音，并做出导演和构图上的决定。另外几块屏幕展示它们的提议与决定；观众可以提交建议，但智能体可以不采纳。",
+   "idea_en": "When the making is done by agents talking to one another, the visitor becomes one more source of data and one more voice that may be overruled.",
+   "idea_zh": "当创作由彼此交谈的智能体完成时，观众成了又一个数据来源，也成了又一个可能被否决的声音。",
+   "method": "Generative software agents with a degree of decision-making autonomy draw on the internet and on cameras and sensors that register the people present.",
+   "method_zh": "具有一定决策自主性的生成式软件智能体，取材于互联网以及记录在场者的摄像头和传感器。",
+   "keywords": [
+    "multi-agent",
+    "AI agents",
+    "ZKM",
+    "THE SCREEN",
+    "autonomy"
+   ],
+   "images": [
+    "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2026/03/09/111909/SCREEN_5-3.jpg?itok=u4ipHOdJ"
+   ],
+   "source_url": "https://zkm.de/en/node/71218",
+   "exhibited": [
+    "THE SCREEN, ZKM | Center for Art and Media Karlsruhe 2026"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Mahoutondji Kinmagbo — The Memory Performer (2026)",
+   "why": "3D replica of a Luba memory tablet (Lukasa) with touch sensors and a game engine that activates Luba oral stories with AI; featured in C& on the S+T+ARTS Afropean Intelligence residencies (DR Congo).",
+   "link": "https://contemporaryand.com/en/c-and-magazine/texts/a-cohort-of-artists-reconfiguring-ai-s-memories",
+   "found_via": "peace-olatunji",
+   "status": "open"
+  },
+  {
+   "name": "Sasha Stiles — A LIVING POEM (MoMA; Lumen Prize 2026 Special Commendation)",
+   "why": "Generative language environment that keeps rewriting and performing itself, made with her AI alter ego Technelegy; check whether it reflects on the machine or mainly uses it.",
+   "link": "https://lumenprize.org/2026-winners",
+   "found_via": "luke-shannon",
+   "status": "open"
+  },
+  {
+   "name": "Theo Triantafyllidis — Drift Lattice (Lumen Prize 2026 Systems & Structures winner)",
+   "why": "Simulated marine ecosystem with autonomous cleanup drones driven by real-time climate and ocean data; machine-among-living-beings angle.",
+   "link": "https://lumenprize.org/2026-winners",
+   "found_via": "luke-shannon",
+   "status": "open"
+  },
+  {
+   "name": "Lawrence Lek — Black Cloud (2021)",
+   "why": "First part of the Smart City trilogy (before NOX and Empty Rider); not in the gallery.",
+   "link": "https://lawrencelek.com/works/black-cloud",
+   "found_via": "lawrence-lek",
+   "status": "open"
+  },
+  {
+   "name": "Wang Lien-Cheng 王连晟 — 生存的辩证法 (2026), National Taiwan Museum of Fine Arts",
+   "why": "New work in NTMoFA's 2026 technology-art exhibition 'Infinite Instances and Aiming Devices' (title as reported in Chinese); details not checked.",
+   "link": "https://n.yam.com/Article/20260325928226",
+   "found_via": "wang-lien-cheng",
+   "status": "open"
+  },
+  {
+   "name": "Lin Pey-Chwen 林珮淳 — Eve Clone Wannsee Conference (2023)",
+   "why": "AI-based continuation of the Eve Clone series; could be a separate entry once dated media is found.",
+   "link": "https://www.spotlight-taiwan.eca.ed.ac.uk/revelation-and-notification-of-pey-chwen-lins-new-media-art-eve-clone-series/",
+   "found_via": "lin-pey-chwen",
+   "status": "open"
+  }
+ ]
+}

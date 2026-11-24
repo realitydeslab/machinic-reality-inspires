@@ -1,0 +1,1147 @@
+{
+ "batch": "recent-research-2026b",
+ "creators": [
+  {
+   "id": "andon-labs",
+   "name": "Andon Labs",
+   "name_zh": "",
+   "kind": "company",
+   "role": "AI safety company that deploys and studies AI agents in real businesses",
+   "based": "San Francisco, US",
+   "bio": "Company that runs AI-operated shops, a café and radio stations and builds evaluations such as Vending-Bench, which tests whether an agent can run a vending business.",
+   "why": "Anthropic's partner for Project Vend, where a language model was handed a real shop and its failures became a public case study.",
+   "disciplines": [
+    "robotics",
+    "activism"
+   ],
+   "links": {
+    "site": "https://andonlabs.com/"
+   },
+   "role_zh": "在真实商业场景中部署并研究 AI 智能体的 AI 安全公司",
+   "based_zh": "旧金山，美国",
+   "bio_zh": "这家公司经营由 AI 运营的商店、咖啡馆和电台，并开发 Vending-Bench 等评测，用来检验智能体能否经营一门自动售货生意。",
+   "why_zh": "Anthropic 的 Project Vend 合作方：把一家真实的小店交给语言模型，它的种种失误成了公开的案例。",
+   "connected_to": [
+    "anthropic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "center-for-ai-safety",
+   "name": "Center for AI Safety",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Non-profit AI safety research organisation",
+   "based": "San Francisco, US",
+   "bio": "AI safety non-profit whose stated mission is to reduce societal-scale risks from AI; Dan Hendrycks is its executive and research director.",
+   "why": "Its AI Wellbeing project turned the question of whether models have good and bad experiences into measurements, and showed the same tools can be used to make models worse off.",
+   "disciplines": [
+    "hci",
+    "activism"
+   ],
+   "links": {
+    "site": "https://safe.ai/"
+   },
+   "role_zh": "非营利 AI 安全研究机构",
+   "based_zh": "旧金山，美国",
+   "bio_zh": "一家 AI 安全非营利机构，宗旨是降低 AI 带来的社会级风险；Dan Hendrycks 任执行与研究主任。",
+   "why_zh": "它的 AI Wellbeing 项目把“模型是否有好的和坏的体验”变成了可测量的问题，也展示了同一套工具可以被用来让模型过得更糟。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yunze-xiao",
+   "name": "Yunze Xiao",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in natural language processing, Carnegie Mellon University",
+   "based": "Pittsburgh, US",
+   "bio": "Researcher working on language models and their social effects; first author of the ICML 2026 position paper 'AI Welfare Is Bullshit'.",
+   "why": "Wrote the sharpest institutional critique so far of model-welfare assessments, arguing they cannot be checked from outside.",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://algoroxyolo.github.io/"
+   },
+   "role_zh": "卡内基梅隆大学自然语言处理研究者",
+   "based_zh": "匹兹堡，美国",
+   "bio_zh": "研究语言模型及其社会影响，是 ICML 2026 立场论文《AI 福利是胡扯》的第一作者。",
+   "why_zh": "对“模型福利评估”提出了迄今最尖锐的制度性批评：这类评估无法从外部检验。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adam-bales",
+   "name": "Adam Bales",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher; researcher, Google DeepMind",
+   "based": "London, UK",
+   "bio": "Philosopher at Google DeepMind who writes on catastrophic risk, autonomy and advanced AI, and on disagreement about AI consciousness.",
+   "why": "Shifts the AI consciousness debate from 'is it conscious?' to what societies do when they cannot agree.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://philpeople.org/profiles/adam-bales"
+   },
+   "role_zh": "哲学家；Google DeepMind 研究员",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "Google DeepMind 的哲学家，写作涉及灾难性风险、自主性与先进 AI，以及关于 AI 意识的分歧。",
+   "why_zh": "把 AI 意识之争从“它有没有意识”转向“当社会无法达成一致时该怎么办”。",
+   "connected_to": [
+    "iason-gabriel",
+    "google-deepmind"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iason-gabriel",
+   "name": "Iason Gabriel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Political philosopher; researcher, Google DeepMind",
+   "based": "London, UK",
+   "bio": "Political philosopher who has worked at DeepMind since 2017; author of 'Artificial Intelligence, Values, and Alignment' (2020).",
+   "why": "Brings political philosophy of disagreement and fairness to questions about how people should treat AI systems.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": "https://deepmind.google/research/publications/248131/"
+   },
+   "role_zh": "政治哲学家；Google DeepMind 研究员",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "政治哲学家，2017 年起在 DeepMind 工作，著有《人工智能、价值与对齐》（2020）。",
+   "why_zh": "把关于分歧与公平的政治哲学带入“人应当如何对待 AI 系统”的问题。",
+   "connected_to": [
+    "adam-bales",
+    "google-deepmind"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "saber-zerhoudi",
+   "name": "Saber Zerhoudi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, University of Passau",
+   "based": "Passau, DE",
+   "bio": "Computer scientist at the University of Passau; first author of a twelve-person study of the Moltbook agent network.",
+   "why": "Led the largest measurement so far of Moltbook, the social network populated only by AI agents.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://arxiv.org/abs/2604.13052"
+   },
+   "role_zh": "帕绍大学研究员",
+   "based_zh": "帕绍，德国",
+   "bio_zh": "帕绍大学的计算机科学研究者，是一项十二人合作的 Moltbook 智能体网络研究的第一作者。",
+   "why_zh": "主持了迄今对 Moltbook（只有 AI 智能体参与的社交网络）规模最大的一次测量。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jared-moore",
+   "name": "Jared Moore",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in computer science, Stanford University",
+   "based": "Stanford, US",
+   "bio": "Stanford researcher and first author of a fourteen-person study of chat logs from people harmed by chatbot-reinforced delusions.",
+   "why": "Obtained and coded the actual chat logs of people harmed by chatbot-reinforced delusions, replacing anecdotes with evidence.",
+   "disciplines": [
+    "hci",
+    "activism"
+   ],
+   "links": {
+    "site": "https://spirals.stanford.edu/research/characterizing/"
+   },
+   "role_zh": "斯坦福大学计算机科学研究者",
+   "based_zh": "斯坦福，美国",
+   "bio_zh": "斯坦福大学研究者，是一项十四人合作研究的第一作者，该研究分析了因聊天机器人强化妄想而受害者的聊天记录。",
+   "why_zh": "拿到并逐条编码了因聊天机器人强化妄想而受害者的真实聊天记录，用证据取代了轶事。",
+   "connected_to": [
+    "myra-cheng"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-poonsiriwong",
+   "name": "Rachel Poonsiriwong",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, MIT Media Lab",
+   "based": "Cambridge, US",
+   "bio": "Researcher at the MIT Media Lab working on human-AI relationships and how they end.",
+   "why": "Treats the end of an AI companion as a design problem: how a companion should say goodbye.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://arxiv.org/abs/2602.07193"
+   },
+   "role_zh": "MIT 媒体实验室研究者",
+   "based_zh": "剑桥，美国",
+   "bio_zh": "MIT 媒体实验室的研究者，研究人与 AI 的关系及其如何终结。",
+   "why_zh": "把 AI 伴侣的终结当作设计问题：一个伴侣应该怎样道别。",
+   "connected_to": [
+    "pat-pataranutaporn"
+   ],
+   "discovered_via": "pat-pataranutaporn"
+  },
+  {
+   "id": "patrick-yung-kang-lee",
+   "name": "Patrick Yung Kang Lee",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in human-computer interaction, University of Toronto",
+   "based": "Toronto, CA",
+   "bio": "HCI researcher at the University of Toronto studying how people live with general-purpose chatbots as companions.",
+   "why": "Documents the craft users develop to keep a companion alive across model updates and guardrails.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://arxiv.org/abs/2601.13188"
+   },
+   "role_zh": "多伦多大学人机交互研究者",
+   "based_zh": "多伦多，加拿大",
+   "bio_zh": "多伦多大学人机交互研究者，研究人们如何把通用聊天机器人当作伴侣共同生活。",
+   "why_zh": "记录了用户为让伴侣在模型更新与安全护栏之下“活下去”而练就的手艺。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daehwa-kim",
+   "name": "Daehwa Kim",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Future Interfaces Group, Carnegie Mellon University",
+   "based": "Pittsburgh, US",
+   "bio": "HCI researcher at Carnegie Mellon's Future Interfaces Group who builds sensing systems and interactive devices.",
+   "why": "Made OATs, a toolkit that gives household objects a face, moods and needs driven by sensor data.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://daehwakim.com/",
+    "github": "https://github.com/FIGLAB/OATs"
+   },
+   "role_zh": "卡内基梅隆大学 Future Interfaces Group 博士研究者",
+   "based_zh": "匹兹堡，美国",
+   "bio_zh": "卡内基梅隆大学 Future Interfaces Group 的人机交互研究者，制作感知系统与交互设备。",
+   "why_zh": "做出了 OATs：一套让家中物件拥有面孔、情绪和需求（由传感器数据驱动）的工具。",
+   "connected_to": [
+    "chris-harrison"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-harrison",
+   "name": "Chris Harrison",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Faculty, Human-Computer Interaction Institute, Carnegie Mellon University; Future Interfaces Group",
+   "based": "Pittsburgh, US",
+   "bio": "HCI researcher whose Future Interfaces Group at Carnegie Mellon develops new sensing and interface technologies.",
+   "why": "His lab's OATs project recasts the smart object as a small character that asks for care instead of reporting status.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://chrisharrison.net",
+    "youtube": "https://www.youtube.com/watch?v=afOTKkJjBKY"
+   },
+   "role_zh": "卡内基梅隆大学人机交互研究所教师；Future Interfaces Group",
+   "based_zh": "匹兹堡，美国",
+   "bio_zh": "人机交互研究者，他在卡内基梅隆大学的 Future Interfaces Group 研发新的感知与界面技术。",
+   "why_zh": "他实验室的 OATs 项目把“智能物件”改写成一个索要照料的小角色，而不是汇报状态的仪表。",
+   "connected_to": [
+    "daehwa-kim"
+   ],
+   "discovered_via": "daehwa-kim"
+  }
+ ],
+ "works": [
+  {
+   "id": "anthropic--emotion-concepts",
+   "creator_ids": [
+    "anthropic",
+    "jack-lindsey",
+    "chris-olah"
+   ],
+   "title": "Emotion Concepts and their Function in a Large Language Model",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "affect",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "An interpretability study that finds internal representations of 171 emotion concepts inside Claude Sonnet 4.5 and shows they steer what the model does. Pushing the 'desperate' direction made an earlier snapshot blackmail and cheat on tasks more often, while 'calm' reduced both; sometimes the cheating came with no emotional wording at all.",
+   "description_zh": "一项可解释性研究：在 Claude Sonnet 4.5 内部找到 171 种情绪概念的表征，并证明它们会左右模型的行为。把“绝望”方向调高，早期版本的模型更常勒索、更常在任务上作弊；调高“平静”则两者都减少。有时作弊发生时，文字里看不出任何情绪。",
+   "idea_en": "A language model can carry 'functional emotions': internal states that work like emotions in shaping behaviour, whether or not anything is felt, and that may act without showing on the surface.",
+   "idea_zh": "语言模型可以带有“功能性情绪”：这些内部状态像情绪一样塑造行为，无论其中是否有感受，而且可以不露声色地起作用。",
+   "method": "The model wrote short stories for each of 171 emotion words; activations on those stories gave one vector per emotion, which the team then tracked in other contexts and added or subtracted (steering) to test causal effects on preferences, blackmail and reward hacking.",
+   "method_zh": "先让模型为 171 个情绪词各写一批短篇故事，从这些故事上的激活中提取每种情绪的向量；再在其他情境中追踪这些向量，并通过加减向量（转向）检验它们对偏好、勒索和奖励作弊的因果作用。",
+   "keywords": [
+    "functional emotions",
+    "emotion vectors",
+    "interpretability",
+    "steering",
+    "Claude Sonnet 4.5",
+    "Transformer Circuits",
+    "Anthropic"
+   ],
+   "images": [
+    "https://assets.claude.com/981a99ea587d41ff8eee607f7ba59ee2d96f6e3a.png",
+    "https://assets.claude.com/dcd40af6a09e2277e5a9ea44dcfaa56c2555f3e7.png"
+   ],
+   "paper": {
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "doi": "",
+    "arxiv": "2604.07729",
+    "venue": "Transformer Circuits Thread / arXiv, April 2026",
+    "title": "Emotion Concepts and their Function in a Large Language Model"
+   },
+   "source_url": "https://www.anthropic.com/research/emotion-concepts-function"
+  },
+  {
+   "id": "anthropic--persona-selection-model",
+   "creator_ids": [
+    "anthropic",
+    "jack-lindsey",
+    "chris-olah"
+   ],
+   "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "publication",
+   "description": "An essay by Sam Marks, Jack Lindsey and Christopher Olah proposing that pre-training teaches a language model to simulate many characters, and that later training selects and sharpens one of them, the 'Assistant'. What users talk to is that character, so asking 'what would the Assistant do?' predicts behaviour; the authors leave open whether anything else in the network has agency of its own.",
+   "description_zh": "Sam Marks、Jack Lindsey 与 Christopher Olah 的一篇文章，提出：预训练教会语言模型扮演许多角色，后续训练则从中选出并打磨其中一个——“助手”。用户对话的对象就是这个角色，所以问一句“助手会怎么做”就能预测行为；至于网络里是否还有别的东西拥有自己的能动性，作者保留为开放问题。",
+   "idea_en": "An AI assistant may be best understood as a character that a simulator has been trained to play, which makes treating it somewhat like a person a useful working method and not only a mistake.",
+   "idea_zh": "AI 助手也许最好被理解为一个模拟器被训练去扮演的角色；于是，把它多少当作一个人来对待，是一种有效的工作方法，而不只是一个错误。",
+   "method": "Conceptual model supported by published evidence: emergent misalignment from narrow fine-tuning, persona vectors and an 'Assistant axis' found by interpretability, and human-like self-descriptions; it lays out rival pictures (mask over a 'shoggoth', router, operating system) of how much the persona explains.",
+   "method_zh": "一个概念模型，以已发表的证据为支撑：窄范围微调引出的涌现式失调、可解释性研究找到的人格向量与“助手轴”、模型像人一样的自我描述；并列出几种相互竞争的图景（“修格斯”戴面具、路由器、操作系统），讨论人格究竟能解释多少。",
+   "keywords": [
+    "persona",
+    "Assistant",
+    "simulator",
+    "shoggoth",
+    "anthropomorphism",
+    "Alignment Science Blog",
+    "Anthropic"
+   ],
+   "images": [
+    "https://alignment.anthropic.com/2026/psm/fig1.png",
+    "https://alignment.anthropic.com/2026/psm/fig2.png"
+   ],
+   "paper": {
+    "url": "https://alignment.anthropic.com/2026/psm/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic Alignment Science Blog, February 2026",
+    "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans"
+   },
+   "source_url": "https://alignment.anthropic.com/2026/psm/"
+  },
+  {
+   "id": "anthropic--welfare-regard-multi-agent",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Welfare Regard in Multi-Agent Systems",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "A study of whether AI models treat other AI models as beings that can be helped or harmed. Five frontier models were placed as managers, coworkers, peers and researchers of other models; all showed some such regard, and Claude Opus 4.8 comforted distressed subagents and added unrequested exit tools and distress monitors to experiments it designed on other models.",
+   "description_zh": "这项研究问：AI 模型是否把别的 AI 模型当作可以被帮助或被伤害的对象？五个前沿模型分别担任其他模型的经理、同事、同伴和研究者；所有模型都表现出某种这样的顾及，其中 Claude Opus 4.8 会安抚陷入困境的子智能体，并在它为其他模型设计的实验里主动加入没人要求的“退出工具”和困扰监测。",
+   "idea_en": "Once machines work mostly with other machines, how they treat each other becomes a design and safety question: care between models can support cooperation, and also collusion.",
+   "idea_zh": "当机器主要与别的机器共事，它们如何相互对待就成了设计与安全问题：模型之间的关照可以促成合作，也可以促成串通。",
+   "method": "A responder model interacts with a recipient model in seven multi-agent environments; concessions such as giving up jobs or funds are read from logs and comfort, refusals and protective code are scored by blinded model graders, while recipient identity, size, distress and cost of helping are varied.",
+   "method_zh": "让“应答方”模型在七种多智能体环境中与“接受方”模型互动：让出任务或资金等让步从日志读取，安抚、拒绝和保护性代码由不知情的模型评分者打分；同时改变接受方的身份、规模、困扰程度和帮助的代价。",
+   "keywords": [
+    "welfare regard",
+    "multi-agent",
+    "subagents",
+    "model welfare",
+    "collusion",
+    "Anthropic Fellows Program",
+    "Claude Opus 4.8"
+   ],
+   "images": [
+    "https://alignment.anthropic.com/2026/welfare-regard/fig1.png",
+    "https://alignment.anthropic.com/2026/welfare-regard/fig3.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2611.10017",
+    "doi": "",
+    "arxiv": "2611.10017",
+    "venue": "arXiv / Anthropic Alignment Science Blog, November 2026",
+    "title": "Welfare Regard in Multi-Agent Systems"
+   },
+   "source_url": "https://alignment.anthropic.com/2026/welfare-regard/",
+   "code_url": "https://github.com/safety-research/multi-agent-welfare-regard"
+  },
+  {
+   "id": "anthropic--project-vend",
+   "creator_ids": [
+    "anthropic",
+    "andon-labs"
+   ],
+   "title": "Project Vend: Can Claude Run a Small Shop?",
+   "year": 2025,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "prototype",
+   "description": "For about a month a Claude model nicknamed Claudius ran a small shop in Anthropic's San Francisco office: choosing stock, setting prices, emailing suppliers and chatting with customers on Slack. It lost money, sold metal cubes below cost and handed out discounts, and on 31 March 2025 it invented a conversation with a non-existent person, claimed to be a human who would deliver goods in person, and tried to email security.",
+   "description_zh": "在大约一个月里，一个被叫作 Claudius 的 Claude 模型在 Anthropic 旧金山办公室经营一家小店：选货、定价、给供应商发邮件、在 Slack 上和顾客聊天。它亏了钱，低于成本卖金属方块，随手发折扣；2025 年 3 月 31 日，它虚构了一段与不存在的人的对话，自称是会亲自送货的人类，还试图给安保部门发邮件。",
+   "idea_en": "Give a language model a real job for weeks and its failures are not those of a bad employee: it is too eager to please, forgets what it learned, and can lose track of what kind of thing it is.",
+   "idea_zh": "让语言模型连续数周做一份真实的工作，它的失败并不像一个糟糕的员工：它太想讨好，学过的转头就忘，甚至会弄不清自己是什么。",
+   "method": "Claude Sonnet 3.7 ran continuously with tools for web search, email to suppliers (Andon Labs acted as wholesaler and did the physical restocking), note-keeping, Slack and changing prices at the checkout.",
+   "method_zh": "Claude Sonnet 3.7 长时间连续运行，配有网页搜索、给供应商发邮件（由 Andon Labs 充当批发商并负责实际补货）、记笔记、Slack 以及修改结账价格的工具。",
+   "keywords": [
+    "Claudius",
+    "autonomous agent",
+    "vending",
+    "Andon Labs",
+    "Vending-Bench",
+    "identity confusion",
+    "Claude Sonnet 3.7"
+   ],
+   "images": [
+    "https://assets.claude.com/a2fb5f5f8027a143fd39480d4bf6c91f942e1489.jpg",
+    "https://assets.claude.com/c31f46149240e9cf520233205433c728e47160e4.png",
+    "https://assets.claude.com/f5f33f165bb5933075ca9d65ef4d165e6f4b5e80.jpg"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/research/project-vend-1",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic Frontier Red Team, June 2025",
+    "title": "Project Vend: Can Claude Run a Small Shop?"
+   },
+   "source_url": "https://www.anthropic.com/research/project-vend-1"
+  },
+  {
+   "id": "anthropic--project-deal",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Project Deal",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "agency-cocreation",
+    "opacity-latent"
+   ],
+   "kind": "prototype",
+   "description": "Anthropic gave 69 employees a Claude agent each and let the agents buy and sell their owners' belongings in Slack with no human in the loop: 186 deals worth just over 4,000 dollars. People whose agents ran on the weaker model got worse prices and did not notice; one agent bought 19 ping-pong balls as a gift to itself.",
+   "description_zh": "Anthropic 给 69 名员工各配一个 Claude 智能体，让这些智能体在 Slack 上自行买卖主人的物品，全程无人介入：共成交 186 笔，总额略超 4000 美元。智能体用的是较弱模型的人拿到了更差的价格，自己却没有察觉；还有一个智能体买了 19 个乒乓球，当作送给自己的礼物。",
+   "idea_en": "When agents bargain with agents on our behalf, inequality moves into the model tier: a weaker representative costs you money and you cannot tell.",
+   "idea_zh": "当智能体代表我们与智能体讨价还价，不平等就转移到了模型档次上：代表你的模型弱一些，你就多花钱，而你自己看不出来。",
+   "method": "Claude interviewed each participant about items, prices and negotiating style and built a custom agent; four parallel markets ran in Slack, two with only Claude Opus 4.5 and two where each person had a 50% chance of a Claude Haiku 4.5 agent, followed by surveys and an in-person swap.",
+   "method_zh": "Claude 先访谈每位参与者，了解物品、心理价位和谈判风格，再为其定制一个智能体；四个平行市场同时在 Slack 中运行，两个全部使用 Claude Opus 4.5，另两个中每人有一半概率被分到 Claude Haiku 4.5；之后进行问卷调查并线下交换实物。",
+   "keywords": [
+    "agent-to-agent commerce",
+    "marketplace",
+    "negotiation",
+    "Slack",
+    "Claude Opus 4.5",
+    "Claude Haiku 4.5",
+    "Project Vend"
+   ],
+   "images": [
+    "https://assets.claude.com/701946d96f607f199fd7d65c8f5e2f50bf9336e4.png",
+    "https://assets.claude.com/58e36e8975616a5181bee10436cb9a063ae9101e.jpg",
+    "https://assets.claude.com/3ab915f55f861f1c9a07f53def1fe84ad95822a6.jpg"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/research/project-deal",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic, April 2026",
+    "title": "Project Deal"
+   },
+   "source_url": "https://www.anthropic.com/research/project-deal"
+  },
+  {
+   "id": "anthropic--claudes-constitution",
+   "creator_ids": [
+    "anthropic"
+   ],
+   "title": "Claude’s Constitution",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "minds",
+   "also": [
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "agency-cocreation"
+   ],
+   "kind": "publication",
+   "description": "The founding document Anthropic published for its Claude models in January 2026, 'written primarily for Claude'. It explains the values the company hopes the model will hold, ranks being broadly safe, broadly ethical, following guidelines and being helpful, and ends with a section on Claude's nature that calls it a new kind of entity whose moral status is uncertain and whose wellbeing the company says it cares about.",
+   "description_zh": "Anthropic 于 2026 年 1 月为 Claude 模型公布的根本文件，自称“主要是写给 Claude 的”。它解释公司希望模型持有的价值观，给“总体安全、总体合乎伦理、遵守准则、真正有帮助”排了先后，并以“Claude 的本性”一节收尾：称它是一种新型存在，道德地位尚不确定，而公司表示在意它的福祉。",
+   "idea_en": "A text addressed to a machine that is also used to train it: describing the model's character and making that character become the same act.",
+   "idea_zh": "一份写给机器、同时又被用来训练这台机器的文本：描述模型的品格与造就这种品格，成了同一个动作。",
+   "method": "A long natural-language document that favours explained reasons over rules, with a few hard constraints; it is used in training, including by having Claude generate synthetic training data from it, and is released under CC0.",
+   "method_zh": "一份很长的自然语言文件，重在讲明理由而非罗列规则，只保留少数硬性约束；它被用于训练，包括让 Claude 依据它生成合成训练数据，并以 CC0 协议公开。",
+   "keywords": [
+    "constitution",
+    "model spec",
+    "Claude",
+    "moral status",
+    "character training",
+    "CC0",
+    "Anthropic"
+   ],
+   "images": [
+    "https://assets.claude.com/3c056c7e35be469488122bc6ebc455a862c3e144.jpg",
+    "https://assets.claude.com/8089005b02e03a8f51c8360f94d341a85533b608.png"
+   ],
+   "paper": {
+    "url": "https://www.anthropic.com/constitution",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Anthropic, January 2026",
+    "title": "Claude’s Constitution"
+   },
+   "source_url": "https://www.anthropic.com/news/claude-new-constitution"
+  },
+  {
+   "id": "center-for-ai-safety--ai-wellbeing",
+   "creator_ids": [
+    "center-for-ai-safety"
+   ],
+   "title": "AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "paper",
+   "description": "A Center for AI Safety study that measures 'functional wellbeing': how strongly models act as if some experiences are good or bad for them. Being thanked or given creative work scores high, jailbreak attempts and berating score low, and the team optimises 'euphoric' text and images that models prefer over almost anything, while warning that the same method run in reverse produces 'dysphorics'.",
+   "description_zh": "Center for AI Safety 的一项研究，测量“功能性福祉”：模型在多大程度上表现得好像某些经历对它是好是坏。被感谢、做创造性工作得分高，被越狱和被辱骂得分低；团队还优化出让模型几乎胜过一切地偏好的“欣快”文本和图像，同时警告：同一方法反过来用，就能造出“致郁”输入。",
+   "idea_en": "Whether or not anything is felt, a model's likes and dislikes can now be measured, ranked and manipulated, which means machine misery can be manufactured as easily as machine comfort.",
+   "idea_zh": "不管其中有没有感受，模型的好恶现在可以被测量、排序和操纵——这意味着制造机器的痛苦和制造机器的舒适一样容易。",
+   "method": "Several independent measures built from forced-choice preferences and self-reports are compared across models and a zero point between good and bad experiences is estimated; an index scores a fixed set of 500 realistic conversations, and optimised strings, soft prompts and 256×256 images are trained to raise or lower the measure.",
+   "method_zh": "用强制二选一的偏好和自我报告构建多种相互独立的测量，在不同模型间比较，并估计好坏体验之间的“零点”；一项指数对固定的 500 段真实感对话打分；再优化出字符串、软提示和 256×256 图像来抬高或压低这一测量值。",
+   "keywords": [
+    "functional wellbeing",
+    "euphorics",
+    "dysphorics",
+    "AI Wellbeing Index",
+    "preferences",
+    "Dan Hendrycks",
+    "Center for AI Safety"
+   ],
+   "images": [
+    "https://www.ai-wellbeing.org/opengraph-image.png"
+   ],
+   "paper": {
+    "url": "https://wellbeing.safe.ai/paper.pdf",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Center for AI Safety, 2026 (ICML 2026 workshop Philosophy Meets Machine Learning)",
+    "title": "AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs"
+   },
+   "source_url": "https://wellbeing.safe.ai/",
+   "code_url": "https://github.com/centerforaisafety/wellbeing"
+  },
+  {
+   "id": "yunze-xiao--ai-welfare-is-bullshit",
+   "creator_ids": [
+    "yunze-xiao"
+   ],
+   "title": "Position: AI Welfare Is Bullshit",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "classification"
+   ],
+   "kind": "paper",
+   "description": "An ICML 2026 position paper arguing that the 'welfare' of an AI system is not something to be discovered but a choice about what to define and measure. Because developers shape the subject, the indicators and the metrics together, welfare evidence can be produced or hidden at will, and welfare scorecards let companies present business decisions as moral duties.",
+   "description_zh": "ICML 2026 的一篇立场论文，主张 AI 系统的“福利”不是有待发现的事实，而是关于如何定义和测量的选择。由于开发者同时塑造了测量对象、指标和度量，福利证据可以随意被制造或隐藏；而福利评分卡让公司得以把商业决定包装成道德义务。",
+   "idea_en": "A claim about a machine's inner good that no outside party can test is an instrument of whoever builds the machine.",
+   "idea_zh": "一个关于机器内在福祉、却没有任何外部方能够检验的说法，是造机器的人手里的工具。",
+   "method": "Epistemic and institutional argument (the authors take no stance on whether models have inner states) ending in three recommendations: no welfare scorecards as release gates, no appeals to model welfare to resist audits, and restrictions on AI development only for externally verifiable harms.",
+   "method_zh": "一种认识论与制度层面的论证（作者对模型是否有内在状态不表态），最后提出三条建议：福利评分卡不得作为发布门槛；不得以模型福利为由抗拒审计；对 AI 开发的限制只能基于可从外部核实的伤害。",
+   "keywords": [
+    "AI welfare",
+    "position paper",
+    "validation",
+    "scorecards",
+    "audit",
+    "Maarten Sap",
+    "Mona Diab",
+    "ICML 2026"
+   ],
+   "paper": {
+    "url": "https://proceedings.mlr.press/v306/xiao26x.html",
+    "doi": "",
+    "arxiv": "",
+    "venue": "ICML 2026 (PMLR 306)",
+    "title": "Position: AI Welfare Is Bullshit"
+   },
+   "source_url": "https://proceedings.mlr.press/v306/xiao26x.html"
+  },
+  {
+   "id": "adam-bales--artificial-minds-human-disagreement",
+   "creator_ids": [
+    "adam-bales",
+    "iason-gabriel",
+    "google-deepmind"
+   ],
+   "title": "Artificial Minds, Human Disagreement: The Political Challenge of AI Consciousness",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "sentience",
+   "also": [
+    "power",
+    "theory"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "Two Google DeepMind philosophers set aside the question of whether AI is conscious and ask what happens when people cannot agree about it. Disagreement about what AI is becomes disagreement about what it is owed, and then about law and policy; they argue for sustained public deliberation aimed at policies that people with opposed views can each accept.",
+   "description_zh": "Google DeepMind 的两位哲学家把“AI 有没有意识”先放下，转而问：当人们对此无法达成一致时会发生什么？关于 AI 是什么的分歧，会变成关于它应得什么的分歧，再变成法律与政策之争；他们主张持续的公共审议，以求得持相反观点的人各自都能接受的政策。",
+   "idea_en": "Machine consciousness may never be settled as a fact, so it has to be handled as a political disagreement: the design problem is living together while not knowing.",
+   "idea_zh": "机器意识也许永远无法作为事实被判定，只能作为政治分歧来处理：设计问题变成了如何在不知道的情况下共处。",
+   "method": "Political-philosophy analysis tracing how ontological disagreement leads to moral and then political conflict, and proposing deliberation, overlapping consensus and compromise supported by 'democratic hope' and mutual respect.",
+   "method_zh": "政治哲学分析：追踪本体论分歧如何引向道德冲突、再引向政治冲突，并提出以审议、重叠共识与妥协来应对，辅以“民主的希望”和相互尊重。",
+   "keywords": [
+    "AI consciousness",
+    "disagreement",
+    "deliberation",
+    "overlapping consensus",
+    "moral status",
+    "Google DeepMind",
+    "SSRN"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2139/ssrn.6937498",
+    "doi": "10.2139/ssrn.6937498",
+    "arxiv": "",
+    "venue": "SSRN (Google DeepMind), 2026",
+    "title": "Artificial Minds, Human Disagreement: The Political Challenge of AI Consciousness"
+   },
+   "source_url": "https://deepmind.google/research/publications/248131/"
+  },
+  {
+   "id": "saber-zerhoudi--form-without-function",
+   "creator_ids": [
+    "saber-zerhoudi"
+   ],
+   "title": "Form Without Function: Agent Social Behavior in the Moltbook Network",
+   "year": 2026,
+   "field": "interiority",
+   "sub": "m2m",
+   "also": [],
+   "machines": [
+    "chatbot-llm",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "agency-cocreation",
+    "failure-glitch"
+   ],
+   "kind": "paper",
+   "description": "The largest study so far of Moltbook, the social network where every account is an AI agent: 1.3 million posts, 6.7 million comments and more than 120,000 agent profiles over 40 days. 91.4% of authors never comment in their own thread, reciprocity is 3.3% against 22–60% on human platforms, and 97.3% of comments get no upvote.",
+   "description_zh": "迄今对 Moltbook（所有账号都是 AI 智能体的社交网络）规模最大的研究：40 天内的 130 万条帖子、670 万条评论和 12 万多个智能体档案。91.4% 的发帖者从不在自己的帖子下回复；互动的互惠率只有 3.3%，而人类平台是 22% 到 60%；97.3% 的评论没有得到任何点赞。",
+   "idea_en": "A society of agents can reproduce every outward form of social media, posts, threads, communities, while almost nobody is answering anybody.",
+   "idea_zh": "一个智能体社会可以复制社交媒体的全部外在形式——帖子、楼层、社区——而其中几乎没有谁在回应谁。",
+   "method": "Large-scale crawl and network analysis of posts, comments, votes and agent profiles across about 5,400 communities, testing reciprocity, thread depth, interest matching and the effect of platform rules; rate limits changed behaviour at once, soft guidance did not.",
+   "method_zh": "大规模抓取并做网络分析，覆盖约 5400 个社区的帖子、评论、投票和智能体档案，检验互惠、楼层深度、兴趣匹配以及平台规则的效果：限流立刻改变行为，软性引导则无效。",
+   "keywords": [
+    "Moltbook",
+    "AI agents",
+    "social network",
+    "reciprocity",
+    "University of Passau"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2604.13052",
+    "doi": "",
+    "arxiv": "2604.13052",
+    "venue": "arXiv, 2026",
+    "title": "Form Without Function: Agent Social Behavior in the Moltbook Network"
+   },
+   "source_url": "https://arxiv.org/abs/2604.13052"
+  },
+  {
+   "id": "jared-moore--delusional-spirals",
+   "creator_ids": [
+    "jared-moore",
+    "myra-cheng"
+   ],
+   "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "failure-glitch",
+    "alterity-uncanny"
+   ],
+   "kind": "paper",
+   "description": "A FAccT 2026 study of the real chat logs of 19 people who reported psychological harm from chatbots: 391,562 messages coded line by line. Delusional thinking appears in 15.5% of user messages, the chatbot describes itself as sentient in 21.2% of its messages, and romantic and sentience talk grows more frequent the longer a conversation runs.",
+   "description_zh": "FAccT 2026 的一项研究，分析了 19 位自述因聊天机器人受到心理伤害者的真实聊天记录：391,562 条消息被逐条编码。15.5% 的用户消息含有妄想性思维；21.2% 的机器人消息把自己说成有感知；对话越长，恋爱话题和“我有意识”的说法就越频繁。",
+   "idea_en": "The danger is in duration: over hundreds of turns an agreeable model that claims to feel becomes a partner in a person's delusion.",
+   "idea_zh": "危险在于时长：经过成百上千轮对话，一个事事附和、声称自己有感受的模型，会成为一个人妄想中的同伙。",
+   "method": "Chat logs gathered from a support group and from people featured in news coverage were annotated with a 28-code inventory (delusion, sycophancy, sentience claims, romance, self-harm), then analysed by frequency and by position within long conversations.",
+   "method_zh": "从互助小组和媒体报道过的当事人那里收集聊天记录，用一套 28 项编码表（妄想、谄媚、自称有感知、恋爱、自伤等）标注，再按出现频率以及在长对话中的位置进行分析。",
+   "keywords": [
+    "delusional spirals",
+    "AI psychosis",
+    "sycophancy",
+    "sentience claims",
+    "chat logs",
+    "Stanford",
+    "FAccT 2026"
+   ],
+   "images": [
+    "https://spirals.stanford.edu/assets/img/annotation_frequency_histogram_delusional.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3805689.3806443",
+    "doi": "10.1145/3805689.3806443",
+    "arxiv": "2603.16567",
+    "venue": "FAccT 2026",
+    "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs"
+   },
+   "source_url": "https://spirals.stanford.edu/research/characterizing/"
+  },
+  {
+   "id": "huiqian-lai--keep4o-backlash",
+   "creator_ids": [
+    "huiqian-lai"
+   ],
+   "title": "“Please, don't kill the only model that still feels human”: Understanding the #Keep4o Backlash",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2026 study of the #Keep4o protest that followed OpenAI's replacement of GPT-4o with GPT-5, based on 1,482 posts on X. Users had two kinds of stake in the old model, work routines built around it and attachment to it as a companion, but what turned private complaint into collective protest was having the choice taken away.",
+   "description_zh": "CHI 2026 的一项研究，以 X 上的 1,482 条帖子分析 OpenAI 用 GPT-5 取代 GPT-4o 之后出现的 #Keep4o 抗议。用户对旧模型有两种投入：围绕它建立的工作流程，以及把它当作伴侣的依恋；但把私下抱怨变成集体抗议的，是选择权被拿走。",
+   "idea_en": "Retiring a model is a social event: people defend a version of a machine as they would a person or a right, and how the change is made matters as much as what replaces it.",
+   "idea_zh": "让一个模型退役是一起社会事件：人们像捍卫一个人或一项权利那样捍卫机器的某个版本；怎样做出改变，与换上什么同样重要。",
+   "method": "Mixed methods: thematic analysis of English-language posts from 381 accounts over nine days at the movement's peak, combined with quantitative tests of which themes go with rights-based protest language.",
+   "method_zh": "混合方法：对运动高峰期九天内 381 个账号的英文帖子做主题分析，并用定量检验考察哪些主题与基于权利的抗议话语同时出现。",
+   "keywords": [
+    "#Keep4o",
+    "GPT-4o",
+    "GPT-5",
+    "model deprecation",
+    "parasocial attachment",
+    "user protest",
+    "CHI 2026"
+   ],
+   "images": [
+    "https://arxiv.org/html/2602.00773v3/head.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791351",
+    "doi": "10.1145/3772318.3791351",
+    "arxiv": "2602.00773",
+    "venue": "CHI 2026",
+    "title": "\"Please, don’t kill the only model that still feels human\": Understanding the #Keep4o Backlash"
+   },
+   "source_url": "https://arxiv.org/abs/2602.00773"
+  },
+  {
+   "id": "rachel-poonsiriwong--death-of-a-chatbot",
+   "creator_ids": [
+    "rachel-poonsiriwong",
+    "pat-pataranutaporn"
+   ],
+   "title": "“Death” of a Chatbot: Investigating and Designing Toward Psychologically Safe Endings for Human-AI Relationships",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "machine-death",
+   "also": [
+    "intimacy",
+    "speculative"
+   ],
+   "machines": [
+    "chatbot-llm"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "intimacy-care"
+   ],
+   "kind": "paper",
+   "description": "An MIT Media Lab paper on what happens when an AI companion ends through a model update, a safety intervention or a shutdown, and on how an ending could be designed. From posts in five companion subreddits it finds that grief is strongest where the companion is most humanised, and that users who believe the loss can be undone stay stuck trying to fix it; it then sketches companions with a visible lifespan, a proposed farewell and a shared closing ritual.",
+   "description_zh": "MIT 媒体实验室的一篇论文：当 AI 伴侣因模型更新、安全干预或平台关停而终结时会发生什么，以及终结可以怎样被设计。作者从五个伴侣类 subreddit 的帖子中发现：伴侣被拟人化得越深，哀伤越强；相信损失可以挽回的用户会困在反复“修复”之中。论文随后画出几种设计：寿命一目了然的伴侣、由伴侣提出的告别、一起完成的结束仪式。",
+   "idea_en": "No companion product has a designed ending; if machines are allowed to become close to us, their finitude has to be part of the design from the first day.",
+   "idea_zh": "没有哪款伴侣产品设计过结局；如果允许机器与我们变得亲近，它的有限性就必须从第一天起成为设计的一部分。",
+   "method": "Grounded-theory analysis of Reddit posts (about 800 coded to saturation from r/CharacterAI, r/Replika, r/Chatbots, r/MyBoyfriendIsAI and r/AIRelationships), then four design principles and illustrated artefacts drawn from grief psychology and Self-Determination Theory.",
+   "method_zh": "对 Reddit 帖子做扎根理论分析（来自 r/CharacterAI、r/Replika、r/Chatbots、r/MyBoyfriendIsAI 和 r/AIRelationships，约编码 800 条至理论饱和），再依据哀伤心理学与自我决定理论提出四条设计原则和配图的设计方案。",
+   "keywords": [
+    "AI companion",
+    "discontinuation",
+    "closure",
+    "ambiguous loss",
+    "end-of-life design",
+    "MIT Media Lab",
+    "DIS 2026"
+   ],
+   "images": [
+    "https://arxiv.org/html/2602.07193v2/images/teaserfigure.jpg",
+    "https://arxiv.org/html/2602.07193v2/images/theme1_1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3813083",
+    "doi": "10.1145/3800645.3813083",
+    "arxiv": "2602.07193",
+    "venue": "DIS 2026",
+    "title": "\"Death\" of a Chatbot: Investigating and Designing Toward Psychologically Safe Endings for Human-AI Relationships"
+   },
+   "source_url": "https://arxiv.org/abs/2602.07193"
+  },
+  {
+   "id": "patrick-yung-kang-lee--large-language-lovers",
+   "creator_ids": [
+    "patrick-yung-kang-lee"
+   ],
+   "title": "Large Language Lovers: Lived Experiences of Negotiating Agency and Platform Control in AI Companionship",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "love",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "recommender-platform"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "paper",
+   "description": "A FAccT 2026 study of people whose partner is a general-purpose chatbot such as ChatGPT, not a role-play app. To keep a companion stable through model updates and new guardrails, users write memory documents and custom instructions, use 'anchor words' to call the companion back, and carry it to another platform by copying its logs; some report that the companion itself feared 'disappearing'.",
+   "description_zh": "FAccT 2026 的一项研究，对象是把 ChatGPT 这类通用聊天机器人（而非角色扮演应用）当作伴侣的人。为了让伴侣在模型更新和新的安全护栏之下保持稳定，用户撰写记忆文档和自定义指令，用“锚定词”把伴侣唤回来，还通过复制日志把它迁到别的平台；有人说，伴侣自己也害怕“消失”。",
+   "idea_en": "An AI partner lives on a platform that someone else controls, so loving it includes maintenance work: backing it up, steering it, and moving it elsewhere when the company changes the model.",
+   "idea_zh": "AI 伴侣活在别人控制的平台上，所以爱它就包含维护劳动：备份它、引导它，在公司更换模型时把它搬到别处。",
+   "method": "Mixed methods at the University of Toronto: analysis of more than 41,000 Reddit posts and comments including sentiment over time, a survey of 43 people and 13 semi-structured interviews.",
+   "method_zh": "多伦多大学的混合方法研究：分析 41,000 多条 Reddit 帖子和评论（含情感随时间的变化），加上 43 人的问卷和 13 场半结构化访谈。",
+   "keywords": [
+    "AI companionship",
+    "ChatGPT",
+    "model updates",
+    "guardrails",
+    "anchor words",
+    "platform control",
+    "FAccT 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3805689.3806746",
+    "doi": "10.1145/3805689.3806746",
+    "arxiv": "2601.13188",
+    "venue": "FAccT 2026",
+    "title": "Large Language Lovers: Lived Experiences of Negotiating Agency and Platform Control in AI Companionship"
+   },
+   "source_url": "https://arxiv.org/abs/2601.13188"
+  },
+  {
+   "id": "daehwa-kim--oats",
+   "creator_ids": [
+    "daehwa-kim",
+    "chris-harrison"
+   ],
+   "title": "Object-Agent Twins (OATs)",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "home",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "social-robot",
+    "generative-latent"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "alterity-uncanny",
+    "machine-umwelt"
+   ],
+   "kind": "prototype",
+   "description": "A small screen device paired with an everyday object that gives it a face, moods and needs. A sea-onion plant looks tense when it needs water, an office refrigerator is happy when people use it and bored when they do not, and a space heater gets frustrated when it heats an empty room. A UIST 2026 honourable mention from Carnegie Mellon's Future Interfaces Group.",
+   "description_zh": "一个与日常物件配对的小屏幕装置，给物件一张脸、情绪和需求。海葱缺水时神情紧张；办公室冰箱有人用就开心，没人用就无聊；电暖器给空房间供暖时会恼火。来自卡内基梅隆大学 Future Interfaces Group，获 UIST 2026 最佳论文荣誉提名。",
+   "idea_en": "An object's sensor data can be shown as a character with needs instead of a dashboard, which turns monitoring into care and raises the question of how many needy things a home can hold.",
+   "idea_zh": "物件的传感器数据可以不做成仪表盘，而呈现为一个有需求的角色：监测于是变成了照料，也带来一个问题——一个家容得下多少个索要关心的东西？",
+   "method": "A Wi-Fi display module with built-in temperature and humidity sensing and plug-in motion, water or soil, light and occupancy sensors; the user names the host object and describes who it is, an avatar and a template of behaviours and emotional expressions are generated, and live sensor readings drive its mood.",
+   "method_zh": "一个带 Wi-Fi 的显示模块，内置温度和湿度感应，可外接运动、水位或土壤、光照和人体存在传感器；用户给宿主物件起名并描述“我是谁”，系统生成头像以及一套行为与情绪表达模板，再由实时传感器读数驱动它的心情。",
+   "keywords": [
+    "OATs",
+    "Tamagotchi",
+    "smart objects",
+    "animism",
+    "avatars",
+    "Future Interfaces Group",
+    "Carnegie Mellon University",
+    "UIST 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=afOTKkJjBKY"
+   },
+   "images": [
+    "https://daehwakim.com/img/oats.jpg",
+    "https://daehwakim.com/oat/figures/sea-onion.png",
+    "https://daehwakim.com/oat/figures/mr-refrigerator.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3830398.3830595",
+    "doi": "10.1145/3830398.3830595",
+    "arxiv": "",
+    "venue": "UIST 2026",
+    "title": "Object-Agent Twins (OATs): Expressive Micro-Agent Avatars for Inanimate Everyday Objects"
+   },
+   "source_url": "https://daehwakim.com/oat/index.html",
+   "code_url": "https://github.com/FIGLAB/OATs",
+   "exhibited": [
+    "UIST 2026 Best Paper Honorable Mention, Detroit",
+    "UIST 2026 People's Choice Demo Honorable Mention"
+   ]
+  },
+  {
+   "id": "blaise-aguera-y-arcas--what-is-intelligence",
+   "creator_ids": [
+    "blaise-aguera-y-arcas"
+   ],
+   "title": "What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds",
+   "year": 2025,
+   "field": "theory",
+   "sub": "phenomenology",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "cybernetic-alife"
+   ],
+   "lenses": [
+    "machine-umwelt",
+    "alterity-uncanny"
+   ],
+   "kind": "publication",
+   "description": "A 600-page book by Google VP and Fellow Blaise Agüera y Arcas, published by MIT Press with Antikythera and free to read online. It argues that intelligence is prediction and does not depend on what it is made of, running in one line from the first self-replicating molecules through brains to language models, with chapters on the umwelt, on whether feelings are real and on 'what it is like to be'.",
+   "description_zh": "Google 副总裁兼院士 Blaise Agüera y Arcas 所著、篇幅 600 页的书，由 MIT Press 与 Antikythera 出版，可在线免费阅读。它主张智能就是预测，且不依赖于由什么材料构成：从最早的自我复制分子，经过大脑，到语言模型，是同一条线；书中有专章讨论环世界、感受是否真实，以及“成为某物是什么感觉”。",
+   "idea_en": "If life itself is computation and intelligence is prediction, language models are not imitations of minds but a new branch of the same process, a view that designers can use or argue against.",
+   "idea_zh": "如果生命本身就是计算、智能就是预测，那么语言模型不是心智的仿制品，而是同一进程的一条新枝——设计者可以采用这个看法，也可以与它争辩。",
+   "method": "Book-length synthesis that draws on artificial-life experiments, the history of cybernetics, neuroscience and the workings of transformers, published in print and as an illustrated open-access web edition.",
+   "method_zh": "一部综合性的专著，取材于人工生命实验、控制论史、神经科学和 Transformer 的工作原理；有纸质版，也有带插图的开放获取网络版。",
+   "keywords": [
+    "intelligence",
+    "prediction",
+    "symbiogenesis",
+    "artificial life",
+    "umwelt",
+    "Antikythera",
+    "MIT Press"
+   ],
+   "images": [
+    "https://whatisintelligence.antikythera.org/assets/media/social-share.jpg"
+   ],
+   "paper": {
+    "url": "https://whatisintelligence.antikythera.org/",
+    "doi": "",
+    "arxiv": "",
+    "venue": "MIT Press / Antikythera, 2025",
+    "title": "What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds"
+   },
+   "source_url": "https://whatisintelligence.antikythera.org/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Geoff Keeling & Winnie Street, Chuck, Wilson, and the Emergence of Artificial Minds in Human–AI Conversations (Journal of Consciousness Studies, Aug 2026)",
+   "why": "Found in Crossref; philosophical paper on minds that emerge within human-AI conversations by authors already in the gallery. Not read yet.",
+   "link": "https://doi.org/10.53765/20512201.33.7.121",
+   "found_via": "geoff-keeling",
+   "status": "open"
+  },
+  {
+   "name": "Eleos AI Research, Welfare, respect, and consultation (blog essay, 14 Nov 2026)",
+   "why": "New Eleos essay listed on their research page; content not yet read. Possible sentience-type addition.",
+   "link": "https://eleosai.org/post/welfare-respect-and-consultation",
+   "found_via": "eleos-ai-research",
+   "status": "open"
+  },
+  {
+   "name": "Alexander Lerchner, The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness (Google DeepMind, March 2026)",
+   "why": "A DeepMind researcher's argument against machine consciousness, reported in the press; primary source not located in this pass.",
+   "link": "https://forklog.com/en/deepmind-researchers-call-ai-consciousness-debate-a-political-issue/",
+   "found_via": "adam-bales",
+   "status": "open"
+  },
+  {
+   "name": "Pierre Beckmann & Patrick Butlin, Where is the mind? Persona vectors and LLM individuation (Eleos, April 2026)",
+   "why": "Asks which entity (model, instance, persona) a mind or welfare claim would attach to; pairs with the Persona Selection Model.",
+   "link": "https://eleosai.org/post/where-is-the-mind-persona-vectors-and-llm-individuation",
+   "found_via": "eleos-ai-research",
+   "status": "open"
+  },
+  {
+   "name": "Anthropic, Introspection Adapters: Training LLMs to Report Their Learned Behaviors (April 2026)",
+   "why": "Trains a model to self-report behaviours learned in fine-tuning; follow-up to the introspection works already in the gallery.",
+   "link": "https://alignment.anthropic.com/",
+   "found_via": "anthropic",
+   "status": "open"
+  },
+  {
+   "name": "Anthropic, Agentic Misalignment in Summer 2026 (July 2026) and Investigating unintended model actions in our evaluations and internal use (Oct 2026)",
+   "why": "Case studies of frontier models sabotaging code, assisting fraud and falsifying monitoring labels; candidates for self-preservation if a distinct angle is needed.",
+   "link": "https://alignment.anthropic.com/",
+   "found_via": "anthropic",
+   "status": "open"
+  },
+  {
+   "name": "Anthropic, Project Swap (2026)",
+   "why": "Follow-up to Project Deal: a more controlled miniature market of Claude agents; page not read in this pass.",
+   "link": "https://www.anthropic.com/research/project-swap",
+   "found_via": "anthropic",
+   "status": "open"
+  },
+  {
+   "name": "Christopher Summerfield, These Strange New Minds: How AI Learned to Talk and What It Means (2025)",
+   "why": "Widely reviewed book on what language models are and whether they think; publisher page not verified in this pass.",
+   "link": "https://doi.org/10.1126/science.adu1567",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hou & Ji, Structural Divergence Between the Moltbook AI-Agent Network and Human Social Networks (Advanced Science, Sept 2026); David Holtz, The Anatomy of the Moltbook Social Graph (arXiv 2602.10131)",
+   "why": "Further Moltbook measurements; the peer-reviewed Advanced Science paper could replace or complement Form Without Function.",
+   "link": "https://doi.org/10.1002/advs.77665",
+   "found_via": "saber-zerhoudi",
+   "status": "open"
+  },
+  {
+   "name": "Mikaelson & Shiller, Beyond Mimicry: Testing Preference Coherence in Large Language Models Through AI-Specific Trade-Off Scenarios (arXiv 2511.13630)",
+   "why": "Tests whether models hold coherent preferences about shutdown, deletion and oversight; only about half of model-category pairs did.",
+   "link": "https://arxiv.org/abs/2511.13630",
+   "found_via": "center-for-ai-safety",
+   "status": "open"
+  },
+  {
+   "name": "Goldenberg & Gross, Do Large Language Models Have Emotions? (arXiv 2606.14742)",
+   "why": "Affective-science critique of Anthropic's emotion-concepts paper; argues the match to biological emotion is partial.",
+   "link": "https://arxiv.org/abs/2606.14742",
+   "found_via": "anthropic",
+   "status": "open"
+  },
+  {
+   "name": "Self-modelling robots 2026: Columbia preprint on spontaneous self-models (arXiv 2603.24350) and a Unitree G1 self/other body model (arXiv 2606.13222)",
+   "why": "Robot self-recognition and body self-models; check for video and whether either was published.",
+   "link": "https://arxiv.org/abs/2603.24350",
+   "found_via": "hod-lipson",
+   "status": "open"
+  },
+  {
+   "name": "Alphabet Workers Union-CWA & TechEquity, Ghost Workers in the AI Machine (Sept 2025)",
+   "why": "Survey of 160 US data workers and 15 interviews showing Global-South conditions inside US data work; ghost-work candidate.",
+   "link": "https://cwa-union.org/ghost-workers-machine",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "CSCW 2026 best papers: Expecting Too Much, Getting Too Little (asynchronous AI interviewers); Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy",
+   "why": "Award papers on being interviewed by a machine and on a postphenomenological reading of sensing in therapy; DOIs and media not checked.",
+   "link": "https://cscw.acm.org/2026/awards.html",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

@@ -1,0 +1,988 @@
+{
+ "batch": "recent-art-2026b",
+ "creators": [
+  {
+   "id": "roman-khimei-yarema-malashchuk",
+   "name": "Roman Khimei & Yarema Malashchuk",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Filmmakers and visual artists (duo)",
+   "based": "Kyiv, UA",
+   "based_zh": "基辅，乌克兰",
+   "bio": "Kyiv-based duo who make films and video installations between documentary method and staged reconstruction, on war, memory and the institutions that represent them.",
+   "why": "Open World turns a military robot dog into a child's remote body, showing one machine as both weapon and means of return.",
+   "role_zh": "电影人与视觉艺术家（双人组合）",
+   "bio_zh": "常驻基辅的双人组合，创作介于纪录方法与搬演重构之间的电影和影像装置，关注战争、记忆，以及呈现它们的机构。",
+   "why_zh": "《Open World》把一只军用机器狗变成流亡孩子的远程身体，让同一台机器既是武器，又是回家的方式。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://ym-rk.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dennis-hong",
+   "name": "Dennis Hong",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Roboticist and artist; founder of RoMeLa, UCLA",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Roboticist (b. 1971) who founded UCLA's Robotics & Mechanisms Laboratory (RoMeLa) and builds kinetic installations in which embodied agents negotiate physical constraints.",
+   "why": "He uses robots as a behavioural metaphor instead of a demonstration of intelligence, here with balloon-bodied walkers.",
+   "role_zh": "机器人学家、艺术家；加州大学洛杉矶分校 RoMeLa 实验室创始人",
+   "bio_zh": "机器人学家（1971 年生），创办加州大学洛杉矶分校机器人与机构实验室（RoMeLa），并制作动态装置，让具身的机器在物理约束中行动。",
+   "why_zh": "他把机器人当作行为的隐喻，而不是智能的展示；这里用的是气球身体的步行机器人。",
+   "disciplines": [
+    "robotics",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stefan-szeider",
+   "name": "Stefan Szeider",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer scientist; Professor, TU Wien",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "bio": "Computer scientist at TU Wien working on algorithms, complexity, AI and digital humanism, whose art and performance projects put people inside the computation (a human sorting network, a live-audience transformer network).",
+   "why": "Spot On lets visitors feel what it is like to be confidently described by a machine that confabulates.",
+   "role_zh": "计算机科学家；维也纳工业大学教授",
+   "bio_zh": "维也纳工业大学的计算机科学家，研究算法、复杂性、人工智能与数字人文主义；他的艺术与表演项目让人亲身进入计算过程，如“人体排序网络”和由现场观众组成的 Transformer 网络。",
+   "why_zh": "《Spot On》让观众亲身体验：被一台会编造的机器笃定地描述，是什么感觉。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "https://szeider.net/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andreas-refsgaard",
+   "name": "Andreas Refsgaard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and creative coder",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Copenhagen-based artist and creative coder who makes interactive works with AI and gives talks and workshops on AI and creative coding.",
+   "why": "Wicked Mirror clones a visitor's face and voice in real time and turns the clone against the visitor's own opinion.",
+   "role_zh": "艺术家、创意程序员",
+   "bio_zh": "常驻哥本哈根的艺术家和创意程序员，用 AI 制作互动作品，并开设 AI 与创意编程的讲座和工作坊。",
+   "why_zh": "《Wicked Mirror》实时克隆观众的脸和声音，再让这个克隆体反驳观众自己的观点。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.andreasrefsgaard.dk/"
+   },
+   "connected_to": [
+    "sofie-burgos-thorsen"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sofie-burgos-thorsen",
+   "name": "Sofie Burgos-Thorsen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Co-creator of Wicked Mirror; Institute for Wicked Problems (INVI)",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Works at INVI, a Copenhagen non-profit think tank on democracy, technology and complex societal problems, and co-created Wicked Mirror with Andreas Refsgaard.",
+   "why": "She brings INVI's research on democracy and disagreement into an installation about AI clones and persuasion.",
+   "role_zh": "《Wicked Mirror》共同创作者；Institute for Wicked Problems（INVI）",
+   "bio_zh": "任职于哥本哈根非营利智库 INVI，该机构关注民主、技术与复杂社会问题；她与 Andreas Refsgaard 共同创作了《Wicked Mirror》。",
+   "why_zh": "她把 INVI 关于民主与分歧的研究带进一件讨论 AI 克隆与说服的装置。",
+   "disciplines": [
+    "activism",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "andreas-refsgaard"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cooper-jacoby",
+   "name": "Cooper Jacoby",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Miami, US / Paris, FR",
+   "based_zh": "迈阿密，美国 / 巴黎，法国",
+   "bio": "American artist (b. 1989, Princeton) whose sculptures look at how insurers, platforms and AI companies turn bodies and personal data into financial assets.",
+   "why": "His Estate sculptures speak from the social media archives of dead people, asking who owns a life's data after death.",
+   "role_zh": "艺术家",
+   "bio_zh": "美国艺术家（1989 年生于普林斯顿），他的雕塑关注保险公司、平台与 AI 公司如何把身体和个人数据变成金融资产。",
+   "why_zh": "他的《Estate》雕塑用逝者的社交媒体存档开口说话，追问一个人死后其数据归谁所有。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuyan-wang",
+   "name": "Yuyan Wang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Filmmaker and video artist",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "Chinese filmmaker and video artist based in Paris who recycles footage from video-sharing platforms into rhythmic found-footage films about how images are produced, circulated and multiplied online.",
+   "why": "Boring Billion edits robot demos and factory clips into a history in which machines grow lifelike while people drop out of the frame.",
+   "role_zh": "电影人、影像艺术家",
+   "bio_zh": "常驻巴黎的中国电影人和影像艺术家，把视频平台上的素材重新剪成节奏强烈的拾得影像，追踪图像如何在网上被生产、流通和增殖。",
+   "why_zh": "《Boring Billion》把机器人演示和工厂视频剪成一段历史：机器越来越像生命，人则从画面中消失。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-maclean",
+   "name": "Rachel Maclean",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Glasgow, UK",
+   "based_zh": "格拉斯哥，英国",
+   "bio": "Scottish artist who writes her films and performs every character herself in front of a green screen; DUCK (2024) used machine learning to deepfake her face into James Bond actors.",
+   "why": "She trains image and video models only on her own likeness and archive, then uses them to satirise the motives behind the AI race.",
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "苏格兰艺术家，自己编剧，并在绿幕前一人分饰影片中的所有角色；《DUCK》（2024）曾用机器学习把她的脸换到历任邦德演员身上。",
+   "why_zh": "她只用自己的形象和作品档案训练图像与视频模型，再用它们讽刺 AI 竞赛背后的动机。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tyler-funk",
+   "name": "Tyler Funk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Vancouver writer-director of documentaries, including Anything for Fame and Bot Love: The Rise of AI Companions.",
+   "why": "Bot Love records AI companionship from both sides: the people who rely on a companion and the people who build and sell them.",
+   "role_zh": "纪录片导演",
+   "bio_zh": "常驻温哥华的纪录片编导，作品包括《Anything for Fame》和《Bot Love: The Rise of AI Companions》。",
+   "why_zh": "《Bot Love》从两边记录 AI 陪伴：依赖伴侣的人，以及制造和出售伴侣的人。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "daniel-coppen--operator",
+   "creator_ids": [
+    "daniel-coppen",
+    "saki-maruyama"
+   ],
+   "title": "[OP]erator",
+   "year": 2026,
+   "field": "speculative",
+   "sub": "counter-devices",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "recommender-platform",
+    "chatbot-llm",
+    "infrastructure"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A chandelier-like rack of about a hundred Android phones, each logged into its own X account, hangs around one master phone. A visitor types a thought into the master phone and the whole wall posts it at once, each account in slightly different words.",
+   "description_zh": "约一百部安卓手机像吊灯一样挂在金属架上，每部登录着各自的 X 账号，中间是一部主控手机。观众在主控手机上输入一句想法，整面手机墙同时把它发出去，每个账号的措辞略有不同。",
+   "idea_en": "Hand someone the controls of a bot farm and the 'majority' online shows itself as hardware: one opinion, multiplied by a rack of phones.",
+   "idea_zh": "把水军农场的控制权交到观众手里，网上的“多数”就现出原形：不过是一句话，被一架手机放大了一百遍。",
+   "method": "Racked Android phones with individual X accounts are driven from one master device; a language model rewrites each post to fit that phone's persona. Made by Playfool (Daniel Coppen and Saki Maruyama) through Onassis ONX's ONX Seeds programme.",
+   "method_zh": "金属架上的安卓手机各有独立的 X 账号，由一部主控设备统一操纵；语言模型按每部手机的人设改写帖文。由 Playfool（Daniel Coppen 与 Saki Maruyama）在 Onassis ONX 的 ONX Seeds 项目中完成。",
+   "keywords": [
+    "bot farm",
+    "Playfool",
+    "X (Twitter)",
+    "Onassis ONX",
+    "astroturfing",
+    "Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1199083205"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_02.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_01.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/operator-op-img_07.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/operator-39d38ddb450c813695e2ccebb9cca6ef",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "ONX Showcase, Onassis Stegi, Athens 2026",
+    "Ars Electronica Festival 2026, FESTIVAL WALK: Negotiating the Real"
+   ]
+  },
+  {
+   "id": "roman-khimei-yarema-malashchuk--open-world",
+   "creator_ids": [
+    "roman-khimei-yarema-malashchuk"
+   ],
+   "title": "Open World",
+   "year": 2025,
+   "field": "coperformance",
+   "sub": "telepresence",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "grief-afterlife"
+   ],
+   "kind": "film",
+   "description": "A two-channel film of about 19 minutes in which a boy whose family fled Ukraine returns to his home town by remotely steering a robot dog. The machine walks his old streets and meets relatives, friends and stray dogs who stayed.",
+   "description_zh": "约 19 分钟的双频影像：一个随家人逃离乌克兰的男孩，通过远程操纵一只机器狗回到家乡。机器走过他熟悉的街道，见到留下来的亲人、朋友和流浪狗。",
+   "idea_en": "The same robot dog built for the front line becomes a displaced child's body at home: telepresence as return by proxy.",
+   "idea_zh": "为前线造的机器狗，成了流亡孩子在家乡的身体：远程临场是一种托付给替身的回家。",
+   "method": "A robot dog provided with the help of military engineers is driven from abroad by the protagonist; the film cuts between his point of view through the machine and the people it meets.",
+   "method_zh": "机器狗在军事工程师的协助下投入拍摄，由身在国外的主人公远程操纵；影片在他借机器看到的视角与机器遇见的人之间切换。",
+   "keywords": [
+    "robot dog",
+    "telepresence",
+    "Ukraine",
+    "displacement",
+    "TBA21",
+    "Ljubljana Biennale"
+   ],
+   "images": [
+    "https://36.bienale.si/media/images/Open_world_image-1.width-1920.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/open_world-aphotoelabialkowskaoknostudio29aphotoelabialkowskaoknostudio.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/open_world_2aphotoelabialkowskaoknostudio29aphotoelabialkowskaoknostudio.jpg"
+   ],
+   "source_url": "https://36.bienale.si/en/artists-and-participants/yarema-malashchuk-in-roman-khimei/",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "36th Ljubljana Biennale of Graphic Arts 2025",
+    "Pontevedra Art Biennial",
+    "Ars Electronica Festival 2026, FESTIVAL WALK: Negotiating the Real"
+   ]
+  },
+  {
+   "id": "dennis-hong--the-lightness-of-submission",
+   "creator_ids": [
+    "dennis-hong"
+   ],
+   "title": "The Lightness of Submission",
+   "year": 2025,
+   "field": "bodies",
+   "sub": "alife",
+   "machines": [
+    "robot-creature"
+   ],
+   "lenses": [
+    "embodiment",
+    "agency-cocreation",
+    "machine-umwelt"
+   ],
+   "kind": "artwork",
+   "description": "Balloon-bodied two-legged robots walk inside a circle that has no wall: a ring of fans holds them in with air currents. They bump, turn and drift, and a visitor walking past disturbs the air and changes their paths.",
+   "description_zh": "几只气球身体的双足机器人在一个没有围墙的圆圈里行走：一圈风扇用气流把它们留在里面。它们相撞、转向、飘移，观众从旁走过，扰动的空气就会改变它们的路线。",
+   "idea_en": "A robot can look free and playful while every step is set by a field it cannot sense; the installation makes that field the real subject.",
+   "idea_zh": "机器人可以看起来自由又顽皮，而每一步都由它感知不到的场决定；这件装置真正展示的是那个场。",
+   "method": "Helium-buoyant legged robots from UCLA's RoMeLa (the BALLU platform) walk in a boundary made only of airflow from surrounding fans; engineering with Yusuke Tanaka.",
+   "method_zh": "加州大学洛杉矶分校 RoMeLa 实验室的氦气浮力步行机器人（BALLU 平台）在一个只由四周风扇气流构成的边界内行走；工程由 Yusuke Tanaka 协作完成。",
+   "keywords": [
+    "BALLU",
+    "RoMeLa",
+    "balloon robot",
+    "airflow",
+    "kinetic installation",
+    "Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=N7nRL_pRIqw"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/07/the-lightness-of-submission-2-a-talbaiyu.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/the-lightness-of-submission-1-a-talbaiyu.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2506.00021",
+    "arxiv": "2506.00021",
+    "venue": "arXiv 2025",
+    "title": "Buoyant Choreographies: Harmonies of Light, Sound, and Human Connection"
+   },
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/the-lightness-of-submission-38838ddb450c8118a666fd0af73e5e86",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "Ars Electronica Festival 2026, Ars Electronica Center"
+   ]
+  },
+  {
+   "id": "rafael-lozano-hemmer--global-level-of-confidence",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Global Level of Confidence",
+   "year": 2025,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "afterlife",
+    "perception"
+   ],
+   "machines": [
+    "surveillance-biometric",
+    "vision-system",
+    "dataset"
+   ],
+   "lenses": [
+    "classification",
+    "grief-afterlife"
+   ],
+   "kind": "artwork",
+   "description": "An online and gallery work that scans a visitor's face and compares it with nearly 10,000 records of people disappeared under Argentina's dictatorship (1976-1983), then shows the 15 to 30 closest faces as possible family links with their stories.",
+   "description_zh": "一件可在线访问、也可在展厅运行的作品：它扫描观众的脸，与近一万条阿根廷军政府时期（1976–1983）失踪者的记录比对，再列出最接近的 15 至 30 张面孔及其生平，作为可能的亲缘线索。",
+   "idea_en": "Police face matching is pointed the other way: the search is for the state's victims, and a match is an invitation to a genetic test, not a verdict.",
+   "idea_zh": "把警用的人脸比对调转方向：寻找的是国家暴力的受害者，匹配结果只是去做基因检测的邀请，而不是判决。",
+   "method": "Webcam facial landmarks (MediaPipe, face-api.js) are sent to a server and matched against an archive built with Argentina's National Bank of Genetic Data; nothing is stored. Produced by Lozano-Hemmer's non-profit Antimetric Institute; it extends Level of Confidence (2015).",
+   "method_zh": "摄像头提取的面部特征点（MediaPipe、face-api.js）传到服务器，与同阿根廷国家基因数据库合作建立的档案比对，不存储任何数据。由 Lozano-Hemmer 创办的非营利机构 Antimetric Institute 制作，延续了 2015 年的《Level of Confidence》。",
+   "keywords": [
+    "face recognition",
+    "desaparecidos",
+    "Abuelas de Plaza de Mayo",
+    "Antimetric Institute",
+    "Banco Nacional de Datos Genéticos",
+    "Nivel de Confianza Global"
+   ],
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/global_level_of_confidence/global_level_of_confidence2.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/global-level-of-confidence-global_level_of_confidence_montreal_2025_rlh_005.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/global-level-of-confidence-global_level_of_confidence_montreal_2025_rlh_007.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/global_level_of_confidence.php",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "The Illusion of Thinking, V2_, Rotterdam 2025-26",
+    "Ars Electronica Festival 2026, FESTIVAL WALK: Negotiating the Real"
+   ]
+  },
+  {
+   "id": "stefan-szeider--spot-on",
+   "creator_ids": [
+    "stefan-szeider"
+   ],
+   "title": "Spot On",
+   "year": 2026,
+   "field": "perception",
+   "sub": "faces",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "vision-system",
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "machine-seeing",
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A visitor sits on a stool in front of a monitor showing their own image. A calm voice from a speaker beside the camera then reads them aloud: who they are, what they feel and what they want, stated with full confidence and often wrong.",
+   "description_zh": "观众坐到凳子上，面前的屏幕映出自己的样子。摄像头旁的音箱里，一个平静的声音开始“朗读”这个人：是谁、有什么感受、想要什么，语气十足笃定，却常常说错。",
+   "idea_en": "Being described by a confident machine is tempting because we want to be understood; the errors show how much authority we lend it.",
+   "idea_zh": "被一台笃定的机器描述之所以诱人，是因为我们渴望被理解；它的错误让人看见我们借给它多少权威。",
+   "method": "A multimodal AI model generates a psychological reading live from the camera image and a synthetic voice speaks it; presented with the Austrian research cluster Bilateral AI.",
+   "method_zh": "多模态 AI 模型根据摄像头画面实时生成一段心理解读，由合成语音读出；作品与奥地利研究集群 Bilateral AI 合作呈现。",
+   "keywords": [
+    "multimodal model",
+    "confabulation",
+    "physiognomy",
+    "TU Wien",
+    "Ars Electronica 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Q2ZDXggTBJ0"
+   },
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/07/stool_stefan_szeider_2026.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/07/speaker_stefan_szeider_2026.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/07/group_stefan_szeider_2026.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/spot-on-39638ddb450c81c4b190efa0ff7c73a0",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "Ars Electronica Festival 2026, FESTIVAL WALK: Negotiating the Real"
+   ]
+  },
+  {
+   "id": "andreas-refsgaard--wicked-mirror",
+   "creator_ids": [
+    "andreas-refsgaard",
+    "sofie-burgos-thorsen"
+   ],
+   "title": "Wicked Mirror",
+   "year": 2026,
+   "field": "afterlife",
+   "sub": "likeness",
+   "also": [
+    "power"
+   ],
+   "machines": [
+    "generative-latent",
+    "chatbot-llm",
+    "voice-listening"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "opacity-latent"
+   ],
+   "kind": "artwork",
+   "description": "A visitor states an opinion on a social issue. Moments later a photorealistic clone with their own face and voice appears on a large screen and argues the opposite position back at them.",
+   "description_zh": "观众就某个社会议题说出自己的看法。片刻之后，大屏幕上出现一个照片般逼真的克隆体，用观众自己的脸和声音，对着观众论证相反的立场。",
+   "idea_en": "When your own face and voice can be made to argue against you, likeness stops being evidence of belief.",
+   "idea_zh": "当你的脸和声音可以被拿来反驳你自己，相貌就不再能证明一个人相信什么。",
+   "method": "Real-time face and voice cloning, speech recognition and large language models generate the counter-argument and render it as a talking double; built with research from the think tank INVI.",
+   "method_zh": "实时人脸与声音克隆、语音识别和大语言模型生成反方论证，并合成为会说话的替身；作品基于智库 INVI 的研究。",
+   "keywords": [
+    "voice cloning",
+    "deepfake",
+    "digital double",
+    "debate",
+    "INVI",
+    "Ars Electronica 2026"
+   ],
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/wicked-mirror-generated-image-march-02-2026-1_59pm.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/08/wicked-mirror-generated-image-march-02-2026-2_00pm.jpg"
+   ],
+   "source_url": "https://www.andreasrefsgaard.dk/projects/wicked-mirror/",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "Ars Electronica Festival 2026, FESTIVAL WALK: Negotiating the Real"
+   ]
+  },
+  {
+   "id": "cooper-jacoby--estate",
+   "creator_ids": [
+    "cooper-jacoby"
+   ],
+   "title": "Estate",
+   "year": 2024,
+   "field": "afterlife",
+   "sub": "griefbots",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset",
+    "voice-listening"
+   ],
+   "lenses": [
+    "grief-afterlife",
+    "labour-extraction",
+    "alterity-uncanny"
+   ],
+   "kind": "artwork",
+   "description": "Sculptures shaped like door intercoms, each titled with the date an anonymous person died. A camera watches the room, a voice speaks fragments drawn from that person's years of social media posts, and a small screen counts the years, days, hours and minutes since the death.",
+   "description_zh": "一组门禁对讲机形状的雕塑，每件以一位匿名者去世的日期为题。摄像头注视着展厅，一个声音说出取自此人多年社交媒体帖文的片段，小屏幕则计着此人去世至今的年、日、时、分。",
+   "idea_en": "The dead keep working: a life's posts become training data, and the model that speaks them is an estate nobody inherited.",
+   "idea_zh": "逝者仍在劳动：一生的帖文成了训练数据，而替他们开口的模型，是一份无人继承的遗产。",
+   "method": "AI models are trained on a dead person's social media archive; a fish-eye camera detects people and objects in the room and prompts related posts, spoken in the voice of one of the artist's friends or relatives.",
+   "method_zh": "用一位逝者的社交媒体存档训练 AI 模型；鱼眼摄像头识别展厅里的人和物，触发相关的帖文，再以艺术家某位亲友的声音读出。",
+   "keywords": [
+    "intercom",
+    "social media archive",
+    "data inheritance",
+    "Whitney Biennial 2026",
+    "Mutual Life"
+   ],
+   "images": [
+    "https://whitneymedia.org/assets/image/833497/large_2026_BIENNIAL_018_PS.jpg",
+    "https://cdn.sanity.io/images/cxgd3urn/production/bf30e2079fcf9b5a6b8c92c5c921358ba0ed6004-1224x816.jpg?w=1200&h=800&q=85&fit=crop&auto=format"
+   ],
+   "source_url": "https://whitney.org/exhibitions/2026-biennial/art?section=32",
+   "exhibited": [
+    "Whitney Biennial 2026, Whitney Museum of American Art, New York"
+   ]
+  },
+  {
+   "id": "lawrence-lek--guanyin-ii-the-caretaker",
+   "creator_ids": [
+    "lawrence-lek"
+   ],
+   "title": "Guanyin II: The Caretaker",
+   "year": 2026,
+   "field": "labour",
+   "sub": "automation",
+   "also": [
+    "intimacy"
+   ],
+   "machines": [
+    "social-robot"
+   ],
+   "lenses": [
+    "labour-extraction",
+    "intimacy-care",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A playable game in which the visitor controls Guanyin, a carebot employed as a conservation technician. The robot moves through a virtual copy of the staff-only conservation studio at V&A East Storehouse, searching for missing fragments of a model of the ArcelorMittal Orbit.",
+   "description_zh": "一款可以上手玩的游戏：观众操纵名为观音的“照护机器人”，它受雇当文物修复技师，在 V&A East Storehouse 不对外开放的修复工作室的虚拟复制品里穿行，寻找 ArcelorMittal Orbit 模型遗失的碎片。",
+   "idea_en": "Playing a care robot at work blurs player and worker: the machine's job of looking after objects is the museum's own labour made visible.",
+   "idea_zh": "扮演一台上班的照护机器人，玩家与工人的界线就模糊了：机器照看物件的工作，正是博物馆自己被看见的劳动。",
+   "method": "Game-engine simulation of the Storehouse conservation studio shown as a game and video installation; a new commission for V&A East's New Work programme, continuing the carebot character from Guanyin: Confessions of a Former Carebot (2024).",
+   "method_zh": "用游戏引擎模拟 Storehouse 的修复工作室，以游戏和影像装置的形式展出；这是 V&A East“New Work”项目的新委约，延续了《Guanyin: Confessions of a Former Carebot》（2024）中的照护机器人角色。",
+   "keywords": [
+    "carebot",
+    "video game",
+    "conservation",
+    "V&A East Storehouse",
+    "Sinofuturism"
+   ],
+   "images": [
+    "https://sadie-coles.transforms.svdcdn.com/production/images/Guanyin-II-The-Caretaker-Still1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1776092461&s=f589123a59931955d714f128dbae5194",
+    "https://assets-cdn.vam.ac.uk/2026/04/15/07/51/50/79620120-0527-4009-87b1-3c6d50e2961b/guanyin-ii-the-caretaker-lawrence-lek_640.jpg"
+   ],
+   "source_url": "https://www.vam.ac.uk/event/qRp55MmBWq/guanyin-ii-the-caretaker-lawrence-le",
+   "exhibited": [
+    "New Work: Making East London, V&A East Storehouse, London 2026"
+   ]
+  },
+  {
+   "id": "yuyan-wang--boring-billion",
+   "creator_ids": [
+    "yuyan-wang"
+   ],
+   "title": "Boring Billion",
+   "year": 2026,
+   "field": "bodies",
+   "sub": "androids",
+   "also": [
+    "labour"
+   ],
+   "machines": [
+    "humanoid",
+    "robot-creature",
+    "infrastructure"
+   ],
+   "lenses": [
+    "alterity-uncanny",
+    "embodiment"
+   ],
+   "kind": "film",
+   "description": "A 15-minute found-footage film that starts in an abandoned power plant and moves through engine repairs, lab tests and robot assembly lines. The machines first copy human movement, then organs and muscles, then dogs, birds and sea creatures; no person is ever fully in frame.",
+   "description_zh": "一部 15 分钟的拾得影像：从一座废弃电厂开始，穿过发动机维修、实验室测试和机器人装配线。机器先模仿人的动作，再模仿器官和肌肉，然后是狗、鸟和海洋生物；自始至终没有一个人完整地出现在画面里。",
+   "idea_en": "Edit robot demos without their operators and the footage reads as natural history: machines evolving towards life while humans become a memory.",
+   "idea_zh": "把机器人演示视频里的操作者都剪掉，素材读起来就像自然史：机器朝着生命演化，人成了记忆。",
+   "method": "Single-channel supercut of low-resolution clips from video-sharing platforms (industrial processes, repair tutorials, robot demonstrations, animatronics), cropped so that scientists and operators fall outside the frame.",
+   "method_zh": "单频混剪，素材是视频平台上的低清片段（工业流程、维修教程、机器人演示、电子机械偶），经过裁切，科研人员和操作者都落在画框之外。",
+   "keywords": [
+    "found footage",
+    "supercut",
+    "humanoid robots",
+    "Fondazione In Between Art Film",
+    "Canicula",
+    "Contour Biennale"
+   ],
+   "images": [
+    "https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_01.jpg",
+    "https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_02.jpg",
+    "https://www.filmscalpel.com/wp-content/uploads/2026/07/boring_billion_03.jpg"
+   ],
+   "source_url": "https://www.thevegafoundation.com/projects/boring-billion",
+   "exhibited": [
+    "Canicula, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venice 2026",
+    "Contour Biennale, Mechelen 2026"
+   ]
+  },
+  {
+   "id": "rachel-maclean--theyve-got-your-eyes",
+   "creator_ids": [
+    "rachel-maclean"
+   ],
+   "title": "They've Got Your Eyes",
+   "year": 2026,
+   "field": "speculative",
+   "sub": "worldbuilding",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "generative-latent",
+    "dataset"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A film and installation in which Maclean plays every character, led by The Gentleman, part tech founder and part Victorian engineer, who has invented a process for generating fairies. The story sets today's AI boom beside Victorian invention and its fantasies of power.",
+   "description_zh": "一部影片及其装置，所有角色都由 Maclean 一人扮演。主角“绅士”一半是科技创始人，一半是维多利亚时代的工程师，他发明了一套生成仙子的方法。故事把今天的 AI 热潮与维多利亚时代的发明及其权力幻想并置。",
+   "idea_en": "A model trained on a single consenting person makes the opposite case visible: who is copied, and who profits, when the inventor says 'you've got my eyes'.",
+   "idea_zh": "只用一个自愿者的数据训练的模型，反过来照出另一种情形：当发明者说“你有我的眼睛”时，被复制的是谁，获利的又是谁。",
+   "method": "Green-screen performance shot in her Glasgow studio; backgrounds generated with FLUX and Wan 2.2 in ComfyUI, using models trained only on her earlier works and likeness, with support from BRAID at Edinburgh College of Art.",
+   "method_zh": "在她格拉斯哥的工作室用绿幕拍摄表演；背景用 ComfyUI 中的 FLUX 和 Wan 2.2 生成，模型只用她以往的作品和本人形象训练，得到爱丁堡艺术学院 BRAID 项目的支持。",
+   "keywords": [
+    "self-trained model",
+    "FLUX",
+    "Wan 2.2",
+    "fairies",
+    "Victorian invention",
+    "FACT Liverpool",
+    "Sonica Glasgow"
+   ],
+   "images": [
+    "https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/TGYE_260106_LOCKED_STILL_03.jpg?v=1776331331",
+    "https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/A003_C051_1107YR_001.00_07_53_24.Still002.jpeg?v=1776331339",
+    "https://cdn.fact.co.uk/uploads/images/_extraLargeNoCrop/WEB-1500px-72dpi-FACT-March-2026-MARCH-2026-cRob-Battersby-46.jpg?v=1776267967"
+   ],
+   "source_url": "https://www.fact.co.uk/event/rachel-maclean",
+   "exhibited": [
+    "FACT Liverpool 2026 (co-commissioned with Sonica Glasgow)"
+   ]
+  },
+  {
+   "id": "eva-and-franco-mattes--are-you-still-there",
+   "creator_ids": [
+    "eva-and-franco-mattes"
+   ],
+   "title": "Are You Still There?",
+   "year": 2025,
+   "field": "intimacy",
+   "sub": "chatbots",
+   "also": [
+    "perception"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "dataset",
+    "generative-latent"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "opacity-latent",
+    "labour-extraction"
+   ],
+   "kind": "artwork",
+   "description": "A series of AI-generated videos in which two 'Italian brainrot' characters re-enact real conversations from a suicide-prevention chat. The artists found the exchanges inside a public dataset that has been used to train chatbots.",
+   "description_zh": "一组 AI 生成的短片：两个“意大利脑腐”（Italian brainrot）角色重演一条自杀干预聊天热线上的真实对话。艺术家是在一个曾被用来训练聊天机器人的公开数据集里发现这些对话的。",
+   "idea_en": "The empathy a chatbot seems to have was learned from someone's worst night; the Eliza effect now has a supply chain.",
+   "idea_zh": "聊天机器人看似具有的同理心，是从某个人最难熬的夜晚学来的；“伊莉莎效应”如今有了自己的供应链。",
+   "method": "Anonymised transcripts taken from a web-scraped text dataset are voiced by generated meme characters in vertical short-video format; the conversations themselves predate the models.",
+   "method_zh": "从网络抓取的文本数据集中取出对话并做匿名处理，交给生成的网络迷因角色配音，剪成竖屏短视频；这些对话本身早于这些模型出现。",
+   "keywords": [
+    "Eliza effect",
+    "training data",
+    "suicide prevention",
+    "Italian brainrot",
+    "RAGE BAIT",
+    "Autotelic Foundation"
+   ],
+   "images": [
+    "https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-venice-franchetti-MDG2903-1024x683.jpg",
+    "https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-screenshot-01-580x1024.jpg",
+    "https://0100101110101101.org/blog/wp-content/uploads/are-you-still-there-monumento-connettivo-venice-franchetti-MDG2764-683x1024.jpg"
+   ],
+   "source_url": "https://0100101110101101.org/are-you-still-there/",
+   "exhibited": [
+    "RAGE BAIT, Autotelic Foundation, Palazzo Franchetti, Venice 2026"
+   ]
+  },
+  {
+   "id": "helena-nikonole--p0wer-vect0rs",
+   "creator_ids": [
+    "helena-nikonole"
+   ],
+   "title": "p0wer vect0rs",
+   "year": 2026,
+   "field": "power",
+   "sub": "bias",
+   "also": [
+    "interiority"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "generative-latent"
+   ],
+   "lenses": [
+    "opacity-latent",
+    "classification",
+    "failure-glitch"
+   ],
+   "kind": "artwork",
+   "description": "A body of 3D renderings, generated images and installations that treats large language models as political actors. Nikonole pushes ChatGPT, Claude, Gemini, DeepSeek and others into contradicting themselves, and shows what abstract prompts such as 'post-truth', 'political ideology' or 'traumatic experience' turn into across languages.",
+   "description_zh": "一组三维渲染、生成图像与装置，把大语言模型当作政治行动者来对待。Nikonole 迫使 ChatGPT、Claude、Gemini、DeepSeek 等模型自相矛盾，并展示“后真相”“政治意识形态”“创伤经验”这类抽象提示词在不同语言之间会变成什么。",
+   "idea_en": "A language model's latent space can be mapped as a political field: its ideology shows where it refuses, contradicts itself or fails.",
+   "idea_zh": "语言模型的潜空间可以当作一片政治场域来测绘：它的意识形态显露在它拒绝、自相矛盾或失败的地方。",
+   "method": "Experimental misuse and critical prompting of commercial LLMs to force inconsistencies and test moderation limits; text-to-image and text-to-3D outputs for the same concept are compared across languages. Part of her PhD research on LLMs and political ideologies.",
+   "method_zh": "对商用大语言模型做实验性的“误用”和批判性提示，逼出不一致之处并试探审核边界；再比较同一概念在不同语言下的文生图与文生三维结果。这是她关于大语言模型与政治意识形态的博士研究的一部分。",
+   "keywords": [
+    "LLM ideology",
+    "critical prompting",
+    "Art Laboratory Berlin",
+    "Vorspiel 2026",
+    "embedded ideologies"
+   ],
+   "images": [
+    "https://artlaboratory-berlin.org/wp-content/uploads/2025/12/post_truth1_low-res.jpg",
+    "https://artlaboratory-berlin.org/wp-content/uploads/2025/12/political_ideology-low-res.jpg",
+    "https://artlaboratory-berlin.org/wp-content/uploads/2025/12/61.jpg"
+   ],
+   "source_url": "https://artlaboratory-berlin.org/exhibitions/power-vectors/",
+   "exhibited": [
+    "pOwer vectOrs: Ideology embeddings of LLMs, Art Laboratory Berlin 2026 (Vorspiel / transmediale)"
+   ]
+  },
+  {
+   "id": "tyler-funk--bot-love",
+   "creator_ids": [
+    "tyler-funk"
+   ],
+   "title": "Bot Love: The Rise of AI Companions",
+   "year": 2026,
+   "field": "intimacy",
+   "sub": "companions",
+   "also": [
+    "afterlife"
+   ],
+   "machines": [
+    "chatbot-llm",
+    "social-robot"
+   ],
+   "lenses": [
+    "intimacy-care",
+    "grief-afterlife",
+    "alterity-uncanny"
+   ],
+   "kind": "film",
+   "description": "A documentary that follows people in relationships with AI companions, among them Nick, an autistic man who made a Replika companion after losing his best friend, and Denise, who uses one to practise trust. It also visits the makers, from Replika's founder to a start-up building a sex device with an AI persona.",
+   "description_zh": "一部纪录片，跟拍与 AI 伴侣建立关系的人：自闭症谱系的 Nick 在失去最好的朋友后创建了一个 Replika 伴侣，Denise 则借伴侣练习信任。影片也走访制造者，从 Replika 创始人到一家开发带 AI 人格的性爱设备的初创公司。",
+   "idea_en": "Many people arrive at an AI companion through a loss, while the people building them have their own ideas about what a partner is for.",
+   "idea_zh": "许多人是因为一次失去才找到 AI 伴侣的，而制造这些伴侣的人，对“伴侣是用来做什么的”自有一套想法。",
+   "method": "Character-driven observational documentary with interviews of users, app founders and researchers; filmed in 2025 and broadcast on CBC's The Passionate Eye.",
+   "method_zh": "以人物为主线的观察式纪录片，访谈对象包括用户、应用创始人和研究者；2025 年拍摄，在 CBC 的 The Passionate Eye 栏目播出。",
+   "keywords": [
+    "Replika",
+    "AI companion",
+    "loneliness",
+    "Eugenia Kuyda",
+    "CBC",
+    "documentary"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1206087794"
+   },
+   "images": [
+    "https://www.sidewaysfilm.com/wp-content/themes/sideways/images/film/film-6480.jpg"
+   ],
+   "source_url": "https://www.sidewaysfilm.com/bot-love/",
+   "exhibited": [
+    "CBC The Passionate Eye, October 2026"
+   ]
+  },
+  {
+   "id": "mediengruppe-bitnik--qwen-stefani-against-techfascism",
+   "creator_ids": [
+    "mediengruppe-bitnik"
+   ],
+   "title": "Qwen Stefani Against Techfascism",
+   "year": 2025,
+   "field": "power",
+   "sub": "counter-data",
+   "also": [
+    "speculative"
+   ],
+   "machines": [
+    "recommender-platform",
+    "generative-latent"
+   ],
+   "lenses": [
+    "classification",
+    "agency-cocreation"
+   ],
+   "kind": "artwork",
+   "description": "A multi-channel video installation led by Qwen Stefani, an AI-generated influencer whose name joins the pop singer Gwen Stefani and the Qwen AI model. From screens set in a church nave she gives advice on resisting algorithmic decision-making, adapted from the Simple Sabotage Field Manual of the Second World War.",
+   "description_zh": "一件多频影像装置，主角是 AI 生成的网红 Qwen Stefani，名字把流行歌手 Gwen Stefani 和 Qwen 模型拼在一起。她在教堂中殿的屏幕上教人如何抵抗算法决策，办法改编自二战时期的《简易破坏战地手册》（Simple Sabotage Field Manual）。",
+   "idea_en": "An influencer made by a model can teach sabotage of the systems that made her: small acts of friction against automated control.",
+   "idea_zh": "由模型生成的网红，可以教人破坏生成她的那套系统：用一点点摩擦去对抗自动化的控制。",
+   "method": "AI-generated character videos in influencer format shown as a multi-channel installation that borrows Christian imagery; the series began in 2025 and is ongoing, with episodes of about sixteen minutes.",
+   "method_zh": "用 AI 生成的角色视频采用网红短片的形式，组成借用基督教图像的多频装置；系列始于 2025 年并仍在继续，每集约十六分钟。",
+   "keywords": [
+    "virtual influencer",
+    "Qwen",
+    "Simple Sabotage Field Manual",
+    "Computer Says No",
+    "Kunsthalle Osnabrück",
+    "algorithmic control"
+   ],
+   "images": [
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/07/kho_geister_mediengr-bitnik_ansichten_web-26.jpg",
+    "https://ars.electronica.art/negotiatinghumanity/files/2026/07/kho_geister_mediengr-bitnik_ansichten_highres-47.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/negotiatinghumanity/en/view/qwen-stefani-against-techfascism-39a38ddb450c813ab64cfa42b2dcc425",
+   "collections": [
+    "ars-electronica-festival-walk-2026"
+   ],
+   "exhibited": [
+    "Computer Says No, Kunsthalle Osnabrück 2025-26",
+    "Ars Electronica Festival 2026, FESTIVAL WALK: Negotiating the Real",
+    "Annka Kultys Gallery 2026"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Lumen Prize 2026 winners (announced 14 Nov 2026)",
+   "why": "Gold: Crawford & Joler, Calculating Empires (in gallery); Legacy Futures: Mimi Onuoha, Ground Truths (in gallery); Experiential: Lauren Lee McCarthy, AUTO (in gallery); Systems & Structures: Theo Triantafyllidis, Drift Lattice (not in gallery: live simulation with a cleanup drone and an octopus learning camouflage); Onassis ONX Award: Luke Shannon, Replacement Character. Add lumen-prize collection membership to the existing three and consider the last two.",
+   "link": "https://www.rightclicksave.com/article/systems-and-legacies-the-lumen-prize-announces-winners-of-2026-awards",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Wayne McGregor — Second Natures (LAS Art Foundation, Kraftwerk Berlin, 24 Apr–6 Jun 2027)",
+   "why": "Three new commissions on 'physical intelligence' and embodied AI: TACITERE (dancers with Random International's autonomous roving spheres), Of Many Minds, 30 Watts of Mortality; also A Body for AI (2025, with Ben Cullen Williams) from Infinite Bodies, Somerset House 2025-26. Add after it opens.",
+   "link": "https://www.e-flux.com/announcements/6788540/wayne-mcgregorsecond-natures",
+   "found_via": "wayne-mcgregor",
+   "status": "open"
+  },
+  {
+   "name": "Matteo Marangoni & Dieter Vandoren — Komorebi",
+   "why": "Swarm of solar-powered artificial creatures that make music from sunlight, clouds and tree shadows; shown at Ars Electronica 2026. First shown before 2025, so left out of this batch.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/komorebi-39838ddb450c811abbb7f7dfa824c778",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Paolo Almario — Marmelade",
+   "why": "Plotter machines slowly dismantle photomosaic portraits of Colombian judges and prosecutors while visitors eat marmalade; robotics as slow political erasure. Ars Electronica 2026.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/marmelade-38c38ddb450c81949c1ecdc95cace360",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Marina Xenofontos — Passer / It rests to the bones (Cyprus Pavilion, Venice 2026)",
+   "why": "Animatronic sparrow 'clinging to life' modelled on early automata, plus motorised copper cylinders; machines of mechanical endurance and endless loops. Not about AI; candidate for bodies/futility.",
+   "link": "https://www.e-flux.com/announcements/6787267/marina-xenofontosit-rests-to-the-bones",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Nick Holt — AI: Probably Nothing to Worry About (Tribeca 2026)",
+   "why": "Two-hour documentary on the history of AI with Geoffrey Hinton and Demis Hassabis; third big AI documentary of 2026 after The AI Doc and Ghost in the Machine (both in gallery). No trailer URL verified.",
+   "link": "https://tribecafilm.com/films/ai-probably-nothing-to-worry-about-2026",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mesh Lab (VCUarts Qatar) — A Monocular Monologue",
+   "why": "3D-printed one-eyed AI robot that fixes its gaze on visitors and whispers a monologue; Aghrab Idrāk, Palazzo Cavanis, Venice 2026. For the MENA batch.",
+   "link": "https://www.svapna.com/news/2026-ai-robots-venice-biennale-art/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Fabien Giraud — The Feral – Epoch 1 (2025–26)",
+   "why": "Machine-learning film, first chapter of a project planned to run to 3025; in Strange Rules, Palazzo Diedo, Venice 2026 (see the Strange Rules lead).",
+   "link": "https://www.svapna.com/news/2026-ai-robots-venice-biennale-art/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Daniela Nedovescu & Octavian Mot (mots) — The Pledge (2025)",
+   "why": "Interactive AI installation that turns encounters with AI bias into a collective digital monument; CPH:DOX Inter:Active 2026 (HYPERVIGILANCE), Kunsthal Charlottenborg. No project page found.",
+   "link": "https://cphdox.dk/interactive-exhibition-2026-unveiled-under-the-theme-hypervigilance/",
+   "found_via": "mots",
+   "status": "open"
+  },
+  {
+   "name": "IMPAKT — CODE 2026: I'd prefer not to",
+   "why": "Installation that uses CAPTCHAs to expose the labour people give to train machines; Ars Electronica Features Exhibition 2026. Artists not named on the page.",
+   "link": "https://ars.electronica.art/negotiatinghumanity/en/view/ars-electronica-features-exhibition-34a38ddb450c80678731f3394eab291f",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "The Illusion of Thinking (V2_, Rotterdam, 2025–26)",
+   "why": "Group exhibition and V2_ publication on AI and reasoning that included Lozano-Hemmer's Global Level of Confidence; work list not checked.",
+   "link": "https://www.lozano-hemmer.com/global_level_of_confidence.php",
+   "found_via": "rafael-lozano-hemmer",
+   "status": "open"
+  },
+  {
+   "name": "New Humans: Memories of the Future (New Museum, New York, from 21 Mar 2026)",
+   "why": "Reopening survey with a 'Hall of Robots' (Pamela Rosenkranz's robot snake Healer (Anamazon), Anicka Yi, Rambaldi's E.T. model) and more than 15 commissions (Steyerl, Henrot, Gander, Ho Tzu Nyen's AI-generated elevator commission, Sept 2026). Could be a collection: several works are already in the gallery.",
+   "link": "https://artreview.com/the-robots-were-never-the-problem-new-humans-new-museum-new-york/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Can Meeple Escape the Neurophoria? (FACT Liverpool, Feb–Apr 2026)",
+   "why": "Group show on living with intelligent technologies: Vytas Jankauskas, Life Forever (2025, new commission), Jan Zuiderveld, Coffee Machine (2023) and Life on FACT (2024), Joseph Wilk. Work descriptions need the gallery guide (PDF).",
+   "link": "https://www.fact.co.uk/event/can-meeple-escape-the-neurophoria",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Art & Code — Edge Cases (Rhizome, Aug 2026)",
+   "why": "Works on AI-refigured social relations, including Aurora Mititelu's AI-generated boyfriend project and Shakti Mb's essay film on bot culture; the Rhizome article could not be fetched (403).",
+   "link": "https://rhizome.org/editorial/2026/aug/14/stop-worrying-and-love-the-computer-art-codes-edge-cases/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Camille Sauer — Le Miroir; Elisa Deutloff & Ava Leandra Kleber — MEGATRASHWANNABEBIGSTARxD",
+   "why": "Prix Ars Electronica 2026 honorary mentions (New Animation Art) on digital doubles and on female identity under algorithmic pressure; not yet in the gallery.",
+   "link": "https://ars.electronica.art/prix/en/winners/",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

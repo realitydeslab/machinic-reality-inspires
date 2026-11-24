@@ -1,0 +1,66 @@
+{
+ "anthropic--emotion-concepts": {
+  "zh": "大语言模型中的情绪概念及其功能",
+  "src": "translated"
+ },
+ "anthropic--persona-selection-model": {
+  "zh": "人格选择模型：AI 助手为什么可能表现得像人",
+  "src": "translated"
+ },
+ "anthropic--welfare-regard-multi-agent": {
+  "zh": "多智能体系统中的福利顾及",
+  "src": "translated"
+ },
+ "anthropic--project-vend": {
+  "zh": "Project Vend：Claude 能经营一家小店吗？",
+  "src": "translated"
+ },
+ "anthropic--project-deal": {
+  "zh": "Project Deal",
+  "src": "keep"
+ },
+ "anthropic--claudes-constitution": {
+  "zh": "Claude 的宪法",
+  "src": "translated"
+ },
+ "center-for-ai-safety--ai-wellbeing": {
+  "zh": "AI 福祉：测量并改善 AI 的功能性快乐与痛苦",
+  "src": "translated"
+ },
+ "yunze-xiao--ai-welfare-is-bullshit": {
+  "zh": "立场：AI 福利是胡扯",
+  "src": "translated"
+ },
+ "adam-bales--artificial-minds-human-disagreement": {
+  "zh": "人工心智，人类分歧：AI 意识的政治挑战",
+  "src": "translated"
+ },
+ "saber-zerhoudi--form-without-function": {
+  "zh": "有形式而无功能：Moltbook 网络中智能体的社交行为",
+  "src": "translated"
+ },
+ "jared-moore--delusional-spirals": {
+  "zh": "从人与大语言模型的聊天记录刻画妄想螺旋",
+  "src": "translated"
+ },
+ "huiqian-lai--keep4o-backlash": {
+  "zh": "“求你们别杀掉唯一还有人味的模型”：理解 #Keep4o 抗议",
+  "src": "translated"
+ },
+ "rachel-poonsiriwong--death-of-a-chatbot": {
+  "zh": "聊天机器人之“死”：研究并设计人机关系中心理安全的结局",
+  "src": "translated"
+ },
+ "patrick-yung-kang-lee--large-language-lovers": {
+  "zh": "大语言恋人：在 AI 陪伴中协商能动性与平台控制的亲身经验",
+  "src": "translated"
+ },
+ "daehwa-kim--oats": {
+  "zh": "OATs：物件—智能体孪生",
+  "src": "translated"
+ },
+ "blaise-aguera-y-arcas--what-is-intelligence": {
+  "zh": "什么是智能？AI 给演化、计算与心智带来的启示",
+  "src": "translated"
+ }
+}
