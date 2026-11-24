@@ -20,6 +20,7 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` (inclus
 4. **Write** `data/raw/add-<creator-id>.json` with creators (with `disciplines`, `name_zh` if any), works (field / sub / machines / lenses / kind from the taxonomy, English + Chinese text), leads.
    If the person should also appear in **Resources & Links**, add a record to `data/orgs/add-<creator-id>.json` (see SCHEMA → Resource) with `creator_id`.
    Chinese titles for the new works: `data/title_zh/add-<creator-id>.json` (see SCHEMA → Chinese titles).
+   So the new works show in the **What's New** tab, add the batch name to `data/updates.json` (a new record for a research update, or the latest record's `batches` for a single addition; see SCHEMA → Updates).
 5. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` (and `python3 tools/validate_orgs.py --all`) until ✓.
 6. **Build.** `python3 tools/build_data.py`. Check `data/dropped.json` (dead media, DOI title mismatches) and fix what is yours.
 7. **Preview** (optional): `./serve.sh`, open `http://localhost:8932/#view=works&q=<name>`.

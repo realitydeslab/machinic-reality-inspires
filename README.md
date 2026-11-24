@@ -7,6 +7,7 @@ What is it like to be a machine? A bilingual (English / 中文) gallery of the m
 ## What's inside
 
 - **Atlas**: the ten fields and their sub-categories at a glance, the twelve lenses, and collections.
+- **What's New**: the works added in each content update, latest first.
 - **Ten field views**, each grouped by sub-category:
   - Machine Perception: seeing machines & operational images, listening machines & voice, datasets & labels, faces & biometrics, adversarial seeing & evasion.
   - Machine Bodies & Behaviour: cybernetic creatures, artificial life & collectives, industrial arms & choreography, androids & the uncanny, robotic sculpture, misbehaving machines, soft & "living" machines.
@@ -62,6 +63,7 @@ Open this folder in [Claude Code](https://claude.com/claude-code) and run:
 |---|---|
 | `data/taxonomy.json` | Fields and sub-categories, machines, lenses, work types, collections, disciplines, resource types |
 | `data/raw/*.json` | Research batches: creators, works, leads |
+| `data/updates.json` | Content updates shown in the What's New tab: date, bilingual name and description, and the batches each one added |
 | `data/orgs/*.json` | Resources & Links: people, institutions, websites |
 | `data/collections/*.json` | Extra members of a collection (lists of work ids); `defs/` adds collections |
 | `data/lens/*.json`, `data/discipline/*.json` | Optional re-classification passes (override lenses / disciplines) |
@@ -83,6 +85,7 @@ Images and videos are linked from the artists, museums, labs and publishers and 
 成为一台机器，是什么感觉？这是一个中英双语作品库，收录**反思 AI 与机器**的代表性艺术作品、机器人艺术、表演、影像、思辨设计、研究原型与理论，以**机器现象学**为线索：机器如何感知、行动、“感受”、照护、失败与死去，我们又如何与机器共处、为机器劳动、借机器哀悼、被机器分类。只用 AI 生成图像的作品不收录。由 [Reality Design Lab](https://reality.design) 整理，是 [More than Human Inspire](https://more-than-human.reality.design) 与 [Reality Design Inspire](https://inspire.reality.design) 的姊妹站。
 
 - **总览**：十个领域及其子类、十二种视角与各个合集。
+- **最近更新**：每次内容更新新增的作品，最新的排在最前。
 - **十个领域页**：机器感知；机器身体与行为；机器的内在；亲密、照护与陪伴；记忆、死亡与数字来世；劳动与基础设施；分类、权力与正义；人机共演与混成身体；思辨与批判设计；理论与奠基。
 - **全部作品**：按领域、机器、视角、类型、合集和年代筛选，支持全文搜索。
 - **合集**：标志性展览、奖项与档案库。

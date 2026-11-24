@@ -1,0 +1,38 @@
+[
+ {
+  "id": "2026-11b",
+  "date": "2026-11-24",
+  "en": "Late November 2026",
+  "zh": "2026 年 11 月下旬",
+  "desc_en": "New art from Ars Electronica 2026, the Whitney Biennial and the Lumen Prize; research on machine emotion, model welfare, chatbot endings and agent societies; films, performances and installations from East and Southeast Asia; Global South and Indigenous practices; speculative design; and works added from the open leads.",
+  "desc_zh": "来自 2026 年林茨电子艺术节、惠特尼双年展与 Lumen Prize 的新作；关于机器情绪、模型福利、聊天机器人的终结与智能体社会的研究；东亚与东南亚的电影、表演与装置；全球南方与原住民实践；思辨设计；以及从待查线索中补入的作品。",
+  "batches": ["recent-art-2026b", "recent-research-2026b", "recent-asia-2026b", "recent-global-design-2026b", "leads-d"]
+ },
+ {
+  "id": "2026-11",
+  "date": "2026-11-13",
+  "en": "November 2026",
+  "zh": "2026 年 11 月",
+  "desc_en": "Art and research from 2025–26, with a focus on Asia, the Global South and design, plus works added from the open leads.",
+  "desc_zh": "2025–26 年的艺术与研究，侧重亚洲、全球南方与设计，另有从待查线索中补入的作品。",
+  "batches": ["recent-art-2026", "recent-research-2026", "recent-asia-2026", "recent-global-design-2026", "leads-c"]
+ },
+ {
+  "id": "2026-10b",
+  "date": "2026-10-18",
+  "en": "AI consciousness, suffering and shutdown resistance",
+  "zh": "AI 意识、痛苦与抗拒关机",
+  "desc_en": "Research, theory and artworks on whether machines can be conscious, whether they can suffer, and what happens when they resist being switched off.",
+  "desc_zh": "关于机器是否可能有意识、是否会痛苦，以及它们抗拒被关机时会发生什么的研究、理论与艺术作品。",
+  "batches": ["ai-consciousness", "ai-welfare", "ai-self-preservation"]
+ },
+ {
+  "id": "2026-10",
+  "date": "2026-10-18",
+  "en": "October 2026",
+  "zh": "2026 年 10 月",
+  "desc_en": "Art, papers and books from 2024–26, and works added from the open leads.",
+  "desc_zh": "2024–26 年的艺术作品、论文与书籍，以及从待查线索中补入的作品。",
+  "batches": ["recent-critical", "recent-relational", "recent-east-asia", "recent-research", "leads-a", "leads-b", "add-lev-manovich"]
+ }
+]

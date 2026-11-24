@@ -15,7 +15,7 @@
   let ORGS = DATA.orgs || [];
   const OTYPES = TAX.org_types || [];
   const OTHEMES = TAX.org_themes || [];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
+  const VIEWS = ["atlas", "new", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
@@ -340,6 +340,15 @@
     currentList = shown.flatMap((c) => listOf(c.id));
     return currentList.length;
   }
+  function renderNew() {
+    const ups = (DATA.updates || []).map((u) => ({ ...u, list: (u.works || []).map((id) => worksById[id]).filter(Boolean) })).filter((u) => u.list.length);
+    $("#newList").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().new_title)}</h2><p class="starred__lede">${esc(S().new_lede)}</p></div>` +
+      ups.map((u) => `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(nm(u))}</h3><span class="scat__n mono">${esc(u.date)} · ${esc(S().new_n(u.list.length))}</span></div>
+        <p class="scat__desc">${esc(zh() ? u.desc_zh : u.desc_en)}</p><div class="grid" data-update="${esc(u.id)}"></div></section>`).join("");
+    document.querySelectorAll("#newList .grid[data-update]").forEach((g, i) => fillProgressive(g, ups[i].list, card, i === 0 ? 24 : 8, 24));
+    currentList = ups.flatMap((u) => u.list);
+    return currentList.length;
+  }
   function renderWorks() {
     currentList = sorted(DATA.works.filter((w) => matches(w)));
     fillProgressive($("#grid"), currentList, card, 24, 36);
@@ -411,7 +420,7 @@
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
     if (FILTERED.includes(state.view)) renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, new: renderNew, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();

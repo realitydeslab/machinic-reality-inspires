@@ -85,6 +85,12 @@ A work joins by listing the id in its `collections`, or by adding its work id to
 (a JSON list of work ids — use this for works that already exist in another batch). Awards are collections, never creators.
 New collections: do not edit taxonomy.json concurrently — define them in `data/collections/defs/<your-batch>.json` (a JSON list of collection objects); the build merges them.
 
+## Updates (`data/updates.json`)
+The **What's New** tab lists content updates, newest first, each with the works of the batches it added:
+`{ "id": "2026-11b", "date": "2026-11-24", "en": "Late November 2026", "zh": "2026 年 11 月下旬", "desc_en": "…", "desc_zh": "…", "batches": ["recent-art-2026b", "leads-d"] }`.
+A research update adds one record naming its new batch files; a single `/add-work` batch can be appended to the latest record's `batches`.
+The build warns when a listed batch has no works.
+
 ## Chinese titles (`data/title_zh/<name>.json`)
 `{ "<work-id>": {"zh": "蜻蜓之眼", "src": "original|established|translated|keep"} }` — shown as the main title in the Chinese
 interface, with the original title below. Priority: the work's own Chinese title → an established Chinese title (film release,
